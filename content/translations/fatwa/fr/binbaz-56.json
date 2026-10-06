@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-56",
+ "source_content_sha256": "sha256:0f10ec2e8f29b1cd1f498129ecf16fb1166d1ab101a6682fd15eb3882fe9c49d",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:20:40.189844+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 814,
+  "completion_tokens": 720,
+  "total_tokens": 1534,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 558
+ },
+ "latency_ms": 6232,
+ "units": [
+  {
+   "id": "title",
+   "text": "La preuve de la parole du Tawhid"
+  },
+  {
+   "id": "q0",
+   "text": "Q : Quant à la parole du questionneur : « Vous appelez au Tawhid, quelle est votre preuve concernant la parole du Tawhid ? D'où est-elle tirée ? »"
+  },
+  {
+   "id": "a0",
+   "text": "R : La réponse est qu'il existe de nombreuses preuves tirées du Livre d'Allah, Puissant et Majestueux, et de la Sunna de Son Messager ﷺ.\nLe Tawhid signifie : unifier Allah, c'est-à-dire croire qu'Il est Un, sans associé. Parmi les versets qui indiquent cela, il y a la parole d'Allah, Glorifié soit-Il : ⟦Q1⟧ [Adh-Dhariyat : 56] et Sa parole : ⟦Q2⟧ [Al-Anbiya : 25]. Les versets dans ce sens sont nombreux.\nQuant aux hadiths, on compte parmi eux ce qui est authentifié dans le Sahih d'Al-Boukhari d'après Ibn 'Abbas, qu'Allah Très-Haut soit satisfait d'eux deux, que le Prophète ﷺ a dit à Mou'adh, qu'Allah soit satisfait de lui, lorsqu'il l'a envoyé au Yémen : « Appelle-les à unifier Allah », avec cette formulation, rapporté par Al-Boukhari dans le Sahih. Et dans le Sahih de Mouslim, d'après Tariq ibn Ouchaym al-Ashja'i, qu'Allah soit satisfait de lui, d'après le Prophète ﷺ, qui a dit : « Quiconque unifie Allah et mécroit en ce qui est adoré en dehors d'Allah, son sang et ses biens deviennent sacrés, et son compte revient à Allah. » Il a dit explicitement : « unifie Allah ». Cela indique donc que c'est là le sens de « Lâ ilâha illa Allah ».\nParmi cela, il y a ce qui est authentifié dans le Sahih de Mouslim d'après Ibn 'Omar, qu'Allah soit satisfait d'eux deux, que le Prophète ﷺ a dit : « L'Islam est bâti sur cinq (piliers), sur le fait d'unifier Allah... », le hadith, et ceci est l'explication de sa parole ﷺ dans l'autre version : « L'Islam est bâti sur cinq : le témoignage qu'il n'y a de dieu qu'Allah et que Mouhammad est le Messager d'Allah... », le hadith. Les hadiths dans ce sens sont nombreux. Et Allah est Celui qui accorde la réussite⟦N3⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "(Majmou' Fatâwâ wa Maqâlât du cheikh Ibn Baz 3/140)"
+  }
+ ]
+}

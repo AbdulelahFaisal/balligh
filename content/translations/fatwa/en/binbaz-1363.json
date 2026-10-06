@@ -1,0 +1,68 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1363",
+ "source_content_sha256": "sha256:f6f58ed065c43adeb2352772417425e6574d1a530e7763fc34d4d8bc95feace1",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:56:39.609347+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1370,
+  "completion_tokens": 1029,
+  "total_tokens": 2399,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 1114
+ },
+ "latency_ms": 7362,
+ "units": [
+  {
+   "id": "title",
+   "text": "Ruling on obeying the father if he commands his son not to visit one of his relatives"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "My father commands me not to keep ties with my maternal uncle because there is a misunderstanding between them over a worldly matter. He says: 'If you visit your maternal uncle, I will expel you from my house, or else I will forsake you as I have forsaken him.' What should I do?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "If your father commands you to forsake your maternal uncle, or your paternal uncle, or the like without right, but only because of a misunderstanding between your father and your maternal uncle, or his brother, or the like over worldly matters and disputes, then you are not to obey your father, because that is disobedience. Obedience is only in what is right; there is no obedience to a creature in disobedience to the Creator."
+  },
+  {
+   "id": "a2",
+   "text": "Your father, too, must fear Allah and not forsake him for more than three days. The Prophet ﷺ forbade forsaking for more than three days in worldly matters. It is not lawful for a Muslim to forsake his brother for more than three days: they meet, and this one turns away and that one turns away. The better of them is the one who initiates the greeting. He said: 'There is no forsaking beyond three days.'"
+  },
+  {
+   "id": "a3",
+   "text": "The point is that forsaking due to enmity, hatred, and disputes is never permissible. However, it is allowed for three days. Forsaking in a dispute is allowed for three days or less. If there is a dispute between you and someone, and his character turns bad towards you and something happens in the heart, there is no harm in forsaking him for three days, as a mercy from Allah, because souls have their share of consideration, gentleness, and kindness. Forsaking for three days is enough to lessen the intensity and remove the severity. Once three days have passed, the better of them is the one who initiates the greeting."
+  },
+  {
+   "id": "a4",
+   "text": "And you, O son, if your father insists, then you may keep ties with your maternal uncle and paternal uncle, even secretly. Keep ties, be good to them, and visit them, even secretly, so that the situation between you and your father does not worsen. Do not obey him in disobedience, but treat him in the best way. Strive to make your ties and kindness to your maternal uncle, paternal uncle, and the like in a way that he does not notice, if you fear that greater evil may occur."
+  },
+  {
+   "id": "a5",
+   "text": "But if you are able to calm the situation and advise your father, saying to him: 'This is not permissible, and you should be gentle with your brother or your maternal uncle,' in short, advise him, perhaps he will be guided to reconcile with your maternal uncle or paternal uncle and this estrangement between them will cease."
+  },
+  {
+   "id": "a6",
+   "text": "However, if the forsaking is for the sake of religion, because the person openly commits sins and innovations, then he is to be forsaken until he repents, even if for a year or two years or more: he is forsaken until he repents. The Prophet ﷺ forsook three who stayed behind from the expedition without excuse. The Prophet ﷺ forsook them for fifty nights until Allah accepted their repentance, and they repented and showed their repentance. He made it clear to the people that Allah had accepted their repentance, so the people spoke to them after that."
+  },
+  {
+   "id": "a7",
+   "text": "In summary: if forsaking is for the sake of Allah because of open sins or innovations, then it has no limit except repentance. If they turn away from their open sins and innovations, then the Muslims greet them. But if they persist in innovations and sins, then it is prescribed to forsake them, perhaps they will repent, perhaps they will return. And if forsaking them may harm the Muslims and cause more problems, then they are not forsaken; rather they are advised and directed, if forsaking them harms the community or leads to corruption or a greater evil. Forsaking them in this case is a matter of ijtihad (juristic discretion) and consideration."
+  }
+ ]
+}

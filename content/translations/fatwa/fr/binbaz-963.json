@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-963",
+ "source_content_sha256": "sha256:0233da9a94e823e76bc99955f584390d6ebb4403b5b4cf8dedc6e66a18dedf3b",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:26:22.653339+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 728,
+  "completion_tokens": 601,
+  "total_tokens": 1329,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 472
+ },
+ "latency_ms": 5113,
+ "units": [
+  {
+   "id": "title",
+   "text": "Le fait d'ordonner le bien et d'interdire le mal est-il un pilier de l'islam ?"
+  },
+  {
+   "id": "q0",
+   "text": "Q : J'ai entendu que certains savants considèrent le fait d'ordonner le bien et d'interdire le mal comme un pilier de l'islam. Est-ce exact ?"
+  },
+  {
+   "id": "a0",
+   "text": "R : Oui, certains gens de science l'ont affirmé, mais il n'y a pas de texte clair à ce sujet. C'est plutôt l'une des plus grandes obligations de l'islam.\nLes piliers de l'islam que le Messager d'Allah ﷺ a explicités sont au nombre de cinq. Il a dit, que la paix et la bénédiction soient sur lui : « L'islam est bâti sur cinq choses : l'attestation qu'il n'y a de divinité digne d'adoration qu'Allah et que Muhammad est le Messager d'Allah, l'accomplissement de la prière, l'acquittement de la zakah (aumône obligatoire), le jeûne de Ramadan et le pèlerinage à la Maison. » [Rapporté à l'unanimité.]\nC'est ainsi que le Prophète ﷺ a exposé les piliers de l'islam et ses fondements. On ne peut donc y ajouter quoi que ce soit sans une preuve authentique. Cependant, le fait d'ordonner le bien et d'interdire le mal est un pilier parmi les piliers et une obligation parmi les obligations, mais on ne dit pas que c'est un sixième pilier, faute de preuve à cet égard.\nDe même, le jihad dans le sentier d'Allah est un pilier parmi les piliers... De même, le fait de délaisser les interdits qu'Allah a prohibés à Ses serviteurs est un pilier indispensable, et on ne dit pas que ce sont deux piliers de l'islam, faute de preuve à cet égard.\nTout en sachant qu'il nous incombe de nous conformer à tout ce qu'Allah a rendu obligatoire et de délaisser tout ce qu'Allah a interdit⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "(Majmû' Fatâwâ wa Maqâlât du Cheikh Ibn Bâz 5/74)."
+  }
+ ]
+}

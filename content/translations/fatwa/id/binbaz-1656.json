@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1656",
+ "source_content_sha256": "sha256:9d9b89cbcb6d72251cd30e65dc904e9b7fd35d706486bce97aca2c49cfd9f76d",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:02:37.332725+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 816,
+  "completion_tokens": 617,
+  "total_tokens": 1433,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 560
+ },
+ "latency_ms": 6233,
+ "units": [
+  {
+   "id": "title",
+   "text": "Perbedaan Makna Iman, Tauhid, dan Akidah"
+  },
+  {
+   "id": "q0",
+   "text": "Tanya: Iman, tauhid, dan akidah adalah nama-nama untuk hal-hal yang dimaksud. Apakah makna-maknanya berbeda?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawab: Ya, ada sedikit perbedaan, tetapi semuanya kembali kepada satu hal. Tauhid adalah mengesakan Allah dalam ibadah. Iman adalah keyakinan bahwa hanya Allah yang berhak disembah, serta beriman kepada segala yang Dia kabarkan. Maka iman lebih luas daripada kata tauhid. Tauhid berasal dari kata wahhada-yuwahhidu yang berarti mengesakan Allah dalam ibadah dan mengkhususkannya bagi-Nya, karena ia beriman bahwa Allah sajalah yang berhak disembah, sebab Dialah Yang Maha Menciptakan, Maha Memberi rezeki, Maha Sempurna dalam nama-nama, sifat-sifat, dan perbuatan-perbuatan-Nya, serta Maha Mengatur dan Mengendalikan segala urusan. Jadi, tauhid adalah mengesakan Allah dalam ibadah dan meniadakan ibadah dari selain-Nya. Sedangkan iman lebih luas dari itu, mencakup tauhid kepada-Nya, ikhlas kepada-Nya, membenarkan segala yang dikabarkan oleh Rasul-Nya, shalawat dan salam atas beliau, serta mencakup akidah. Akidah mencakup keduanya. Akidah mencakup tauhid, iman kepada Allah, iman kepada segala yang dikabarkan oleh Allah Subhanahu atau yang dikabarkan oleh Rasul-Nya ﷺ, serta iman kepada nama-nama dan sifat-sifat-Nya.\nAkidah adalah apa yang diyakini oleh seseorang dengan hatinya dan dijadikannya sebagai keyakinan yang dengannya ia beragama kepada Allah dan beribadah kepada-Nya. Maka termasuk di dalamnya segala yang ia yakini, seperti tauhid kepada Allah, iman bahwa Dialah Yang Maha Menciptakan dan Maha Memberi rezeki, bahwa bagi-Nya nama-nama terbaik dan sifat-sifat tertinggi, iman bahwa tidak ada yang layak disembah selain Dia, iman bahwa Dia mengharamkan ini, mewajibkan itu, mensyariatkan ini, dan melarang itu. Maka akidah lebih luas⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu' Fatawa wa Maqalat Syaikh Ibnu Baz (6/277)."
+  }
+ ]
+}

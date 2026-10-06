@@ -1,0 +1,60 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2778",
+ "source_content_sha256": "sha256:7b2a59c3f3411d07503bfac265928b102f9e625886cb4be0bd62dda54a72a462",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:13:43.984873+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 898,
+  "completion_tokens": 719,
+  "total_tokens": 1617,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 642
+ },
+ "latency_ms": 6901,
+ "units": [
+  {
+   "id": "title",
+   "text": "Hukum meninggalkan shalat disertai pengakuannya"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Orang yang meninggalkan shalat dengan sengaja, tetapi ia mengakuinya?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Meninggalkan shalat dengan sengaja, disertai pengakuan dan keimanan terhadapnya, terdapat dua pendapat di kalangan ulama:"
+  },
+  {
+   "id": "a2",
+   "text": "Pertama: bahwa ia kafir dengan kekufuran besar dan murtad dari Islam, karena ia meremehkannya, padahal shalat adalah tiang agama. Pendapat ini lebih kuat berdasarkan banyak dalil, di antaranya:"
+  },
+  {
+   "id": "a3",
+   "text": "Sabda Nabi ﷺ: \"Pokok segala urusan adalah Islam, dan tiangnya adalah shalat.\" Dan di antaranya apa yang terdapat dalam Al-Qur'an Al-Karim tentang pujian Allah kepada orang-orang yang mendirikan shalat, perintah-Nya kepada mereka untuk mendirikan shalat, dan firman-Nya tentang orang-orang kafir ketika ditanya: ⟦Q1⟧ [Al-Muddatstsir: 42-43]. Maka mereka menyebutkan bahwa di antara sebab masuknya mereka ke neraka dan dimasukkannya mereka ke dalamnya adalah karena mereka tidak termasuk orang-orang yang shalat. Di antaranya juga sabda Nabi ﷺ: \"Perjanjian antara kami dan mereka adalah shalat; barangsiapa meninggalkannya, maka ia telah kafir.\" Dan sabda Nabi ﷺ: \"Antara seseorang dengan kekafiran dan kesyirikan adalah meninggalkan shalat.\" Dan dalil-dalil lainnya."
+  },
+  {
+   "id": "a4",
+   "text": "Ulama lain berkata: bahwa ia kafir dengan kekufuran kecil, bukan besar, karena dalil-dalil tauhid menunjukkan bahwa meninggalkan shalat adalah kebinasaan dan kemurtadan dari Islam. Mereka menyebutkan hal-hal senada yang menunjukkan keyakinan mereka bahwa kekafirannya adalah kekufuran kecil, bukan besar, dan bahwa jika ia meyakini wajibnya shalat atas dirinya dan bahwa ia adalah fardhu, tetapi ia meremehkannya, maka kekafirannya adalah kekufuran kecil, ia menjadi fasik, dan kefasikannya lebih besar daripada pezina dan pencuri, tetapi tidak menjadi kekufuran besar. Mereka berkata: dengan demikian ia tetap dishalatkan dan dikuburkan bersama kaum muslimin. Ini adalah pendapat sekelompok ulama."
+  },
+  {
+   "id": "a5",
+   "text": "Pendapat pertama lebih jelas dalilnya dan lebih kuat argumennya, yaitu bahwa ia kafir besar – kita berlindung kepada Allah dari hal itu –."
+  }
+ ]
+}

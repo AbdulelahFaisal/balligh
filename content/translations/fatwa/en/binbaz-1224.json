@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1224",
+ "source_content_sha256": "sha256:223320dbc6edaf51255a6efe3f3de6565f87b599e9b71ace455ac58b4434eff0",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:52:57.909486+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 559,
+  "completion_tokens": 288,
+  "total_tokens": 847,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 303
+ },
+ "latency_ms": 2289,
+ "units": [
+  {
+   "id": "title",
+   "text": "How to Make Up for One Who Caught a Rak'ah in an Audible Prayer"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "A man caught one rak'ah with the imam. Should he recite aloud when he completes [the prayer]?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "If the prayer is audible, and he caught only one [rak'ah], then it is the beginning of his prayer. So when he stands to make up [the missed rak'ahs], he recites aloud in the second [rak'ah] with a recitation that does not disturb those around him, then recites quietly in the third and fourth. That is because what he caught with the imam is the beginning of his prayer, according to the correct view, and what he makes up is the end of it. So he recites aloud in the second [rak'ah] that he makes up, for example in the 'Isha' or Maghrib prayer, then completes quietly in the remainder."
+  }
+ ]
+}

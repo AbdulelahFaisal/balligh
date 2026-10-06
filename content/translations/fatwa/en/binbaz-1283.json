@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1283",
+ "source_content_sha256": "sha256:11ea6d5325b9e44e40c6af23794cf591b38bad3e1f2ab281fd4fccd95c808c64",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:55:14.406229+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 627,
+  "completion_tokens": 289,
+  "total_tokens": 916,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 371
+ },
+ "latency_ms": 2828,
+ "units": [
+  {
+   "id": "title",
+   "text": "Spending on the children after their mother's divorce"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "The woman does not love her husband, and he is likewise as she says. She asks whether the Shariah obligates the husband to spend on her and on her two children from him after divorce with an independent house, or not?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "If they separate, they must come to an agreement regarding the children's maintenance. Their situation should be examined in the court; they should reach an agreement with her guardian regarding the required monthly maintenance, and praise be to Allah. If they dispute, they should refer to the court; the court will examine and determine the necessary maintenance. However, the preferable course is reconciliation; reconciliation is preferable to the court. They should agree on a suitable maintenance that he spends on his children if he divorces her and she has children. That is preferable. If they dispute, then they should refer to the court; there is no alternative but for the court to examine this."
+  }
+ ]
+}

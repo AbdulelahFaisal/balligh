@@ -1,0 +1,52 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3366",
+ "source_content_sha256": "sha256:330768f694a9fc6d30380ebf3939801485de64b7d1ed80935c29c5d49d7829b6",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:15:12.727391+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 913,
+  "completion_tokens": 776,
+  "total_tokens": 1689,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 657
+ },
+ "latency_ms": 6267,
+ "units": [
+  {
+   "id": "title",
+   "text": "La réalité du fondement de la foi et la différence des gens à son sujet"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Le fondement de la foi est-il le même chez tous les croyants, ou diffère-t-il d'une personne à l'autre ? Nous souhaitons que vous l'exposiez en raison de son importance."
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Le fondement de la foi est unique : c'est la croyance en Allah, en Ses messagers, en Ses anges, en Ses livres, au Jour dernier et en tout ce dont Allah et Son messager ont informé. Mais elle varie. La foi de Muhammad ﷺ, d'Abû Bakr, de 'Umar, de 'Uthmân et du reste des Compagnons n'est pas comme celle de ceux qui sont venus après eux. Elle diffère en force, en perfection, en plénitude et en influence. Mais son fondement est la croyance en Allah, en Ses anges, en Ses livres, en Son messager, au Jour dernier, au destin, qu'il soit bon ou mauvais, et la croyance en tout ce qu'Allah et Son messager ont légiféré, et la croyance en tout ce dont Allah et Son messager ont informé au sujet de l'au-delà, du Paradis, de l'Enfer et d'autres choses."
+  },
+  {
+   "id": "a2",
+   "text": "Cependant, par la science, l'effort, la compréhension de la religion, le zèle pour Allah et la crainte d'Allah, cette foi augmente et se renforce jusqu'à ce que le serviteur accomplisse les obligations et s'abstienne des interdits. Et par l'ignorance, le détournement, la fréquentation des mauvaises gens et le suivi des passions, cette foi s'affaiblit. C'est pourquoi les savants ont dit : la foi augmente et diminue ; elle augmente par les obéissances et diminue par les péchés. La foi est parole de la langue, œuvre des membres et œuvre du cœur avec conviction."
+  },
+  {
+   "id": "a3",
+   "text": "Celui qu'Allah a assisté en lui accordant la science utile, la clairvoyance pénétrante, la crainte d'Allah et Sa révérence, la fréquentation des gens de bien et le fait de suivre la voie des gens de bien, sa foi se renforce, s'élève et se parfait. Quant à celui qui est dans le cas contraire, à cause de son ignorance, ou de son suivi des passions, ou de sa fréquentation des mauvaises gens, ou autre chose, ce sont là des causes qui affaiblissent la foi. Elle peut s'affaiblir beaucoup au point de disparaître complètement et qu'il apostasie sa religion – nous demandons à Allah la préservation. Elle peut aussi s'affaiblir moins que cela par les causes des péchés. C'est pourquoi les savants ont dit : elle augmente par l'obéissance et diminue par les péchés."
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1587",
+ "source_content_sha256": "sha256:3841c343d16bc6258820ebe89572d5839aaecd69c2a59016040e0022f889a878",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:59:13.240398+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 795,
+  "completion_tokens": 457,
+  "total_tokens": 1252,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 539
+ },
+ "latency_ms": 4351,
+ "units": [
+  {
+   "id": "title",
+   "text": "Ruling on Obeying Parents in Not Performing Umrah"
+  },
+  {
+   "id": "q0",
+   "text": "Q: If my parents order me to leave good companions and righteous friends and not to travel with them to perform Umrah, knowing that I am on the path to commitment, must I obey them in this case?"
+  },
+  {
+   "id": "a0",
+   "text": "A: You are not obligated to obey them in disobedience to Allah, nor in what is harmful, because the Prophet ﷺ said: “Obedience is only in what is right and proper,” and he ﷺ said: “There is no obedience to a created being in disobedience to the Creator.” So the one who forbids you from the company of the righteous — do not obey him, neither parents nor anyone else. And do not obey anyone in keeping company with the wicked either. However, address your parents with kind words and in the best manner, such as saying: “O my father, such and such, and O my mother, such and such — these are good people, and I benefit from them and profit by them, and my heart softens with them, and I learn knowledge and benefit.” So respond to them with kind speech and good style, not with harshness or severity. And if they forbid you, do not tell them that you are following the righteous and contacting them, and do not tell them that you went with those people if they would not approve of that.\nBut you must not obey them except in obedience and what is right. And if they command you to keep company with the wicked, or command you to smoke, drink alcohol, commit adultery, or other sins, then do not obey them or anyone else in that, due to the two hadiths mentioned above. And with Allah is success.⟦N1⟧"
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu' Fatawa wa Maqalat al-Shaykh Ibn Baz (6/161)."
+  }
+ ]
+}

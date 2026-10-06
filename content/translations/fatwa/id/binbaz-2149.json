@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2149",
+ "source_content_sha256": "sha256:290db782e0e10e6101468287fd6f5185bba283d9b02c4cfebde543829b453d68",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:09:25.953714+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 613,
+  "completion_tokens": 326,
+  "total_tokens": 939,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 357
+ },
+ "latency_ms": 3925,
+ "units": [
+  {
+   "id": "title",
+   "text": "Sebab-sebab yang membantu untuk bangun shalat Subuh"
+  },
+  {
+   "id": "q0",
+   "text": "T: Apa sebab-sebab yang membantu seorang Muslim untuk bangun shalat Subuh? Perlu diketahui bahwa dia tidur lebih awal tetapi dia tidak bangun kecuali setelah matahari terbit."
+  },
+  {
+   "id": "a0",
+   "text": "J: Wajib atas setiap Muslim untuk bertakwa kepada Allah, dan shalat lima waktu pada waktunya di masjid-masjid bersama jamaah Muslimin, dan bersemangat melakukan semua sebab yang membantu untuk itu. Di antara sebab yang membantu untuk shalat Subuh berjamaah: tidur lebih awal, menyetel jam weker pada waktu yang tepat agar bangun untuk shalat pada waktunya, menghadiri shalat bersama jamaah, bersungguh-sungguh memohon taufik dan pertolongan kepada Allah, dan membaca wirid-wirid yang disyariatkan ketika tidur. Dengan demikian Allah akan memberinya taufik, insya Allah, untuk bangun pada waktu shalat dan menunaikannya bersama jamaah⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu' Fatawa wa Maqalat Syaikh Ibnu Baz (8/276)"
+  }
+ ]
+}

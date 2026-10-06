@@ -1,0 +1,52 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1375",
+ "source_content_sha256": "sha256:658afdca91c0e60c74f84d4ea279b0288536c38bb25c0dc8392649df5c79f12e",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:57:13.574443+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 773,
+  "completion_tokens": 520,
+  "total_tokens": 1293,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 517
+ },
+ "latency_ms": 4154,
+ "units": [
+  {
+   "id": "title",
+   "text": "The ruling on reciting Al-Fatihah in the silent and audible prayers"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "What is the ruling on reciting Al-Fatihah in the silent prayer and the audible prayer, mentioning the preponderant view according to you?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer: "
+  },
+  {
+   "id": "a1",
+   "text": "Reciting Al-Fatihah is obligatory upon the imam and the one praying alone. The Prophet (peace and blessings be upon him) said: \"There is no prayer for the one who does not recite the Opening of the Book.\" And he (peace and blessings be upon him) said: \"Whoever performs a prayer in which he does not recite the Opening of the Book, it is defective, it is defective, incomplete.\" This is the view of the majority of scholars: it is obligatory upon the imam and the one praying alone."
+  },
+  {
+   "id": "a2",
+   "text": "However, they differed regarding the one praying behind an imam: is it obligatory upon him or not? There are three opinions. Some say: it is obligatory upon the follower in the silent prayer but not in the audible prayer. Others say: it is obligatory upon him absolutely, in both silent and audible prayers. And others say: it is not obligatory, neither in the silent nor in the audible prayer. These are three opinions; the strongest of them, as appears from the hadiths, is that it is obligatory absolutely. This is the most apparent."
+  },
+  {
+   "id": "a3",
+   "text": "The follower should not abandon it, just as the imam and the one praying alone should not abandon it. Rather, the follower recites it, even while the imam is reciting; he recites it silently to himself, then listens. In Zuhr, 'Asr, Maghrib, 'Isha', and Fajr, in the silent prayer it is clear, and in the audible prayer he recites it after the opening takbir, after Al-Fatihah, as is easy for him along with the imam."
+  }
+ ]
+}

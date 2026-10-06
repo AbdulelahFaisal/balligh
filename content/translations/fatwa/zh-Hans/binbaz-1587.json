@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1587",
+ "source_content_sha256": "sha256:3841c343d16bc6258820ebe89572d5839aaecd69c2a59016040e0022f889a878",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:59:17.945781+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 798,
+  "completion_tokens": 401,
+  "total_tokens": 1199,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 542
+ },
+ "latency_ms": 4471,
+ "units": [
+  {
+   "id": "title",
+   "text": "关于父母命令放弃副朝（Umrah）的教法判定"
+  },
+  {
+   "id": "q0",
+   "text": "问：如果父母命令我离开善良的朋友和优秀的同事，不要与他们一起旅行去完成副朝，尽管我正在走向虔诚的道路上。在这种情况下，我必须服从他们吗？"
+  },
+  {
+   "id": "a0",
+   "text": "答：在违抗真主的事情上，你不可服从他们，也不可服从任何有害之事。因为先知ﷺ说：“服从只在于善行。”又说：“对于违抗造物主之事，不可服从任何被造物。”因此，谁禁止你与善良之人为伴，你不要服从他，无论是父母还是其他人。同样，你也不可服从任何人与恶人为伴。但是你要用温和的言语和最好的方式对待你的父母，比如你说：“父亲啊，如此如此，母亲啊，如此如此，这些人是善良的，我能从他们身上获益，我的心会因他们而柔软，我能学到知识并受益。”你要用温和的言语和良好的方式回应他们，而不是粗暴和严厉。如果他们禁止你，你不要告诉他们你跟随善良之人并与他们联系，也不要告诉他们你和那些人一起去了，如果他们不乐意的话。\n但你要注意，除了在善行和顺从真主之事上，你不可服从他们。如果他们命令你与恶人为伴，或命令你吸烟、饮酒、通奸或其他罪恶，你不可服从他们，也不可服从其他任何人，因为上述两段圣训。成功唯凭真主。⟦N1⟧"
+  },
+  {
+   "id": "n0.0",
+   "text": "《伊本·巴兹谢赫法特瓦与文章全集》（6/161）。"
+  }
+ ]
+}

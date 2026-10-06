@@ -1,0 +1,60 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-52",
+ "source_content_sha256": "sha256:088565861bd88501ccc22bcac10aa975b31c4ef168294b24e4b1f01a3e42c7bc",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:20:10.899178+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 974,
+  "completion_tokens": 864,
+  "total_tokens": 1838,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 718
+ },
+ "latency_ms": 7569,
+ "units": [
+  {
+   "id": "title",
+   "text": "Syarat-syarat Mengucapkan Laa Ilaaha Illallah"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan: Apa saja syarat-syarat mengucapkan Laa ilaaha illallah? Apakah cukup hanya mengucapkannya saja tanpa memahami maknanya dan konsekuensi-konsekuensinya?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban: \"Laa ilaaha illallah\" adalah kalimat yang paling utama, dan merupakan pokok agama serta fondasi millah (ajaran), yang dengannya para rasul -shalawat dan salam atas mereka- memulai dakwah kepada kaum mereka. Maka, hal pertama yang disampaikan Rasulullah kepada kaumnya adalah seruan: \"Ucapkanlah: Laa ilaaha illallah, niscaya kalian beruntung.\" Allah Ta'ala berfirman: ⟦Q1⟧ [Al-Anbiya: 25]. Dan setiap rasul berkata kepada kaumnya: ⟦Q2⟧ [Al-A'raf: 59]. Maka ia adalah fondasi agama dan millah. Siapa yang mengucapkannya harus mengetahui maknanya, karena ia berarti: tidak ada sesembahan yang benar selain Allah. Kalimat ini memiliki syarat-syarat: mengetahui maknanya, meyakini kebenarannya tanpa keraguan, mengikhlaskan diri kepada Allah semata dalam hal itu, jujur dengan hati dan lisannya, mencintai apa yang ditunjukkannya berupa keikhlasan kepada Allah, menerimanya, tunduk kepadanya, mentauhidkan-Nya, menolak syirik kepada-Nya dengan berlepas diri dari ibadah kepada selain-Nya dan meyakini kebatilannya. Semua ini termasuk syarat-syarat mengucapkan Laa ilaaha illallah dan keabsahan maknanya. Seorang mukmin dan mukminah mengucapkannya dengan berlepas diri dari ibadah kepada selain Allah, tunduk dan menerima kebenaran, mencintai Allah dan mentauhidkan-Nya, ikhlas kepada-Nya, dan tanpa keraguan dalam maknanya. Sebab sebagian orang mengucapkannya namun tidak beriman kepadanya, seperti orang-orang munafik yang mengucapkannya tetapi memiliki keraguan atau mendustakan. Maka harus ada ilmu, keyakinan, kejujuran, keikhlasan, kecintaan, ketundukan, penerimaan, dan berlepas diri. Sebagian ulama mengumpulkan syarat-syaratnya dalam dua bait berikut:"
+  },
+  {
+   "id": "a1",
+   "text": "Ilmu, keyakinan, keikhlasan, dan kejujuranmu serta"
+  },
+  {
+   "id": "a2",
+   "text": "kecintaan, ketundukan, dan penerimaan terhadapnya"
+  },
+  {
+   "id": "a3",
+   "text": "Dan ditambahkan yang kedelapan: pengingkaranmu terhadap apa"
+  },
+  {
+   "id": "a4",
+   "text": "selain Tuhan dari segala sesuatu yang dipertuhankan"
+  },
+  {
+   "id": "a5",
+   "text": "Semoga shalawat dan salam tercurah kepada Nabi kita Muhammad, keluarga, dan para sahabatnya⟦N3⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Diterbitkan di Majalah Ad-Da'wah edisi 1018 hari Senin 29/3/1407 H. (Majmu' Fatawa wa Maqalat Syaikh Ibnu Baz 3/49)"
+  }
+ ]
+}

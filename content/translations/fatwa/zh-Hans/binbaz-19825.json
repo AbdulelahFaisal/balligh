@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-19825",
+ "source_content_sha256": "sha256:442867c81c529d438c355453ff7dce76d7411bd4e22502f89bacc2ca6a1b68f8",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:03:42.704761+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 745,
+  "completion_tokens": 462,
+  "total_tokens": 1207,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 489
+ },
+ "latency_ms": 4447,
+ "units": [
+  {
+   "id": "title",
+   "text": "关于不精通阿拉伯语语法的人诵读《古兰经》的教法判令"
+  },
+  {
+   "id": "q0",
+   "text": "问题："
+  },
+  {
+   "id": "q1",
+   "text": "我有一个亲戚喜欢诵读《古兰经》，但他不精通阿拉伯语语法和诵读规则，他该怎么办？"
+  },
+  {
+   "id": "a0",
+   "text": "回答："
+  },
+  {
+   "id": "a1",
+   "text": "他应努力诵读《古兰经》，认真思考，不要急于求成，并向比他更有知识的人诵读，以便他们教会他所不知道的，不要灰心，他将获得巨大的回赐，因为先知ﷺ说：“你们中最优秀的人是学习《古兰经》并教授它的人。”⟦N1⟧ 布哈里在其圣训实录中辑录。先知ﷺ还说：“熟练诵读《古兰经》的人与尊贵、善良的天使同在；诵读《古兰经》感到吃力且结结巴巴的人，将获得双倍的回赐。”⟦N2⟧ 布哈里和穆斯林共同辑录⟦N3⟧。"
+  },
+  {
+   "id": "n0.0",
+   "text": "布哈里辑录于《古兰经的尊贵》章，编号：4639，标题为“你们中最优秀的人是学习《古兰经》并教授它的人”。"
+  },
+  {
+   "id": "n1.0",
+   "text": "穆斯林辑录于《旅行者的礼拜及其缩短》章，编号：1329；伊本·马哲辑录于《礼节》章，编号：3769。"
+  },
+  {
+   "id": "n2.0",
+   "text": "发表于《宣教杂志》，第1520期，伊斯兰历1416年7月15日。（《谢赫伊本·巴兹教法判令与文章全集》24/357）。"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-994",
+ "source_content_sha256": "sha256:69822d7b48e2c8869868c9b7952213371d9d4b5960ba440857b940bc4fdee61b",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:26:46.570997+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1194,
+  "completion_tokens": 1192,
+  "total_tokens": 2386,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 938
+ },
+ "latency_ms": 10095,
+ "units": [
+  {
+   "id": "title",
+   "text": "Bagaimana cara menyambung silaturahmi? Dan apa batas pemutusan hubungan?"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Apa batas pemutusan silaturahmi? Maksud saya, berapa lama jika tidak mengunjungi mereka sehingga terhitung sebagai pemutusan silaturahmi?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Tidak ada batas waktu tertentu. Menyambung silaturahmi bisa dengan perkataan yang baik, membantu yang fakir di antara mereka, menjawab salam mereka, memulai salam kepada mereka, dan membantu mereka dalam kebaikan. Semua ini termasuk menyambung silaturahmi."
+  },
+  {
+   "id": "a2",
+   "text": "Pemutusan silaturahmi tidak memiliki batas waktu tertentu. Sikap tidak peduli yang dianggap menyimpang dari kebiasaan merupakan bentuk pemutusan, yaitu sikap tidak peduli tanpa alasan syar'i, tidak memberi nafkah kepada yang fakir di antara mereka, tidak berbuat baik kepadanya, tidak membantu yang terzalimi di antara mereka hingga ia mendapatkan keadilan, dan semacamnya, bisa dianggap sebagai pemutusan."
+  },
+  {
+   "id": "a3",
+   "text": "Jadi pemutusan adalah perkara yang bersifat 'urf (kebiasaan), dan penyambungan juga perkara 'urf. Apa yang dikenal di kalangan kaum muslimin sebagai penyambungan, kebaikan, komunikasi, salam, dan memberi kebaikan dianggap sebagai penyambungan. Dan apa yang dianggap di kalangan kaum muslimin sebagai sikap tidak peduli, dianggap sebagai pemutusan. Demikianlah."
+  },
+  {
+   "id": "a4",
+   "text": "Orang yang menyambung silaturahmi bukanlah yang membalas setimpal; karena sebagian orang jika kerabatnya menyambungnya maka ia menyambung mereka, jika tidak, ia tidak menyambung mereka. Ia berkata: 'Mereka tidak menyambungku, mereka tidak datang kepadaku, aku tidak akan menyambung mereka.' Ini keliru. Nabi ﷺ bersabda: 'Bukanlah penyambung silaturahmi itu yang membalas setimpal, tetapi penyambung silaturahmi adalah orang yang jika diputus silaturahminya maka ia menyambungnya.' Itulah penyambung silaturahmi."
+  },
+  {
+   "id": "a5",
+   "text": "Demikian pula sabda Nabi ﷺ ketika seorang laki-laki berkata kepada beliau: 'Wahai Rasulullah, sesungguhnya aku memiliki kerabat yang aku sambung tetapi mereka memutusku, aku bersabar terhadap mereka tetapi mereka berbuat bodoh kepadaku, aku berbuat baik kepada mereka tetapi mereka berbuat buruk kepadaku.' Beliau bersabda: 'Jika engkau benar seperti yang engkau katakan, maka seakan-akan engkau menaburkan abu panas ke mulut mereka, dan senantiasa Allah bersama engkau sebagai penolong melawan mereka selama engkau tetap seperti itu.' Maka Allah -Jalla wa 'Ala- akan menolongnya melawan mereka selama ia tetap dalam keadaan baiknya, dan dengan demikian ia adalah penyambung silaturahmi sedangkan mereka adalah pemutus."
+  },
+  {
+   "id": "a6",
+   "text": "Adapun jika mereka menyambungmu maka engkau menyambung mereka, dan jika mereka memutusmu maka engkau memutus mereka, tidak, itu bukan penyambungan. Bahkan orang asing sekalipun jika ia menyambungmu, engkau harus menyambungnya. Orang asing yang bukan kerabat jika ia menyambungmu dan berbuat baik kepadamu, engkau wajib membalas dan memberi setimpal. Namun silaturahmi kerabat memiliki hak yang lebih dari itu; engkau menyambung mereka meskipun mereka memutus, berbuat baik kepada mereka, menjawab salam mereka, memulai salam kepada mereka, mengundang mereka ke jamuan, dan memenuhi undangan mereka."
+  },
+  {
+   "id": "a7",
+   "text": "Dan jika mereka memutusmu karena ada kerenggangan antara engkau dan mereka, atau permusuhan, atau perselisihan, janganlah engkau memutus mereka. Tetapi engkau boleh menghindari mereka selama tiga hari ketika terjadi kerenggangan, perselisihan, dan pertengkaran karena urusan dunia. Engkau boleh menghindari mereka hanya tiga hari, tidak lebih dari itu; karena Nabi ﷺ bersabda: 'Tidak boleh mendiamkan lebih dari tiga hari.'"
+  },
+  {
+   "id": "a8",
+   "text": "Maka wajib baginya untuk menyambung setelah tiga hari, dan kembali kepada keadaan semula setelah tiga hari, dan tidak mendiamkan lebih dari tiga hari. Dan yang terbaik dari keduanya adalah yang memulai salam; sebaik-baik orang yang saling mendiamkan adalah yang memulai salam."
+  }
+ ]
+}

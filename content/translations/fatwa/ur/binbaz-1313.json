@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1313",
+ "source_content_sha256": "sha256:9edb5da12796e3f59e9274f61fc0bd1428b1b9045d7ab8bb2acc72b82e787731",
+ "locale": "ur",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:55:44.054851+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 456,
+  "completion_tokens": 228,
+  "total_tokens": 684,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 200
+ },
+ "latency_ms": 2320,
+ "units": [
+  {
+   "id": "title",
+   "text": "کیا عورتوں کو سلام کرنا جائز ہے؟"
+  },
+  {
+   "id": "q0",
+   "text": "سوال:"
+  },
+  {
+   "id": "q1",
+   "text": "اگر کوئی شخص کسی ایسی عورت کے پاس سے گزرے جسے وہ نہیں جانتا، تو کیا وہ اسے سلام کا جواب دے؟"
+  },
+  {
+   "id": "a0",
+   "text": "جواب:"
+  },
+  {
+   "id": "a1",
+   "text": "کوئی حرج نہیں، نبی ﷺ عورتوں کے پاس سے گزرے اور انہیں سلام کیا، آپ ﷺ عورتوں کی ایک جماعت کے پاس سے گزرے اور انہیں سلام کیا۔"
+  }
+ ]
+}

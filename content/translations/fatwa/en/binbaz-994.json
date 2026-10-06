@@ -1,0 +1,72 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-994",
+ "source_content_sha256": "sha256:69822d7b48e2c8869868c9b7952213371d9d4b5960ba440857b940bc4fdee61b",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:26:29.187294+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1194,
+  "completion_tokens": 1022,
+  "total_tokens": 2216,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 938
+ },
+ "latency_ms": 7239,
+ "units": [
+  {
+   "id": "title",
+   "text": "How is maintaining ties of kinship done? And what is the limit of severing ties?"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "What is the limit of severing ties of kinship? I mean, what is the period that if it passes without visiting them it would be considered severing ties of kinship?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "There is no fixed limit. Maintaining ties of kinship is through kind speech, comforting the poor among them, returning their greeting, initiating the greeting to them, and helping them in goodness. All of this is maintaining ties of kinship."
+  },
+  {
+   "id": "a2",
+   "text": "And severing ties of kinship has no fixed limit. Their alienation that is considered contrary to what is customary is a type of severing ties. Alienating them without a legitimate reason, failing to spend on their poor and be kind to him, failing to intercede for their oppressed one until he is helped in his grievance, and the like, may be considered severing ties."
+  },
+  {
+   "id": "a3",
+   "text": "So severing ties is a customary matter, and maintaining ties is a customary matter. What is known among Muslims as maintaining ties, kindness, contact, greeting, and doing good is considered maintaining ties. And what is considered among Muslims as alienation and severing ties, then likewise."
+  },
+  {
+   "id": "a4",
+   "text": "And the one who maintains ties is not the one who only reciprocates; because some people, if their relatives do not maintain ties with them, they do not maintain ties with them saying: 'They do not maintain ties with me, and they do not come to me, so I will not maintain ties with them.' This is wrong. The Prophet (peace and blessings be upon him) says: 'The one who maintains ties is not the one who reciprocates; rather the one who maintains ties is the one who, when his kinship ties are severed, he maintains them.' This is the one who maintains ties."
+  },
+  {
+   "id": "a5",
+   "text": "Likewise, he (peace be upon him) said when a man said to him: 'O Messenger of Allah, I have relatives whom I maintain ties with, but they sever ties with me; I am forbearing with them, but they are ignorant towards me; I am kind to them, but they are harsh to me.' He said: 'If you are as you say, it is as if you are feeding them hot ashes, and there will remain with you from Allah a supporter against them as long as you remain upon that.' So Allah (Glorified and Exalted be He) will aid him against them as long as he remains upon his good state, and by this he will be the one who maintains ties and they will be the ones who sever ties."
+  },
+  {
+   "id": "a6",
+   "text": "But if they maintain ties with you, you maintain ties with them, and if they sever ties, you sever ties—no, this is not maintaining ties. Even a non-relative, if he maintains ties with you, you maintain ties with him. A non-relative who is not a relative, if he maintains ties with you and is kind to you, you must reciprocate and reward him. But kinship and relatives have a right over and above this: you maintain ties with them even if they sever ties, and you are kind to them, return their greeting, initiate the greeting to them, invite them to the wedding feast, and accept their invitation."
+  },
+  {
+   "id": "a7",
+   "text": "Even if they sever ties with you because of an estrangement between you and them, or enmity, or disputes over worldly matters, you do not sever ties with them. However, you may abandon them for three days when there is estrangement, conflict, and disputes for the sake of worldly matters. You may abandon them for only three days, not more than that, because the Prophet (peace be upon him) said: 'There is no abandonment beyond three days.'"
+  },
+  {
+   "id": "a8",
+   "text": "So it is obligatory that he maintain ties after the three days, and return to his previous state after the three days, and not abandon beyond three days. And the better of the two is the one who initiates the greeting. The better of the two who have abandoned each other is the one who initiates the greeting."
+  }
+ ]
+}

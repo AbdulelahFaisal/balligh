@@ -1,0 +1,52 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3366",
+ "source_content_sha256": "sha256:330768f694a9fc6d30380ebf3939801485de64b7d1ed80935c29c5d49d7829b6",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:14:53.458476+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 913,
+  "completion_tokens": 568,
+  "total_tokens": 1481,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 657
+ },
+ "latency_ms": 4297,
+ "units": [
+  {
+   "id": "title",
+   "text": "The reality of the origin of faith and how people differ in it"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "Is the origin of faith the same for all believers, or does it differ from one person to another? We would like it explained because of its importance."
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "The origin of faith is one: it is belief in Allah, His messengers, His angels, His books, the Last Day, and everything that Allah and His Messenger have informed about. However, it varies. The faith of Muhammad ﷺ, Abu Bakr, Umar, Uthman, and the rest of the Companions is not like the faith of those after them. It differs in strength, perfection, completeness, and effect. But its origin is belief in Allah, His angels, His books, His Messenger, the Last Day, and divine decree, its good and its evil, and belief in everything that Allah and His Messenger have legislated, and belief in everything that Allah and His Messenger have informed about concerning the Hereafter, Paradise, Hell, and other matters."
+  },
+  {
+   "id": "a2",
+   "text": "But through knowledge, striving, understanding the religion, protective jealousy for Allah, and fear of Allah, this faith increases and becomes strong until the servant performs the obligations and abstains from the forbidden things. Through ignorance, turning away, sitting with evil people, and following desires, this faith weakens. Therefore, the scholars said: Faith increases and decreases; it increases with acts of obedience and decreases with sins. Faith is statement with the tongue, action with the limbs, and action with the heart and belief in it."
+  },
+  {
+   "id": "a3",
+   "text": "Whoever Allah grants success to beneficial knowledge, penetrating insight, fear of Allah, awe of Him, sitting with the righteous, and following the way of the righteous, his faith becomes strong, elevated, and complete. And whoever is the opposite of that due to his ignorance, following his desires, sitting with evil people, or other reasons, these are among the causes that weaken faith. It may weaken greatly until it disappears completely and he apostatizes from his religion — we ask Allah for well-being — or it may weaken less than that due to sins. Therefore, the scholars said: It increases with obedience and decreases with sins."
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3594",
+ "source_content_sha256": "sha256:389949e56a09c4ceedb296c2c31afc48f5533d37d22b88564df43c034255ac99",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:16:49.278392+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 590,
+  "completion_tokens": 397,
+  "total_tokens": 987,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 334
+ },
+ "latency_ms": 4117,
+ "units": [
+  {
+   "id": "title",
+   "text": "Faut-il faire l’istinjā’ (nettoyage intime avec de l’eau) avant chaque ablution ?"
+  },
+  {
+   "id": "q0",
+   "text": "Q : Faut-il faire l’istinjā’ avant chaque ablution ?"
+  },
+  {
+   "id": "a0",
+   "text": "R : L’istinjā’ n’est pas requis avant chaque ablution. Il n’est obligatoire qu’après avoir uriné ou déféqué, ou ce qui s’y apparente. Quant aux autres causes qui annulent les ablutions, comme les gaz, le fait de toucher son sexe, la consommation de viande de chameau, ou le sommeil, il n’est pas prescrit d’y faire l’istinjā’. Il suffit alors d’accomplir les ablutions légales (woudou’) : se laver le visage, ce qui inclut le rinçage de la bouche (madmada) et l’aspiration de l’eau par le nez (istinshāq), se laver les mains jusqu’aux coudes, passer les mains mouillées sur la tête et les oreilles, et se laver les pieds jusqu’aux chevilles, comme dans la parole d’Allah, Puissant et Majestueux : ⟦Q1⟧ [al-Mā’idah : 6]⟦N2⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmū‘ fatāwā wa maqālāt al-shaykh Ibn Bāz (10/33)."
+  }
+ ]
+}

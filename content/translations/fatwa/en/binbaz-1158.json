@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1158",
+ "source_content_sha256": "sha256:6c059e18cf55f0ad1d25b6d61079d6a21c98c2ff7fe0353ec517501d2030feab",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:49:29.414609+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 756,
+  "completion_tokens": 477,
+  "total_tokens": 1233,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 756
+ },
+ "latency_ms": 4249,
+ "units": [
+  {
+   "id": "title",
+   "text": "The obligation of affirming faith along with the two testimonies"
+  },
+  {
+   "id": "q0",
+   "text": "Q: Uttering the testimony of faith, no doubt, must be accompanied by affirmation. What is that?"
+  },
+  {
+   "id": "a0",
+   "text": "A: First, it is necessary to utter the two testimonies. If he is able to speak but refuses to utter them, he has not entered Islam until he utters the two testimonies, and this is a matter of consensus among the people of knowledge. Then, along with uttering them, he must believe in the meaning of the two testimonies and be truthful in that. He must believe that there is no true god except Allah. If he says them falsely, like the hypocrites who say them while believing that there are other gods besides Allah, this word will not benefit them, and they have not entered Islam inwardly, as Allah, the Exalted, says: ⟦Q1⟧ [An-Nisa:145] and He, the Mighty and Majestic, says: ⟦Q2⟧ [Al-Baqarah:8].\nSo affirmation with the heart and certainty that there is no true god except Allah is essential. If he is too arrogant to submit to the law of Allah, he has disbelieved, and uttering the two testimonies will not benefit him. Allah, the Exalted, says: ⟦Q3⟧ [Al-Hajj:62] and He, the Glorified, says: ⟦Q4⟧ [Ghafir:60]. Likewise, if he is too arrogant to testify that Muhammad is the Messenger of Allah or says it falsely, he is a disbeliever until he believes that Muhammad is the Messenger of Allah and submits to his law. This is a matter of consensus among the people of knowledge. And Allah is the One whose help is sought. ⟦N5⟧"
+  },
+  {
+   "id": "n0.0",
+   "text": "(Majmu' Fatawa wa Maqalat al-Shaykh Ibn Baz 5/340)"
+  }
+ ]
+}

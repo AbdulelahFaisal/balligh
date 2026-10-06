@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-931",
+ "source_content_sha256": "sha256:6e571c0565d4e28457819ec87ce51ad882da3564a84093e3633d9414004dbd93",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:25:32.109618+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1018,
+  "completion_tokens": 863,
+  "total_tokens": 1881,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 762
+ },
+ "latency_ms": 7332,
+ "units": [
+  {
+   "id": "title",
+   "text": "Hukum berdiri untuk menyambut orang yang datang"
+  },
+  {
+   "id": "q0",
+   "text": "Tanya: Seorang lelaki masuk ketika saya sedang berada di suatu majelis, lalu orang-orang yang hadir berdiri untuknya, tetapi saya tidak berdiri. Apakah saya wajib berdiri, dan apakah orang-orang yang berdiri itu berdosa?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawab: Tidak wajib berdiri untuk orang yang datang. Hal itu hanyalah termasuk akhlak mulia. Barangsiapa berdiri untuk menjabat tangannya dan memegang tangannya, terutama pemilik rumah dan tokoh terkemuka, maka itu termasuk akhlak mulia. Nabi ﷺ pernah berdiri untuk Fathimah, dan Fathimah radhiyallahu 'anha juga berdiri untuk beliau. Para sahabat radhiyallahu 'anhum berdiri atas perintah beliau untuk Sa'ad bin Mu'adz radhiyallahu 'anhu ketika ia datang untuk memberikan keputusan tentang Bani Quraizhah. Thalhah bin Ubaidillah radhiyallahu 'anhu juga berdiri di hadapan Nabi ﷺ ketika Ka'ab bin Malik radhiyallahu 'anhu datang setelah Allah menerima taubatnya, lalu beliau menjabat tangannya dan memberi selamat kepadanya, kemudian duduk. Ini termasuk akhlak mulia dan perkaranya luas.\nAdapun yang mungkar adalah berdiri diam untuk pengagungan. Adapun berdiri untuk menyambut tamu demi memuliakannya, menjabat tangannya, atau memberi penghormatan, maka itu perkara yang disyariatkan. Adapun berdiri sementara orang-orang duduk untuk pengagungan, atau berdiri saat orang masuk tanpa menyambut atau menjabat tangan, maka itu tidak selayaknya dilakukan. Lebih parah lagi berdiri untuk mengagungkannya sementara ia duduk, bukan untuk menjaga tetapi semata-mata untuk pengagungan. Berdiri itu ada tiga macam sebagaimana dikatakan para ulama:"
+  },
+  {
+   "id": "a1",
+   "text": "Macam pertama: Berdiri untuknya ketika ia duduk sebagai pengagungan, sebagaimana orang-orang non-Arab mengagungkan raja-raja dan pembesar mereka, seperti yang dijelaskan Nabi ﷺ. Ini tidak boleh. Oleh karena itu, Nabi ﷺ memerintahkan mereka untuk duduk ketika beliau shalat bersama mereka sambil duduk. Beliau memerintahkan mereka untuk duduk dan shalat bersama beliau dengan duduk. Ketika mereka berdiri, beliau bersabda, \"Hampir saja kalian mengagungkanku sebagaimana orang-orang non-Arab mengagungkan para pemimpin mereka.\"\nMacam kedua: Berdiri untuk orang lain saat ia masuk atau keluar tanpa menyambut dan tanpa menjabat tangan, melainkan semata-mata untuk pengagungan. Ini minimal hukumnya makruh. Para sahabat radhiyallahu 'anhum tidak berdiri untuk Nabi ﷺ ketika beliau masuk menemui mereka, karena mereka mengetahui bahwa beliau shallallahu 'alaihi wa sallam tidak menyukai hal itu.\nMacam ketiga: Berdiri menyambut orang yang datang untuk menjabat tangannya, atau memegang tangannya untuk menempatkannya di suatu tempat, atau mendudukkannya di tempatnya, atau semacamnya. Ini tidak mengapa, bahkan termasuk sunnah sebagaimana telah dijelaskan sebelumnya⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "(Majmu' Fatawa wa Maqalat Syaikh Ibnu Baz: 4/394)"
+  }
+ ]
+}

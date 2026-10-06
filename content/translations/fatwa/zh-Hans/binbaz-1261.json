@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1261",
+ "source_content_sha256": "sha256:afd3831973d8ed4a07493fe90cb6f278e7db0f4402f1e19c46fb683597c7d415",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:54:24.450551+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 753,
+  "completion_tokens": 394,
+  "total_tokens": 1147,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 497
+ },
+ "latency_ms": 4504,
+ "units": [
+  {
+   "id": "title",
+   "text": "以善意顺从父亲"
+  },
+  {
+   "id": "q0",
+   "text": "问：来自阿拉伯埃及共和国的拉·阿·姆兄弟在向阁下致意后，询问其父亲做出违背教法及其礼仪的行为，在这种情况下他应当如何对待父亲？"
+  },
+  {
+   "id": "a0",
+   "text": "答：愿你们平安，并蒙真主的怜悯与吉庆：\n之后：我们祈求真主引导你的父亲，并赐予他忏悔之恩。我们嘱咐你要善待他，以良好的方式劝诫他，不要对他的引导感到绝望，因为真主（赞颂他）说：⟦Q1⟧ 此节经文【鲁格曼：14-15】。真主嘱咐要感谢父母，连同感谢他；并命令子女在现世以善意陪伴父母，即便他们竭力要求他背叛真主。由此可知，你必须以善意陪伴你的父亲，善待他，即便他亏待你；并努力引导他走向真理，或许真主会因你的原因引导他。\n你不可以顺从他去犯罪。我们还嘱咐你，在引导他方面，首先要向全能伟大的真主求助，然后借助你亲属中的善人，如你的伯叔等父亲所敬重的人，或许他会接受他们的劝告。我们祈求真主为我们、为你和他赐予引导，并赐予真诚忏悔的顺利。他确是听闻的，确是临近的⟦N2⟧。\n愿你们平安，并蒙真主的怜悯与吉庆。"
+  },
+  {
+   "id": "n0.0",
+   "text": "谢赫伊本·巴兹教法判例与文章全集（5/354）。"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3650",
+ "source_content_sha256": "sha256:a8b10da16fbe6543e86930bc72fa558f140ce2f9b71295b39eaf494ccd05c8c4",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:17:03.333436+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 499,
+  "completion_tokens": 203,
+  "total_tokens": 702,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 243
+ },
+ "latency_ms": 2399,
+ "units": [
+  {
+   "id": "title",
+   "text": "Is it required for the one with a thick beard that water reach the roots of the hair?"
+  },
+  {
+   "id": "q0",
+   "text": "Q: Is it required for the one with a thick beard that water reach the roots of the hair?"
+  },
+  {
+   "id": "a0",
+   "text": "A: It is sufficient for him to pass water over it, and the authentic hadiths indicate that. If he runs his fingers through it, that is better, and the Prophet ﷺ did both this and that⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "From the program Nur 'ala al-Darb, (Majmu' Fatawa wa Maqalat al-Shaykh Ibn Baz 10/99). "
+  }
+ ]
+}

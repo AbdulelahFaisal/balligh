@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1533",
+ "source_content_sha256": "sha256:bf4150f2e48cace2a1035dc85fb707833c3b9e73cc2431d60f17ce2ae729f5d6",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:58:49.157610+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 618,
+  "completion_tokens": 382,
+  "total_tokens": 1000,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 362
+ },
+ "latency_ms": 3938,
+ "units": [
+  {
+   "id": "title",
+   "text": "Hukum berpelukan di hari raya"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Kami melihat orang-orang pada hari raya saling berpelukan, meskipun sebagian mereka tidak datang dari bepergian jauh, dan bisa jadi jarak waktu yang memisahkan mereka singkat, yaitu waktu salat, kemudian mereka berpelukan setelah salat Id. Kami mohon penjelasan tentang hakikatnya?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Kami tidak mengetahui adanya dasar untuk berpelukan kecuali hanya kebiasaan yang dilakukan orang-orang. Yang disunnahkan hanyalah mendoakan agar amal diterima ketika bertemu saudaranya, dan mendoakannya agar amalnya diterima; ini termasuk perbuatan para salaf. Adapun berpelukan khusus untuk kesempatan ini, saya tidak mengetahui ada dasarnya, itu hanyalah kebiasaan orang-orang."
+  },
+  {
+   "id": "a2",
+   "text": "Maka yang lebih utama adalah berjabat tangan, dan itu sudah cukup ketika bertemu. Ia berjabat tangan dengan saudaranya, lalu berkata kepadanya: \"Semoga Allah memberimu kebahagiaan di hari raya ini, semoga Allah memberkahimu di hari raya ini,\" atau \"Semoga Allah menerima amal kami dan amalmu,\" dan semacamnya. Itu tidak mengapa."
+  }
+ ]
+}

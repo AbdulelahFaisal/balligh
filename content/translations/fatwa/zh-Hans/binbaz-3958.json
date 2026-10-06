@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3958",
+ "source_content_sha256": "sha256:f722842a09d5ff1957fd33c5f2e2f11bc5ac17941f6adb61d4ff10ab39ae53ee",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:19:15.273443+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 651,
+  "completion_tokens": 292,
+  "total_tokens": 943,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 395
+ },
+ "latency_ms": 3511,
+ "units": [
+  {
+   "id": "title",
+   "text": "因工作而延迟礼拜时间"
+  },
+  {
+   "id": "q0",
+   "text": "问：我们是农场里的工人，由于清真寺离我们大约2公里远，我们听不到宣礼声，所以我们都在农场里礼拜，我们自己念宣礼和成拜词。有时因为工作我们会将礼拜延迟半小时，这样做是什么断法？"
+  },
+  {
+   "id": "a0",
+   "text": "答：如果清真寺离你们很远，在农场里礼拜无妨。同样，将礼拜从第一时间延迟半小时左右也无妨，但在第一时间礼拜更优越，除非晌礼时天气酷热，那么推迟到凉爽时更好。同样，如果宵礼的礼拜者们从第一时间延迟，伊玛目应迁就他们；因为有可靠的圣训传述，先知ﷺ在宵礼时会照顾礼拜者，如果看到他们聚集了就提前，如果看到他们迟了就推迟。安拉是赐予顺利的主。⟦N1⟧"
+  },
+  {
+   "id": "n0.0",
+   "text": "摘自《光在道路上》节目，磁带编号（57）。（谢赫伊本·巴兹的教法判例与文章总集 10/380）。"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1532",
+ "source_content_sha256": "sha256:af2e36c4607b7741a4b1559f3c6eb2723a36a9eb19a8c9cead325165b6133438",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:58:32.958458+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 641,
+  "completion_tokens": 305,
+  "total_tokens": 946,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 385
+ },
+ "latency_ms": 3349,
+ "units": [
+  {
+   "id": "title",
+   "text": "关于信仰中“إن شاء الله”（如果真主意欲）的教法判定"
+  },
+  {
+   "id": "q0",
+   "text": "问题："
+  },
+  {
+   "id": "q1",
+   "text": "信士可以说“我是信士，如果真主意欲”吗？希望就此阐明。"
+  },
+  {
+   "id": "a0",
+   "text": "回答："
+  },
+  {
+   "id": "a1",
+   "text": "是的，在逊尼派大众派看来，可以这样说：“我是信士——如果真主意欲”。这并不意味着怀疑，而是说“如果真主意欲”，因为他不知道自己是否已完善了信仰。信仰有诸多义务，有诸多与远离禁忌相关的事项，所以他说“如果真主意欲”，即：如果真主意欲我的信仰完善、我的信仰全美，或者就结局而言；因为他不知道自己的结局如何，所以他说“如果真主意欲”，因为他不知道最终会怎样。"
+  },
+  {
+   "id": "a2",
+   "text": "穆尔太齐赖派否认这一点，他们说这是表示怀疑，这是错误的。逊尼派大众派在信仰中说“如果真主意欲”并非出于怀疑，而是着眼于信仰义务的完善和最终的结局。"
+  }
+ ]
+}

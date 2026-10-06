@@ -1,0 +1,36 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-5629",
+ "source_content_sha256": "sha256:0df25014056a9c7f9c90469dd667d50e1b89f28d4fb0a6266caf2632ccfba838",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:21:21.086536+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1182,
+  "completion_tokens": 945,
+  "total_tokens": 2127,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 926
+ },
+ "latency_ms": 6767,
+ "units": [
+  {
+   "id": "title",
+   "text": "Ruling on One Who Abandons a Pillar of Islam"
+  },
+  {
+   "id": "q0",
+   "text": "Question: In fact, the question of the sister in Islam from Iraq contains something that circulates among the people. They say, for example: prayer requires Islam, and Hajj also requires Islam. A person may be Muslim even if he does not perform the rest of the pillars of Islam. You have answered this, but we also want further clarification of this issue?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer: This is clear. He is a Muslim by the two testimonies; when he affirms the two testimonies, singles out Allah (Glorified and Exalted be He), and believes His Messenger Muhammad (peace be upon him), he enters Islam. Then it is examined: if he prays, his Islam is complete; if he does not pray, he becomes an apostate. Likewise, if he denies prayer after that, he becomes an apostate, or denies fasting and says: Fasting Ramadan is not obligatory, he becomes an apostate, or says: Zakah (obligatory almsgiving) is not obligatory, the zakah of Islam is not obligatory, he becomes an apostate, or says: Hajj with the ability is not obligatory, he becomes an apostate, or mocks the religion, or insults the Messenger (peace be upon him), he becomes an apostate. Do we understand? This should be clear. When he enters Islam by the two testimonies, he is judged to be a Muslim. Then the rest of the matters are examined: if he remains upright upon the truth, his Islam is complete; if something that nullifies Islam is found from him, such as insulting the religion, disbelieving the Messenger (peace be upon him), denying what Allah has obligated such as prayer or fasting, denying what Allah has forbidden, as if he says: Adultery is lawful, he apostatizes from Islam by this, even if he prays and fasts, and even if he says: I bear witness that there is no god but Allah and that Muhammad is the Messenger of Allah. If he says: Adultery is lawful, while he knows the evidences and the proof has been established against him, he becomes a disbeliever in Allah, major disbelief, we seek refuge with Allah. Or he says: Wine is lawful, after the evidences have been made clear to him and the evidences have been explained to him, then he persists saying: Wine is lawful, it becomes major disbelief, apostasy from Islam, we seek refuge with Allah. Or he says, for example: Disobedience to parents, that being undutiful to one's parents is lawful, it becomes apostasy from Islam, we seek refuge with Allah. Or he says: False testimony is lawful, it becomes apostasy from Islam after the legal evidences have been explained to him.\nLikewise, if he says: Prayer is not obligatory, zakah is not obligatory, fasting Ramadan is not obligatory, Hajj with ability is not obligatory, all of these are nullifiers of Islam; he becomes a disbeliever.\nThe disagreement is only if he says: Prayer is obligatory, but I do not pray. This is the point of disagreement: does he disbelieve or not? He says: Prayer is obligatory, but I am lax and do not pray. The majority of jurists say: He does not disbelieve; he is a sinner who is asked to repent. If he repents, then fine; otherwise, he is executed as a punishment (hadd).\nOther scholars, and this is transmitted from the Companions (may Allah be pleased with them), hold that he disbelieves by it with major disbelief, so he is asked to repent. If he repents, then fine; otherwise, he is executed as a disbeliever, because Allah (Glorified and Exalted be He) says: ⟦Q1⟧ [At-Tawbah:5]. This indicates that the one who does not establish prayer is not left alone; rather, he is asked to repent. If he repents, then fine; otherwise, he is killed. And He says: ⟦Q2⟧ [At-Tawbah:11]. This indicates that the one who does not establish prayer—does not pray—is not a brother in religion. Yes."
+  }
+ ]
+}

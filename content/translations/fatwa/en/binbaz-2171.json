@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2171",
+ "source_content_sha256": "sha256:0cafcad7c1adf2230fcfe39486b1f039778620ce66dca1223e19fa5b77a9605f",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:09:34.502077+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 922,
+  "completion_tokens": 706,
+  "total_tokens": 1628,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 666
+ },
+ "latency_ms": 5941,
+ "units": [
+  {
+   "id": "title",
+   "text": "Explanation of the hadith: “I have been commanded to fight the people…”?"
+  },
+  {
+   "id": "q0",
+   "text": "Q: A questioner hopes for an explanation of this hadith: The Messenger of Allah ﷺ said: “I have been commanded to fight the people until they testify that there is no god but Allah and that Muhammad is the Messenger of Allah, establish the prayer, and give the zakah. If they do that, their blood and their wealth are protected from me except by the right of Islam, and their reckoning is with Allah.”"
+  },
+  {
+   "id": "a0",
+   "text": "A: This hadith is authentic, reported by the two Shaykhs al-Bukhari and Muslim in the two Sahihs from the hadith of Ibn 'Umar (may Allah be pleased with them both) who said: We heard the Messenger of Allah ﷺ say: “I have been commanded to fight the people until…” the hadith. And this is according to its apparent meaning, for whoever performs the two testimonies of faith while not having performed them before, establishes the prayer, and gives the zakah, he is considered a Muslim whose blood and wealth are inviolable except by the right of Islam, meaning: except by what Islam obligates upon him thereafter, such as if he commits adultery, the legal punishment for adultery is applied to him; if he is a virgin, then by flogging and banishment, and if he is a previously married person, then by stoning which ends his life.\nSimilarly, the rest of the matters of Islam are required of this person who has become Muslim and testified this testimony, established the prayer, and given the zakah, so he is required to fulfill the rights of Islam, and his blood and wealth are protected unless he commits something that nullifies Islam or something that obligates a legal punishment upon him.\nSimilarly, his saying in the other hadith from Abu Hurayrah (may Allah be pleased with him) from the Prophet ﷺ who said: “I have been commanded to fight the people until they say: There is no god but Allah. If they say it, their blood and their wealth are protected from me except by its right, and their reckoning is with Allah.” This hadith is like that hadith: whoever comes with monotheism and belief in the message has entered Islam, then he is required to fulfill the right of Islam, so he is required to pray, give zakah, fast, perform Hajj, and other than that. If he performs what Allah has obligated upon him, then he is a true Muslim, and if he refrains from something, the right of Allah is taken from him in that matter and he is compelled and bound to the rights of Allah which He has obligated upon His servants. This is what is obligatory upon all who enter the religion of Islam, that they adhere to the right of Islam, and if they do not adhere, they are taken by the right of Islam⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu' Fatawa wa Maqalat al-Shaykh Ibn Baz (8/303)"
+  }
+ ]
+}

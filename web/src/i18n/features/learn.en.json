@@ -50,7 +50,7 @@
     "prepareBody": "For teachers: choose a registered source, review the draft against it, then preview and download.",
     "prepareCta": "Prepare a lesson"
   },
-  "coverage": "The interface has 7 languages; content coverage differs: the questions and answers are Arabic-only published records, hadith translations vary by record, and Quran meanings come from six named published editions.",
+  "coverage": "The interface has 7 languages; content coverage differs: the questions and answers are published in Arabic, with AI-assisted translations where one is stored; hadith translations vary by record; and Quran meanings come from six named published editions.",
   "kinds": "A published translation comes from its named publisher. An AI draft is unreviewed generated text. A local acknowledgment records only that a preparer on this device compared a draft with its source.",
   "page": {
     "title": "Start learning",

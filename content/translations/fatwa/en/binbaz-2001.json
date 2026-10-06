@@ -1,0 +1,144 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2001",
+ "source_content_sha256": "sha256:c9ace17aee799e431da3eef9f9cd45a5f3ed7076b7c73d60068f1643f9339185",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:06:34.286738+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 2743,
+  "completion_tokens": 2716,
+  "total_tokens": 5459,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 2487
+ },
+ "latency_ms": 17078,
+ "units": [
+  {
+   "id": "title",
+   "text": "The Meaning of La Ilaha Illa Allah, Its Requirements, and Its Conditions"
+  },
+  {
+   "id": "q0",
+   "text": "Question: Many of those who are counted among the Islamic nation are ignorant of the meaning of La ilaha illa Allah (there is no deity worthy of worship except Allah). This has resulted in falling into statements and actions that contradict it, oppose it, or diminish it. What is the meaning of La ilaha illa Allah? What are its requirements? What are its conditions?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer: There is no doubt that this phrase, La ilaha illa Allah, is the foundation of the religion and the first pillar of Islam, along with the testimony that Muhammad is the Messenger of Allah. As it is in the authentic hadith from the Prophet ﷺ that he said: \"Islam is built upon five: the testimony that there is no deity worthy of worship except Allah and that Muhammad is the Messenger of Allah, establishing the prayer, giving the zakah (obligatory almsgiving), fasting Ramadan, and the pilgrimage to the House.\" Its authenticity is agreed upon, from the hadith of Ibn Umar, may Allah be pleased with them both."
+  },
+  {
+   "id": "a1",
+   "text": "In the two Sahihs, from Ibn Abbas, may Allah be pleased with them both, that when the Prophet ﷺ sent Muadh, may Allah be pleased with him, to Yemen, he said to him: \"You will come upon a people of the People of the Book. Call them to testify that there is no deity worthy of worship except Allah and that I am the Messenger of Allah. If they obey you in that, then inform them that Allah has obligated upon them five prayers in the day and night. If they obey you in that, then inform them that Allah has obligated upon them a charity to be taken from their rich and given to their poor.\" The hadith is agreed upon, and there are many hadiths on this topic."
+  },
+  {
+   "id": "a2",
+   "text": "The meaning of the testimony that there is no deity worthy of worship except Allah is: there is no true deity except Allah. It negates the right to be worshipped from everything other than Allah, Glorified be He, and affirms it solely for Allah. As Allah, Mighty and Majestic, said in Surah Al-Hajj: ⟦Q1⟧ [Al-Hajj:62], and He, Glorified be He, said in Surah Al-Mu'minun: ⟦Q2⟧ [Al-Mu'minun:117], and He, Mighty and Majestic, said in Surah Al-Baqarah: ⟦Q3⟧ [Al-Baqarah:163], and He said in Surah Al-Bayyinah: ⟦Q4⟧ [Al-Bayyinah:5]. The verses on this meaning are numerous."
+  },
+  {
+   "id": "a3",
+   "text": "This great phrase does not benefit the one who says it, nor does it remove him from the sphere of shirk (associating partners with Allah), unless he knows its meaning, acts upon it, and believes in it. The hypocrites used to say it while they are in the lowest depth of the Fire, because they did not believe in it nor act upon it."
+  },
+  {
+   "id": "a4",
+   "text": "Likewise, the Jews say it while they are among the most disbelieving of people, because they do not believe in it. Similarly, the grave-worshippers and worshippers of saints among the disbelievers of this nation say it while they contradict it with their statements, actions, and beliefs. Thus, it does not benefit them, and they do not become Muslims by saying it, because they have nullified it through their statements, actions, and beliefs."
+  },
+  {
+   "id": "a5",
+   "text": "Some scholars have mentioned that it has eight conditions, which they compiled in two lines of poetry:"
+  },
+  {
+   "id": "a6",
+   "text": "Knowledge, certainty, sincerity, and your truthfulness, along with"
+  },
+  {
+   "id": "a7",
+   "text": "Love, compliance, acceptance for it,"
+  },
+  {
+   "id": "a8",
+   "text": "And an eighth one was added: your rejection of"
+  },
+  {
+   "id": "a9",
+   "text": "Everything besides the deity that has been deified."
+  },
+  {
+   "id": "a10",
+   "text": "These two lines have covered all its conditions:"
+  },
+  {
+   "id": "a11",
+   "text": "First: Knowledge of its meaning, which negates ignorance. Its meaning, as previously mentioned, is that there is no deity worthy of worship except Allah. All deities that people worship besides Allah, Glorified be He, are false."
+  },
+  {
+   "id": "a12",
+   "text": "Second: Certainty, which negates doubt. It is obligatory upon the one who says it to be certain that Allah, Glorified be He, is the true deity worthy of worship."
+  },
+  {
+   "id": "a13",
+   "text": "Third: Sincerity. That is, the servant must make all acts of worship purely for his Lord, Glorified be He, who is Allah, Mighty and Majestic. If he directs anything of them to other than Allah, such as a prophet, a saint, an angel, an idol, a jinn, or others, then he has committed shirk with Allah and violated this condition, which is the condition of sincerity."
+  },
+  {
+   "id": "a14",
+   "text": "Fourth: Truthfulness. Its meaning is that he says it while being truthful in that, his heart agreeing with his tongue and his tongue with his heart. If he says it only with his tongue while his heart does not believe in its meaning, it will not benefit him, and he will be a disbeliever like the rest of the hypocrites."
+  },
+  {
+   "id": "a15",
+   "text": "Fifth: Love. Its meaning is that he loves Allah, Mighty and Majestic. If he says it while not loving Allah, he becomes a disbeliever who has not entered Islam, like the hypocrites."
+  },
+  {
+   "id": "a16",
+   "text": "Among the evidences for that is the statement of the Exalted: ⟦Q5⟧ the verse [Al Imran:31], and His statement, Glorified be He: ⟦Q6⟧ [Al-Baqarah:165]. The verses on this meaning are numerous."
+  },
+  {
+   "id": "a17",
+   "text": "Sixth: Compliance with what it indicates. Its meaning is that he worships Allah alone, submits to His legislation, believes in it, and holds it to be the truth. If he says it but does not worship Allah alone and does not submit to His legislation, rather he is arrogant about that, then he is not a Muslim, like Iblis and his like."
+  },
+  {
+   "id": "a18",
+   "text": "Seventh: Acceptance of what it indicates. Its meaning is that he accepts what it indicates of devoting worship purely to Allah alone and abandoning worship of everything else, and that he adheres to that and is pleased with it."
+  },
+  {
+   "id": "a19",
+   "text": "Eighth: Rejection of what is worshipped besides Allah. Its meaning is that he disavows the worship of other than Allah and believes it to be false, as Allah, Glorified be He, said: ⟦Q7⟧ [Al-Baqarah:256]."
+  },
+  {
+   "id": "a20",
+   "text": "It is authentically reported from the Messenger of Allah ﷺ that he said: \"Whoever says La ilaha illa Allah and rejects what is worshipped besides Allah, his wealth and blood become inviolable, and his reckoning is upon Allah.\" In another narration from him ﷺ, he said: \"Whoever declares the oneness of Allah and rejects what is worshipped besides Allah, his wealth and blood become inviolable.\" Both were reported by Muslim in his Sahih."
+  },
+  {
+   "id": "a21",
+   "text": "It is obligatory upon all Muslims to actualize this phrase by observing these conditions. Whenever a Muslim has its meaning and remains upright upon it, he is a Muslim whose blood and wealth are inviolable, even if he does not know the details of these conditions, because the objective, which is knowledge of the truth and acting upon it, is achieved even if the believer does not know the details of the required conditions."
+  },
+  {
+   "id": "a22",
+   "text": "The taghut (false deity) is everything worshipped besides Allah, as Allah, Mighty and Majestic, said: ⟦Q8⟧ the verse [Al-Baqarah:256]."
+  },
+  {
+   "id": "a23",
+   "text": "And He, Glorified be He, said: ⟦Q9⟧ [An-Nahl:36]. Whoever is not pleased with being worshipped besides Allah, such as the prophets, the righteous, and the angels, they are not taghuts. Rather, the taghut is the devil who called to their worship and made it attractive to people. We ask Allah for well-being for us and for the Muslims from all evil. As for the difference between the acts that negate this phrase, La ilaha illa Allah, and those that negate its obligatory perfection, it is: every action, statement, or belief that causes its doer to fall into major shirk negates it entirely and contradicts it, such as supplicating to the dead, the angels, idols, trees, stones, stars, and the like, slaughtering for them, making vows to them, prostrating to them, and other such things."
+  },
+  {
+   "id": "a24",
+   "text": "All of this negates tawhid (monotheism) entirely, contradicts this phrase, and nullifies it, which is La ilaha illa Allah. Among that is declaring lawful what Allah has forbidden among the well-known prohibitions of the religion, by necessity and consensus, such as adultery, drinking intoxicants, disobedience to parents, usury, and the like. Also among that is denying what Allah has obligated among the well-known statements and actions of the religion, by necessity and consensus, such as the obligation of the five prayers, zakah, fasting Ramadan, kindness to parents, uttering the two testimonies, and the like."
+  },
+  {
+   "id": "a25",
+   "text": "As for the statements, actions, and beliefs that weaken tawhid and faith and negate its obligatory perfection, they are many. Among them is minor shirk, such as showing off, swearing by other than Allah, saying \"What Allah wills and what so-and-so wills,\" or \"This is from Allah and from so-and-so,\" and the like. Likewise, all sins weaken tawhid and faith and negate its obligatory perfection. It is obligatory to beware of everything that negates tawhid and faith or diminishes its reward. Faith, according to Ahlus-Sunnah wal-Jama'ah, is statement and action; it increases with obedience and decreases with disobedience."
+  },
+  {
+   "id": "a26",
+   "text": "The evidences for that are many, and the scholars have explained them clearly in books of creed, tafsir, and hadith. Whoever seeks them will find them, and praise be to Allah. Among that is the statement of Allah, the Exalted: ⟦Q10⟧ [At-Tawbah:124], and His statement, Glorified be He: ⟦Q11⟧ [Al-Anfal:2], and His statement, Glorified be He: ⟦Q12⟧ [Maryam:76]. The verses on this meaning are numerous⟦N13⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu' Fatawa wa Maqalat ash-Shaykh Ibn Baz (7/45)."
+  }
+ ]
+}

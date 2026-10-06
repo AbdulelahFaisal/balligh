@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2978",
+ "source_content_sha256": "sha256:a1c13385ee740002eda7d575d6a78feae85ded7d795fca6ea68b010e8c2f426b",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:13:55.254084+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1161,
+  "completion_tokens": 858,
+  "total_tokens": 2019,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 905
+ },
+ "latency_ms": 6594,
+ "units": [
+  {
+   "id": "title",
+   "text": "What is the duty towards a brother who does not pray?"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "Your Eminence, peace, mercy and blessings of Allah be upon you. I love you very much for the sake of Allah, and I hope that Allah makes us among those who love one another for His sake. Ameen.\nI have a full brother who does not pray in the mosque, and he does not live with me. He wants to get married, and my mother asked me to go with him to propose on his behalf, but I refused, saying: No, because he does not pray. But when he prays and the imam of the mosque in his area testifies for him, then I will go with him and propose for him. However, O Sheikh, now my mother does not speak to me, and all my brothers and sisters do not speak to me and have boycotted me, but praise be to Allah in all cases."
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "As for loving for the sake of Allah, we say: May Allah love you for whose sake you loved me, as mentioned before, loving for the sake of Allah is among the best acts of worship."
+  },
+  {
+   "id": "a2",
+   "text": "As for what you mentioned about your brother: the duty upon you and all your brothers is to advise him, and to contact him all together, not you alone; rather, others should be with you so that perhaps that will influence him and perhaps he will respond to the call of truth. Because if you are alone, he may not care, especially if he is older than you. The point is that you should continue advising him and have with you others from your good brothers or from your neighbors, so that perhaps he will accept from you and pray and maintain the prayer in congregation. Then you can fulfill your mother's and brothers' wish in helping him and going with him to the family from whom he proposes, after Allah guides him to this matter and he accepts it from you and prays."
+  },
+  {
+   "id": "a3",
+   "text": "But if he insists on not praying, then do not go with him; rather, shun him until he repents to Allah and returns to what is right and true, even if your mother gets angry and even if your brothers get angry. Because the one who does not pray is a disbeliever according to the more correct of the two scholarly opinions: whoever abandons prayer and deliberately leaves it has disbelieved, as the Prophet ﷺ said in the authentic hadith: \"The covenant between us and them is prayer; whoever abandons it has disbelieved.\" And he, peace and blessings be upon him, said: \"Between a man and disbelief and polytheism is abandoning prayer,\" and there are many other hadiths indicating that."
+  },
+  {
+   "id": "a4",
+   "text": "However, if he prays but leaves the congregational prayer, this is less severe, and he may have some doubt because some scholars do not consider congregational prayer obligatory, so there is no harm in that case. You should contact him along with your brothers and strive to get him to pray in congregation if he prays but does not pray in congregation; this is easier. So you must contact him with your brothers and with others from your neighbors and those who will help you in this, so that perhaps Allah will guide him through those means. Thus you will combine all benefits: pleasing your mother and brothers and Allah's guidance of him at your hands and the hands of your brothers who accompany you in calling him to Allah, Mighty and Majestic. May Allah grant everyone success and guidance."
+  }
+ ]
+}

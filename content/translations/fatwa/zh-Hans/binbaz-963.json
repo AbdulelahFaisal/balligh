@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-963",
+ "source_content_sha256": "sha256:0233da9a94e823e76bc99955f584390d6ebb4403b5b4cf8dedc6e66a18dedf3b",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:26:12.014557+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 731,
+  "completion_tokens": 358,
+  "total_tokens": 1089,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 475
+ },
+ "latency_ms": 3783,
+ "units": [
+  {
+   "id": "title",
+   "text": "命人行善、止人作恶是伊斯兰的支柱之一吗？"
+  },
+  {
+   "id": "q0",
+   "text": "问：我听说一些学者将命人行善、止人作恶视为伊斯兰的支柱之一，这是正确的吗？"
+  },
+  {
+   "id": "a0",
+   "text": "答：是的，一些学者这样说过，但对此没有明确的经训依据，它只是伊斯兰最重大的义务之一。\n使者ﷺ阐明的伊斯兰支柱有五项，他说（愿主福安之）：“伊斯兰建立在五项基础上：作证除真主外绝无应受崇拜的，并作证穆罕默德是真主的使者；谨守拜功；缴纳天课；封赖买丹月的斋；朝觐天房。”——布哈里和穆斯林共同收录。\n先知ﷺ就是这样阐明伊斯兰的支柱和基础的，不允许在没有确凿证据的情况下增加。但命人行善、止人作恶是一项基础，是一项义务，但不能说它是第六支柱，因为没有证据。\n同样，为主道奋斗也是一项基础……同样，放弃真主禁止其仆人的一切禁戒也是一项必不可少的基础，但不能说它们是伊斯兰的两大支柱，因为没有证据。\n须知，我们必须遵守真主所命令的一切，远离真主所禁止的一切⟦N1⟧。"
+  },
+  {
+   "id": "n0.0",
+   "text": "（《谢赫伊本·巴兹教法判例与文集》5/74）"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3805",
+ "source_content_sha256": "sha256:7490704b91438f4ebadc55fcd2b4cf849e8d1684cb18c82e48816f664107a176",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:17:44.489415+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 817,
+  "completion_tokens": 642,
+  "total_tokens": 1459,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 561
+ },
+ "latency_ms": 6230,
+ "units": [
+  {
+   "id": "title",
+   "text": "Mandi pada hari Jumat adalah sunnah muakkadah"
+  },
+  {
+   "id": "q0",
+   "text": "Tanya: Apakah mandi pada hari Jumat itu wajib atau mustahab (dianjurkan)?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawab: Mandi pada hari Jumat adalah sunnah muakkadah (sangat dianjurkan), berdasarkan hadis-hadis sahih dari Nabi ﷺ, di antaranya sabda beliau ﷺ, \"Mandi pada hari Jumat wajib atas setiap orang yang telah baligh, hendaklah ia bersiwak dan memakai wewangian.\" Dan sabda beliau ﷺ, \"Barangsiapa mandi, kemudian mendatangi salat Jumat, lalu salat semampunya, kemudian diam mendengarkan sampai imam selesai dari khotbahnya, kemudian salat bersamanya, niscaya diampuni dosa-dosanya antara Jumat itu dan Jumat berikutnya, ditambah tiga hari.\" (HR. Muslim dalam Sahihnya). Dalam lafal lain riwayat Muslim, \"Barangsiapa berwudu dengan menyempurnakan wudunya, kemudian mendatangi salat Jumat, lalu mendengarkan dan diam, niscaya diampuni dosa-dosanya antara Jumat itu dan Jumat berikutnya, ditambah tiga hari, dan barangsiapa menyentuh kerikil maka ia telah berbuat sia-sia.\" Masih banyak hadis lain tentang masalah ini.\nSabda beliau ﷺ, \"wajib atas setiap orang yang telah baligh\" maknanya menurut kebanyakan ulama adalah sangat ditekankan, sebagaimana orang Arab mengatakan, \"Janji adalah hutang, dan hakmu atasku wajib.\" Hal ini ditunjukkan oleh makna bahwa beliau ﷺ menganggap cukup dengan wudu dalam sebagian hadis.\nDemikian pula memakai wewangian, bersiwak, memakai pakaian yang bagus, dan datang lebih awal ke salat Jumat, semuanya termasuk sunah-sunah yang dianjurkan, dan tidak ada satu pun yang wajib⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Diterbitkan di koran Al-Bilad edisi (10708) hari Ahad tanggal 16/5/1413 H. Dan di majalah Ad-Da'wah edisi (1355) tanggal 29/2/1413 H. Dan dalam kitab Ad-Da'wah (Al-Fatawa) karya beliau, juz kedua halaman 68, (Majmu' Fatawa wa Maqalat Asy-Syaikh Ibnu Baz 10/170)."
+  }
+ ]
+}

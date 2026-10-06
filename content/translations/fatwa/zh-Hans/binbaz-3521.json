@@ -1,0 +1,52 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3521",
+ "source_content_sha256": "sha256:31a52d6ebc8b526d5ad3b34f4100350dd212aea906eb604b78c679b4caba4e26",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:15:58.238295+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 600,
+  "completion_tokens": 295,
+  "total_tokens": 895,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 344
+ },
+ "latency_ms": 3069,
+ "units": [
+  {
+   "id": "title",
+   "text": "忘记在小净前念诵太斯米的教法判断"
+  },
+  {
+   "id": "q0",
+   "text": "问题："
+  },
+  {
+   "id": "q1",
+   "text": "谁在小净前忘记了念诵太斯米？"
+  },
+  {
+   "id": "a0",
+   "text": "回答："
+  },
+  {
+   "id": "a1",
+   "text": "他在小净开始时就不必再念太斯米了，若是忘记，则无任何罪责。若在小净过程中想起，就在过程中念诵，说：\"以真主之名\"，如同吃饭时应在开始念诵太斯米，若忘记了就在中途念诵。"
+  },
+  {
+   "id": "a2",
+   "text": "问题：……？"
+  },
+  {
+   "id": "a3",
+   "text": "回答：该圣训是羸弱的，但必须的是，当他想起时，就应念诵太斯米，这是为了脱离学者们的分歧。大多数学者认为它是圣行，因为圣训是羸弱的。但若故意放弃，就应该重新做小净；若是出于无知或忘记，则无妨。"
+  }
+ ]
+}

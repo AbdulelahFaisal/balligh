@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3859",
+ "source_content_sha256": "sha256:c4473d10716754f822765a105383cfba8e73f0919d9cb48841be18219c30cb03",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:18:54.799259+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 719,
+  "completion_tokens": 397,
+  "total_tokens": 1116,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 463
+ },
+ "latency_ms": 3788,
+ "units": [
+  {
+   "id": "title",
+   "text": "What is required of a woman who was pregnant and abandoned prayer due to urine leakage?"
+  },
+  {
+   "id": "q0",
+   "text": "Q: The sister M. H. from the Arab Maghreb says: A pregnant woman in her ninth month suffers from constant urine leakage. She stopped praying during the last month. Is this considered abandoning prayer? What must she do?"
+  },
+  {
+   "id": "a0",
+   "text": "A: This woman and others like her must not stop praying. Rather, she must pray according to her condition, perform ablution for each prayer time like the woman suffering from istihadah (non-menstrual bleeding), protect herself as much as possible with cotton or the like, and pray each prayer at its time. It is prescribed for her to pray voluntary prayers at their times, and she may combine Zhuhr with ‘Asr, and Maghrib with ‘Isha’, like the woman with istihadah, because Allah, Mighty and Majestic, says: ⟦Q1⟧ [At-Taghabun: 16].\nShe must make up the prayers she missed along with repenting to Allah, Glorified and Exalted, by regretting what she did and resolving not to return to it, because Allah, Glorified and Exalted, says: ⟦Q2⟧ [An-Nur: 31]⟦N3⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Published in Majallat ad-Da‘wah, issue no. 965, dated 19/2/1405 AH, (Majmu‘ Fatawa wa Maqalat ash-Shaykh Ibn Baz 10/224)."
+  }
+ ]
+}

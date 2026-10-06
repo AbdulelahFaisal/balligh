@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-931",
+ "source_content_sha256": "sha256:6e571c0565d4e28457819ec87ce51ad882da3564a84093e3633d9414004dbd93",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:25:18.029352+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1018,
+  "completion_tokens": 691,
+  "total_tokens": 1709,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 762
+ },
+ "latency_ms": 5780,
+ "units": [
+  {
+   "id": "title",
+   "text": "The ruling on standing for a person arriving"
+  },
+  {
+   "id": "q0",
+   "text": "Q: A man entered while I was in a gathering and those present stood up for him, but I did not stand. Am I obliged to stand, and are those who stood sinful?"
+  },
+  {
+   "id": "a0",
+   "text": "A: Standing for a person arriving is not obligatory; rather it is from noble character traits. Whoever stands to greet him, shake his hand, and take him by the hand, especially the host and notables, this is from noble character. The Prophet ﷺ stood for Fatimah, and she stood for him (may Allah be pleased with her), and the Companions stood by his command for Sa'd ibn Mu'adh (may Allah be pleased with him) when he came to judge regarding Banu Qurayzah. Talhah ibn 'Ubaydillah (may Allah be pleased with him) stood from before the Prophet ﷺ when Ka'b ibn Malik (may Allah be pleased with him) came after Allah accepted his repentance; he shook his hand, congratulated him, and then sat. This is from the category of noble character and the matter is broad.\nWhat is objectionable is that a person stands out of veneration. As for standing to receive a guest to honor him, shake his hand, or greet him, that is something permissible. As for a person remaining standing while people are seated out of veneration, or standing upon entry without receiving or shaking hands, this is not appropriate. Even worse is standing out of veneration for someone who is seated, not for protection but only for veneration. Standing is of three types, as the scholars have said:"
+  },
+  {
+   "id": "a1",
+   "text": "First type: A person stands for him while he is seated out of veneration, as non-Arabs venerate their kings and great men, as the Prophet ﷺ explained; this is not permissible. For this reason, when the Prophet ﷺ led them in prayer sitting, he commanded them to sit and pray with him sitting. When they stood, he said: \"You almost venerated me as non-Arabs venerate their leaders.\"\nSecond type: A person stands for another upon his entering or leaving without receiving him or shaking hands, but merely for veneration. The least that can be said is that it is disliked. The Companions (may Allah be pleased with them) did not stand for the Prophet ﷺ when he entered upon them, because they knew he disliked that (peace and blessings be upon him).\nThird type: A person stands to receive the one arriving to shake his hand, or take him by the hand to seat him in a place or make him sit in his own place, or something similar. There is no harm in this; rather it is from the Sunnah as previously mentioned⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "(Majmu' Fatawa wa Maqalat al-Shaykh Ibn Baz: 4/394)"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1655",
+ "source_content_sha256": "sha256:da7a07a2630be739fba0d3b2411d80317b5a29ed276ac3cad5c521b11a4aa49b",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:02:23.433773+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1592,
+  "completion_tokens": 1819,
+  "total_tokens": 3411,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 1336
+ },
+ "latency_ms": 15027,
+ "units": [
+  {
+   "id": "title",
+   "text": "La division du Tawhid en trois catégories"
+  },
+  {
+   "id": "q0",
+   "text": "Q : Question concernant la division du Tawhid en trois catégories, et existe-t-il une preuve à ce sujet ?"
+  },
+  {
+   "id": "a0",
+   "text": "R : Cette division est tirée de l’induction, car lorsque les savants ont examiné ce que contiennent les textes du Livre d’Allah et de la Sunna de Son Messager, cela leur est apparu. Certains y ont ajouté un quatrième type, qui est le Tawhid du suivi (Tawhid al-mutâba‘a). Tout cela résulte de l’induction.\nIl ne fait aucun doute que celui qui médite le Noble Coran y trouve des versets ordonnant de vouer exclusivement l’adoration à Allah seul, et c’est là le Tawhid de l’ulûhiyya (unicité de la divinité). Il y trouve aussi des versets indiquant qu’Allah est le Créateur, le Pourvoyeur et le Gestionnaire des affaires, et c’est là le Tawhid de la rubûbiyya (unicité de la seigneurie), que les polythéistes reconnaissaient mais qui ne les a pas fait entrer dans l’islam. Il y trouve également d’autres versets indiquant qu’Il possède les plus beaux noms et les attributs les plus élevés, et qu’Il n’a ni semblable ni équivalent, et c’est là le Tawhid des noms et attributs (Tawhid al-asmâ’ wa-s-sifât), que les innovateurs parmi les Jahmiyya, les Mu‘tazila, les Mushabbiha et ceux qui ont suivi leur voie ont nié.\nIl y trouve aussi des versets indiquant l’obligation de suivre le Messager ﷺ et de rejeter ce qui contredit sa législation, et c’est là le Tawhid du suivi. Cette division est donc connue par induction, par l’examen des versets et l’étude de la Sunna. En font partie la parole d’Allah, le Glorifié : ⟦Q1⟧ [al-Fâtiha : 5], et Sa parole, Puissant et Majestueux : ⟦Q2⟧ [al-Baqara : 21], et Sa parole : ⟦Q3⟧ [al-Baqara : 163], et Sa parole, le Glorifié : ⟦Q4⟧ [Âl ‘Imrân : 18], et Sa parole : ⟦Q5⟧ [adh-Dhâriyât : 56-58], et Sa parole : ⟦Q6⟧ [al-A‘râf : 54], et Sa parole : ⟦Q7⟧ [Yûnus : 31]. Il a dit aussi : ⟦Q8⟧ [ash-Shûrâ : 11], et Il a dit : ⟦Q9⟧ [al-Ikhlâs : 1-4], et Il a dit : ⟦Q10⟧ [Âl ‘Imrân : 31], et Il a dit : ⟦Q11⟧ [an-Nûr : 54]. Les versets relatifs à cette division sont nombreux.\nParmi les hadiths, il y a la parole du Prophète ﷺ dans le hadith de Mu‘âdh, qu’Allah soit satisfait de lui, rapporté dans les Deux Authentiques : « Le droit d’Allah sur les serviteurs est qu’ils L’adorent et ne Lui associent rien. » Et sa parole ﷺ : « Quiconque meurt en invoquant un égal à Allah entrera en enfer », rapportée par al-Bukhârî dans son Sahîh. Et sa parole ﷺ à Jibrîl lorsque celui-ci l’interrogea sur l’islam : « C’est adorer Allah sans rien Lui associer, accomplir la prière prescrite, s’acquitter de la zakât obligatoire », jusqu’à la fin du hadith, rapporté dans les Deux Authentiques. Et sa parole ﷺ : « Quiconque m’obéit obéit à Allah, et quiconque me désobéit a désobéi à Allah », dont l’authenticité est établie. Et sa parole ﷺ : « Toute ma communauté entrera au Paradis, sauf celui qui refuse. » On demanda : « Ô Messager d’Allah, et qui refuse ? » Il dit : « Celui qui m’obéit entrera au Paradis, et celui qui me désobéit a refusé », rapporté par al-Bukhârî dans son Sahîh. Les hadiths à ce sujet sont nombreux.\nShaykh al-Islâm Ibn Taymiyya, qu’Allah lui fasse miséricorde, a dit : « L’ilâh est l’adoré obéi. Car l’ilâh est le ma’lûh, et le ma’lûh est celui qui mérite d’être adoré. Or, le fait qu’il mérite d’être adoré tient aux attributs qu’il possède et qui impliquent qu’il soit l’aimé au plus haut degré d’amour et celui auquel on se soumet au plus haut degré de soumission. »\nIl a dit aussi : « L’ilâh est l’aimé adoré que les cœurs adorent par leur amour, auquel ils se soumettent, s’humilient, qu’ils craignent, espèrent, vers lequel ils reviennent dans les difficultés, qu’ils invoquent dans leurs affaires importantes, auquel ils s’en remettent pour leurs intérêts, auprès duquel ils cherchent refuge, trouvent la quiétude par Son évocation et l’apaisement par Son amour. Cela n’appartient qu’à Allah seul. C’est pourquoi la parole “lâ ilâha illa Allâh” est la plus véridique des paroles, ses adeptes sont les gens d’Allah et Son parti, et ceux qui la renient sont Ses ennemis et les gens de Sa colère et de Son châtiment. Si elle est authentique chez l’individu, toutes ses questions, ses états et ses goûts deviennent sains ; mais si l’individu ne la réalise pas, la corruption l’atteint nécessairement dans ses sciences et ses œuvres. » ⟦N12⟧.\nNous demandons à Allah qu’Il accorde à tous les musulmans, gouvernants et gouvernés, la compréhension de Sa religion, la constance dans celle-ci, le conseil sincère envers Allah et Ses serviteurs, et qu’Il les préserve de ce qui s’y oppose. Il est certes le Maître de cela et capable de le faire. Que la prière et la paix soient sur notre Prophète Muhammad, sa famille et l’ensemble de ses Compagnons. ⟦N13⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Fath al-Majîd, commentaire du Kitâb at-Tawhîd, chapitre du mérite du Tawhîd et des péchés qu’il expie, p. 33, imprimé et publié par la Présidence générale des administrations de la recherche scientifique, de l’iftâ’, de la prédication et de l’orientation, édition 1403 H]"
+  },
+  {
+   "id": "n1.0",
+   "text": "(Majmû‘ fatâwâ wa-maqâlât ash-Shaykh Ibn Bâz 6/277)."
+  }
+ ]
+}

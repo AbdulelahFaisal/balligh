@@ -190,15 +190,17 @@ test("topic filter, title search, empty search, Back and the back link keep the 
   await expect(page.getByTestId("fatwa-reader")).toHaveAttribute("data-id", id!);
 });
 
-test("a long fatwa renders completely in Arabic; English shows the honest unavailable message and the source link", async ({
+test("a long fatwa renders completely in Arabic; a language with no stored translation shows the honest unavailable message and the source link", async ({
   page,
 }, info) => {
   const rec = await longestFatwa(page);
-  await page.goto(`/library/questions/${encodeURIComponent(rec.id)}?lang=en`);
+  // A stored AI-assisted English translation replaces the unavailable message; the Arabic check then runs in Arabic.
+  const translated = Boolean((await api(page, `/api/library/fatwas/${encodeURIComponent(rec.id)}?locale=en`)).machine_translation);
+  await page.goto(`/library/questions/${encodeURIComponent(rec.id)}?lang=${translated ? "ar" : "en"}`);
   await expect(page.getByTestId("item-title")).toHaveText(rec.title);
   await expect(page.getByTestId("item-title")).toHaveAttribute("dir", "rtl");
   await expect(page.getByTestId("item-title")).toHaveAttribute("lang", "ar");
-  await expect(page.getByTestId("translation-unavailable")).toContainText("English");
+  if (!translated) await expect(page.getByTestId("translation-unavailable")).toContainText("English");
   await expect(page.getByTestId("item-original")).toHaveAttribute("dir", "rtl");
   await expect(page.getByTestId("item-original")).toHaveAttribute("lang", "ar");
   await expect(page.getByTestId("fatwa-answer").locator("p")).toHaveCount(rec.answer.length);
@@ -495,7 +497,8 @@ test("reading the library never changes the open lesson, its acknowledgment or t
   await page.getByTestId("item-link").first().click();
   await expect(page.getByTestId("item-title")).toBeVisible();
   await page.getByTestId("reading-language").selectOption("fr");
-  await expect(page.getByTestId("translation-unavailable")).toBeVisible();
+  // Either the honest unavailable message or the stored AI-assisted translation, never a silent blank.
+  await expect(page.getByTestId("translation-unavailable").or(page.getByTestId("fatwa-mt"))).toBeVisible();
   await mainNav(page).getByRole("link", { name: "المكتبة", exact: true }).click();
   await page.getByTestId("collection-hadith").click();
   await page.getByTestId("item-link").first().click();

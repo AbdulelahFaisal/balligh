@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1261",
+ "source_content_sha256": "sha256:afd3831973d8ed4a07493fe90cb6f278e7db0f4402f1e19c46fb683597c7d415",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:54:19.672297+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 750,
+  "completion_tokens": 475,
+  "total_tokens": 1225,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 494
+ },
+ "latency_ms": 4562,
+ "units": [
+  {
+   "id": "title",
+   "text": "Obedience to the father in what is right"
+  },
+  {
+   "id": "q0",
+   "text": "Q: Brother R. A. M from the Arab Republic of Egypt, after sending his greetings to Your Eminence, asks about deeds that his father does which contravene the Shari'ah and its etiquette, and what is obligatory for him towards his father in this situation?"
+  },
+  {
+   "id": "a0",
+   "text": "A: And upon you be peace and the mercy of Allah and His blessings.\nTo proceed: We ask Allah to grant your father guidance and to bestow upon him repentance. We advise you to be gentle with him and to advise him with good manners and not to despair of his guidance, because of the saying of Allah, Glorified be He: ⟦Q1⟧ the verse [Luqman:14-15]. He, Glorified be He, enjoined gratitude to parents along with gratitude to Him, and He commanded the child to keep company with them in this world in kindness, even if they strive to make him disbelieve in Allah. Thus you know that what is prescribed for you is to keep company with your father in kindness and to be good to him even if he mistreats you, and to strive in calling him to the truth, in the hope that Allah may guide him through your efforts.\nAnd it is not permissible for you to obey him in disobedience. We also advise you to seek help for his guidance from Allah, Mighty and Majestic, and then from righteous people among your relatives, such as your paternal uncles and others whom your father esteems and respects, so that perhaps he may accept their advice. We ask Allah for us, you, and him for guidance and success in attaining sincere repentance; indeed He is All-Hearing, Near⟦N2⟧.\nAnd peace be upon you and the mercy of Allah and His blessings."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu' Fatawa wa Maqalat al-Shaykh Ibn Baz (5/354)."
+  }
+ ]
+}

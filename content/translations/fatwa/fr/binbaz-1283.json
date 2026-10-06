@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1283",
+ "source_content_sha256": "sha256:11ea6d5325b9e44e40c6af23794cf591b38bad3e1f2ab281fd4fccd95c808c64",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:55:24.527745+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 627,
+  "completion_tokens": 332,
+  "total_tokens": 959,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 371
+ },
+ "latency_ms": 3021,
+ "units": [
+  {
+   "id": "title",
+   "text": "La pension alimentaire des enfants après le divorce de leur mère"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "La femme n'aime pas son mari, et lui non plus, comme elle le dit. Elle demande si la religion oblige le mari à subvenir à ses besoins et à ceux de ses enfants issus de lui après le divorce, dans une maison indépendante, ou non ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "S'ils se séparent, ils doivent s'entendre sur la question des enfants concernant la pension alimentaire. On examine leur situation devant le tribunal. Ils s'entendent avec son tuteur et avec elle sur la pension mensuelle requise, et louange à Dieu. S'ils sont en conflit, ils reviennent au tribunal. Le tribunal examine et estime la pension obligatoire. Mais le mieux est l'entente, l'entente avant le tribunal. Ils s'entendent sur une pension convenable qu'il verse à ses enfants s'il a divorcé d'elle et qu'elle a des enfants. C'est ce qui est préférable. S'ils sont en conflit, ils reviennent au tribunal. Il n'y a pas d'autre solution que le tribunal qui examine cela."
+  }
+ ]
+}

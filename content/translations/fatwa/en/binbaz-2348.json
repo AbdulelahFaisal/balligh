@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2348",
+ "source_content_sha256": "sha256:c90bd2037259d48dce104f0eedd4d04efdd1418980f82a3112746e0c971fa55b",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:10:45.959040+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 838,
+  "completion_tokens": 496,
+  "total_tokens": 1334,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 582
+ },
+ "latency_ms": 4638,
+ "units": [
+  {
+   "id": "title",
+   "text": "Does denying the existence of God indicate denial of His Lordship?"
+  },
+  {
+   "id": "q0",
+   "text": "Q: The communists and atheists of our time deny the existence of God. Is this not considered denial of the Oneness of Lordship, contrary to what some scholars said, that none of the disbelievers denied the Oneness of Lordship?"
+  },
+  {
+   "id": "a0",
+   "text": "A: The scholars mentioned that the Oneness of Lordship is something acknowledged by nations, and only some odd individuals, who are not taken into consideration, denied it. Among them are the Magians, who said that there are two gods, light and darkness, and that light is greater than darkness and created good, while darkness created evil. As for denying deities altogether, this was said by the obstinate Pharaoh. Likewise, the ancient philosophers and atheists are known to have considered the celestial spheres as gods, and that they have their known movements. But the majority of polytheists and their common people acknowledge the Lord, that there is a Lord who created and provides, and He is above, and they only sought nearness to Him through the polytheistic acts they committed.\nAnd the disbelievers of Quraysh denied the resurrection, while they acknowledged that Allah is their Lord and Creator, but they associated partners in worship and denied the resurrection, and said, 'There is nothing but our worldly life; we die and we live,' and they denied Paradise and Hell. So Allah sent Muhammad ﷺ to them and to others among the jinn and mankind to guide them to the truth and to reject the falsehood they were upon. Those whom Allah willed happiness for followed him, and most disbelieved in him, like other messengers, peace be upon them, as Allah Almighty said: ⟦Q1⟧ [Yusuf: 103] And He said: ⟦Q2⟧ [Saba': 20] And there are many verses in this meaning⟦N3⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu' Fatawa wa Maqalat al-Shaykh Ibn Baz (9/74)."
+  }
+ ]
+}

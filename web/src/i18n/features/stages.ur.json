@@ -61,5 +61,6 @@
   "continue": "اگلی قراءت جاری رکھیں",
   "continueStage": "جاری رکھیں: مرحلہ {{n}}",
   "backToStage": "مرحلہ {{n}} پر واپس",
-  "position": "مرحلہ {{n}} · قراءت {{i}} از {{total}}"
+  "position": "مرحلہ {{n}} · قراءت {{i}} از {{total}}",
+  "aiLanguages": "مصنوعی ذہانت کی مدد سے ترجمہ: {{languages}}"
 }

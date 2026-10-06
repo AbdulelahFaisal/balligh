@@ -1,0 +1,60 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-52",
+ "source_content_sha256": "sha256:088565861bd88501ccc22bcac10aa975b31c4ef168294b24e4b1f01a3e42c7bc",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:20:18.433947+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 974,
+  "completion_tokens": 910,
+  "total_tokens": 1884,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 718
+ },
+ "latency_ms": 7295,
+ "units": [
+  {
+   "id": "title",
+   "text": "Conditions du fait de dire « Lâ ilâha illa Allah »"
+  },
+  {
+   "id": "q0",
+   "text": "Question : Quelles sont les conditions du fait de dire : « Lâ ilâha illa Allah » (il n'y a de divinité digne d'adoration qu'Allah) ? Et suffit-il de la prononcer seulement sans comprendre son sens et ce qui en découle ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse : « Lâ ilâha illa Allah » est la meilleure parole, c'est le fondement de la religion et la base de la communauté. C'est par elle que les messagers (que la prière et le salut d'Allah soient sur eux) ont commencé avec leurs peuples. La première chose par laquelle le Messager a commencé avec son peuple a été de dire : « Dites : Lâ ilâha illa Allah, vous réussirez. » Allah le Très-Haut a dit : ⟦Q1⟧ [Al-Anbiyâ' : 25]. Et chaque messager disait à son peuple : ⟦Q2⟧ [Al-A'râf : 59]. C'est donc le fondement de la religion et de la communauté. Il faut que celui qui la prononce en connaisse le sens, c'est-à-dire qu'il n'y a aucune divinité digne d'adoration en dehors d'Allah. Elle a des conditions : la connaissance de son sens, la certitude et l'absence de doute sur sa véracité, la sincérité envers Allah dans cette parole uniquement, la véridicité par le cœur et la langue, l'amour de ce qu'elle implique comme sincérité envers Allah et l'acceptation de cela, la soumission à Lui, Son unicité, le rejet de l'association à Lui avec le désaveu de l'adoration d'autre que Lui et la croyance en sa nullité. Tout cela fait partie des conditions du fait de dire Lâ ilâha illa Allah et de la validité de son sens. Le croyant et la croyante la prononcent avec le désaveu de l'adoration d'autre qu'Allah, avec la soumission à la vérité et son acceptation, l'amour d'Allah et Son unicité, la sincérité envers Lui et l'absence de doute sur son sens. Certaines personnes la disent sans y croire, comme les hypocrites qui la disent tout en ayant un doute ou en la démentant. Il faut donc la connaissance, la certitude, la véridicité, la sincérité, l'amour, la soumission, l'acceptation et le désaveu. Certains ont rassemblé ses conditions dans deux vers en disant :"
+  },
+  {
+   "id": "a1",
+   "text": "Connaissance, certitude, sincérité et ta véridicité avec"
+  },
+  {
+   "id": "a2",
+   "text": "Amour, soumission et acceptation pour elle"
+  },
+  {
+   "id": "a3",
+   "text": "Et on a ajouté comme huitième la mécréance de ta part en ce qui est"
+  },
+  {
+   "id": "a4",
+   "text": "Adoré en dehors du Dieu parmi les choses"
+  },
+  {
+   "id": "a5",
+   "text": "Que la prière et le salut d'Allah soient sur notre Prophète Muhammad, sa famille et ses Compagnons⟦N3⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Publié dans la revue Al-Da'wah n° 1018 le lundi 29/3/1407 H. (Majmû' Fatâwâ wa Maqâlât du cheikh Ibn Bâz 3/49)"
+  }
+ ]
+}

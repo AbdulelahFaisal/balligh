@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1287",
+ "source_content_sha256": "sha256:399a2298ca7f092e8e1d6e7daf084d9afa2833af48bfcbe02f1582a03e3bb953",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:55:28.404889+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 711,
+  "completion_tokens": 390,
+  "total_tokens": 1101,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 455
+ },
+ "latency_ms": 3881,
+ "units": [
+  {
+   "id": "title",
+   "text": "The ruling on divorcing a wife because of her laziness"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "I have a wife who performs all the religious obligations completely, but she is sometimes reproached about some tasks until displeasure occurs, and she does not do some tasks except with displeasure, because she is accustomed to laziness. Is it permissible for me to divorce her?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "You should be patient, if she is good and religious, and even if she has some laziness, you should be patient. You have some laziness yourself; no one is free of faults. You should be kind to her and help her with household matters. Help her. The Prophet used to help his family—peace and blessings be upon him—and he was the best of creation. He used to assist his family in the house with household needs."
+  },
+  {
+   "id": "a2",
+   "text": "So you should help her, not get a servant. Help her so that you can do without the servant. Help her with household matters that she is unable to do. Perhaps she has children who have exhausted her. Help her with household chores, encourage her with kind words, not with \"O wicked one, O immoral one, O such and such, O daughter of so-and-so, O mother of so-and-so, do such and such.\" Rather say, \"May Allah grant you health, may Allah be pleased with you,\" and similar kind words."
+  }
+ ]
+}

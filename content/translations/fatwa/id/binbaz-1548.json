@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1548",
+ "source_content_sha256": "sha256:e571bd8c3247fd52908904e1ff274d367f633f74ef23f1601742c1b47a60c0f4",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:59:03.496788+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 710,
+  "completion_tokens": 467,
+  "total_tokens": 1177,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 454
+ },
+ "latency_ms": 4995,
+ "units": [
+  {
+   "id": "title",
+   "text": "Penjelasan tentang tata cara tayamum"
+  },
+  {
+   "id": "q0",
+   "text": "Saya mohon kiranya Anda menjelaskan kepada kami tata cara tayamum yang benar."
+  },
+  {
+   "id": "a0",
+   "text": "Tayamum yang benar adalah sebagaimana difirmankan Allah Yang Mahamulia lagi Mahaagung: ⟦Q1⟧ [Al-Ma'idah: 6]. Yang disyariatkan adalah satu kali tepukan untuk wajah dan kedua telapak tangan. Tata caranya ialah menepukkan kedua tangan ke tanah satu kali, lalu mengusap wajah dan kedua telapak tangan dengannya, sebagaimana dalam Shahihain bahwa Nabi ﷺ bersabda kepada 'Ammar bin Yasir radhiyallahu 'anhu, \"Cukuplah bagimu berbuat begini dengan kedua tanganmu,\" kemudian beliau menepukkan kedua tangannya ke tanah dan mengusap wajah serta kedua telapak tangannya.\nDisyaratkan tanahnya suci. Tidak disyariatkan mengusap kedua lengan, karena cukup mengusap wajah dan kedua telapak tangan berdasarkan hadis tersebut.\nTayamum menggantikan air dalam mengangkat hadas menurut pendapat yang sahih. Apabila seseorang bertayamum, ia boleh salat sunah dan salat fardu yang sedang dijalani maupun yang akan datang dengan tayamum itu selama masih dalam keadaan suci sampai ia berhadas, atau sampai ia mendapatkan air jika sebelumnya tidak ada air, atau sampai ia mampu menggunakan air jika sebelumnya tidak mampu menggunakannya. Tayamum adalah thahur (alat bersuci) yang menggantikan air, sebagaimana Nabi ﷺ menamakannya thahur⟦N2⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu' Fatawa wa Maqalat Syaikh Ibnu Baz (6/22)."
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-5629",
+ "source_content_sha256": "sha256:0df25014056a9c7f9c90469dd667d50e1b89f28d4fb0a6266caf2632ccfba838",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:21:47.866829+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1182,
+  "completion_tokens": 1249,
+  "total_tokens": 2431,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 926
+ },
+ "latency_ms": 9219,
+ "units": [
+  {
+   "id": "title",
+   "text": "Jugement concernant celui qui délaisse un pilier de l'Islam"
+  },
+  {
+   "id": "q0",
+   "text": "Question : En réalité, la question de la sœur en Islam d'Irak comporte quelque chose qui revient parmi les gens. Ils disent par exemple : la prière exige l'Islam, le pèlerinage exige aussi l'Islam. Une personne peut être musulmane même si elle n'accomplit pas le reste des piliers de l'Islam. Vous avez répondu à cela, mais nous voulons davantage d'éclaircissements sur ce sujet ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse : Cela est clair. Il est musulman par les deux attestations de foi dès qu'il reconnaît les deux attestations et qu'il proclame l'unicité d'Allah, Puissant et Majestueux, et qu'il croit en Son messager Muhammad ﷺ, il entre en Islam. Ensuite, on examine : s'il prie, son Islam est complet, et s'il ne prie pas, il devient apostat. De même, s'il renie la prière après cela, il devient apostat, ou s'il renie le jeûne en disant : « Le jeûne du Ramadan n'est pas obligatoire », il devient apostat, ou s'il dit : « La zakah (aumône légale) n'est pas obligatoire », la zakah de l'Islam n'est pas obligatoire, il devient apostat, ou s'il dit : « Le pèlerinage avec capacité n'est pas obligatoire », il devient apostat, ou s'il se moque de la religion, ou insulte le Prophète ﷺ, il devient apostat. Avez-vous compris ? Cela doit être clair. Ainsi, lorsqu'il entre en Islam par les deux attestations, on lui applique le jugement de l'Islam. Ensuite, on examine le reste des affaires. S'il demeure droit sur la vérité, son Islam est complet, et s'il commet ce qui annule l'Islam, comme insulter la religion, traiter le Prophète ﷺ de menteur, nier ce qu'Allah a rendu obligatoire comme la prière ou le jeûne, nier ce qu'Allah a interdit, comme s'il dit : « La fornication est licite », il apostasie l'Islam par cela, même s'il prie et jeûne. Même s'il dit : « J'atteste qu'il n'y a de divinité digne d'adoration qu'Allah et que Muhammad est le Messager d'Allah », s'il dit : « La fornication est licite » alors qu'il connaît les preuves et que l'argument a été établi contre lui, il devient mécréant en Allah d'une mécréance majeure, qu'Allah nous en préserve. Ou s'il dit : « L'alcool est licite », et qu'on lui a expliqué les preuves et qu'elles lui sont devenues claires, puis il persiste à dire : « L'alcool est licite », c'est une mécréance majeure, une apostasie de l'Islam, qu'Allah nous en préserve. Ou s'il dit par exemple : « Le fait de désobéir à ses parents est licite », c'est une apostasie de l'Islam, qu'Allah nous en préserve. Ou s'il dit : « Le faux témoignage est licite », c'est une apostasie de l'Islam après qu'on lui a expliqué les preuves légales.\nDe même, s'il dit : « La prière n'est pas obligatoire », « La zakah n'est pas obligatoire », « Le jeûne du Ramadan n'est pas obligatoire », « Le pèlerinage avec capacité n'est pas obligatoire », toutes ces choses sont des annulatifs de l'Islam, il devient mécréant.\nQuant à la divergence, c'est s'il dit : « La prière est obligatoire mais je ne prie pas. » C'est là le point de divergence : est-ce qu'il devient mécréant ou non ? Il dit : « La prière est obligatoire mais je suis négligent, je ne prie pas. » La majorité des juristes disent : il ne devient pas mécréant, mais il est pécheur. On lui demande de se repentir ; s'il se repent, tant mieux, sinon il est exécuté comme peine légale.\nD'autres savants, et c'est ce qui est rapporté des Compagnons, qu'Allah soit satisfait d'eux, disent qu'il devient mécréant par cela d'une mécréance majeure. On lui demande de se repentir ; s'il se repent, tant mieux, sinon il est exécuté en tant que mécréant, car Allah, Glorifié et Exalté, dit : ⟦Q1⟧ [At-Tawbah : 5]. Cela indique que celui qui n'accomplit pas la prière ne doit pas être laissé libre, mais on lui demande de se repentir ; s'il se repent, tant mieux, sinon il est exécuté. Et Il dit : ⟦Q2⟧ [At-Tawbah : 11]. Cela indique que celui qui n'accomplit pas la prière – ne prie pas – n'est pas un frère en religion. Oui."
+  }
+ ]
+}

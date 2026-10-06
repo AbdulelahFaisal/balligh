@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3709",
+ "source_content_sha256": "sha256:d6979fce39d51efa7cc5ddd1a0d1980f20687efcbfe30eb4910b318da1f9bbfc",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:17:29.895771+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 778,
+  "completion_tokens": 547,
+  "total_tokens": 1325,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 522
+ },
+ "latency_ms": 4836,
+ "units": [
+  {
+   "id": "title",
+   "text": "Conseil à celui qui ne ressent pas de quiétude dans sa prière"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Je prie, louange à Allah, mais je ressens de la gêne et un manque de quiétude dans la prière. Conseillez-moi, qu'Allah vous récompense."
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "C'est une maladie du cœur, et le plus souvent sa cause est les péchés et la négligence. Celui qui n'éprouve pas d'épanouissement dans la prière, cela ne lui arrive que par sa négligence, son détournement et ses péchés. Qu'il se repente à Allah, qu'il lutte contre son âme, qu'il demande à son Seigneur la réussite, et qu'il soit présent par son cœur dans la prière. Car la prière est une quiétude et une joie des yeux. Le Prophète ﷺ a dit : « La joie de mes yeux a été placée dans la prière. » Elle est donc la joie des yeux, et il disait à Bilal : « Lève-toi et soulage-nous par la prière. »"
+  },
+  {
+   "id": "a2",
+   "text": "La prière est la quiétude des cœurs, la quiétude des consciences et la joie des yeux. Quand le croyant y entre, il s'y sent apaisé, son cœur est serein et ses yeux se réjouissent, car elle est le pilier de l'islam, et parce qu'il y satisfait son Seigneur et se tient devant Lui avec humilité. Elle est la quiétude des cœurs, le délice des âmes et la joie des yeux. Si l'homme ressent de la gêne dans la prière, qu'il sache que c'est un malheur, et qu'il le traite par le repentir à Allah, en Lui demandant la réussite, la guidance et l'aide. Et Allah accepte le repentir de ceux qui se repentent, gloire à Lui."
+  }
+ ]
+}

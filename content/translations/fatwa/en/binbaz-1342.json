@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1342",
+ "source_content_sha256": "sha256:e7ade7a901ec803693ac2a67b552ca98404d88660a3521bd9022121fc60960dc",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:56:03.017368+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 830,
+  "completion_tokens": 517,
+  "total_tokens": 1347,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 574
+ },
+ "latency_ms": 4462,
+ "units": [
+  {
+   "id": "title",
+   "text": "Slaughtering when the building reaches halfway or is completed"
+  },
+  {
+   "id": "q0",
+   "text": "Question: A question from one of the Sudanese brothers, who says: In our country there is a custom, which is that when a person begins building a house for himself, he slaughters an animal when the building reaches halfway, or this slaughter is postponed until the completion of the building and the intention to live in the house. Relatives and neighbors are invited to this slaughtered animal. What is the opinion of Your Eminence regarding this act? Is there any prescribed act that is recommended to be done before moving into a new house? Please advise us, may Allah reward you with the best of rewards."
+  },
+  {
+   "id": "a0",
+   "text": "Answer: Praise be to Allah, and peace and blessings be upon the Messenger of Allah, and upon his family and companions and those who follow his guidance. To proceed:\nThis action involves a detailed ruling. If the purpose of the slaughter is to ward off jinn or any other aim whereby the owner of the house intends that this slaughter will result in such and such, such as his safety and the safety of its inhabitants, then this is not permissible; it is of the innovations. If it is for the jinn, then it is major shirk; because it is worship of other than Allah.\nBut if it is by way of gratitude for the blessings bestowed upon him of reaching the roof or upon completing the house, so he gathers his relatives and neighbors and invites them to this feast, then there is no harm in that. This is done by many people by way of gratitude for the blessings of Allah, since He favored them with building a house and living in it instead of renting. Similar to that is what some people do upon returning from travel, inviting their relatives and neighbors in gratitude to Allah for safety, for the Prophet (peace and blessings of Allah be upon him), when he returned from a journey, would slaughter a camel and invite the people to it, peace and blessings be upon him⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Nur ‘ala ad-Darb tape no. 837. (Majmu‘ Fatawa wa Maqalat al-Shaykh Ibn Baz 5/388)"
+  }
+ ]
+}

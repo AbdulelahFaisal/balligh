@@ -1,0 +1,36 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-5627",
+ "source_content_sha256": "sha256:4334ded18d5e4e39ddeaaaea486be0eb6a2780c48cdd30efeac08632e94fabff",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:21:17.822524+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1262,
+  "completion_tokens": 1396,
+  "total_tokens": 2658,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 1006
+ },
+ "latency_ms": 11024,
+ "units": [
+  {
+   "id": "title",
+   "text": "Le jugement de se contenter de la foi du cœur sans les œuvres"
+  },
+  {
+   "id": "q0",
+   "text": "Question : Une sœur en islam de Bagdad en Irak demande également : La foi du cœur suffit-elle pour qu'une personne soit musulmane, en étant loin de la prière, du jeûne et de la zakah ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse : La foi du cœur ne suffit pas, elle ne dispense pas de la prière et des autres obligations. Il faut qu'il croie de tout son cœur qu'Allah est Un, sans associé, qu'Il est son Seigneur et son Créateur, et qu'il Lui voue exclusivement l'adoration, gloire et pureté à Lui. Il doit aussi croire au Messager Muhammad ﷺ et qu'il est véritablement le Messager d'Allah envoyé à tous les gens. Tout cela est indispensable, c'est le fondement de la religion et sa base.\nMais il faut en plus accomplir la prière et le reste des affaires de la religion. S'il prie, il s'acquitte de son obligation ; s'il ne prie pas, il devient mécréant, car délaisser la prière est une mécréance. Quant à la zakah, au jeûne, au pèlerinage et aux autres obligations, s'il y croit et reconnaît qu'elles sont obligatoires mais qu'il les néglige, il ne devient pas mécréant pour cela ; il est pécheur, sa foi est faible et déficiente, car la foi augmente et diminue : elle augmente par les obéissances et les bonnes œuvres, et diminue par les désobéissances. En ce qui concerne la prière en particulier, son abandon est une mécréance selon un groupe de savants, et c'est l'avis le plus juste des deux opinions des savants, contrairement aux autres adorations comme la zakah, le jeûne, le pèlerinage et autres, dont l'abandon n'est pas une mécréance selon l'avis le plus correct — c'est-à-dire une mécréance majeure — mais c'est une diminution de la foi, une faiblesse de la foi, et un péché énorme. Délaisser la zakah est un grand péché, délaisser le jeûne est un grand péché, délaisser le pèlerinage alors qu'on en a la capacité est un grand péché, mais cela ne constitue pas une mécréance majeure si la personne croit que la zakah est vraie, que le jeûne est vrai et que le pèlerinage avec la capacité est vrai, et qu'elle ne traite pas ces choses de mensonges et ne nie pas leur obligation, mais qu'elle les néglige en pratique : elle ne devient pas mécréante pour cela, selon l'avis le plus correct.\nQuant à la prière, si on l'abandonne, on devient mécréant selon l'avis le plus juste des deux opinions des savants, d'une mécréance majeure — qu'Allah nous en préserve — si on la délaisse totalement. Quant aux deux attestations de foi : qu'Allah est le Seigneur de tous et le Dieu de tous, et qu'il n'y a de divinité que Lui, c'est-à-dire qu'il n'y a pas de divinité digne d'adoration en dehors de Lui, et l'attestation que Muhammad est le Messager d'Allah, ces deux attestations sont le fondement de la religion, la base de la communauté. Un groupe de savants — et c'est l'avis de la plupart des jurisconsultes — est d'avis qu'on est musulman par cela, même si on ne prie pas, tant qu'on croit à l'obligation de la prière, du jeûne, du pèlerinage, etc., mais qu'on ne les accomplit pas par négligence. Pour la plupart des jurisconsultes, on ne devient pas mécréant d'une mécréance majeure en délaissant cela ; on reste musulman pécheur, en danger d'entrer en enfer, mais on ne devient pas mécréant pour cela.\nUn groupe de savants est d'avis que délaisser la prière est une mécréance majeure, et c'est l'avis le plus prépondérant comme on l'a vu, et le plus juste, selon la parole du Prophète ﷺ : « Le pacte entre nous et eux est la prière ; celui qui la délaisse a mécru. » Et selon sa parole, prière et salut sur lui : « Entre l'homme et la mécréance et l'association il y a l'abandon de la prière », comme cela a été rapporté précédemment dans la réponse à une question antérieure.\nIl faut donc faire attention à cela. Quant aux autres obligations de la religion comme la zakah, le jeûne, le pèlerinage et autres, si le croyant en Allah et en Son Messager en croit l'obligation et ne la nie pas, mais qu'il peut les négliger dans la pratique, cela ne constitue pas une mécréance majeure, mais c'est une diminution de la foi, une faiblesse de la foi, et il est pécheur, méritant d'entrer en enfer et la colère d'Allah, à moins qu'Allah ne lui pardonne, gloire et pureté à Lui, selon Sa parole, Puissant et Majestueux : ⟦Q1⟧ [An-Nisa : 48]. Il a placé ce qui est en deçà de l'association sous la volonté d'Allah. On sait par là que les péchés sont sous la volonté d'Allah et qu'on ne devient pas mécréant d'une mécréance majeure à cause d'eux ; on est plutôt pécheur et faible dans la foi. Oui."
+  }
+ ]
+}

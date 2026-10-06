@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3588",
+ "source_content_sha256": "sha256:14a24c3f3304cac36ec96a19b18594dfa65f3cb040a955a454246957d6390570",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:16:32.771710+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 645,
+  "completion_tokens": 384,
+  "total_tokens": 1029,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 389
+ },
+ "latency_ms": 3861,
+ "units": [
+  {
+   "id": "title",
+   "text": "Hukum Wudhu di Dalam Kamar Mandi"
+  },
+  {
+   "id": "q0",
+   "text": "Apa hukum orang yang berwudhu di dalam kamar mandi, dan apakah wudhunya sah?"
+  },
+  {
+   "id": "a0",
+   "text": "Tidak mengapa berwudhu di dalam kamar mandi jika ada kebutuhan untuk itu, dan hendaklah ia membaca basmalah di awal wudhu, yaitu mengucapkan: (Bismillah). Karena basmalah itu wajib menurut sebagian ulama dan sangat ditekankan menurut mayoritas ulama. Maka ia mengucapkannya sehingga hilanglah kemakruhan, karena kemakruhan itu hilang ketika ada kebutuhan untuk membaca basmalah. Seseorang diperintahkan untuk membaca basmalah di awal wudhu, maka ia membaca basmalah dan menyempurnakan wudhunya.\nAdapun tasyahud dilakukan setelah keluar dari kamar mandi – yaitu tempat buang hajat – maka setelah selesai wudhu, ia keluar dan bertasyahud di luar.\nAdapun jika kamar mandi itu hanya untuk wudhu, bukan untuk buang air besar dan kecil, maka tidak mengapa mengucapkannya di dalamnya, karena itu bukan tempat buang hajat⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Dari program Nur 'Ala ad-Darb, kaset nomor (8), (Majmu' Fatawa wa Maqalat Syaikh Ibnu Baz 10/28). "
+  }
+ ]
+}

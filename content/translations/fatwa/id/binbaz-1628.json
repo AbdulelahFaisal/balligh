@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1628",
+ "source_content_sha256": "sha256:96e8a9251e4c16aedd6c23ee621e686bf80e88242c710dfcf32a82c118e84353",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:01:26.162204+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 729,
+  "completion_tokens": 493,
+  "total_tokens": 1222,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 473
+ },
+ "latency_ms": 7982,
+ "units": [
+  {
+   "id": "title",
+   "text": "Hukum melihat wanita yang dilamar dan ketentuannya"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Jika seorang calon suami ingin bertemu dengan wanita tanpa berduaan, apa dalilnya, sementara Rasulullah ﷺ bersabda: seluruh wanita adalah aurat?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Tidak mengapa. Wanita adalah aurat, sebagaimana disebutkan dalam hadis, tetapi Nabi ﷺ memberikan pengecualian dalam hal yang berkaitan dengan pelamar ketika ia melamar dan ingin melihatnya, maka tidak mengapa. Nabi ﷺ bersabda: \"Jika salah seorang dari kalian melamar seorang wanita, maka jika ia mampu melihat darinya apa yang mendorongnya untuk menikahinya, hendaklah ia melakukannya.\" Jika ia mampu melihat, meskipun dari jauh tanpa sepengetahuannya, maka tidak mengapa. Jabir bin Abdullah al-Ansari radhiyallahu 'anhu melamar seorang wanita dari Anshar dan belum pernah melihatnya, ia berkata: \"Maka aku bersembunyi di antara pohon kurma agar dapat melihatnya, hingga ia melihat darinya apa yang membuatnya kagum, lalu ia menikahinya.\""
+  },
+  {
+   "id": "a2",
+   "text": "Maksudnya: jika memungkinkan baginya untuk melihatnya, meskipun dari jauh, atau dengan cara berada di rumah keluarganya, lalu ia lewat dan mereka meridainya, atau semacam itu. Dan jika dimungkinkan ayah atau saudara laki-lakinya menghadirkannya, memasukkannya kepadanya, dan ia melihatnya tanpa berduaan di hadapan ayahnya, atau saudara laki-lakinya, atau ibunya, atau semacamnya, maka tidak mengapa. Ini diizinkan dan diringankan oleh Nabi ﷺ."
+  }
+ ]
+}

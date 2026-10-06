@@ -1,0 +1,144 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2001",
+ "source_content_sha256": "sha256:c9ace17aee799e431da3eef9f9cd45a5f3ed7076b7c73d60068f1643f9339185",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:07:16.284184+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 2743,
+  "completion_tokens": 3180,
+  "total_tokens": 5923,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 2487
+ },
+ "latency_ms": 24350,
+ "units": [
+  {
+   "id": "title",
+   "text": "Makna Laa ilaaha illallah, Konsekuensinya, dan Syarat-syaratnya"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan: Terlihat ketidaktahuan banyak orang yang dianggap bagian dari umat Islam tentang makna Laa ilaaha illallah, dan akibatnya mereka terjerumus ke dalam perkataan dan perbuatan yang menafikannya, menentangnya, atau menguranginya. Apa makna Laa ilaaha illallah? Apa konsekuensinya? Apa syarat-syaratnya?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban: Tidak diragukan lagi bahwa kalimat ini, yaitu (Laa ilaaha illallah), adalah dasar agama, dan merupakan rukun Islam yang pertama, bersama syahadat bahwa Muhammad adalah utusan Allah, sebagaimana dalam hadis sahih dari Nabi ﷺ bahwa beliau bersabda: \"Islam dibangun di atas lima perkara: syahadat bahwa tidak ada sesembahan yang berhak disembah selain Allah dan bahwa Muhammad adalah utusan Allah, mendirikan salat, menunaikan zakat, puasa Ramadan, dan haji ke Baitullah.\" Hadis ini disepakati kesahihannya dari hadis Ibnu Umar radhiyallahu 'anhuma."
+  },
+  {
+   "id": "a1",
+   "text": "Dalam Shahihain dari Ibnu Abbas radhiyallahu 'anhuma bahwa Nabi ﷺ ketika mengutus Muadz radhiyallahu 'anhu ke Yaman, beliau bersabda kepadanya: \"Sesungguhnya engkau akan mendatangi kaum dari Ahli Kitab, maka ajaklah mereka untuk bersaksi bahwa tidak ada sesembahan yang berhak disembah selain Allah dan bahwa aku adalah utusan Allah. Jika mereka menaatimu dalam hal itu, maka beri tahukan kepada mereka bahwa Allah telah mewajibkan atas mereka lima salat dalam sehari semalam. Jika mereka menaatimu dalam hal itu, maka beri tahukan kepada mereka bahwa Allah telah mewajibkan atas mereka sedekah (zakat) yang diambil dari orang-orang kaya mereka dan dikembalikan kepada orang-orang fakir mereka.\" Hadis ini disepakati. Hadis-hadis dalam bab ini banyak."
+  },
+  {
+   "id": "a2",
+   "text": "Makna syahadat Laa ilaaha illallah adalah: tidak ada sesembahan yang berhak disembah dengan benar kecuali Allah. Kalimat ini menafikan ketuhanan yang hak dari selain Allah Subhanahu wa Ta'ala, dan menetapkannya secara hak hanya untuk Allah semata, sebagaimana firman Allah 'Azza wa Jalla dalam Surah Al-Hajj: ⟦Q1⟧ [Al-Hajj:62] Dan firman-Nya dalam Surah Al-Mu'minun: ⟦Q2⟧ [Al-Mu'minun:117] Dan firman-Nya dalam Surah Al-Baqarah: ⟦Q3⟧ [Al-Baqarah:163] Dan firman-Nya dalam Surah Al-Bayyinah: ⟦Q4⟧ [Al-Bayyinah:5] Dan ayat-ayat tentang makna ini banyak."
+  },
+  {
+   "id": "a3",
+   "text": "Kalimat agung ini tidak bermanfaat bagi pengucapnya dan tidak mengeluarkannya dari lingkaran kesyirikan kecuali jika dia mengetahui maknanya, mengamalkannya, dan membenarkannya. Sungguh orang-orang munafik dahulu mengucapkannya, namun mereka berada di dasar neraka yang paling bawah karena mereka tidak beriman kepadanya dan tidak mengamalkannya."
+  },
+  {
+   "id": "a4",
+   "text": "Demikian pula orang-orang Yahudi mengucapkannya, tetapi mereka termasuk manusia yang paling kafir -karena tidak beriman kepadanya-. Demikian pula para penyembah kuburan dan wali dari kalangan orang kafir umat ini, mereka mengucapkannya tetapi mereka menyelisihinya dengan perkataan, perbuatan, dan keyakinan mereka. Maka kalimat itu tidak bermanfaat bagi mereka, dan dengan mengucapkannya mereka tidak menjadi muslim karena mereka telah membatalkannya dengan perkataan, perbuatan, dan keyakinan mereka."
+  },
+  {
+   "id": "a5",
+   "text": "Sebagian ulama menyebutkan bahwa syarat-syaratnya ada delapan, yang mereka kumpulkan dalam dua bait syair:"
+  },
+  {
+   "id": "a6",
+   "text": "Ilmu, keyakinan, keikhlasan, dan kejujuranmu beserta"
+  },
+  {
+   "id": "a7",
+   "text": "Kecintaan, ketundukan, dan penerimaan terhadapnya"
+  },
+  {
+   "id": "a8",
+   "text": "Dan ditambahkan yang kedelapan, pengingkaranmu terhadap"
+  },
+  {
+   "id": "a9",
+   "text": "Segala sesuatu selain Allah yang disembah sebagai tuhan"
+  },
+  {
+   "id": "a10",
+   "text": "Dua bait ini telah mencakup seluruh syarat-syaratnya:"
+  },
+  {
+   "id": "a11",
+   "text": "Pertama: ilmu tentang maknanya yang menafikan kebodohan. Telah dijelaskan bahwa maknanya adalah tidak ada sesembahan yang berhak disembah dengan benar kecuali Allah. Maka semua sesembahan yang disembah manusia selain Allah Subhanahu wa Ta'ala semuanya batil."
+  },
+  {
+   "id": "a12",
+   "text": "Kedua: keyakinan yang menafikan keraguan. Maka wajib bagi pengucapnya untuk yakin bahwa Allah Subhanahu wa Ta'ala adalah sesembahan yang berhak disembah dengan benar."
+  },
+  {
+   "id": "a13",
+   "text": "Ketiga: keikhlasan, yaitu hendaknya seorang hamba mengikhlaskan seluruh ibadah hanya untuk Tuhannya Subhanahu wa Ta'ala, yaitu Allah 'Azza wa Jalla. Jika dia memalingkan sebagian ibadah tersebut kepada selain Allah, seperti nabi, wali, malaikat, berhala, jin, atau lainnya, maka dia telah berbuat syirik kepada Allah dan membatalkan syarat ini, yaitu syarat keikhlasan."
+  },
+  {
+   "id": "a14",
+   "text": "Keempat: kejujuran, yaitu dia mengucapkannya dengan jujur dalam hal itu, hatinya sesuai dengan lisannya, dan lisannya sesuai dengan hatinya. Jika dia mengucapkannya hanya dengan lisan sedangkan hatinya tidak beriman terhadap maknanya, maka hal itu tidak bermanfaat baginya, dan dengan demikian dia menjadi kafir seperti orang-orang munafik lainnya."
+  },
+  {
+   "id": "a15",
+   "text": "Kelima: kecintaan, yaitu dia mencintai Allah 'Azza wa Jalla. Jika dia mengucapkannya tetapi tidak mencintai Allah, maka dia menjadi kafir dan tidak masuk Islam, seperti orang-orang munafik."
+  },
+  {
+   "id": "a16",
+   "text": "Di antara dalilnya adalah firman Allah Ta'ala: ⟦Q5⟧ ayat [Ali 'Imran:31], dan firman-Nya: ⟦Q6⟧ [Al-Baqarah:165] dan ayat-ayat tentang makna ini banyak."
+  },
+  {
+   "id": "a17",
+   "text": "Keenam: ketundukan terhadap makna yang ditunjukkan oleh kalimat tersebut, yaitu dia beribadah hanya kepada Allah semata, tunduk kepada syariat-Nya, beriman kepadanya, dan meyakini bahwa syariat itu adalah kebenaran. Jika dia mengucapkannya tetapi tidak beribadah hanya kepada Allah dan tidak tunduk kepada syariat-Nya, bahkan menyombongkan diri dari hal itu, maka dia tidak menjadi muslim, seperti Iblis dan yang semisalnya."
+  },
+  {
+   "id": "a18",
+   "text": "Ketujuh: penerimaan terhadap apa yang ditunjukkan oleh kalimat tersebut, yaitu menerima konsekuensi dari kalimat itu berupa mengikhlaskan ibadah hanya untuk Allah semata, meninggalkan penyembahan kepada selain-Nya, berkomitmen dengan hal itu, dan meridhainya."
+  },
+  {
+   "id": "a19",
+   "text": "Kedelapan: mengingkari apa yang disembah selain Allah, yaitu berlepas diri dari penyembahan kepada selain Allah dan meyakini bahwa penyembahan itu batil, sebagaimana firman Allah Subhanahu: ⟦Q7⟧ [Al-Baqarah:256]."
+  },
+  {
+   "id": "a20",
+   "text": "Telah sahih dari Rasulullah ﷺ bahwa beliau bersabda: \"Barangsiapa mengucapkan Laa ilaaha illallah dan mengingkari apa yang disembah selain Allah, maka haram harta dan darahnya, dan hisabnya atas Allah.\" Dalam riwayat lain dari beliau ﷺ: \"Barangsiapa mentauhidkan Allah dan mengingkari apa yang disembah selain Allah, maka haram harta dan darahnya.\" Keduanya diriwayatkan oleh Muslim dalam Shahihnya."
+  },
+  {
+   "id": "a21",
+   "text": "Maka wajib bagi seluruh kaum muslimin untuk merealisasikan kalimat ini dengan memperhatikan syarat-syarat tersebut. Apabila seorang muslim memiliki makna kalimat ini dan istiqamah di atasnya, maka dia adalah muslim yang haram darah dan hartanya, meskipun dia tidak mengetahui rincian syarat-syarat ini, karena yang dimaksud adalah mengetahui kebenaran dan mengamalkannya, meskipun orang beriman tidak mengetahui rincian syarat-syarat yang dituntut."
+  },
+  {
+   "id": "a22",
+   "text": "Thaghut adalah segala sesuatu yang disembah selain Allah, sebagaimana firman Allah 'Azza wa Jalla: ⟦Q8⟧ ayat [Al-Baqarah:256]."
+  },
+  {
+   "id": "a23",
+   "text": "Dan firman-Nya: ⟦Q9⟧ [An-Nahl:36]. Adapun orang-orang yang disembah selain Allah tetapi tidak meridhai penyembahan itu, seperti para nabi, orang-orang saleh, dan para malaikat, maka mereka bukan thaghut. Thaghut hanyalah setan yang mengajak manusia untuk menyembah mereka dan menghiasi penyembahan itu bagi manusia. Kita memohon kepada Allah keselamatan untuk kami dan kaum muslimin dari segala keburukan. Adapun perbedaan antara amalan-amalan yang menafikan kalimat ini, yaitu Laa ilaaha illallah, dan yang menafikan kesempurnaan wajibnya, adalah sebagai berikut: setiap amalan, perkataan, atau keyakinan yang menjerumuskan pelakunya ke dalam syirik besar, maka itu menafikan kalimat ini secara total dan menentangnya. Seperti berdoa kepada orang mati, malaikat, berhala, pohon, batu, bintang, dan semacamnya, menyembelih untuk mereka, bernazar, sujud kepada mereka, dan lain-lain."
+  },
+  {
+   "id": "a24",
+   "text": "Semua ini menafikan tauhid secara total, menentang kalimat ini, dan membatalkannya, yaitu Laa ilaaha illallah. Termasuk juga menghalalkan apa yang diharamkan Allah dari perkara-perkara haram yang diketahui dari agama secara pasti dan ijma, seperti zina, minum minuman keras, durhaka kepada orang tua, riba, dan semacamnya. Termasuk juga mengingkari kewajiban-kewajiban yang Allah wajibkan dari perkataan dan perbuatan yang diketahui dari agama secara pasti dan ijma, seperti kewajiban salat lima waktu, zakat, puasa Ramadan, berbakti kepada orang tua, mengucapkan dua kalimat syahadat, dan semacamnya."
+  },
+  {
+   "id": "a25",
+   "text": "Adapun perkataan, perbuatan, dan keyakinan yang melemahkan tauhid dan iman serta menafikan kesempurnaan wajibnya, maka banyak sekali. Di antaranya: syirik kecil seperti riya, bersumpah dengan selain Allah, perkataan \"Masya Allah dan si fulan\", atau \"ini dari Allah dan dari si fulan\", dan semacamnya. Demikian pula semua kemaksiatan melemahkan tauhid dan iman serta menafikan kesempurnaan wajibnya. Maka wajib berhati-hati dari segala yang menafikan tauhid dan iman atau mengurangi pahalanya. Iman menurut Ahlus Sunnah wal Jama'ah adalah perkataan dan perbuatan, bertambah dengan ketaatan dan berkurang dengan kemaksiatan."
+  },
+  {
+   "id": "a26",
+   "text": "Dalil-dalil tentang hal ini banyak, telah dijelaskan oleh para ulama dalam kitab-kitab akidah, tafsir, dan hadis. Barangsiapa mencarinya, dia akan mendapatkannya, segala puji bagi Allah. Di antaranya firman Allah Ta'ala: ⟦Q10⟧ [At-Taubah:124] dan firman-Nya: ⟦Q11⟧ [Al-Anfal:2] dan firman-Nya: ⟦Q12⟧ [Maryam:76] dan ayat-ayat tentang makna ini banyak⟦N13⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu' Fatawa wa Maqalat asy-Syaikh Ibnu Baz (7/45)."
+  }
+ ]
+}

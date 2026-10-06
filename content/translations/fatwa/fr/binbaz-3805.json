@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3805",
+ "source_content_sha256": "sha256:7490704b91438f4ebadc55fcd2b4cf849e8d1684cb18c82e48816f664107a176",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:17:50.274880+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 817,
+  "completion_tokens": 643,
+  "total_tokens": 1460,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 561
+ },
+ "latency_ms": 5543,
+ "units": [
+  {
+   "id": "title",
+   "text": "Le lavage (ghusl) du vendredi est une sunnah fortement recommandée"
+  },
+  {
+   "id": "q0",
+   "text": "Q : Le lavage du vendredi est-il obligatoire ou recommandé ?"
+  },
+  {
+   "id": "a0",
+   "text": "R : Le lavage (ghusl) le jour du vendredi est une sunnah fortement recommandée ; en raison de ce qui a été rapporté à ce sujet dans les hadiths authentiques du Prophète ﷺ, parmi lesquels : sa parole ﷺ : « Le lavage du vendredi est obligatoire pour tout pubère, qu’il se brosse les dents et se parfume » et sa parole ﷺ : « Quiconque se lave, puis se rend à la prière du vendredi, prie ce qui lui est destiné, puis écoute en silence jusqu’à ce que l’imam termine son sermon, puis prie avec lui, il lui sera pardonné entre ce vendredi et le vendredi suivant, et trois jours de plus » rapporté par Mouslim dans son Sahih. Et dans une version de lui : « Quiconque fait ses ablutions et les parfait, puis se rend à la prière du vendredi, écoute et se tait, il lui sera pardonné entre ce vendredi et le vendredi suivant, avec trois jours de plus ; et quiconque touche les cailloux a commis une futilité » avec de nombreux hadiths sur le sujet.\nEt sa parole ﷺ : « obligatoire pour tout pubère » signifie selon la plupart des gens de science : fortement recommandé, comme disent les Arabes : (la promesse est une dette, et ton droit sur moi est obligatoire). Ce sens est indiqué par le fait qu’il ﷺ s’est contenté des ablutions dans certains hadiths.\nDe même, le parfum, le brossage des dents, le port des plus beaux vêtements, et le fait de se rendre tôt à la prière du vendredi, tout cela fait partie des sunnahs recommandées, et rien de tout cela n’est obligatoire⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Publié dans le journal Al-Bilad, numéro (10708) du dimanche 16/5/1413 H. Et dans la revue Al-Da’wah, numéro (1355) du 29/2/1413 H. Et dans le livre Al-Da’wah (Al-Fatawa) de son éminence, deuxième partie p. 68, (Majmu’ Fatawa wa Maqalat al-Cheikh Ibn Baz 10/170)."
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2631",
+ "source_content_sha256": "sha256:5254af03806f3a4948bc95256914a615efdb5088fafd45220db7400d5724bccc",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:13:20.084380+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1170,
+  "completion_tokens": 1061,
+  "total_tokens": 2231,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 914
+ },
+ "latency_ms": 9002,
+ "units": [
+  {
+   "id": "title",
+   "text": "Hukum mengqadha shalat untuk orang yang telah meninggal"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Jika seseorang dalam sakit menjelang kematiannya tidak mampu menunaikan shalat fardhu karena ketidakmampuannya, apakah shalatnya diqadha setelah kematiannya?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Sebagian orang keliru dalam masalah ini, seperti yang Anda dengar dalam simposium. Sebagian orang ketika sakit meremehkan shalat dan tidak melaksanakannya, dengan dalih: “Jika aku sembuh, aku akan mengqadhanya.” Ini adalah kekeliruan; bisa jadi ia meninggal di rumah sakit. Ini adalah kekeliruan. Wajib baginya untuk shalat sesuai keadaannya: berdiri, atau duduk, atau berbaring miring, atau terlentang, sebagaimana yang Anda dengar dalam ceramah. Demikianlah perintah Nabi ﷺ. Jika ia tidak mampu menggunakan air, ia bertayamum. Jika tidak memungkinkan baginya bertayamum dan tidak ada air, ia shalat sesuai keadaannya, meskipun pakaiannya najis. Ia shalat sesuai keadaannya ⟦Q1⟧ [At-Taghabun:16]. Jika ia mampu berwudhu, maka berwudhulah; jika mampu bertayamum, maka bertayamumlah; jika mampu mengganti pakaiannya, maka gantilah; jika mampu mengganti tempat shalatnya, maka gantilah."
+  },
+  {
+   "id": "a2",
+   "text": "Adapun meremehkan dengan berkata: “Nanti jika Allah menyembuhkanku, aku akan shalat,” ini adalah kekeliruan dan tidak boleh. Nabi ﷺ bersabda kepada orang sakit: “Shalatlah dengan berdiri; jika tidak mampu, maka dengan duduk; jika tidak mampu, maka dengan berbaring miring; jika tidak mampu, maka dengan terlentang.” Orang yang tidak mendapatkan air bertayamum, dan orang yang tidak mampu bertayamum, maka tidak ada udzur baginya. Ini adalah kekeliruan."
+  },
+  {
+   "id": "a3",
+   "text": "Maka wajib bagi seorang muslim untuk mengingatkan saudara-saudaranya dalam hal seperti ini. Jika ia mengunjungi saudaranya yang sakit, hendaklah ia mengingatkannya tentang masalah-masalah ini. Jika ia khawatir saudaranya itu keliru dalam hal ini, hendaklah ia mengingatkannya dan menjelaskan kepadanya, sehingga itu termasuk dalam tolong-menolong dalam kebaikan dan ketakwaan. Jika ia meninggal dan belum shalat, maka tidak ada kewajiban qadha atasnya. Ia didoakan ampunan dan maaf, karena ia meninggalkannya karena syubhat; ia menjadi jahil, menyangka bahwa itu lebih utama. Maka ia tidak dihukumi seperti orang yang sengaja meninggalkannya karena menentang atau meremehkan. Sebagian orang meninggalkannya karena menyangka bahwa itu yang disyariatkan, dan jika ia mengqadhanya setelah sembuh itu lebih baik dan lebih sempurna. Ini termasuk kebodohan yang besar, wallahul musta'an."
+  },
+  {
+   "id": "a4",
+   "text": "Pertanyaan: Jika ia meninggalkannya ..."
+  },
+  {
+   "id": "a5",
+   "text": "Jawaban: Semua ini adalah kekeliruan."
+  },
+  {
+   "id": "a6",
+   "text": "Penanya: Tetapi ia meninggalkannya dan meninggal dalam keadaan..?"
+  },
+  {
+   "id": "a7",
+   "text": "Jawaban: Tidak, tidak diqadha untuknya, tetapi insya Allah diharapkan ampunan dari Allah baginya."
+  },
+  {
+   "id": "a8",
+   "text": "Penanya: Jika ia meninggalkan shalat dengan sengaja..?"
+  },
+  {
+   "id": "a9",
+   "text": "Jawaban: Jika karena meremehkan, maka ia menjadi kafir -na'udzu billah- tidak dimandikan dan tidak dishalatkan. Adapun jika niatnya karena ia najis, dan ia berpendapat menunda shalat lebih utama karena kebodohannya ini ..."
+  }
+ ]
+}

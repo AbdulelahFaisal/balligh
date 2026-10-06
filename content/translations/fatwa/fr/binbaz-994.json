@@ -1,0 +1,72 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-994",
+ "source_content_sha256": "sha256:69822d7b48e2c8869868c9b7952213371d9d4b5960ba440857b940bc4fdee61b",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:26:56.253132+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1194,
+  "completion_tokens": 1244,
+  "total_tokens": 2438,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 938
+ },
+ "latency_ms": 9450,
+ "units": [
+  {
+   "id": "title",
+   "text": "Comment doit se faire le maintien des liens de parenté ? Et quelle est la limite de la rupture ?"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Quelle est la limite de la rupture des liens de parenté ? Je veux dire : quelle est la durée qui, si elle passe sans leur rendre visite, est considérée comme une rupture des liens de parenté ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Il n'y a pas de limite précise. Le maintien des liens de parenté se fait par la parole bienveillante, le soutien matériel au pauvre parmi eux, le fait de répondre à leur salutation, de les saluer en premier, et de les aider dans le bien. Tout cela fait partie du maintien des liens de parenté."
+  },
+  {
+   "id": "a2",
+   "text": "La rupture des liens de parenté n'a pas de limite précise. Le fait de les délaisser d'une manière contraire à l'usage est une forme de rupture, le fait de les délaisser sans raison légale, de ne pas subvenir aux besoins de leur pauvre, de ne pas lui faire du bien, de ne pas intercéder pour leur opprimé afin qu'il obtienne justice, et autres choses semblables, peuvent être considérés comme une rupture."
+  },
+  {
+   "id": "a3",
+   "text": "La rupture est une affaire d'usage, et le maintien des liens est une affaire d'usage. Ce qui est connu parmi les musulmans comme étant le maintien des liens, la bienfaisance, le contact, la salutation et le fait de prodiguer le bien est considéré comme un maintien des liens, et ce qui est connu parmi les musulmans comme étant du délaissement et de la rupture est considéré ainsi."
+  },
+  {
+   "id": "a4",
+   "text": "Et celui qui maintient les liens n'est pas celui qui se contente de rendre la pareille ; car certaines personnes, si leurs proches ne les contactent pas, elles ne les contactent pas non plus, en disant : « Ils ne me contactent pas et ne viennent pas me voir, donc je ne les contacterai pas. » C'est une erreur. Le Prophète (sur lui la paix et le salut) a dit : « Celui qui maintient les liens n'est pas celui qui rend la pareille, mais c'est celui qui, lorsque sa parenté rompt avec lui, maintient le lien avec elle. » Voilà celui qui maintient véritablement les liens."
+  },
+  {
+   "id": "a5",
+   "text": "De même, le Prophète (sur lui la paix et le salut) a dit, lorsqu'un homme lui a dit : « Ô Messager d'Allah, j'ai des proches que je contacte mais qui rompent avec moi, je fais preuve de clémence envers eux mais ils se montrent ignorants envers moi, et je leur fais du bien mais ils me font du mal. » Il a répondu : « Si tu es comme tu le dis, c'est comme si tu leur faisais avaler de la cendre brûlante, et Allah ne cessera de t'accorder un soutien contre eux tant que tu resteras ainsi. » Allah, exalté soit-Il, l'aide contre eux tant qu'il reste dans cette bonne attitude, et il est ainsi celui qui maintient les liens, tandis qu'ils sont ceux qui rompent."
+  },
+  {
+   "id": "a6",
+   "text": "Mais s'ils te contactent et que tu les contactes, et s'ils rompent et que tu romps, non, cela n'est pas le maintien des liens. Même envers un étranger, s'il te contacte, tu dois le contacter. L'étranger qui n'est pas un proche, s'il te contacte et te fait du bien, tu dois lui rendre la pareille et le récompenser. Mais les liens de parenté ont un droit supplémentaire : tu les contactes même s'ils rompent, tu leur fais du bien, tu réponds à leur salutation, tu les salues en premier, tu les invites au repas de fête et tu réponds à leur invitation."
+  },
+  {
+   "id": "a7",
+   "text": "Même s'ils rompent avec toi à cause d'une brouille entre vous, d'une animosité ou de conflits, ne romps pas avec eux. Cependant, tu as le droit de les délaisser pendant trois jours en cas de brouille, de dispute ou de conflit pour des intérêts mondains. Tu as le droit de les délaisser pendant trois jours seulement, pas plus, car le Prophète (sur lui la paix et le salut) a dit : « Pas de rupture au-delà de trois jours. »"
+  },
+  {
+   "id": "a8",
+   "text": "Il est donc obligatoire de reprendre contact après les trois jours et de revenir à l'état initial après ces trois jours, et de ne pas délaisser au-delà de trois jours. Le meilleur des deux est celui qui commence par saluer. Le meilleur des deux qui se sont délaissés est celui qui commence par saluer."
+  }
+ ]
+}

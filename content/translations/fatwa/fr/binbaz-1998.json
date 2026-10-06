@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1998",
+ "source_content_sha256": "sha256:6a1cad31921b233ea57bc0ba361d45818775700e9d9259b1715b8f1cddefdaf6",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:06:16.961576+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1300,
+  "completion_tokens": 1227,
+  "total_tokens": 2527,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 1044
+ },
+ "latency_ms": 9987,
+ "units": [
+  {
+   "id": "title",
+   "text": "Suffit-il de prononcer les deux attestations et d'y croire pour entrer en islam ?"
+  },
+  {
+   "id": "q0",
+   "text": "Question : Suffit-il de prononcer et de croire en ce pilier de l'islam, ou faut-il d'autres choses pour que l'islam et la foi de la personne soient complets ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse : Ce pilier fait entrer le mécréant en islam : il atteste qu'il n'y a de divinité qu'Allah et que Muhammad est le Messager d'Allah, avec sincérité, certitude, connaissance de leur sens et mise en pratique, s'il ne les prononçait pas pendant sa mécréance. Ensuite, on lui impose la prière, les autres piliers et toutes les règles. C'est pour cela que lorsque le Prophète ﷺ envoya Mu'adh au Yémen, il lui dit : « Appelle-les à attester qu'il n'y a de divinité qu'Allah et que Muhammad est le Messager d'Allah. S'ils le font, informe-les qu'Allah leur a prescrit cinq prières par jour et par nuit. S'ils t'obéissent, informe-les qu'Allah leur a prescrit une aumône (zakah) prélevée sur leurs riches et redistribuée à leurs pauvres. »"
+  },
+  {
+   "id": "a1",
+   "text": "Il ne leur ordonna la prière qu'après le monothéisme et la foi au Messager ﷺ. Les mécréants sont d'abord appelés au monothéisme et à la foi au Messager ﷺ. Si le mécréant reconnaît cela et se soumet, il a le statut des musulmans. Ensuite, on exige de lui la prière et les autres affaires de la religion. S'il refuse, d'autres statuts s'appliquent.\nCelui qui délaisse la prière est invité à se repentir ; s'il se repent, tant mieux, sinon il est tué comme mécréant, même s'il ne nie pas son obligation, selon l'avis le plus juste des savants. Celui qui refuse la zakah, s'y oppose avec arrogance et combat pour elle, est combattu comme les Compagnons ont combattu ceux qui refusaient la zakah avec Abou Bakr, qu'Allah l'agrée, et ils les ont jugés apostats. S'il ne combat pas pour elle, l'imam le contraint à la verser et lui inflige une peine dissuasive conforme à la Loi. De même, le musulman est tenu de jeûner le Ramadan, d'accomplir le pèlerinage à la Maison s'il en a les moyens, et de s'acquitter de tout ce qu'Allah lui a prescrit. Il doit aussi délaisser ce qu'Allah lui a interdit, car son entrée en islam et son engagement l'exigent. Quiconque manque à une obligation ou commet un interdit est traité selon ce qu'il mérite légalement.\nEn revanche, si le mécréant prononçait déjà les deux attestations pendant sa mécréance, comme la plupart des mécréants aujourd'hui, on exige de lui qu'il se repente de ce qui a causé sa mécréance, et il ne suffit pas qu'il prononce les deux attestations, car il les disait déjà tout en étant mécréant et sans les appliquer. Si sa mécréance est due à l'adoration des morts, des djinns, des idoles ou d'autres créatures, à l'invocation de leur secours, etc., il doit s'en repentir et vouer le culte à Allah seul, et c'est ainsi qu'il entre en islam. Si sa mécréance est due à l'abandon de la prière, il doit s'en repentir et l'accomplir, et s'il le fait, il entre en islam."
+  },
+  {
+   "id": "a2",
+   "text": "De même, si sa mécréance est due au fait de considérer licites la fornication ou l'alcool, il doit s'en repentir ; s'il s'en repent, il entre en islam."
+  },
+  {
+   "id": "a3",
+   "text": "Ainsi, on exige du mécréant qu'il délaisse l'acte ou la croyance qui a causé sa mécréance ; s'il le fait, il entre en islam."
+  },
+  {
+   "id": "a4",
+   "text": "Ce sont des questions importantes que l'étudiant en science doit soigner et maîtriser. Les savants les ont exposées dans le chapitre du statut de l'apostat, un chapitre majeur que l'étudiant en science doit étudier et lire souvent. Allah est le garant du succès⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Extrait de l'émission Nour 'ala ad-Darb, cassette n° 16, (Majmu' Fatawa wa Maqalat ach-Cheikh Ibn Baz, 7/32)."
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-6782",
+ "source_content_sha256": "sha256:f0882812f3a120631df6d516c59b2cc9fb8543f120dfa407185d2eb2792d1e57",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:22:49.938739+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 807,
+  "completion_tokens": 672,
+  "total_tokens": 1479,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 551
+ },
+ "latency_ms": 6610,
+ "units": [
+  {
+   "id": "title",
+   "text": "Keutamaan mencintai karena Allah dan membenci karena Allah"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan: Surat ini datang kepada kami dari penanya, Adel Abdul Hamid Hassan, dari Republik Arab Mesir, Provinsi Minya, tinggal di Yordania. Dia berkata: Apakah cinta dalam Islam itu halal atau haram? Yang dimaksud secara lahiriah: cinta sebelum menikah antara laki-laki dan perempuan. Berilah kami penjelasan, semoga Allah memberi manfaat kepada Anda."
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban: Mencintai karena Allah dan membenci karena Allah adalah ibadah yang mendekatkan diri kepada Allah di antara sesama Muslim. Hendaklah ia mencintai saudaranya karena Allah dan membencinya karena Allah. Ini adalah ketaatan. Ia mencintai kaum Muslimin karena Allah dan membenci orang-orang kafir karena Allah. Allah Yang Mahaagung dan Mahatinggi berfirman dalam Kitab-Nya yang mulia: ⟦Q1⟧ [al-Mujadilah:22]. Maka wajib atas seorang mukmin untuk membenci musuh-musuh Allah dan berlepas diri dari mereka. Dan Dia berfirman: ⟦Q2⟧ [al-Mumtahanah:4]. Maka seorang Muslim membenci karena Allah dan memusuhi karena Allah, demikian pula ia mencintai karena Allah. Nabi ﷺ bersabda: \"Tujuh golongan yang Allah menaungi mereka dalam naungan-Nya pada hari yang tidak ada naungan selain naungan-Nya,\" beliau menyebutkan di antaranya: dua orang yang saling mencintai karena Allah, mereka berkumpul karena-Nya dan berpisah karena-Nya. Dan beliau ﷺ bersabda dalam hadits shahih: \"Tiga perkara, barangsiapa yang memilikinya maka ia akan merasakan manisnya iman: hendaklah Allah dan Rasul-Nya lebih ia cintai daripada selain keduanya, dan ia mencintai seseorang hanya karena Allah.\" Dan beliau ﷺ juga bersabda: Allah berfirman pada hari kiamat: \"Di manakah orang-orang yang saling mencintai karena keagungan-Ku? Hari ini Aku menaungi mereka dalam naungan-Ku, pada hari yang tidak ada naungan selain naungan-Ku.\"\nApabila seseorang melamar seorang wanita yang ia cintai karena Allah karena agamanya, maka tidak mengapa. Jika ia melamarnya karena cintanya kepadanya karena Allah, karena agamanya dan kelurusannya, maka tidak mengapa hal itu. Ini termasuk yang seharusnya bagi seorang mukmin untuk mencari wanita yang baik sehingga ia melamarnya. Ya.\nPembawa acara: Semoga Allah membalas Anda dengan kebaikan dan memberkahi Anda."
+  }
+ ]
+}

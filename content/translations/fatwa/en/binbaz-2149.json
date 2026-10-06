@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2149",
+ "source_content_sha256": "sha256:290db782e0e10e6101468287fd6f5185bba283d9b02c4cfebde543829b453d68",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:09:19.029715+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 613,
+  "completion_tokens": 293,
+  "total_tokens": 906,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 357
+ },
+ "latency_ms": 4134,
+ "units": [
+  {
+   "id": "title",
+   "text": "The helping reasons for getting up for the Fajr prayer"
+  },
+  {
+   "id": "q0",
+   "text": "Q: What are the reasons that help a Muslim to get up for the Fajr prayer? Given that he sleeps early but he does not wake up until after sunrise."
+  },
+  {
+   "id": "a0",
+   "text": "A: It is obligatory upon every Muslim to fear Allah and to pray the five prayers in their times in the mosques with the congregation of Muslims, and to be keen on all the reasons that help him with that. Among the reasons that help him with the Fajr prayer in congregation: that he goes to sleep early, sets the alarm clock for the appropriate time so that he gets up for the prayer at its time, attends the prayer with the congregation, strives in asking Allah for success and help, and performs the prescribed remembrances when he sleeps. Thus Allah will grant him success, if Allah wills, to get up at the time of the prayer and perform it with the congregation⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu' Fatawa wa Maqalat al-Shaykh Ibn Baz (8/276)"
+  }
+ ]
+}

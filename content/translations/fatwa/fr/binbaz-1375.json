@@ -1,0 +1,52 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1375",
+ "source_content_sha256": "sha256:658afdca91c0e60c74f84d4ea279b0288536c38bb25c0dc8392649df5c79f12e",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:57:27.970908+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 773,
+  "completion_tokens": 651,
+  "total_tokens": 1424,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 517
+ },
+ "latency_ms": 4929,
+ "units": [
+  {
+   "id": "title",
+   "text": "Le jugement de la récitation de la Fatiha dans la prière à voix basse et à voix haute"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Quel est le jugement de la récitation de la Fatiha dans la prière à voix basse et à voix haute, en mentionnant l'avis que vous considérez comme le plus correct ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse : "
+  },
+  {
+   "id": "a1",
+   "text": "La récitation de la Fatiha est obligatoire pour l'imam et pour celui qui prie seul. Le Prophète (bénédiction et salut sur lui) a dit : « Pas de prière pour celui qui ne récite pas la Fatiha du Livre. » Et il a dit : « Celui qui prie sans y réciter la Fatiha du Livre, sa prière est défectueuse, défectueuse, incomplète. » C'est l'avis de la majorité des gens de science : elle est obligatoire pour l'imam et pour celui qui prie seul."
+  },
+  {
+   "id": "a2",
+   "text": "Cependant, ils ont divergé au sujet de celui qui prie derrière l'imam : est-elle obligatoire pour lui ou non ? Il y a trois avis : certains ont dit : elle est obligatoire pour celui qui prie derrière l'imam dans la prière à voix basse, mais pas dans la prière à voix haute. D'autres ont dit : elle est obligatoire pour lui dans les deux cas, à voix basse et à voix haute. D'autres ont dit : elle n'est pas obligatoire, ni à voix basse ni à voix haute. Ce sont trois avis, et le plus correct d'entre eux, d'après ce qui ressort des hadiths, est l'obligation dans tous les cas. C'est ce qui est le plus évident."
+  },
+  {
+   "id": "a3",
+   "text": "Il ne convient pas que celui qui prie derrière l'imam la délaisse, de même que l'imam et celui qui prie seul ne la délaissent pas. Au contraire, celui qui prie derrière l'imam doit la réciter, même pendant que l'imam récite : il la récite en lui-même, puis il écoute. Pour les prières de Dhuhr, 'Asr, Maghrib, 'Isha et Fajr, à voix basse c'est évident, et à voix haute il la récite après le takbir d'entrée en prière, après la Fatiha, selon ce qui lui est possible avec l'imam."
+  }
+ ]
+}

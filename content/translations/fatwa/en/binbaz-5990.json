@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-5990",
+ "source_content_sha256": "sha256:1510ee23cc954cd3f3bbc93264366731c885a7c0e40de803e60180a4059e628f",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:21:53.469442+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 920,
+  "completion_tokens": 648,
+  "total_tokens": 1568,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 664
+ },
+ "latency_ms": 5371,
+ "units": [
+  {
+   "id": "title",
+   "text": "What are the conditions of Islam?"
+  },
+  {
+   "id": "q0",
+   "text": "Question: Our brother asks a question at the end of his letter, saying: How many are the conditions of Islam?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer: The conditions of Islam are two:\nThe first condition: sincerity to Allah, and that you intend by your Islam, your entry into the religion of Allah, and your deeds the Face of Allah, Mighty and Majestic. This is indispensable. Any deed you do that is not for the Face of Allah – whether prayer, charity, fasting, or anything else – will not be beneficial or accepted, even the two testimonies; if you utter them out of showing off or hypocrisy, they are not accepted, they do not benefit; you would be among the hypocrites. It is necessary that your saying 'I bear witness that there is no god but Allah and I bear witness that Muhammad is the Messenger of Allah' be truthful from your heart, that you believe in Allah alone and that He is the true object of worship, and that Muhammad is the Messenger of Allah, truthfully, and that he is truly the Messenger of Allah and the Seal of the Prophets. If it is truthful and sincere, it will benefit you."
+  },
+  {
+   "id": "a1",
+   "text": "Likewise in your prayer, you worship Allah alone by it; so also your charity, your recitation, your tahleel (saying La ilaha illa Allah), your fasting, your Hajj – they should be for Allah alone.\nThe second condition: conformity to the Shari'ah. Your deeds must conform to the Shari'ah, not from your own opinion or your own reasoning. You must seek to conform to the Shari'ah: pray as Allah has legislated, fast as Allah has legislated, give zakah as Allah has legislated, strive as Allah has legislated, perform Hajj as Allah has legislated. Thus the Prophet ﷺ said: 'Whoever does a deed that is not in accordance with our matter, it is rejected.' And Allah says in His Mighty Book: ⟦Q1⟧ [ash-Shura:21] reproaching them for this, and He, Glorified be He, says: ⟦Q2⟧ [al-Jathiyah:18].\nSo it is obligatory to follow the Shari'ah which Allah legislated upon the tongue of His Messenger Muhammad, peace and blessings be upon him, and not to deviate from it in all acts of worship by which one draws near to Allah, Glorified and Exalted. These are the conditions of Islam; two conditions:\nThe first: sincerity to Allah in deeds.\nThe second: conformity to the Shari'ah.\nThis is what by which you benefit from your worship and Allah accepts your worship from you if you are a Muslim.\nYes."
+  }
+ ]
+}

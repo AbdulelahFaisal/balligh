@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3859",
+ "source_content_sha256": "sha256:c4473d10716754f822765a105383cfba8e73f0919d9cb48841be18219c30cb03",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:19:04.533281+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 719,
+  "completion_tokens": 444,
+  "total_tokens": 1163,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 463
+ },
+ "latency_ms": 4895,
+ "units": [
+  {
+   "id": "title",
+   "text": "Apa yang wajib bagi wanita hamil yang meninggalkan salat karena beser?"
+  },
+  {
+   "id": "q0",
+   "text": "Tanya: Saudari M. H. dari Maghrib Arab berkata: Seorang wanita hamil pada bulan kesembilan menderita beser setiap saat, dia berhenti salat pada bulan terakhir. Apakah ini termasuk meninggalkan salat? Dan apa kewajibannya?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawab: Wanita tersebut dan yang semisalnya tidak boleh berhenti salat, bahkan wajib baginya salat sesuai keadaannya, berwudu untuk setiap waktu salat seperti wanita mustahadhah (yang keluar darah penyakit), menjaga diri dengan kapas dan semacamnya semampunya, dan salat tepat pada waktunya. Disyariatkan baginya salat sunah pada waktunya, dan boleh menjamak antara dua salat: Zuhur dan Asar, Magrib dan Isya, seperti wanita mustahadhah, berdasarkan firman Allah Azza wa Jalla: ⟦Q1⟧ [at-Taghabun: 16].\nDan dia wajib mengqadha salat-salat yang ditinggalkan beserta bertobat kepada Allah Subhanahu wa Ta'ala, yaitu dengan menyesali perbuatannya dan bertekad tidak akan mengulanginya lagi, berdasarkan firman Allah Subhanahu wa Ta'ala: ⟦Q2⟧ [an-Nur: 31]⟦N3⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Diterbitkan di Majalah ad-Da'wah edisi (965) tanggal 19/2/1405 H, (Majmu' Fatawa wa Maqalat Syaikh Ibnu Baz 10/224)."
+  }
+ ]
+}

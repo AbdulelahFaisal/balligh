@@ -1,0 +1,36 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-5627",
+ "source_content_sha256": "sha256:4334ded18d5e4e39ddeaaaea486be0eb6a2780c48cdd30efeac08632e94fabff",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:21:06.564561+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1262,
+  "completion_tokens": 1186,
+  "total_tokens": 2448,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 1006
+ },
+ "latency_ms": 11449,
+ "units": [
+  {
+   "id": "title",
+   "text": "Hukum mencukupkan diri dengan iman dalam hati tanpa amal"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan: Juga seorang saudari seiman dari Baghdad di Irak bertanya: Apakah iman dalam hati cukup untuk menjadi seorang muslim tanpa mengerjakan shalat, puasa, dan zakat?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban: Tidak cukup iman dalam hati saja tanpa shalat dan lainnya. Wajib baginya beriman dengan hatinya bahwa Allah itu Esa, tiada sekutu bagi-Nya, dan bahwa Dia adalah Tuhannya dan Penciptanya. Wajib baginya mengkhususkan ibadah hanya kepada-Nya, Subhanahu wa Ta'ala, serta beriman kepada Rasul Muhammad ﷺ dan bahwa beliau benar-benar utusan Allah kepada seluruh manusia. Semua ini wajib, dan inilah pokok agama serta landasannya.\nAkan tetapi, selain itu harus pula mengerjakan shalat dan segala urusan agama lainnya. Jika ia shalat, maka ia telah menunaikan kewajibannya. Jika tidak shalat, ia kafir, karena meninggalkan shalat adalah kekufuran. Adapun zakat, puasa, haji, dan ibadah lainnya, jika ia meyakininya sebagai kewajiban tetapi meremehkannya, maka ia tidak kafir karenanya, tetapi ia bermaksiat. Imannya lemah dan berkurang, karena iman bisa bertambah dan berkurang; bertambah dengan ketaatan dan amal saleh, dan berkurang dengan kemaksiatan. Adapun shalat secara khusus, meninggalkannya adalah kekufuran menurut sekelompok ulama, dan ini adalah pendapat yang lebih sahih dari dua pendapat ulama, berbeda dengan ibadah lain seperti zakat, puasa, haji, dan semacamnya. Meninggalkannya bukanlah kekufuran menurut pendapat yang sahih—yakni bukan kufur besar—tetapi merupakan kekurangan dan kelemahan iman, serta dosa besar. Meninggalkan zakat adalah dosa besar, meninggalkan puasa adalah dosa besar, meninggalkan haji padahal mampu adalah dosa besar, tetapi tidak menjadi kufur besar jika ia beriman bahwa zakat adalah hak, puasa adalah hak, dan haji bagi yang mampu adalah hak, serta tidak mendustakan atau mengingkari kewajiban tersebut, namun ia meremehkan dalam pelaksanaannya, maka ia tidak kafir karenanya menurut pendapat yang sahih.\nAdapun shalat, jika ia meninggalkannya, ia kafir menurut pendapat ulama yang paling sahih, yaitu kufur besar—kita berlindung kepada Allah—jika ia meninggalkannya secara total. Adapun dua kalimat syahadat, yaitu bahwa Allah adalah Tuhan semua dan sesembahan semua, tidak ada ilah selain Dia—yakni tidak ada yang berhak disembah selain Dia—dan syahadat bahwa Muhammad adalah utusan Allah, maka dua syahadat ini adalah pokok agama dan landasan millah. Sekelompok ulama, dan ini pendapat mayoritas fuqaha, berpendapat bahwa seseorang menjadi muslim dengan itu, meskipun tidak shalat, jika ia meyakini wajibnya shalat, puasa, haji, dan lainnya, tetapi tidak mengerjakannya dan meremehkannya. Maka menurut mayoritas fuqaha ia tidak menjadi kafir dengan kufur besar jika meninggalkan hal-hal itu, tetapi tetap muslim yang bermaksiat dan dalam bahaya masuk neraka, dan ia tidak kafir karenanya.\nSekelompok ulama berpendapat bahwa meninggalkan shalat adalah kufur besar, dan ini pendapat yang lebih kuat sebagaimana telah dijelaskan, dan itulah yang lebih sahih, berdasarkan sabda Nabi ﷺ: \"Perjanjian antara kita dan mereka adalah shalat; barangsiapa meninggalkannya, maka ia telah kafir.\" Dan sabda beliau ﷺ: \"Antara seseorang dan kekufuran serta kesyirikan adalah meninggalkan shalat,\" sebagaimana telah dijelaskan pada jawaban pertanyaan sebelumnya.\nMaka hendaknya diperhatikan hal ini. Adapun kewajiban-kewajiban agama lainnya seperti zakat, puasa, haji, dan semacamnya, jika seorang mukmin yang beriman kepada Allah dan Rasul-Nya meyakini kewajibannya dan tidak mengingkari kewajiban tersebut, tetapi ia meremehkan dalam pelaksanaannya, maka ia tidak menjadi kafir dengan kufur besar, tetapi itu merupakan kekurangan dan kelemahan iman. Ia menjadi pelaku maksiat yang berhak masuk neraka dan mendapat murka Allah, kecuali jika Allah mengampuninya, Subhanahu wa Ta'ala, berdasarkan firman-Nya: ⟦Q1⟧ [An-Nisa: 48]. Maka Allah menjadikan dosa selain syirik berada di bawah kehendak-Nya. Dengan demikian diketahui bahwa kemaksiatan berada di bawah kehendak Allah, dan pelakunya tidak kafir dengan kufur besar, tetapi ia bermaksiat dan imannya lemah. Ya."
+  }
+ ]
+}

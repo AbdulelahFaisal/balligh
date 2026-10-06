@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-56",
+ "source_content_sha256": "sha256:0f10ec2e8f29b1cd1f498129ecf16fb1166d1ab101a6682fd15eb3882fe9c49d",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:20:22.917215+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 814,
+  "completion_tokens": 557,
+  "total_tokens": 1371,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 558
+ },
+ "latency_ms": 5413,
+ "units": [
+  {
+   "id": "title",
+   "text": "Evidence for the Word of Tawhid"
+  },
+  {
+   "id": "q0",
+   "text": "Q: As for the questioner's saying: You call to Tawhid, so what is your evidence for the word of Tawhid? From where is it derived?"
+  },
+  {
+   "id": "a0",
+   "text": "A: The answer is that there are many proofs for that from the Book of Allah, Mighty and Majestic, and the Sunnah of His Messenger ﷺ. Tawhid means: making Allah one, meaning the belief that He is One without partner. Among the verses indicating that is His saying, Glorified be He: ⟦Q1⟧ [al-Dhariyat:56], and His saying, Glorified be He: ⟦Q2⟧ [al-Anbiya:25]. The verses with this meaning are many. As for the hadiths, among them is what is established in Sahih al-Bukhari from Ibn 'Abbas, may Allah be pleased with them both, that the Prophet ﷺ said to Mu'adh, may Allah be pleased with him, when he sent him to Yemen: \"Call them to unify Allah\" with this wording, reported by al-Bukhari in the Sahih. And in Sahih Muslim from Tariq ibn Ashyam al-Ashja'i, may Allah be pleased with him, from the Prophet ﷺ that he said: \"Whoever unifies Allah and disbelieves in what is worshipped besides Allah, his wealth and blood become inviolable, and his reckoning is with Allah.\" He explicitly said: \"unifies Allah,\" indicating that this is the meaning of \"La ilaha illa Allah.\" Among that is what is established in Sahih Muslim from Ibn 'Umar, may Allah be pleased with them both, that the Prophet ﷺ said: \"Islam is built on five: on unifying Allah...\" the hadith, and that is an explanation of his saying ﷺ in the other narration: \"Islam is built on five: testifying that there is no deity but Allah and that Muhammad is the Messenger of Allah...\" the hadith. The hadiths with this meaning are many. Allah is the One who grants success⟦N3⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "(Majmu' Fatawa wa Maqalat al-Shaykh Ibn Baz 3/140)"
+  }
+ ]
+}

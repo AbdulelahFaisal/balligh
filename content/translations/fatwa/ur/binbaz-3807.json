@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3807",
+ "source_content_sha256": "sha256:82dccb06a8f4f8c29464d6831325d0fa6622db49d016bae4e20d71b8724cbebc",
+ "locale": "ur",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:17:55.178203+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 592,
+  "completion_tokens": 403,
+  "total_tokens": 995,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 336
+ },
+ "latency_ms": 4650,
+ "units": [
+  {
+   "id": "title",
+   "text": "جنابت اور دیگر (نجاستوں) سے غسل کیا وضو کے لیے کافی ہے؟"
+  },
+  {
+   "id": "q0",
+   "text": "سوال: بھائی ع۔ ص۔ س۔ ثادق، سعودی عرب سے اپنے سوال میں کہتے ہیں: میں نے جنابت سے صابن اور شیمپو کے ساتھ غسل کیا، تو کیا یہ غسل وضو کے لیے کافی ہے اگر میں نے اس کی نیت کی ہو؟"
+  },
+  {
+   "id": "a0",
+   "text": "جواب: اگر دونوں طہارتوں کی نیت کرے تو یہ کافی ہے، اور بہتر یہ ہے کہ پہلے وضو کرے پھر غسل کرے، جیسا کہ نبی ﷺ کا طریقہ ہے؛ کیونکہ یہ زیادہ کامل ہے، اور صابن، شیمپو، بیری کے پتے اور اس طرح کی چیزوں کے استعمال میں کوئی حرج نہیں جن سے میل کچیل دور ہوتی ہے۔"
+  },
+  {
+   "id": "a1",
+   "text": "اللہ سب کو توفیق دے⟦N1⟧۔"
+  },
+  {
+   "id": "n0.0",
+   "text": "یہ فتویٰ المجلہ العربیہ میں شمارہ (218) ماہ ربیع الاول 1416ھ میں شائع ہوا، (مجموع فتاویٰ ومقالات الشیخ ابن باز 10/ 173)۔"
+  }
+ ]
+}

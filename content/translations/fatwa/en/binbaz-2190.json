@@ -1,0 +1,76 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2190",
+ "source_content_sha256": "sha256:1516421fd1d73f1977e5d25dadb4ca35b9361a7638712f8c3a91fa98e94fc797",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:10:04.638347+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1754,
+  "completion_tokens": 1543,
+  "total_tokens": 3297,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 1498
+ },
+ "latency_ms": 10532,
+ "units": [
+  {
+   "id": "title",
+   "text": "Clarification of the types of Tawhid and the difference between them"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "We often hear on the radio about Tawhid al-Rububiyyah and Tawhid al-Uluhiyyah. What is the difference between them?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "Tawhid al-Rububiyyah is belief in Allah's attributes of action, such as being the Creator, the Provider, the Disposer of affairs, the One who directs them, and so on, and that His will is effective and His power is complete. This is what the polytheists acknowledged; the polytheists acknowledged that Allah is their Creator, Provider, and Disposer of affairs, and that He is the Creator of the heavens and the Creator of the earth. It is affirming Allah's oneness in His actions. This is Tawhid al-Rububiyyah: that you believe that Allah is the Creator, the Provider, the Disposer of affairs, the One who directs things, who created everything, managed affairs, and directed them, and created rivers, seas, mountains, trees, the sky, the earth, and so on. This is Tawhid al-Rububiyyah."
+  },
+  {
+   "id": "a2",
+   "text": "As for Tawhid al-Uluhiyyah, it is singling out Allah with your own actions: you devote worship to Him alone, apart from everything else, including prayer, fasting, supplication, vows, zakah (obligatory almsgiving), Hajj, and so on."
+  },
+  {
+   "id": "a3",
+   "text": "Tawhid al-Uluhiyyah is the meaning of La ilaha illa Allah, i.e., there is no true deity worthy of worship except Allah. It is that you devote your actions, your acts of worship, and your acts of nearness to your Lord alone. You do not call upon any other deity besides Allah, you do not worship anything else along with Him, whether a tree, a stone, an idol, a prophet, or a saint. You do not call upon other than Allah. You do not say: \"O Master al-Badawi, heal me,\" or \"O Messenger of Allah, heal me, grant me well-being, or support me,\" or \"O so-and-so,\" from the saints or others, or from the dead, or from trees, stones, and idols. This is major shirk (associating partners with Allah)."
+  },
+  {
+   "id": "a4",
+   "text": "So Tawhid al-Uluhiyyah, the oneness of worship, means: you single out worship for Allah alone. It is also called Tawhid al-Ilahiyyah, and Ilahiyyah means worship. Its meaning is that Allah alone is singled out for worship, apart from everything else. This is the meaning of His saying, may He be glorified: ⟦Q1⟧ [al-Bayyinah:5]."
+  },
+  {
+   "id": "a5",
+   "text": "And His saying, may He be glorified: ⟦Q2⟧ [al-Isra:23], ⟦Q3⟧ [al-Baqarah:21] ⟦Q4⟧ [al-Dhariyat:56] means that they should single out Allah in worship through their prayers, fasting, supplications, seeking help, and their jihad, all for Allah alone. This is called Tawhid al-Uluhiyyah or Tawhid al-Ilahiyyah. This is what the polytheists denied and rejected. When it was said to them, \"Say La ilaha illa Allah,\" they refused and considered it strange. They said: ⟦Q5⟧ [Sad:5]. So they considered it strange and persisted in their disbelief and misguidance. Yet they say: \"Allah is the Creator, the Provider, the Disposer.\" They say this, but nevertheless they did not submit to singling out worship for Him... Therefore they became disbelievers, and the Prophet ﷺ fought them and deemed their blood and wealth lawful because of their disbelief and their failure to comply with Tawhid al-Uluhiyyah."
+  },
+  {
+   "id": "a6",
+   "text": "There is a third type of Tawhid, which is Tawhid al-Asma' wa al-Sifat (Oneness of Allah's Names and Attributes). It is belief in all of Allah's names and attributes that have come in the Quran and that are authentically established from the Prophet ﷺ. It is obligatory to believe in all of them and to affirm them: that He is the All-Knowing, the All-Wise, the Most Kind, the Most Merciful, and that He is pleased, becomes angry, and speaks when He wills, may He be glorified and exalted. All His attributes mentioned in the Quran and Sunnah must be believed in and affirmed for Allah, the Mighty and Majestic. This is called Tawhid al-Asma' wa al-Sifat."
+  },
+  {
+   "id": "a7",
+   "text": "And belief that Allah is one in His essence, one in His names and attributes, with no partner. He has no partner who creates, provides, or shows mercy to the servants so as to admit them to Paradise and save them from the Fire. He has no partner in power; He is capable of all things. Rather, He alone is unique in this, may He be glorified and exalted. He has no partner in His divinity, nor in His names and attributes, nor in His lordship, may He be glorified and exalted."
+  },
+  {
+   "id": "a8",
+   "text": "He is the One in Lordship, the One in Divinity, the One in Names and Attributes. ⟦Q6⟧ [al-Shura:11], ⟦Q7⟧ [Maryam:65] ⟦Q8⟧ [al-Ikhlas:4] ⟦Q9⟧ [al-Nahl:74]."
+  },
+  {
+   "id": "a9",
+   "text": "All His names are the most beautiful, and all His attributes are the most sublime, and all of them are true and established for Him. He, may He be glorified and exalted, is described by them truly, not metaphorically. It is obligatory to affirm them for Allah, to let them pass as they have come, to believe in them, and that they are true and befitting Allah, may He be glorified and exalted. And that He, the Mighty and Majestic, has none like Him in that; He is the All-Hearing, the All-Seeing, may He be glorified and exalted."
+  }
+ ]
+}

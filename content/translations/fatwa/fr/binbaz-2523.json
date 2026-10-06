@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2523",
+ "source_content_sha256": "sha256:765d96071dd80ce68978e8a28c4883fa801ca256446f2d3aae9df8ed43a95556",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:11:57.695445+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1042,
+  "completion_tokens": 1040,
+  "total_tokens": 2082,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 786
+ },
+ "latency_ms": 8268,
+ "units": [
+  {
+   "id": "title",
+   "text": "Est-ce que celui qui a mémorisé une partie du Coran puis l'a oubliée commet un péché ?"
+  },
+  {
+   "id": "q0",
+   "text": "Question : La sœur M. M. A. de Sanaa dit dans sa question : J'ai mémorisé une partie entière du noble Coran, et comme il n'y avait personne pour me la faire réciter régulièrement, je l'ai oubliée. Ai-je un péché ? Et dois-je la mémoriser à nouveau ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse : Tu n'as pas de péché, si Allah le veut, pour cela, en raison de la parole d'Allah, le Très-Haut : ⟦Q1⟧ [Ta-Ha : 115], et de la parole du Prophète ﷺ : « Je ne suis qu'un être humain comme vous, j'oublie comme vous oubliez. Si donc j'oublie, rappelez-le-moi », et parce que l'oubli domine l'être humain et qu'il ne peut pas s'en préserver.\nQuant à ce qui a été rapporté à ce sujet comme menace de la part du Prophète ﷺ, cela est faible. Il t'est prescrit de t'efforcer de mémoriser ce qui t'est facile du Livre d'Allah, en particulier la partie du Mufassal, afin que tu puisses, par cela, réciter dans ta prière ce qui t'en est facile après la Fatiha. Quant à la Fatiha, sa mémorisation est obligatoire car elle est un pilier de la prière dans chaque rak'a, en raison de la parole du Prophète ﷺ : « Pas de prière pour celui qui ne récite pas la Fatiha du Livre », hadith rapporté et dont l'authenticité est unanime. Par là, on sait que sa récitation est un pilier de la prière dans l'obligatoire et la surérogatoire pour l'imam et celui qui prie seul.\nQuant au fidèle qui prie derrière un imam, elle est obligatoire pour lui selon l'avis le plus correct des savants, et elle est annulée pour lui en cas d'oubli, d'ignorance ou s'il rejoint l'imam en position d'inclinaison ou près de l'inclinaison et qu'il ne peut pas la réciter, en raison de la parole du Prophète ﷺ : « Peut-être récitez-vous derrière votre imam ? » Nous dîmes : « Oui. » Il dit : « Ne faites pas cela, sauf pour la Fatiha du Livre, car il n'y a pas de prière pour celui qui ne la récite pas. » Rapporté par l'imam Ahmad, Abou Dawoud, At-Tirmidhi et Ibn Hibban avec une chaîne authentique, d'après Oubada ibn As-Samit, qu'Allah soit satisfait de lui.\nEt comme il est authentiquement établi dans le Sahih d'Al-Boukhari d'après Abou Bakra, qu'Allah soit satisfait de lui, qu'il est venu à la mosquée alors que le Prophète ﷺ était en inclinaison, il s'est incliné avant de rejoindre le rang, puis il est entré dans le rang. Lorsque le Prophète ﷺ a fait les salutations finales, il lui a mentionné cela, et il lui a dit, sur lui la prière et la paix : « Qu'Allah augmente ta ferveur, mais ne recommence pas. » Et il ne lui a pas ordonné de rattraper la rak'a. Cela indique que si le fidèle priant derrière un imam ne rattrape pas la récitation avec l'imam parce qu'il est arrivé près de l'inclinaison, la rak'a lui suffit. Et il en est de même pour celui qui l'a oubliée ou l'ignore parmi les fidèles, comme pour les autres obligations de la prière. Et Allah est le garant de la réussite.⟦N2⟧"
+  },
+  {
+   "id": "n0.0",
+   "text": "Parmi les questions de la revue arabe, le 29/5/1417 H. (Majmou' Fatawa wa Maqalat du Cheikh Ibn Baz 9/309)."
+  }
+ ]
+}

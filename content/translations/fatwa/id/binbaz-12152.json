@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-12152",
+ "source_content_sha256": "sha256:da378185751cf0b26bc47024608cacc2ef970f6562bffb5c7dab2da9e7e76e89",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:52:47.648547+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1179,
+  "completion_tokens": 1124,
+  "total_tokens": 2303,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 923
+ },
+ "latency_ms": 9816,
+ "units": [
+  {
+   "id": "title",
+   "text": "Pembagian Tauhid dan Penjelasan Masuknya ke dalam Dua Kalimat Syahadat"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Ini adalah pertanyaan tentang akidah dari penanya dari Libya (Taha. A. A) Benghazi, ia berkata: Yang Mulia Syekh! Apa saja pembagian tauhid? Apakah seorang muslim dituntut untuk mengimani semua pembagian ini? Jika seorang muslim hanya mengikrarkan dua kalimat syahadat saja, apakah itu sudah cukup?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Pembagian tauhid ada tiga yang dikenal melalui istiqra' (penelitian induktif), yaitu: iman kepada tauhid rububiyah, uluhiyah, dan asma' wa shifat. Jika ia bersaksi bahwa tidak ada ilah yang berhak disembah selain Allah dan bahwa Muhammad adalah Rasulullah dengan jujur, maka itu sudah cukup. Dan dijelaskan kepadanya apa yang mungkin tidak ia ketahui. Rasulullah ﷺ menerima orang yang bersaksi bahwa tidak ada ilah yang berhak disembah selain Allah dan bahwa Muhammad adalah Rasulullah, lalu perbuatannya membenarkan ucapannya, ia tunduk kepada syariat dan mengesakan Allah Jalla wa 'Ala, maka ia muslim. Karena dalam kandungan syahadat terdapat iman bahwa Allah adalah Rabbnya dan Penciptanya, iman bahwa Dia berhak disembah, dan iman kepada nama-nama dan sifat-sifat-Nya. Karena syahadat bahwa tidak ada ilah yang berhak disembah selain Allah dan bahwa Dia adalah yang disembah dengan haq, mengandung tauhid rububiyah dan asma' wa shifat. Sesungguhnya Dia Subhanahu adalah Ilah yang haq, dan siapa yang seperti ini maka Dia adalah Rabb seluruh makhluk dan Pencipta seluruh makhluk, dan Dia Maha sempurna dalam Dzat, nama-nama, sifat-sifat, dan perbuatan-perbuatan-Nya. Tauhid rububiyah adalah iman bahwa Dia adalah Al-Khallaq (Maha Pencipta) dan Ar-Razzaq (Maha Pemberi rezeki). Tauhid uluhiyah adalah iman bahwa Dia Jalla wa 'Ala berhak disembah, dan bahwa sesembahan-sesembahan yang disembah selain Dia adalah batil, baik berupa benda mati atau hewan, baik yang disembah itu malaikat atau nabi atau selainnya. Setiap yang disembah selain Allah maka penyembahan kepadanya adalah batil, ⟦Q1⟧ [Al-Hajj: 62]. Maka semua yang disembah selain Allah adalah sesembahan yang batil, baik yang disembah itu rasul, malaikat, jin, batu, pohon, atau selainnya. Demikian pula iman kepada nama-nama dan sifat-sifat Allah. Jika ia beriman bahwa Allah Subhanahu memiliki nama-nama yang husna dan sifat-sifat yang tinggi, dan bahwa Dia Maha sempurna dalam Dzat, sifat-sifat, dan perbuatan-perbuatan-Nya, maka itu sudah cukup. Tauhid asma' wa shifat adalah iman bahwa Dia Subhanahu disifati dengan nama-nama yang husna dan sifat-sifat yang tinggi, dan bahwa tidak ada yang serupa, sebanding, atau semisal dengan-Nya. Dan iman kepada rububiyah adalah bahwa Dia adalah Al-Khallaq (Maha Pencipta) dan Ar-Razzaq (Maha Pemberi rezeki), Pengatur segala urusan, Pengendali segala sesuatu, tidak ada pencipta selain Dia dan tidak ada Rabb selain Dia. Tauhid uluhiyah maknanya adalah iman bahwa Dia berhak disembah, iman bahwa Dia berhak untuk disembah, diseru, dimintai pertolongan, dinazari, disembelih untuk-Nya... dan selainnya. Dia berhak atas ibadah, berupa shalat, puasa, doa, penyembelihan, dan lainnya, tidak ada yang berhak selain Dia."
+  },
+  {
+   "id": "a2",
+   "text": "Maka jika ia mengikrarkan dua kalimat syahadat, maka semua ini telah masuk dalam kandungan syahadatnya. Karena jika ia bersaksi bahwa tidak ada ilah yang berhak disembah selain Allah, maknanya adalah bahwa Dialah yang disembah dengan haq, bahwa Dialah Al-Khallaq dan Ar-Razzaq, dan bahwa Dialah yang Maha sempurna dalam Dzat, nama-nama, dan sifat-sifat-Nya. Semua ini masuk dalam kandungan syahadat. Ya.\nPembawa acara: Semoga Allah membalas Anda dengan kebaikan, Yang Mulia Syekh."
+  }
+ ]
+}

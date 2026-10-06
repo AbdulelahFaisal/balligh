@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2002",
+ "source_content_sha256": "sha256:5b33123b177284cc0d5625a4cbcbd7de21c1f647475c07abbcbc643d72ca9646",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:07:54.325866+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 2093,
+  "completion_tokens": 2040,
+  "total_tokens": 4133,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 1837
+ },
+ "latency_ms": 15038,
+ "units": [
+  {
+   "id": "title",
+   "text": "Shedding light on the importance of Tawhid al-Uluhiyyah (Oneness of Worship)"
+  },
+  {
+   "id": "q0",
+   "text": "Question: In the present age, there are many researches, writings, and lectures on proving the existence of Allah and affirming His Lordship (Rububiyyah), without using that to infer what is logically required and implied by it, namely Tawhid al-Uluhiyyah (Oneness of Worship). This has resulted in ignorance of Tawhid al-Uluhiyyah and negligence of its matter. So it would be good if you could shed light on the importance of Tawhid al-Uluhiyyah, as it is the foundation of salvation and its pivot, the key to the call of the Messengers (peace be upon them), and the principle upon which everything else is built."
+  },
+  {
+   "id": "a0",
+   "text": "Answer: There is no doubt that Allah, Glorified be He, sent the Messengers and revealed the Books to clarify His right upon His servants and to call them to devote all worship sincerely to Him alone, Glorified be He, to the exclusion of all others, and to single Him out for all their acts of worship. For most people on earth knew that Allah is their Lord, Creator, and Provider, but they fell into associating partners with Him (Shirk) by directing their acts of worship or some of them to other than Him, out of ignorance of that and in imitation of their fathers and ancestors, as happened with the people of Nuh (Noah) and the nations after them, and as happened with the early people of this Ummah. When the Messenger ﷺ called them to the Oneness of Allah, they found that strange and were too arrogant to accept it, and they said as Allah mentioned about them: ⟦Q1⟧ [Sad:5] thus in Surah Sad. And He, Glorified be He, said about them in Surah As-Saffat: ⟦Q2⟧ [As-Saffat:35-36] And He, Glorified be He, said about them in Surah Az-Zukhruf: ⟦Q3⟧ [Az-Zukhruf:23] And the verses in this meaning are many."
+  },
+  {
+   "id": "a1",
+   "text": "So it is obligatory upon the scholars of the Muslims and the callers to guidance to explain to the people the reality of Tawhid al-Uluhiyyah... and the difference between it and Tawhid ar-Rububiyyah (Oneness of Lordship) and Tawhid al-Asma' was-Sifat (Oneness of the Names and Attributes), because many Muslims are ignorant of that, let alone others. The disbelievers of Quraysh and other Arabs and most nations knew that Allah is their Creator and Provider, and therefore He, Glorified be He, used that as an argument against them, since He, Mighty and Majestic, is the One deserving to be worshipped, as He is their Creator, Provider, and the One capable over them in all aspects. As He, Glorified be He, said: ⟦Q4⟧ [Az-Zukhruf:87] And He, Mighty and Majestic, said: ⟦Q5⟧ [Luqman:25] And He, Mighty and Majestic, said, commanding His Prophet ﷺ to ask them about who provides for them: ⟦Q6⟧ Allah, Glorified be He, said: ⟦Q7⟧ [Yunus:31] And the verses in this meaning are many; He, Glorified be He, uses as an argument against them what they acknowledged of His being their Lord, Creator, Provider, Creator of the heavens and the earth, and Disposer of affairs, against what they denied of the Oneness of Worship and the invalidity of worshipping idols and other than Allah."
+  },
+  {
+   "id": "a2",
+   "text": "Likewise, He, Glorified be He, commanded His servants to believe in His Names and Attributes, and to declare Him far above any resemblance to the creation. He, Glorified be He, said: ⟦Q8⟧ [Al-A'raf:180] And He said in Surah Al-Hashr: ⟦Q9⟧ [Al-Hashr:22] to the end of the Surah. And He, Mighty and Majestic, said: ⟦Q10⟧ [Al-Ikhlas:1-4] And He, Mighty and Majestic, said: ⟦Q11⟧ [Al-Baqarah:22] And He, Glorified be He, said: ⟦Q12⟧ [Ash-Shura:11] And the verses in this meaning are many."
+  },
+  {
+   "id": "a3",
+   "text": "The people of knowledge, may Allah have mercy on them, have clarified that Tawhid ar-Rububiyyah necessitates Tawhid al-Uluhiyyah – which is singling out Allah for worship – and requires and demands it. Therefore, Allah used it as an argument against them."
+  },
+  {
+   "id": "a4",
+   "text": "Likewise, Tawhid al-Asma' was-Sifat necessitates singling out Allah for worship and devoting it to Him alone, because He, Glorified be He, is perfect in His Essence, Names, and Attributes, and He is the Bestower of blessings upon His servants. So He is the One deserving of being worshipped, obeyed in His commands, and whose prohibitions are avoided.\nAs for Tawhid al-'Ibadah (Oneness of Worship), it encompasses the two types and includes them for the one who actualizes that and remains upright upon it in knowledge and action. The people of knowledge have expounded this meaning in the books of 'Aqidah and Tafsir, such as [Tafsir: Ibn Jarir, Ibn Kathir, Al-Baghawi], and others, and [Kitab As-Sunnah] of 'Abdullah ibn Ahmad, and [Kitab At-Tawhid] of Ibn Khuzaymah, and the refutation of the scholar 'Uthman ibn Sa'id Ad-Darimi against Bishr Al-Marisi, and other scholars of the Salaf, may Allah have mercy on them, in their books. Among those who excelled in that are Shaykh al-Islam Ibn Taymiyyah and his student, the scholar Ibn al-Qayyim, may Allah have mercy on them both, in their books.\nAlso the Imams of the Islamic Da'wah in the twelfth century and after, such as the Imam Shaykh Muhammad ibn 'Abd al-Wahhab, may Allah have mercy on him, and his sons, students, and their followers from Ahl as-Sunnah.\nAmong the best works on that: [Fath al-Majid], whose basis is [Taysir al-'Aziz al-Hamid]; the first by Shaykh 'Abdur-Rahman ibn Hasan, may Allah have mercy on him, and the second by Shaykh Sulayman ibn 'Abdillah Al ash-Shaykh, may Allah have mercy on him.\nAmong the best compilations on that are the first volumes of Ad-Durar As-Sanniyyah, compiled by the scholar Shaykh 'Abdur-Rahman ibn Qasim, may Allah have mercy on him, in which he collected the fatwas of the Imams of the Da'wah from Al ash-Shaykh and other scholars of the twelfth century and after on 'Aqidah and rulings. I advise reading and reviewing them and other books of the scholars of Ahl as-Sunnah because of the great benefit in that.\nAlso the first collection of letters of the Imams of the Da'wah from Al ash-Shaykh and others, may Allah have mercy on them, and the replies of the Shaykhs: Shaykh 'Abdur-Rahman ibn Hasan, Shaykh 'Abdul-Latif ibn 'Abdur-Rahman, Shaykh 'Abdullah Aba Butayn, Shaykh Sulayman ibn Sahman, and others from the Imams of guidance and supporters of Tawhid, because of their benefit and removal of many doubts, and refutation of their proponents. May Allah have abundant mercy on them all and admit them into His spacious gardens, and make us among their followers in righteousness.\nAlso the issues of (Majallat al-Buhuth al-Islamiyyah) published by the General Presidency of the Departments of Scholarly Research, Ifta', Da'wah, and Guidance, because of the great articles and many benefits in 'Aqidah and rulings.\nAlso the first volumes of my fatwas and articles regarding 'Aqidah, which are printed, praise be to Allah, and available in the hands of students of knowledge. May Allah benefit by them, and other than that which is, praise be to Allah, expounded in the books of Ahl as-Sunnah wal-Jama'ah. And Allah is the One who grants success.⟦N13⟧"
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu' Fatawa wa Maqalat Ash-Shaykh Ibn Baz (7/45)."
+  }
+ ]
+}

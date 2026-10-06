@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3005",
+ "source_content_sha256": "sha256:13bb4563032bb2b8ff2052a19e6bc7ccf3226547ad23df5ca58564ad8da8ede1",
+ "locale": "bn",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:14:48.787315+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 532,
+  "completion_tokens": 296,
+  "total_tokens": 828,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 276
+ },
+ "latency_ms": 3834,
+ "units": [
+  {
+   "id": "title",
+   "text": "যে ব্যক্তি সূরা ফাতিহা পড়তে ভুলে গেছে তার বিধান"
+  },
+  {
+   "id": "q0",
+   "text": "প্রশ্ন:"
+  },
+  {
+   "id": "q1",
+   "text": "যদি কেউ সূরা ফাতিহা পড়তে ভুলে যায়, তবে কি তার স্থলে আরেকটি রাকাত আদায় করবে? এবং কি সে সাহু সিজদা করবে?"
+  },
+  {
+   "id": "a0",
+   "text": "উত্তর:"
+  },
+  {
+   "id": "a1",
+   "text": "যদি সে মুক্তাদি হয় তবে তার উপর কিছুই নেই। আর যদি ইমাম বা একা সালাত আদায়কারী হয়, তবে যে রাকাতে ফাতিহা ছুটে গেছে তার পরিবর্তে আরেকটি রাকাত আদায় করবে। যদি মুক্তাদি হয়, তবে মুক্তাদি তার ইমামের অনুসরণ করবে; যদি সে ভুলে যায় বা কিয়াম ছুটে যায়, তাহলে যা সে ইমামের সাথে পেয়েছে তা তার জন্য যথেষ্ট হবে।"
+  }
+ ]
+}

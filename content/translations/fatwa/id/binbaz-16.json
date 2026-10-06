@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-16",
+ "source_content_sha256": "sha256:47c671963afd41d11f8172c53dd4339546abeacabeebb7ea752e630279315092",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:00:02.856012+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1489,
+  "completion_tokens": 1505,
+  "total_tokens": 2994,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 1233
+ },
+ "latency_ms": 13528,
+ "units": [
+  {
+   "id": "title",
+   "text": "Hukum Mengucapkan: Berakhlak dengan Nama dan Sifat Allah"
+  },
+  {
+   "id": "q0",
+   "text": "Dari Abdul Aziz bin Abdullah bin Baz kepada saudara yang mulia, semoga Allah menyelamatkan dan memeliharanya.\nSalam sejahtera, rahmat dan berkah Allah atasmu. Adapun selanjutnya:\nSurat Anda yang mulia tertanggal 23/3/1386 H telah sampai, semoga Allah melimpahkan petunjuk-Nya kepada Anda. Apa yang terkandung dalam surat itu berupa pertanyaan tentang apa yang dikatakan sebagian khatib dalam khotbah Jumat tentang anjuran untuk bersifat dengan sifat-sifat Allah dan berakhlak dengan akhlak-Nya, apakah hal itu bisa ditafsirkan secara benar, dan apakah ada ulama yang pernah mengatakannya... dst, itulah yang ingin diketahui."
+  },
+  {
+   "id": "a0",
+   "text": "Jawabannya: Ungkapan ini tidak pantas, tetapi memiliki tafsiran yang benar, yaitu anjuran untuk berakhlak sesuai dengan konsekuensi sifat dan nama Allah serta tuntutannya, dengan memperhatikan sifat-sifat yang baik bagi makhluk untuk bersifat sesuai konsekuensinya, berbeda dengan sifat-sifat yang khusus milik Allah seperti Al-Khallāq (Maha Pencipta), Ar-Razzāq (Maha Pemberi Rezeki), Al-Ilāh (Tuhan) dan semacamnya, karena hal itu tidak mungkin dimiliki makhluk dan tidak boleh mengakuinya. Demikian pula nama-nama lain yang serupa. Yang dimaksud adalah sifat-sifat yang Allah cintai dari hamba-hamba-Nya untuk mereka bersifat sesuai konsekuensinya, seperti ilmu, kekuatan di atas kebenaran, kasih sayang, kesantunan, kedermawanan, kemurahan, pemaaf, dan semacamnya. Dia Maha Mengetahui dan mencintai orang-orang yang berilmu; Maha Kuat dan mencintai mukmin yang kuat lebih daripada mukmin yang lemah; Maha Mulia dan mencintai orang-orang yang mulia; Maha Penyayang dan mencintai orang-orang yang penyayang; Maha Pemaaf dan mencintai sifat pemaaf, dst. Akan tetapi, apa yang dimiliki Allah dari sifat-sifat ini dan lainnya lebih sempurna dan lebih agung daripada yang dimiliki makhluk, bahkan tidak ada perbandingan antara keduanya; karena tidak ada sesuatu pun yang serupa dengan-Nya dalam sifat dan perbuatan-Nya, sebagaimana tidak ada yang serupa dengan-Nya dalam Dzat-Nya. Hanya saja, makhluk cukup memiliki bagian dari makna sifat-sifat ini yang layak dan sesuai baginya dalam batas syariat. Jika ia melampaui batas dalam kedermawanan, ia menjadi pemboros; jika melampaui batas dalam kasih sayang, ia menangguhkan hukum hudud dan ta'zir syar'i; demikian pula jika ia berlebihan dalam memberi maaf melebihi batas syariat, ia menempatkannya bukan pada tempatnya. Contoh-contoh ini menunjukkan hal-hal lain yang serupa. Al-'Allamah Ibnul Qayyim rahimahullah telah menegaskan makna ini dalam dua kitabnya: 'Uddatush Shābirīn dan Al-Wābilush Shayyib, dan mungkin juga di kitab lain seperti Al-Madārij dan Zādul Ma'ād dan lainnya. Berikut ini saya kutipkan teks perkataannya dalam Al-'Uddah dan Al-Wābil. Beliau berkata dalam Al-'Uddah halaman 310:\n\"Karena Allah adalah Asy-Syakūr (Maha Mensyukuri) yang sebenarnya, maka makhluk yang paling dicintai-Nya adalah yang memiliki sifat syukur, sebagaimana makhluk yang paling dibenci-Nya adalah yang meniadakan sifat itu atau bersifat dengan kebalikannya. Demikianlah keadaan nama-nama-Nya yang indah; makhluk yang paling dicintai-Nya adalah yang bersifat dengan konsekuensinya, dan yang paling dibenci-Nya adalah yang bersifat dengan kebalikannya. Karena itu Dia membenci orang kafir, zalim, bodoh, keras hati, pelit, pengecut, hina, dan kikir. Dia Maha Indah dan mencintai keindahan, Maha Mengetahui dan mencintai orang-orang berilmu, Maha Penyayang dan mencintai orang-orang penyayang, Maha Berbuat Baik dan mencintai orang-orang yang berbuat baik, Maha Menutupi dan mencintai orang-orang yang menutupi aib, Maha Kuasa dan mencela kelemahan; mukmin yang kuat lebih dicintai-Nya daripada mukmin yang lemah; Dia Maha Pemaaf dan mencintai sifat pemaaf, Maha Ganjil dan mencintai yang ganjil. Semua yang dicintai-Nya adalah buah dari nama, sifat, dan konsekuensinya; dan semua yang dibenci-Nya adalah yang bertentangan dan menafikannya.\"\nBeliau berkata dalam Al-Wābilush Shayyib halaman 43 dari kumpulan hadis: \"Kedermawanan adalah salah satu sifat Tuhan Jalla Jalāluhu, karena Dia memberi dan tidak mengambil, memberi makan dan tidak diberi makan. Dialah yang paling dermawan dari semua yang dermawan, dan paling mulia dari semua yang mulia. Makhluk yang paling dicintai-Nya adalah yang bersifat dengan tuntutan sifat-sifat-Nya: Dia Maha Mulia mencintai hamba-hamba-Nya yang mulia, Maha Mengetahui mencintai orang-orang berilmu, Maha Kuasa mencintai orang-orang pemberani, Maha Indah mencintai keindahan.\" Selesai.\nSemoga apa yang telah disebutkan cukup dan bermanfaat. Saya memohon kepada Allah semoga memberikan taufik kepada kita semua untuk memahami agama-Nya dan menunaikan hak-Nya; sesungguhnya Dia Maha Mendengar lagi Maha Dekat. Wassalamu 'alaikum wa rahmatullahi wa barakatuh.⟦N1⟧"
+  },
+  {
+   "id": "n0.0",
+   "text": "Surat yang dikirim kepada salah satu penanya sebagai jawaban atas pertanyaannya ketika saya menjadi wakil Universitas Islam Madinah pada tahun 1386 H. (Majmu' Fatawa wa Maqalat Mutanawwi'ah karya Syekh Ibnu Baz 1/133)."
+  }
+ ]
+}

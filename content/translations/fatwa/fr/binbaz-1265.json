@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1265",
+ "source_content_sha256": "sha256:2629ae5ef3b6d5cfab3d351de135274e5410f89177fcf47a3cefbae6d7d99ece",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:55:12.418625+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 782,
+  "completion_tokens": 605,
+  "total_tokens": 1387,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 526
+ },
+ "latency_ms": 5511,
+ "units": [
+  {
+   "id": "title",
+   "text": "Sa mère lui demande d'abandonner le hijab"
+  },
+  {
+   "id": "q0",
+   "text": "Q : Je suis musulmane, louange à Allah, et je fais tout ce qui satisfait Allah, et je m'engage au hijab légal, mais ma mère, qu'Allah lui pardonne, ne veut pas que je m'engage au hijab, et elle m'ordonne de regarder le cinéma, la vidéo, etc. Et elle me dit : Si tu ne t'amuses pas et ne te divertis pas, tu deviendras une vieille femme et tes cheveux blanchiront ?"
+  },
+  {
+   "id": "a0",
+   "text": "R : Il t'est obligatoire d'être douce avec ta mère, de bien te comporter avec elle et de lui parler de la meilleure façon, car le droit de la mère est immense, mais tu ne dois pas lui obéir dans ce qui n'est pas convenable, selon la parole du Prophète ﷺ : « L'obéissance n'est due que dans ce qui est convenable », et sa parole ﷺ : « Pas d'obéissance à une créature dans la désobéissance au Créateur ». De même pour le père, le mari et autres, on ne leur obéit pas dans la désobéissance à Allah, selon le hadith mentionné.\nMais il convient à l'épouse, à l'enfant et à leurs semblables d'user de douceur et d'une bonne manière dans la résolution des problèmes, en exposant les preuves légales, l'obligation d'obéir à Allah et à Son Messager, et la mise en garde contre la désobéissance à Allah et à Son Messager, tout en restant ferme sur la vérité et en n'obéissant pas à celui qui ordonne de la contredire, que ce soit un mari, un père, une mère ou autres.\nIl n'y a pas de mal à regarder ce qui ne comporte pas de blâmable à la télévision ou en vidéo, et à écouter des conférences scientifiques et des leçons utiles, en se méfiant de regarder ce qui y est présenté de blâmable. De même, il n'est pas permis de regarder le cinéma, car il contient toutes sortes de faux⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmū‘ fatāwā wa maqālāt al-shaykh Ibn Bāz (5/355)."
+  }
+ ]
+}

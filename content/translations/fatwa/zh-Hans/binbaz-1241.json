@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1241",
+ "source_content_sha256": "sha256:45851d46395532efda44258873c4e9bb433a6bc85736fc37a632ef65fce7d1c7",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:53:37.231794+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 577,
+  "completion_tokens": 275,
+  "total_tokens": 852,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 321
+ },
+ "latency_ms": 2820,
+ "units": [
+  {
+   "id": "title",
+   "text": "关于斋戒者进行拔罐放血的教法规定"
+  },
+  {
+   "id": "q0",
+   "text": "问题："
+  },
+  {
+   "id": "q1",
+   "text": "拔罐放血会破坏斋戒吗？还是这一规定已被废止？"
+  },
+  {
+   "id": "a0",
+   "text": "回答："
+  },
+  {
+   "id": "a1",
+   "text": "学者们对此有分歧。有些人认为它会坏斋，依据是圣训“放血者和被放血者都坏斋了”；另一些人则认为它不坏斋，依据是艾奈斯等人的传述：他们只因其导致虚弱而不喜欢这样做。"
+  },
+  {
+   "id": "a2",
+   "text": "学者们对此意见不一，而著名的观点是它破坏斋戒，且先知ﷺ最终的决定是：拔罐放血会坏斋。但分歧依然存在，双方的证据都很强；因此，信士最好在斋戒期间远离拔罐放血，以保护自己的宗教功修，只在夜间进行拔罐放血。"
+  }
+ ]
+}

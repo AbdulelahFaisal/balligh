@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1283",
+ "source_content_sha256": "sha256:11ea6d5325b9e44e40c6af23794cf591b38bad3e1f2ab281fd4fccd95c808c64",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:55:17.427436+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 630,
+  "completion_tokens": 254,
+  "total_tokens": 884,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 374
+ },
+ "latency_ms": 2744,
+ "units": [
+  {
+   "id": "title",
+   "text": "与妻子离婚后子女的抚养费"
+  },
+  {
+   "id": "q0",
+   "text": "问题："
+  },
+  {
+   "id": "q1",
+   "text": "一位妇女不爱她的丈夫，据她说丈夫也不爱她。她问：离婚后，伊斯兰教法是否规定丈夫必须为她以及她为他所生的子女提供独立住房和生活费？"
+  },
+  {
+   "id": "a0",
+   "text": "回答："
+  },
+  {
+   "id": "a1",
+   "text": "如果他们离婚，双方应就子女抚养费问题达成协议。他们的情况由法庭审理，双方应与她的监护人一起就每月所需抚养费达成协议，感赞真主。如果发生争执，就回到法庭，由法庭审理并确定必须的抚养费。但最好的方式是和解，和解优于上法庭。如果他已经与她离婚，而她带着孩子，双方就合适的抚养费达成协议，由他为子女支付，这是最好的方式。如果发生争执，就回到法庭，只能由法庭审理此事。"
+  }
+ ]
+}

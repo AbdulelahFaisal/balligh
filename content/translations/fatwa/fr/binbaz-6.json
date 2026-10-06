@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-6",
+ "source_content_sha256": "sha256:c9d37b4a1ec0322fd006d7c656231c520fd43f347c4645caa77aa1d0f42a132c",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:22:24.395968+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 621,
+  "completion_tokens": 393,
+  "total_tokens": 1014,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 365
+ },
+ "latency_ms": 3344,
+ "units": [
+  {
+   "id": "title",
+   "text": "La voie pour connaître le monothéisme en croyance, comportement et action"
+  },
+  {
+   "id": "q0",
+   "text": "Question : Le questionneur dit : Qu'Allah vous récompense par un bien pour votre conférence complète, et qu'Allah la place dans la balance de vos œuvres. Ma question est : Quelle est la voie pour connaître la réalité du monothéisme en croyance, comportement et action ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse : La voie, par la grâce d'Allah, est facilitée. Le croyant doit se juger lui-même, s'imposer la vérité, et s'inspirer de ceux qui appliquent les textes sur eux-mêmes, afin de rester ferme dans le monothéisme d'Allah et la sincérité envers Lui, de s'attacher à agir en conséquence, et d'y appeler, jusqu'à ce qu'il y soit fermement établi et que cela devienne un trait de caractère chez lui ; après cela, celui qui veut l'en détourner ou semer la confusion en lui ne lui nuira plus.\nL'important est qu'il s'intéresse à cette affaire, qu'il se juge lui-même, et qu'il la connaisse bien, afin que les choses ne se confondent pas pour lui et que les ambiguïtés ne le trompent pas⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmou' Fatawa Ibn Baz (1/49)."
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1628",
+ "source_content_sha256": "sha256:96e8a9251e4c16aedd6c23ee621e686bf80e88242c710dfcf32a82c118e84353",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:01:10.399982+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 729,
+  "completion_tokens": 439,
+  "total_tokens": 1168,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 473
+ },
+ "latency_ms": 7095,
+ "units": [
+  {
+   "id": "title",
+   "text": "The ruling on looking at the fiancée and its conditions"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "If the suitor asks to meet the woman without being alone with her, what is the evidence for that, while the Prophet ﷺ said: every woman is ‘awrah?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "There is no harm in it. The woman is ‘awrah, as mentioned in the hadith, but the Prophet ﷺ made an exception for the suitor: if he proposes and wants to look, there is no blame. The Prophet ﷺ said: \"If one of you proposes to a woman, and he is able to look at what would encourage him to marry her, then let him do so.\" If he is able to look, even from afar without her knowledge, there is no harm. Jabir ibn Abdullah al-Ansari (may Allah be pleased with him) proposed to a woman from the Ansar and did not see her. He said: \"I used to hide among the palm trees to catch a glimpse of her until I saw what pleased me, and then I married her.\""
+  },
+  {
+   "id": "a2",
+   "text": "The point is that if it is possible for him to see her, even from a distance, or by being in her family's house when she passes by while they are okay with it, or similar situations; and if it is possible for her father or brother to bring her into his presence and let her enter upon him while he sees her without being alone with her—in the presence of her father, brother, mother, or the like—then there is no blame. The Prophet ﷺ permitted and allowed this."
+  }
+ ]
+}

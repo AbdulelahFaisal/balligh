@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1313",
+ "source_content_sha256": "sha256:9edb5da12796e3f59e9274f61fc0bd1428b1b9045d7ab8bb2acc72b82e787731",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:55:42.695445+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 455,
+  "completion_tokens": 176,
+  "total_tokens": 631,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 199
+ },
+ "latency_ms": 2178,
+ "units": [
+  {
+   "id": "title",
+   "text": "Is it permissible to greet women with salam?"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "If someone passes by a woman he does not know, should he return her greeting of salam?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "There is no harm in that. The Prophet (peace and blessings of Allah be upon him) passed by some women and greeted them with salam. He passed by a group of women and greeted them with salam, peace and blessings be upon him."
+  }
+ ]
+}

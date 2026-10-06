@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1353",
+ "source_content_sha256": "sha256:8b82672d88926fd00ef81ff71a5a26b067e1e0e4e782b0dfd300226909a71dc7",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:56:24.737478+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 607,
+  "completion_tokens": 255,
+  "total_tokens": 862,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 351
+ },
+ "latency_ms": 2968,
+ "units": [
+  {
+   "id": "title",
+   "text": "女性像男性一样高声礼拜吗？"
+  },
+  {
+   "id": "q0",
+   "text": "问题："
+  },
+  {
+   "id": "q1",
+   "text": "女性在出声的礼拜中是否像男性一样高声诵读？一些学生对此有分歧，有人说：“你们当如你们看见我礼拜那样礼拜”，这适用于女性和男性。我们希望阐明此事的真相。"
+  },
+  {
+   "id": "a0",
+   "text": "回答："
+  },
+  {
+   "id": "a1",
+   "text": "在我们看来，没有妨碍。她在昏礼、宵礼和晨礼中像男性一样礼拜并高声诵读；因为先知——愿主福安之——说：“你们当如你们看见我礼拜那样礼拜”。律例对男女是平等的，男女的律例平等，除非有证据专门规定。如果证据专门针对男性或女性，则另当别论；否则，原则上他们在律例中是平等的，他们的礼拜是一样的，他们的天课是一样的，他们的朝觐是一样的。"
+  }
+ ]
+}

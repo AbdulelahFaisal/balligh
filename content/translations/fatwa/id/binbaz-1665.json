@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1665",
+ "source_content_sha256": "sha256:f6e36ce6b0f15e9ac729e84e952796a322a681478b552a299d9a8bbabb4a4a13",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:03:00.487357+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 916,
+  "completion_tokens": 724,
+  "total_tokens": 1640,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 660
+ },
+ "latency_ms": 6851,
+ "units": [
+  {
+   "id": "title",
+   "text": "Bagaimana cara puasa bagi yang tidak mampu menikah"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Nabi ﷺ bersabda: Wahai para pemuda, barangsiapa di antara kalian mampu ba'ah; maka hendaklah menikah.. sampai akhir hadis, apakah puasa yang diminta itu harus berturut-turut atau terpisah?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Rasulullah ﷺ bersabda: Wahai para pemuda, barangsiapa di antara kalian mampu ba'ah; maka hendaklah menikah, maksudnya mampu menanggung biaya pernikahan; maka hendaklah menikah, karena itu lebih menundukkan pandangan dan lebih menjaga kemaluan. Beliau mendorong untuk menikah, dan hendaknya para ayah bersegera menikahkan anak-anak laki-laki dan perempuan mereka, dan tidak menolak calon yang sekufu ketika melamar, dan hendaknya mereka saling membantu dalam memudahkan mahar, memudahkan walimah, dan tidak memberatkan dalam perkara-perkara ini, agar mereka memudahkan bagi anak-anak laki-laki dan perempuan mereka apa yang disyariatkan Allah berupa pernikahan."
+  },
+  {
+   "id": "a2",
+   "text": "Adapun jika tidak mampu dan tidak sanggup; maka hendaklah berpuasa -sebagaimana sabda Nabi ﷺ- dan menjaga kesucian diri, dan Allah telah memerintahkan hal itu."
+  },
+  {
+   "id": "a3",
+   "text": "Puasa itu boleh berturut-turut, dan boleh juga terpisah, tidak mengapa sesuai dengan keadaannya dan kemampuannya. Jika berpuasa berturut-turut, itu baik, hingga dengan itu dapat menahan keburukan syahwat, dan jika berpuasa terpisah, tidak mengapa. Urusan ini kembali kepadanya, karena dia lebih tahu keadaannya. Puasa itu mustahab (dianjurkan) dan disyariatkan untuk meringankan keburukan syahwat, dan jika menggunakan sebagian obat-obatan yang meringankan hal itu, itu juga baik."
+  },
+  {
+   "id": "a4",
+   "text": "Dan di antara obat yang paling besar: menundukkan pandangan, menjauhi berkeliling di pasar-pasar tanpa keperluan, dan melihat perempuan di pasar, atau di rumahnya jika ada yang bukan mahramnya; maka hendaknya dia dalam hal seperti ini berhati-hati dan menjauhi melepaskan pandangan, karena ini termasuk sebab terbesar bagi keselamatannya. Adapun melepaskan pandangan dan berkeliling di pasar-pasar tanpa keperluan di antara perempuan, maka ini termasuk sebab terbesar dalam fitnah, melepaskan syahwat, dan terjadinya perbuatan keji, kita memohon keselamatan kepada Allah."
+  }
+ ]
+}

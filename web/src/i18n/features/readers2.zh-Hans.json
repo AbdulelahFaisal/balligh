@@ -4,5 +4,8 @@
   "helpQuestion": "请用清楚的中文解释这则教法裁决的问题和回答。这是解释，不是翻译。",
   "aiAssisted": "AI 辅助翻译",
   "showArabic": "显示阿拉伯语原文",
-  "publishedMeaning": "已出版的意义译文"
+  "publishedMeaning": "已出版的意义译文",
+  "aiAvailableIn": "这则教法裁决的 AI 辅助翻译提供以下语言：",
+  "readingHintTranslated": "阿拉伯语原文可在“{{label}}”下查看。",
+  "notesTitle": "注释"
 }

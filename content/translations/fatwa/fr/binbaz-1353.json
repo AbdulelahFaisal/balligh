@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1353",
+ "source_content_sha256": "sha256:8b82672d88926fd00ef81ff71a5a26b067e1e0e4e782b0dfd300226909a71dc7",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:56:32.447962+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 604,
+  "completion_tokens": 369,
+  "total_tokens": 973,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 348
+ },
+ "latency_ms": 3274,
+ "units": [
+  {
+   "id": "title",
+   "text": "La femme prie-t-elle à voix haute comme l’homme ?"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "La femme lit-elle à voix haute dans la prière à voix haute comme le fait l’homme, alors qu’il y a une divergence entre des étudiants en science religieuse, et certains ont dit : « Priez comme vous m’avez vu prier » et cela s’applique à la femme et à l’homme. Nous espérons une clarification de la vérité à ce sujet ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Ce qui nous paraît, c’est qu’il n’y a pas d’empêchement : elle prie et récite à voix haute dans les prières du maghrib, du ‘icha et du fajr comme l’homme, car le Prophète (sur lui la paix et le salut) a dit : « Priez comme vous m’avez vu prier. » Et les règles sont égales : les règles des hommes et des femmes sont égales, sauf ce qu’une preuve a particularisé. Si une preuve vient particulariser l’homme ou la femme, sinon le principe est qu’ils sont égaux dans les règles : leur prière est une, leur zakah (aumône obligatoire) est une, leur hajj est un."
+  }
+ ]
+}

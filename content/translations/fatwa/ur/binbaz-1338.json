@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1338",
+ "source_content_sha256": "sha256:e4f5fd143ad5ba76e7cd55ee60a7b371e6abf87139af73dc3a1922960919547f",
+ "locale": "ur",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:55:52.694675+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 561,
+  "completion_tokens": 363,
+  "total_tokens": 924,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 305
+ },
+ "latency_ms": 3876,
+ "units": [
+  {
+   "id": "title",
+   "text": "نذر پورا کرنے سے عاجز شخص کا حکم"
+  },
+  {
+   "id": "q0",
+   "text": "سوال:"
+  },
+  {
+   "id": "q1",
+   "text": "میں اپنے ساتھیوں کے ساتھ ایک مجلس میں تھا، اور میں نے اللہ کی قسم کھائی کہ اگر میرا بھائی آگیا تو میں ایک بکری ذبح کروں گا، اور میرا بھائی آگیا، اور میں اس وقت تنگ دست ہوں، اور میرے پاس بکری کی قیمت بھی نہیں ہے، تو میں کیا کروں؟"
+  },
+  {
+   "id": "a0",
+   "text": "جواب:"
+  },
+  {
+   "id": "a1",
+   "text": "اگر آسانی ہو تو بکری ذبح کرو۔ اگر بکری میسر ہو جائے تو اسے ذبح کرو؛ اپنی نذر پوری کرنے کے لیے، اسے فقراء کی نیت سے ذبح کرو، فقراء کو دے دو، اس نیت سے کہ تم اور تمہارے گھر والے کھاؤ، تم اور تمہارے گھر والے اسے کھاؤ، اگر تمہاری نیت نہیں ہے؛ تو اسے فقراء کو دے دو، خود نہ کھاؤ۔"
+  }
+ ]
+}

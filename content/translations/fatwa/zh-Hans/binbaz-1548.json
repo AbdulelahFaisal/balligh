@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1548",
+ "source_content_sha256": "sha256:e571bd8c3247fd52908904e1ff274d367f633f74ef23f1601742c1b47a60c0f4",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:58:58.255181+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 713,
+  "completion_tokens": 353,
+  "total_tokens": 1066,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 457
+ },
+ "latency_ms": 4057,
+ "units": [
+  {
+   "id": "title",
+   "text": "阐明打土净的方式"
+  },
+  {
+   "id": "q0",
+   "text": "问：请阁下为我们阐明正确的打土净方法。"
+  },
+  {
+   "id": "a0",
+   "text": "答：正确的打土净正如真主（尊严伟大的他）所说：⟦Q1⟧ [宴席章：6] 规定是一拍打，抹脸和双手。其方式是：他用双手拍打土一次，然后用双手抹脸和双手，正如两大圣训实录中，先知（愿主福安之）对阿玛尔·本·亚西尔（愿主喜悦他）说：“你只需这样做”然后他用双手拍打地面，并用双手抹脸和双手。\n条件是要使用洁净的土。不规定抹前臂，抹脸和双手就足够了，依据上述圣训。\n正确的观点是，土净在解除坏净方面可以代替水。如果做了土净，只要他保持洁净，他就可以用它礼副功拜、当时的主命拜以及将来的主命拜，直到他坏净，或者找到水（如果他缺水的话），或者直到他能够使用水（如果他不能使用水的话）。土净是洁净的，可以代替水，正如先知（愿主福安之）称它为洁净的⟦N2⟧。"
+  },
+  {
+   "id": "n0.0",
+   "text": "伊本·巴兹谢赫教法判例与文集（6/22）。"
+  }
+ ]
+}

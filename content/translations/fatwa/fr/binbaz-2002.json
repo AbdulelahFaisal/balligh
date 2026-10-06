@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2002",
+ "source_content_sha256": "sha256:5b33123b177284cc0d5625a4cbcbd7de21c1f647475c07abbcbc643d72ca9646",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:08:59.373693+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 2093,
+  "completion_tokens": 2402,
+  "total_tokens": 4495,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 1837
+ },
+ "latency_ms": 18426,
+ "units": [
+  {
+   "id": "title",
+   "text": "Mettre en lumière l'importance de l'unicité de la divinité (tawhid al-uluhiyyah)"
+  },
+  {
+   "id": "q0",
+   "text": "Question : À notre époque, les recherches, les écrits et les conférences abondent pour prouver l'existence d'Allah et affirmer Sa seigneurie, sans en tirer la conséquence et l'exigence, à savoir l'unicité de la divinité. Il en résulte une ignorance de l'unicité de la divinité et une négligence de son importance. Pourriez-vous mettre en lumière l'importance de l'unicité de la divinité, en tant que fondement et pivot du salut, clé de l'appel des messagers (prières et paix sur eux), et principe sur lequel tout le reste est construit ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse : Il ne fait aucun doute qu'Allah, glorifié soit-Il, a envoyé les messagers et a fait descendre les livres pour exposer Son droit sur Ses serviteurs, les appeler à Lui vouer exclusivement l'adoration à Lui seul, à l'exclusion de tout autre, et à Lui réserver toutes leurs adorations. La plupart des gens de la terre ont reconnu qu'Allah est leur Seigneur, leur Créateur et leur Pourvoyeur, mais ils sont tombés dans le polythéisme en Lui associant d'autres dans tout ou partie de leurs adorations, par ignorance et par imitation de leurs pères et ancêtres, comme cela est arrivé au peuple de Noé et aux nations qui ont suivi, et comme cela est arrivé aux premiers de cette communauté. En effet, lorsque le Messager ﷺ les a appelés à l'unicité d'Allah, ils l'ont désapprouvé et se sont enorgueillis de l'accepter, et ils ont dit, comme Allah l'a mentionné à leur sujet : ⟦Q1⟧ [Sâd : 5] ainsi dans la sourate Sâd. Et Il a dit à leur sujet dans la sourate As-Sâffât : ⟦Q2⟧ [As-Sâffât : 35-36]. Et Il a dit à leur sujet dans la sourate Az-Zukhruf : ⟦Q3⟧ [Az-Zukhruf : 23]. Les versets dans ce sens sont nombreux."
+  },
+  {
+   "id": "a1",
+   "text": "Il incombe donc aux savants musulmans et aux prédicateurs de la guidée d'expliquer aux gens la réalité de l'unicité de la divinité... et la différence entre elle et l'unicité de la seigneurie et l'unicité des noms et attributs ; car beaucoup de musulmans l'ignorent, à plus forte raison les autres. Les mécréants de Quraysh et d'autres Arabes, ainsi que la plupart des nations, savaient qu'Allah est leur Créateur et leur Pourvoyeur. C'est pourquoi Allah s'est servi de cela comme argument contre eux, car c'est Lui, Puissant et Majestueux, qui mérite d'être adoré, puisqu'Il est leur Créateur, leur Pourvoyeur et qu'Il a pouvoir sur eux de toutes les manières, comme Il a dit : ⟦Q4⟧ [Az-Zukhruf : 87]. Et Il a dit, Puissant et Majestueux : ⟦Q5⟧ [Luqmân : 25]. Et Il a dit, Puissant et Majestueux, ordonnant à Son Prophète ﷺ de leur demander qui leur accorde leur subsistance : ⟦Q6⟧. Allah, glorifié soit-Il, a dit : ⟦Q7⟧ [Yûnus : 31]. Les versets dans ce sens sont nombreux ; Il s'est servi de ce qu'ils reconnaissaient, à savoir qu'Il est leur Seigneur, leur Créateur, leur Pourvoyeur, le Créateur des cieux et de la terre et Celui qui administre toute chose, comme argument contre ce qu'ils niaient, à savoir l'unicité de l'adoration et l'invalidité du culte des idoles, des statues et de tout ce qu'ils adoraient en dehors d'Allah."
+  },
+  {
+   "id": "a2",
+   "text": "De même, Allah a ordonné à Ses serviteurs de croire en Ses noms et attributs, et de Le déclarer exempt de ressemblance avec les créatures. Il a dit : ⟦Q8⟧ [Al-A'râf : 180]. Et Il a dit dans la sourate Al-Hashr : ⟦Q9⟧ [Al-Hashr : 22] jusqu'à la fin de la sourate. Et Il a dit, Puissant et Majestueux : ⟦Q10⟧ [Al-Ikhlâs : 1-4]. Et Il a dit, Puissant et Majestueux : ⟦Q11⟧ [Al-Baqarah : 22]. Et Il a dit : ⟦Q12⟧ [Ash-Shûrâ : 11]. Les versets dans ce sens sont nombreux."
+  },
+  {
+   "id": "a3",
+   "text": "Les gens de science, qu'Allah leur fasse miséricorde, ont expliqué que l'unicité de la seigneurie implique nécessairement l'unicité de la divinité — à savoir vouer à Allah exclusivement l'adoration — et l'exige et la requiert. C'est pourquoi Allah s'en est servi comme argument contre eux."
+  },
+  {
+   "id": "a4",
+   "text": "De même, l'unicité des noms et attributs implique de réserver à Allah exclusivement l'adoration et de la Lui vouer entièrement, car c'est Lui qui est parfait dans Son essence, dans Ses noms et dans Ses attributs, et c'est Lui qui comble Ses serviteurs de bienfaits. Il mérite donc qu'ils L'adorent, obéissent à Ses ordres et s'abstiennent de Ses interdits.\nQuant à l'unicité de l'adoration, elle englobe les deux types et les inclut pour celui qui la réalise et s'y maintient avec science et pratique. Les gens de science ont longuement expliqué ce sens dans les livres de croyance et d'exégèse, comme le Tafsîr d'Ibn Jarîr, d'Ibn Kathîr, d'Al-Baghawî et d'autres, le Kitâb as-Sunnah de 'Abdullâh ibn Ahmad, le Kitâb at-Tawhîd d'Ibn Khuzaymah, la réfutation de l'érudit 'Uthmân ibn Sa'îd ad-Dârimî contre Bishr al-Marîsî, et d'autres savants des pieux prédécesseurs, qu'Allah leur fasse miséricorde, dans leurs ouvrages. Parmi ceux qui ont excellé en cela figurent Shaykh al-Islâm Ibn Taymiyyah et son élève l'érudit Ibn al-Qayyim, qu'Allah leur fasse miséricorde, dans leurs livres.\nDe même, les imams de l'appel islamique au douzième siècle et après, comme le Cheikh imam Muhammad ibn 'Abd al-Wahhâb, qu'Allah lui fasse miséricorde, ses fils, ses élèves et leurs successeurs parmi les gens de la Sunna.\nParmi les meilleurs ouvrages composés à ce sujet : Fath al-Majîd, et son origine Taysîr al-'Azîz al-Hamîd ; le premier est du Cheikh 'Abd ar-Rahmân ibn Hasan, qu'Allah lui fasse miséricorde, et le second du Cheikh Sulaymân ibn 'Abdillâh Âl ash-Shaykh, qu'Allah lui fasse miséricorde.\nParmi les meilleurs recueils à ce sujet figurent les premiers volumes des Durar as-Saniyyah, compilés par le Cheikh érudit 'Abd ar-Rahmân ibn Qâsim, qu'Allah lui fasse miséricorde. Il y a rassemblé les fatwas des imams de l'appel, de la famille Âl ash-Shaykh et d'autres savants du douzième siècle et après, sur la croyance et les jugements. Je conseille de les lire et de les consulter, ainsi que d'autres livres des savants de la Sunna, en raison du grand profit qu'ils contiennent.\nDe même, le premier recueil d'épîtres des imams de l'appel, de la famille Âl ash-Shaykh et d'autres, qu'Allah leur fasse miséricorde, et les réfutations des Cheikhs 'Abd ar-Rahmân ibn Hasan, 'Abd al-Latîf ibn 'Abd ar-Rahmân, 'Abdullâh Abâ Butayn, Sulaymân ibn Sahmân et d'autres imams de la guidée et partisans de l'unicité, en raison du profit qu'ils contiennent, de la dissipation de nombreuses ambiguïtés et de la réfutation de leurs auteurs, qu'Allah leur fasse à tous une vaste miséricorde, les installe dans Ses vastes jardins et fasse de nous leurs disciples dans le bien.\nDe même, les numéros de la revue « Recherches islamiques » publiée par la Présidence générale des administrations des recherches scientifiques, de la fatwa, de la prédication et de l'orientation, en raison des grands articles et des nombreux profits qu'ils contiennent sur la croyance et les jugements.\nDe même, les premiers volumes de mes fatwas et articles publiés concernant la croyance, qui sont imprimés — louange à Allah — et disponibles entre les mains des étudiants en science. Qu'Allah les rende profitables. Et d'autres choses qui sont — louange à Allah — exposées en détail dans les livres des gens de la Sunna et du consensus. Allah est Celui qui accorde la réussite.⟦N13⟧"
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmû' Fatâwâ wa Maqâlât du Cheikh Ibn Bâz (7/45)."
+  }
+ ]
+}

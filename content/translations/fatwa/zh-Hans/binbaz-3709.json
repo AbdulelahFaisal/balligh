@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3709",
+ "source_content_sha256": "sha256:d6979fce39d51efa7cc5ddd1a0d1980f20687efcbfe30eb4910b318da1f9bbfc",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:17:19.070103+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 781,
+  "completion_tokens": 365,
+  "total_tokens": 1146,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 525
+ },
+ "latency_ms": 4148,
+ "units": [
+  {
+   "id": "title",
+   "text": "对在礼拜中感到不舒适者的指导"
+  },
+  {
+   "id": "q0",
+   "text": "问题："
+  },
+  {
+   "id": "q1",
+   "text": "我礼拜，感赞真主，但我在礼拜中感到压抑和不舒适，请指导我，愿真主赐你们善报。"
+  },
+  {
+   "id": "a0",
+   "text": "回答："
+  },
+  {
+   "id": "a1",
+   "text": "这是一种心病，通常是由罪恶和疏忽引起的。在礼拜中感到不悦的人，是由于他的疏忽、背离和罪恶所致。他应当向真主忏悔，努力克制自己，祈求真主赐予顺利，并在礼拜中用心专注。礼拜是心灵的安宁和慰藉。先知ﷺ说：“我的慰藉在礼拜中。”礼拜是眼睛的清凉，他曾对比拉勒说：“比拉勒啊，请宣礼，让我们通过礼拜得到休息。”"
+  },
+  {
+   "id": "a2",
+   "text": "礼拜是心灵的安宁、良心的慰藉和眼睛的清凉。当信士进入礼拜时，他会感到舒适，内心平静，眼睛清凉，因为礼拜是伊斯兰的支柱，他在其中取悦他的主，谦恭地站在他面前。礼拜是心灵的安宁、灵魂的愉悦和眼睛的清凉。\n如果一个人在礼拜中感到压抑，他应当知道这是一种灾难，并通过向真主忏悔、祈求顺利、引导和援助来治疗它。真主会接受忏悔者的忏悔，他是崇高伟大的。"
+  }
+ ]
+}

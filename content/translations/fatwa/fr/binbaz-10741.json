@@ -3,26 +3,26 @@
  "record_id": "binbaz-10741",
  "source_content_sha256": "sha256:ab489899ab50e70528b0185e42af0fccee060c119715bea587089f48baad2875",
  "locale": "fr",
- "prompt_version": "fatwa-translate-1",
+ "prompt_version": "fatwa-translate-2",
  "review_status": "ai_generated_not_item_reviewed",
- "generated_at": "2026-10-06T19:29:53.850544+00:00",
+ "generated_at": "2026-10-06T20:50:11.969503+00:00",
  "provider": "deepseek",
  "model": "deepseek-v4-pro",
  "usage": {
-  "prompt_tokens": 915,
-  "completion_tokens": 1004,
-  "total_tokens": 1919,
+  "prompt_tokens": 1019,
+  "completion_tokens": 1023,
+  "total_tokens": 2042,
   "prompt_tokens_details": {
-   "cached_tokens": 0
+   "cached_tokens": 256
   },
-  "prompt_cache_hit_tokens": 0,
-  "prompt_cache_miss_tokens": 915
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 763
  },
- "latency_ms": 9251,
+ "latency_ms": 8219,
  "units": [
   {
    "id": "title",
-   "text": "Quelles sont les implications de : Lâ ilâha illa Allah (il n’y a pas de vraie divinité excepté Allah) ?"
+   "text": "Quelles sont les implications de : Lâ ilâha illa Allâh ?"
   },
   {
    "id": "q0",
@@ -30,7 +30,7 @@
   },
   {
    "id": "q1",
-   "text": "L’auteur de cette question dit : Quelles sont les implications de : Lâ ilâha illa Allah ?"
+   "text": "Il pose cette question et dit : Quelles sont les implications de : Lâ ilâha illa Allâh ?"
   },
   {
    "id": "a0",
@@ -38,23 +38,23 @@
   },
   {
    "id": "a1",
-   "text": "Cette parole est la plus grande des paroles, c’est la parole du Tawhid (unicité d’Allah). Le serviteur n’entre en Islam qu’en la réalisant et en y croyant, et en croyant qu’il n’y a pas de vraie divinité excepté Allah. C’est la première parole à laquelle ont appelé les messagers, la première parole à laquelle appellent les messagers est cette parole : Lâ ilâha illa Allah. Allah le Très-Haut a dit : ⟦Q1⟧ [al-Anbiya : 25] et Il a dit, gloire à Lui : ⟦Q2⟧ [an-Nahl : 36]. Et notre Prophète Muhammad ﷺ, lorsqu’Allah l’a envoyé, la première parole à laquelle il a appelé est : Lâ ilâha illa Allah, avec la foi en lui et qu’il est le Messager d’Allah. Elle implique de vouer exclusivement l’adoration à Allah seul, et de croire qu’Il est la divinité adorée à juste titre, qu’Il est le Seigneur des mondes, qu’Il est le Créateur parfaitement Connaisseur, et qu’Il mérite d’être adoré et que Ses ordres soient obéis. Elle implique que le serviteur croie qu’Allah est le Créateur du serviteur, qu’Il lui a préparé un Paradis et un Enfer, et qu’il rencontrera inévitablement son Seigneur : soit le Paradis, soit l’Enfer."
+   "text": "Cette parole est la plus grande des paroles, c'est la parole du monothéisme (tawhîd). Le serviteur n'entre en islam qu'en la réalisant et en y croyant, et en croyant qu'il n'y a aucune divinité digne d'adoration en vérité en dehors d'Allâh. C'est la première parole à laquelle les messagers ont appelé, la première parole à laquelle les messagers appellent est cette parole : Lâ ilâha illa Allâh. Allâh le Très-Haut a dit : ⟦Q1⟧ [les Prophètes, v. 25] et Il a dit, glorifié soit-Il : ⟦Q2⟧ [les Abeilles, v. 36]. Et notre Prophète Mouhammad ﷺ, lorsque Allâh l'a envoyé, la première parole à laquelle il a appelé est : Lâ ilâha illa Allâh, avec la foi en lui et le fait qu'il est le Messager d'Allâh. Elle implique de vouer l'adoration à Allâh seul, de croire qu'Il est la divinité adorée en vérité, qu'Il est le Seigneur des mondes, qu'Il est le Créateur, l'Omniscient, et qu'Il mérite d'être adoré et que Ses ordres soient obéis. Elle implique que le serviteur croie qu'Allâh est le Créateur du serviteur, qu'Il lui a préparé un paradis et un enfer, et qu'il rencontrera inévitablement son Seigneur, ce sera soit le paradis, soit l'enfer."
   },
   {
    "id": "a2",
-   "text": "Cette parole est le fondement de la religion, la base de la communauté, et elle est l’anse solide. Il faut donc y croire et croire en sa signification : qu’il n’y a pas de vraie divinité excepté Allah. Cette croyance implique d’obéir aux ordres et de délaisser les interdits, obéissance à Allah, la vraie divinité en laquelle tu as cru qu’elle est ta divinité adorée à juste titre. Elle implique que tu t’acquittes de Son droit en L’adorant par ta prière, ton jeûne, ta zakah (aumône obligatoire), ton pèlerinage, ton jeûne, et autres. Le sens de l’adoration est l’asservissement, le sens de Lâ ilâha illa Allah est : il n’y a pas de divinité adorée à juste titre excepté Allah, c’est-à-dire : il n’y a pas de vraie divinité excepté Allah."
+   "text": "Cette parole est le fondement de la religion, la base de la communauté, c'est l'anse solide. Il faut donc y croire et croire en son sens, et qu'il n'y a aucune divinité digne d'adoration en vérité en dehors d'Allâh. Cette croyance implique l'obéissance aux ordres et l'abandon des interdits, l'obéissance... à Allâh, le Vrai, en qui tu as cru qu'Il est ta divinité adorée en vérité. Elle implique que tu t'acquittes de Son droit en L'adorant par ta prière, ton jeûne, ta zakât, ton pèlerinage, ton jeûne, et autres. Le sens de l'adoration (ta'alluh) : c'est l'adoration (ta'abbud), le sens de Lâ ilâha illa Allâh c'est-à-dire : aucune divinité adorée en vérité en dehors d'Allâh, c'est-à-dire : aucune divinité digne d'adoration en vérité en dehors d'Allâh."
   },
   {
    "id": "a3",
-   "text": "Il t’incombe donc de L’adorer et de L’adorer par ta prière, ton jeûne, ta zakah (aumône obligatoire), ton pèlerinage, ton jihad (lutte dans le sentier d’Allah), et toutes tes autres adorations, en les vouant exclusivement au Seigneur, et de L’adorer Lui seul, en espérant Sa récompense et en craignant Son châtiment."
+   "text": "Il t'incombe donc de L'adorer, de L'adorer par ta prière, ton jeûne, ta zakât, ton pèlerinage, ton djihad et toutes tes adorations. Tu les consacres au Seigneur, glorifié et exalté soit-Il, et tu L'adores Lui seul, tu espères Sa récompense et tu crains Son châtiment, glorifié et exalté soit-Il."
   },
   {
    "id": "a4",
-   "text": "De même, parmi ses implications, il y a que tu croies à ce qu’Allah t’a interdit comme polythéisme et désobéissances, que tu t’en éloignes et que tu t’en méfies. Oui."
+   "text": "De même, parmi ses implications, il y a que tu croies à ce qu'Allâh t'a interdit comme polythéisme (shirk) et désobéissances, que tu t'en éloignes et que tu t'en méfies. Oui."
   },
   {
    "id": "a5",
-   "text": "Présentateur : Qu’Allah vous récompense par un bien."
+   "text": "Présentateur : Qu'Allâh vous récompense par un bien."
   }
  ]
 }

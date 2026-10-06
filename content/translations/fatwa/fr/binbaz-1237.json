@@ -1,0 +1,64 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1237",
+ "source_content_sha256": "sha256:b52c4e5fc9b2a6037c406fc7589cadf3f6d4faf0594aaf6c143309f548738590",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:53:32.671976+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1053,
+  "completion_tokens": 919,
+  "total_tokens": 1972,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 797
+ },
+ "latency_ms": 6745,
+ "units": [
+  {
+   "id": "title",
+   "text": "Comment se réalise le tawhid et le sens du shirk et de l'injustice"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Quelles sont les choses par lesquelles se réalise le tawhid ? Et quel est le sens du shirk et de l'injustice ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Le tawhid se réalise en vouant sincèrement l'adoration à Allah - qu'Il soit exalté et magnifié - et en croyant qu'Il est le seul digne d'adoration, qu'Il est unique dans Sa seigneurie, unique dans Sa divinité, unique dans Ses noms et attributs, et qu'Il n'a ni semblable ni associé, ni dans Ses actes, ni dans Ses paroles, ni dans Ses attributs, et qu'Il est le seul digne d'adoration, nul autre que Lui ne la mérite, gloire à Lui, exalté soit-Il, avec la foi en tout ce qu'Allah et Son Messager ont informé, la permission de ce qu'Allah et Son Messager ont permis, et l'interdiction de ce qu'Allah et Son Messager ont interdit ; voilà le tawhid, voilà la foi, et la guidance par laquelle le serviteur devient musulman."
+  },
+  {
+   "id": "a2",
+   "text": "Le cheikh : Répète la question."
+  },
+  {
+   "id": "a3",
+   "text": "Question : Quelles sont les choses par lesquelles se réalise le tawhid, et quel est le sens du shirk et de l'injustice ?"
+  },
+  {
+   "id": "a4",
+   "text": "Réponse : Quant au sens du shirk et de l'injustice, le shirk signifie : attribuer à Allah un associé dans l'adoration, l'invoquer avec Allah, qu'il s'agisse d'un saint, d'un prophète, d'un arbre ou d'une idole, l'invoquer avec Allah, chercher son secours avec Allah, lui faire des vœux, etc. Voilà l'associé."
+  },
+  {
+   "id": "a5",
+   "text": "On emploie aussi ce terme pour le shirk mineur, comme celui qui adore Allah pour le dirham et le dinar : « Malheur à l'esclave du dinar, malheur à l'esclave du dirham. » De même, l'ostentation est une forme de shirk mineur. On emploie également ce terme pour tout mécréant : on l'appelle mushrik, tout celui qui mécroit en Allah en reniant ce qu'Allah a permis ou ce qu'Allah a interdit, ou en insultant Allah et Son Messager, on l'appelle kafir."
+  },
+  {
+   "id": "a6",
+   "text": "Et on l'appelle mushrik ; car par cet acte il a obéi à sa passion, et il a associé sa passion dans l'adoration avec Allah, et il a obéi aux ordres de la passion et du diable, et il est devenu kafir pour avoir renié ce qu'Allah a rendu obligatoire, comme renier l'obligation de la prière, ou renier l'obligation du jeûne de Ramadan avec la capacité, ou renier ce qu'Allah a permis comme les chameaux, les moutons, les vaches, ou les céréales permises comme le blé, l'orge, etc., ou insulter Allah, ou insulter le Messager d'Allah, ou se moquer de la religion d'Allah, etc. Ce sont des formes de kufr et de shirk."
+  }
+ ]
+}

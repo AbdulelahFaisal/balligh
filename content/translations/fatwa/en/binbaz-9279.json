@@ -1,0 +1,52 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-9279",
+ "source_content_sha256": "sha256:3800dc33be049baa6c74b905e3376eb32ac867773999532f446dadd5393dc497",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:24:54.702454+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 838,
+  "completion_tokens": 562,
+  "total_tokens": 1400,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 582
+ },
+ "latency_ms": 4943,
+ "units": [
+  {
+   "id": "title",
+   "text": "The criterion for disliking and hating others and its duration"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "His Eminence the Shaykh has a final question, in which he says: If a person dislikes another person, does the other person incur sin if he reciprocates the dislike? May Allah reward you with good."
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "This requires knowing the reasons. If he dislikes him because he openly commits sins, then he is rewarded, and [the other] deserves to be boycotted. But if he dislikes him for other reasons, then this is not appropriate—not for worldly reasons. He should strive against himself until he loves him for the sake of Allah. Likewise, the other should not treat him in kind; rather, he should love him for the sake of Allah if he is obedient to Allah and upright, not out of following his own whims, but in accordance with Islamic rulings. Whoever is upright, it is obligatory to love him for the sake of Allah, even if you find something you dislike in his treatment of you; because it is obligatory upon you to love him for the sake of Allah, and the other should love you for the sake of Allah if you are upright."
+  },
+  {
+   "id": "a2",
+   "text": "As for worldly matters that occur between people, there is no harm in boycotting him for three days or less. If the matter becomes severe and requires this, then three days or less; the boycott is only for that. This is based on the Prophet's saying ﷺ: 'There is no hijrah (boycotting) beyond three nights.' Yes, meaning if there is a dispute among people concerning a creature's rights, or a quarrel, or something similar, they may boycott each other for only three days."
+  },
+  {
+   "id": "a3",
+   "text": "However, if it is for the sake of Allah, due to an open sin or an innovation, then he is to be boycotted until he repents, even if it is for a month, two months, or more; because the Prophet ﷺ boycotted Ka'b ibn Malik and his two companions for fifty nights because of their disobedience in the matter of jihad—they stayed behind from jihad without an excuse. Yes."
+  }
+ ]
+}

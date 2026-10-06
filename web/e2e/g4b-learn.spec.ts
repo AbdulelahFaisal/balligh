@@ -169,7 +169,8 @@ test("RTL and LTR interface languages, keyboard navigation and reduced motion", 
   await expect(page.locator("html")).toHaveAttribute("dir", "ltr");
   await expect(page.getByTestId("nav-learn")).toHaveText("Learn");
   await expect(page.getByRole("heading", { level: 1 })).toHaveText("Start learning");
-  await expect(page.getByTestId("stage-entry").filter({ hasText: "Arabic only" }).first()).toBeVisible();
+  // Each entry states its real availability; a fatwa says "Arabic only" only when no translation is stored.
+  await expect(page.getByTestId("stage-entry").first().getByTestId("entry-languages")).toBeVisible();
 
   await page.goto("/");
   await page.keyboard.press("Tab");

@@ -1,0 +1,52 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3521",
+ "source_content_sha256": "sha256:31a52d6ebc8b526d5ad3b34f4100350dd212aea906eb604b78c679b4caba4e26",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:15:54.882171+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 597,
+  "completion_tokens": 339,
+  "total_tokens": 936,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 341
+ },
+ "latency_ms": 3020,
+ "units": [
+  {
+   "id": "title",
+   "text": "Ruling on one who forgets to say Bismillah before wudu"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "Who forgets to say Bismillah before wudu?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "The tasmiyah (saying Bismillah) at the beginning of wudu is waived for him. If he forgets, then there is nothing upon him. If he remembers during wudu, he should say it during wudu; he says: Bismillah. This is like eating: he says Bismillah when eating, and if he forgets, he says it during it."
+  },
+  {
+   "id": "a2",
+   "text": "Question: ...?"
+  },
+  {
+   "id": "a3",
+   "text": "Answer: The hadith is weak, but what is obligatory is that if he remembers, he should say it. This is what is appropriate in order to avoid the difference of opinion among the scholars. Most of the people of knowledge are of the view that it is Sunnah, because the hadith is weak. However, if he leaves it deliberately, he should repeat the wudu. As for one who is ignorant or forgetful, there is no problem."
+  }
+ ]
+}

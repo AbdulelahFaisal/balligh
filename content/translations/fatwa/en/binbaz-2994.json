@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2994",
+ "source_content_sha256": "sha256:2e4d616e1cdeab810024e54ce6b9d55088cee6900f235d84d756ab24db03820d",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:14:25.578262+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 691,
+  "completion_tokens": 385,
+  "total_tokens": 1076,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 435
+ },
+ "latency_ms": 3777,
+ "units": [
+  {
+   "id": "title",
+   "text": "About the phrase “loyalty to the homeland”"
+  },
+  {
+   "id": "q0",
+   "text": "Q: Some people exaggerate by saying that the phrase “loyalty to the homeland” is a form of polytheism in a Muslim country whose people owe allegiance to Allah. What is your view, Your Eminence?"
+  },
+  {
+   "id": "a0",
+   "text": "A: What is obligatory is loyalty to Allah and His Messenger, meaning that a person allies in Allah and for Allah, and shows enmity in Allah. A person’s homeland may not be Islamic, so how can he be loyal to his homeland? However, if his homeland is Islamic, then he must love good for it and strive for that, but loyalty is to Allah. For whoever among the Muslims is obedient to Allah is his ally, and whoever opposes Allah’s religion is his enemy, even if he is from his homeland, even if he is his brother, uncle, father, or the like. So alliance and enmity are in Allah.\nAs for the homeland, it is loved if it is Islamic. A person should encourage good in his homeland and its remaining Islamic, and strive for the stability of its conditions and its people. This is obligatory upon all Muslims. We ask Allah for us, you, and all Muslims for success, guidance, sound intention and action. May peace and blessings be upon our Prophet Muhammad, his family, and his Companions⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu‘ Fatawa wa Maqalat al-Shaykh Ibn Baz (9/317)."
+  }
+ ]
+}

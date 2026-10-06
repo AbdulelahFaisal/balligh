@@ -1,0 +1,68 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1363",
+ "source_content_sha256": "sha256:f6f58ed065c43adeb2352772417425e6574d1a530e7763fc34d4d8bc95feace1",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:57:09.184103+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1370,
+  "completion_tokens": 1344,
+  "total_tokens": 2714,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 1114
+ },
+ "latency_ms": 10282,
+ "units": [
+  {
+   "id": "title",
+   "text": "Le jugement concernant l'obéissance au père lorsqu'il ordonne à son fils de ne pas rendre visite à l'un de ses proches"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Mon père m'ordonne de ne pas maintenir les liens avec mon oncle maternel (khāl), car il y a un malentendu entre eux pour une affaire mondaine. Il dit : « Si tu rends visite à ton oncle maternel, je te chasserai de ma maison. Sinon, je te délaisserai comme je l'ai délaissé. » Que dois-je faire ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Si ton père t'ordonne de délaisser ton oncle maternel, ou ton oncle paternel, ou d'autres proches, sans droit, mais seulement à cause d'un malentendu entre ton père et ton oncle maternel, ou son frère, ou autre, pour des affaires mondaines et des querelles, alors il ne t'est pas permis d'obéir à ton père, car c'est une désobéissance. L'obéissance n'est due que dans le bien ; il n'y a pas d'obéissance à une créature dans la désobéissance au Créateur."
+  },
+  {
+   "id": "a2",
+   "text": "Ton père doit aussi craindre Allah et ne pas délaisser son frère plus de trois jours. Le Prophète ﷺ a interdit le délaissement au-delà de trois jours pour les affaires mondaines. Il n'est pas permis à un musulman de délaisser son frère plus de trois jours. Lorsqu'ils se rencontrent, chacun détourne le visage, et le meilleur des deux est celui qui salue le premier. Il a dit : « Pas de délaissement au-delà de trois jours. »"
+  },
+  {
+   "id": "a3",
+   "text": "En résumé : le délaissement dû à la haine, à l'inimitié ou aux querelles n'est jamais permis. Cependant, il est permis pendant trois jours, au maximum. Lorsqu'il y a une querelle entre toi et quelqu'un, que son comportement envers toi s'est dégradé, et que tu ressens quelque chose en toi-même, il n'y a pas de mal à le délaisser trois jours. C'est une miséricorde d'Allah, car les âmes ont besoin d'être ménagées, traitées avec douceur et compassion. Le délaissement de trois jours suffit à apaiser la colère et à dissiper la tension. Une fois les trois jours écoulés, le meilleur des deux est celui qui salue le premier."
+  },
+  {
+   "id": "a4",
+   "text": "Et toi, ô fils, si ton père s'y oppose, tu peux maintenir les liens avec ton oncle maternel et ton oncle paternel, même en secret. Maintiens les liens, sois bienfaisant envers eux, rends-leur visite, même en secret, afin que la situation entre toi et ton père ne s'aggrave pas. Ne lui obéis pas dans la désobéissance, mais traite-le avec la meilleure attitude. Efforce-toi de maintenir tes liens et ta bonté envers ton oncle maternel, ton oncle paternel et autres, d'une manière qu'il ne découvre pas, si tu crains qu'un plus grand mal ne survienne."
+  },
+  {
+   "id": "a5",
+   "text": "Mais si tu peux calmer la situation et conseiller ton père, en lui disant : « Cela n'est pas permis. Tu dois être doux avec ton frère ou ton oncle maternel », en résumé, conseille-le, peut-être se laissera-t-il guider, afin de se réconcilier avec ton oncle maternel ou ton oncle paternel, et que cette animosité disparaisse entre eux."
+  },
+  {
+   "id": "a6",
+   "text": "Quant au délaissement pour la religion, si la personne affiche ouvertement des péchés et des innovations (bid'a), on la délaisse jusqu'à ce qu'elle se repente, même si cela dure un an, deux ans ou plus. Le Prophète ﷺ a délaissé trois personnes qui étaient restées en arrière de l'expédition sans excuse. Il les a délaissées pendant cinquante nuits jusqu'à ce qu'Allah accepte leur repentir. Lorsqu'ils se repentirent et que leur repentir fut manifesté, le Prophète annonça aux gens qu'Allah avait accepté leur repentir, et les gens leur parlèrent à nouveau."
+  },
+  {
+   "id": "a7",
+   "text": "En résumé : si le délaissement est pour Allah, à cause de péchés manifestes ou d'innovations, il n'a pas de limite sinon le repentir. S'ils reviennent de leurs péchés manifestes et de leurs innovations, les musulmans les saluent. Mais s'ils persistent dans leurs innovations et leurs péchés, il est légiféré de les délaisser, peut-être se repentiront-ils, peut-être reviendront-ils. Si les délaisser peut nuire aux musulmans et causer plus de problèmes, alors on ne les délaisse pas, mais on les conseille et on les oriente. Si les délaisser nuit à la communauté, ou mène à la corruption, ou à un mal plus grand, alors le délaissement est une question d'ijtihād et de considération."
+  }
+ ]
+}

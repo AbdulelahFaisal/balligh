@@ -20,7 +20,7 @@ import { TeacherBadge, TeacherNotice, useTeacherContext } from "@/routes/LearnPa
 import { useTranslation } from "react-i18next";
 import { Link, useLocation, useParams, useSearchParams } from "react-router";
 import { Button } from "@/components/ui/button";
-import { dirOf, LOCALE_NAMES } from "@/lib/types";
+import { dirOf, LOCALE_NAMES, LOCALES, type Locale } from "@/lib/types";
 import {
   boundQuery,
   browseSearch,
@@ -32,11 +32,13 @@ import {
   publisherHost,
   publisherUrl,
   readBrowse,
+  runKey,
   TOPICS,
   useGuardedResource,
   wordMeanings,
   type ApiCollection,
   type BrowseState,
+  type NoteLinks,
   type Paragraph,
   type Topic,
   type WordMeaning,
@@ -335,6 +337,7 @@ function usePlaceRestore(
   id: string,
   record: { id: string; content_sha256?: string | null } | undefined,
   source: CurrentSource | null,
+  resolve: (anchor: string) => string = (a) => a,
 ) {
   const location = useLocation();
   const { record: saved } = useReadingState();
@@ -346,7 +349,7 @@ function usePlaceRestore(
   const status = useRestoreAnchor({
     ready: ready && decision.kind === "restore",
     recordKey: `${collection}|${id}|${record?.content_sha256 ?? ""}`,
-    anchor: decision.kind === "restore" ? decision.anchor : null,
+    anchor: decision.kind === "restore" ? resolve(decision.anchor) : null,
   });
   return decision.kind === "stale" ? "stale" : decision.kind === "missing" || status === "missing" ? "missing" : null;
 }
@@ -361,16 +364,31 @@ function RestoreFallback({ reason }: { reason: "stale" | "missing" | null }) {
   );
 }
 
+/** Note links of one paragraph, re-keyed for a `Runs` call that renders that paragraph alone. */
+function paragraphLinks(links: NoteLinks | null | undefined, group: number, para: number, count: number): NoteLinks | null {
+  if (!links) return null;
+  const refs: NoteLinks["refs"] = {};
+  for (let j = 0; j < count; j += 1) {
+    const hit = links.refs[runKey(group, para, j)];
+    if (hit) refs[runKey(0, 0, j)] = hit;
+  }
+  return { ...links, refs };
+}
+
 function MtParagraphs({
   paragraphs,
   locale,
   honorifics,
   className,
+  links,
+  group = 0,
 }: {
   paragraphs: Paragraph[];
   locale: string;
   honorifics?: boolean;
   className?: string;
+  links?: NoteLinks | null;
+  group?: number;
 }) {
   const { t } = useTranslation();
   return (
@@ -380,7 +398,7 @@ function MtParagraphs({
         const pubs = runs.filter((run) => run.kind === "quran" && run.published && typeof run.published.text === "string");
         return (
           <div key={i}>
-            <Runs paragraphs={[runs]} honorifics={honorifics} />
+            <Runs paragraphs={[runs]} honorifics={honorifics} links={paragraphLinks(links, group, i, runs.length)} />
             {pubs.map((run, j) => (
               <p key={j} className="mt-1 border-s-2 border-border ps-3 text-sm" data-testid="mt-published">
                 <span lang={locale} dir={dirOf(locale)}>
@@ -399,9 +417,64 @@ function MtParagraphs({
   );
 }
 
+/** Other reading languages that do have an AI-assisted translation of this fatwa. */
+function MachineLocales({ locales, current, onPick }: { locales?: string[]; current: Locale; onPick: (l: Locale) => void }) {
+  const { t } = useTranslation();
+  const list = (Array.isArray(locales) ? locales : [])
+    .filter(isLocale)
+    .filter((l, i, all) => l !== current && l !== "ar" && all.indexOf(l) === i);
+  if (list.length === 0) return null;
+  return (
+    <div className="space-y-2 text-sm" data-testid="mt-available-locales" data-locales={list.join(" ")}>
+      <p>{t("readers2.aiAvailableIn")}</p>
+      <ul className="flex flex-wrap gap-2">
+        {list.map((l) => (
+          <li key={l}>
+            <Button type="button" variant="outline" className="min-h-11" lang={l} data-testid="mt-locale" data-locale={l} onClick={() => onPick(l)}>
+              {LOCALE_NAMES[l]}
+            </Button>
+          </li>
+        ))}
+      </ul>
+    </div>
+  );
+}
+
+/** The shared reading-language control; in the translated view its hint says where the Arabic original is. */
+function FatwaReadingLanguage({ value, onChange, originalLabel }: { value: Locale; onChange: (l: Locale) => void; originalLabel: string | null }) {
+  const { t } = useTranslation();
+  if (originalLabel === null) return <ReadingLanguage value={value} onChange={onChange} />;
+  return (
+    <div className="space-y-1">
+      <label className="flex flex-wrap items-center gap-2">
+        <span className="font-semibold">{t("library.readingLanguage")}</span>
+        <select
+          className="min-h-11 rounded-md border border-input bg-card px-3 text-base"
+          value={value}
+          onChange={(e) => {
+            if (isLocale(e.target.value)) onChange(e.target.value);
+          }}
+          data-testid="reading-language"
+        >
+          {LOCALES.map((l) => (
+            <option key={l} value={l} lang={l}>
+              {LOCALE_NAMES[l]}
+            </option>
+          ))}
+        </select>
+      </label>
+      <p className="text-sm text-muted-foreground" data-testid="reading-language-hint">
+        {t("readers2.readingHintTranslated", { label: originalLabel })}
+      </p>
+    </div>
+  );
+}
+
 export function FatwaReader() {
   const { t, i18n } = useTranslation();
   const assistant = useAssistant();
+  const location = useLocation();
+  const [originalOpen, setOriginalOpen] = useState<{ key: string; open: boolean } | null>(null);
   const { id, locale, setLocale, label, back } = useItemContext("questions");
   const { state, retry } = useGuardedResource(`fatwa|${id}|${locale}`, (signal) => libraryApi.fatwa(id, locale, signal));
   const data = state?.status === "ready" ? state.data : null;
@@ -430,7 +503,30 @@ export function FatwaReader() {
           href: `/library/questions/${encodeURIComponent(r.id)}?lang=${locale}`,
         }
       : null;
-  const fallback = usePlaceRestore("fatwa", id, r, source);
+  const mtNotes = (mt && Array.isArray(mt.notes) ? mt.notes : []).filter(
+    (n, i, all) => n && typeof n.id === "string" && all.findIndex((m) => m?.id === n.id) === i,
+  );
+  const mtLinks =
+    mt && r
+      ? buildNoteLinks(
+          `mt-${r.id}`,
+          [Array.isArray(mt.question) ? mt.question : [], mt.answer],
+          mtNotes.map((n) => ({ id: n.id, runs: [] })),
+        )
+      : null;
+  /** A saved place names a section of the source; in the translated view it resolves to the visible translated element. */
+  const visibleAnchor = (a: string): string => {
+    if (!mt || !r) return a;
+    if (a === "fatwa-question") return "fatwa-mt-question";
+    if (a === "fatwa-answer") return "fatwa-mt-answer";
+    const prefix = `note-${r.id}-`;
+    const noteId = a.startsWith(prefix) ? a.slice(prefix.length) : null;
+    return noteId !== null && mtNotes.some((n) => n.id === noteId) ? (mtLinks?.targets[noteId] ?? a) : a;
+  };
+  const viewKey = `${id}|${locale}`;
+  const hashAnchor = anchorFromHash(location.hash);
+  const originalWanted = !!mt && !!hashAnchor && !!source?.hasAnchor(hashAnchor) && visibleAnchor(hashAnchor) === hashAnchor;
+  const fallback = usePlaceRestore("fatwa", id, r, source, visibleAnchor);
   useEffect(() => {
     const loc = place("fatwa-question");
     if (loc) recordOpened(loc);
@@ -446,15 +542,16 @@ export function FatwaReader() {
         }
       : null,
   );
-  const anchor = useReaderAnchor(r && typeof r.content_sha256 === "string" ? ["fatwa-question", "fatwa-answer"] : []);
-  const savePlace = anchor ? place(anchor) : null;
+  const tracked = mt ? ["fatwa-mt-question", "fatwa-mt-answer"] : ["fatwa-question", "fatwa-answer"];
+  const anchor = useReaderAnchor(r && typeof r.content_sha256 === "string" ? tracked : []);
+  const savePlace = anchor ? place(anchor.replace(/^fatwa-mt-/, "fatwa-")) : null;
 
   return (
-    <article className="bl-reader space-y-5" data-testid="fatwa-reader" data-id={r?.id ?? ""}>
+    <article className="bl-reader space-y-5" data-testid="fatwa-reader" data-id={r?.id ?? ""} data-view={mt ? "machine" : translated ? "published" : "original"}>
       <div className="bl-readerbar">
         <BackLink to={back}>{t("library.questions.back")}</BackLink>
         <div className="bl-readerbar__tools">
-          <ReadingLanguage value={locale} onChange={setLocale} />
+          <FatwaReadingLanguage value={locale} onChange={setLocale} originalLabel={mt ? t("readers2.showArabic", { lng: locale }) : null} />
         </div>
       </div>
       {savePlace && (
@@ -515,6 +612,7 @@ export function FatwaReader() {
             </Notice>
           )}
           {locale !== "ar" && !translated && !mt && <AvailableIn locales={data.available_locales} />}
+          {locale !== "ar" && !translated && !mt && <MachineLocales locales={data.machine_locales} current={locale} onPick={setLocale} />}
           {locale !== "ar" && !translated && !mt && (
             <div lang={locale} dir={dirOf(locale)} className="bl-help-understand" data-testid="fatwa-language-help">
               {i18n.language !== locale && <p>{t("readers2.fatwaNote", { lng: locale })}</p>}
@@ -543,15 +641,39 @@ export function FatwaReader() {
           {mt && (
             <section className="bl-sheet bl-read bl-read--translation" data-testid="fatwa-mt">
               <LocaleBlock locale={locale} className="text-lg">
-                <MtParagraphs paragraphs={mt.question} locale={locale} honorifics={honorifics} />
-                <MtParagraphs paragraphs={mt.answer} locale={locale} honorifics={honorifics} className="mt-4" />
-                {Array.isArray(mt.notes) && mt.notes.length > 0 && (
-                  <ol className="mt-6 list-none space-y-3 border-t border-border ps-0 pt-4 text-base" data-testid="mt-notes">
-                    {mt.notes.map((n) => (
-                      <li key={n.id} data-note={n.id}>
-                        <MtParagraphs paragraphs={Array.isArray(n.paragraphs) ? n.paragraphs : []} locale={locale} honorifics={honorifics} />
-                      </li>
-                    ))}
+                <div id="fatwa-mt-question" className="scroll-mt-24" data-testid="fatwa-mt-question">
+                  <MtParagraphs paragraphs={Array.isArray(mt.question) ? mt.question : []} locale={locale} honorifics={honorifics} links={mtLinks} group={0} />
+                </div>
+                <div id="fatwa-mt-answer" className="mt-4 scroll-mt-24" data-testid="fatwa-mt-answer">
+                  <MtParagraphs paragraphs={mt.answer} locale={locale} honorifics={honorifics} links={mtLinks} group={1} />
+                </div>
+                {mtNotes.length > 0 && (
+                  <ol
+                    className="mt-6 list-none space-y-3 border-t border-border ps-0 pt-4 text-base"
+                    aria-label={t("readers2.notesTitle", { lng: locale })}
+                    data-testid="mt-notes"
+                  >
+                    {mtNotes.map((n) => {
+                      const noteBack = mtLinks?.backs[n.id];
+                      const noteTarget = mtLinks?.targets[n.id];
+                      return (
+                        <li key={n.id} id={typeof noteTarget === "string" ? noteTarget : undefined} className="scroll-mt-24 rounded-md target:bg-muted" data-testid="mt-note" data-note={n.id}>
+                          <span className="me-2 font-semibold" data-testid="mt-note-number">
+                            [<bdi>{n.id}</bdi>]
+                          </span>
+                          <MtParagraphs paragraphs={Array.isArray(n.paragraphs) ? n.paragraphs : []} locale={locale} honorifics={honorifics} />
+                          {typeof noteBack === "string" && (
+                            <a
+                              href={`#${noteBack}`}
+                              className="inline-flex min-h-11 items-center text-sm font-semibold text-primary underline underline-offset-4"
+                              data-testid="mt-note-back"
+                            >
+                              {t("library.notes.back", { id: n.id, lng: locale })}
+                            </a>
+                          )}
+                        </li>
+                      );
+                    })}
                   </ol>
                 )}
               </LocaleBlock>
@@ -576,7 +698,12 @@ export function FatwaReader() {
               </section>
             );
             return mt ? (
-              <details className="bl-mt-original" data-testid="fatwa-original-disclosure">
+              <details
+                className="bl-mt-original"
+                data-testid="fatwa-original-disclosure"
+                open={originalOpen?.key === viewKey ? originalOpen.open : originalWanted}
+                onToggle={(e) => setOriginalOpen({ key: viewKey, open: e.currentTarget.open })}
+              >
                 <summary className="min-h-11 cursor-pointer py-2 font-semibold" lang={locale} dir={dirOf(locale)}>
                   {t("readers2.showArabic", { lng: locale })}
                 </summary>

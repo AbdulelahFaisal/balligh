@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1263",
+ "source_content_sha256": "sha256:b29f02601d672521e9b92d31b467e83a34c54df33d85b0d92891395bcc397ee2",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:54:37.504136+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 721,
+  "completion_tokens": 435,
+  "total_tokens": 1156,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 465
+ },
+ "latency_ms": 3485,
+ "units": [
+  {
+   "id": "title",
+   "text": "Matters by which one enters Islam"
+  },
+  {
+   "id": "q0",
+   "text": "Q: Is it sufficient to pronounce the first pillar, the testimony that there is no god but Allah and that Muhammad is the Messenger of Allah? Or are other things necessary for a person’s Islam to be complete?"
+  },
+  {
+   "id": "a0",
+   "text": "A: If a disbeliever testifies that there is no god but Allah and that Muhammad is the Messenger of Allah, with sincerity in that, certainty, knowledge of what it entails, and acting upon it, he enters Islam. Then he is required to perform prayer and the rest of the rulings. This is why when the Prophet ﷺ sent Mu‘adh to Yemen, he said to him: “Call them to testify that there is no god but Allah and that Muhammad is the Messenger of Allah. If they do that, then inform them that Allah has obligated upon them five prayers in the day and night. If they obey you in that, then inform them that Allah has obligated upon them charity (zakah) in their wealth, taken from their rich and returned to their poor.” He did not command them with prayer and zakah until after tawhid and belief in the Messenger ﷺ. If a disbeliever does that, he attains the ruling of the Muslims. Then he is required to perform prayer and the rest of the matters of the religion. If he refrains from that, other rulings apply to him. If he abandons prayer, the ruler asks him to repent; if he repents, then fine, otherwise he is executed. Likewise, with the rest of the rulings, he is dealt with according to what he deserves⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu‘ Fatawa wa Maqalat al-Shaykh Ibn Baz (5/355)."
+  }
+ ]
+}

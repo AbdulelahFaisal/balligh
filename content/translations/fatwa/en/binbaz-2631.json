@@ -1,0 +1,76 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2631",
+ "source_content_sha256": "sha256:5254af03806f3a4948bc95256914a615efdb5088fafd45220db7400d5724bccc",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:13:03.896184+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1170,
+  "completion_tokens": 911,
+  "total_tokens": 2081,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 914
+ },
+ "latency_ms": 6440,
+ "units": [
+  {
+   "id": "title",
+   "text": "Ruling on making up prayers on behalf of the deceased"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "If a deceased person during his final illness was unable to perform the obligatory prayers due to inability, are they made up on his behalf after his death?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "Some people make a mistake in this matter, as you heard in the symposium. Some people, when they become ill, are lax about the prayer and do not pray, saying: \"If I recover, I will make it up.\" This is a mistake. He may die in the hospital. This is a mistake. It is obligatory upon him to pray according to his condition: standing, sitting, on his side, or lying down, as you heard in the lecture. This is what the Prophet ﷺ commanded. If he is unable to use water, he prays with tayammum (dry ablution). If tayammum is not possible for him and there is no water, he prays according to his condition, even if his clothes are impure; he prays according to his condition ⟦Q1⟧ [At-Taghabun:16]. If he is able to perform wudu' (ablution), he does wudu'; if he is able to perform tayammum, he does tayammum; if he is able to change his clothes, he changes them; if he is able to change his prayer place, he changes it."
+  },
+  {
+   "id": "a2",
+   "text": "As for being lax and saying: \"Later, if Allah grants me recovery, I will pray,\" this is a mistake and not permissible. The Prophet ﷺ said to the sick person: \"Pray standing; if you cannot, then sitting; if you cannot, then on your side; if you cannot, then lying down.\" And the one who cannot find water performs tayammum. The one who is unable has no excuse. This is a mistake."
+  },
+  {
+   "id": "a3",
+   "text": "It is obligatory upon the Muslim to alert his brothers in such situations. When he visits his sick brother, he should alert him to these matters, tell him, especially if he fears that he will make a mistake in this. He should alert him and explain to him so that this is a form of cooperating in righteousness and piety. If he dies without having prayed, there is no making up on his behalf. Supplication is made for him for forgiveness and pardon, because he left it due to a misconception, being ignorant, thinking that this is better. So he is not in the ruling of one who deliberately left it out of arrogance or negligence. Some people leave it thinking that this is the prescribed way and that if he prays after the illness it will be better and more complete. This is from great ignorance, and Allah's help is sought."
+  },
+  {
+   "id": "a4",
+   "text": "Question: If he left them..."
+  },
+  {
+   "id": "a5",
+   "text": "Answer: All of this is a mistake."
+  },
+  {
+   "id": "a6",
+   "text": "Student: But he left them and died while he...?"
+  },
+  {
+   "id": "a7",
+   "text": "Answer: No, they are not made up on his behalf, but – Allah willing – forgiveness from Allah is hoped for him."
+  },
+  {
+   "id": "a8",
+   "text": "Student: If he left the prayer intentionally and deliberately...?"
+  },
+  {
+   "id": "a9",
+   "text": "Answer: If it was out of negligence, then he is a disbeliever – we seek refuge with Allah – he is not washed nor prayed upon. But if his intention was that he was impure and he saw that delaying it was better due to his ignorance, then this..."
+  }
+ ]
+}

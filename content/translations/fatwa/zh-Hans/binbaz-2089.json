@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2089",
+ "source_content_sha256": "sha256:e675c38fd856136f56e9837afd01ad537022c07febf227c5c56de06f282e3d8f",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:09:09.495086+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 565,
+  "completion_tokens": 241,
+  "total_tokens": 806,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 309
+ },
+ "latency_ms": 2957,
+ "units": [
+  {
+   "id": "title",
+   "text": "哈鲁特和马鲁特是天使还是人类？"
+  },
+  {
+   "id": "q0",
+   "text": "问：哈鲁特和马鲁特是天使还是人类？请说明学者们对此最正确的观点。"
+  },
+  {
+   "id": "a0",
+   "text": "答：学者们对此有分歧。最明显的观点是：他俩是天使，降世作为考验和试炼，正如真主（荣耀归于他）所说：⟦Q1⟧（黄牛章：102）。\n部分学者说：他俩是阿丹子孙中的两位君王，人们因他俩而受考验。第一种观点是最明显的。根据第一种观点，此处的读法是将“拉姆”发开口符；根据第二种观点，则发齐齿符⟦N2⟧。"
+  },
+  {
+   "id": "n0.0",
+   "text": "谢赫伊本·巴兹教法解答与文章全集（8/115）。"
+  }
+ ]
+}

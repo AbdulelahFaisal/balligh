@@ -1,0 +1,52 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1375",
+ "source_content_sha256": "sha256:658afdca91c0e60c74f84d4ea279b0288536c38bb25c0dc8392649df5c79f12e",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:57:22.796615+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 773,
+  "completion_tokens": 598,
+  "total_tokens": 1371,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 517
+ },
+ "latency_ms": 5044,
+ "units": [
+  {
+   "id": "title",
+   "text": "Hukum membaca Al-Fatihah dalam shalat sirriyah dan jahriyah"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Apa hukum membaca Al-Fatihah dalam shalat sirriyah dan jahriyah, dengan menyebutkan pendapat yang lebih kuat menurut Anda?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban: "
+  },
+  {
+   "id": "a1",
+   "text": "Membaca Al-Fatihah adalah wajib bagi imam dan munfarid (orang yang shalat sendirian). Nabi -shallallahu 'alaihi wa sallam- bersabda: \"Tidak sah shalat bagi orang yang tidak membaca Fatihatul Kitab.\" Dan beliau -shallallahu 'alaihi wa sallam- juga bersabda: \"Barangsiapa shalat dengan tidak membaca Fatihatul Kitab di dalamnya, maka shalatnya kurang, shalatnya kurang, tidak sempurna.\" Ini adalah pendapat mayoritas ulama, bahwa ia wajib bagi imam dan munfarid. "
+  },
+  {
+   "id": "a2",
+   "text": "Namun mereka berbeda pendapat tentang makmum, apakah wajib atasnya atau tidak? Ada tiga pendapat: Sebagian ulama berkata: Wajib atas makmum dalam shalat sirriyah, bukan dalam shalat jahriyah. Sebagian lain berkata: Wajib atasnya secara mutlak, baik dalam shalat sirriyah maupun jahriyah. Sebagian lagi berkata: Tidak wajib, baik dalam shalat sirriyah maupun jahriyah. Inilah tiga pendapat. Yang paling kuat menurut saya, berdasarkan hadits-hadits yang tampak, adalah wajib secara mutlak. Ini yang paling jelas."
+  },
+  {
+   "id": "a3",
+   "text": "Dan tidak sepatutnya bagi makmum untuk meninggalkannya, sebagaimana imam dan munfarid juga tidak meninggalkannya. Bahkan makmum membacanya, meskipun di atas bacaan imam, ia membacanya dalam hati, kemudian diam. Dalam shalat Zhuhur, Ashar, Maghrib, Isya, dan Subuh pada shalat sirriyah jelas. Dan dalam shalat jahriyah ia membacanya setelah takbiratul ihram, setelah Al-Fatihah sesuai yang mudah baginya bersama imam."
+  }
+ ]
+}

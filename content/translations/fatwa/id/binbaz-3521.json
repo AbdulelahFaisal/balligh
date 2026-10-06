@@ -1,0 +1,52 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3521",
+ "source_content_sha256": "sha256:31a52d6ebc8b526d5ad3b34f4100350dd212aea906eb604b78c679b4caba4e26",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:16:02.299244+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 597,
+  "completion_tokens": 390,
+  "total_tokens": 987,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 341
+ },
+ "latency_ms": 3775,
+ "units": [
+  {
+   "id": "title",
+   "text": "Hukum orang yang lupa membaca basmalah sebelum wudhu"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Bagaimana hukum orang yang lupa membaca basmalah sebelum wudhu?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Kewajiban membaca basmalah di awal wudhu gugur baginya jika ia lupa, maka tidak ada dosa baginya. Jika ia ingat di tengah-tengah wudhu, hendaklah ia membaca basmalah saat itu juga, ucapkan: \"Bismillah\", seperti ketika makan, ia membaca basmalah saat makan. Apabila ia lupa, maka ia membaca basmalah di tengah-tengahnya."
+  },
+  {
+   "id": "a2",
+   "text": "Pertanyaan: ...?"
+  },
+  {
+   "id": "a3",
+   "text": "Jawaban: Haditsnya lemah, tetapi yang wajib adalah jika ia ingat, ia membaca basmalah. Inilah yang seharusnya dilakukan untuk menghindari perbedaan pendapat di kalangan ulama. Mayoritas ulama berpendapat bahwa membaca basmalah hukumnya sunnah, karena haditsnya lemah. Akan tetapi, jika ia meninggalkannya dengan sengaja, sebaiknya ia mengulangi wudhunya. Adapun jika ia meninggalkannya karena tidak tahu atau lupa, maka tidak mengapa."
+  }
+ ]
+}

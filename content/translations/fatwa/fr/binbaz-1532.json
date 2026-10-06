@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1532",
+ "source_content_sha256": "sha256:af2e36c4607b7741a4b1559f3c6eb2723a36a9eb19a8c9cead325165b6133438",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:58:39.460651+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 638,
+  "completion_tokens": 387,
+  "total_tokens": 1025,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 382
+ },
+ "latency_ms": 3075,
+ "units": [
+  {
+   "id": "title",
+   "text": "Le statut de l'exception dans la foi"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "Est-il permis au croyant de dire : « Je suis croyant si Allah le veut » ? Nous espérons une clarification de cela."
+  },
+  {
+   "id": "a0",
+   "text": "Réponse:"
+  },
+  {
+   "id": "a1",
+   "text": "Oui, il est permis chez les gens de la Sunna et du consensus de dire : « Je suis croyant, si Allah le veut », et ce n'est pas le doute qui est visé, mais le sens de « si Allah le veut » est parce qu'il ne sait pas s'il a parachevé la foi ou non. La foi comporte des obligations et des choses liées à l'abandon des interdits. Il dit donc : « Si Allah le veut », c'est-à-dire : si Allah veut que ma foi soit complète et parfaite, ou bien par rapport à la fin de vie, car il ne sait pas quelle sera sa fin. Il dit donc : « Si Allah le veut », parce qu'il ne sait pas quelle sera la fin."
+  },
+  {
+   "id": "a2",
+   "text": "Les Murji'ites renient cela et disent que c'est pour le doute, et c'est une erreur. Les gens de la Sunna et du consensus font une exception dans la foi sans aucun doute, mais en considérant l'accomplissement des obligations de la foi et en considérant la fin de vie."
+  }
+ ]
+}

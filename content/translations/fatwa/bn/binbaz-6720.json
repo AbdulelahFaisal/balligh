@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-6720",
+ "source_content_sha256": "sha256:7e90c2504fd942523be1f61a36674b10a522ae9da1a0255e8bcf67ce41819778",
+ "locale": "bn",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:22:32.960233+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 504,
+  "completion_tokens": 255,
+  "total_tokens": 759,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 248
+ },
+ "latency_ms": 3669,
+ "units": [
+  {
+   "id": "title",
+   "text": "মুমিনের মধ্যে প্রশংসনীয় শক্তি কোনটি?"
+  },
+  {
+   "id": "q0",
+   "text": "প্রশ্ন:"
+  },
+  {
+   "id": "q1",
+   "text": "কে বলেছেন যে শক্তিশালী মুমিনের শক্তি দৈহিক শক্তির অন্তর্ভুক্ত?"
+  },
+  {
+   "id": "a0",
+   "text": "উত্তর:"
+  },
+  {
+   "id": "a1",
+   "text": "না, দৈহিক শক্তি নয়, দৈহিক শক্তির কী প্রয়োজন?! শক্তি হলো কাজের শক্তি; যদি সে হাতির চেয়েও শক্তিশালী হয় কিন্তু ভালো কাজের আদেশ দেয় না এবং মন্দ কাজ থেকে নিষেধ করে না, তাহলে তাকে শক্তিশালী বলা হয় না; তাকে দুর্বল বলা হয়।\n(বুলুগুল মারামের ব্যাখ্যার পাঠ, জামে' কিতাব)"
+  }
+ ]
+}

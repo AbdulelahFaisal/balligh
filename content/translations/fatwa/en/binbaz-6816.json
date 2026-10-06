@@ -1,0 +1,36 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-6816",
+ "source_content_sha256": "sha256:12abfc2f9c92b4a79b6b0a57f7c9c919a05a9cf1965ca5719810ef4dcb16a81a",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:22:59.749657+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 868,
+  "completion_tokens": 519,
+  "total_tokens": 1387,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 612
+ },
+ "latency_ms": 4438,
+ "units": [
+  {
+   "id": "title",
+   "text": "Ruling on taking from the father's or mother's money without their permission"
+  },
+  {
+   "id": "q0",
+   "text": "Question: This is a message that came to us from Iraq, from Baghdad, from the listener Liqa' Muhammad Latif. She says in her message: If a mother sends her son to the market and instructs him to buy some needs, and gives him an amount of money, and the son buys the needs and some money remains extra from the amount, is it forbidden for him to take this money without her knowledge, given that it is his mother's money and he has the right, as he heard from people, to dispose of it or take from her pocket, for example, or from her bag without her knowledge? Advise me, may Allah bless you."
+  },
+  {
+   "id": "a0",
+   "text": "Answer: He has no right to take the surplus except with her permission, for he is an agent and a trustee. He must carry out what his mother, his father, or anyone else who appointed him has said. He has no right to take the surplus; rather, he must return the surplus to the one who appointed him, whether the appointer is his mother, his father, or someone else. He has no right to take the extra, and he has no right to take from his mother's money except with her permission, nor from his father's money except with his permission. He has no right to dispose of their wealth except with their permission. However, if he is poor and his father neglects to spend on him, and there is no one to spend on him except his father, for example, then he may take from his father's or mother's money the amount they failed to provide for his maintenance, if he is among their dependents and is unable to earn and has no money, and he is in the care of his mother or father, then they are obliged to spend on him the customary maintenance known in their country or for those like them. If they fall short, he may take from that with what is reasonable — he may take from their money with what is reasonable, only the amount he needs. But if they sent him with money to buy something, he has no right to take the surplus; rather, he should return the surplus. Yes.\nPresenter: May Allah bless you."
+  }
+ ]
+}

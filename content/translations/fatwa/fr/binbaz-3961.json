@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3961",
+ "source_content_sha256": "sha256:2330a9b3270c3283d95fbdd01d7d693d6bb09fad5c27d43d10f68da35dad3557",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:19:53.184954+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1102,
+  "completion_tokens": 1166,
+  "total_tokens": 2268,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 846
+ },
+ "latency_ms": 8791,
+ "units": [
+  {
+   "id": "title",
+   "text": "Le temps nécessaire pour les prières de Zhuhr, Asr et Maghrib"
+  },
+  {
+   "id": "q0",
+   "text": "Question : L’auteur de la question, Y. A. de Khartoum, République du Soudan, dit : Je vous prie de bien vouloir m’informer sur le temps nécessaire pour chacune des prières de Zhuhr, Asr et Maghrib."
+  },
+  {
+   "id": "a0",
+   "text": "Réponse : Quant à la prière de Zhuhr, elle n’a pas de temps de nécessité ; tout son temps est un temps de choix. Lorsque le soleil décline, le temps de Zhuhr commence, et le temps reste un temps de choix jusqu’à ce que l’ombre de chaque chose soit égale à sa longueur, en plus de l’ombre du déclin. Tout cela est un temps de choix, mais le mieux est de l’accomplir au début du temps, après l’appel à la prière et la prière surérogatoire régulière ; l’imam attend un peu afin que les gens se rassemblent, c’est cela le meilleur.\nQuant à la prière de Asr, elle a un temps de choix et un temps de nécessité. Le temps de choix s’étend du début du temps jusqu’à ce que le soleil jaunisse. Lorsque le soleil jaunit, c’est le temps de nécessité jusqu’au coucher du soleil. Il n’est pas permis de retarder la prière jusqu’à ce moment, mais si quelqu’un l’accomplit à ce moment, il l’a accomplie dans le temps ; cependant, il n’est pas permis de la retarder, car le Prophète (paix et bénédictions d’Allah sur lui) a dit : « Le temps de la prière de Asr s’étend tant que le soleil n’a pas jauni. » Et il a dit à propos de l’hypocrite : « C’est la prière de l’hypocrite, c’est la prière de l’hypocrite : il surveille le soleil jusqu’à ce qu’il soit entre les deux cornes de Satan, alors il se lève et picore quatre rak’ats, sans évoquer Allah que très peu. » Il a donc mentionné que le retard est une caractéristique des hypocrites. Le croyant ne retarde pas sa prière jusqu’à ce que le soleil jaunisse, mais il s’empresse de l’accomplir avant que le soleil ne jaunisse, dans le temps de choix.\nQuant à la prière de Maghrib, tout son temps est également un temps de choix, du coucher du soleil jusqu’à la disparition du crépuscule ; tout cela est un temps de choix, mais il est préférable de l’accomplir au début du temps, car le Prophète (paix et bénédictions d’Allah sur lui) l’accomplissait au début du temps. Lorsque le soleil se couchait et que le muezzin faisait l’appel, il attendait un peu, puis il ordonnait l’iqamah et l’accomplissait au début du temps. S’il la retardait un peu, il n’y avait pas de mal, tant qu’il l’accomplissait dans son temps. Son temps se termine avec la disparition du crépuscule. Lorsque le crépuscule rouge disparaît à l’horizon ouest, le temps de Maghrib prend fin et le temps de Isha commence, jusqu’à la moitié de la nuit. Après la moitié de la nuit, c’est un temps de nécessité pour la prière de Isha ; il n’est pas permis de la retarder au-delà de la moitié de la nuit, mais tout le temps entre la disparition du crépuscule et la moitié de la nuit est un temps de choix pour Isha. Si quelqu’un prie après la moitié de la nuit, il a prié dans le temps, mais il commet un péché, car il a retardé la prière jusqu’au temps de nécessité.\nQuant à la prière de Fajr, tout son temps est un temps de choix, de l’apparition de l’aube jusqu’au lever du soleil ; tout cela est un temps de choix, mais il est préférable de l’accomplir au début du temps, sans la retarder au-delà de son début, en suivant l’exemple du Prophète (paix et bénédictions d’Allah sur lui), car il l’accomplissait dans l’obscurité, après que l’aube soit devenue claire.\nEt Allah est le Garant de la réussite⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Programme Nour ‘ala al-Darb, cassette n° 51. (Majmu‘ Fatawa wa Maqalat al-Shaykh Ibn Baz 10/383)."
+  }
+ ]
+}

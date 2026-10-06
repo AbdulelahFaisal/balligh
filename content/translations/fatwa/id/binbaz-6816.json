@@ -1,0 +1,36 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-6816",
+ "source_content_sha256": "sha256:12abfc2f9c92b4a79b6b0a57f7c9c919a05a9cf1965ca5719810ef4dcb16a81a",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:23:11.070546+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 868,
+  "completion_tokens": 650,
+  "total_tokens": 1518,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 612
+ },
+ "latency_ms": 6152,
+ "units": [
+  {
+   "id": "title",
+   "text": "Hukum mengambil harta ayah atau ibu tanpa izin keduanya"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan: Surat ini datang kepada kami dari Irak, dari Baghdad, dari pendengar Liqa' Muhammad Latif, ia berkata dalam suratnya: Apabila seorang ibu mengutus anaknya ke pasar dan berpesan agar ia membeli beberapa keperluan, lalu ia memberinya sejumlah uang, kemudian anak itu membeli barang-barang tersebut dan masih tersisa sedikit uang, maka haramkah baginya mengambil uang sisa itu tanpa sepengetahuan ibunya, mengingat itu adalah harta ibunya dan ia berhak—sebagaimana ia dengar dari orang-orang—untuk mengambilnya, misalnya dari sakunya atau dari tasnya tanpa sepengetahuannya? Berilah aku penjelasan, semoga Allah memberkahi kalian."
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban: Tidak boleh baginya mengambil sisa uang itu kecuali dengan izin ibunya, karena ia adalah wakil dan orang yang dipercaya. Ia wajib melaksanakan apa yang dikatakan ibunya, atau ayahnya, atau siapa pun yang mewakilkannya. Ia tidak boleh mengambil sisa uang itu, bahkan ia harus mengembalikan sisa itu kepada orang yang mewakilkannya, baik yang mewakilkannya itu ibunya, ayahnya, atau selain keduanya. Ia tidak boleh mengambil tambahan itu, dan ia tidak boleh mengambil harta ibunya kecuali dengan izinnya, dan tidak boleh mengambil harta ayahnya kecuali dengan izinnya. Ia tidak boleh bertindak terhadap harta keduanya kecuali dengan izin keduanya. Kecuali jika ia fakir dan ayahnya lalai tidak menafkahinya dan tidak ada yang menafkahinya selain ayahnya, misalnya, maka ia boleh mengambil dari harta ayahnya atau ibunya sebatas yang mereka lalaikan dari nafkahnya, apabila ia termasuk tanggungan nafkah keduanya dan ia tidak mampu mencari penghasilan serta tidak memiliki harta, dan ia berada dalam pemeliharaan ibu atau ayahnya. Maka keduanya wajib menafkahinya dengan nafkah yang wajar yang dikenal di negeri mereka atau untuk orang semisalnya. Apabila keduanya lalai terhadapnya, maka ia boleh mengambil dari harta itu secara patut, ia mengambil dari harta keduanya secara patut sebatas kebutuhannya saja. Adapun apabila keduanya mengutusnya dengan uang untuk membeli suatu keperluan, ia tidak boleh mengambil sisa uangnya, bahkan ia harus mengembalikan sisa uang itu. Ya.\nPembawa acara: Semoga Allah memberkahi kalian."
+  }
+ ]
+}

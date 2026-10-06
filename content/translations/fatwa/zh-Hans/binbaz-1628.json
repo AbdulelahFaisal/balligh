@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1628",
+ "source_content_sha256": "sha256:96e8a9251e4c16aedd6c23ee621e686bf80e88242c710dfcf32a82c118e84353",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:01:17.937149+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 732,
+  "completion_tokens": 380,
+  "total_tokens": 1112,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 476
+ },
+ "latency_ms": 7301,
+ "units": [
+  {
+   "id": "title",
+   "text": "关于看未婚妻的教法律例及其规范"
+  },
+  {
+   "id": "q0",
+   "text": "问题："
+  },
+  {
+   "id": "q1",
+   "text": "如果求婚者要求在没有私会的情况下与女子见面，其教法依据是什么？而使者ﷺ说：女人全身都是羞体？"
+  },
+  {
+   "id": "a0",
+   "text": "回答："
+  },
+  {
+   "id": "a1",
+   "text": "这是无妨的。女人是羞体，正如圣训中所提到的，但先知ﷺ将求婚者相关的事情作为例外，如果他求婚，并希望看一看，那是无妨的。先知ﷺ说：“当你们中有人向女子求婚时，如果他能看到她身上促使他娶她的东西，就让他看吧。”如果他能够看到，即使从远处、在她不知情的情况下，也无妨。贾比尔·本·阿卜杜拉·安萨里（愿主喜悦他）向一位辅士女子求婚，他没有见过她，他说：“于是我就躲在枣树后面，希望能看到她，直到他看到了令他满意之处，然后娶了她。"
+  },
+  {
+   "id": "a2",
+   "text": "意思是：如果他方便见到她，即使从远处，或者通过他在她家人家中时她经过，而他们对此同意等类似情况；或者方便让她的父亲、兄弟把她带来，让她进入他面前，他看着她，但不是私会，而是在她的父亲、兄弟、母亲或类似的人在场的情况下，那是无妨的。这是先知ﷺ允许并特许的。"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1524",
+ "source_content_sha256": "sha256:20a246518aef28cb510184487b4aa61b073497654a1e76f4bc24c715c5266069",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:58:17.615845+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 741,
+  "completion_tokens": 355,
+  "total_tokens": 1096,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 485
+ },
+ "latency_ms": 3641,
+ "units": [
+  {
+   "id": "title",
+   "text": "说明令人厌恶的梦境来自恶魔"
+  },
+  {
+   "id": "q0",
+   "text": "问题："
+  },
+  {
+   "id": "q1",
+   "text": "我在梦中梦见我和我的兄弟在抽烟，而我们从未抽过烟，连续三个夜晚都做了这个梦，并且反复出现。请给我解答，愿安拉赐福你们。"
+  },
+  {
+   "id": "a0",
+   "text": "回答："
+  },
+  {
+   "id": "a1",
+   "text": "如果一个人梦见了自己不喜欢的事情，那确实是来自恶魔的。例如梦见自己抽烟、喝酒、通奸、与母亲或姐妹发生关系、同性恋行为等类似的令人厌恶的梦境，这些都是来自恶魔的。先知（愿主福安之）说：“好梦来自安拉，噩梦来自恶魔。如果你们中有人梦见自己不喜欢的事情，就让他向左侧吐三口唾沫，并祈求安拉庇护，免遭恶魔和梦中所见之恶的伤害，这样做三次，然后翻个身换个方向睡，这样就不会对他造成伤害。”"
+  },
+  {
+   "id": "a2",
+   "text": "我的兄弟，以及像你一样做噩梦的人，我的忠告是：醒来后向左侧吐三口唾沫，祈求安拉庇护免遭恶魔和梦中所见之恶的伤害三次，然后翻个身换到另一边，这样就不会受到伤害，也不要告诉任何人这个梦。这是圣行，愿安拉引导所有人。"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-9614",
+ "source_content_sha256": "sha256:ba374fffaf69686d5363a8ccef90d89149d8a3e64850224d16a21dfd826c10f2",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:25:58.850600+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1011,
+  "completion_tokens": 830,
+  "total_tokens": 1841,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 755
+ },
+ "latency_ms": 7558,
+ "units": [
+  {
+   "id": "title",
+   "text": "Hukum Pelaku Dosa Besar Menurut Ahlus Sunnah dan Lainnya"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Apa hukum syariat bagi pelaku dosa besar, apakah dia keluar dari agama?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Hukum syariat tentangnya adalah dia bermaksiat dan fasik, tetapi tidak keluar dari agama; berbeda dengan Khawarij. Menurut Ahlus Sunnah wal Jamaah, pezina itu fasik, peminum khamar itu fasik, jika dia tidak menghalalkannya; orang yang durhaka kepada kedua orang tuanya itu fasik; pemakan riba itu fasik; karena semua ini termasuk dosa-dosa besar, tetapi tidak membuat kafir. Sedangkan menurut Khawarij, dia menjadi kafir karenanya, kita memohon keselamatan dari Allah."
+  },
+  {
+   "id": "a2",
+   "text": "Yang benar, pendapat mereka batil, dan bahwa dia tidak kafir, tetapi dia bermaksiat; wajib baginya bertobat kepada Allah, kembali kepada Allah, dan berserah diri. Barangsiapa yang bertobat, Allah akan menerima tobatnya. Jika dia meninggal dalam keadaan demikian, dia meninggal sebagai pelaku maksiat dalam bahaya masuk neraka kecuali jika Allah memaafkannya. Namun, jika dia masuk neraka, dia tidak kekal di dalamnya, berbeda dengan Khawarij dan Mu'tazilah. Khawarij berkata: dia kafir dan kekal di neraka, jika dia meninggal dalam keadaan durhaka kepada kedua orang tuanya, atau berzina tanpa tobat, atau minum khamar. Mereka berkata: dia kafir dan kekal di neraka. Mu'tazilah sama seperti mereka dalam urusan akhirat, mereka berkata: dia kekal di neraka, tetapi mereka berkata di dunia: dia bukan kafir dan bukan Muslim, dia berada pada posisi antara dua posisi. Dan pendapat mereka juga batil."
+  },
+  {
+   "id": "a3",
+   "text": "Adapun Ahlus Sunnah wal Jamaah, mereka berkata: dia Muslim yang bermaksiat, mukmin yang bermaksiat, wajib bertobat kepada Allah. Jika dia bertobat, Allah akan menerima tobatnya. Jika dia meninggal dalam kemaksiatannya, maka dia berada di bawah kehendak Allah; jika Allah menghendaki, Dia memaafkannya dan memasukkannya ke surga dengan tauhid dan keislamannya; jika Dia menghendaki, Dia menyiksanya sesuai kadar dosa-dosa yang dia bawa, kemudian setelah dibersihkan, Allah mengeluarkannya dari neraka ke surga; karena firman Allah Subhanahu dalam Kitab-Nya yang agung: ⟦Q1⟧ [An-Nisa:48] selain syirik ⟦Q2⟧ [An-Nisa:48]. Sebagian mereka tidak diampuni, masuk neraka dan disiksa sesuai kadar dosa-dosanya, lalu setelah dibersihkan dan dimurnikan, Allah mengeluarkan mereka dari neraka menuju sungai yang disebut Sungai Kehidupan, lalu mereka tumbuh di dalamnya sebagaimana biji tumbuh di hamparan banjir. Apabila penciptaan mereka telah sempurna, Allah memasukkan mereka ke surga. Ya."
+  }
+ ]
+}

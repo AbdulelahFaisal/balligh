@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1532",
+ "source_content_sha256": "sha256:af2e36c4607b7741a4b1559f3c6eb2723a36a9eb19a8c9cead325165b6133438",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:58:29.361151+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 638,
+  "completion_tokens": 362,
+  "total_tokens": 1000,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 382
+ },
+ "latency_ms": 3005,
+ "units": [
+  {
+   "id": "title",
+   "text": "Ruling on making an exception in faith"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "Is it permissible for a believer to say, “I am a believer, if Allah wills”? We hope for clarification on that."
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "Yes, it is permissible according to Ahl al-Sunnah wal-Jama'ah (the adherents to the Sunnah and the Muslim mainstream) to say, “I am a believer, if Allah wills,” and it is not intended to express doubt. Rather, the intention of “if Allah wills” is because he does not know whether he has completed faith or not. Faith has obligations and matters related to refraining from forbidden things. So he says, “If Allah wills,” meaning: if Allah wills, my faith is complete and perfect, or with regard to the final outcome, because he does not know what his end will be. Thus he says, “If Allah wills,” because he does not know what the final outcome will be."
+  },
+  {
+   "id": "a2",
+   "text": "The Murji'ah reject this and say it is due to doubt, and this is a mistake. Ahl al-Sunnah wal-Jama'ah make an exception in faith without any doubt, but rather with regard to completing the obligations of faith and with regard to the final outcome."
+  }
+ ]
+}

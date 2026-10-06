@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2523",
+ "source_content_sha256": "sha256:765d96071dd80ce68978e8a28c4883fa801ca256446f2d3aae9df8ed43a95556",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:11:33.292955+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1042,
+  "completion_tokens": 811,
+  "total_tokens": 1853,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 786
+ },
+ "latency_ms": 6204,
+ "units": [
+  {
+   "id": "title",
+   "text": "Is one who memorized something from the Qur'an and then forgot it considered sinful?"
+  },
+  {
+   "id": "q0",
+   "text": "Question: Sister M. M. A. from Sana'a says in her question: I memorized a complete juz' (part) of the Noble Qur'an, but because there was no one to listen to me regularly, I forgot it. Is there any sin upon me? Should I memorize it again?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer: There is no sin upon you, God willing, in that, because of the saying of Allah Almighty: ⟦Q1⟧ [Ta-Ha: 115] and the saying of the Prophet ﷺ: \"I am only a human being like you; I forget as you forget, so if I forget, remind me.\" And because forgetfulness overcomes a person and he cannot escape it.\nAs for what has been narrated in that regard about a warning from the Prophet ﷺ, it is weak. It is prescribed for you to strive to memorize what is easy for you from the Book of Allah, especially the mufassal section, so that you can thereby recite in your prayer what is easy from it after al-Fatihah. As for al-Fatihah, memorizing it is obligatory because it is a pillar of the prayer in every rak'ah, because of the saying of the Prophet ﷺ: \"There is no prayer for the one who does not recite the Opening of the Book,\" whose authenticity is agreed upon. Thus it is known that reciting it is a pillar of the prayer in the obligatory and voluntary prayers for the imam and the one praying alone.\nAs for the one praying behind an imam, it is obligatory upon him according to the correct opinion of the scholars, and it is waived in his case due to forgetfulness, ignorance, and if he catches the imam bowing or near bowing and is unable to recite it, because of the saying of the Prophet ﷺ: \"Perhaps you recite behind your imam?\" We said: \"Yes.\" He said: \"Do not do so except with the Opening of the Book, for there is no prayer for the one who does not recite it.\" It was narrated by Imam Ahmad, Abu Dawud, al-Tirmidhi, and Ibn Hibban with a sound chain from 'Ubadah ibn al-Samit, may Allah be pleased with him.\nAnd because it is established in Sahih al-Bukhari from Abu Bakrah, may Allah be pleased with him, that he came to the mosque while the Prophet ﷺ was bowing, so he bowed before reaching the row, then entered the row. When the Prophet ﷺ said the salam, he mentioned that to him, and he, upon him be peace and blessings, said to him: \"May Allah increase you in keenness, but do not repeat it.\" He did not order him to make up the rak'ah. This indicates that if the one praying behind an imam does not catch the recitation with the imam because he came close to the bowing, the rak'ah suffices him. The same applies to the one who forgets it or is ignorant of it among those praying behind an imam, like all other obligatory matters in the prayer. And Allah is the Grantor of success. ⟦N2⟧"
+  },
+  {
+   "id": "n0.0",
+   "text": "From the questions of the Arabic Magazine on 29/5/1417 AH. (Majmu' Fatawa wa Maqalat al-Shaykh Ibn Baz 9/309)."
+  }
+ ]
+}

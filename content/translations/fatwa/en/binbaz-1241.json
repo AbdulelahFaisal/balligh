@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1241",
+ "source_content_sha256": "sha256:45851d46395532efda44258873c4e9bb433a6bc85736fc37a632ef65fce7d1c7",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:53:34.146665+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 574,
+  "completion_tokens": 304,
+  "total_tokens": 878,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 318
+ },
+ "latency_ms": 2802,
+ "units": [
+  {
+   "id": "title",
+   "text": "The ruling on cupping for the fasting person"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "Does cupping invalidate the fast, or is it abrogated?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "There is a difference of opinion among the scholars regarding this. Some of them held that it invalidates the fast due to the hadith: \"The cupper and the one cupped have broken their fast.\" Others held that it does not invalidate the fast due to the hadith of Anas and others that they did not dislike it except for weakness."
+  },
+  {
+   "id": "a2",
+   "text": "The scholars have differed regarding this, and the well-known view is that it invalidates the fast, and that the final ruling of the Prophet ﷺ is that it breaks the fast of the fasting person. However, the difference of opinion remains, and the evidence from both sides is strong. Thus, it is better for the believer to avoid it during fasting, to be cautious about his religion, and not to undergo cupping except at night."
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3446",
+ "source_content_sha256": "sha256:6cf793844705de0d8d3f40834c85f06d79fb8c569cc4e942ed73ea655ae7e6c2",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:15:47.210483+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 529,
+  "completion_tokens": 209,
+  "total_tokens": 738,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 273
+ },
+ "latency_ms": 2544,
+ "units": [
+  {
+   "id": "title",
+   "text": "爱与恨是针对人的行为，而非其本身"
+  },
+  {
+   "id": "q0",
+   "text": "问题："
+  },
+  {
+   "id": "q1",
+   "text": "爱与恨是针对同一个人本身，还是针对他的行为？"
+  },
+  {
+   "id": "a0",
+   "text": "回答："
+  },
+  {
+   "id": "a1",
+   "text": "爱与恨是针对他的行为；如果他是信士，就因他的信仰而爱他；如果他是非信士，就因他的不信而恨他，不是因为他的血统，也不是因为他是白人还是黑人，不是的。他因信仰和敬畏而被爱，即使他是形象最丑陋的人；他因不信和迷误而被恨，即使他是形象最俊美的人，即使他是最富有的人。"
+  }
+ ]
+}

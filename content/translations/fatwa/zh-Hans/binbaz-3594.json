@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3594",
+ "source_content_sha256": "sha256:389949e56a09c4ceedb296c2c31afc48f5533d37d22b88564df43c034255ac99",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:16:42.726100+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 593,
+  "completion_tokens": 226,
+  "total_tokens": 819,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 337
+ },
+ "latency_ms": 2721,
+ "units": [
+  {
+   "id": "title",
+   "text": "每次小净都必须净下吗？"
+  },
+  {
+   "id": "q0",
+   "text": "问：每次小净都必须净下吗？"
+  },
+  {
+   "id": "a0",
+   "text": "答：每次小净不必须净下。净下只是在大小便等之后必须进行。至于其他坏小净的事项，如放屁、触摸私处、吃骆驼肉、睡觉等，则不必净下，只需按规定做小净即可：即洗脸，包括漱口和呛鼻；洗手至肘；抹头连同抹耳；洗脚至两踝骨。正如至尊之主所说：⟦Q1⟧[《筵席章》6]⟦N2⟧。"
+  },
+  {
+   "id": "n0.0",
+   "text": "《谢赫伊本·巴兹教法判例与文集》（10/33）。"
+  }
+ ]
+}

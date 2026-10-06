@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1158",
+ "source_content_sha256": "sha256:6c059e18cf55f0ad1d25b6d61079d6a21c98c2ff7fe0353ec517501d2030feab",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:49:34.337326+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 759,
+  "completion_tokens": 431,
+  "total_tokens": 1190,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 759
+ },
+ "latency_ms": 4671,
+ "units": [
+  {
+   "id": "title",
+   "text": "念诵两个作证词必须伴随内心诚信"
+  },
+  {
+   "id": "q0",
+   "text": "问：念诵作证词无疑必须伴随内心诚信，这是什么意思？"
+  },
+  {
+   "id": "a0",
+   "text": "答：首先必须念诵两个作证词。如果一个人能够念诵却拒绝念诵，他就没有进入伊斯兰，直到他念出两个作证词。这是学者们一致同意的。其次，在念诵的同时，必须内心相信两个作证词的含义并真诚地接受。他必须相信除了安拉之外绝无应受崇拜的。如果他说了这句话却心口不一，就像伪信者那样，他们口里念诵，心里却认为除安拉外还有别的神灵，那么这句话对他们无益，他们的内心并未进入伊斯兰。正如安拉所说：⟦Q1⟧（妇女章：145）安拉又说：⟦Q2⟧（黄牛章：8）。\n因此，必须内心诚信并坚信除安拉外绝无应受崇拜的。如果一个人傲慢地拒绝服从安拉的律法，他就背离了信仰，念诵两个作证词对他无益。安拉说：⟦Q3⟧（朝觐章：62）安拉又说：⟦Q4⟧（赦宥者章：60）。同样，如果一个人傲慢地拒绝作证穆罕默德是安拉的使者，或者口是心非地说这句话，他就是不信道者，直到他相信穆罕默德是安拉的使者并服从他的律法。这是学者们一致同意的。安拉是援助者。⟦N5⟧"
+  },
+  {
+   "id": "n0.0",
+   "text": "（谢赫伊本·巴兹教法判令与文集 5/340）"
+  }
+ ]
+}

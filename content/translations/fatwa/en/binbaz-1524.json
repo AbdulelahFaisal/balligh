@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1524",
+ "source_content_sha256": "sha256:20a246518aef28cb510184487b4aa61b073497654a1e76f4bc24c715c5266069",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:58:13.727939+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 738,
+  "completion_tokens": 406,
+  "total_tokens": 1144,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 482
+ },
+ "latency_ms": 3158,
+ "units": [
+  {
+   "id": "title",
+   "text": "Clarification that disliked dreams are from Satan"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "I dreamt and saw that I was smoking, me and my brother, and we have never smoked. For three nights that dream occurred and was repeated. Advise me, may Allah reward you?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "If a person sees what he dislikes, it is from Satan. So a dream that he is smoking, or drinking alcohol, or committing adultery, or having intercourse with his mother, or with his sister, or committing sodomy, or the like – he sees these disliked dreams, they are from Satan. The Prophet (blessings and peace of Allah be upon him) said: “The righteous dream is from Allah, and the bad dream is from Satan. So if one of you sees what he dislikes, let him spit dryly to his left three times, and seek refuge with Allah from Satan and from the evil of what he saw, three times, then let him turn over to his other side, for it will not harm him.”"
+  },
+  {
+   "id": "a2",
+   "text": "The advice for you, my brother, and those like you who see what they dislike, is that when you wake up, spit dryly to your left three times, and seek refuge with Allah from Satan and from the evil of what you saw three times, then turn to your other side, for it will not harm him, and do not tell anyone about it. This is the Sunnah. May Allah grant success to all."
+  }
+ ]
+}

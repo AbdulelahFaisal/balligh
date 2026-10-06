@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1242",
+ "source_content_sha256": "sha256:2d3cf94bd19cca742cc2cac28e9a4371a7be67ba4dcd288b37c9ee20b93611ce",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:53:49.392360+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1131,
+  "completion_tokens": 794,
+  "total_tokens": 1925,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 875
+ },
+ "latency_ms": 5655,
+ "units": [
+  {
+   "id": "title",
+   "text": "Useful answers related to dreams and fasting on behalf of the deceased"
+  },
+  {
+   "id": "q0",
+   "text": "Q: From Abdulaziz ibn Abdullah ibn Baz to the honorable brother N. H. A., may Allah grant him success, Amen.\nPeace be upon you, and the mercy and blessings of Allah. Thereafter:\nYour noble letter, may Allah guide you to His guidance, arrived and its contents of the five questions were known. Here is the answer to them:\nFirst: Your mother had a recurring dream in which she gathered sheep, and every time she gathered a portion, another portion slipped away from her, and she became tired from that.\nSecond: Your mother saw her own mother many times, and she was sick in her life and after her death... etc.\nThird: Your grandmother, your mother's mother, was ill with an almost continuous illness, and she used to break her fast in Ramadan and make it up, and your mother used to help her make it up by fasting on her behalf... etc."
+  },
+  {
+   "id": "a0",
+   "text": "Answer to the first: Such a dream is considered a disliked dream. What is prescribed for someone who sees such a dream is to spit lightly to his left three times when he wakes up, seek refuge in Allah from Satan and from the evil of what he saw three times, then turn to his other side, for it will not harm him, and he should not tell anyone about it; because the Prophet ﷺ said: The good dream is from Allah, and the bad dream is from Satan. So if one of you sees what he dislikes, let him spit lightly to his left three times, and seek refuge in Allah from Satan and from the evil of what he saw three times, then turn to his other side, for it will not harm him, and he should not tell anyone about it – agreed upon.\nAs for the goat that your mother took from the sheep that got mixed with her sheep and she did not inform its owner about it, then they slaughtered it and ate it, she must repent from that, and she must pay its value to its owner at that time. If she does not know its owner, she should give it in charity on his behalf to some poor people. We ask Allah to pardon us, her, and every Muslim.\nAnswer to the second: This question is like the previous one, because it is a disliked dream and it is from Satan. What is prescribed for someone who has a disliked dream is what we mentioned in the answer to the first question.\nAnswer to the third: Fasting by a person on behalf of another is not valid if the one being fasted for is alive. Your grandmother, may Allah have mercy on her, has died, so it is prescribed for your mother to fast on her behalf the days that she fasted on her behalf during her life; because her fasting on her behalf during her life was not valid. If fasting is not easy for her, then it is prescribed for her to give charity on her behalf for each day half a sa' of dates or other staple food of the country, which is approximately one and a half kilograms, along with supplicating for her for forgiveness and mercy⟦N1⟧.⟦N2⟧"
+  },
+  {
+   "id": "n0.0",
+   "text": "(Majmu' Fatawa wa Maqalat al-Shaykh Ibn Baz 5/350)"
+  },
+  {
+   "id": "n1.0",
+   "text": "The answer to the fourth and fifth questions was omitted here because they do not relate to creed."
+  }
+ ]
+}

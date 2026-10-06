@@ -1,0 +1,160 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-11643",
+ "source_content_sha256": "sha256:e3cd01d3b20379edbefd1a28ca1dfef06f2e414dc838ccd182e74590bdb18968",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:52:18.245554+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 3526,
+  "completion_tokens": 4139,
+  "total_tokens": 7665,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 3270
+ },
+ "latency_ms": 29011,
+ "units": [
+  {
+   "id": "title",
+   "text": "Celui qui prononce la ilaha illa Allah entre-t-il au Paradis ? Quelles sont ses conditions ?"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Éminent cheikh ! Ce questionneur dit : Quelles sont les conditions de la ilaha illa Allah, la parole du monothéisme ? Et celui qui prononce simplement la ilaha illa Allah sans agir entre-t-il au Paradis ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Au nom d'Allah, le Tout Miséricordieux, le Très Miséricordieux. Louange à Allah, et que la prière et le salut soient sur le Messager d'Allah, sur sa famille et ses compagnons, et sur quiconque suit sa guidée. Cela dit :"
+  },
+  {
+   "id": "a2",
+   "text": "Les preuves légales issues du Coran et de la Sunna indiquent que celui qui réalise le monothéisme et meurt dessus entrera au Paradis. Parmi celles-ci, la parole du Prophète ﷺ : « J'ai reçu l'ordre de combattre les gens jusqu'à ce qu'ils disent : la ilaha illa Allah. S'ils la disent, leur sang et leurs biens deviennent sacrés, sauf par son droit. » Et le hadith de 'Ubadah ibn al-Samit : « Quiconque atteste qu'il n'y a de divinité digne d'adoration qu'Allah, seul sans associé, que Muhammad est Son serviteur et Messager, que 'Isa est le serviteur d'Allah, Son Messager, Sa parole qu'Il a jetée à Maryam et un esprit venant de Lui, que le Paradis est vérité et que l'Enfer est vérité, Allah le fera entrer au Paradis quoi qu'il ait fait comme œuvres. »"
+  },
+  {
+   "id": "a3",
+   "text": "... Il y a de nombreux hadiths qui indiquent que celui qui dit la ilaha illa Allah avec sincérité et en monothéiste, sa parole impliquant son désaveu du polythéisme et sa foi qu'Allah est le seul digne d'adoration, entrera au Paradis et sera parmi les musulmans, avec la foi au témoignage des prophètes que Muhammad est le Messager d'Allah et la foi en tout ce qu'Allah et Son Messager ont annoncé de ce qui lui est parvenu à ce moment-là."
+  },
+  {
+   "id": "a4",
+   "text": "Ensuite, il sera tenu d'accomplir les lois de l'islam. S'il atteint l'heure de la prière, il doit prier, de même pour la zakah, le jeûne et le pèlerinage. S'il meurt juste après le monothéisme, il entre au Paradis, car il n'a pas eu le temps d'accomplir des œuvres ni de commettre des péchés. L'islam efface ce qui le précède, et le repentir détruit ce qui était avant. S'il vit jusqu'à l'heure de la prière, la prière lui devient obligatoire. S'il la refuse et la renie, il devient mécréant, et s'il ne prie pas, il devient mécréant."
+  },
+  {
+   "id": "a5",
+   "text": "De même, s'il atteint le moment de la zakah, il doit s'en acquitter ; s'il refuse, il devient pécheur et mérite l'Enfer. De même, s'il atteint le jeûne et ne jeûne pas, il devient pécheur et mérite l'Enfer, à moins qu'Allah ne lui pardonne. De même, s'il commet la fornication, le vol ou autres, il devient pécheur et mérite l'Enfer, à moins qu'Allah ne lui pardonne, et il est sous la volonté d'Allah : ⟦Q1⟧ [an-Nisa' : 48]."
+  },
+  {
+   "id": "a6",
+   "text": "En résumé : dès qu'il entre dans l'islam, qu'il atteste l'unicité d'Allah, se désavoue de tout polythéisme et croit en tout ce qu'Allah et Son Messager ont annoncé, il devient musulman. Ensuite, il est tenu d'accomplir les devoirs de l'islam, la prière et autres, et de délaisser les péchés. S'il délaisse les péchés et s'acquitte des devoirs, son islam et sa foi sont complets. S'il meurt immédiatement avant d'avoir accompli la moindre œuvre, il aura le Paradis, car son islam efface les maux antérieurs. Mais s'il vit et commet certains péchés ou délaisse certaines obligations, il est sous la volonté d'Allah : s'Il veut, Il lui pardonne et le fait entrer au Paradis grâce à son monothéisme, et s'Il veut, Il le châtie à la mesure des péchés sur lesquels il est mort, comme indiqué précédemment dans la parole d'Allah : ⟦Q2⟧ [an-Nisa' : 48]. Ceci est selon le consensus des musulmans, le consensus des gens de la Sunna et du consensus."
+  },
+  {
+   "id": "a7",
+   "text": "Le pécheur est sous la volonté d'Allah et ne devient pas mécréant, contrairement aux kharijites, et ne restera pas éternellement en Enfer comme le prétendent les kharijites et les mu'tazilites. Non, il est sous la volonté d'Allah : s'il meurt sur la fornication, le vol, la désobéissance aux parents, la consommation d'alcool, l'usure, sans les considérer licites, reconnaissant que ce sont des péchés, sans les déclarer permis, mais vaincu par la passion et Satan, tout en sachant que ce sont des péchés, il est sous la volonté d'Allah. Si Allah veut, Il lui pardonne, et s'Il veut, Il le châtie en Enfer à la mesure des péchés sur lesquels il est mort, puis après purification et épuration, Allah le sortira de l'Enfer, selon le consensus des gens de la Sunna. Ne resteront éternellement en Enfer que les mécréants, contrairement aux kharijites et aux mu'tazilites qui disent que le pécheur qui meurt sur son péché restera éternellement en Enfer, et les kharijites disent qu'il devient mécréant. Leur propos est faux selon les gens de la Sunna, c'est le plus faux des propos, et le noble verset leur répond : ⟦Q3⟧ [an-Nisa' : 48]."
+  },
+  {
+   "id": "a8",
+   "text": "Quant à la parole du Prophète ﷺ concernant le fornicateur : « Le fornicateur ne commet pas la fornication alors qu'il est croyant, et ne boit pas d'alcool alors qu'il est croyant, et ne vole pas alors qu'il est croyant », le sens est la menace et l'avertissement, c'est-à-dire qu'il n'a pas la foi complète, sa foi est déficiente, et cela ne signifie pas qu'il est mécréant, car les versets se confirment mutuellement, les hadiths se confirment mutuellement, le Livre d'Allah ne se contredit pas, et la Sunna ne contredit pas le Coran. Il est donc obligatoire d'interpréter les textes par les textes, d'interpréter un texte par un autre."
+  },
+  {
+   "id": "a9",
+   "text": "Sa parole : « Le fornicateur ne commet pas la fornication alors qu'il est croyant » signifie la foi complète obligatoire. S'il avait une foi complète, il ne forniquerait pas, mais il a une déficience, c'est pourquoi il est tombé dans la fornication, dans l'alcool, à cause de sa foi déficiente. Cela ne signifie pas qu'il est mécréant, car le Prophète ﷺ a ordonné d'appliquer la peine légale au fornicateur, et la peine est une expiation pour lui. De même, le buveur d'alcool subit la peine légale, et la peine est une expiation pour lui."
+  },
+  {
+   "id": "a10",
+   "text": "Si le fornicateur meurt sur la fornication après la peine légale, il entre au Paradis, car la peine est devenue une expiation pour lui. C'est pourquoi le Prophète ﷺ dit dans le hadith de 'Ubadah dans les deux Sahih, lorsqu'il mentionna les péchés : « Celui qu'Allah atteint ici-bas par la peine légale, cela lui sert d'expiation, et celui qu'Allah ajourne jusqu'à l'au-delà, son affaire revient à Allah », comme Allah dit : ⟦Q4⟧ [an-Nisa' : 48]."
+  },
+  {
+   "id": "a11",
+   "text": "Les gens de la Sunna disent que l'auteur des péchés est sous la volonté d'Allah, si le péché est en deçà du polythéisme et qu'il ne le considère pas licite, il est sous la volonté d'Allah, comme le fornicateur, le buveur d'alcool, le mangeur d'usure, le désobéissant envers ses parents, etc. Quant à celui qui considère licites les péchés, qui considère licite la fornication en disant : « La fornication est licite », on lui présente la preuve, et si après clarification il persiste à dire que la fornication est licite, il devient mécréant, d'une mécréance majeure. De même, celui qui dit que l'alcool est licite, on lui explique la preuve, et s'il persiste, il devient mécréant."
+  },
+  {
+   "id": "a12",
+   "text": "De même, celui qui dit que le vol est licite ou que l'usure est licite, on lui expose les preuves, et s'il persiste à dire que toute l'usure est licite, il devient mécréant. De même, celui qui dit que la désobéissance aux parents est licite, on lui explique, et s'il persiste après les preuves, il devient mécréant. De même, celui qui dit que la sodomie est licite, etc. Celui qui considère licites les péchés connus comme interdits par nécessité religieuse, qui les déclare permis, et à qui on expose la preuve, s'il persiste, il devient mécréant."
+  },
+  {
+   "id": "a13",
+   "text": "Quant à celui qui meurt sur un péché tout en sachant que c'est un péché, sans le considérer licite, sachant qu'il est pécheur, qu'il meurt en fornicateur, en buveur d'alcool, en pratiquant l'usure, tout en sachant que ce sont des péchés, il est sous la volonté d'Allah. Si notre Seigneur veut, Il lui pardonne par ses bonnes œuvres et son monothéisme, et s'Il veut, Il le châtie à la mesure du crime sur lequel il est mort, puis après purification et épuration en Enfer, Allah le sortira de l'Enfer."
+  },
+  {
+   "id": "a14",
+   "text": "Les hadiths du Prophète ﷺ sont rapportés de manière mutawatir : beaucoup de pécheurs entreront en Enfer et y seront châtiés, puis Allah les fera sortir de l'Enfer alors qu'ils seront calcinés et brûlés. Ils seront jetés dans le fleuve de la vie, et ils repousseront comme pousse une graine dans le limon charrié par le torrent. Lorsque leur création sera complète, Allah les fera entrer au Paradis. Ces hadiths sont mutawatir du Messager d'Allah ﷺ, et les gens de la Sunna sont unanimes là-dessus. Ne restera éternellement en Enfer que les mécréants - qu'Allah nous en préserve. Quant aux pécheurs, non, ils peuvent y rester longtemps, et on appelle cela une éternité, mais une éternité temporaire qui prend fin. Lorsque la durée qu'Allah a décrétée pour lui s'achèvera, il sortira de l'Enfer et entrera au Paradis grâce à son monothéisme et son islam."
+  },
+  {
+   "id": "a15",
+   "text": "Le monothéisme a des conditions mentionnées par certains savants, au nombre de sept, certains disent huit, rassemblées par certains en deux vers :"
+  },
+  {
+   "id": "a16",
+   "text": "Science, certitude, sincérité et véracité avec"
+  },
+  {
+   "id": "a17",
+   "text": "Amour, soumission et acceptation pour elle"
+  },
+  {
+   "id": "a18",
+   "text": "Et on ajoute une huitième : le reniement de ta part de ce qui"
+  },
+  {
+   "id": "a19",
+   "text": "En dehors de la divinité a été divinisé"
+  },
+  {
+   "id": "a20",
+   "text": "Si l'étudiant en science les comprend, les maîtrise et les met en pratique, c'est une perfection de son monothéisme et de sa foi. Mais si le commun des musulmans ne connaît pas ces conditions, pourvu qu'il se désavoue du polythéisme, croie en Allah et L'unifie, cela suffit, même s'il ne connaît pas les conditions. Dès qu'il se désavoue du polythéisme et de la mécréance, qu'il croit en leur fausseté, qu'il croit en Allah et L'unifie, cela suffit. Sa parole : « science » signifie qu'il sait qu'Allah - glorifié et exalté - est le seul digne d'adoration, et que le sens de la ilaha illa Allah est : il n'y a de divinité digne d'adoration qu'Allah."
+  },
+  {
+   "id": "a21",
+   "text": "Certitude : il la prononce avec certitude, sans doute, il unifie Allah avec conviction."
+  },
+  {
+   "id": "a22",
+   "text": "Sincérité : il n'associe à Allah personne d'autre, mais il est sincère envers Allah."
+  },
+  {
+   "id": "a23",
+   "text": "Avec véracité, contrairement aux hypocrites qui la disent en mentant. Les hypocrites sont mécréants s'ils la disent extérieurement tout en la démentant intérieurement."
+  },
+  {
+   "id": "a24",
+   "text": "Avec amour : amour d'Allah et amour de Son unicité. Celui qui n'aime pas Allah est mécréant, ou qui déteste le monothéisme et déteste la foi est mécréant : ⟦Q5⟧ [Muhammad : 9]."
+  },
+  {
+   "id": "a25",
+   "text": "De même, l'acceptation : qu'il accepte la religion, accepte la vérité et s'y soumette. Mais s'il rejette la vérité et ne l'accepte pas, ne se soumet pas à la vérité, la refuse et n'unifie pas Allah, il tombe dans le polythéisme et devient mécréant."
+  },
+  {
+   "id": "a26",
+   "text": "Il faut nécessairement renier ce qui est adoré en dehors d'Allah, comme dit Allah : ⟦Q6⟧ [al-Baqara : 256]. Cela signifie qu'il mécroit en l'adoration d'autre qu'Allah, qu'il la nie, croit en la fausseté de l'adoration d'autre qu'Allah, la renie et s'en désavoue. C'est le sens de la parole du poète :"
+  },
+  {
+   "id": "a27",
+   "text": "Et on ajoute une huitième : le reniement de ta part de ce qui"
+  },
+  {
+   "id": "a28",
+   "text": "En dehors de la divinité a été divinisé"
+  },
+  {
+   "id": "a29",
+   "text": "En résumé : le croyant connaît la vérité, y croit, est sincère, se désavoue du polythéisme et de ses adeptes, se soumet à la vérité, s'y conforme, aime Allah et Son Messager. Voilà le croyant. Même s'il ne connaît pas les conditions, dès qu'il accepte la vérité, se soumet à l'unicité d'Allah, est sincère envers Allah, aime Allah, se soumet à Sa loi et n'est pas menteur comme les hypocrites, sa foi est valide. Oui."
+  },
+  {
+   "id": "a30",
+   "text": "Présentateur : Qu'Allah vous récompense en bien pour ces éclaircissements, éminent cheikh."
+  }
+ ]
+}

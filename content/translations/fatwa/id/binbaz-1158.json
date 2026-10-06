@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1158",
+ "source_content_sha256": "sha256:6c059e18cf55f0ad1d25b6d61079d6a21c98c2ff7fe0353ec517501d2030feab",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:49:40.262708+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 756,
+  "completion_tokens": 563,
+  "total_tokens": 1319,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 756
+ },
+ "latency_ms": 6004,
+ "units": [
+  {
+   "id": "title",
+   "text": "Kewajiban membenarkan bersamaan dengan dua kalimat syahadat"
+  },
+  {
+   "id": "q0",
+   "text": "T: Mengucapkan syahadat tidak diragukan lagi bahwa harus disertai dengan pembenaran. Apa maksudnya?"
+  },
+  {
+   "id": "a0",
+   "text": "J: Pertama, harus mengucapkan dua kalimat syahadat. Jika seseorang mampu mengucapkannya tetapi menolak untuk mengucapkannya, maka dia tidak masuk Islam sampai dia mengucapkan dua kalimat syahadat. Ini adalah kesepakatan (ijma`) para ulama. Kemudian, bersama dengan pengucapan, harus ada keyakinan terhadap makna dua kalimat syahadat dan kejujuran dalam hal itu, yaitu dengan meyakini bahwa tidak ada sesembahan yang berhak disembah selain Allah. Jika dia mengucapkannya dengan dusta seperti orang-orang munafik yang mengucapkannya sementara mereka meyakini bahwa bersama Allah ada tuhan-tuhan lain, maka kalimat ini tidak bermanfaat bagi mereka, dan mereka tidak masuk Islam secara batin, sebagaimana firman Allah Ta'ala: ⟦Q1⟧ [An-Nisa: 145] dan firman-Nya 'Azza wa Jalla: ⟦Q2⟧ [Al-Baqarah: 8].\nMaka harus ada pembenaran dengan hati dan keyakinan bahwa tidak ada sesembahan yang berhak disembah selain Allah. Jika dia sombong untuk tunduk kepada syariat Allah, dia kafir dan pengucapan dua kalimat syahadat tidak bermanfaat baginya. Allah Ta'ala berfirman: ⟦Q3⟧ [Al-Hajj: 62] dan firman-Nya Subhanahu: ⟦Q4⟧ [Ghafir: 60]. Demikian pula jika dia sombong terhadap kesaksian bahwa Muhammad adalah utusan Allah atau mengucapkannya dengan dusta, maka dia menjadi kafir sampai dia beriman bahwa Muhammad adalah utusan Allah dan tunduk kepada syariatnya. Ini adalah perkara yang disepakati di antara para ulama. Wallahul musta'an⟦N5⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "(Majmu' Fatawa wa Maqalat Syaikh Ibnu Baz 5/340)"
+  }
+ ]
+}

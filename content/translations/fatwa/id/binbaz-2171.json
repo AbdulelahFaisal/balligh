@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2171",
+ "source_content_sha256": "sha256:0cafcad7c1adf2230fcfe39486b1f039778620ce66dca1223e19fa5b77a9605f",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:09:48.904710+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 922,
+  "completion_tokens": 800,
+  "total_tokens": 1722,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 666
+ },
+ "latency_ms": 7711,
+ "units": [
+  {
+   "id": "title",
+   "text": "Penjelasan hadis: \"Aku diperintahkan untuk memerangi manusia...\"?"
+  },
+  {
+   "id": "q0",
+   "text": "Tanya: Ada yang meminta penjelasan hadis ini: Rasulullah ﷺ bersabda, \"Aku diperintahkan untuk memerangi manusia hingga mereka bersaksi bahwa tidak ada tuhan yang berhak disembah selain Allah dan bahwa Muhammad adalah utusan Allah, mendirikan shalat, dan menunaikan zakat. Apabila mereka melakukan itu, maka darah dan harta mereka terjaga dariku kecuali dengan hak Islam, dan hisab mereka diserahkan kepada Allah.\""
+  },
+  {
+   "id": "a0",
+   "text": "Jawab: Hadis ini sahih, diriwayatkan oleh dua syaikh, Bukhari dan Muslim, dalam dua kitab sahih dari hadis Ibnu Umar radhiyallahu 'anhuma, ia berkata, \"Kami mendengar Rasulullah ﷺ bersabda, 'Aku diperintahkan untuk memerangi manusia hingga...'\" dan seterusnya. Hadis ini berlaku sesuai zahirnya. Barangsiapa mengucapkan dua kalimat syahadat padahal sebelumnya belum pernah mengucapkannya, mendirikan shalat, dan menunaikan zakat, maka ia dianggap Muslim, darah dan hartanya haram (dilindungi) kecuali dengan hak Islam, yaitu kecuali karena apa yang diwajibkan Islam atasnya setelah itu, seperti jika ia berzina maka ditegakkan hukuman zina atasnya; jika ia masih perjaka maka dicambuk dan diasingkan, dan jika ia sudah menikah maka dirajam yang mengakhiri hidupnya.\nDemikian pula perkara-perkara Islam lainnya, orang yang telah masuk Islam, mengucapkan syahadat ini, mendirikan shalat, dan menunaikan zakat, akan dituntut untuk menunaikan hak-hak Islam, darah dan hartanya terjaga kecuali jika ia melakukan pembatal keislaman atau sesuatu yang mewajibkan hukuman had atasnya.\nDemikian pula sabda beliau pada hadis lain dari Abu Hurairah radhiyallahu 'anhu, dari Nabi ﷺ, beliau bersabda, \"Aku diperintahkan untuk memerangi manusia hingga mereka mengucapkan Laa ilaaha illallah. Apabila mereka mengucapkannya, darah dan harta mereka terjaga dariku kecuali dengan haknya, dan hisab mereka diserahkan kepada Allah.\" Hadis ini seperti hadis tadi: barangsiapa membawa tauhid dan iman kepada risalah, maka ia telah masuk Islam, kemudian dituntut untuk menunaikan hak Islam, dituntut untuk shalat, zakat, puasa, haji, dan lainnya. Jika ia menunaikan apa yang diwajibkan Allah atasnya maka ia Muslim sejati, dan jika ia menolak sesuatu maka hak Allah diambil darinya, ia dipaksa dan diwajibkan untuk menunaikan hak-hak Allah yang diwajibkan atas hamba-hamba-Nya. Inilah yang wajib atas semua orang yang masuk agama Islam untuk berkomitmen dengan hak Islam; jika tidak berkomitmen, maka hak Islam ditegakkan⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu' Fatawa wa Maqalat Syaikh Ibnu Baz (8/303)"
+  }
+ ]
+}

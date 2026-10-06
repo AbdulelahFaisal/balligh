@@ -1,0 +1,52 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-9614",
+ "source_content_sha256": "sha256:ba374fffaf69686d5363a8ccef90d89149d8a3e64850224d16a21dfd826c10f2",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:26:06.559117+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1011,
+  "completion_tokens": 950,
+  "total_tokens": 1961,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 755
+ },
+ "latency_ms": 7476,
+ "units": [
+  {
+   "id": "title",
+   "text": "Le jugement relatif à l'auteur d'un grand péché chez les gens de la Sunna et les autres"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Quel est le jugement légal concernant l'auteur d'un grand péché ? Sort-il de la religion ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Le jugement légal le concernant est qu'il est un désobéissant et un pervers, mais il ne sort pas de la religion ; contrairement aux kharijites. Chez les gens de la Sunna et du Consensus, le fornicateur est un pervers, le buveur de vin est un pervers, s'il ne considère pas cela licite, celui qui est ingrat envers ses parents est un pervers, l'usurier est un pervers ; car ce sont tous de grands péchés, mais il ne devient pas mécréant. Chez les kharijites, il devient mécréant par cela – nous demandons à Allah la préservation."
+  },
+  {
+   "id": "a2",
+   "text": "La vérité est que leur parole est vaine, et qu'il n'est pas mécréant, mais il est désobéissant et doit se repentir à Allah, revenir à Allah et se tourner vers Lui. Celui qui se repent, Allah accepte son repentir. S'il meurt dans cet état, il meurt en état de désobéissance, exposé au danger d'entrer en Enfer, à moins qu'Allah ne lui pardonne. Mais s'il y entre, il n'y restera pas éternellement, s'il y entre, contrairement aux kharijites et aux mu'tazilites. Les kharijites disent : il devient mécréant et restera éternellement en Enfer s'il meurt en étant ingrat envers ses parents, ou en ayant commis la fornication sans se repentir, ou en buvant du vin. Ils disent : il est mécréant et restera éternellement en Enfer. Les mu'tazilites sont comme eux en ce qui concerne l'au-delà : ils disent qu'il restera éternellement en Enfer, mais ils disent dans la vie d'ici-bas : il n'est ni mécréant ni musulman, dans une position intermédiaire entre les deux positions. Et leur parole est également vaine."
+  },
+  {
+   "id": "a3",
+   "text": "Quant aux gens de la Sunna et du Consensus, ils disent : il est musulman et désobéissant, croyant et désobéissant, il doit se repentir à Allah. S'il se repent, Allah accepte son repentir. S'il meurt dans sa désobéissance, il est sous la volonté d'Allah : si Allah veut, Il lui pardonne et le fait entrer au Paradis par son monothéisme et son islam ; et s'Il veut, Il le châtie à la mesure des péchés sur lesquels il est mort, puis il sortira de l'Enfer après purification. Allah le fera sortir de l'Enfer vers le Paradis, selon la parole d'Allah, gloire à Lui, dans Son livre immense : ⟦Q1⟧ [An-Nisa' : 48] tout ce qui est en deçà du polythéisme ⟦Q2⟧ [An-Nisa' : 48]. Certains d'entre eux ne seront pas pardonnés, ils entreront en Enfer et seront châtiés à la mesure des péchés. Après purification et épuration, Allah les fera sortir de l'Enfer vers un fleuve appelé le fleuve de la vie, où ils repousseront comme pousse une graine dans l'écume du torrent. Lorsque leur création sera achevée, Allah les fera entrer au Paradis. Oui."
+  }
+ ]
+}

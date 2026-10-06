@@ -1,0 +1,60 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1787",
+ "source_content_sha256": "sha256:eb9a78c98c9912a7f56c6dbcd00c34bcd241d9b45bdb64114922966b057a14b2",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:03:36.064241+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1039,
+  "completion_tokens": 984,
+  "total_tokens": 2023,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 783
+ },
+ "latency_ms": 7340,
+ "units": [
+  {
+   "id": "title",
+   "text": "Clarification des situations où il est permis de retarder les prières"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Quelles sont les situations où il est permis de retarder la prière ? Est-il permis à un individu de manquer la prière en commun à cause de la nourriture ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse : "
+  },
+  {
+   "id": "a1",
+   "text": "Retarder la prière a des causes, en voyage comme en résidence. En résidence, s'il y a des raisons pour les gens de la mosquée : par exemple si la pluie les surprend et qu'ils veulent retarder jusqu'à ce qu'ils prient dans la mosquée, ils retardent à cause de la pluie, ou de la maladie s'ils en sont atteints, alors ils retardent, ou pour d'autres raisons semblables, ou pour attendre la communauté de l'isha. Le Prophète, lorsque les gens se rassemblaient, avançait la prière, et s'ils tardaient, il la retardait - que la prière et la paix soient sur lui - ou à cause d'un enterrement présent afin de prier sur le mort, pour que sa prière funéraire ne soit pas manquée, ou d'autres excuses légales et objectifs religieux semblables."
+  },
+  {
+   "id": "a2",
+   "text": "L'individu, lui, n'a pas le droit de retarder : il doit au contraire s'empresser et se hâter vers la prière en commun, et il ne lui est pas permis de retarder. Il doit plutôt s'empresser et se hâter vers la prière en commun, comme l'a dit le Prophète : « Celui qui entend l'appel et ne vient pas, sa prière n'est pas valable, sauf s'il a une excuse. »"
+  },
+  {
+   "id": "a3",
+   "text": "Et Ibn Mas'ud (qu'Allah l'agrée) a dit : « Je nous ai vus, et personne ne s'en absentait, excepté un hypocrite dont l'hypocrisie était connue. Nous cherchons refuge auprès d'Allah. »"
+  },
+  {
+   "id": "a4",
+   "text": "Lorsque l'aveugle lui a demandé la permission : « Je n'ai pas de guide pour me conduire à la mosquée. Ai-je une dispense pour prier chez moi ? » Il a dit : « Entends-tu l'appel à la prière ? » Il répondit : « Oui. » Il dit : « Alors réponds-y. » Il n'a pas accordé de dispense à l'aveugle qui n'avait pas de guide l'accompagnant, mais il lui a ordonné de se présenter à la prière en commun et de l'accomplir en assemblée."
+  },
+  {
+   "id": "a5",
+   "text": "Cependant, si l'iqama a été prononcé ou que la prière est imminente alors que son repas est servi ou qu'on lui apporte sa nourriture, il commence par manger, car le Prophète - que la prière et la paix soient sur lui - a dit : « Pas de prière en présence de nourriture. » Donc, si le repas est servi, il commence par manger, même s'il manque la prière en commun. Mais il ne doit pas en faire une habitude : si l'heure de la prière arrive et qu'il dit « Donnez-nous à manger », non, cela n'est pas permis. Mais s'il arrive que le repas soit servi, puis que le muezzin fasse l'appel, alors il commence par la nourriture servie. Quant à en faire une habitude, cela signifie qu'il veut par là délaisser la prière en commun, et cela n'est pas permis. C'est une œuvre des hypocrites. Mais lorsqu'il arrive que le repas soit servi, ou que l'appel est fait alors que le repas est en train d'être servi, alors il commence par manger."
+  }
+ ]
+}

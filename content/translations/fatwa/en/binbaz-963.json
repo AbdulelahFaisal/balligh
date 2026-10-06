@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-963",
+ "source_content_sha256": "sha256:0233da9a94e823e76bc99955f584390d6ebb4403b5b4cf8dedc6e66a18dedf3b",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:26:07.997752+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 728,
+  "completion_tokens": 400,
+  "total_tokens": 1128,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 472
+ },
+ "latency_ms": 3510,
+ "units": [
+  {
+   "id": "title",
+   "text": "Is enjoining good and forbidding evil a pillar of Islam?"
+  },
+  {
+   "id": "q0",
+   "text": "Q: I heard that some scholars considered enjoining good and forbidding evil a pillar of Islam. Is this correct?"
+  },
+  {
+   "id": "a0",
+   "text": "A: Yes, some scholars said that, but no clear text has been narrated about it. Rather, it is one of the greatest obligations of Islam.\nThe pillars of Islam which the Messenger of Allah ﷺ explained are five. He, peace and blessings be upon him, said: \"Islam is built on five: testifying that there is no god but Allah and that Muhammad is the Messenger of Allah, establishing prayer, giving zakah, fasting Ramadan, and performing Hajj to the House.\" Agreed upon.\nThus the Prophet ﷺ explained the pillars and foundations of Islam, so it is not permissible to add to them except with sound evidence. However, enjoining good and forbidding evil is a foundation among the foundations and an obligation among the obligations, but it is not said to be a sixth pillar, because there is no evidence for that.\nLikewise, jihad in the cause of Allah is a foundation among the foundations... and likewise abandoning the prohibitions that Allah has forbidden His servants is a foundation among the foundations that is indispensable, but it is not said that these two are pillars of Islam, because there is no evidence for that.\nWith the knowledge that we must remain upright upon everything Allah has obligated and abandon everything Allah has forbidden⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "(Majmu' Fatawa wa Maqalat al-Shaykh Ibn Baz 5/74)."
+  }
+ ]
+}

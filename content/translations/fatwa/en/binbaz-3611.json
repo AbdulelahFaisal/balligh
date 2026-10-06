@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3611",
+ "source_content_sha256": "sha256:65e619011cabaf18a361b762d88ce081be798778fface3fb0e4b19f3a90be2ba",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:16:51.808151+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 617,
+  "completion_tokens": 310,
+  "total_tokens": 927,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 361
+ },
+ "latency_ms": 3255,
+ "units": [
+  {
+   "id": "title",
+   "text": "Ruling on using nail polish, and must it be removed when performing wudu?"
+  },
+  {
+   "id": "q0",
+   "text": "Question: The questioner, S. S. from Al-Jawf, says in her question: Is there any sin in a woman using nail polish that is applied to the nails? And what should she do when performing wudu?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer: We do not know of anything regarding this, but leaving it is better; because there is no need for it, and because it may prevent water from reaching the skin during wudu.\nIn summary: leaving it is better, and being content with henna, and that which the early people were upon, is better. If a woman uses it, then she must remove it when performing wudu; because - as we said - it prevents water from reaching the skin. And Allah is the Grantor of success⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Published in Al-Majallah Al-Arabiyyah, issue (177), for the month of Dhul-Qa'dah, 1412 AH, (Majmu' Fatawa wa Maqalat Ash-Shaykh Ibn Baz 10/48)."
+  }
+ ]
+}

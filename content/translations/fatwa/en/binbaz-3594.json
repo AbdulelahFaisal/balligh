@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3594",
+ "source_content_sha256": "sha256:389949e56a09c4ceedb296c2c31afc48f5533d37d22b88564df43c034255ac99",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:16:39.764713+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 590,
+  "completion_tokens": 287,
+  "total_tokens": 877,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 334
+ },
+ "latency_ms": 2767,
+ "units": [
+  {
+   "id": "title",
+   "text": "Is istinja' required for every wudu'?"
+  },
+  {
+   "id": "q0",
+   "text": "Q: Is istinja' required for every wudu'?"
+  },
+  {
+   "id": "a0",
+   "text": "A: Istinja' is not required for every wudu'. Rather, istinja' is obligatory after urination, defecation, and what is similar to them. As for other nullifiers of wudu', such as passing wind, touching the private parts, eating camel meat, and sleeping, istinja' is not prescribed for them. Rather, the prescribed wudu' suffices: washing the face, including rinsing the mouth and sniffing water into the nose, washing the hands up to the elbows, wiping the head including the ears, and washing the feet up to the ankles, as in the words of Allah, Mighty and Majestic: ⟦Q1⟧ [Al-Ma'idah: 6]⟦N2⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu' Fatawa wa Maqalat al-Shaykh Ibn Baz (10/33)."
+  }
+ ]
+}

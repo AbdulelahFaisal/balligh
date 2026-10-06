@@ -47,8 +47,9 @@ test("library home shows three clear destinations with real record counts", asyn
   await expect(page.getByTestId("collection-questions-count")).toContainText(String(c.fatwa.count));
   await expect(page.getByTestId("collection-hadith-count")).toContainText(String(c.hadith.count));
 
-  // Fatwas are Arabic only, and say so before the learner chooses.
-  await expect(page.getByTestId("collection-questions-arabic-only")).toHaveText("بالعربية فقط");
+  // Fatwas are published in Arabic, and say so before the learner chooses; no AI-assisted count for an Arabic reader.
+  await expect(page.getByTestId("collection-questions-arabic-only")).toHaveText("منشورة بالعربية");
+  await expect(page.getByTestId("collection-questions-ai")).toHaveCount(0);
   await expect(page.getByTestId("collection-quran-arabic-only")).toHaveCount(0);
 
   // Dense coverage explanations stay off the browsing view.

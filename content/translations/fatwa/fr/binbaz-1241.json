@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1241",
+ "source_content_sha256": "sha256:45851d46395532efda44258873c4e9bb433a6bc85736fc37a632ef65fce7d1c7",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:53:45.734117+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 574,
+  "completion_tokens": 385,
+  "total_tokens": 959,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 318
+ },
+ "latency_ms": 4054,
+ "units": [
+  {
+   "id": "title",
+   "text": "Jugement concernant la hijamah (ventouses) pour le jeûneur"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Est-ce que la hijamah (ventouses) rompt le jeûne, ou bien cela a-t-il été abrogé ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Il existe une divergence entre les savants à ce sujet. Certains estiment qu'elle rompt le jeûne, en raison du hadith : « Celui qui pratique la hijamah et celui qui la subit ont tous deux rompu le jeûne. » D'autres estiment qu'elle ne le rompt pas, en raison du hadith d'Anas et d'autres, selon lequel ils ne la déconseillaient que par crainte de la faiblesse."
+  },
+  {
+   "id": "a2",
+   "text": "Les savants ont divergé à ce sujet, et l'avis le plus connu est qu'elle rompt le jeûne, et que la dernière des deux pratiques du Prophète ﷺ est qu'elle rompt le jeûne. Mais la divergence persiste à son sujet, et l'argumentation des deux côtés est solide. Le mieux pour le croyant est donc de s'en éloigner pendant le jeûne, par précaution pour sa religion, et de ne pratiquer la hijamah que la nuit."
+  }
+ ]
+}

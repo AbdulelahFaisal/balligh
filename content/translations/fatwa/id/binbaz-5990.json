@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-5990",
+ "source_content_sha256": "sha256:1510ee23cc954cd3f3bbc93264366731c885a7c0e40de803e60180a4059e628f",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:22:06.390101+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 920,
+  "completion_tokens": 776,
+  "total_tokens": 1696,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 664
+ },
+ "latency_ms": 7613,
+ "units": [
+  {
+   "id": "title",
+   "text": "Apa saja syarat-syarat Islam?"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan: Saudara kita bertanya di akhir suratnya, ia berkata: Berapa jumlah syarat-syarat Islam?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban: Syarat-syarat Islam ada dua:\nSyarat pertama: Ikhlas karena Allah, yaitu engkau meniatkan keislamanmu, masuknya engkau ke dalam agama Allah, dan amal-amalmu semata-mata mengharap wajah Allah 'Azza wa Jalla. Ini harus ada. Setiap amal yang engkau lakukan bukan karena mengharap wajah Allah, baik itu shalat, sedekah, puasa, atau selainnya, tidak akan bermanfaat dan tidak akan diterima, sampai pun dua kalimat syahadat. Jika engkau mengucapkannya karena riya' atau kemunafikan, maka tidak akan diterima dan tidak bermanfaat, bahkan engkau termasuk orang-orang munafik. Maka ucapanmu \"Asyhadu an la ilaha illallah wa asyhadu anna Muhammadan Rasulullah\" haruslah benar dari hatimu: engkau beriman kepada Allah semata, bahwa Dia-lah yang berhak disembah dengan benar, dan bahwa Muhammad adalah Rasulullah dengan sebenarnya, dan bahwa beliau adalah penutup para nabi. Jika hal itu benar dan ikhlas, niscaya bermanfaat bagimu."
+  },
+  {
+   "id": "a1",
+   "text": "Demikian pula dalam shalatmu, engkau beribadah kepada Allah semata dengannya. Begitu juga sedekahmu, bacaanmu, tahlilmu, puasamu, dan hajimu; semuanya hanya untuk Allah semata.\nSyarat kedua: Kesesuaian dengan syariat. Amal-amalmu harus sesuai dengan syariat, bukan dari pendapatmu sendiri atau ijtihadmu semata. Engkau harus berusaha menyesuaikan diri dengan syariat: shalatlah sebagaimana yang disyariatkan Allah, puasalah sebagaimana yang disyariatkan Allah, tunaikanlah zakat sebagaimana yang disyariatkan Allah, berjihadlah sebagaimana yang disyariatkan Allah, dan berhajilah sebagaimana yang disyariatkan Allah. Demikianlah sabda Nabi ﷺ: \"Barangsiapa mengerjakan suatu amalan yang tidak berdasarkan perintah kami, maka amalan itu tertolak.\" Allah berfirman dalam Kitab-Nya yang agung: ⟦Q1⟧ [Asy-Syura:21] mencela mereka dengan hal itu. Dan Dia berfirman pula: ⟦Q2⟧ [Al-Jatsiyah:18].\nMaka wajib mengikuti syariat yang ditetapkan Allah melalui Rasul-Nya Muhammad shallallahu 'alaihi wa sallam, dan tidak keluar darinya dalam semua ibadah yang dengannya seseorang mendekatkan diri kepada Allah Subhanahu wa Ta'ala. Inilah syarat-syarat Islam; ada dua:\nPertama: Ikhlas karena Allah dalam beramal.\nKedua: Kesesuaian dengan syariat.\nDengan inilah ibadahmu bermanfaat dan Allah menerima ibadahmu jika engkau seorang muslim.\nYa."
+  }
+ ]
+}

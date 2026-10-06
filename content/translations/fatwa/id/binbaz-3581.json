@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3581",
+ "source_content_sha256": "sha256:f77751c0a9785b60d9264d66cb9d84275f65dbceb3bf9c4dc95910f858a98720",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:16:17.772478+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 788,
+  "completion_tokens": 537,
+  "total_tokens": 1325,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 532
+ },
+ "latency_ms": 4894,
+ "units": [
+  {
+   "id": "title",
+   "text": "Hukum wudhu dengan air yang dicampur klorin"
+  },
+  {
+   "id": "q0",
+   "text": "Tanya: Seorang wanita bertanya: Di negeri kami air minum sering dicampur dengan bahan klorin sebagai penjernih, yaitu bahan yang mengubah warna dan rasa air. Apakah hal ini mempengaruhi kesucian air untuk berwudhu? Berilah kami penjelasan, semoga Allah memberi kalian pahala."
+  },
+  {
+   "id": "a0",
+   "text": "Jawab: Berubahnya air karena benda-benda suci dan obat-obatan yang dimasukkan ke dalamnya untuk mencegah bahaya bagi manusia, selama nama air masih melekat padanya, maka hal itu tidak mengapa, meskipun terjadi sedikit perubahan karenanya. Sebagaimana jika air berubah karena lumut yang tumbuh di dalamnya, dedaunan pohon, tanah yang mengenainya, dan semacamnya.\nSemua itu tidak mempengaruhinya, ia tetap suci dan menyucikan dalam keadaannya. Ia hanya terpengaruh bila berubah dengan sesuatu yang mengeluarkannya dari sebutan air, hingga menjadikannya benda lain, seperti susu jika dituangkan ke dalam air hingga mengubahnya dan menjadi susu, atau menjadi teh, atau menjadi kuah yang keluar dari sebutan air, maka tidak sah berwudhu dengannya; karena ia telah keluar dari sebutan air kepada sebutan lain.\nAdapun selama sebutan air masih melekat padanya, meskipun ada benda suci yang masuk ke dalamnya seperti tanah, jerami, atau selain itu yang tidak menghilangkan sebutan air, maka hal itu tidak mempengaruhinya. Adapun najis, maka ia merusak air jika mengubah rasa, warna, atau baunya, atau jika air itu sedikit sehingga terpengaruh oleh najis meskipun tidak tampak padanya, maka air itu rusak karenanya, dan tidak boleh digunakan⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Program Nur ‘ala ad-Darb, kaset nomor 109, (Majmu’ Fatawa wa Maqalat asy-Syaikh Ibnu Baz 10/19). "
+  }
+ ]
+}

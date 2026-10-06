@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1998",
+ "source_content_sha256": "sha256:6a1cad31921b233ea57bc0ba361d45818775700e9d9259b1715b8f1cddefdaf6",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:06:06.727246+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1300,
+  "completion_tokens": 1291,
+  "total_tokens": 2591,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 1044
+ },
+ "latency_ms": 11273,
+ "units": [
+  {
+   "id": "title",
+   "text": "Apakah cukup mengucapkan dua kalimat syahadat dan meyakininya untuk masuk Islam?"
+  },
+  {
+   "id": "q0",
+   "text": "Tanya: Apakah cukup mengucapkan dan meyakini rukun Islam ini, ataukah harus ada hal-hal lain sehingga sempurna keislaman seseorang dan sempurna imannya?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawab: Rukun ini merupakan pintu masuk bagi orang kafir ke dalam Islam, yaitu dengan bersaksi bahwa tidak ada ilah yang berhak disembah selain Allah dan bahwa Muhammad adalah utusan Allah, dengan jujur, yakin, mengetahui maknanya, dan mengamalkannya, jika sebelumnya dia tidak mengucapkannya saat masih kafir. Kemudian dia dituntut untuk mengerjakan shalat dan rukun-rukun lainnya serta seluruh hukum syariat. Oleh karena itu, ketika Nabi ﷺ mengutus Mu'adz ke Yaman, beliau bersabda kepadanya: \"Ajaklah mereka untuk bersaksi bahwa tidak ada ilah yang berhak disembah selain Allah dan bahwa Muhammad adalah utusan Allah. Jika mereka melakukan itu, maka beri tahukanlah kepada mereka bahwa Allah mewajibkan atas mereka shalat lima waktu sehari semalam. Jika mereka taat kepadamu untuk itu, maka beri tahukanlah kepada mereka bahwa Allah mewajibkan atas mereka zakat yang diambil dari orang-orang kaya di antara mereka dan dikembalikan kepada orang-orang fakir di antara mereka.\""
+  },
+  {
+   "id": "a1",
+   "text": "Beliau tidak memerintahkan mereka untuk shalat kecuali setelah tauhid dan iman kepada Rasul ﷺ. Orang-orang kafir pertama-tama dituntut untuk bertauhid dan beriman kepada Rasul ﷺ. Jika orang kafir telah mengakui hal itu dan masuk Islam, maka dia telah memiliki hukum sebagai seorang muslim, kemudian dia dituntut untuk mengerjakan shalat dan urusan-urusan agama lainnya. Jika dia menolak hal itu, maka berlaku hukum-hukum lain baginya.\nBarangsiapa meninggalkan shalat, maka dia diminta untuk bertaubat. Jika dia bertaubat, maka (diterima), jika tidak, maka dia dibunuh sebagai orang kafir, meskipun dia tidak mengingkari kewajibannya, menurut pendapat yang paling benar di antara dua pendapat ulama. Jika dia menolak membayar zakat, menentangnya, dan memerangi karenanya, maka dia juga diperangi sebagaimana para sahabat memerangi orang-orang yang menolak membayar zakat bersama Abu Bakar radhiyallahu 'anhu, dan mereka menghukumi mereka sebagai orang murtad. Jika dia tidak memerangi karenanya, maka imam memaksanya untuk menyerahkannya dan memberikan hukuman ta'zir syar'i yang membuat jera orang-orang semisalnya. Demikian pula seorang muslim dituntut untuk berpuasa Ramadhan, berhaji ke Baitullah jika mampu, dan semua kewajiban yang Allah bebankan kepadanya. Dia juga dituntut untuk meninggalkan apa yang Allah haramkan atasnya, karena masuknya dia ke dalam Islam dan komitmennya terhadapnya menuntut hal itu. Barangsiapa melalaikan sesuatu dari kewajiban yang Allah tetapkan atau melakukan sesuatu yang Allah haramkan, maka dia diperlakukan sesuai dengan yang pantas menurut syariat.\nAdapun jika orang kafir mengucapkan dua kalimat syahadat dalam keadaan kafirnya, seperti kebanyakan orang kafir saat ini, maka dia dituntut untuk bertaubat dari hal yang menyebabkan kekafirannya, dan tidak cukup baginya hanya mengucapkan dua kalimat syahadat, karena dia masih mengucapkannya dalam keadaan kafirnya tetapi tidak mengamalkannya. Jika kekafirannya karena menyembah orang mati, jin, berhala, atau makhluk lainnya, meminta pertolongan kepada mereka, dan semacamnya, maka dia wajib bertaubat dari hal itu dan memurnikan ibadah hanya kepada Allah semata. Dengan demikian dia masuk Islam. Jika kekafirannya karena meninggalkan shalat, maka dia wajib bertaubat dari hal itu dan melaksanakannya. Jika dia melakukan hal itu, maka dia masuk Islam."
+  },
+  {
+   "id": "a2",
+   "text": "Demikian pula jika kekafirannya karena menghalalkan zina atau khamar, maka dia wajib bertaubat dari hal itu. Jika dia bertaubat dari hal itu, maka dia masuk Islam."
+  },
+  {
+   "id": "a3",
+   "text": "Demikian pula orang kafir dituntut untuk meninggalkan perbuatan atau keyakinan yang menyebabkan kekafirannya. Jika dia melakukan hal itu, maka dia masuk Islam."
+  },
+  {
+   "id": "a4",
+   "text": "Ini adalah masalah-masalah besar yang wajib diperhatikan oleh penuntut ilmu dan dia harus memiliki pemahaman yang jelas tentangnya. Para ulama telah menjelaskannya dalam bab hukum orang murtad, yang merupakan bab yang agung. Wajib bagi penuntut ilmu untuk memperhatikannya dan sering membacanya. Allah lah pemilik taufik.⟦N1⟧"
+  },
+  {
+   "id": "n0.0",
+   "text": "Dari program Nur 'ala ad-Darb, kaset nomor 16, (Majmu' Fatawa wa Maqalat Syaikh Ibnu Baz, 7/32)."
+  }
+ ]
+}

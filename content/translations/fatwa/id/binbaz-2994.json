@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2994",
+ "source_content_sha256": "sha256:2e4d616e1cdeab810024e54ce6b9d55088cee6900f235d84d756ab24db03820d",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:14:34.946946+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 691,
+  "completion_tokens": 482,
+  "total_tokens": 1173,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 435
+ },
+ "latency_ms": 5066,
+ "units": [
+  {
+   "id": "title",
+   "text": "Tentang Ungkapan Kesetiaan kepada Tanah Air"
+  },
+  {
+   "id": "q0",
+   "text": "T: Sebagian orang berlebihan dengan mengatakan bahwa ungkapan kesetiaan kepada tanah air termasuk perbuatan syirik di negeri Islam yang penduduknya berkomitmen setia kepada Allah. Apa pendapat Anda, wahai Yang Mulia, tentang hal itu?"
+  },
+  {
+   "id": "a0",
+   "text": "J: Yang wajib adalah kesetiaan kepada Allah dan Rasul-Nya, dalam arti bahwa seorang hamba hendaknya berloyalitas karena Allah dan memusuhi karena Allah. Bisa jadi tanah airnya bukan negeri Islam, lalu bagaimana dia akan setia kepada tanah airnya? Adapun jika tanah airnya adalah negeri Islam, maka dia harus mencintai kebaikan untuknya dan berusaha mewujudkannya. Akan tetapi, kesetiaan itu hanya untuk Allah, karena siapa pun dari kaum muslimin yang taat kepada Allah maka dia adalah walinya, dan siapa pun yang menyelisihi agama Allah maka dia adalah musuhnya, meskipun dia penduduk negerinya, saudaranya, pamannya, ayahnya, atau semisalnya. Maka loyalitas itu karena Allah dan permusuhan itu karena Allah. Adapun tanah air, ia dicintai jika negerinya Islam. Setiap orang harus mendorong kebaikan di negerinya, menjaga agar tetap Islami, serta berusaha menstabilkan keadaan negeri dan penduduknya. Inilah kewajiban setiap muslim. Kita memohon kepada Allah untuk kita, kalian, dan seluruh kaum muslimin taufik, hidayah, kelurusan niat, dan amal. Semoga selawat dan salam tercurah kepada Nabi kita Muhammad, keluarga, dan para sahabatnya⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu’ Fatawa wa Maqalat asy-Syaikh Ibnu Baz (9/317)."
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1237",
+ "source_content_sha256": "sha256:b52c4e5fc9b2a6037c406fc7589cadf3f6d4faf0594aaf6c143309f548738590",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:53:13.132294+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1053,
+  "completion_tokens": 733,
+  "total_tokens": 1786,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 797
+ },
+ "latency_ms": 5635,
+ "units": [
+  {
+   "id": "title",
+   "text": "How is Tawhid achieved, and what is the meaning of shirk and wrongdoing?"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "What are the matters through which Tawhid is achieved? And what is the meaning of shirk (associating partners with Allah) and wrongdoing?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "Tawhid is achieved by devoting worship sincerely to Allah, Glorified and Exalted, and believing that He alone deserves worship, that He is One in His Lordship, One in His Divinity, and One in His Names and Attributes, and that He, Glorified, has no likeness and no partner, neither in His actions, nor in His words, nor in His attributes, and that He alone deserves worship, none other than Him, Glorified and Exalted, along with belief in everything that Allah and His Messenger have informed, permitting what Allah and His Messenger have permitted, and forbidding what Allah and His Messenger have forbidden. This is Tawhid, this is faith, and the guidance by which a servant becomes a Muslim."
+  },
+  {
+   "id": "a2",
+   "text": "Shaykh: Repeat the question."
+  },
+  {
+   "id": "a3",
+   "text": "Question: What are the matters through which Tawhid is achieved, and what is the meaning of shirk and wrongdoing?"
+  },
+  {
+   "id": "a4",
+   "text": "Answer: As for the meaning of shirk and wrongdoing, shirk means: setting up a partner with Allah in worship, calling upon someone besides Allah, whether a saint, a prophet, a tree, or an idol, calling upon him besides Allah, seeking his help besides Allah, making vows to him, and the like. This is the partner."
+  },
+  {
+   "id": "a5",
+   "text": "It is also applied to minor shirk, such as the one who worships Allah for the sake of a dirham or a dinar. May the slave of the dinar perish, may the slave of the dirham perish. Likewise, showing off is a type of minor shirk. It is also applied to every disbeliever; he is called a mushrik (polytheist). Everyone who disbelieves in Allah by denying what Allah has permitted or denying what Allah has forbidden, or insulting Allah and His Messenger, is called a kafir (disbeliever)."
+  },
+  {
+   "id": "a6",
+   "text": "He is called a mushrik because by this action he obeyed his whims and associated his whims with Allah in worship, and he obeyed the commands of whims and Satan, and became a disbeliever for denying what Allah has obligated, such as denying the obligation of prayer, or denying the obligation of fasting Ramadan while able, or denying what Allah has permitted of camels, sheep, cattle, or the permitted grains of wheat, barley, and the like, or insulting Allah, or insulting the Messenger of Allah, or mocking the religion of Allah, or the like. These are types of disbelief and shirk."
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2616",
+ "source_content_sha256": "sha256:e1cba27c0bd2106dcab5a5cdd8d4ed5c6edbc99377e57ecd78eec42384ff646f",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:12:50.837770+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 613,
+  "completion_tokens": 296,
+  "total_tokens": 909,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 357
+ },
+ "latency_ms": 3442,
+ "units": [
+  {
+   "id": "title",
+   "text": "小净后以及因性行为不洁而大净后擦干的教法判断"
+  },
+  {
+   "id": "q0",
+   "text": "问题："
+  },
+  {
+   "id": "q1",
+   "text": "是否可以擦干小净后的水，还是最好不擦？如果礼拜已经开始，而一个人正在礼副功拜，他该怎么办？"
+  },
+  {
+   "id": "a0",
+   "text": "回答："
+  },
+  {
+   "id": "a1",
+   "text": "此事宽松。谁擦干了，无妨；谁没有擦干，也无妨。据我们所知，在这方面没有正确的传述，无论是关于擦干还是关于厌恶擦干，此事宽松。"
+  },
+  {
+   "id": "a2",
+   "text": "至于因性行为不洁而大净，据传，先知（愿主福安之）曾被递上毛巾，但他拒绝了，并用手甩掉身上的水。在大净时——愿主赐福他并使他平安——这样做最好，用手甩掉水。至于小净，据我们所知，没有任何确切的传述。谁擦干了，无妨；谁没有擦干，也无妨。此事宽松。"
+  }
+ ]
+}

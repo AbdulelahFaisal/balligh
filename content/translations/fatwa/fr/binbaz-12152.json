@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-12152",
+ "source_content_sha256": "sha256:da378185751cf0b26bc47024608cacc2ef970f6562bffb5c7dab2da9e7e76e89",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:52:57.327329+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1179,
+  "completion_tokens": 1247,
+  "total_tokens": 2426,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 923
+ },
+ "latency_ms": 9438,
+ "units": [
+  {
+   "id": "title",
+   "text": "Les catégories du tawhid et leur inclusion dans les deux attestations de foi"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Ceci est une question, en réalité, sur la croyance, posée par un questionneur de Libye (Taha . A. A) de Benghazi. Il dit : Éminent cheikh ! Quelles sont les catégories du tawhid ? Le musulman est-il tenu de croire en toutes ces catégories ? Et si le musulman se contente de prononcer les deux attestations de foi, cela suffit-il ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Les catégories du tawhid sont au nombre de trois, connues par induction. Ce sont : la foi en l'unicité de la seigneurie (tawhid ar-rububiyyah), l'unicité de la divinité (tawhid al-uluhiyyah), et l'unicité des noms et attributs (tawhid al-asma' wa-s-sifat). S'il atteste sincèrement qu'il n'y a de divinité digne d'adoration qu'Allah et que Muhammad est le Messager d'Allah, cela suffit. On lui explique alors ce qu'il pourrait ignorer. Le Messager ﷺ acceptait des gens qu'ils attestent qu'il n'y a de divinité digne d'adoration qu'Allah et que Muhammad est le Messager d'Allah, à condition que leurs actes confirment leurs paroles, qu'ils se soumettent à la Loi et qu'ils unifient Allah, glorifié et exalté soit-Il. Il est alors musulman. Car dans l'attestation est incluse la foi qu'Allah est son Seigneur et son Créateur, la foi qu'Il mérite seul l'adoration, et la foi en Ses noms et attributs. En effet, attester qu'il n'y a de divinité digne d'adoration qu'Allah, et qu'Il est le seul digne d'adoration en vérité, implique l'unicité de la seigneurie et des noms et attributs, car Il est, gloire à Lui, la véritable divinité. Celui qui est ainsi est le Seigneur de tous et le Créateur de tous, parfait dans Son essence, Ses noms, Ses attributs et Ses actions. L'unicité de la seigneurie consiste à croire qu'Il est le Créateur et le Pourvoyeur. L'unicité de la divinité consiste à croire qu'Il mérite l'adoration, glorifié et exalté soit-Il, et que les divinités invoquées en dehors de Lui sont fausses, qu'il s'agisse d'êtres inanimés ou animés, que l'invoqué soit un ange, un prophète ou autre. Toute chose invoquée en dehors d'Allah est adorée à tort, ⟦Q1⟧ [al-Hajj : 62]. Ainsi, tout ce qui est invoqué en dehors d'Allah est adoré à tort, que ce soit un messager, un ange, un djinn, une pierre, un arbre ou autre. De même, la foi aux noms et attributs d'Allah : s'il croit qu'Allah, glorifié soit-Il, possède les plus beaux noms et les attributs les plus sublimes, et qu'Il est parfait dans Son essence, Ses attributs et Ses actions, cela suffit. L'unicité des noms et attributs consiste à croire qu'Il est, gloire à Lui, qualifié par les plus beaux noms et les attributs les plus sublimes, et qu'Il n'a ni semblable, ni pareil, ni égal. La foi en la seigneurie consiste à croire qu'Il est le Créateur, le Pourvoyeur, Celui qui gère les affaires et dispose des choses ; il n'y a pas d'autre créateur que Lui ni d'autre Seigneur. L'unicité de la divinité signifie la foi qu'Il mérite d'être adoré, qu'Il mérite d'être invoqué, qu'on implore Son secours, qu'on Lui fasse des vœux, qu'on immole pour Lui, etc. Il mérite l'adoration par la prière, le jeûne, l'invocation, le sacrifice et autres, et personne d'autre que Lui ne la mérite."
+  },
+  {
+   "id": "a2",
+   "text": "S'il atteste les deux attestations de foi, cela est inclus dans son attestation. Car s'il atteste qu'il n'y a de divinité digne d'adoration qu'Allah, cela signifie qu'Il est le seul digne d'adoration en vérité, qu'Il est le Créateur et le Pourvoyeur, et qu'Il est parfait dans Son essence, Ses noms et Ses attributs. Tout cela est inclus dans l'attestation. Oui.\nPrésentateur : Qu'Allah vous récompense par un bien, éminent cheikh."
+  }
+ ]
+}

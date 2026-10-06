@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3588",
+ "source_content_sha256": "sha256:14a24c3f3304cac36ec96a19b18594dfa65f3cb040a955a454246957d6390570",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:16:26.832881+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 645,
+  "completion_tokens": 372,
+  "total_tokens": 1017,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 389
+ },
+ "latency_ms": 3399,
+ "units": [
+  {
+   "id": "title",
+   "text": "Ruling on performing ablution inside the bathroom"
+  },
+  {
+   "id": "q0",
+   "text": "Q: What is the ruling on someone who performs ablution inside the bathroom, and is his ablution valid?"
+  },
+  {
+   "id": "a0",
+   "text": "A: There is no harm in performing ablution inside the bathroom if there is a need for that. He should say the basmalah at the beginning of the ablution, saying: \"Bismillah\" (In the name of Allah), because the basmalah is obligatory according to some scholars and strongly emphasized according to the majority. By saying it, the disliked aspect is removed; because the dislike is removed when there is a need for the basmalah, and the person is commanded to say the basmalah at the beginning of the ablution. So he says it and completes his ablution.\nAs for the supplication after ablution (the shahadah), it should be said after leaving the bathroom, which is the place for relieving oneself. When he finishes his ablution, he goes out and says the shahadah outside.\nHowever, if the bathroom is only for ablution and not for defecation and urination, then there is no harm in saying it inside; because it is not a place for relieving oneself⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "From the program Nur 'ala al-Darb, tape no. (8), (Majmu' Fatawa wa Maqalat al-Shaykh Ibn Baz 10/28)."
+  }
+ ]
+}

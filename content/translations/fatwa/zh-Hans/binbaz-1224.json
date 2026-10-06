@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1224",
+ "source_content_sha256": "sha256:223320dbc6edaf51255a6efe3f3de6565f87b599e9b71ace455ac58b4434eff0",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:53:00.943375+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 562,
+  "completion_tokens": 244,
+  "total_tokens": 806,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 306
+ },
+ "latency_ms": 2790,
+ "units": [
+  {
+   "id": "title",
+   "text": "在念诵拜中赶上（伊玛目）一拜的人如何补全礼拜"
+  },
+  {
+   "id": "q0",
+   "text": "问题："
+  },
+  {
+   "id": "q1",
+   "text": "有一个人只赶上伊玛目的一拜，他在补全礼拜时是否高声诵读？"
+  },
+  {
+   "id": "a0",
+   "text": "回答："
+  },
+  {
+   "id": "a1",
+   "text": "如果礼拜是念诵拜，而他只赶上其中一拜，那么这一拜就是他礼拜的开头。当他站起来补全礼拜时，在第二拜中高声诵读，但不要高声到干扰周围的人；然后在第三拜和第四拜中低声诵读。因为按照正确的主张，他与伊玛目一起礼的那一拜是他礼拜的开头，他自己补全的是礼拜的结尾。例如在宵礼或昏礼中，他补全的第二拜应高声诵读，然后低声完成剩下的拜数。"
+  }
+ ]
+}

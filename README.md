@@ -1,61 +1,109 @@
-# Balligh (بلّغ)
+# Balligh
 
-Balligh turns an Arabic source text into a short lesson in the learner's language that a person can review, and offers a read-only library of the Quran, 100 Ibn Baz fatwas and 150 HadeethEnc hadith.
+From source to lesson, in the learner's language.
 
-## What works
+[Try Balligh](https://balligh.onrender.com) · [Source code](https://github.com/AbdulelahFaisal/balligh)
 
-- **Teacher journey:** paste one Arabic text (up to 300 words) and choose one of six lesson languages: English, Urdu, Simplified Chinese, Indonesian, Bengali or French. DeepSeek (`deepseek-v4-pro`) drafts three cards, key terms and one question. You compare every card with the source, edit, acknowledge the version, and download it as HTML or JSON. A lesson stays an AI draft until a person acknowledges it.
-- **Library:** the complete Quran with six published translations of the meanings and recorded recitation; 100 fatwas; 150 hadith with published translations.
-- **Learn:** a five-stage introductory reading path.
-- **Assistant:** answers about the site or the source being read, with cited evidence.
-- **Interface languages:** Arabic, English, Urdu, Simplified Chinese, Indonesian, Bengali and French.
+Balligh helps teachers and people introducing Islam turn their Arabic teaching text into a multilingual lesson. The teacher keeps control of the material: paste a text, choose the learner's language, compare the lesson with the Arabic original, edit it, and export it for sharing.
 
-## Known limits of this submission candidate
+## The teacher's workflow
 
-- **Fatwa translations:** 85 of 600 fatwa-language pairs have an AI-assisted translation, labelled as such. The other 515 are unavailable; 6 of those are withheld for a known attribution error. The seven Learn-path fatwas are translated in all six languages.
-- **Hadith:** 31 of 900 hadith-language pairs have no published translation.
-- **Lesson languages:** lessons are produced in six non-Arabic languages. An Arabic-output lesson is not offered.
-- **Quran quotations inside translated fatwas:** they stay in Arabic, and a published translation is shown only for a single-ayah reference.
-- **Review:** AI-assisted translations and lessons have not been reviewed by native speakers or scholars.
+1. Paste Arabic text and choose a language and lesson level. A selected library source is also available as an optional starting point.
+2. Create a lesson with reading cards, Arabic terms and their meanings, and a comprehension question.
+3. Compare each card and question with its supporting passage in the original. Edit the lesson in place.
+4. Record that the current version was compared with the source, then export HTML or JSON. JSON exports can be imported again.
+
+Changing a lesson clears its previous comparison acknowledgment. Source quotations stay tied to the original text. The acknowledgment records the teacher's comparison of that version.
+
+## The learner's experience
+
+Learners read a card, open the meaning of a term, and check their understanding. A wrong answer leads back to the supporting passage and a retry. Progress and saved reading places help the learner continue later.
+
+The Learn destination arranges introductory reading into five stages. The Library brings Quran, fatwas and hadith together with search, reading-language selection, source links and reading-place controls.
+
+## Languages
+
+The interface supports Arabic, English, Urdu, Simplified Chinese, Indonesian, Bengali and French.
+
+Teachers can create lessons in English, Urdu, Simplified Chinese, Indonesian, Bengali and French, with the Arabic original available for comparison. Arabic terms remain visible with a meaning in the learner's language.
+
+## The content library
+
+| Collection | Included content |
+| --- | --- |
+| Quran | All 114 surahs and 6,236 ayahs, with six published translations of the meanings, footnotes, edition credits and optional separately labelled Al-Tafsir Al-Muyassar. |
+| Fatwas | 100 complete Arabic fatwas from the official Ibn Baz website, with 600 stored AI-assisted translations: all 100 fatwas in English, Urdu, Simplified Chinese, Indonesian, Bengali and French. |
+| Hadith | 150 narrations with the grade “sahih” as published by HadeethEnc, together with the publisher's explanations and available translations. |
+
+The reader shows the translation available for each record. Published translations are kept distinct from AI-assisted translations and explanations. Quran meanings are retrieved from the stored published editions.
+
+Fatwa translations are stored with the source and are available to read without making a new model request. The Arabic original, footnotes and source links remain available alongside them.
+
+Quran recitation uses Yasser Al-Dosari recordings and timing information from MP3Quran. The player keeps the selected text and translation together. The assistant offers site guidance and help with the open source; Quran extracts come directly from the library.
+
+The team's religious specialist provided oversight of source selection, terminology and faithful presentation. Publisher names, source links, edition details and reuse terms remain attached to their content.
 
 ## Run with Docker
 
-Prerequisite: Docker.
+Run these commands from the repository root. Docker must be installed and running.
 
-    cp .env.example .env
-    # edit .env and put your DeepSeek key after DEEPSEEK_API_KEY=
-    docker build -t balligh .
-    docker run --rm --env-file .env -p 8000:8000 balligh
+Copy `.env.example` to `.env` beside this README. To enable lesson generation and model-assisted source explanations, fill in only:
 
-Open http://127.0.0.1:8000/. The `.env` file sits beside this README. Model, endpoint and paths need no editing.
+```dotenv
+DEEPSEEK_API_KEY=your_key_here
+```
 
-Without a key, the library, the Learn path, recitation and saved lessons work. Creating a lesson and asking about a fatwa or hadith need the key.
+```bash
+docker build -t balligh .
+docker run --rm --env-file .env -p 8000:8000 balligh
+```
 
-## Run natively
+Open http://127.0.0.1:8000. Library reading, the Learn path, stored Quran meanings and saved-lesson review work independently of a model request.
 
-Python 3.13 and Node 24:
+Keep `.env` private. The key is read by the server and is never included in the public repository or lesson exports. The Docker image uses one server process and disables the local provider ledger by default.
 
-    python -m venv .venv
-    .venv/bin/pip install -r server/requirements.txt        # Windows: .venv\Scripts\pip
-    cd web && npm ci && npm run build && cd ..
-    .venv/bin/python -m uvicorn --app-dir server --factory balligh.api:create_app --port 8000
+## Run from source
 
-## Tests
+Requirements: Python 3.13 and Node.js 24. These PowerShell commands start in the repository root:
 
-    .venv/bin/pip install -r server/requirements-dev.txt
-    cd server && ../.venv/bin/python -m pytest -q
-    cd ../web && npx tsc -b --noEmit && npx vitest run
+```powershell
+python -m venv .venv
+.venv\Scripts\python -m pip install -r server\requirements-dev.txt
+npm --prefix web ci
+npm --prefix web run build
+.venv\Scripts\python -m uvicorn --app-dir server --factory balligh.api:create_app --host 127.0.0.1 --port 8000
+```
 
-Browser specs (Playwright) expect a keyless server: run `python tools/serve_offline.py 8000`, then `cd web && npx playwright test`.
+On Linux or macOS, use `.venv/bin/python` and forward slashes. The local `.env` belongs beside this README. Restart the server after changing environment settings.
 
-## Configuration
+## Render
 
-- `DEEPSEEK_API_KEY`: required for generation.
-- `BALLIGH_LEDGER_DIR`: `off` disables the local generation ledger.
-- `PORT`: defaults to 8000.
+Connect this repository as a Docker web service on `main`. Leave Root Directory empty, use `./Dockerfile` and build context `.`, and set the health check to `/api/health`.
 
-## Licences
+Add `DEEPSEEK_API_KEY` in Render's private environment settings. Render provides `PORT`; no manual port value or Docker command override is needed. The deployment instructions are in `docs/release/DEPLOY.md`.
 
-Project code is MIT (`LICENSE`). Source texts, published translations, fonts and recitation metadata keep their own terms; see `THIRD_PARTY_NOTICES.md` and `content/notices/`. The translations in `content/translations/` were generated with DeepSeek and are labelled AI-assisted in the app.
+## Development
 
-More: `docs/release/DEPLOY.md`, `docs/release/RELEASE_TREE.md`, `docs/release/TRANSLATION_STATUS.md`.
+The frontend uses React, TypeScript and Vite. The server uses Python, FastAPI and Pydantic. DeepSeek `deepseek-v4-pro` creates structured lesson drafts and source explanations. Library content and stored translations are separate from the JavaScript bundle.
+
+Default checks use local data and mocked provider responses. Run them in a disposable copy without `.env`:
+
+```powershell
+cd server
+..\.venv\Scripts\python -m pytest -q
+cd ..
+npm --prefix web run typecheck
+npm --prefix web test
+npm --prefix web run build
+```
+
+Browser checks cover the teacher, learner, library, reading and assistant journeys on desktop and mobile widths. Live provider checks are separate from the default tests.
+
+## Sources and licensing
+
+- Quran and published translations of the meanings: https://quranenc.com/
+- Fatwas: https://binbaz.org.sa/
+- Hadith and published translations: https://hadeethenc.com/
+- Quran recitation: https://www.mp3quran.net/ar/yasser/downloads
+
+Project-owned code is licensed under MIT. Publisher content, recordings, fonts and other third-party material retain their own terms. See `LICENSE`, `THIRD_PARTY_NOTICES.md` and `content/notices/`.

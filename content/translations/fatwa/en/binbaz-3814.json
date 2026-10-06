@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3814",
+ "source_content_sha256": "sha256:548cf03974c6fe00cfbf76444cb3f89de13059727e31eccd44a2a9600e136381",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:18:05.978434+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 846,
+  "completion_tokens": 594,
+  "total_tokens": 1440,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 590
+ },
+ "latency_ms": 4945,
+ "units": [
+  {
+   "id": "title",
+   "text": "Ruling on ghusl for a wet dream that leaves no trace"
+  },
+  {
+   "id": "q0",
+   "text": "Q: Question from Ibrahim. A. H. He says: Sometimes I remember having a wet dream after I wake up, but I do not see any trace of that wet dream. Do I have to perform ghusl or not? Please give us a fatwa, may Allah reward you with good."
+  },
+  {
+   "id": "a0",
+   "text": "A: Ghusl is not obligatory for someone who sees a wet dream unless he finds water, which is semen, because the Prophet ﷺ said: \"Water is from water,\" meaning that the water of ghusl is from the water of semen. This is according to the scholars regarding the one who has a wet dream. However, if he has intercourse with his wife, then he must perform ghusl even if no water comes out, because the Prophet ﷺ said: \"When the two circumcised parts meet, ghusl becomes obligatory.\" Reported by Muslim in his Sahih. And he ﷺ said: \"When he sits between her four limbs and then strives with her, ghusl becomes obligatory.\" Agreed upon its authenticity. Muslim added in his Sahih: \"Even if he does not ejaculate.\"\nIn the two Sahihs, from Anas, may Allah be pleased with him, that Umm Sulaym al-Ansariyyah – the mother of Anas, may Allah be pleased with them both – said: O Messenger of Allah, Allah is not shy of the truth. Is ghusl required for a woman if she has a wet dream? The Prophet ﷺ said: \"Yes, if she sees water.\"\nThis ruling applies to both men and women according to all scholars. And included in this meaning: whoever ejaculates semen due to desire, from thinking or touching, then ghusl is obligatory upon him, like the one who has a wet dream if he ejaculates, because of the general statement of the Prophet ﷺ: \"Water is from water.\" Allah is the Guardian of success.⟦N1⟧"
+  },
+  {
+   "id": "n0.0",
+   "text": "Published in Majallat al-Da'wah, issue (955) on 23/11/1404 AH. And in the book al-Da'wah (al-Fatawa) by His Eminence, part 1, pp. 40-41, (Majmu' Fatawa wa Maqalat al-Shaykh Ibn Baz 10/179)."
+  }
+ ]
+}

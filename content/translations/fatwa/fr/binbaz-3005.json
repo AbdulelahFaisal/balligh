@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3005",
+ "source_content_sha256": "sha256:13bb4563032bb2b8ff2052a19e6bc7ccf3226547ad23df5ca58564ad8da8ede1",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:14:50.830589+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 531,
+  "completion_tokens": 267,
+  "total_tokens": 798,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 275
+ },
+ "latency_ms": 2559,
+ "units": [
+  {
+   "id": "title",
+   "text": "Jugement concernant celui qui oublie de réciter Al-Fâtiha"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "De même, s'il oublie Al-Fâtiha, doit-il accomplir une autre rak'ah à sa place ? Et doit-il faire la prosternation de l'oubli ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "S'il est en prière derrière un imam, il n'a rien à faire. Mais s'il est imam ou prie seul, il doit accomplir une rak'ah à la place de celle où Al-Fâtiha a été omise. Quant à celui qui prie derrière un imam, il suit son imam ; s'il oublie ou manque la station debout, cela lui suffit, car il n'a fait que ce qu'il a pu accomplir avec l'imam."
+  }
+ ]
+}

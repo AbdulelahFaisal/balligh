@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-894",
+ "source_content_sha256": "sha256:f505eb7081ca104ae2947007e29b752a0e8268740142bcbacba909007a14de7a",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:24:45.584251+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 879,
+  "completion_tokens": 651,
+  "total_tokens": 1530,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 623
+ },
+ "latency_ms": 6121,
+ "units": [
+  {
+   "id": "title",
+   "text": "Pengenalan Agama"
+  },
+  {
+   "id": "q0",
+   "text": "Tanya: Segala sesuatu yang dijadikan manusia sebagai pegangan dan ibadah disebut agama walaupun batil. Pertanyaannya adalah: Televisi pada Jumat malam 4 Safar 1403 H menayangkan program \"Alam Fitrah\" yang dipandu oleh Ibrahim Ar-Rasyid. Episode saat itu tentang India. Pada pembukaannya dia berkata, \"Sungguh India disebut negeri agama-agama, di sana kita temukan: Hindu, Buddha, Sikh, dll.\" Saya mohon penjelasan tentang hal berikut: Apakah agama-agama yang disebutkan oleh pemandu program itu benar-benar agama sebagaimana klaimnya? Apakah agama-agama itu diturunkan dan diutus dari sisi Allah? Semoga Allah memberi Anda taufik untuk meluruskan pemahaman."
+  },
+  {
+   "id": "a0",
+   "text": "Jawab: Segala sesuatu yang dijadikan manusia sebagai pegangan dan ibadah disebut agama walaupun batil, seperti Buddha, paganisme, Yahudi, Hindu, Nasrani, dan agama-agama batil lainnya. Allah Subhanahu berfirman dalam surat Al-Kafirun: ⟦Q1⟧ [Al-Kafirun: 6] Maka Dia menamakan apa yang dianut para penyembah berhala sebagai agama.\nAgama yang benar hanyalah Islam, sebagaimana firman Allah 'Azza wa Jalla: ⟦Q2⟧ [Ali 'Imran: 19] dan firman-Nya: ⟦Q3⟧ [Ali 'Imran: 85] dan firman-Nya: ⟦Q4⟧ [Al-Ma'idah: 3]. Islam adalah beribadah kepada Allah semata tanpa menyekutukan-Nya dengan apa pun, menaati perintah-perintah-Nya, menjauhi larangan-larangan-Nya, berhenti pada batasan-batasan-Nya, dan beriman kepada semua yang dikabarkan Allah dan Rasul-Nya baik yang telah terjadi maupun yang akan terjadi.\nTidak ada satu pun agama batil yang diturunkan dari sisi Allah atau diridai-Nya, bahkan semuanya dibuat-buat, bukan diturunkan dari sisi Allah. Islam adalah agama semua rasul, meskipun syariat mereka berbeda-beda, berdasarkan firman Allah Subhanahu: ⟦Q5⟧ [Al-Ma'idah: 48]⟦N6⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Diterbitkan dalam kitab Ad-Da'wah: (1/15). (Majmu' Fatawa wa Maqalat Asy-Syaikh Ibnu Baz: 4/320)."
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3446",
+ "source_content_sha256": "sha256:6cf793844705de0d8d3f40834c85f06d79fb8c569cc4e942ed73ea655ae7e6c2",
+ "locale": "ur",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:15:46.852923+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 527,
+  "completion_tokens": 349,
+  "total_tokens": 876,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 271
+ },
+ "latency_ms": 3961,
+ "units": [
+  {
+   "id": "title",
+   "text": "محبت اور نفرت انسان کے عمل کی وجہ سے ہوتی ہے، اس کی ذات کی وجہ سے نہیں"
+  },
+  {
+   "id": "q0",
+   "text": "سوال:"
+  },
+  {
+   "id": "q1",
+   "text": "کیا محبت اور نفرت خود شخص سے کی جائے گی یا اس کے عمل سے؟"
+  },
+  {
+   "id": "a0",
+   "text": "جواب:"
+  },
+  {
+   "id": "a1",
+   "text": "محبت اور نفرت اس کے عمل کی وجہ سے ہوگی؛ اگر وہ مومن ہے تو اس سے اس کے ایمان کی وجہ سے محبت کی جائے گی، اور اگر وہ کافر ہے تو اس سے اس کے کفر کی وجہ سے نفرت کی جائے گی، نہ کہ اس کے نسب کی وجہ سے، اور نہ اس کے سفید یا سیاہ ہونے کی وجہ سے، نہیں۔ اس کے ایمان اور تقویٰ کی وجہ سے محبت کی جائے گی، چاہے وہ صورت میں سب سے بدصورت ہو، اور اس کے کفر اور گمراہی کی وجہ سے نفرت کی جائے گی، چاہے وہ صورت میں سب سے خوبصورت ہو، اور چاہے وہ سب سے زیادہ مال والا ہو۔"
+  }
+ ]
+}

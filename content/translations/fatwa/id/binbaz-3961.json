@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3961",
+ "source_content_sha256": "sha256:2330a9b3270c3283d95fbdd01d7d693d6bb09fad5c27d43d10f68da35dad3557",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:19:44.159249+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1102,
+  "completion_tokens": 950,
+  "total_tokens": 2052,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 846
+ },
+ "latency_ms": 8291,
+ "units": [
+  {
+   "id": "title",
+   "text": "Waktu darurat untuk shalat Zuhur, Asar, dan Magrib"
+  },
+  {
+   "id": "q0",
+   "text": "T: Penanya: Y. A. dari Khartoum - Republik Sudan berkata: Saya mohon Anda menjelaskan kepada saya tentang waktu darurat untuk masing-masing shalat Zuhur, Asar, dan Magrib."
+  },
+  {
+   "id": "a0",
+   "text": "J: Adapun Zuhur, tidak ada waktu darurat untuknya, bahkan seluruh waktunya adalah waktu ikhtiyari (pilihan). Apabila matahari tergelincir, masuklah waktu Zuhur, dan waktu itu tetap sebagai waktu ikhtiyari hingga bayangan setiap benda sama panjang dengan bendanya setelah bayangan zawal (bayangan saat matahari tergelincir). Semua ini adalah waktu ikhtiyari, tetapi yang lebih utama adalah menyegerakannya di awal waktu setelah azan dan shalat rawatib, dan imam menunggu sebentar agar orang-orang berkumpul. Inilah yang lebih utama.\nAdapun Asar, padanya ada waktu ikhtiyari dan waktu darurat. Adapun waktu ikhtiyari: dari awal waktu hingga matahari menguning. Apabila matahari telah menguning, itulah waktu darurat hingga matahari terbenam. Tidak boleh menunda shalat hingga waktu itu. Jika seseorang shalat pada waktu itu, maka dia telah menunaikannya pada waktunya, tetapi tidak boleh menunda, karena Nabi ﷺ bersabda: \"Waktu Asar adalah selama matahari belum menguning,\" dan beliau bersabda tentang orang munafik: \"Itulah shalat orang munafik, itulah shalat orang munafik, dia mengawasi matahari hingga ketika matahari berada di antara dua tanduk setan, dia bangkit lalu mematuk empat kali, tidak mengingat Allah di dalamnya kecuali sedikit.\" Maka Nabi ﷺ menyebutkan bahwa penundaan itu adalah sifat orang-orang munafik. Seorang mukmin tidak menunda shalat Asar hingga matahari menguning, tetapi dia bersegera dan mengerjakannya sebelum matahari menguning pada waktu ikhtiyari.\nAdapun Magrib, seluruh waktunya juga waktu ikhtiyari, dari sejak matahari terbenam hingga mega merah hilang. Semuanya waktu ikhtiyari, tetapi menyegerakannya di awal waktu lebih utama, karena Nabi ﷺ mengerjakannya di awal waktu. Apabila matahari terbenam dan muazin mengumandangkan azan, beliau menunda sedikit, kemudian iqamah, dan beliau ﷺ mengerjakannya di awal waktu. Jika dia menundanya sedikit, tidak mengapa, selama dia menunaikannya pada waktunya. Waktunya berakhir dengan hilangnya mega merah, yaitu warna kemerahan di arah barat. Apabila mega merah telah hilang, berakhirlah waktu Magrib dan masuklah waktu Isya hingga pertengahan malam. Setelah pertengahan malam adalah waktu darurat untuk Isya, maka tidak boleh menunda shalat hingga setelah pertengahan malam. Namun, antara hilangnya mega merah hingga pertengahan malam semuanya adalah waktu ikhtiyari untuk Isya. Jika dia mengerjakannya setelah pertengahan malam, dia telah menunaikannya pada waktunya, tetapi dia berdosa karena menundanya hingga waktu darurat.\nAdapun Subuh, seluruh waktunya adalah waktu ikhtiyari, dari terbit fajar hingga terbit matahari. Semua ini adalah waktu ikhtiyari, tetapi yang lebih utama adalah menyegerakannya di awal waktunya dan tidak menundanya dari awal waktunya, mengikuti teladan Nabi ﷺ dalam hal itu, karena beliau mengerjakannya pada saat masih gelap setelah fajar jelas.\nWallahu waliyyut taufiq.⟦N1⟧"
+  },
+  {
+   "id": "n0.0",
+   "text": "Program Nur 'ala ad-Darb, kaset nomor 51. (Majmu' Fatawa wa Maqalat Syaikh Ibnu Baz 10/383)."
+  }
+ ]
+}

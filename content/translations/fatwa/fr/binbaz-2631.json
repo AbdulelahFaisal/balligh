@@ -1,0 +1,76 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2631",
+ "source_content_sha256": "sha256:5254af03806f3a4948bc95256914a615efdb5088fafd45220db7400d5724bccc",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:13:28.715537+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1170,
+  "completion_tokens": 1151,
+  "total_tokens": 2321,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 914
+ },
+ "latency_ms": 8387,
+ "units": [
+  {
+   "id": "title",
+   "text": "Le jugement du rattrapage de la prière pour le mort"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Si le malade, dans sa maladie mortelle, n'a pas pu accomplir les prières obligatoires en raison de son incapacité, doit-on les rattraper pour lui après sa mort ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Certaines personnes se trompent à ce sujet, comme vous l'avez entendu lors du séminaire. Certaines personnes, lorsqu'elles tombent malades, font preuve de négligence dans la prière et ne prient pas. Elles disent : « Quand je guérirai, je rattraperai. » C'est une erreur. Il se peut qu'elles meurent à l'hôpital. C'est une erreur. Il leur incombe de prier selon leur état : debout, assises, sur le côté ou allongées, comme vous l'avez entendu dans la conférence. C'est ainsi que le Prophète ﷺ l'a ordonné. Et si l'eau est indisponible, on prie avec le tayammum (ablution sèche). Si le tayammum n'est pas possible et qu'il n'y a pas d'eau, on prie selon son état, même si ses vêtements sont impurs. On prie selon son état ⟦Q1⟧ [at-Taghabun : 16]. Si on peut faire les ablutions, on les fait ; si on peut faire le tayammum, on le fait ; si on peut changer ses vêtements, on les change ; si on peut changer l'endroit de la prière, on le change."
+  },
+  {
+   "id": "a2",
+   "text": "Quant au fait d'être négligent et de dire : « Plus tard, si Allah me guérit, je prierai », c'est une erreur, ce n'est pas permis. Le Prophète ﷺ a dit au malade : « Prie debout ; si tu ne peux pas, alors assis ; si tu ne peux pas, alors sur le côté ; si tu ne peux pas, alors allongé. » Celui qui ne trouve pas d'eau fait le tayammum, et celui qui en est incapable fait le tayammum. Il n'a pas d'excuse. C'est une erreur."
+  },
+  {
+   "id": "a3",
+   "text": "Il incombe donc au musulman d'avertir ses frères à ce sujet. Lorsqu'il rend visite à son frère malade, il doit l'informer de ces questions. S'il craint qu'il ne fasse une erreur à ce sujet, qu'il l'avertisse et lui explique, afin que cela relève de l'entraide dans la piété et la crainte d'Allah. S'il meurt sans avoir prié, il n'y a pas de rattrapage à faire pour lui. On implore pour lui le pardon et l'absolution, car il a délaissé la prière en raison d'une ambiguïté, étant ignorant, pensant que c'est préférable. Il n'est donc pas considéré comme celui qui a délaissé la prière délibérément par obstination ou par négligence. Certaines personnes la délaissent, pensant que c'est ce qui est prescrit, et que s'ils prient après la maladie, ce serait meilleur et plus complet. Cela relève de l'ignorance profonde. Et c'est Allah qui accorde le secours."
+  },
+  {
+   "id": "a4",
+   "text": "Question : S'il l'a délaissée..."
+  },
+  {
+   "id": "a5",
+   "text": "Réponse : Tout cela est une erreur."
+  },
+  {
+   "id": "a6",
+   "text": "L'étudiant : Mais il l'a délaissée et il est mort alors qu'il... ?"
+  },
+  {
+   "id": "a7",
+   "text": "Réponse : Non, on ne rattrape pas pour lui, mais - si Allah le veut - on espère pour lui le pardon d'Allah."
+  },
+  {
+   "id": "a8",
+   "text": "L'étudiant : S'il a délaissé la prière délibérément, intentionnellement... ?"
+  },
+  {
+   "id": "a9",
+   "text": "Réponse : S'il l'a délaissée par négligence, il est mécréant - qu'Allah nous en préserve - on ne le lave pas et on ne prie pas sur lui. Mais si son intention était qu'il est impur et qu'il considère que retarder la prière est meilleur en raison de son ignorance, dans ce cas..."
+  }
+ ]
+}

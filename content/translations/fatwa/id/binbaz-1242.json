@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1242",
+ "source_content_sha256": "sha256:2d3cf94bd19cca742cc2cac28e9a4371a7be67ba4dcd288b37c9ee20b93611ce",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:54:05.386151+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1131,
+  "completion_tokens": 976,
+  "total_tokens": 2107,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 875
+ },
+ "latency_ms": 8911,
+ "units": [
+  {
+   "id": "title",
+   "text": "Jawaban-jawaban bermanfaat berkaitan dengan mimpi dan puasa untuk mayit"
+  },
+  {
+   "id": "q0",
+   "text": "T: Dari Abdul Aziz bin Abdullah bin Baz kepada saudara terhormat N. H. A. Semoga Allah memberinya taufik. Amin.\nAssalamu'alaikum warahmatullahi wabarakatuh. Setelah itu:\nTela kuterima suratmu yang mulia, semoga Allah memberimu petunjuk-Nya, dan apa yang tercantum di dalamnya berupa lima pertanyaan telah diketahui. Berikut jawabannya:\nPertama: Ibumu melihat mimpi berulang-ulang bahwa ia sedang mengumpulkan kambing, dan setiap kali ia mengumpulkan sejumlah kambing, sebagian lepas darinya, dan ia kelelahan karenanya.\nKedua: Ibumu sering melihat ibunya saat sakit dalam kehidupan dan setelah kematiannya.. dst.\nKetiga: Nenekmu dari pihak ibu sakit hampir terus-menerus, dan ia berbuka pada bulan Ramadhan lalu mengqadha, sedangkan ibumu membantunya mengqadha dengan berpuasa untuknya.. dst?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban pertama: Mimpi semacam ini termasuk mimpi yang tidak disukai. Yang disyariatkan bagi orang yang melihat mimpi semacam itu adalah meniup ke arah kirinya tiga kali ketika bangun, memohon perlindungan kepada Allah dari setan dan dari keburukan apa yang dilihatnya tiga kali, kemudian berbaring pada sisi yang lain. Maka mimpi itu tidak akan membahayakannya dan tidak boleh ia ceritakan kepada siapa pun, berdasarkan sabda Nabi ﷺ: “Mimpi yang baik berasal dari Allah, sedangkan mimpi buruk berasal dari setan. Maka apabila salah seorang dari kalian melihat sesuatu yang tidak disukainya, hendaklah ia meniup ke arah kirinya tiga kali, berlindung kepada Allah dari setan dan dari keburukan apa yang dilihatnya tiga kali, kemudian berbaring pada sisi yang lain, maka mimpi itu tidak akan membahayakannya dan janganlah ia menceritakannya kepada siapa pun.” Muttafaq 'alaih.\nAdapun kambing jantan yang diambil ibumu dari kambing-kambing yang bercampur dengan kambingnya tanpa memberitahukan pemiliknya, kemudian mereka menyembelih dan memakannya, maka ia wajib bertobat atas hal itu, dan ia wajib membayar nilainya kepada pemiliknya pada waktu itu. Jika ia tidak mengetahui pemiliknya, maka ia bersedekah dengan nilai itu atas namanya kepada sebagian orang fakir. Kita memohon kepada Allah agar memaafkan kita, dirinya, dan setiap muslim.\nJawaban kedua: Jawaban atas pertanyaan ini sama seperti sebelumnya, karena mimpi itu termasuk mimpi yang tidak disukai dan berasal dari setan. Yang disyariatkan bagi orang yang melihat mimpi buruk adalah apa yang telah kami sebutkan dalam jawaban pertanyaan pertama.\nJawaban ketiga: Puasa seseorang tidak sah untuk orang lain jika orang yang dipuaskan masih hidup. Nenekmu telah meninggal, semoga Allah merahmatinya, maka disyariatkan bagi ibumu untuk berpuasa menggantikannya atas hari-hari yang ia puasakan untuknya selama hidupnya, karena puasanya untuknya semasa hidup tidak sah. Jika ia tidak mampu berpuasa, maka yang disyariatkan baginya adalah memberi makan (fidyah) untuk setiap hari sebanyak setengah sha' kurma atau makanan pokok negeri lainnya, yang ukurannya kira-kira satu setengah kilogram, disertai doa mohon ampunan dan rahmat untuknya⟦N1⟧.⟦N2⟧"
+  },
+  {
+   "id": "n0.0",
+   "text": "(Majmu' Fatawa wa Maqalat Syaikh Ibnu Baz 5/350)"
+  },
+  {
+   "id": "n1.0",
+   "text": "Jawaban pertanyaan keempat dan kelima tidak disebutkan di sini karena tidak berkaitan dengan akidah."
+  }
+ ]
+}

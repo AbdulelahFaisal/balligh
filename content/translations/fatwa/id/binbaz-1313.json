@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1313",
+ "source_content_sha256": "sha256:9edb5da12796e3f59e9274f61fc0bd1428b1b9045d7ab8bb2acc72b82e787731",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:55:46.609536+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 455,
+  "completion_tokens": 190,
+  "total_tokens": 645,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 199
+ },
+ "latency_ms": 2310,
+ "units": [
+  {
+   "id": "title",
+   "text": "Apakah boleh mengucapkan salam kepada perempuan?"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Jika seseorang melewati seorang perempuan yang tidak dikenalnya, apakah dia boleh membalas salamnya?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Tidak mengapa. Nabi ﷺ pernah melewati para perempuan, lalu beliau mengucapkan salam kepada mereka. Beliau melewati sekelompok perempuan, lalu mengucapkan salam kepada mereka, shallallahu 'alaihi wa sallam."
+  }
+ ]
+}

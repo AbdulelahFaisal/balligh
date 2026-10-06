@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2460",
+ "source_content_sha256": "sha256:84a97d168c720b0de4302d6b26f166e1c80e4c9ddb5eeb31cc093859038a2b77",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:11:27.630831+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 912,
+  "completion_tokens": 729,
+  "total_tokens": 1641,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 656
+ },
+ "latency_ms": 6112,
+ "units": [
+  {
+   "id": "title",
+   "text": "Le statut de l'alliance avec les mécréants et de leur affection"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Vous avez mentionné dans l'une de vos fatwas, à propos de l'explication du noble verset ⟦Q1⟧ [Al-Mujadila : 22], que celui qui aime les mécréants et s'allie à eux est mécréant d'une mécréance qui le fait sortir de la religion. J'aimerais que vous clarifiiez cela, et vise-t-on par mécréants ceux qui sont en guerre contre les musulmans ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Oui, celui qui aime les mécréants – juifs, chrétiens et polythéistes – même s'ils sont liés par un pacte et ne sont pas en guerre, s'il les aime pour leur religion, agrée leur religion, coopère avec eux pour les intérêts de leur religion, ou autre chose de ce genre, il est comme eux. En revanche, s'il aime certaines personnes d'une affection particulière, parce qu'elles lui ont donné telle chose, ou parce qu'elles sont des proches, qu'il les aime en raison de leur parenté et non de leur religion, cela est un grand péché."
+  },
+  {
+   "id": "a2",
+   "text": "Mais s'il les aime pour leur religion, pour leurs mœurs et pour ce sur quoi ils sont, qu'il les préfère aux musulmans et voit qu'ils sont sur une guidance et un bien, cela est – que Dieu nous en préserve – une apostasie manifeste et une mécréance évidente. Nous demandons à Dieu la préservation. En effet, l'alliance est de deux sortes :"
+  },
+  {
+   "id": "a3",
+   "text": "Une alliance qui signifie l'affection, le soutien et l'appui en leur faveur contre les musulmans, l'agrément de leur religion et de leurs mœurs : cela est une mécréance majeure."
+  },
+  {
+   "id": "a4",
+   "text": "Et parfois, une personne peut en aimer certaines pour une parenté, ou parce qu'elle est son épouse parmi les gens du Livre, ou parce qu'il est un proche qu'il aime et pour qui il invoque pour la guidance, etc., mais il n'aime pas sa religion, n'agrée pas sa religion et ne s'allie pas à lui sur la base de sa religion. C'est une affection incomplète, une affection particulière en raison d'une parenté ou d'un autre lien. Cette affection diminue sa religion et l'affaiblit. Il doit les détester en Dieu et les traiter en ennemis en Dieu, mais ce n'est pas une apostasie majeure ; c'est moindre que cela. Nous demandons à Dieu la préservation."
+  }
+ ]
+}

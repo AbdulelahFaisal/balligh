@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1548",
+ "source_content_sha256": "sha256:e571bd8c3247fd52908904e1ff274d367f633f74ef23f1601742c1b47a60c0f4",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:59:08.654677+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 710,
+  "completion_tokens": 543,
+  "total_tokens": 1253,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 454
+ },
+ "latency_ms": 4916,
+ "units": [
+  {
+   "id": "title",
+   "text": "Explication de la manière d’accomplir le tayammum"
+  },
+  {
+   "id": "q0",
+   "text": "Q : Pourriez-vous, votre éminence, nous expliquer la méthode correcte du tayammum ?"
+  },
+  {
+   "id": "a0",
+   "text": "R : Le tayammum correct est comme Allah, Puissant et Majestueux, a dit : ⟦Q1⟧ [Al-Mâ’idah : 6]. Ce qui est prescrit, c’est une seule frappe pour le visage et les paumes. Sa description est qu’il frappe la terre avec ses deux mains une seule fois, puis qu’il en essuie son visage et ses paumes, comme il est rapporté dans les deux Sahîh que le Prophète ﷺ a dit à ‘Ammâr ibn Yâsir, qu’Allah soit satisfait de lui : « Il te suffit de faire ainsi avec tes mains », puis il frappa la terre avec ses mains et en essuya son visage et ses paumes.\nIl est exigé que la terre soit pure. Il n’est pas prescrit d’essuyer les avant-bras ; il suffit d’essuyer le visage et les paumes, conformément au hadith mentionné.\nLe tayammum remplace l’eau pour lever l’état d’impureté selon l’avis le plus correct. S’il fait le tayammum, il prie avec ce tayammum les prières surérogatoires et obligatoires, présentes et futures, tant qu’il est en état de pureté, jusqu’à ce qu’il ait un hadath (annulation des ablutions), ou qu’il trouve de l’eau s’il en était privé, ou jusqu’à ce qu’il puisse l’utiliser s’il était incapable de l’utiliser. Le tayammum est une purification qui remplace l’eau, comme le Prophète ﷺ l’a appelé purification⟦N2⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmû‘ fatâwâ wa maqâlât du cheikh Ibn Bâz (6/22)."
+  }
+ ]
+}

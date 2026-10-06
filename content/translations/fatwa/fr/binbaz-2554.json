@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2554",
+ "source_content_sha256": "sha256:0e5498a59849fb43a660b0507fc1386fd246674dc8f3a48ff12707a6bf9aa055",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:12:24.521380+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1199,
+  "completion_tokens": 1082,
+  "total_tokens": 2281,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 943
+ },
+ "latency_ms": 8056,
+ "units": [
+  {
+   "id": "title",
+   "text": "La raison pour laquelle les deux attestations sont jointes en un seul pilier"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Pourquoi les deux attestations sont-elles jointes en un seul pilier de l'islam, bien que ce qui est visé soient deux choses : la divinité pour Allah et le message pour Muhammad ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Il est indispensable d'avoir les deux attestations. Cependant, l'attestation de l'unicité d'Allah est plus importante, plus primordiale et plus grande, car beaucoup de gens n'ont pas de difficulté à dire : « Muhammad est le Messager d'Allah », et ils reconnaissent le message, mais ils ne mettent pas en pratique le sens de « Lâ ilâha illa Allah » (il n'y a de divinité digne d'adoration qu'Allah). C'est pourquoi on attire l'attention des frères sur cette parole en l'attestant, et une attention supplémentaire sera portée sur l'attestation que Muhammad est le Messager d'Allah dans d'autres séminaires."
+  },
+  {
+   "id": "a2",
+   "text": "Mais cette parole est commune à tous les messagers, pas seulement à Muhammad. Elle est commune à Noé, Adam, Houd, Sâlih, Abraham, Loth et à ceux qui sont venus après eux parmi les prophètes : Moïse, Aaron, Jésus, David, Salomon et d'autres messagers et prophètes. La réalisation de cela est indispensable depuis l'époque d'Adam jusqu'à nos jours. Il est indispensable de réaliser « Lâ ilâha illa Allah », de connaître son sens, de s'acquitter de son droit et de vouer sincèrement l'adoration à Allah Seul en tout temps, depuis l'époque d'Adam jusqu'à nos jours."
+  },
+  {
+   "id": "a3",
+   "text": "En outre, la communauté de Muhammad ﷺ doit croire en Muhammad ﷺ ainsi qu'en tous les autres messagers. De même, ceux qui vivaient à l'époque d'Adam, notre père Adam étant un prophète - paix et salut sur lui - envoyé vers eux, devaient suivre sa législation. Ceux qui vivaient à l'époque de Noé devaient croire en Noé tout en attestant l'unicité d'Allah. Ceux qui vivaient à l'époque de Houd devaient attester l'unicité d'Allah, croire en Houd et suivre sa législation. De même, ceux qui vivaient à l'époque de Sâlih devaient attester l'unicité d'Allah, croire en cette parole, croire en ce que Sâlih a apporté et suivre sa législation. Il en va de même pour ceux qui vivaient à l'époque d'Abraham, de Loth, de Moïse, d'Aaron et d'autres. Chaque communauté doit croire en son messager tout en attestant l'unicité d'Allah et en Lui vouant un culte sincère."
+  },
+  {
+   "id": "a4",
+   "text": "Quant à la dernière communauté, celle de Muhammad ﷺ, elle doit attester l'unicité d'Allah, croire en son messager Muhammad ﷺ et se soumettre à sa législation. Il est indispensable d'avoir les deux attestations ; l'une ne suffit pas sans l'autre. Si quelqu'un atteste l'unicité d'Allah, L'adore Seul et délaisse les péchés, mais ne croit pas que Muhammad est le Messager d'Allah, alors il est mécréant, son sang et ses biens deviennent licites selon tous les savants. Et si quelqu'un croit au messager ﷺ, croit en lui et dit qu'il est le Messager d'Allah, mais n'actualise pas le sens de « Lâ ilâha illa Allah », n'adore pas Allah, ou adore autre que Lui avec Lui, ou insulte Allah, ou commet ce qui annule son islam, alors l'attestation que Muhammad est le Messager d'Allah ne lui profitera pas. Il faut donc les deux attestations, les réaliser et agir selon leurs implications, puis accomplir ensuite la prière (salât), la zakah (aumône obligatoire) et le reste."
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1287",
+ "source_content_sha256": "sha256:399a2298ca7f092e8e1d6e7daf084d9afa2833af48bfcbe02f1582a03e3bb953",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:55:36.708621+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 711,
+  "completion_tokens": 497,
+  "total_tokens": 1208,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 455
+ },
+ "latency_ms": 5236,
+ "units": [
+  {
+   "id": "title",
+   "text": "Hukum menceraikan istri karena kemalasannya"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Saya memiliki istri yang menunaikan seluruh kewajiban agama dengan sempurna, namun dia mencela dalam sebagian pekerjaan sehingga timbul kemarahan, dan dia tidak melakukan sebagian pekerjaan kecuali dengan kemarahan, karena dia terbiasa malas. Apakah boleh bagiku untuk menceraikannya?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Sebaiknya engkau bersabar, jika dia baik dan taat beragama, dan meskipun ada sedikit kemalasan padanya, engkau sebaiknya bersabar. Engkau pun memiliki sedikit kemalasan, tidak seorang pun yang selamat dari kekurangan. Engkau sebaiknya bersikap baik, dan membantunya dalam urusan rumah tangga. Bantulah ia. Nabi shallallahu 'alaihi wa sallam membantu keluarganya, dan beliau adalah makhluk terbaik. Beliau membantu keluarganya di rumah untuk keperluan rumah tangga."
+  },
+  {
+   "id": "a2",
+   "text": "Maka bantulah dia, jangan engkau datangkan pembantu. Bantulah dia agar engkau selamat dari keharusan adanya pembantu. Bantulah dia dalam urusan rumah tangga yang tidak mampu ia lakukan. Bisa jadi dia bersama anak-anak yang telah melelahkannya. Bantulah dia dalam urusan rumah tangga. Doronglah dia untuk bekerja dengan perkataan yang baik, bukan dengan berkata, 'Wahai wanita yang buruk, wahai wanita yang fajir, wahai ini, wahai itu, wahai anak si fulan, wahai ibu si fulan, berdirilah, lakukan ini. Semoga Allah memaafkanmu, semoga Allah meridhaimu, begini, dengan perkataan yang baik.'"
+  }
+ ]
+}

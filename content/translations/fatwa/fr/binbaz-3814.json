@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3814",
+ "source_content_sha256": "sha256:548cf03974c6fe00cfbf76444cb3f89de13059727e31eccd44a2a9600e136381",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:18:25.402918+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 846,
+  "completion_tokens": 770,
+  "total_tokens": 1616,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 590
+ },
+ "latency_ms": 6807,
+ "units": [
+  {
+   "id": "title",
+   "text": "Le jugement concernant les grandes ablutions à la suite d'un rêve érotique sans trace"
+  },
+  {
+   "id": "q0",
+   "text": "Question d'Ibrahim A. H. : Parfois, je me souviens d'un rêve érotique après mon réveil, mais je n'en vois aucune trace. Dois-je accomplir les grandes ablutions ou non ? Éclairez-nous, qu'Allah vous récompense par un bien."
+  },
+  {
+   "id": "a0",
+   "text": "Les grandes ablutions ne sont pas obligatoires pour celui qui a un rêve érotique, sauf s'il trouve le liquide, c'est-à-dire le sperme, conformément à la parole du Prophète ﷺ : « L'eau [du lavage] provient de l'eau [du sperme] ». Cela signifie que l'eau des grandes ablutions découle de l'eau du sperme. Tel est l'avis des savants concernant celui qui a un rêve érotique. En revanche, s'il a eu un rapport avec son épouse, les grandes ablutions lui incombent même s'il n'a pas émis de sperme, conformément à la parole du Prophète ﷺ : « Lorsque les deux parties circoncises se touchent, les grandes ablutions deviennent obligatoires » (rapporté par Mouslim dans son Sahîh). Il a aussi dit ﷺ : « Lorsqu'il s'assoit entre ses quatre membres puis la sollicite [sexuellement], les grandes ablutions deviennent obligatoires » (hadith authentique selon l'accord des deux imams, et Mouslim ajoute dans son Sahîh : « même s'il n'éjacule pas »).\nEt dans les deux Sahîh, d'après Anas, qu'Allah soit satisfait de lui, qu'Oumm Soulaym al-Ansâriyyah — la mère d'Anas, qu'Allah soit satisfait des deux — a dit : « Ô Messager d'Allah, Allah ne rougit pas de la vérité. La femme doit-elle accomplir les grandes ablutions si elle a un rêve érotique ? » Le Prophète ﷺ répondit : « Oui, si elle voit le liquide. »\nCe jugement concerne à la fois les hommes et les femmes selon l'ensemble des savants. Entre également dans ce sens celui qui émet du sperme par désir, à cause d'une pensée ou d'un contact, il doit alors accomplir les grandes ablutions, comme celui qui a un rêve érotique et éjacule, en raison de la portée générale de la parole du Prophète ﷺ : « L'eau [du lavage] provient de l'eau [du sperme] ». Et Allah est le garant de la réussite⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Publié dans la revue Ad-Da'wah, numéro 955, le 23/11/1404 de l'Hégire. Et dans le livre Ad-Da'wah (les fatwas) de Son Éminence, première partie, pages 40-41, (Recueil des fatwas et articles du cheikh Ibn Bâz 10/179)."
+  }
+ ]
+}

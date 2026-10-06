@@ -295,6 +295,27 @@ def load_stages(path: Path, library: Library) -> dict[str, Any]:
 router = APIRouter(prefix="/api")
 
 
+def _with_machine_translations(data: dict[str, Any], library: Library, root: Any) -> dict[str, Any]:
+    """Adds actual AI-assisted availability and titles to fatwa entries; `languages` stays the published list."""
+    if root is None:
+        return data
+    from .fatwa_translation import LOCALES as MT_LOCALES
+    from .fatwa_translation import sidecar_title
+
+    for stage in data.get("stages", []):
+        for entry in stage.get("entries", []):
+            if entry.get("collection") != "fatwa":
+                continue
+            try:
+                record = library.record("fatwa", entry["source_id"], "ar")["record"]
+            except Exception:
+                continue
+            titles = {loc: t for loc in MT_LOCALES if (t := sidecar_title(root, record, loc))}
+            entry["machine_languages"] = list(titles)
+            entry["translated_titles"] = titles
+    return data
+
+
 @router.get("/learn/stages")
 def learn_stages(request: Request) -> dict[str, Any]:
     library = getattr(request.app.state, "library", None)
@@ -302,7 +323,8 @@ def learn_stages(request: Request) -> dict[str, Any]:
         if not isinstance(library, Library):
             raise ManifestError("the library is not loaded")
         path = getattr(request.app.state, "learn_stages", None) or stages_path(library)
-        return load_stages(Path(path), library)
+        root = getattr(request.app.state, "fatwa_translations", None)
+        return _with_machine_translations(load_stages(Path(path), library), library, root)
     except (ManifestError, LibraryError, SnapshotError, KeyError, TypeError, ValueError) as e:
         message = e.message if isinstance(e, LibraryError) else str(e) if isinstance(e, ManifestError) else type(e).__name__
         raise HTTPException(

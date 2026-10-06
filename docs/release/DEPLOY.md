@@ -82,4 +82,4 @@ docker stop balligh-smoke
 
 ## Status at publication
 
-Pushed to https://github.com/AbdulelahFaisal/balligh (branch main); the repository root is the app root. Render (Docker, Free, Oregon, health check `/api/health`, `DEEPSEEK_API_KEY` set privately, no manual PORT) builds the image; no Docker build was run locally. Coverage: see TRANSLATION_STATUS.md (85 of 600 fatwa pairs).
+Pushed to https://github.com/AbdulelahFaisal/balligh (branch main); the repository root is the app root. Render (Docker, Free, Oregon, health check `/api/health`, `DEEPSEEK_API_KEY` set privately, no manual PORT) builds the image; no Docker build was run locally. Coverage: see TRANSLATION_STATUS.md (600 of 600 fatwa pairs).

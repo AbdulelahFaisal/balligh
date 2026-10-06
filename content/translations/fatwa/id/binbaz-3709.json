@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3709",
+ "source_content_sha256": "sha256:d6979fce39d51efa7cc5ddd1a0d1980f20687efcbfe30eb4910b318da1f9bbfc",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:17:24.817492+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 778,
+  "completion_tokens": 547,
+  "total_tokens": 1325,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 522
+ },
+ "latency_ms": 5508,
+ "units": [
+  {
+   "id": "title",
+   "text": "Bimbingan bagi yang tidak merasakan ketenangan dalam shalatnya"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Saya shalat, alhamdulillah, tetapi saya merasakan sesak dan tidak tenang dalam shalat. Maka bimbinglah saya, semoga Allah membalas kalian dengan kebaikan."
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Ini adalah salah satu penyakit hati, dan umumnya penyebabnya adalah dosa-dosa dan kelalaian. Barangsiapa yang tidak merasa lapang dalam shalatnya, sesungguhnya hal itu terjadi karena kelalaiannya, berpalingnya, dan dosa-dosanya. Maka hendaklah ia bertaubat kepada Allah, bersungguh-sungguh melawan hawa nafsunya, memohon taufik kepada Rabbnya, dan menghadirkan hatinya dalam shalat. Karena shalat itu adalah ketenangan dan penyejuk mata. Nabi ﷺ bersabda: \"Dijadikan penyejuk mataku dalam shalat.\" Shalat adalah penyejuk mata. Beliau juga bersabda kepada Bilal: \"Berdirilah, tenangkanlah kami dengan shalat.\""
+  },
+  {
+   "id": "a2",
+   "text": "Shalat adalah ketenangan hati, ketenangan jiwa, dan penyejuk mata. Apabila seorang mukmin memasuki shalat, ia merasa tenang, hatinya tentram, dan matanya sejuk; karena shalat adalah tiang Islam, dan karena di dalamnya ia meridhai Rabbnya dan berdiri di hadapan-Nya dengan khusyuk. Maka shalat adalah ketenangan hati, kenikmatan ruh, dan penyejuk mata.\nJika seseorang merasakan sesak di dalam shalat, hendaklah ia mengetahui bahwa ini adalah musibah, dan hendaklah ia mengobatinya dengan bertaubat kepada Allah, memohon taufik, hidayah, dan pertolongan kepada-Nya. Dan Allah menerima taubat orang-orang yang bertaubat, Jalla wa 'Ala."
+  }
+ ]
+}

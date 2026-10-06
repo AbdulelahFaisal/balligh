@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2616",
+ "source_content_sha256": "sha256:e1cba27c0bd2106dcab5a5cdd8d4ed5c6edbc99377e57ecd78eec42384ff646f",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:12:59.033683+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 610,
+  "completion_tokens": 420,
+  "total_tokens": 1030,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 354
+ },
+ "latency_ms": 3882,
+ "units": [
+  {
+   "id": "title",
+   "text": "Le jugement sur le séchage après les ablutions et après le lavage de la janâba"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Est-il permis d'essuyer les ablutions, ou vaut-il mieux les laisser ? Et si la prière est établie alors que quelqu'un est en train d'accomplir une prière surérogatoire, que doit-il faire ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "La question est large. Celui qui sèche, il n'y a pas de mal, et celui qui ne sèche pas, il n'y a pas de mal non plus. Rien d'authentique n'est parvenu à ce sujet, à notre connaissance, ni concernant le séchage, ni concernant le fait de le détester. La question est large."
+  },
+  {
+   "id": "a2",
+   "text": "Quant au lavage de la janâba, il est rapporté du Prophète ﷺ qu'on lui présenta un torchon ; il le refusa et se mit à secouer l'eau avec sa main, lors du lavage de la janâba - que la prière et le salut d'Allah soient sur lui - ceci est meilleur : secouer l'eau avec sa main. Quant aux ablutions, rien n'a été confirmé à ce sujet, à notre connaissance. Donc, celui qui sèche, il n'y a pas de mal, et celui qui ne sèche pas, il n'y a pas de mal non plus. La question est large."
+  }
+ ]
+}

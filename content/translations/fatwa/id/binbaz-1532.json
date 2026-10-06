@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1532",
+ "source_content_sha256": "sha256:af2e36c4607b7741a4b1559f3c6eb2723a36a9eb19a8c9cead325165b6133438",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:58:36.113014+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 638,
+  "completion_tokens": 398,
+  "total_tokens": 1036,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 382
+ },
+ "latency_ms": 3889,
+ "units": [
+  {
+   "id": "title",
+   "text": "Hukum Pengecualian dalam Iman"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Apakah boleh seorang mukmin berkata, \"Saya mukmin insya Allah\"? Mohon penjelasannya?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Ya, boleh menurut Ahlus Sunnah wal Jama'ah untuk mengatakan, \"Saya mukmin insya Allah,\" dan bukan maksudnya ragu, tetapi maksudnya insya Allah karena dia tidak tahu apakah imannya telah sempurna atau belum? Iman memiliki kewajiban-kewajiban, dan memiliki hal-hal yang berkaitan dengan meninggalkan hal-hal yang diharamkan, maka dia berkata, \"Insya Allah,\" artinya: insya Allah kesempurnaan imanku, dan kelengkapan imanku, atau berkaitan dengan akhir kehidupannya; karena dia tidak tahu bagaimana akhir hidupnya, maka dia berkata, \"Insya Allah\"; karena dia tidak tahu bagaimana akhir kehidupannya."
+  },
+  {
+   "id": "a2",
+   "text": "Murji'ah mengingkari hal itu, dan mereka menganggapnya sebagai keraguan, dan ini adalah kesalahan. Ahlus Sunnah wal Jama'ah mengecualikan dalam iman tanpa keraguan, tetapi dengan mempertimbangkan kesempurnaan kewajiban-kewajiban iman, dan dengan mempertimbangkan akhir kehidupan."
+  }
+ ]
+}

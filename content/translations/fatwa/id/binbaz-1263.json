@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1263",
+ "source_content_sha256": "sha256:b29f02601d672521e9b92d31b467e83a34c54df33d85b0d92891395bcc397ee2",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:54:47.423989+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 721,
+  "completion_tokens": 489,
+  "total_tokens": 1210,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 465
+ },
+ "latency_ms": 5181,
+ "units": [
+  {
+   "id": "title",
+   "text": "Hal-hal yang membuat seseorang masuk Islam"
+  },
+  {
+   "id": "q0",
+   "text": "T: Apakah cukup mengucapkan rukun pertama, yaitu syahadat la ilaha illallah dan Muhammad Rasulullah? Atau harus ada hal-hal lain agar keislaman seseorang sempurna?"
+  },
+  {
+   "id": "a0",
+   "text": "J: Jika seorang kafir bersyahadat la ilaha illallah dan Muhammad Rasulullah dengan jujur, yakin, mengetahui maknanya, dan mengamalkannya, maka ia masuk Islam. Kemudian ia dituntut untuk shalat dan hukum-hukum lainnya. Oleh karena itu, ketika Nabi ﷺ mengutus Mu'adz ke Yaman, beliau bersabda kepadanya: \"Ajaklah mereka untuk bersaksi bahwa tidak ada ilah yang berhak disembah selain Allah dan Muhammad adalah utusan Allah. Jika mereka melakukan itu, maka beritahukanlah mereka bahwa Allah mewajibkan atas mereka shalat lima waktu sehari semalam. Jika mereka menaatimu untuk itu, maka beritahukanlah mereka bahwa Allah mewajibkan atas mereka zakat pada harta mereka yang diambil dari orang-orang kaya di antara mereka dan dikembalikan kepada orang-orang fakir di antara mereka.\" Beliau tidak memerintahkan mereka shalat dan zakat kecuali setelah tauhid dan iman kepada Rasulullah ﷺ. Jika seorang kafir melakukan itu, maka ia mendapat hukum sebagai muslim, kemudian dituntut untuk shalat dan urusan agama lainnya. Jika ia menolak hal itu, maka ada hukum lain baginya. Jika ia meninggalkan shalat, maka penguasa memintanya untuk bertaubat. Jika ia bertaubat, maka baik, jika tidak maka ia dibunuh. Demikian pula hukum-hukum lainnya, ia diperlakukan sesuai dengan apa yang berhak ia terima⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu' Fatawa wa Maqalat Syaikh Ibnu Baz (5/355)."
+  }
+ ]
+}

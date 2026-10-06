@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-963",
+ "source_content_sha256": "sha256:0233da9a94e823e76bc99955f584390d6ebb4403b5b4cf8dedc6e66a18dedf3b",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:26:17.306866+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 728,
+  "completion_tokens": 517,
+  "total_tokens": 1245,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 472
+ },
+ "latency_ms": 5055,
+ "units": [
+  {
+   "id": "title",
+   "text": "Apakah amar makruf nahi mungkar merupakan salah satu rukun Islam?"
+  },
+  {
+   "id": "q0",
+   "text": "S: Saya mendengar bahwa sebagian ulama menganggap amar makruf nahi mungkar sebagai rukun di antara rukun-rukun Islam. Apakah ini benar?"
+  },
+  {
+   "id": "a0",
+   "text": "J: Ya, sebagian ahli ilmu berpendapat demikian, tetapi tidak ada dalil yang jelas tentang hal itu, dan itu hanyalah termasuk kewajiban Islam yang paling agung.\nRukun-rukun Islam yang dijelaskan oleh Rasulullah ﷺ ada lima. Beliau ﷺ bersabda: \"Islam dibangun di atas lima perkara: bersaksi bahwa tidak ada ilah yang berhak disembah selain Allah dan bahwa Muhammad adalah utusan Allah, mendirikan salat, menunaikan zakat, berpuasa Ramadan, dan berhaji ke Baitullah.\" Muttafaq 'alaih.\nDemikianlah Nabi ﷺ menjelaskan rukun-rukun Islam dan pilar-pilarnya. Maka tidak boleh menambah atasnya kecuali dengan dalil yang sahih. Namun amar makruf nahi mungkar adalah pilar di antara pilar-pilarnya dan kewajiban di antara kewajiban-kewajibannya, tetapi tidak dikatakan bahwa ia adalah rukun keenam, karena tidak ada dalil tentang hal itu.\nSebagaimana jihad di jalan Allah adalah pilar di antara pilar-pilarnya.. Demikian pula meninggalkan hal-hal yang diharamkan Allah atas hamba-hamba-Nya adalah pilar di antara pilar-pilarnya yang harus ada, dan tidak dikatakan bahwa keduanya adalah dua rukun di antara rukun-rukun Islam karena tidak ada dalil tentang hal itu.\nDengan diketahui bahwa wajib bagi kita untuk istiqamah di atas segala yang diwajibkan Allah dan meninggalkan segala yang diharamkan Allah⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "(Majmu' Fatawa wa Maqalat Syaikh Ibnu Baz 5/74)."
+  }
+ ]
+}

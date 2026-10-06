@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-6720",
+ "source_content_sha256": "sha256:7e90c2504fd942523be1f61a36674b10a522ae9da1a0255e8bcf67ce41819778",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:22:34.381131+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 503,
+  "completion_tokens": 228,
+  "total_tokens": 731,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 247
+ },
+ "latency_ms": 2326,
+ "units": [
+  {
+   "id": "title",
+   "text": "Quelle est la force louable chez le croyant ?"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Qui a dit que la force chez le croyant fort concerne la force du corps ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Non, ce n'est pas le corps, que veux-tu du corps ?! La force est la force de l'action. Même s'il était plus fort qu'un éléphant mais qu'il n'ordonne pas le bien et n'interdit pas le mal, on ne l'appelle pas fort ; on l'appelle faible.\\n(Cours d'explication de Bulûgh al-Marâm, Livre du Jâmi')"
+  }
+ ]
+}

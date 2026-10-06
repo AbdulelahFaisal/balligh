@@ -61,5 +61,6 @@
   "continue": "Lanjutkan ke bacaan berikutnya",
   "continueStage": "Lanjutkan: tahap {{n}}",
   "backToStage": "Kembali ke tahap {{n}}",
-  "position": "Tahap {{n}} · bacaan {{i}} dari {{total}}"
+  "position": "Tahap {{n}} · bacaan {{i}} dari {{total}}",
+  "aiLanguages": "Terjemahan dibantu AI: {{languages}}"
 }

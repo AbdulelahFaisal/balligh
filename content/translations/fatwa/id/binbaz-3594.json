@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3594",
+ "source_content_sha256": "sha256:389949e56a09c4ceedb296c2c31afc48f5533d37d22b88564df43c034255ac99",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:16:44.874608+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 590,
+  "completion_tokens": 345,
+  "total_tokens": 935,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 334
+ },
+ "latency_ms": 3710,
+ "units": [
+  {
+   "id": "title",
+   "text": "Apakah istinja’ disyaratkan untuk setiap wudhu?"
+  },
+  {
+   "id": "q0",
+   "text": "Tanya: Apakah istinja’ disyaratkan untuk setiap wudhu?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawab: Istinja’ tidak disyaratkan untuk setiap wudhu. Istinja’ hanya wajib dilakukan setelah buang air kecil, buang air besar, dan hal-hal yang semakna dengan keduanya. Adapun pembatal-pembatal wudhu lainnya, seperti buang angin, menyentuh kemaluan, makan daging unta, dan tidur, maka tidak disyariatkan untuk beristinja’ setelahnya. Cukuplah baginya berwudhu secara syar’i, yaitu membasuh wajah—termasuk di dalamnya berkumur dan menghirup air ke hidung—, membasuh kedua tangan hingga siku, mengusap kepala beserta kedua telinga, dan membasuh kedua kaki hingga mata kaki, sebagaimana firman Allah ‘Azza wa Jalla: ⟦Q1⟧ [Al-Ma'idah: 6]⟦N2⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu’ Fatawa wa Maqalat asy-Syaikh Ibnu Baz (10/33)."
+  }
+ ]
+}

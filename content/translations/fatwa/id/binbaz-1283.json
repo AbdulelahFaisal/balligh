@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1283",
+ "source_content_sha256": "sha256:11ea6d5325b9e44e40c6af23794cf591b38bad3e1f2ab281fd4fccd95c808c64",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:55:21.261051+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 627,
+  "completion_tokens": 360,
+  "total_tokens": 987,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 371
+ },
+ "latency_ms": 3545,
+ "units": [
+  {
+   "id": "title",
+   "text": "Nafkah untuk anak-anak setelah ibunya diceraikan"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Seorang wanita tidak mencintai suaminya, dan suaminya pun demikian sebagaimana katanya. Ia bertanya, apakah syariat mewajibkan suami untuk memberikan nafkah kepadanya dan kedua anaknya setelah perceraian dengan rumah tersendiri, atau tidak?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Jika keduanya berpisah, maka mereka harus berdamai dalam masalah anak-anak tentang nafkah. Keadaan keduanya dilihat di pengadilan, mereka berdamai dengan walinya bersamanya mengenai nafkah yang diminta setiap bulan, alhamdulillah. Jika mereka berselisih, maka mereka kembali ke pengadilan. Pengadilan memeriksa dan menentukan nafkah yang wajib. Akan tetapi yang lebih utama dari itu adalah perdamaian, yang lebih utama daripada pengadilan adalah perdamaian. Mereka berdamai atas nafkah yang sesuai yang ia berikan kepada anak-anaknya jika ia menceraikannya dan ia memiliki anak-anak. Ini yang lebih utama. Jika mereka berselisih, maka mereka kembali ke pengadilan. Tidak ada jalan lain selain pengadilan yang memeriksa masalah ini."
+  }
+ ]
+}

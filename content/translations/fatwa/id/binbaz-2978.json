@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2978",
+ "source_content_sha256": "sha256:a1c13385ee740002eda7d575d6a78feae85ded7d795fca6ea68b010e8c2f426b",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:14:12.934621+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1161,
+  "completion_tokens": 1094,
+  "total_tokens": 2255,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 905
+ },
+ "latency_ms": 9950,
+ "units": [
+  {
+   "id": "title",
+   "text": "Apa kewajiban terhadap saudara yang tidak shalat?"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Yang Mulia Syaikh: Assalamu'alaikum warahmatullahi wabarakatuh. Selanjutnya: Sesungguhnya saya mencintaimu karena Allah Ta'ala dengan kecintaan yang besar, dan saya berharap kepada Allah Ta'ala agar menjadikan kami dan Anda termasuk orang-orang yang saling mencintai karena-Nya Ta'ala, amin.\n Selanjutnya: Saya memiliki saudara laki-laki seibu seayah dan dia tidak shalat di masjid, dan dia tidak tinggal bersamaku. Dia ingin menikah dan ibuku memintaku untuk pergi bersamanya untuk melamarkan untuknya, tetapi aku menolak itu dengan berkata: Tidak; karena dia tidak shalat, tetapi ketika dia shalat dan imam masjid di tempat tinggalnya bersaksi untuknya, maka saat itu aku akan pergi bersamanya dan melamarkan untuknya. Namun wahai Syaikh, sekarang ibuku tidak berbicara kepadaku dan semua saudara laki-laki dan perempuanku tidak berbicara kepadaku dan memutuskanku. Segala puji bagi Allah atas segala keadaan."
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Adapun cinta karena Allah, kami katakan: Semoga Allah mencintaimu, yang karena-Nya engkau mencintai kami, sebagaimana telah dijelaskan bahwa cinta karena Allah termasuk amal yang paling utama."
+  },
+  {
+   "id": "a2",
+   "text": "Adapun yang Anda sebutkan tentang saudaramu: maka kewajibanmu dan seluruh saudara-saudaramu adalah menasihatinya, dan kalian semua menghubunginya, tidak sendirian; bahkan hendaknya bersamamu orang lain semoga itu berpengaruh padanya, dan semoga dia menyambut panggilan kebenaran; karena jika engkau sendirian dia mungkin tidak peduli, apalagi jika dia lebih tua darimu. Maksudnya, hendaknya nasihat itu terus menerus dan bersamamu orang lain dari saudara-saudaramu yang baik atau dari tetanggamu; semoga dia menerima dari kalian sehingga dia shalat dan menjaga shalat berjamaah, kemudian engkau melaksanakan keinginan ibumu dan saudara-saudaramu dalam membantunya dan pergi bersamanya ke tempat dia akan melamar setelah Allah memberinya petunjuk untuk hal ini dan dia menerimanya dari kalian dan shalat."
+  },
+  {
+   "id": "a3",
+   "text": "Adapun jika dia tetap tidak shalat maka jangan pergi bersamanya, bahkan boikotlah dia sampai dia bertaubat kepada Allah dan sampai dia kembali kepada kebenaran dan petunjuk, walaupun ibumu marah dan walaupun saudara-saudaramu marah; karena orang yang tidak shalat adalah kafir menurut pendapat yang paling benar di antara para ulama. Barangsiapa meninggalkan shalat dan sengaja meninggalkannya maka dia kafir sebagaimana sabda Nabi ﷺ dalam hadis shahih: \"Perjanjian antara kami dan mereka adalah shalat, maka barangsiapa meninggalkannya maka dia telah kafir.\" Dan beliau ﷺ bersabda: \"Antara seseorang dan kekafiran serta kesyirikan adalah meninggalkan shalat\" dalam hadis-hadis lain yang banyak menunjukkan hal itu."
+  },
+  {
+   "id": "a4",
+   "text": "Adapun dia meninggalkan shalat berjamaah maka ini lebih ringan, mungkin dia memiliki syubhat karena sebagian ulama tidak berpendapat wajibnya shalat berjamaah, maka tidak mengapa. Maka hendaknya engkau menghubunginya bersama saudara-saudaramu dan berusaha keras agar dia shalat berjamaah jika dia shalat tetapi tidak shalat berjamaah, ini lebih ringan. Maka wajib bagimu untuk menghubunginya bersama saudara-saudaramu dan bersama orang lain dari tetanggamu dan orang yang membantumu dalam hal ini; semoga Allah memberinya petunjuk dengan sebab-sebab itu; sehingga engkau menggabungkan semua maslahat antara keridhaan ibumu dan saudara-saudaramu dan antara petunjuk Allah untuknya melalui tanganmu dan tangan saudara-saudaramu yang menemanimu dalam berdakwah kepadanya kepada Allah 'Azza wa Jalla. Semoga Allah memberikan taufik dan petunjuk kepada semuanya."
+  }
+ ]
+}

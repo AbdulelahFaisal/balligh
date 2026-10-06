@@ -4,5 +4,8 @@
   "helpQuestion": "Tolong jelaskan pertanyaan dan jawaban fatwa ini dalam bahasa Indonesia yang jelas. Ini penjelasan, bukan terjemahan.",
   "aiAssisted": "Terjemahan dibantu AI",
   "showArabic": "Tampilkan teks asli bahasa Arab",
-  "publishedMeaning": "Terjemahan makna yang diterbitkan"
+  "publishedMeaning": "Terjemahan makna yang diterbitkan",
+  "aiAvailableIn": "Terjemahan dibantu AI untuk fatwa ini tersedia dalam bahasa berikut:",
+  "readingHintTranslated": "Teks asli bahasa Arab tersedia di bawah “{{label}}”.",
+  "notesTitle": "Catatan"
 }

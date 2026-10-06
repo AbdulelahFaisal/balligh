@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3005",
+ "source_content_sha256": "sha256:13bb4563032bb2b8ff2052a19e6bc7ccf3226547ad23df5ca58564ad8da8ede1",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:14:41.496843+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 531,
+  "completion_tokens": 238,
+  "total_tokens": 769,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 275
+ },
+ "latency_ms": 2258,
+ "units": [
+  {
+   "id": "title",
+   "text": "Ruling on one who forgets to recite Al-Fatihah"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "Also, if he forgets Al-Fatihah, should he perform another rak'ah to replace it? And should he prostrate for forgetfulness?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "If he is a follower (ma'mum), there is nothing upon him. However, if he is an imam or praying alone, he should perform another rak'ah in place of the rak'ah in which Al-Fatihah was omitted. As for the follower, he follows his imam; if he forgets or misses standing (with the imam), it suffices him as long as he catches the prayer with the imam."
+  }
+ ]
+}

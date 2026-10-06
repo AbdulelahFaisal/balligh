@@ -176,6 +176,11 @@ test("fatwa without a published translation: note in the reading language and a 
   page.on("request", (r) => {
     if (r.url().includes("/api/assistant/ask")) asks.push(r.url());
   });
+  // Real fatwas now have stored AI-assisted translations; withhold this one to keep covering the no-translation view.
+  await page.route("**/api/library/fatwas/*", async (route) => {
+    const response = await route.fetch();
+    await route.fulfill({ response, json: { ...(await response.json()), machine_translation: null } });
+  });
   await page.goto(`${FATWA}?lang=en`);
   await expect(page.getByTestId("item-title")).toBeVisible();
   const help = page.getByTestId("fatwa-language-help");

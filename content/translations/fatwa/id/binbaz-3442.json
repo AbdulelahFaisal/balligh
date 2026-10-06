@@ -1,0 +1,60 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3442",
+ "source_content_sha256": "sha256:324ac2630133cd4da7963ce4d638ecc9b76ded5cac2bee76e298df923e0c65c4",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:15:34.035162+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1186,
+  "completion_tokens": 1023,
+  "total_tokens": 2209,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 930
+ },
+ "latency_ms": 8957,
+ "units": [
+  {
+   "id": "title",
+   "text": "Bagaimana berlepas diri dari orang-orang kafir dan mendakwahi mereka kepada Allah"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Di zaman ini banyak orang kafir dari kalangan musyrikin, Nasrani, dan penyembah berhala tinggal di tengah-tengah kita, di pasar-pasar, dan di tempat-tempat kerja kita. Apa peran kita antara mendakwahi mereka kepada Islam dan perlunya memperlakukan mereka dengan baik? Apakah cukup mendakwahi mereka sekali saja, atau setiap hari dan terus-menerus? Bagaimana kita menyelaraskan antara hal itu dengan masalah berlepas diri dari mereka?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Dakwah kepada Allah dan mengajarkan mereka tidak menghalangi membenci mereka karena Allah. Engkau membenci mereka karena Allah, dan mendakwahi mereka kepada Allah, seperti engkau membenci anakmu yang durhaka: engkau mendakwahinya kepada Allah, mengharuskannya kepada kebenaran, dan saudaramu yang durhaka engkau dakwahi kepada Allah, engkau haruskan dia kepada kebenaran, dan engkau benci karena Allah namun engkau mencintainya karena keislamannya, engkau perintahkan dia kepada kebenaran dan engkau cegah dia dari kebatilan. Inilah kewajiban para ulama kaum muslimin dan pemerintah kaum muslimin untuk menangani orang-orang kafir yang ada di antara mereka, mendakwahi mereka kepada Allah, mengajari mereka, dan membimbing mereka. Inilah kewajiban mereka: ⟦Q1⟧ [Ali 'Imran: 104] dan Allah subhanahu berfirman: ⟦Q2⟧ [Fussilat: 33], dan Allah subhanahu berfirman: ⟦Q3⟧ [An-Nahl: 125]."
+  },
+  {
+   "id": "a2",
+   "text": "Kepemimpinan umum untuk riset ilmiah, fatwa, dakwah, dan bimbingan telah melaksanakan sebagian dari kewajiban ini dengan mengirim para dai ke sana kemari, dan dengan berdakwah kepada komunitas pendatang di Riyadh dan di tempat lain dengan berbagai bentuk dakwah dan bimbingan, serta membagikan buku-buku yang bermanfaat. Kita memohon kepada Allah agar memberikan manfaat melalui sebab-sebab itu. Demikian pula Rabithah melaksanakan sebagian dari hal itu, dan Nadwah Asy-Syabab melaksanakan sebagian dari hal itu."
+  },
+  {
+   "id": "a3",
+   "text": "Demikian pula setiap orang yang memiliki kecemburuan dari kalangan ulama dan memiliki bashirah (pemahaman) ikut serta dalam kebaikan besar ini di negerinya dan di negeri lain. Kita memohon kepada Allah agar memberi taufik kepada semuanya dan membantu semuanya untuk menambah kebaikan dan semangat dalam kebaikan. Karena mereka sekarang telah datang kepada kita, maka dakwah kepada mereka sekarang dekat, dakwah kepada mereka di perusahaan-perusahaan mereka dan di tempat mana pun mereka berkumpul, dakwah kepada mereka sekarang mungkin, daripada harus bepergian kepada mereka ke Eropa, Amerika, dan banyak tempat. Sekarang mereka telah ada di negerinya di sini dan di tempat-tempat lain."
+  },
+  {
+   "id": "a4",
+   "text": "Demikian pula para ulama di Mesir, di Syam, dan di tempat lain juga memiliki kewajiban mereka. Dan para ulama di negeri ini lebih besar dan lebih besar lagi, karena negeri ini adalah tempat lahir Islam dan sumber Islam, negeri dua tanah haram, yaitu jazirah yang darinya agama ini muncul dan di dalamnya Nabi dan para sahabatnya—'alaihishshalatu wassalam dan radhiyallahu 'anhum—tinggal."
+  },
+  {
+   "id": "a5",
+   "text": "Kewajiban atas negeri ini, para ulamanya, dan para penguasanya dalam berdakwah, menjelaskan, dan menolong kebenaran lebih besar daripada kewajiban selain mereka. Kita memohon kepada Allah hidayah untuk semuanya, taufik untuk semuanya, dan pertolongan atas setiap kebaikan."
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2556",
+ "source_content_sha256": "sha256:10a5decf315275f31857963b7b0259c5d05e7d35c0ea27750f1e7c34f02bac8f",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:12:40.338965+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 840,
+  "completion_tokens": 619,
+  "total_tokens": 1459,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 584
+ },
+ "latency_ms": 5965,
+ "units": [
+  {
+   "id": "title",
+   "text": "Kesalahan dalam menafsirkan kalimat: La ilaha illallah"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Jika seorang penceramah menafsirkan La ilaha illallah dengan berkata: Tidak ada pencipta selain Allah, tidak ada pemberi rezeki, dan tidak ada pengatur selain Allah, dan bahwa penciptaan serta urusan adalah milik Allah, maka dengan ini tidak boleh menyembah selain Allah, dan dia tidak menyinggung penafian selain Allah, penafian syirik, dan peringatan darinya, apakah ini cukup? Dan apa makna lengkapnya secara ringkas?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Ini keliru, karena 'tidak ada pencipta selain Allah' dan 'tidak ada pemberi rezeki selain Allah' juga diucapkan oleh Abu Jahal dan orang-orang kafir musyrik terdahulu. Mereka mengakui: tidak ada pencipta selain Allah ⟦Q1⟧ [Az-Zukhruf: 87] ⟦Q2⟧ [Az-Zumar: 38]. Mereka mengakui hal ini, tetapi jika dikatakan kepada mereka: 'Ucapkanlah La ilaha illallah', mereka menolak: ⟦Q3⟧ [Ash-Shaffat: 35] dan mereka berkata: ⟦Q4⟧ [Shad: 5]."
+  },
+  {
+   "id": "a2",
+   "text": "Maka harus dijelaskan makna La ilaha illallah, yaitu maknanya: tidak ada sesembahan yang berhak disembah selain Allah, tidak boleh berdoa kecuali kepada Allah, tidak boleh meminta pertolongan kecuali kepada Allah, tidak boleh bernazar kecuali untuk Allah, tidak boleh menyembelih kecuali karena Allah. Jelaskan makna itu, sekaligus tidak ada pencipta selain Allah, tidak ada pemberi rezeki selain Allah, namun dengan itu semua, Dialah sesembahan yang hak, yang wajib disembah dengan salat, puasa, nazar, penyembelihan, harap, takut, cemas, dan ibadah lainnya. Maka siapa yang mempersembahkan hal itu kepada selain Allah, baik kepada bintang, malaikat, mayit, maupun berhala, ia menjadi penyembah sesuatu itu dan telah berbuat syirik kepada Allah Subhanahu wa Ta'ala."
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1614",
+ "source_content_sha256": "sha256:6e944d6e8b4349d900028b8235adeb121719a928606a2710bd9f15bb9a3841c2",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:01:07.620300+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1486,
+  "completion_tokens": 1460,
+  "total_tokens": 2946,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 1230
+ },
+ "latency_ms": 14480,
+ "units": [
+  {
+   "id": "title",
+   "text": "Jugement concernant l'abandon des obligations en s'appuyant sur le hadith : « La prière du vendredi à l'autre vendredi »"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Beaucoup de gens ne prient que le vendredi, et seulement pendant le Ramadan, et ils s'appuient sur le hadith : « La prière du vendredi à l'autre vendredi et le Ramadan à l'autre Ramadan sont des expiations pour ce qui est entre eux ». Cette pratique est-elle correcte ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Cette manière d'arguer est une ignorance pure et simple. Allah nous a imposé la prière en commun, la prière du vendredi et le jeûne du Ramadan. Nous devons donc accomplir les obligations, toutes les prières, accomplir la prière du vendredi, jeûner le Ramadan et faire tout ce qu'Allah nous a imposé. Nous avons en cela une grande récompense. Peut-être, si nous faisons tout cela, si nous nous appliquons et si nous nous éloignons de ce qu'Allah a interdit, peut-être serons-nous sauvés, peut-être échapperons-nous au châtiment d'Allah, peut-être serons-nous agréés."
+  },
+  {
+   "id": "a2",
+   "text": "Quant au fait d'arguer de la prière du vendredi et de l'expiation qu'Allah y a attachée, ou du Ramadan, puis de délaisser les obligations, cela n'est pas dit par quelqu'un qui croit en Allah et au Jour dernier. Cela n'est pas dit par une personne douée de raison. Celui qui croit que la prière du vendredi dispense des autres prières est un mécréant égaré et égarant. Nous demandons à Allah la préservation."
+  },
+  {
+   "id": "a3",
+   "text": "Et celui qui croit que le jeûne du Ramadan lui fait tomber les obligations et qu'il peut commettre les péchés qu'il veut, celui-là est aussi égaré, égarant et mécréant en Allah, qu'Allah nous en préserve !"
+  },
+  {
+   "id": "a4",
+   "text": "Les musulmans sont unanimement d'accord que le Ramadan ne dispense pas des autres obligations et que la prière du vendredi ne dispense pas des autres obligations. La prière du vendredi ne dispense ni de la prière du fajr, ni de la prière du 'asr, du maghrib et du 'icha en leur temps le jour même, car elle ne remplace que la prière du dhohr seulement, le vendredi. Quant aux autres jours, selon tous les gens de science, il faut absolument accomplir les cinq prières les autres jours, de même qu'il faut absolument accomplir les quatre prières le vendredi : le 'asr, le maghrib, le 'icha et le fajr du vendredi, celles-ci sont indispensables."
+  },
+  {
+   "id": "a5",
+   "text": "Celui qui prétend que la prière du vendredi lui dispense de toutes ces obligations et le croit, cela est de la mécréance et de l'égarement. Il doit s'empresser de se repentir auprès d'Allah, glorifié et exalté soit-Il, car c'est une suppression des obligations et une permission des interdits. Celui qui le fait en le croyant, après que la preuve lui a été établie et qu'on le lui a expliqué, devient mécréant et égaré par cela. De même, le Ramadan, le jeûne du Ramadan ne dispense pas des obligations, ni de la prière, ni de la zakah (aumône légale), ni de rien de ce qui est obligatoire."
+  },
+  {
+   "id": "a6",
+   "text": "Le jeûne du Ramadan est une obligation pour le serviteur, il doit l'accomplir et l'observer. Allah, gloire à Lui, lui a réservé une récompense et une rétribution pour cela. La récompense du Ramadan ne dispense pas du reste des obligations. Le Prophète (paix et salut sur lui) a dit : « Les cinq prières, la prière du vendredi à l'autre vendredi et le Ramadan à l'autre Ramadan sont des expiations pour ce qui est entre eux, tant qu'on évite les péchés majeurs. » Si l'on commet un péché majeur, on est privé de la récompense du jeûne - nous demandons à Allah la préservation -, privé de la récompense des prières, privé de la récompense du vendredi. Il n'obtient leur récompense qu'en évitant les péchés majeurs, c'est-à-dire les désobéissances, comme Allah, gloire à Lui, a dit : ⟦Q1⟧ [An-Nisa' : 31]. L'expiation des péchés et l'entrée au paradis ne sont obtenues que par celui qui évite les péchés majeurs."
+  },
+  {
+   "id": "a7",
+   "text": "En résumé : dire que la prière du vendredi et le Ramadan dispensent du reste des obligations et expient tous les interdits est une parole d'ignorant. C'est une ignorance énorme qui n'a aucun sens, elle contredit les textes et le consensus des musulmans. Nous demandons à Allah la préservation."
+  },
+  {
+   "id": "a8",
+   "text": "Peut-être que s'il accomplit toutes les obligations et délaisse tous les interdits, peut-être sera-t-il aidé, peut-être sera-t-il agréé, peut-être ses péchés seront-ils expiés, peut-être gagnera-t-il le paradis. Et s'il s'en vante et se targue auprès d'Allah de cela, il mérite alors la privation et le refus. Nous demandons à Allah la préservation."
+  }
+ ]
+}

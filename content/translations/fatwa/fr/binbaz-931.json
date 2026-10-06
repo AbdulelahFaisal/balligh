@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-931",
+ "source_content_sha256": "sha256:6e571c0565d4e28457819ec87ce51ad882da3564a84093e3633d9414004dbd93",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:25:40.280468+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1018,
+  "completion_tokens": 980,
+  "total_tokens": 1998,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 762
+ },
+ "latency_ms": 7924,
+ "units": [
+  {
+   "id": "title",
+   "text": "Le statut de se lever pour celui qui arrive"
+  },
+  {
+   "id": "q0",
+   "text": "Question : Un homme est entré alors que j’étais dans une assemblée. Les personnes présentes se sont levées pour lui, mais moi je ne me suis pas levé. Suis-je obligé de me lever, et ceux qui se sont levés commettent-ils un péché ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse : Il n’est pas obligatoire de se lever pour celui qui arrive. C’est plutôt une marque de bonnes manières : se lever vers lui pour lui serrer la main et le prendre par la main, en particulier pour le maître de maison et les notables. Cela fait partie des bonnes manières. Le Prophète ﷺ s’est levé pour Fâtima, et elle s’est levée pour lui, qu’Allah soit satisfait d’elle. Les Compagnons, qu’Allah soit satisfait d’eux, se sont levés sur son ordre pour Saʿd ibn Muʿâdh, qu’Allah soit satisfait de lui, lorsqu’il arriva pour juger les Banû Qurayẓa. Talha ibn ʿUbaydillah, qu’Allah soit satisfait de lui, se leva de devant le Prophète ﷺ lorsque Kaʿb ibn Mâlik, qu’Allah soit satisfait de lui, vint après qu’Allah eut accepté son repentir ; il lui serra la main, le félicita, puis s’assit. Cela relève des bonnes manières, et la question est large.\n Ce qui est blâmable, c’est de rester debout pour la vénération. Mais le fait de se lever pour accueillir l’invité, lui faire honneur, lui serrer la main ou le saluer est une chose prescrite. Quant au fait de rester debout alors que les gens sont assis, pour la vénération, ou de se tenir debout à l’entrée sans aller à sa rencontre ni lui serrer la main, cela ne convient pas. Et plus grave encore est de se tenir debout pour le vénérer alors qu’il est assis, non pour le garder mais uniquement pour la vénération. Se lever est de trois types, comme l’ont dit les savants :"
+  },
+  {
+   "id": "a1",
+   "text": "Premier type : se lever pour quelqu’un qui est assis, par vénération, comme les non-Arabes vénèrent leurs rois et leurs grands. Comme l’a expliqué le Prophète ﷺ, cela n’est pas permis. C’est pourquoi le Prophète ﷺ ordonna aux gens de rester assis lorsqu’il pria avec eux en position assise ; il leur ordonna de s’asseoir et de prier avec lui en position assise. Lorsqu’ils se levèrent, il dit : « Vous avez failli me vénérer comme les non-Arabes vénèrent leurs chefs. »\n Deuxième type : se tenir debout pour une autre personne à son entrée ou à sa sortie, sans aller à sa rencontre ni lui serrer la main, mais uniquement pour la vénération. Le moins qu’on puisse dire, c’est que cela est détestable. Les Compagnons — qu’Allah soit satisfait d’eux — ne se levaient pas pour le Prophète ﷺ lorsqu’il entrait chez eux, car ils savaient qu’il détestait cela, que la paix et le salut soient sur lui.\n Troisième type : se lever pour aller à la rencontre de celui qui arrive afin de lui serrer la main, ou de le prendre par la main pour le placer à un endroit, le faire asseoir à sa place, ou choses semblables. Il n’y a pas de mal à cela ; cela fait même partie de la Sunna, comme cela a été mentionné précédemment⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "(Recueil des fatwas et articles du cheikh Ibn Baz : 4/394) "
+  }
+ ]
+}

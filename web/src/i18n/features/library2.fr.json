@@ -4,7 +4,9 @@
     "questionsDesc": "Les réponses du cheikh Abdulaziz Ibn Baz aux questions des gens.",
     "hadithDesc": "Des hadiths avec leur degré et leur explication publiée.",
     "open": "Ouvrir",
-    "arabicOnly": "En arabe uniquement"
+    "arabicOnly": "En arabe uniquement",
+    "publishedArabic": "Publié en arabe",
+    "aiCoverage": "Traduction assistée par IA : {{n}} sur {{total}}"
   },
   "list": {
     "resetSearch": "Effacer la recherche et tout afficher"

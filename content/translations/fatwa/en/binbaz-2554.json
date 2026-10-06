@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2554",
+ "source_content_sha256": "sha256:0e5498a59849fb43a660b0507fc1386fd246674dc8f3a48ff12707a6bf9aa055",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:12:00.566562+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1199,
+  "completion_tokens": 838,
+  "total_tokens": 2037,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 943
+ },
+ "latency_ms": 6382,
+ "units": [
+  {
+   "id": "title",
+   "text": "The reason for combining the two testimonies into one pillar"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "Why are the two testimonies combined into one pillar of Islam, even though the intended meanings are two: divinity belongs to Allah, and messengership belongs to Muhammad?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "Both are required: the two testimonies are essential, but the testimony of Allah's oneness is greater, more important, and weightier. Many people do not find it difficult to say, \"Muhammad is the Messenger of Allah,\" and they acknowledge the messengership, but they do not implement the meaning of \"There is no god but Allah.\" Therefore, the brothers are reminded of this word by testifying to it, and further emphasis on the testimony that Muhammad is the Messenger of Allah comes in other lectures."
+  },
+  {
+   "id": "a2",
+   "text": "But this word applies to all the messengers, not only to Muhammad alone: with Noah, Adam, Hud, Salih, Abraham, Lot, and those after them among the prophets—Moses, Aaron, Jesus, David, Solomon, and others among the messengers and prophets. This is something that is indispensable from the time of Adam until our present day: it is essential to affirm \"There is no god but Allah,\" to know its meaning, to fulfill its rights, and to devote worship sincerely to Allah alone in every era, from the time of Adam until our present day."
+  },
+  {
+   "id": "a3",
+   "text": "Moreover, the nation of Muhammad ﷺ must believe in Muhammad ﷺ along with the rest of the messengers, just as those who lived in the era of Adam—since our father Adam was a prophet, peace and blessings be upon him, sent to them—had to follow his legislation. Those in the era of Noah had to believe in Noah along with affirming Allah's oneness. Those in the era of Hud had to affirm Allah's oneness, believe this word, believe in Hud, and follow his legislation. Likewise, those in the era of Salih had to affirm Allah's oneness, believe this word, believe Salih in what he brought, and follow his legislation. And so for those in the era of Abraham, Lot, Moses, Aaron, and others: every nation must believe in its messenger along with affirming Allah's oneness and sincerity to Allah."
+  },
+  {
+   "id": "a4",
+   "text": "The final nation, the nation of Muhammad, peace and blessings be upon him, must affirm Allah's oneness, believe in its messenger Muhammad ﷺ, and submit to his legislation. Both are required: the two testimonies are indispensable, and one does not suffice without the other. If a person affirms Allah's oneness, worships Him alone, and abstains from sins, but does not believe that Muhammad is the Messenger of Allah, then he is a disbeliever whose blood and wealth are lawful [to be taken] according to all scholars. Conversely, if a person believes in the Messenger ﷺ and says, \"He is the Messenger of Allah,\" but does not implement the meaning of \"There is no god but Allah,\" does not worship Allah, but instead worships others besides Him, or insults Allah, or does something that nullifies his Islam, then the testimony that Muhammad is the Messenger of Allah will not benefit him. Thus, both testimonies are required, and it is necessary to fulfill them and act according to their requirements, and then to perform the prayer, give zakah (obligatory almsgiving), and so on."
+  }
+ ]
+}

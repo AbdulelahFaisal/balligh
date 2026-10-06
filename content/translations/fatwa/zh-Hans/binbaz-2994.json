@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2994",
+ "source_content_sha256": "sha256:2e4d616e1cdeab810024e54ce6b9d55088cee6900f235d84d756ab24db03820d",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:14:30.316659+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 694,
+  "completion_tokens": 344,
+  "total_tokens": 1038,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 438
+ },
+ "latency_ms": 4011,
+ "units": [
+  {
+   "id": "title",
+   "text": "关于“忠于祖国”这一说法"
+  },
+  {
+   "id": "q0",
+   "text": "问：有些人过分地说，在一个其人民应忠于真主的伊斯兰国家里，“忠于祖国”这一说法属于多神崇拜。阁下对此有何看法？"
+  },
+  {
+   "id": "a0",
+   "text": "答：必须忠于真主及其使者，意思是，一个人应当为真主而结友，为真主而树敌。也许他的祖国并非伊斯兰国家，那他怎能忠于祖国呢？但如果他的祖国是伊斯兰国家，他就应当喜爱它，为它争取福利，并为此努力。然而，忠诚只归于真主，因为穆斯林中顺从真主的人，就是真主的朋友；违背真主宗教的人，就是真主的敌人，即便他是自己的同胞，哪怕他是自己的兄弟、叔伯、父亲或其他人。所以，友谊与敌对都应为真主。\n至于祖国，如果它是伊斯兰的，就应当爱它，应当鼓励祖国向善，并保持其伊斯兰属性，努力维护其局势和人民的稳定，这是所有穆斯林应尽的义务。我们祈求真主赐予我们、你们以及全体穆斯林顺利、正道、良好的意念和行为。愿真主赐福我们的先知穆罕默德及其家属和同伴。⟦N1⟧"
+  },
+  {
+   "id": "n0.0",
+   "text": "《伊本·巴兹教长法特瓦与文章全集》（9/317）。"
+  }
+ ]
+}

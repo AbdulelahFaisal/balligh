@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2171",
+ "source_content_sha256": "sha256:0cafcad7c1adf2230fcfe39486b1f039778620ce66dca1223e19fa5b77a9605f",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:09:57.227079+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 922,
+  "completion_tokens": 967,
+  "total_tokens": 1889,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 666
+ },
+ "latency_ms": 7979,
+ "units": [
+  {
+   "id": "title",
+   "text": "Explication du hadith : « On m'a ordonné de combattre les gens... » ?"
+  },
+  {
+   "id": "q0",
+   "text": "Q : Un questionneur espère l'explication de ce hadith : Le Messager d'Allah ﷺ a dit : « On m'a ordonné de combattre les gens jusqu'à ce qu'ils attestent qu'il n'y a de divinité digne d'adoration qu'Allah et que Muhammad est le Messager d'Allah, qu'ils accomplissent la prière et s'acquittent de la zakah (aumône légale). S'ils le font, ils préservent de moi leur sang et leurs biens, sauf au titre du droit de l'Islam, et leur compte appartient à Allah. »"
+  },
+  {
+   "id": "a0",
+   "text": "R : Ce hadith est authentique, rapporté par les deux cheikhs Al-Boukhari et Mouslim dans les Deux Authentiques, d'après Ibn 'Omar, qu'Allah soit satisfait d'eux, qui a dit : « J'ai entendu le Messager d'Allah ﷺ dire : \"On m'a ordonné de combattre les gens jusqu'à ce que...\" » et le hadith continue. Ce hadith est à prendre au sens apparent. Celui qui prononce la double attestation alors qu'il ne l'avait pas prononcée auparavant, accomplit la prière et s'acquitte de la zakah, est considéré comme musulman ; son sang et ses biens sont inviolables, sauf au titre du droit de l'Islam, c'est-à-dire sauf ce que l'Islam exige de lui par la suite. Par exemple, s'il commet l'adultère, on lui applique la peine légale de l'adultère : s'il est célibataire, on le fouette et on l'exile ; s'il a déjà été marié, on le lapide, ce qui met fin à sa vie.\nDe même pour les autres prescriptions de l'Islam : on exige de celui qui s'est converti, a attesté cette attestation, accompli la prière et s'est acquitté de la zakah, qu'il respecte les droits de l'Islam. Son sang et ses biens sont protégés, à moins qu'il ne commette une chose qui annule son Islam ou qui rende obligatoire une peine légale.\nEt de même sa parole dans l'autre hadith, d'après Abou Hourayrah, qu'Allah soit satisfait de lui, qui rapporte du Prophète ﷺ qu'il a dit : « On m'a ordonné de combattre les gens jusqu'à ce qu'ils disent : \"Il n'y a de divinité digne d'adoration qu'Allah\". S'ils le disent, ils préservent de moi leur sang et leurs biens, sauf au titre de son droit, et leur compte appartient à Allah. » Ce hadith est semblable au premier : celui qui atteste l'unicité d'Allah et croit au message du Messager est entré dans l'Islam, puis on lui demande de respecter le droit de l'Islam. On lui demande alors d'accomplir la prière, de s'acquitter de la zakah, de jeûner, d'accomplir le Hajj, etc. S'il s'acquitte de ce qu'Allah lui a imposé, il est véritablement musulman. S'il s'abstient de quelque chose, on le prend au titre du droit d'Allah à ce sujet, on l'y contraint et on le rend obligatoire aux droits d'Allah qu'Il a imposés à Ses serviteurs. C'est ce qui incombe à quiconque entre dans la religion de l'Islam : qu'il se conforme aux droits de l'Islam ; s'il ne s'y conforme pas, on le prend au titre du droit de l'Islam⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmou' Fatawa wa Maqalat du Cheikh Ibn Baz (8/303)"
+  }
+ ]
+}

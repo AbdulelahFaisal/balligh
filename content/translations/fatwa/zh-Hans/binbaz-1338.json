@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1338",
+ "source_content_sha256": "sha256:e4f5fd143ad5ba76e7cd55ee60a7b371e6abf87139af73dc3a1922960919547f",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:55:53.330901+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 563,
+  "completion_tokens": 217,
+  "total_tokens": 780,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 307
+ },
+ "latency_ms": 2590,
+ "units": [
+  {
+   "id": "title",
+   "text": "无力履行誓愿的教法裁决"
+  },
+  {
+   "id": "q0",
+   "text": "问题："
+  },
+  {
+   "id": "q1",
+   "text": "我曾与同事们在一起，我以安拉发誓，如果我兄弟来了，我就宰一只羊。后来我兄弟来了，但当时我手头拮据，没钱买羊，我该怎么办？"
+  },
+  {
+   "id": "a0",
+   "text": "回答："
+  },
+  {
+   "id": "a1",
+   "text": "如果情况好转，你就宰一只羊；如果羊容易得到，你就宰它，以履行你的誓愿。你宰羊是为了穷人，把肉分给穷人；如果你没有举意（特定对象），你可以和你的家人吃。如果你有举意（给穷人），就把肉给穷人，你自己不要吃。"
+  }
+ ]
+}

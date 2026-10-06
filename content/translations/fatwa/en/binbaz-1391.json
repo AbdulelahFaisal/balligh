@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1391",
+ "source_content_sha256": "sha256:753186bcde8d774253b42e0747133d21d24a56db6c7c2fb21f114e8664723f23",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:57:32.176828+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1009,
+  "completion_tokens": 731,
+  "total_tokens": 1740,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 753
+ },
+ "latency_ms": 5000,
+ "units": [
+  {
+   "id": "title",
+   "text": "What should one say when seeing a dream that displeases him?"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "My mother saw in a dream that she and the whole family were in a house, and my deceased father – may Allah have mercy on him – came to them. She says: I was happy with him and said to him: Do not leave us, and in her mind he is alive in another place. She says that she touched him, and he said to her: Do not touch me, I am impure?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "This dream and similar ones are from the devils. The Prophet ﷺ said: “The good dream is from Allah, and the bad dream is from the devil. So if any of you sees what he dislikes, let him spit to his left three times, and seek refuge in Allah from the accursed devil and from what he saw three times, then let him turn to his other side; for it will not harm him, and let him not inform anyone of it.” One who sees that he is being killed, or that he is impure, or that urine is poured on him, or someone threatens to kill him, or strikes him, or that his private parts are exposed, or the like – all of this is from the devils. If he wakes up, let him spit to his left three times and say: “I seek refuge in Allah from the devil and from the evil of what I saw,” three times, then turn to his other side, and he should not inform anyone of it, and it will not harm him, Allah willing."
+  },
+  {
+   "id": "a2",
+   "text": "Question: What about saying: Allahu akbaru kabira, walhamdu lillahi kathira, wa subhanallahi wa bihamdihi bukratan wa asila?"
+  },
+  {
+   "id": "a3",
+   "text": "Answer: We have not heard this. What the Prophet ﷺ said was: “Let him seek refuge in Allah and spit to his left three times, and seek refuge in Allah from the devil and from the evil of what he saw three times, then turn to his other side.” If he likes to glorify Allah after that, then there is good in that."
+  },
+  {
+   "id": "a4",
+   "text": "The Sunnah when waking up is to say: “There is no god but Allah alone, with no partner; His is the dominion and His is the praise, and He is over all things competent. Glory be to Allah, and praise be to Allah, and there is no god but Allah, and Allah is greatest, and there is no might and no power except with Allah. Praise be to Allah who gave me life after He caused me to die, and to Him is the resurrection.” It is recommended to say this upon waking from sleep, generally at the end of the night and during the night, even if one did not see a dream. If one awakens from sleep, it is recommended for him to say this."
+  }
+ ]
+}

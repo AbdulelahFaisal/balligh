@@ -4,7 +4,9 @@
     "questionsDesc": "Sheikh Abdulaziz Ibn Baz answers people's questions.",
     "hadithDesc": "Hadith with their grade and published explanation.",
     "open": "Open",
-    "arabicOnly": "Arabic only"
+    "arabicOnly": "Arabic only",
+    "publishedArabic": "Published in Arabic",
+    "aiCoverage": "AI-assisted translation: {{n}} of {{total}}"
   },
   "list": {
     "resetSearch": "Clear search and show all"

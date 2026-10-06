@@ -1,0 +1,60 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1787",
+ "source_content_sha256": "sha256:eb9a78c98c9912a7f56c6dbcd00c34bcd241d9b45bdb64114922966b057a14b2",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:03:12.003114+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1039,
+  "completion_tokens": 781,
+  "total_tokens": 1820,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 783
+ },
+ "latency_ms": 6109,
+ "units": [
+  {
+   "id": "title",
+   "text": "Clarification of the cases in which it is permissible to delay prayers"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "What are the cases in which it is permissible to delay the prayer? And is it permissible for an individual to delay (attending) the congregational prayer because of food?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer: "
+  },
+  {
+   "id": "a1",
+   "text": "Delaying the prayer has causes during travel and residence. During residence, if there are causes for the people of the mosque—for example, heavy rain afflicts them, and they want to delay so that they can pray in the mosque, they delay because of the rain; or illness that befalls them, so they delay; or something similar; or to wait for the congregation of Isha. The Prophet (peace and blessings be upon him) would hasten it if they gathered, and delay it if they delayed—or for a funeral that is present so that prayer may be offered over it, lest the prayer over it be missed; or other similar legitimate excuses and legitimate purposes."
+  },
+  {
+   "id": "a2",
+   "text": "An individual has no right to delay; rather, he must hasten and hurry to the prayer with the congregation. It is not permissible for him to delay; rather, he must hasten and hurry to the congregational prayer, as the Prophet (peace and blessings be upon him) said: \"Whoever hears the call and does not come, there is no prayer for him except with an excuse.\""
+  },
+  {
+   "id": "a3",
+   "text": "Ibn Mas'ud (may Allah be pleased with him) said: \"I have seen us, and no one would stay away from it except a hypocrite whose hypocrisy was known. We seek refuge with Allah.\""
+  },
+  {
+   "id": "a4",
+   "text": "When the blind man sought his permission, saying: \"I have no guide to lead me to the mosque; is there a concession for me to pray in my house?\" He (the Prophet) said: \"Do you hear the call to prayer?\" He said: \"Yes.\" He said: \"Then respond.\" He did not grant a concession to the blind man who had no guide to accompany him; rather, he commanded him to attend the congregation and perform the prayer in congregation."
+  },
+  {
+   "id": "a5",
+   "text": "However, if the prayer is about to be established, or the time of prayer arrives while his food has been served or is present, he should start with it, because the Prophet (peace and blessings be upon him) said: \"There is no prayer when food is present.\" So if food is served, he starts with it even if he misses the congregation. But he should not make this a habit. If the time of prayer comes and he says, \"Give us food,\" no—this is not permissible. But if it happens that food is served, and then the muezzin calls the adhan, he starts with the food that has been served. As for making it a habit, this means he intends thereby to abandon the congregation, and this is not permissible; it is among the deeds of the hypocrites. But whenever it happens that food is served, or the adhan is called while food is being served, he starts with it."
+  }
+ ]
+}

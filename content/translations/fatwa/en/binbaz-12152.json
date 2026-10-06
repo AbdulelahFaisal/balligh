@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-12152",
+ "source_content_sha256": "sha256:da378185751cf0b26bc47024608cacc2ef970f6562bffb5c7dab2da9e7e76e89",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:52:25.940279+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1179,
+  "completion_tokens": 917,
+  "total_tokens": 2096,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 923
+ },
+ "latency_ms": 7450,
+ "units": [
+  {
+   "id": "title",
+   "text": "The Categories of Tawhid and How They Are Included in the Two Testimonies"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "This is actually a question about creed from the questioner from Libya, (T. A. A.) Benghazi, who says: Your Eminence, Shaykh! What are the categories of tawhid? Is a Muslim required to believe in all these categories? And if a Muslim only affirms the two testimonies of faith, is that sufficient?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "The categories of tawhid are three, known through induction. They are: belief in tawhid al-rububiyyah (oneness of lordship), tawhid al-uluhiyyah (oneness of divinity), and tawhid al-asma' wa al-sifat (oneness of the names and attributes). If one testifies that there is no god but Allah and that Muhammad is the Messenger of Allah with sincerity, that suffices, and whatever he is ignorant of will be explained to him. The Prophet ﷺ accepted from people whoever testified that there is no god but Allah and that Muhammad is the Messenger of Allah, and whose actions confirmed his words, submitting to the Shari'ah and affirming the oneness of Allah, Mighty and Majestic—then he is a Muslim. Because within the testimony of faith is belief that Allah is his Lord and Creator, belief that He alone deserves worship, and belief in His names and attributes. For the testimony that there is no god but Allah and that He is the One truly worthy of worship includes tawhid al-rububiyyah and tawhid al-asma' wa al-sifat. For He, glorified be He, is the true God, and whoever is of this standing is the Lord of all and Creator of all, perfect in His essence, names, attributes, and actions. Tawhid al-rububiyyah is belief that He is the Creator, the Provider. Tawhid al-uluhiyyah is belief that He, Mighty and Majestic, deserves worship, and that the gods invoked besides Him are false, whether they are inanimate or animate, whether the invoked is an angel, a prophet, or anything else. Everyone invoked besides Allah—his worship is false. ⟦Q1⟧ [al-Hajj:62]. So whoever is invoked besides Allah is worshipped in falsehood, whether the worshipped is a messenger, an angel, a jinn, a stone, a tree, or anything else. Likewise, belief in Allah's names and attributes: if one believes that Allah, glorified be He, has the most beautiful names and the most exalted attributes, and that He is perfect in His essence, attributes, and actions, that suffices. Tawhid al-asma' wa al-sifat is belief that He, glorified be He, is described with the most beautiful names and the most exalted attributes, and that there is none similar to Him, none comparable, none equal. Belief in rububiyyah is that He is the Creator, the Provider, the Disposer of affairs, the Controller of all things; there is no creator besides Him and no Lord other than Him. Tawhid al-uluhiyyah means belief that He deserves to be worshipped—belief that He deserves to be worshipped, called upon, sought for help, vowed to, sacrificed to, and so on. He deserves worship through prayer, fasting, supplication, sacrifice, and other acts; none other deserves it."
+  },
+  {
+   "id": "a2",
+   "text": "So if one affirms the two testimonies of faith, all this is included within his testimony. For if he testifies that there is no god but Allah, it means that He is the One truly worshipped, the Creator, the Provider, perfect in His essence, names, and attributes. All of this is included within the testimony. Yes.\nThe presenter: May Allah reward you well, Your Eminence, Shaykh."
+  }
+ ]
+}

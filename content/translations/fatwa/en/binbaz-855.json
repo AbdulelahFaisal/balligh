@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-855",
+ "source_content_sha256": "sha256:3b9a416061780103260d93a443694faa030fa741b19c0a874e43cc150360e756",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:24:15.809297+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 627,
+  "completion_tokens": 329,
+  "total_tokens": 956,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 371
+ },
+ "latency_ms": 3458,
+ "units": [
+  {
+   "id": "title",
+   "text": "From what did Allah create the angels and Iblis?"
+  },
+  {
+   "id": "q0",
+   "text": "Q: Allah created Adam from clay, and before him He created the angels. Iblis was among the angels, and He created him from fire. Why did He create him from fire? And from what did Allah create the angels?"
+  },
+  {
+   "id": "a0",
+   "text": "A: It is established from the Messenger of Allah ﷺ in the hadith of 'A'ishah (may Allah be pleased with her) that she said: \"The angels were created from light, the jinn were created from a smokeless flame of fire, and Adam was created from what has been described to you (i.e., from clay).\" Muslim recorded it in his Sahih. As for the wisdom behind that, Allah, Glorified and Exalted, knows best. He is the All-Wise, the All-Knowing in everything He creates and legislates. There is no one to overturn His judgment or repel His decree. And He is over all things capable⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Published in the Arab Magazine in the section \"Ask the People of Remembrance\". (Majmu' Fatawa wa Maqalat al-Shaykh Ibn Baz: 4/154)."
+  }
+ ]
+}

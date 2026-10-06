@@ -219,6 +219,8 @@ export interface ListItem {
   topic: string;
   reference: string | null;
   translated_title: string | null;
+  /** Fatwa lists only: the translated title comes from an AI-assisted translation. */
+  machine_translated?: boolean;
 }
 
 export interface ListPage {
@@ -321,6 +323,8 @@ export interface Detail<R, T> {
   dir?: string;
   available_locales?: string[];
   machine_translation?: MachineTranslation | null;
+  /** Fatwas only: locales that have a valid AI-assisted translation. */
+  machine_locales?: string[];
 }
 
 export const isTopic = (x: unknown): x is Topic => typeof x === "string" && (TOPICS as readonly string[]).includes(x);

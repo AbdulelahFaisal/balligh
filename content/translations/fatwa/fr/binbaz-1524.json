@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1524",
+ "source_content_sha256": "sha256:20a246518aef28cb510184487b4aa61b073497654a1e76f4bc24c715c5266069",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:58:26.753720+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 738,
+  "completion_tokens": 508,
+  "total_tokens": 1246,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 482
+ },
+ "latency_ms": 4192,
+ "units": [
+  {
+   "id": "title",
+   "text": "Clarification que les visions détestables proviennent du diable"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "J'ai rêvé et j'ai vu que je fumais, moi et mon frère, alors que nous ne fumons pas. Cette vision s'est produite trois nuits et s'est répétée. Éclairez-moi, que Dieu vous récompense ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Lorsqu'une personne voit ce qu'elle déteste, cela provient du diable. Ainsi, rêver qu'il fume, qu'il boit de l'alcool, qu'il commet la fornication, qu'il a des rapports avec sa mère, avec sa sœur, qu'il commet la sodomie, ou des choses semblables, voir ces visions détestables, cela provient du diable. Le Prophète ﷺ a dit : « La vision pieuse provient d'Allah, et le rêve provient du diable. Si l'un de vous voit ce qu'il déteste, qu'il crache légèrement à sa gauche trois fois, qu'il cherche refuge auprès d'Allah contre le diable et contre le mal de ce qu'il a vu, trois fois, puis qu'il se tourne de l'autre côté, car cela ne lui nuira pas. »"
+  },
+  {
+   "id": "a2",
+   "text": "Le conseil pour toi, ô frère, et pour ceux qui comme toi voient ce qu'ils détestent : lorsqu'il se réveille, qu'il crache légèrement à sa gauche trois fois, qu'il cherche refuge auprès d'Allah contre le diable et contre le mal de ce qu'il a vu trois fois, puis qu'il se tourne de l'autre côté, car cela ne lui nuira pas, et qu'il n'en parle à personne. Telle est la Sunna. Qu'Allah accorde la réussite à tous."
+  }
+ ]
+}

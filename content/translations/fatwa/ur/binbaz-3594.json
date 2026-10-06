@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3594",
+ "source_content_sha256": "sha256:389949e56a09c4ceedb296c2c31afc48f5533d37d22b88564df43c034255ac99",
+ "locale": "ur",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:16:40.923054+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 591,
+  "completion_tokens": 369,
+  "total_tokens": 960,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 335
+ },
+ "latency_ms": 3680,
+ "units": [
+  {
+   "id": "title",
+   "text": "کیا ہر وضو کے لیے استنجا کرنا ضروری ہے؟"
+  },
+  {
+   "id": "q0",
+   "text": "کیا ہر وضو کے لیے استنجا کرنا ضروری ہے؟"
+  },
+  {
+   "id": "a0",
+   "text": "ہر وضو کے لیے استنجا ضروری نہیں، بلکہ استنجا صرف پیشاب، پاخانہ یا اس جیسی چیزوں سے فراغت کے بعد واجب ہے۔ باقی وضو توڑنے والی چیزوں جیسے ہوا خارج ہونا، شرمگاہ چھونا، اونٹ کا گوشت کھانا اور نیند سے استنجا مشروع نہیں، بلکہ شرعی وضو ہی کافی ہے جو یہ ہے: چہرہ دھونا، جس میں کلی کرنا اور ناک میں پانی ڈالنا شامل ہے، دونوں ہاتھ کہنیوں سمیت دھونا، سر اور دونوں کانوں کا مسح کرنا، اور دونوں پاؤں ٹخنوں سمیت دھونا، جیسا کہ اللہ عز وجل کے فرمان میں ہے: ⟦Q1⟧ [المائدہ: 6]⟦N2⟧۔"
+  },
+  {
+   "id": "n0.0",
+   "text": "مجموع فتاوى ومقالات الشيخ ابن باز (10/ 33)۔"
+  }
+ ]
+}

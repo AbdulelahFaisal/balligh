@@ -61,5 +61,6 @@
   "continue": "পরবর্তী পাঠ চালিয়ে যান",
   "continueStage": "চালিয়ে যান: ধাপ {{n}}",
   "backToStage": "ধাপ {{n}}-এ ফিরে যান",
-  "position": "ধাপ {{n}} · পাঠ {{i}} / {{total}}"
+  "position": "ধাপ {{n}} · পাঠ {{i}} / {{total}}",
+  "aiLanguages": "এআই-সহায়িত অনুবাদ: {{languages}}"
 }

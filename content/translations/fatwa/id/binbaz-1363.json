@@ -1,0 +1,68 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1363",
+ "source_content_sha256": "sha256:f6f58ed065c43adeb2352772417425e6574d1a530e7763fc34d4d8bc95feace1",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:56:58.658603+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1370,
+  "completion_tokens": 1313,
+  "total_tokens": 2683,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 1114
+ },
+ "latency_ms": 11166,
+ "units": [
+  {
+   "id": "title",
+   "text": "Hukum menaati orang tua jika dia memerintahkan anaknya untuk tidak mengunjungi salah satu kerabatnya"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Ayahku memerintahkanku untuk tidak menyambung silaturahmi dengan pamanku dari pihak ibu (khal); karena ada kesalahpahaman di antara mereka demi urusan duniawi. Dia berkata: \"Jika kamu mengunjungi pamanmu, aku akan mengusirmu dari rumahku, atau aku akan memboikotmu sebagaimana aku memboikotnya.\" Apa yang harus aku lakukan?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Jika ayahmu memerintahkanmu untuk memboikot pamanmu dari pihak ibu, atau pamanmu dari pihak ayah, atau semacamnya tanpa alasan yang benar, tetapi hanya karena kesalahpahaman antara ayahmu dan pamanmu, atau saudaranya, atau semacamnya karena urusan dunia dan perselisihan, maka kamu tidak boleh menaati ayahmu; karena itu adalah maksiat. Ketaatan hanya dalam hal yang ma'ruf, tidak ada ketaatan kepada makhluk dalam bermaksiat kepada Sang Pencipta."
+  },
+  {
+   "id": "a2",
+   "text": "Dan ayahmu juga harus bertakwa kepada Allah, dan tidak memboikotnya lebih dari tiga hari. Nabi ﷺ melarang pemboikotan lebih dari tiga hari dalam urusan dunia. Tidak halal bagi seorang muslim memboikot saudaranya lebih dari tiga hari; mereka bertemu, lalu yang ini berpaling dan yang itu berpaling, padahal yang terbaik di antara keduanya adalah yang memulai salam. Beliau bersabda: \"Tidak ada pemboikotan lebih dari tiga hari.\""
+  },
+  {
+   "id": "a3",
+   "text": "Maksudnya: pemboikotan karena dendam, permusuhan, dan perselisihan tidak boleh sama sekali. Namun dibolehkan tiga hari, dibolehkan pemboikotan dalam perselisihan selama tiga hari atau kurang. Jika antara kamu dan dia ada perselisihan, dan dia bersikap buruk terhadapmu, dan ada sesuatu dalam hati, maka tidak mengapa memboikotnya tiga hari; itu rahmat dari Allah; karena jiwa manusia memiliki hak untuk diperhatikan, dilembuti, dan dikasihi. Pemboikotan tiga hari cukup untuk meredakan ketegangan dan menghilangkan kekerasan. Jika telah lewat tiga hari, maka yang terbaik di antara keduanya adalah yang memulai salam."
+  },
+  {
+   "id": "a4",
+   "text": "Dan kamu, wahai anak, jika ayahmu menolak, maka kamu boleh menyambung silaturahmi dengan pamanmu dari pihak ibu dan pamanmu dari pihak ayah, meskipun secara sembunyi-sembunyi. Kamu boleh menyambung, berbuat baik kepada mereka, dan mengunjungi mereka meskipun dengan cara sembunyi-sembunyi, agar keadaan tidak bertambah buruk antara kamu dan ayahmu. Jangan menaatinya dalam maksiat, tetapi perlakukan dia dengan cara yang lebih baik, dan berusahalah agar silaturahmi dan kebaikanmu kepada pamanmu dari pihak ibu dan pamanmu dari pihak ayah dilakukan dengan cara yang tidak diketahui, jika kamu khawatir akan terjadi keburukan yang lebih besar."
+  },
+  {
+   "id": "a5",
+   "text": "Adapun jika kamu mampu meredakan situasi, menasihati ayahmu, dan berkata kepadanya: \"Ini tidak boleh, dan kamu harus bersikap lembut kepada saudaramu atau pamanmu,\" maka nasihatilah dia, semoga dia mendapat petunjuk, sehingga dia berdamai dengan pamanmu dari pihak ibu atau pamanmu dari pihak ayah, dan hilanglah kerenggangan di antara mereka."
+  },
+  {
+   "id": "a6",
+   "text": "Adapun jika pemboikotan itu karena agama, karena orang tersebut terang-terangan melakukan maksiat dan bid'ah, maka dia diboikot sampai bertaubat, meskipun satu tahun atau dua tahun, atau lebih. Dia diboikot sampai bertaubat. Nabi ﷺ pernah memboikot tiga orang yang tidak ikut perang tanpa uzur; beliau memboikot mereka selama lima puluh malam sampai Allah menerima taubat mereka, lalu mereka bertaubat, dan beliau memberitahukan kepada manusia bahwa Allah telah menerima taubat mereka, kemudian orang-orang berbicara dengan mereka setelah itu."
+  },
+  {
+   "id": "a7",
+   "text": "Kesimpulannya: pemboikotan jika karena Allah karena maksiat yang terang-terangan atau bid'ah, maka tidak ada batasnya kecuali taubat. Jika mereka kembali dari maksiat yang terang-terangan dan bid'ah mereka, maka kaum muslimin mengucapkan salam kepada mereka. Adapun jika mereka tetap dalam bid'ah dan maksiat, maka disyariatkan untuk memboikot mereka, semoga mereka bertaubat dan kembali. Namun jika memboikot mereka dapat membahayakan kaum muslimin atau menyebabkan masalah yang lebih besar, maka jangan diboikot, tetapi nasihati dan arahkan mereka. Jika pemboikotan itu membahayakan masyarakat atau mengakibatkan kerusakan atau kemungkaran yang lebih besar, maka pemboikotan di sini adalah masalah ijtihad dan pertimbangan."
+  }
+ ]
+}

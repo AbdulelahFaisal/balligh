@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-6",
+ "source_content_sha256": "sha256:c9d37b4a1ec0322fd006d7c656231c520fd43f347c4645caa77aa1d0f42a132c",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:22:20.814349+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 621,
+  "completion_tokens": 378,
+  "total_tokens": 999,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 365
+ },
+ "latency_ms": 3597,
+ "units": [
+  {
+   "id": "title",
+   "text": "Jalan untuk mengenal tauhid secara keyakinan, perilaku, dan amalan"
+  },
+  {
+   "id": "q0",
+   "text": "Tanya: Penanya berkata: Semoga Allah membalas Anda dengan kebaikan atas ceramah Anda yang memadai, dan semoga Allah menjadikannya dalam timbangan amal-amal Anda. Pertanyaan saya adalah: Bagaimana jalan untuk mengenal hakikat tauhid secara keyakinan, perilaku, dan amalan?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawab: Jalan, dengan memuji Allah, mudah. Maka setiap mukmin hendaknya mengintrospeksi dirinya, melazimkan dirinya kepada kebenaran, dan meneladani orang-orang yang menerapkan nash-nash pada diri mereka. Maka ia istiqamah di atas tauhid Allah dan ikhlas kepada-Nya, melazimkan diri untuk mengamalkannya, serta berdakwah kepadanya, hingga ia teguh di atasnya, dan menjadi tabiatnya; setelah itu tidak akan membahayakannya orang yang ingin menghalanginya dari hal ini atau membuat samar atasnya.\nYang penting ia memperhatikan perkara ini, mengintrospeksi dirinya, dan mengenalnya dengan baik agar perkara-perkara tidak menjadi samar baginya, dan agar syubhat-syubhat tidak laku padanya⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu' Fatawa Ibnu Baz (1/49)."
+  }
+ ]
+}

@@ -50,7 +50,7 @@
     "prepareBody": "Untuk guru: pilih sumber terdaftar, tinjau draf terhadap sumbernya, lalu pratinjau dan unduh.",
     "prepareCta": "Siapkan pelajaran"
   },
-  "coverage": "Antarmuka tersedia dalam 7 bahasa; cakupan konten berbeda: tanya jawab adalah catatan terbitan berbahasa Arab saja, terjemahan hadis berbeda per catatan, dan makna Al-Qur'an berasal dari enam edisi terbitan yang disebutkan namanya.",
+  "coverage": "Antarmuka tersedia dalam 7 bahasa; cakupan konten berbeda: tanya jawab diterbitkan dalam bahasa Arab dengan terjemahan dibantu AI jika tersedia, terjemahan hadis berbeda per catatan, dan makna Al-Qur'an berasal dari enam edisi terbitan yang disebutkan namanya.",
   "kinds": "Terjemahan terbitan berasal dari penerbit yang disebutkan. Draf AI adalah teks hasil generasi yang belum ditinjau. Pengakuan lokal hanya mencatat bahwa penyusun di perangkat ini membandingkan draf dengan sumbernya.",
   "page": {
     "title": "Mulai belajar",

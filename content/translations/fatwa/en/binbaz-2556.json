@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2556",
+ "source_content_sha256": "sha256:10a5decf315275f31857963b7b0259c5d05e7d35c0ea27750f1e7c34f02bac8f",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:12:29.436403+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 840,
+  "completion_tokens": 555,
+  "total_tokens": 1395,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 584
+ },
+ "latency_ms": 4664,
+ "units": [
+  {
+   "id": "title",
+   "text": "Error in the interpretation of the phrase: La ilaha illa Allah"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "If a preacher, explaining La ilaha illa Allah, says: there is no creator but Allah, no provider, and no disposer of affairs but Allah, and that creation and command belong to Allah, and by this none is worshipped but Allah; and he does not touch upon the negation of other than Allah, the negation of shirk, and the warning against it, is this sufficient? And what is the complete meaning in brief?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "This is a mistake, for 'there is no creator but Allah, and no provider but Allah' is what Abu Jahl said, and what the earlier disbelievers and polytheists said. They say: there is no creator but Allah ⟦Q1⟧ [Az-Zukhruf: 87] ⟦Q2⟧ [Az-Zumar: 38]. They acknowledge this, but when it is said to them: say La ilaha illa Allah, they say no: ⟦Q3⟧ [As-Saffat: 35] and they say: ⟦Q4⟧ [Sad: 5]."
+  },
+  {
+   "id": "a2",
+   "text": "Thus, it is necessary to explain the meaning of La ilaha illa Allah, and that its meaning is: there is no true deity worthy of worship except Allah, and that none is to be supplicated except Allah, no help is sought except from Allah, no vows are made except to Allah, no sacrifices are offered except for Allah. He should explain this meaning, along with the fact that there is no creator but Allah, and no provider but Allah, together with this and this. There is no creator but Allah, and no provider but Allah, but with this, He is the true deity, the one who must be worshipped through prayer, fasting, vows, sacrifice, desire, awe, fear, hope, and other acts of worship. Whoever directs any of these to other than Allah—whether to a star, an angel, a dead person, or an idol—becomes a worshipper of that thing and has associated it with Allah, glorified and exalted be He."
+  }
+ ]
+}

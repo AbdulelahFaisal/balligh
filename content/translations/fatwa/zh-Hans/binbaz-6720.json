@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-6720",
+ "source_content_sha256": "sha256:7e90c2504fd942523be1f61a36674b10a522ae9da1a0255e8bcf67ce41819778",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:22:29.056202+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 506,
+  "completion_tokens": 180,
+  "total_tokens": 686,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 250
+ },
+ "latency_ms": 1921,
+ "units": [
+  {
+   "id": "title",
+   "text": "信士中受赞美的力量是什么？"
+  },
+  {
+   "id": "q0",
+   "text": "问题："
+  },
+  {
+   "id": "q1",
+   "text": "谁说过强壮的信士中的力量属于身体的力量？"
+  },
+  {
+   "id": "a0",
+   "text": "回答："
+  },
+  {
+   "id": "a1",
+   "text": "不，不是身体，身体算什么呢？！力量是行动的力量，即使他比大象还强壮，但不命人行善、止人作恶，那他不被称为强壮者，而被称为软弱者。\n（《布鲁格·马拉姆》讲解课程，综合书）"
+  }
+ ]
+}

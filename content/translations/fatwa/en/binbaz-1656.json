@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1656",
+ "source_content_sha256": "sha256:9d9b89cbcb6d72251cd30e65dc904e9b7fd35d706486bce97aca2c49cfd9f76d",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:02:25.440300+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 816,
+  "completion_tokens": 544,
+  "total_tokens": 1360,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 560
+ },
+ "latency_ms": 4639,
+ "units": [
+  {
+   "id": "title",
+   "text": "Differences in the meanings of iman, tawhid, and aqidah"
+  },
+  {
+   "id": "q0",
+   "text": "Q: Iman (faith), tawhid (monotheism), and aqidah (creed) are names for certain concepts. Do they differ in their meanings?"
+  },
+  {
+   "id": "a0",
+   "text": "A: Yes, they differ somewhat, but they all go back to one thing. Tawhid is singling out Allah for worship, and iman is belief that He is deserving of worship, and belief in everything that He, glorified be He, has informed of. So iman is broader than the word tawhid, which is the verbal noun of wahhada, yuwahhidu, meaning he singled out Allah for worship and devoted it to Him alone, because of his belief that He, glorified be He, is the One who deserves it, because He is the Creator, because He is the Provider, because He is perfect in His names, attributes, and actions, and because He is the One who manages and disposes of affairs. So He is the One deserving of worship. Tawhid is singling Him out for worship and negating it from anything other than Him. Iman is broader than that: it includes tawhid of Him and sincerity to Him, and it includes believing Him in everything His Messenger, peace and blessings be upon him, has informed of. Aqidah encompasses both matters: aqidah includes tawhid, includes iman in Allah and in what He, glorified be He, or His Messenger ﷺ has informed of, and iman in His names and attributes.\nAqidah is what a person believes in his heart and considers a creed by which he practices religion to Allah and worships Him. It includes everything he believes of tawhid of Allah, belief that He is the Creator, the Provider, that to Him belong the most beautiful names and the highest attributes, belief that none besides Him is fit for worship, belief that He forbade such and such, obligated such and such, legislated such and such, and prohibited such and such. So it is more comprehensive⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu' Fatawa wa Maqalat al-Shaykh Ibn Baz (6/277)."
+  }
+ ]
+}

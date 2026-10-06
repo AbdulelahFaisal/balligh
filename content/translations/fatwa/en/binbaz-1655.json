@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1655",
+ "source_content_sha256": "sha256:da7a07a2630be739fba0d3b2411d80317b5a29ed276ac3cad5c521b11a4aa49b",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:01:40.597092+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1592,
+  "completion_tokens": 1453,
+  "total_tokens": 3045,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 1336
+ },
+ "latency_ms": 11042,
+ "units": [
+  {
+   "id": "title",
+   "text": "Dividing Tawhid into three categories"
+  },
+  {
+   "id": "q0",
+   "text": "Q: A question concerning the division of Tawhid into three categories, and is there evidence for that?"
+  },
+  {
+   "id": "a0",
+   "text": "A: This is taken from induction, because when the scholars inductively examined what the texts from the Book of Allah and the Sunnah of His Messenger brought, this became clear to them, and some of them added a fourth type, which is Tawhid al-Mutaba'ah (unity of following the Prophet), and all of this is by induction.\nThere is no doubt that whoever ponders the Noble Quran will find in it verses commanding sincerity of worship to Allah alone, and this is Tawhid al-Uluhiyyah (unity of divinity), and will find verses indicating that Allah is the Creator, the Provider, and the Disposer of affairs, and this is Tawhid al-Rububiyyah (unity of lordship), which the polytheists acknowledged but it did not admit them into Islam, and will also find other verses indicating that to Him belong the Most Beautiful Names and the Lofty Attributes, and that there is none like Him or equal to Him, and this is Tawhid al-Asma' wa al-Sifat (unity of Allah's names and attributes), which the innovators from the Jahmiyyah, Mu'tazilah, Mushabbihah, and those who follow their path denied.\nAnd he will find verses indicating the obligation of following the Messenger ﷺ and rejecting what contradicts his Shari'ah, and this is Tawhid al-Mutaba'ah. So this division is known by induction, tracing the verses, and studying the Sunnah. Among that is the saying of Allah, Glorified be He: ⟦Q1⟧ [Al-Fatihah:5], and His saying, Mighty and Majestic: ⟦Q2⟧ [Al-Baqarah:21], and His saying, Mighty and Majestic: ⟦Q3⟧ [Al-Baqarah:163], and His saying, Glorified be He: ⟦Q4⟧ [Aal 'Imran:18], and His saying, Glorified be He: ⟦Q5⟧ [Adh-Dhariyat:56-58], and His saying, Glorified be He: ⟦Q6⟧ [Al-A'raf:54], and His saying, Glorified be He: ⟦Q7⟧ [Yunus:31], and He, Glorified be He, said: ⟦Q8⟧ [Ash-Shura:11], and He, Mighty and Majestic, said: ⟦Q9⟧ [Al-Ikhlas:1-4], and He, Glorified be He, said: ⟦Q10⟧ [Aal 'Imran:31], and He, Glorified be He, said: ⟦Q11⟧ [An-Nur:54], and the verses concerning what has been mentioned of the division are many.\nAmong the hadiths: the saying of the Prophet ﷺ in the hadith of Mu'adh, may Allah be pleased with him, agreed upon as authentic: \"The right of Allah upon the servants is that they worship Him and do not associate anything with Him,\" and his saying ﷺ: \"Whoever dies while calling upon a rival to Allah will enter the Fire,\" narrated by Al-Bukhari in his Sahih, and his saying ﷺ to Jibril when he asked him about Islam: \"That you worship Allah and do not associate anything with Him, establish the prescribed prayer, and give the obligatory zakah,\" the hadith, agreed upon, and his saying ﷺ: \"Whoever obeys me has obeyed Allah, and whoever disobeys me has disobeyed Allah,\" agreed upon as authentic, and his saying ﷺ: \"All of my Ummah will enter Paradise except those who refuse.\" It was said: O Messenger of Allah, and who refuses? He said: \"Whoever obeys me will enter Paradise, and whoever disobeys me has refused,\" narrated by Al-Bukhari in his Sahih, and the hadiths on this topic are many.\nShaykh al-Islam Ibn Taymiyyah, may Allah have mercy on him, said: \"The god (ilah) is the one who is worshipped and obeyed, for the god is the ma'luh (the one who is worshipped), and the ma'luh is the one who deserves to be worshipped, and his deserving to be worshipped is due to the attributes he is characterized by which necessitate that he is the beloved with the utmost love, the one to whom submission is made with the utmost submission.\"\nAnd he said: \"For the god is the beloved, the worshipped one, whom hearts deify with their love, submit to, humble themselves to, fear, hope in, turn to in their hardships, call upon in their important matters, rely upon in their interests, seek refuge with, find tranquility in His remembrance, and rest in His love, and that is not for anyone but Allah alone. Therefore, 'La ilaha illa Allah' (there is no god but Allah) is the truest speech, and its people are the people of Allah and His party, and those who deny it are His enemies and the people of His wrath and vengeance. If it is sound, then every issue, state, and taste is sound through it, and if the servant does not make it sound, then corruption is inevitable for him in his knowledge and deeds.\" ⟦N12⟧\nAnd we ask Allah to grant all Muslims, rulers and ruled, success in understanding His religion, steadfastness upon it, sincerity to Allah and His servants, and caution against what contradicts that. Indeed, He is the Guardian of that and the One capable over it. May Allah send blessings and peace upon our Prophet Muhammad and upon his family and all his Companions. ⟦N13⟧"
+  },
+  {
+   "id": "n0.0",
+   "text": "Fath al-Majid Sharh Kitab al-Tawhid, Bab Fadl al-Tawhid wa ma Yukaffiru min al-Dhunub, p. (33), printed and published by the General Presidency for the Departments of Scholarly Research, Ifta', Da'wah, and Guidance – 1403 AH edition]"
+  },
+  {
+   "id": "n1.0",
+   "text": "(Majmu' Fatawa wa Maqalat al-Shaykh Ibn Baz 6/277)."
+  }
+ ]
+}

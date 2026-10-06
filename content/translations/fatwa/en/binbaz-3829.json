@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3829",
+ "source_content_sha256": "sha256:4dc641497f5e5270d83bef2e3b2a9ced79e4e5215d6b308fe38e4bb5b85c174d",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:18:29.142260+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1067,
+  "completion_tokens": 829,
+  "total_tokens": 1896,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 811
+ },
+ "latency_ms": 6018,
+ "units": [
+  {
+   "id": "title",
+   "text": "How does a sick person perform tayammum?"
+  },
+  {
+   "id": "q0",
+   "text": "Q: Brother A. S. A. from Al-Madinah Al-Munawwarah says in his question: I am sick and cannot perform ablution by myself, and I do not have anyone to help me. Should I perform tayammum? Knowing that the hospital cleans the walls, floors, and bedding daily, so how do I perform tayammum given what I have mentioned?"
+  },
+  {
+   "id": "a0",
+   "text": "A: If the sick person does not have anyone to perform ablution for him, and he cannot perform ablution by himself, then he performs tayammum; because of the words of the Glorified: ⟦Q1⟧ the verse [Al-Ma'idah: 6].\nAnd the one unable to use water or perform tayammum is excused, and he must pray at the proper time without ablution or tayammum; because of the words of the Glorified: ⟦Q2⟧ [At-Taghabun: 16] and the saying of the Prophet ﷺ: \"Whatever I have forbidden you, avoid it, and whatever I have commanded you, do as much of it as you are able.\"\nSome of the Companions, may Allah be pleased with them, prayed during some of the travels of the Prophet ﷺ without ablution or tayammum, and the Prophet, peace and blessings be upon him, did not object to that. That was during the journey in which the necklace of 'A'ishah, may Allah be pleased with her, was lost, and some of the Companions, may Allah be pleased with them, went to look for it by the order of the Prophet ﷺ, but they did not find it. The time for prayer came, so they prayed without ablution or tayammum. Tayammum had not yet been legislated at that time, and they had no water. Then it was legislated because of this incident.\nThis is what is obligatory: if the sick person is unable to use water and does not have someone to perform ablution for him, then he must perform tayammum if he finds clean dust on the ground or in a container or vessel from which to perform tayammum, and that suffices for ablution.\nIt is not permissible to be lax in this matter. Rather, all hospitals must pay attention to this, and the sick person, before ablution or tayammum, must clean himself after defecation or urination with water or with stones (istijmar). Water is not exclusively required; rather, it suffices for him to clean himself with pure tissues or the like, such as stones, dust, bricks, or similar things, until he removes the impurity. It is obligatory that this not be less than three wipes. If cleanliness is not achieved with that, then more is obligatory until cleanliness is achieved; because of the saying of the Prophet ﷺ: \"Whoever performs istijmar, let him use an odd number,\" and because it is established from him ﷺ that he forbade cleaning oneself with less than three stones, and he forbade cleaning oneself with bones and dung, and he said: \"They do not purify.\" And Allah is the Grantor of success.⟦N3⟧"
+  },
+  {
+   "id": "n0.0",
+   "text": "Published in Al-Majallah Al-'Arabiyyah, issue (192), for the month of Muharram, 1414 AH. (Majmu' Fatawa wa Maqalat Ash-Shaykh Ibn Baz 10/194)."
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2190",
+ "source_content_sha256": "sha256:1516421fd1d73f1977e5d25dadb4ca35b9361a7638712f8c3a91fa98e94fc797",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:10:29.813895+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1754,
+  "completion_tokens": 1771,
+  "total_tokens": 3525,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 1498
+ },
+ "latency_ms": 13682,
+ "units": [
+  {
+   "id": "title",
+   "text": "Penjelasan Jenis-jenis Tauhid dan Perbedaan Antarnya"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Kami sering mendengar di radio tentang tauhid rububiyah dan tauhid uluhiyah. Apa perbedaan antara keduanya?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Tauhid Rububiyah adalah beriman kepada Allah dengan sifat-sifat perbuatan-Nya, seperti Maha Pencipta, Maha Pemberi rezeki, Maha Pengatur urusan, dan yang mengaturnya, dan semacamnya. Dan bahwa kehendak-Nya pasti berlaku, dan kekuasaan-Nya sempurna. Inilah yang diakui oleh orang-orang musyrik. Orang-orang musyrik mengakui bahwa Allah adalah pencipta mereka, pemberi rezeki mereka, dan pengatur urusan mereka, dan bahwa Dia pencipta langit-langit dan pencipta bumi. Itulah tauhid Allah dengan perbuatan-perbuatan-Nya. Ini adalah tauhid rububiyah, yaitu engkau beriman bahwa Allah adalah Maha Pencipta, Maha Pemberi rezeki, Maha Pengatur urusan, yang mengatur segala sesuatu, yang menciptakan segala sesuatu, mengatur urusan dan mengaturnya, menciptakan sungai-sungai, lautan, gunung-gunung, pepohonan, langit, bumi, dan selainnya. Ini adalah tauhid rububiyah."
+  },
+  {
+   "id": "a2",
+   "text": "Adapun tauhid uluhiyah adalah mentauhidkan Allah dengan perbuatan-perbuatanmu sendiri, engkau mengkhususkan ibadah hanya kepada-Nya tanpa segala sesuatu selain-Nya, berupa shalat, puasa, doa, nazar, zakat, haji, dan lainnya."
+  },
+  {
+   "id": "a3",
+   "text": "Tauhid uluhiyah adalah makna Laa ilaaha illallah, yaitu tidak ada yang berhak disembah kecuali Allah. Yaitu engkau mengkhususkan Tuhanmu dengan perbuatan-perbuatanmu, ibadah-ibadahmu, pendekatan dirimu. Janganlah engkau berdoa kepada tuhan lain bersama Allah, jangan menyembah selain-Nya, baik pohon, batu, berhala, nabi, atau wali. Maka janganlah engkau berdoa kepada selain Allah. Jangan katakan: Wahai Sayyid al-Badawi, sembuhkan aku, atau wahai Rasulullah, sembuhkan aku, atau berikan aku keselamatan, atau tolong aku, atau wahai fulan, atau wahai fulan dari para wali atau bukan dari para wali, dari orang-orang mati, atau dari pepohonan, batu-batuan, dan berhala-berhala. Ini adalah syirik besar."
+  },
+  {
+   "id": "a4",
+   "text": "Maka tauhid ibadah maknanya: engkau mengkhususkan ibadah hanya untuk Allah semata. Dan disebut juga tauhid ilahiyah. Ilahiyah artinya ibadah. Maknanya: Allah saja yang diibadahi tanpa segala sesuatu selain-Nya. Dan inilah makna firman-Nya Subhanahu: ⟦Q1⟧ [Al-Bayyinah: 5]."
+  },
+  {
+   "id": "a5",
+   "text": "Dan firman-Nya Subhanahu: ⟦Q2⟧ [Al-Isra: 23], ⟦Q3⟧ [Al-Baqarah: 21] ⟦Q4⟧ [Adz-Dzariyat: 56] maknanya agar mereka mengkhususkan ibadah kepada Allah dengan shalat mereka, puasa mereka, doa mereka, permohonan pertolongan mereka, jihad mereka semuanya hanya untuk Allah semata. Ini disebut tauhid ibadah dan disebut tauhid ilahiyah. Inilah yang diingkari oleh orang-orang musyrik dan mereka menolaknya. Ketika dikatakan kepada mereka: Ucapkanlah Laa ilaaha illallah, mereka menolak dan mengingkarinya, dan mereka berkata: ⟦Q5⟧ [Shad: 5]. Maka mereka mengingkari hal itu dan bersikeras di atas kekafiran dan kesesatan mereka. Mereka mengatakan: Allah adalah pencipta, pemberi rezeki, pengatur urusan. Mereka mengatakannya, tetapi meskipun demikian mereka tidak tunduk kepada tauhid ibadah... Maka karena itu mereka menjadi kafir, dan Nabi ﷺ memerangi mereka dan menghalalkan darah dan harta mereka karena kekafiran mereka dan ketidakpatuhan mereka kepada tauhid ilahiyah."
+  },
+  {
+   "id": "a6",
+   "text": "Dan ada tauhid ketiga, yaitu tauhid asma' wa shifat, yaitu beriman kepada nama-nama Allah dan sifat-sifat-Nya seluruhnya yang terdapat dalam Al-Qur'an dan yang shahih dari sunnah Nabi ﷺ. Wajib beriman kepada semuanya dan menetapkannya, bahwa Dia Maha Mengetahui lagi Maha Bijaksana, Maha Penyayang lagi Maha Pengasih, dan bahwa Dia ridha dan murka, dan berbicara apabila Dia kehendaki Subhanahu wa Ta'ala. Semua sifat-sifat-Nya dalam Al-Qur'an dan sunnah wajib diimani dan ditetapkan bagi Allah 'Azza wa Jalla. Dan ini disebut tauhid asma' wa shifat."
+  },
+  {
+   "id": "a7",
+   "text": "Dan beriman bahwa Allah itu Esa dalam Dzat-Nya, Esa dalam nama-nama dan sifat-sifat-Nya, tidak ada sekutu bagi-Nya. Tidak ada sekutu bagi-Nya yang menciptakan atau memberi rezeki atau merahmati hamba-hamba-Nya hingga memasukkan mereka ke surga dan menyelamatkan mereka dari neraka. Dan tidak ada sekutu bagi-Nya dalam kekuasaan, dan bahwa Dia Maha Kuasa atas segala sesuatu. Bahkan Dia sendiri dalam hal itu Subhanahu wa Ta'ala. Maka tidak ada sekutu bagi-Nya dalam ilahiyah-Nya, tidak dalam nama-nama dan sifat-sifat-Nya, tidak dalam rububiyah-Nya Subhanahu wa Ta'ala."
+  },
+  {
+   "id": "a8",
+   "text": "Maka Dia Maha Esa dalam rububiyah, Maha Esa dalam ilahiyah, Maha Esa dalam nama-nama dan sifat-sifat. ⟦Q6⟧ [Asy-Syura: 11], ⟦Q7⟧ [Maryam: 65] ⟦Q8⟧ [Al-Ikhlas: 4] ⟦Q9⟧ [An-Nahl: 74]."
+  },
+  {
+   "id": "a9",
+   "text": "Maka nama-nama-Nya semuanya indah, dan sifat-sifat-Nya semuanya tinggi, dan semuanya benar dan tetap bagi-Nya. Dan Dia Subhanahu wa Ta'ala disifati dengan sifat-sifat itu secara hakiki bukan majaz. Maka wajib menetapkan sifat-sifat itu bagi Allah, dan membiarkannya sebagaimana datangnya, dan beriman kepadanya, dan bahwa itu benar yang layak bagi Allah Subhanahu wa Ta'ala. Dan bahwa Dia 'Azza wa Jalla tidak ada sesuatupun yang serupa dengan-Nya dalam hal itu, dan Dia Maha Mendengar lagi Maha Melihat Subhanahu wa Ta'ala."
+  }
+ ]
+}

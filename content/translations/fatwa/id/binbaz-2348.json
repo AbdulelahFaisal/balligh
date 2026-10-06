@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2348",
+ "source_content_sha256": "sha256:c90bd2037259d48dce104f0eedd4d04efdd1418980f82a3112746e0c971fa55b",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:10:58.791219+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 838,
+  "completion_tokens": 658,
+  "total_tokens": 1496,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 582
+ },
+ "latency_ms": 7147,
+ "units": [
+  {
+   "id": "title",
+   "text": "Apakah orang-orang yang mengingkari keberadaan Allah termasuk mengingkari rububiyah?"
+  },
+  {
+   "id": "q0",
+   "text": "Tanya: Kaum komunis dan ateis di masa kita mengingkari keberadaan Allah, apakah ini tidak dianggap pengingkaran terhadap tauhid rububiyah, berbeda dengan apa yang dikatakan sebagian ulama bahwa tidak seorang pun dari orang kafir yang mengingkari tauhid rububiyah?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawab: Para ulama menyebutkan bahwa tauhid rububiyah adalah perkara yang diakui oleh umat-umat, dan yang mengingkarinya hanyalah orang-orang yang menyimpang yang tidak dianggap, di antaranya kaum Majusi yang mengatakan ada dua tuhan, cahaya dan kegelapan, dan bahwa cahaya lebih agung daripada kegelapan, dia menciptakan kebaikan, dan kegelapan menciptakan keburukan. Adapun mengingkari tuhan-tuhan secara total, hal ini dikatakan oleh Firaun yang keras kepala, demikian pula para filsuf terdahulu dan kaum ateis dikenal bahwa mereka menganggap benda-benda langit sebagai tuhan-tuhan, dan bahwa mereka memiliki gerakan yang dikenal. Akan tetapi mayoritas orang musyrik dan awam mereka mengakui adanya Rabb, bahwa ada Rabb yang menciptakan dan memberi rezeki, dan Dia berada di atas, dan mereka hanya mendekatkan diri kepada-Nya dengan apa yang mereka lakukan berupa kesyirikan.\nOrang-orang kafir Quraisy mengingkari hari kebangkitan, sementara mereka mengakui bahwa Allah adalah Rabb dan Pencipta mereka, tetapi mereka berbuat syirik dalam ibadah dan mengingkari hari kebangkitan, dan mereka berkata: Tidak ada kehidupan selain kehidupan dunia kita ini, kita mati dan kita hidup, dan mereka mengingkari surga dan neraka, maka Allah mengutus Muhammad ﷺ kepada mereka dan kepada selain mereka dari kalangan jin dan manusia untuk membimbing mereka kepada kebenaran dan mengingkari kebatilan yang mereka lakukan, lalu mengikutinya orang yang Allah kehendaki kebahagiaan baginya, dan mengingkarinya kebanyakan orang sebagaimana rasul-rasul yang lain 'alaihimush shalatu was salam, sebagaimana Allah Ta'ala berfirman: ⟦Q1⟧ [Yusuf: 103] dan Dia Ta'ala berfirman: ⟦Q2⟧ [Saba': 20] dan ayat-ayat tentang makna ini banyak sekali⟦N3⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu' Fatawa wa Maqalat Asy-Syaikh Ibnu Baz (9/74)."
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-9614",
+ "source_content_sha256": "sha256:ba374fffaf69686d5363a8ccef90d89149d8a3e64850224d16a21dfd826c10f2",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:25:45.635238+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1011,
+  "completion_tokens": 801,
+  "total_tokens": 1812,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 755
+ },
+ "latency_ms": 6028,
+ "units": [
+  {
+   "id": "title",
+   "text": "The ruling on the perpetrator of a major sin according to Ahl al-Sunnah and others"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "What is the Islamic ruling on the perpetrator of a major sin? Does he leave the fold of Islam?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "The Islamic ruling on him is that he is a disobedient sinner (fasiq), but he does not leave the fold of Islam, contrary to the Khawarij. According to Ahl al-Sunnah wal-Jama'ah, the adulterer is a sinner, the drinker of alcohol is a sinner if he does not deem it lawful, the one who is undutiful to his parents is a sinner, the one who deals in riba (usury) is a sinner; because all of these are major sins, but he does not become a disbeliever. According to the Khawarij, he becomes a disbeliever by that—we ask Allah for safety."
+  },
+  {
+   "id": "a2",
+   "text": "The correct view is that their statement is false, and that he is not a disbeliever, but he is disobedient and must repent to Allah, return to Allah, and turn in penitence. Whoever repents, Allah will accept his repentance. If he dies upon that (sin), he dies as a disobedient person, at risk of entering the Fire unless Allah pardons him. However, if he enters it, he will not remain in it forever, if he enters it, contrary to the Khawarij and the Mu'tazilah. The Khawarij say: he becomes a disbeliever and will remain in the Fire forever if he dies while undutiful to his parents, or upon adultery without repenting, or upon drinking alcohol. They say: he is a disbeliever and will abide in the Fire forever. The Mu'tazilah are like them regarding the matter of the Hereafter: they say he will abide in the Fire forever, but they say in this world he is neither a disbeliever nor a Muslim, in a station between the two stations, and their statement is also false."
+  },
+  {
+   "id": "a3",
+   "text": "As for Ahl al-Sunnah wal-Jama'ah, they say: he is a disobedient Muslim, a disobedient believer who must repent to Allah. If he repents, Allah will accept his repentance. If he dies upon his disobedience, he is under the will of Allah: if Allah wills, He will pardon him and admit him to Paradise by virtue of his tawhid and Islam; and if He wills, He will punish him according to the sins upon which he died, then he will be taken out of the Fire after purification. Allah will bring him out of the Fire to Paradise, because Allah, Glorious is He, says in His Mighty Book: ⟦Q1⟧ [an-Nisa:48] except what is lesser than shirk ⟦Q2⟧ [an-Nisa:48]. Some of them will not be forgiven; they will enter the Fire and be punished according to the sins. After purification and cleansing, Allah will bring them out of the Fire to a river called the River of Life, and they will grow in it as a seed grows in the silt carried by a flood. When their creation is complete, Allah will admit them to Paradise. Yes."
+  }
+ ]
+}

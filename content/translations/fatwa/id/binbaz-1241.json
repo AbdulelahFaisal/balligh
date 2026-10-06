@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1241",
+ "source_content_sha256": "sha256:45851d46395532efda44258873c4e9bb433a6bc85736fc37a632ef65fce7d1c7",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:53:41.432036+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 574,
+  "completion_tokens": 379,
+  "total_tokens": 953,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 318
+ },
+ "latency_ms": 3951,
+ "units": [
+  {
+   "id": "title",
+   "text": "Hukum bekam bagi orang yang berpuasa"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Apakah bekam membatalkan puasa, ataukah hukumnya mansukh (dihapus)?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Dalam masalah ini terdapat perbedaan pendapat di antara para ulama. Ada yang berpendapat bahwa bekam membatalkan puasa berdasarkan hadis, \"Orang yang membekam dan yang dibekam batal puasanya.\" Ada pula yang berpendapat bahwa bekam tidak membatalkan puasa berdasarkan hadis Anas dan selainnya bahwa para sahabat tidak memakruhkan bekam kecuali karena khawatir lemah."
+  },
+  {
+   "id": "a2",
+   "text": "Para ulama berbeda pendapat tentang hal ini. Pendapat yang masyhur (terkenal) adalah bahwa bekam membatalkan puasa, dan bahwa ketentuan terakhir dari Nabi ﷺ adalah bahwa bekam membatalkan puasa orang yang berpuasa. Akan tetapi, perbedaan pendapat tetap ada dalam masalah ini, dan dalil dari kedua belah pihak sama-sama kuat. Maka yang lebih utama bagi seorang mukmin adalah menjauhi bekam ketika berpuasa, demi menjaga kehati-hatian dalam agamanya, dan tidak melakukan bekam kecuali pada malam hari."
+  }
+ ]
+}

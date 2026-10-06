@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2523",
+ "source_content_sha256": "sha256:765d96071dd80ce68978e8a28c4883fa801ca256446f2d3aae9df8ed43a95556",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:11:49.184657+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1042,
+  "completion_tokens": 895,
+  "total_tokens": 1937,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 786
+ },
+ "latency_ms": 8724,
+ "units": [
+  {
+   "id": "title",
+   "text": "Apakah berdosa orang yang menghafal sebagian Al-Qur'an kemudian melupakannya?"
+  },
+  {
+   "id": "q0",
+   "text": "Tanya: Saudari M. M. A. dari Sana'a bertanya dalam pertanyaannya: Saya telah menghafal satu juz penuh dari Al-Qur'an yang mulia, dan karena tidak adanya orang yang menyimak saya secara terus-menerus, saya melupakannya. Apakah saya berdosa? Dan apakah saya harus menghafalnya kembali?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawab: Engkau tidak berdosa, insya Allah, dalam hal itu; karena firman Allah Ta'ala: ⟦Q1⟧ [Taha: 115] dan sabda Nabi ﷺ: \"Sesungguhnya aku hanyalah manusia seperti kalian, aku lupa sebagaimana kalian lupa, maka jika aku lupa ingatkanlah aku\", dan karena lupa itu menguasai manusia dan ia tidak mampu selamat darinya.\nAdapun ancaman yang disebutkan tentang hal itu dari Nabi ﷺ adalah lemah. Dan disyariatkan bagimu untuk bersungguh-sungguh menghafal apa yang mudah dari Kitab Allah, terutama hizb al-mufashshal, hingga engkau mampu membaca dalam shalatmu apa yang mudah darinya setelah Al-Fatihah. Adapun Al-Fatihah, menghafalnya wajib karena ia adalah rukun dalam shalat pada setiap rakaat; berdasarkan sabda Nabi ﷺ: \"Tidak ada shalat bagi orang yang tidak membaca Fatihatul Kitab\" disepakati keshahihannya. Dengan demikian diketahui bahwa membacanya adalah rukun dalam shalat fardhu dan sunnah bagi imam dan orang yang shalat sendirian.\nAdapun makmum, maka ia wajib baginya menurut pendapat yang shahih dari ucapan para ulama, dan gugur darinya karena lupa, tidak tahu, dan apabila ia mendapati imam dalam keadaan ruku' atau mendekati ruku' dan tidak sempat membacanya; berdasarkan sabda Nabi ﷺ: \"Barangkali kalian membaca di belakang imam kalian?\" Kami berkata: \"Ya.\" Beliau bersabda: \"Jangan kalian lakukan kecuali dengan Fatihatul Kitab, karena sesungguhnya tidak ada shalat bagi orang yang tidak membacanya.\" Dikeluarkan oleh Imam Ahmad, Abu Dawud, Tirmidzi, dan Ibnu Hibban dengan sanad shahih, dari 'Ubadah bin ash-Shamit radhiyallahu 'anhu.\nDan sebagaimana ditetapkan dalam Shahih Bukhari dari Abu Bakrah radhiyallahu 'anhu bahwa ia datang ke masjid sementara Nabi ﷺ sedang ruku', maka ia ruku' sebelum sampai ke shaf, kemudian masuk ke dalam shaf. Ketika Nabi ﷺ salam, disebutkan hal itu kepada beliau, maka beliau berkata kepadanya 'alaihishshalatu wassalam: \"Semoga Allah menambah semangatmu, tetapi jangan ulangi.\" Beliau tidak memerintahkannya untuk mengqadha rakaat itu. Hal itu menunjukkan bahwa makmum jika tidak sempat membaca bersama imam karena datang mendekati ruku', maka rakaat itu sah baginya. Dan seperti itu pula orang yang lupa atau tidak tahu dari kalangan makmum, sebagaimana kewajiban-kewajiban lain dalam shalat. Dan Allah-lah pemberi taufik.⟦N2⟧"
+  },
+  {
+   "id": "n0.0",
+   "text": "Termasuk dalam kumpulan tanya jawab Majalah Arab pada 29/5/1417 H. (Majmu' Fatawa wa Maqalat Syaikh Ibnu Baz 9/309)."
+  }
+ ]
+}

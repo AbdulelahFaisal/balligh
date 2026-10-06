@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3859",
+ "source_content_sha256": "sha256:c4473d10716754f822765a105383cfba8e73f0919d9cb48841be18219c30cb03",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:18:59.642586+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 722,
+  "completion_tokens": 372,
+  "total_tokens": 1094,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 466
+ },
+ "latency_ms": 4518,
+ "units": [
+  {
+   "id": "title",
+   "text": "孕妇因小便失禁而放弃礼拜，她应该怎么办？"
+  },
+  {
+   "id": "q0",
+   "text": "问：来自阿拉伯马格里布地区的姐妹M.H.说：一位怀孕九个月的妇女，时时刻刻都在受小便失禁的折磨，她在最后一个月停止了礼拜。这算是放弃礼拜吗？她应该承担什么责任？"
+  },
+  {
+   "id": "a0",
+   "text": "答：这位妇女以及类似情况的妇女，不应放弃礼拜。她应根据自己的情况坚持礼拜，像有异常出血的妇女（mustahadha）一样，每番礼拜的时间都要重新洗小净，并尽自己所能用棉花等物做好防护，按时礼拜。她可以在礼拜时间内礼副功拜，也可以像有异常出血的妇女一样，将晌礼和晡礼合并，将昏礼和宵礼合并。因为真主（光荣伟大的主）说：⟦Q1⟧ [相欺章: 16]。\n她必须还补所缺的礼拜，同时向真主（赞颂他、至高无上）悔改：对自己所做的感到懊悔，并决心永不再犯。因为真主（赞颂他、至高无上）说：⟦Q2⟧ [光明章: 31]⟦N3⟧。"
+  },
+  {
+   "id": "n0.0",
+   "text": "发表于《宣教杂志》第965期，回历1405年2月19日，（《谢赫伊本·巴兹教法判例与文章全集》10/224）。"
+  }
+ ]
+}

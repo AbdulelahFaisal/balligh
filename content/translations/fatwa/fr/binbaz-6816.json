@@ -1,0 +1,36 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-6816",
+ "source_content_sha256": "sha256:12abfc2f9c92b4a79b6b0a57f7c9c919a05a9cf1965ca5719810ef4dcb16a81a",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:23:16.967989+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 868,
+  "completion_tokens": 651,
+  "total_tokens": 1519,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 612
+ },
+ "latency_ms": 5640,
+ "units": [
+  {
+   "id": "title",
+   "text": "Statut de la prise d'argent de la mère ou du père sans leur permission"
+  },
+  {
+   "id": "q0",
+   "text": "Question : Ce message nous est parvenu d'Irak, de Bagdad, de l'auditrice Liqāʾ Muḥammad Laṭīf. Elle dit dans son message : « Dans le cas où une mère envoie son fils au marché et lui recommande d'acheter certaines choses, et lui donne une somme d'argent, puis que le fils achète les choses et qu'il reste de l'argent, lui est-il illicite de prendre cet argent sans qu'elle le sache, sachant que c'est l'argent de sa mère et qu'il a le droit, comme il a entendu des gens le dire, d'en disposer ou de prendre de sa poche par exemple ou de son sac sans qu'elle le sache ? Informez-moi, qu'Allah vous bénisse. »"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse : Il ne lui est pas permis de prendre le surplus sans sa permission, car il est mandataire et dépositaire de confiance. Il doit exécuter ce que lui a dit sa mère, son père ou toute autre personne qui l'a mandaté. Il ne lui est pas permis de prendre le surplus ; au contraire, il doit le rendre à celui qui l'a mandaté, que ce soit sa mère, son père ou quelqu'un d'autre. Il ne lui est pas permis de prendre le surplus, ni de prendre de l'argent de sa mère sans sa permission, ni de l'argent de son père sans sa permission. Il ne lui est pas permis de disposer de leurs biens sans leur permission, sauf s'il est pauvre et que son père a manqué à son obligation de dépenser pour lui, et qu'il n'a personne d'autre que son père pour subvenir à ses besoins, par exemple. Dans ce cas, il peut prendre de l'argent de son père ou de sa mère la part de dépense dont ils ont manqué à son égard, s'il est à leur charge et qu'ils subviennent à ses besoins, et qu'il est incapable, sans possibilité de gagner sa vie et sans argent, et qu'il est sous la garde de sa mère ou de son père. Ils doivent alors subvenir à ses besoins de manière habituelle et conforme à ce qui est connu dans leur pays ou pour des personnes comme lui. S'ils ont manqué à cela, il peut prendre de leurs biens de manière convenable, uniquement la quantité dont il a besoin. En revanche, s'ils l'ont envoyé avec de l'argent pour acheter quelque chose, il ne lui est pas permis de prendre le surplus ; il doit le rendre. Oui.\nPrésentateur : Qu'Allah vous bénisse."
+  }
+ ]
+}

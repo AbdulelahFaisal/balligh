@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1158",
+ "source_content_sha256": "sha256:6c059e18cf55f0ad1d25b6d61079d6a21c98c2ff7fe0353ec517501d2030feab",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:49:49.175635+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 756,
+  "completion_tokens": 623,
+  "total_tokens": 1379,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 756
+ },
+ "latency_ms": 8669,
+ "units": [
+  {
+   "id": "title",
+   "text": "Obligation de croire avec les deux attestations de foi"
+  },
+  {
+   "id": "q0",
+   "text": "Q : Prononcer l’attestation de foi ne fait aucun doute qu’il faut avec elle la croyance, qu’en est-il ?"
+  },
+  {
+   "id": "a0",
+   "text": "R : Premièrement, il faut prononcer les deux attestations de foi. S’il peut les prononcer mais qu’il refuse de le faire, il n’entre pas en islam jusqu’à ce qu’il les prononce. C’est un point de consensus des gens de science. Ensuite, avec la prononciation, il faut croire au sens des deux attestations et y adhérer sincèrement. Cela consiste à croire qu’il n’y a pas de divinité digne d’adoration en dehors d’Allah. S’il les dit par mensonge, comme les hypocrites qui les disent tout en croyant qu’il y a avec Allah d’autres divinités, cette parole ne leur est d’aucune utilité et ils n’entrent pas en islam intérieurement, comme Allah le Très-Haut a dit : ⟦Q1⟧ [An-Nisâ’ : 145] et Il a dit, Puissant et Majestueux : ⟦Q2⟧ [Al-Baqarah : 8].\nIl faut donc la croyance du cœur et la certitude qu’il n’y a pas de divinité digne d’adoration en dehors d’Allah. S’il s’enorgueillit de se conformer à la loi d’Allah, il mécroit et la prononciation des deux attestations ne lui profite pas. Allah le Très-Haut a dit : ⟦Q3⟧ [Al-Hajj : 62] et Il a dit, Glorifié soit-Il : ⟦Q4⟧ [Ghâfir : 60]. De même, s’il s’enorgueillit d’attester que Muhammad est le Messager d’Allah ou s’il le dit par mensonge, il est alors mécréant jusqu’à ce qu’il croie que Muhammad est le Messager d’Allah et se conforme à sa loi. C’est une chose sur laquelle les gens de science sont unanimes. Et c’est d’Allah que vient l’assistance⟦N5⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "(Recueil des fatwas et des articles de Cheikh Ibn Bâz 5/340)"
+  }
+ ]
+}

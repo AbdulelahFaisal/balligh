@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3807",
+ "source_content_sha256": "sha256:82dccb06a8f4f8c29464d6831325d0fa6622db49d016bae4e20d71b8724cbebc",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:17:51.970154+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 591,
+  "completion_tokens": 291,
+  "total_tokens": 882,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 335
+ },
+ "latency_ms": 2822,
+ "units": [
+  {
+   "id": "title",
+   "text": "Does ghusl from janabah and other states suffice for wudu?"
+  },
+  {
+   "id": "q0",
+   "text": "Q: Brother 'A. S. S. from Thadiq in the Kingdom of Saudi Arabia says in his question: I performed ghusl from janabah using soap and shampoo. Does this ghusl suffice for wudu if I intended that?"
+  },
+  {
+   "id": "a0",
+   "text": "A: That suffices if you intended both purifications. It is better to perform wudu first and then ghusl, as was the practice of the Prophet ﷺ, because it is more complete. There is no harm in using soap, shampoo, sidr, and the like to remove dirt."
+  },
+  {
+   "id": "a1",
+   "text": "May Allah grant everyone success⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Published in Al-Majallah Al-'Arabiyyah, issue no. 218, Rabi' Al-Awwal 1416 AH (Majmu' Fatawa wa Maqalat Ash-Shaykh Ibn Baz 10/173)."
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1998",
+ "source_content_sha256": "sha256:6a1cad31921b233ea57bc0ba361d45818775700e9d9259b1715b8f1cddefdaf6",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:05:46.276079+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1300,
+  "completion_tokens": 983,
+  "total_tokens": 2283,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 1044
+ },
+ "latency_ms": 7645,
+ "units": [
+  {
+   "id": "title",
+   "text": "Does merely uttering the two testimonies and believing suffice for entering Islam?"
+  },
+  {
+   "id": "q0",
+   "text": "Q: Does merely uttering and believing in this pillar of the pillars of Islam suffice, or must there be other things until a person's Islam is complete and his faith is complete?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer: This pillar is what brings the disbeliever into Islam, by bearing witness that there is no deity but Allah and that Muhammad is the Messenger of Allah, with truthfulness, certainty, knowledge of its meaning, and acting upon it, if he was not uttering them during his disbelief. Then he is required to perform the prayer and the rest of the pillars and all other rulings. Hence, when the Prophet ﷺ sent Mu'adh to Yemen, he said to him: \"Call them to testify that there is no deity but Allah and that Muhammad is the Messenger of Allah. If they do that, then inform them that Allah has obligated upon them five prayers every day and night. If they obey you in that, then inform them that Allah has obligated upon them a charity to be taken from their wealthy and given back to their poor.\""
+  },
+  {
+   "id": "a1",
+   "text": "He did not command them to pray except after Tawhid (monotheism) and belief in the Messenger ﷺ. Disbelievers are first required to affirm Tawhid and belief in the Messenger ﷺ. When the disbeliever acknowledges that and becomes Muslim, he takes the ruling of Muslims, then he is required to pray and observe the rest of the religion's matters. If he refuses that, then other rulings apply to him.\n Whoever refuses to pray is asked to repent; if he repents, then fine, otherwise he is executed as a disbeliever, even if he does not deny its obligation, according to the more correct of the two scholarly opinions. If he refuses to pay zakah, obstinately denies it, and fights over it, then likewise he is fought, just as the Companions fought those who withheld zakah with Abu Bakr, may Allah be pleased with him, and judged them to be apostates. If he does not fight over it, the ruler forces him to pay it and disciplines him with a legitimate disciplinary punishment that deters others like him. Likewise, a Muslim is required to fast Ramadan, perform Hajj to the House when able, and fulfill all that Allah has obligated upon him. He is also required to abandon what Allah has forbidden him, because his entering Islam and commitment to it necessitates that. Whoever neglects something Allah has obligated or engages in something Allah has forbidden is dealt with according to what he deserves under Islamic law.\n However, if the disbeliever utters the two testimonies while remaining in his disbelief, as is the case with most disbelievers today, then he must repent from what caused his disbelief, and his mere utterance of the two testimonies is not sufficient, because he has been saying them during his disbelief but not acting upon them. If his disbelief is due to worshipping the dead, jinn, idols, or other created beings, seeking their help and the like, he must repent from that and devote worship sincerely to Allah alone, and thereby he enters Islam. If his disbelief is due to abandoning prayer, he must repent from that and perform it; if he does that, he enters Islam."
+  },
+  {
+   "id": "a2",
+   "text": "Likewise, if his disbelief is due to considering adultery or alcohol permissible, he must repent from that; if he repents from that, he enters Islam."
+  },
+  {
+   "id": "a3",
+   "text": "Likewise, the disbeliever is required to abandon the action or belief that caused his disbelief; if he does that, he enters Islam."
+  },
+  {
+   "id": "a4",
+   "text": "These are tremendous issues that the student of knowledge must pay attention to and have insight into. The scholars have clarified them in the chapter on the ruling of the apostate, which is a great chapter that the student of knowledge must attend to and read often. And Allah is the Grantor of success⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "From the program Nur 'ala al-Darb, tape no. 16, (Majmu' Fatawa wa Maqalat al-Shaykh Ibn Baz 7/32)."
+  }
+ ]
+}

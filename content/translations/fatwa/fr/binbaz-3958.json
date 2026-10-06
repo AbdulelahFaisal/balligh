@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3958",
+ "source_content_sha256": "sha256:f722842a09d5ff1957fd33c5f2e2f11bc5ac17941f6adb61d4ff10ab39ae53ee",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:19:24.987108+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 648,
+  "completion_tokens": 505,
+  "total_tokens": 1153,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 392
+ },
+ "latency_ms": 4840,
+ "units": [
+  {
+   "id": "title",
+   "text": "Retarder la prière de son heure à cause du travail"
+  },
+  {
+   "id": "q0",
+   "text": "Q : Nous sommes des ouvriers dans une ferme. Nous prions tous les prières obligatoires car la mosquée est éloignée de nous d'environ 2 kilomètres et nous n'entendons pas l'appel à la prière (adhân). Nous faisons l'appel à la prière et l'annonce du début de la prière (iqâma) dans la ferme. Il nous arrive parfois de retarder la prière de son heure d'une demi-heure à cause du travail. Quel est le jugement à ce sujet ?"
+  },
+  {
+   "id": "a0",
+   "text": "R : Il n'y a pas de mal à prier dans la ferme si la mosquée est éloignée de vous. De même, retarder la prière du début de son heure d'une demi-heure ou environ ne pose pas de problème. Cependant, prier au début de son heure est meilleur, sauf si la chaleur est intense pour la prière de midi (dhohr), auquel cas il est préférable de la retarder jusqu'à ce que la chaleur diminue (al-ibrâd). De même, si les fidèles tardent à accomplir la prière du soir ('ichâ') après le début de son heure, l'imam doit les suivre ; car il est authentiquement rapporté que le Prophète (paix et bénédictions d'Allah sur lui) tenait compte de l'assemblée pour la prière du soir : s'il voyait qu'ils étaient rassemblés, il se dépêchait, et s'il voyait qu'ils tardaient, il retardait. Allah est le garant du succès⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Extrait du programme \"Nour 'ala ad-Darb\", cassette n° 57. (Majmû' Fatâwâ wa Maqâlât du cheikh Ibn Bâz, 10/380)."
+  }
+ ]
+}

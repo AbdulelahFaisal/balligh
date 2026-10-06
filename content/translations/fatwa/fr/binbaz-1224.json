@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1224",
+ "source_content_sha256": "sha256:223320dbc6edaf51255a6efe3f3de6565f87b599e9b71ace455ac58b4434eff0",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:53:07.732747+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 559,
+  "completion_tokens": 323,
+  "total_tokens": 882,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 303
+ },
+ "latency_ms": 2773,
+ "units": [
+  {
+   "id": "title",
+   "text": "Comment rattraper pour celui qui a atteint une rak'ah dans la prière à voix haute"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Un homme a attrapé une rak'ah avec l'imam. Doit-il réciter à voix haute lorsqu'il complète ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Si la prière est à voix haute et qu'il n'a attrapé qu'une seule rak'ah, c'est le début de sa prière. Lorsqu'il se lève pour rattraper, il récite à voix haute, sans gêner ceux qui l'entourent, dans la deuxième rak'ah, puis il récite à voix basse dans la troisième et la quatrième. Car la partie qu'il a attrapée avec l'imam est le début de sa prière, selon l'avis correct, et ce qu'il rattrape en est la fin. Il récite donc à voix haute dans la deuxième rak'ah qu'il rattrape, par exemple dans la 'ichâ' ou le maghrib, puis il complète à voix basse dans le reste de sa prière."
+  }
+ ]
+}

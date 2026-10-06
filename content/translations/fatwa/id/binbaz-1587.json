@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1587",
+ "source_content_sha256": "sha256:3841c343d16bc6258820ebe89572d5839aaecd69c2a59016040e0022f889a878",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:59:23.561079+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 795,
+  "completion_tokens": 618,
+  "total_tokens": 1413,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 539
+ },
+ "latency_ms": 6016,
+ "units": [
+  {
+   "id": "title",
+   "text": "Hukum menaati kedua orang tua dalam tidak melaksanakan umrah"
+  },
+  {
+   "id": "q0",
+   "text": "T: Jika kedua orang tuaku memerintahkanku untuk meninggalkan teman-teman yang baik dan rekan-rekan yang saleh serta agar aku tidak bepergian bersama mereka untuk menunaikan umrah, dengan catatan bahwa aku sedang dalam perjalanan menuju komitmen (beragama). Apakah wajib bagiku menaati keduanya dalam keadaan ini?"
+  },
+  {
+   "id": "a0",
+   "text": "J: Engkau tidak wajib menaati mereka dalam bermaksiat kepada Allah, dan tidak pula dalam hal yang membahayakan, berdasarkan sabda Nabi ﷺ: \"Sesungguhnya ketaatan itu hanya dalam perkara yang ma'ruf,\" dan sabdanya ﷺ: \"Tidak ada ketaatan kepada makhluk dalam bermaksiat kepada Sang Pencipta.\" Maka orang yang melarangmu berteman dengan orang-orang baik, janganlah engkau taati, baik kedua orang tua maupun selain keduanya. Jangan pula engkau taati siapa pun dalam berteman dengan orang-orang jahat. Akan tetapi, bicaralah kepada kedua orang tuamu dengan perkataan yang baik dan dengan cara yang lebih baik. Misalnya engkau katakan: \"Wahai ayahku, begini..., wahai ibuku, begini..., mereka itu orang-orang baik, aku mengambil manfaat dari mereka dan memperoleh faedah bersama mereka, hatiku menjadi lembut bersama mereka, dan aku belajar ilmu serta mendapat faedah.\" Maka jawablah mereka dengan perkataan yang baik dan cara yang bagus, bukan dengan kekerasan dan sikap keras. Apabila mereka melarangmu, jangan beri tahu mereka bahwa engkau mengikuti orang-orang baik dan berhubungan dengan mereka, dan jangan beri tahu mereka bahwa engkau pergi bersama mereka jika mereka tidak meridainya.\nAkan tetapi, engkau tidak boleh menaati mereka kecuali dalam ketaatan dan perkara yang ma'ruf. Jika mereka memerintahkanmu berteman dengan orang-orang jahat, atau memerintahkanmu merokok, minum khamar, berzina, atau kemaksiatan lainnya, maka janganlah engkau taati mereka dan jangan pula taati selain mereka dalam hal itu, berdasarkan dua hadis yang telah disebutkan tadi. Dan hanya kepada Allah-lah taufik⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu' Fatawa wa Maqalat Syaikh Ibnu Baz (6/161)."
+  }
+ ]
+}

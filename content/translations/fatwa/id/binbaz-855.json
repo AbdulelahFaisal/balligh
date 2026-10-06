@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-855",
+ "source_content_sha256": "sha256:3b9a416061780103260d93a443694faa030fa741b19c0a874e43cc150360e756",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:24:25.304098+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 627,
+  "completion_tokens": 396,
+  "total_tokens": 1023,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 371
+ },
+ "latency_ms": 4114,
+ "units": [
+  {
+   "id": "title",
+   "text": "Dari apa Allah menciptakan para malaikat dan iblis?"
+  },
+  {
+   "id": "q0",
+   "text": "Tanya: Allah menciptakan Adam dari tanah liat, dan sebelum itu Dia menciptakan para malaikat, dan di antara para malaikat ada iblis, dan Dia menciptakannya dari api. Lalu mengapa Dia menciptakannya dari api? Dan dari apa Allah menciptakan para malaikat?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawab: Telah sahih dari Rasulullah ﷺ dalam hadis Aisyah radhiyallahu 'anha, beliau berkata: \"Para malaikat diciptakan dari cahaya, jin diciptakan dari nyala api, dan Adam diciptakan dari apa yang telah disifatkan kepada kalian (yaitu dari tanah liat).\" Diriwayatkan oleh Muslim dalam Shahihnya. Adapun hikmah di balik itu, maka Allah Subhanahu wa Ta'ala lebih mengetahuinya, dan Dia Mahabijaksana lagi Maha Mengetahui dalam segala yang Dia ciptakan dan syariatkan. Tidak ada yang dapat menolak hukum-Nya dan tidak ada yang dapat menentang keputusan-Nya. Dan Dia Mahakuasa atas segala sesuatu⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Diterbitkan di Majalah Al-Arabiyyah pada rubrik \"Fas'alu Ahladz Dzikr\". (Majmu' Fatawa wa Maqalat Syaikh Ibnu Baz: 4/154)."
+  }
+ ]
+}

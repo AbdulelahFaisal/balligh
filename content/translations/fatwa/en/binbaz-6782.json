@@ -1,0 +1,36 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-6782",
+ "source_content_sha256": "sha256:f0882812f3a120631df6d516c59b2cc9fb8543f120dfa407185d2eb2792d1e57",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:22:37.910260+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 807,
+  "completion_tokens": 558,
+  "total_tokens": 1365,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 551
+ },
+ "latency_ms": 4716,
+ "units": [
+  {
+   "id": "title",
+   "text": "The virtue of loving for the sake of Allah and hating for the sake of Allah"
+  },
+  {
+   "id": "q0",
+   "text": "Question: This is a letter that came to us from the questioner Adel Abdul Hamid Hassan, from the Arab Republic of Egypt, Minya Governorate, residing in Jordan. He says: Is love in Islam lawful or forbidden? He apparently means: love before marriage between a man and a woman. Please advise us, may Allah reward you."
+  },
+  {
+   "id": "a0",
+   "text": "Answer: Loving for the sake of Allah and hating for the sake of Allah are acts of obedience and draw one close to Allah among Muslims, that a person loves his brother for Allah and hates him for Allah. This is obedience. He loves the Muslims for Allah and hates the disbelievers for Allah. Allah, the Mighty and Majestic, said in His Noble Book: ⟦Q1⟧ [Al-Mujadilah:22]. So the believer must hate the enemies of Allah and disavow them. And He, Glorified be He, said: ⟦Q2⟧ [Al-Mumtahanah:4]. So the Muslim hates for Allah and shows enmity for Allah, and likewise he loves for Allah. The Prophet (peace be upon him) said: \"Seven whom Allah will shade in His shade on the Day when there is no shade but His shade,\" and he mentioned among them two men who loved each other for the sake of Allah, meeting and parting on that basis. And he (peace be upon him) said in an authentic hadith: \"There are three qualities, whoever has them will taste the sweetness of faith: that Allah and His Messenger are dearer to him than anything else, that he loves a person only for Allah's sake...\" And he (peace be upon him) also said: \"Allah will say on the Day of Resurrection: 'Where are those who loved one another for My glory? Today I will shade them in My shade on the Day when there is no shade but My shade.'\"\nIf a man proposes to a woman whom he loves for the sake of Allah because of her religion, there is no harm. If he proposes because of his love for her for Allah, due to her religion and uprightness, there is no harm in that. This is what a believer should seek: a righteous woman so that he may propose to her. Yes.\nHost: May Allah reward you with good and bless you."
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3958",
+ "source_content_sha256": "sha256:f722842a09d5ff1957fd33c5f2e2f11bc5ac17941f6adb61d4ff10ab39ae53ee",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:19:19.909655+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 648,
+  "completion_tokens": 391,
+  "total_tokens": 1039,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 392
+ },
+ "latency_ms": 4378,
+ "units": [
+  {
+   "id": "title",
+   "text": "Menunda shalat dari waktunya karena pekerjaan"
+  },
+  {
+   "id": "q0",
+   "text": "T: Kami adalah para pekerja di sebuah perkebunan. Kami semua shalat fardhu karena masjid jauh dari kami sekitar 2 kilometer dan kami tidak mendengar adzan. Kami mengumandangkan adzan dan iqamah di perkebunan, dan mungkin kami menunda shalat dari waktunya selama setengah jam karena pekerjaan. Apa hukumnya?"
+  },
+  {
+   "id": "a0",
+   "text": "J: Tidak ada dosa shalat di perkebunan jika masjid jauh dari kalian. Demikian pula menunda shalat dari awal waktunya selama setengah jam atau semisalnya tidak mengapa. Akan tetapi, shalat di awal waktu lebih utama, kecuali jika panas sangat menyengat pada shalat Dzuhur, maka menunda (isyraq) lebih utama. Demikian pula jika jamaah terlambat pada shalat Isya dari awal waktunya, maka imam menyesuaikan dengan mereka; berdasarkan riwayat yang sah dari Nabi ﷺ bahwa beliau memperhatikan jamaah dalam shalat Isya; jika beliau melihat mereka telah berkumpul, beliau menyegerakan, dan jika beliau melihat mereka terlambat, beliau menunda. Allah-lah pemberi taufik⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Dari program Nur 'ala ad-Darb, kaset nomor 57. (Majmu' Fatawa wa Maqalat Syaikh Ibnu Baz 10/380)."
+  }
+ ]
+}

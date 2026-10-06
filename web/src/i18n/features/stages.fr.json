@@ -61,5 +61,6 @@
   "continue": "Continuer avec la lecture suivante",
   "continueStage": "Continuer : étape {{n}}",
   "backToStage": "Retour à l’étape {{n}}",
-  "position": "Étape {{n}} · lecture {{i}} sur {{total}}"
+  "position": "Étape {{n}} · lecture {{i}} sur {{total}}",
+  "aiLanguages": "Traduction assistée par IA : {{languages}}"
 }

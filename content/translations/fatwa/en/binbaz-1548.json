@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1548",
+ "source_content_sha256": "sha256:e571bd8c3247fd52908904e1ff274d367f633f74ef23f1601742c1b47a60c0f4",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:58:53.954553+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 710,
+  "completion_tokens": 415,
+  "total_tokens": 1125,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 454
+ },
+ "latency_ms": 3510,
+ "units": [
+  {
+   "id": "title",
+   "text": "Clarification of how to perform dry ablution (tayammum)"
+  },
+  {
+   "id": "q0",
+   "text": "Q: I hope from your eminence that you clarify for us the correct method of dry ablution."
+  },
+  {
+   "id": "a0",
+   "text": "A: Correct dry ablution is as Allah, Mighty and Majestic, said: ⟦Q1⟧ [Al-Ma'idah: 6]. The prescribed act is one strike for the face and the palms. Its description is that he strikes the dust with his hands once, then wipes his face and palms with them, as in the two Sahihs that the Prophet ﷺ said to 'Ammar ibn Yasir, may Allah be pleased with him: \"It is sufficient for you to do this with your hands,\" then he struck the ground with his hands and wiped his face and palms with them.\nIt is stipulated that the dust be pure. Wiping the forearms is not prescribed; rather, wiping the face and palms suffices, due to the aforementioned hadith.\nDry ablution takes the place of water in removing ritual impurity according to the correct opinion. If one performs dry ablution, he may pray with this dry ablution the optional and the current obligatory prayer and future ones as long as he remains in a state of purity until he breaks it, or finds water if he lacked it, or becomes able to use it if he was unable to use it. Dry ablution is a purification that takes the place of water, as the Prophet ﷺ called it a purification⟦N2⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu' Fatawa wa Maqalat al-Shaykh Ibn Baz (6/22)."
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-19825",
+ "source_content_sha256": "sha256:442867c81c529d438c355453ff7dce76d7411bd4e22502f89bacc2ca6a1b68f8",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:03:48.328422+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 742,
+  "completion_tokens": 558,
+  "total_tokens": 1300,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 486
+ },
+ "latency_ms": 5370,
+ "units": [
+  {
+   "id": "title",
+   "text": "Hukum membaca Al-Qur'an bagi yang tidak menguasai tata bahasa Arab"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Saya punya kerabat yang suka membaca Al-Qur'an, tetapi dia tidak menguasai tata bahasa Arab dan tajwid, apa yang harus dia lakukan?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Dia harus berusaha keras dalam membaca Al-Qur'an, merenungkan maknanya, tidak terburu-buru, dan belajar kepada orang yang lebih berilmu darinya agar diajarkan apa yang tidak diketahuinya. Jangan berputus asa, karena dia mendapatkan pahala besar, berdasarkan sabda Nabi ﷺ: \"Sebaik-baik kalian adalah yang mempelajari Al-Qur'an dan mengajarkannya\"⟦N1⟧ diriwayatkan oleh Al-Bukhari dalam Shahihnya, dan sabda beliau ﷺ: \"Orang yang mahir membaca Al-Qur'an akan bersama para malaikat yang mulia lagi berbakti, sedangkan orang yang membaca Al-Qur'an dengan terbata-bata dan merasa kesulitan akan mendapatkan dua pahala\"⟦N2⟧ Muttafaqun 'alaih⟦N3⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Diriwayatkan oleh Al-Bukhari dalam (Fadhail Al-Qur'an), no. 4639, bab (Khairukum man ta'allamal Qur'ana wa 'allamah)."
+  },
+  {
+   "id": "n1.0",
+   "text": "Diriwayatkan oleh Muslim dalam (Shalat al-Musafirin wa Qasruha), no. 1329, dan Ibnu Majah dalam (Al-Adab), no. 3769."
+  },
+  {
+   "id": "n2.0",
+   "text": "Dimuat dalam (Majalah Ad-Da'wah), edisi no. 1520, tanggal 15/7/1416 H. (Majmu' Fatawa wa Maqalat Asy-Syaikh Ibnu Baz 24/357)."
+  }
+ ]
+}

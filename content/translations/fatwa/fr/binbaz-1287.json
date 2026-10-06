@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1287",
+ "source_content_sha256": "sha256:399a2298ca7f092e8e1d6e7daf084d9afa2833af48bfcbe02f1582a03e3bb953",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:55:41.463416+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 711,
+  "completion_tokens": 483,
+  "total_tokens": 1194,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 455
+ },
+ "latency_ms": 4505,
+ "units": [
+  {
+   "id": "title",
+   "text": "Jugement concernant le divorce de l'épouse en raison de sa paresse"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "J'ai une épouse qui accomplit tous les devoirs religieux, mais elle se plaint de certains travaux jusqu'à ce que la colère survienne, et elle n'accomplit certains travaux qu'avec contrariété, car elle est habituée à la paresse. M'est-il permis de la répudier ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Il convient que tu sois patient si elle est bonne et pieuse. Et même si elle a un peu de paresse, il convient que tu sois patient : toi aussi tu as un peu de paresse ; personne n'est parfait. Il convient que tu sois bon et que tu l'aides dans les affaires de la maison. Aide-la. Le Prophète (sur lui la paix et le salut) aidait sa famille, et il est le meilleur des créatures ; il aidait sa famille à la maison pour les besoins du foyer."
+  },
+  {
+   "id": "a2",
+   "text": "Toi, aide-la. Ne fais pas venir de domestique ; aide-la afin que tu sois à l'abri du domestique. Aide-la dans les affaires de la maison qu'elle ne peut pas faire. Peut-être a-t-elle des enfants qui l'ont fatiguée ; aide-la dans les affaires de la maison. Encourage-la au travail par de bonnes paroles, et non par : « Ô méchante, ô débauchée, ô ceci, ô cela, ô fille d'untel, ô mère d'untel. Fais ceci, que Dieu te préserve, que Dieu soit satisfait de toi, ainsi de suite, par de bonnes paroles. »"
+  }
+ ]
+}

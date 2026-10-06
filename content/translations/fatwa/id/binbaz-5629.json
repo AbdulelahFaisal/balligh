@@ -1,0 +1,36 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-5629",
+ "source_content_sha256": "sha256:0df25014056a9c7f9c90469dd667d50e1b89f28d4fb0a6266caf2632ccfba838",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:21:38.409419+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1182,
+  "completion_tokens": 1090,
+  "total_tokens": 2272,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 926
+ },
+ "latency_ms": 9396,
+ "units": [
+  {
+   "id": "title",
+   "text": "Hukum Orang yang Meninggalkan Salah Satu Rukun Islam"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan: Sebenarnya pertanyaan saudari kita dalam Islam dari Irak ini mengandung sesuatu yang sering diperbincangkan di tengah masyarakat. Mereka berkata misalnya: shalat dipersyaratkan untuk Islam, haji juga dipersyaratkan untuk Islam. Seseorang bisa menjadi muslim meskipun belum mengerjakan rukun Islam lainnya. Anda sudah menjawab ini, tetapi kami ingin penjelasan lebih lanjut tentang masalah ini?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban: Ini jelas. Dia menjadi muslim dengan dua kalimat syahadat ketika dia mengikrarkan dua kalimat syahadat, mentauhidkan Allah عز وجل, dan membenarkan Rasul-Nya Muhammad ﷺ, maka dia masuk Islam. Kemudian dilihat: jika dia shalat, sempurnalah keislamannya. Jika dia tidak shalat, dia menjadi murtad. Demikian pula jika dia mengingkari shalat setelah itu, dia menjadi murtad. Atau mengingkari puasa, dia berkata: 'Puasa Ramadan tidak wajib', dia menjadi murtad. Atau berkata: 'Zakat tidak wajib, zakat Islam tidak wajib', dia menjadi murtad. Atau berkata: 'Haji dengan kemampuan tidak wajib', dia menjadi murtad. Atau mengejek agama, atau mencaci Rasulullah ﷺ, dia menjadi murtad. Apakah kalian paham? Ini seharusnya jelas. Jadi ketika dia masuk Islam dengan dua kalimat syahadat, dia dihukumi Islam. Kemudian dilihat dalam perkara-perkara lainnya. Jika dia istiqamah di atas kebenaran, sempurnalah keislamannya. Jika ditemukan padanya sesuatu yang membatalkan Islam, seperti mencaci agama, mendustakan Rasulullah ﷺ, mengingkari kewajiban dari Allah berupa shalat atau puasa, mengingkari apa yang diharamkan Allah, seperti jika dia berkata: 'Zina halal', dia murtad dari Islam dengan ini, meskipun dia shalat dan puasa. Bahkan jika dia berkata: 'Aku bersaksi bahwa tidak ada ilah yang berhak disembah selain Allah dan Muhammad adalah utusan Allah', jika dia berkata: 'Zina halal' sementara dia mengetahui dalil-dalilnya dan hujjah telah ditegakkan atasnya, dia menjadi kafir kepada Allah dengan kekafiran yang besar, kita berlindung kepada Allah. Atau berkata: 'Khamr halal', dan telah dijelaskan dalil-dalilnya serta dalil-dalil itu jelas baginya, lalu dia tetap bersikeras berkata: 'Khamr halal', maka itu adalah kekafiran besar, murtad dari Islam, kita berlindung kepada Allah. Atau misalnya dia berkata: 'Durhaka kepada kedua orang tua itu halal', maka itu murtad dari Islam, kita berlindung kepada Allah. Atau berkata: 'Kesaksian palsu halal', maka itu murtad dari Islam setelah dijelaskan dalil-dalil syar'i kepadanya.\nDemikian pula jika dia berkata: 'Shalat tidak wajib, zakat tidak wajib, puasa Ramadan tidak wajib, haji dengan kemampuan tidak wajib', semua ini adalah pembatal-pembatal Islam, dia menjadi kafir.\nAdapun perbedaan pendapat adalah jika dia berkata: 'Shalat itu wajib tetapi aku tidak shalat'. Ini tempat perbedaan pendapat: apakah dia kafir atau tidak. Dia berkata: 'Shalat wajib tetapi aku meremehkan, tidak shalat'. Mayoritas fuqaha berkata: tidak kafir, tetapi dia bermaksiat, diminta bertaubat; jika bertaubat, maka diterima, jika tidak, dibunuh sebagai hukuman had.\nPendapat lain dari ulama, yang diriwayatkan dari para sahabat رضي الله عنهم, adalah bahwa dia kafir dengan kekafiran besar. Maka dia diminta bertaubat; jika bertaubat, diterima, jika tidak, dibunuh sebagai orang kafir. Karena firman Allah جل وعلا: ⟦Q1⟧ [at-Taubah:5] menunjukkan bahwa orang yang tidak menegakkan shalat tidak dibiarkan begitu saja, tetapi diminta bertaubat; jika bertaubat, diterima, jika tidak, dibunuh. Dan Allah berfirman: ⟦Q2⟧ [at-Taubah:11] menunjukkan bahwa orang yang tidak menegakkan shalat—tidak shalat—bukanlah saudara seagama. Ya."
+  }
+ ]
+}

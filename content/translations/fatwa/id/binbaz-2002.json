@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2002",
+ "source_content_sha256": "sha256:5b33123b177284cc0d5625a4cbcbd7de21c1f647475c07abbcbc643d72ca9646",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:08:40.592732+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 2093,
+  "completion_tokens": 2289,
+  "total_tokens": 4382,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 1837
+ },
+ "latency_ms": 19643,
+ "units": [
+  {
+   "id": "title",
+   "text": "Menerangkan Pentingnya Tauhid Uluhiyah"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan: Di masa sekarang banyak penelitian, karya tulis, dan ceramah yang membahas penetapan keberadaan Allah dan penetapan rububiyah-Nya tanpa menarik kesimpulan dari hal itu kepada konsekuensi dan tuntutannya, yaitu tauhid uluhiyah. Akibatnya, terjadilah kebodohan terhadap tauhid uluhiyah dan sikap meremehkan perkaranya. Maka alangkah baiknya jika Anda menerangkan pentingnya tauhid uluhiyah, karena ia adalah asas keselamatan dan porosnya, kunci dakwah para rasul 'alaihimush shalatu was salam, dan pokok yang dibangun di atasnya selainnya."
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban: Tidak diragukan bahwa Allah Subhanahu mengutus para rasul dan menurunkan kitab-kitab untuk menjelaskan hak-Nya atas hamba-hamba-Nya dan mendakwahi mereka agar mengikhlaskan ibadah hanya kepada-Nya semata, tidak kepada selain-Nya, serta mengkhususkan seluruh ibadah mereka hanya kepada-Nya. Karena kebanyakan penduduk bumi telah mengetahui bahwa Allah adalah Rabb mereka, Pencipta mereka, dan Pemberi rezeki mereka. Akan tetapi, mereka terjerumus ke dalam kesyirikan kepada-Nya Subhanahu dengan memalingkan ibadah-ibadah mereka atau sebagiannya kepada selain-Nya, karena kebodohan terhadap hal itu dan sekadar taklid kepada nenek moyang mereka. Sebagaimana yang terjadi pada kaum Nuh dan umat-umat sesudah mereka, dan sebagaimana yang terjadi pada generasi awal umat ini. Sesungguhnya Rasulullah ﷺ ketika mendakwahi mereka kepada tauhidullah, mereka mengingkari hal itu dan menyombongkan diri untuk menerimanya. Mereka berkata sebagaimana yang Allah sebutkan tentang mereka ⟦Q1⟧ [Shad: 5] demikianlah dalam surat Shad. Dan Allah Subhanahu berfirman tentang mereka dalam surat Ash-Shaffat: ⟦Q2⟧ [Ash-Shaffat:35-36]. Dan Allah Subhanahu berfirman tentang mereka dalam surat Az-Zukhruf: ⟦Q3⟧ [Az-Zukhruf:23]. Dan ayat-ayat tentang makna ini banyak."
+  },
+  {
+   "id": "a1",
+   "text": "Maka wajib atas para ulama kaum muslimin dan para dai petunjuk untuk menjelaskan kepada manusia hakikat tauhid uluhiyah, dan perbedaan antara tauhid uluhiyah dengan tauhid rububiyah dan tauhid asma' wa shifat. Karena banyak kaum muslimin yang tidak mengetahui hal itu, apalagi selain mereka. Kaum kafir Quraisy dan selain mereka dari bangsa Arab serta kebanyakan umat telah mengetahui bahwa Allah adalah Pencipta dan Pemberi rezeki mereka. Oleh karena itu, Allah Subhanahu membantah mereka dengan hal itu, karena Dia Jalla wa 'Ala adalah yang berhak untuk disembah, karena Dialah Pencipta mereka, Pemberi rezeki mereka, dan Maha Kuasa atas mereka dari segala sisi. Sebagaimana firman-Nya Subhanahu: ⟦Q4⟧ [Az-Zukhruf:87]. Dan Allah 'Azza wa Jalla berfirman: ⟦Q5⟧ [Luqman:25]. Dan Allah 'Azza wa Jalla berfirman memerintahkan Nabi-Nya ﷺ untuk bertanya kepada mereka tentang siapa yang memberi rezeki kepada mereka: ⟦Q6⟧. Allah Subhanahu berfirman: ⟦Q7⟧ [Yunus:31]. Dan ayat-ayat tentang makna ini banyak; Allah Subhanahu membantah mereka dengan apa yang mereka akui, yaitu bahwa Dia adalah Rabb mereka, Pencipta mereka, Pemberi rezeki mereka, Pencipta langit dan bumi, dan Pengatur urusan, untuk membantah apa yang mereka ingkari, yaitu tauhid ibadah dan batalnya penyembahan berhala, patung-patung, dan segala yang mereka sembah selain Allah."
+  },
+  {
+   "id": "a2",
+   "text": "Demikian pula Allah Subhanahu memerintahkan hamba-hamba-Nya untuk beriman kepada nama-nama dan sifat-sifat-Nya, serta menyucikan-Nya dari menyerupai makhluk. Allah Subhanahu berfirman: ⟦Q8⟧ [Al-A'raf:180]. Dan berfirman dalam surat Al-Hasyr: ⟦Q9⟧ [Al-Hasyr:22] hingga akhir surat. Dan Allah 'Azza wa Jalla berfirman: ⟦Q10⟧ [Al-Ikhlas:1-4]. Dan Allah 'Azza wa Jalla berfirman: ⟦Q11⟧ [Al-Baqarah:22]. Dan Allah Subhanahu berfirman: ⟦Q12⟧ [Asy-Syura:11]. Dan ayat-ayat tentang makna ini banyak."
+  },
+  {
+   "id": "a3",
+   "text": "Para ulama rahimahumullah telah menjelaskan bahwa tauhid rububiyah menuntut tauhid uluhiyah, yaitu mengesakan Allah dalam ibadah, dan mewajibkan serta mengharuskannya. Oleh karena itu, Allah membantah mereka dengan hal itu."
+  },
+  {
+   "id": "a4",
+   "text": "Demikian pula tauhid asma' wa shifat menuntut pengkhususan ibadah hanya kepada Allah dan memurnikannya untuk-Nya, karena Dia Subhanahu adalah Yang Maha Sempurna dalam Dzat-Nya, nama-nama-Nya, dan sifat-sifat-Nya. Dialah yang memberikan nikmat kepada hamba-hamba-Nya, maka Dialah yang berhak untuk disembah, ditaati perintah-perintah-Nya, dan dijauhi larangan-larangan-Nya.\nAdapun tauhid ibadah, ia mencakup dua jenis tauhid tersebut dan meliputinya bagi siapa yang merealisasikannya dan beristiqamah di atasnya dalam ilmu dan amal. Para ulama telah memperluas penjelasan makna ini dalam kitab-kitab akidah dan tafsir seperti Tafsir Ibnu Jarir, Ibnu Katsir, Al-Baghawi, dan selainnya, serta Kitab As-Sunnah karya Abdullah bin Imam Ahmad, Kitab At-Tauhid karya Ibnu Khuzaimah, bantahan Al-'Allamah Utsman bin Sa'id Ad-Darimi terhadap Bisyr Al-Marisi dan ulama salaf lainnya rahimahumullah dalam kitab-kitab mereka. Di antara yang paling baik dalam hal itu adalah Syaikhul Islam Ibnu Taimiyah dan muridnya Al-'Allamah Ibnul Qayyim rahmatullah 'alaihima dalam kitab-kitab keduanya.\nDemikian pula para imam dakwah Islamiyah pada abad kedua belas dan sesudahnya, seperti Syaikh Al-Imam Muhammad bin Abdul Wahhab rahimahullah, anak-anaknya, murid-muridnya, dan para pengikut mereka dari Ahlus Sunnah.\nDi antara karya terbaik dalam hal itu adalah Fathul Majid dan asalnya Taisir Al-'Aziz Al-Hamid, yang pertama karya Syaikh Abdurrahman bin Hasan rahimahullah, dan yang kedua karya Syaikh Sulaiman bin Abdullah Alu Syaikh rahimahullah.\nDi antara kumpulan terbaik dalam hal itu adalah jilid-jilid pertama Ad-Durar As-Saniyyah yang dikumpulkan oleh Syaikh Al-'Allamah Abdurrahman bin Qasim rahimahullah. Beliau mengumpulkan di dalamnya fatwa-fatwa para imam dakwah dari Alu Syaikh dan selain mereka dari ulama abad kedua belas dan sesudahnya dalam bidang akidah dan hukum-hukum. Saya menasihatkan untuk membacanya, menelaahnya, dan kitab-kitab ulama Ahlus Sunnah lainnya karena di dalamnya terdapat faedah yang besar.\nDi antaranya adalah kumpulan risalah-risalah pertama para imam dakwah dari Alu Syaikh dan selain mereka rahimahumullah serta bantahan-bantahan para syaikh: Syaikh Abdurrahman bin Hasan, Syaikh Abdullathif bin Abdurrahman, Syaikh Abdullah Aba Buthain, Syaikh Sulaiman bin Sahman, dan selain mereka dari para imam petunjuk dan pembela tauhid, karena di dalamnya terdapat faedah, penghilangan banyak syubhat, dan bantahan terhadap para pemiliknya. Semoga Allah merahmati mereka semua dengan rahmat yang luas, menempatkan mereka di surga-Nya yang luas, dan menjadikan kami termasuk pengikut mereka dengan baik.\nDi antaranya adalah edisi-edisi Majalah Al-Buhuts Al-Islamiyyah yang diterbitkan oleh Kepresidenan Umum untuk Administrasi Riset Ilmiah, Fatwa, Dakwah, dan Bimbingan, karena di dalamnya terdapat artikel-artikel yang agung dan faedah-faedah yang banyak dalam akidah dan hukum-hukum.\nDi antaranya adalah jilid-jilid pertama dari kumpulan fatwa dan artikel yang saya terbitkan terkait akidah, dan telah dicetak -alhamdulillah- serta tersedia di tangan para penuntut ilmu. Semoga Allah memberikan manfaat dengannya, dan selain itu yang -alhamdulillah- telah diuraikan dalam kitab-kitab Ahlus Sunnah wal Jama'ah. Allah-lah pemberi taufik⟦N13⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu' Fatawa wa Maqalat Syaikh Ibnu Baz (7/45)."
+  }
+ ]
+}

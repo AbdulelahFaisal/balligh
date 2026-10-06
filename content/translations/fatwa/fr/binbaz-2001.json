@@ -1,0 +1,144 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2001",
+ "source_content_sha256": "sha256:c9ace17aee799e431da3eef9f9cd45a5f3ed7076b7c73d60068f1643f9339185",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:07:39.041923+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 2743,
+  "completion_tokens": 3231,
+  "total_tokens": 5974,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 2487
+ },
+ "latency_ms": 22186,
+ "units": [
+  {
+   "id": "title",
+   "text": "Le sens de Lâ ilâha illa Allah, ses implications et ses conditions"
+  },
+  {
+   "id": "q0",
+   "text": "Question : On remarque que beaucoup de personnes attribuées à la communauté islamique ignorent le sens de Lâ ilâha illa Allah, ce qui a entraîné des paroles et des actes qui la contredisent, s'y opposent ou en diminuent la valeur. Quel est donc le sens de Lâ ilâha illa Allah ? Quelles sont ses implications et ses conditions ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse : Nul doute que cette parole, Lâ ilâha illa Allah, est le fondement de la religion et le premier pilier de l'Islam, avec l'attestation que Muhammad est le Messager d'Allah. C'est ce que rapporte le hadith authentique du Prophète ﷺ : « L'Islam est bâti sur cinq piliers : l'attestation qu'il n'y a de divinité digne d'adoration qu'Allah et que Muhammad est le Messager d'Allah, l'accomplissement de la prière, le versement de la zakah (aumône légale), le jeûne du Ramadan et le pèlerinage à la Maison Sacrée. » (Rapporté par Al-Bukhârî et Muslim, d'après Ibn 'Umar, qu'Allah soit satisfait d'eux deux)."
+  },
+  {
+   "id": "a1",
+   "text": "Dans les deux Sahîh, d'après Ibn 'Abbâs, qu'Allah soit satisfait d'eux deux, le Prophète ﷺ, lorsqu'il envoya Mu'âdh, qu'Allah soit satisfait de lui, au Yémen, lui dit : « Tu vas trouver un peuple des gens du Livre. Appelle-les d'abord à attester qu'il n'y a de divinité digne d'adoration qu'Allah et que je suis le Messager d'Allah. S'ils t'obéissent, fais-leur savoir qu'Allah leur a prescrit cinq prières par jour et par nuit. S'ils t'obéissent, fais-leur savoir qu'Allah leur a prescrit une aumône prélevée sur leurs riches et redistribuée à leurs pauvres. » (Hadith rapporté par Al-Bukhârî et Muslim). Les hadiths à ce sujet sont nombreux."
+  },
+  {
+   "id": "a2",
+   "text": "Le sens de l'attestation Lâ ilâha illa Allah est : il n'y a pas de divinité digne d'adoration en dehors d'Allah. Elle nie la divinité à tout autre qu'Allah, qu'Il soit exalté, et l'affirme exclusivement pour Allah seul. Comme Allah, Puissant et Majestueux, le dit dans la sourate Al-Hajj : ⟦Q1⟧ [Al-Hajj : 62]. Il dit aussi dans la sourate Al-Mu'minûn : ⟦Q2⟧ [Al-Mu'minûn : 117]. Et Il dit, Puissant et Majestueux, dans la sourate Al-Baqarah : ⟦Q3⟧ [Al-Baqarah : 163]. Et dans la sourate Al-Bayyinah : ⟦Q4⟧ [Al-Bayyinah : 5]. Les versets à ce sujet sont nombreux."
+  },
+  {
+   "id": "a3",
+   "text": "Cette parole immense ne profite à celui qui la prononce et ne le fait sortir du polythéisme que s'il en connaît le sens, y croit et agit en conséquence. Les hypocrites la disaient, mais ils seront au plus bas niveau de l'Enfer, car ils n'y croyaient pas et n'agissaient pas selon elle."
+  },
+  {
+   "id": "a4",
+   "text": "De même, les Juifs la disent, mais ils sont parmi les plus mécréants, car ils n'y croient pas. Les adorateurs de tombes et de saints parmi les mécréants de cette communauté la disent, mais ils la contredisent par leurs paroles, leurs actes et leurs croyances. Elle ne leur profite donc pas, et ils ne deviennent pas musulmans en la prononçant, car ils la contredisent par leurs paroles, leurs actes et leurs croyances."
+  },
+  {
+   "id": "a5",
+   "text": "Certains savants ont mentionné que ses conditions sont au nombre de huit, réunies dans deux vers :"
+  },
+  {
+   "id": "a6",
+   "text": "Science, certitude, sincérité et véracité, avec"
+  },
+  {
+   "id": "a7",
+   "text": "Amour, soumission et acceptation pour elle,"
+  },
+  {
+   "id": "a8",
+   "text": "Et sa huitième condition est ton reniement de tout"
+  },
+  {
+   "id": "a9",
+   "text": "Ce qui est adoré en dehors d'Allah."
+  },
+  {
+   "id": "a10",
+   "text": "Ces deux vers englobent toutes ses conditions :"
+  },
+  {
+   "id": "a11",
+   "text": "Premièrement : la science de son sens, qui s'oppose à l'ignorance. Nous avons vu que son sens est : il n'y a pas de divinité digne d'adoration en dehors d'Allah. Toutes les divinités adorées par les gens en dehors d'Allah sont donc fausses."
+  },
+  {
+   "id": "a12",
+   "text": "Deuxièmement : la certitude, qui s'oppose au doute. Celui qui la prononce doit être certain qu'Allah, qu'Il soit exalté, est la seule divinité digne d'adoration."
+  },
+  {
+   "id": "a13",
+   "text": "Troisièmement : la sincérité, c'est-à-dire que le serviteur voue exclusivement à son Seigneur, Allah, Puissant et Majestueux, toutes les adorations. S'il en voue une partie à un autre qu'Allah, comme un prophète, un saint, un roi, une idole, un djinn ou autre, il aura associé à Allah et aura violé cette condition de sincérité."
+  },
+  {
+   "id": "a14",
+   "text": "Quatrièmement : la véracité, c'est-à-dire qu'il la prononce en étant véridique, son cœur étant en accord avec sa langue et sa langue avec son cœur. S'il la prononce seulement avec la langue sans que son cœur croie à son sens, elle ne lui profitera pas, et il sera alors mécréant comme les hypocrites."
+  },
+  {
+   "id": "a15",
+   "text": "Cinquièmement : l'amour, c'est-à-dire qu'il aime Allah, Puissant et Majestueux. S'il la prononce sans aimer Allah, il devient mécréant et n'entre pas dans l'Islam, comme les hypocrites."
+  },
+  {
+   "id": "a16",
+   "text": "Parmi les preuves, la parole d'Allah, exalté soit-Il : ⟦Q5⟧ [Âl 'Imrân : 31] et Sa parole, qu'Il soit glorifié : ⟦Q6⟧ [Al-Baqarah : 165]. Les versets à ce sujet sont nombreux."
+  },
+  {
+   "id": "a17",
+   "text": "Sixièmement : la soumission à ce qu'elle implique comme sens, c'est-à-dire qu'il adore Allah seul, se soumet à Sa loi, y croit et la considère comme la vérité. S'il la prononce sans adorer Allah seul et sans se soumettre à Sa loi, en s'en enorgueillissant, il ne sera pas musulman, comme Iblîs et ses semblables."
+  },
+  {
+   "id": "a18",
+   "text": "Septièmement : l'acceptation de ce qu'elle implique, c'est-à-dire accepter de vouer l'adoration à Allah seul, d'abandonner l'adoration de tout autre et de s'y engager avec satisfaction."
+  },
+  {
+   "id": "a19",
+   "text": "Huitièmement : le reniement de tout ce qui est adoré en dehors d'Allah, c'est-à-dire se désavouer de l'adoration de tout autre qu'Allah et croire qu'elle est fausse, comme Allah, qu'Il soit exalté, le dit : ⟦Q7⟧ [Al-Baqarah : 256]."
+  },
+  {
+   "id": "a20",
+   "text": "Il est authentiquement rapporté du Messager d'Allah ﷺ qu'il a dit : « Quiconque dit Lâ ilâha illa Allah et renie ce qui est adoré en dehors d'Allah, ses biens et son sang deviennent sacrés, et son compte revient à Allah. » Dans une autre version : « Quiconque unifie Allah et renie ce qui est adoré en dehors de Lui, ses biens et son sang deviennent sacrés. » (Rapporté par Muslim dans son Sahîh)."
+  },
+  {
+   "id": "a21",
+   "text": "Il incombe à tous les musulmans de réaliser cette parole en respectant ces conditions. Lorsqu'un musulman en connaît le sens et s'y conforme, il est musulman, son sang et ses biens sont sacrés, même s'il ne connaît pas le détail de ces conditions, car l'essentiel est la connaissance de la vérité et sa mise en pratique, même si le croyant ignore le détail des conditions requises."
+  },
+  {
+   "id": "a22",
+   "text": "Le Tâghût est tout ce qui est adoré en dehors d'Allah, comme Allah, Puissant et Majestueux, le dit : ⟦Q8⟧ [Al-Baqarah : 256]."
+  },
+  {
+   "id": "a23",
+   "text": "Et Il dit, qu'Il soit glorifié : ⟦Q9⟧ [An-Nahl : 36]. Ceux qui n'acceptent pas d'être adorés en dehors d'Allah, comme les prophètes, les pieux et les anges, ne sont pas des Tâghût. Le Tâghût est le diable qui a appelé à leur adoration et l'a embellie aux gens. Nous demandons à Allah pour nous et pour les musulmans la protection contre tout mal. Quant à la différence entre les actes qui contredisent cette parole, Lâ ilâha illa Allah, et ceux qui contredisent sa perfection obligatoire : tout acte, parole ou croyance qui fait tomber dans le polythéisme majeur la contredit totalement et s'y oppose, comme invoquer les morts, les anges, les idoles, les arbres, les pierres, les étoiles, leur sacrifier, leur faire des vœux, se prosterner devant eux, etc."
+  },
+  {
+   "id": "a24",
+   "text": "Tout cela contredit totalement le monothéisme, s'oppose à cette parole et l'annule. Il en est de même du fait de rendre licite ce qu'Allah a interdit parmi les interdits connus de la religion par nécessité et par consensus, comme la fornication, la consommation d'alcool, la désobéissance aux parents, l'usure, etc. De même, renier ce qu'Allah a rendu obligatoire parmi les paroles et les actes connus de la religion par nécessité et par consensus, comme l'obligation des cinq prières, de la zakah, du jeûne du Ramadan, de la piété filiale et de la prononciation des deux attestations."
+  },
+  {
+   "id": "a25",
+   "text": "Quant aux paroles, actes et croyances qui affaiblissent le monothéisme et la foi et contredisent leur perfection obligatoire, ils sont nombreux. Parmi eux : le polythéisme mineur, comme l'ostentation, le serment par un autre qu'Allah, dire « ce qu'Allah a voulu et ce qu'untel a voulu », « cela vient d'Allah et d'untel », etc. De même, tous les péchés affaiblissent le monothéisme et la foi et contredisent leur perfection obligatoire. Il faut donc se garder de tout ce qui contredit le monothéisme et la foi ou en diminue la récompense. La foi, chez les gens de la Sunna et du consensus, est parole et acte, elle augmente avec l'obéissance et diminue avec la désobéissance."
+  },
+  {
+   "id": "a26",
+   "text": "Les preuves sont nombreuses, les savants les ont exposées dans les livres de croyance, d'exégèse et de hadith. Quiconque les cherche les trouvera, louange à Allah. Parmi elles, la parole d'Allah, exalté soit-Il : ⟦Q10⟧ [At-Tawbah : 124], Sa parole, qu'Il soit glorifié : ⟦Q11⟧ [Al-Anfâl : 2], et Sa parole, qu'Il soit glorifié : ⟦Q12⟧ [Maryam : 76]. Les versets à ce sujet sont nombreux⟦N13⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Recueil des fatwas et articles du cheikh Ibn Bâz (7/45)."
+  }
+ ]
+}

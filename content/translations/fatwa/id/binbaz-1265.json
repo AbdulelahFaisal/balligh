@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1265",
+ "source_content_sha256": "sha256:2629ae5ef3b6d5cfab3d351de135274e5410f89177fcf47a3cefbae6d7d99ece",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:55:06.665312+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 782,
+  "completion_tokens": 598,
+  "total_tokens": 1380,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 526
+ },
+ "latency_ms": 6329,
+ "units": [
+  {
+   "id": "title",
+   "text": "Ibunya Meminta agar Dia Meninggalkan Hijab"
+  },
+  {
+   "id": "q0",
+   "text": "T: Saya seorang muslimah, alhamdulillah, saya mengerjakan segala yang diridai Allah, dan berkomitmen dengan hijab syar'i. Akan tetapi ibu saya, semoga Allah mengampuninya, tidak ingin saya berkomitmen dengan hijab, dan menyuruh saya menonton bioskop, video, dan lain-lain. Dia berkata kepada saya, \"Jika kamu tidak bersenang-senang dan bergembira, kamu akan menjadi nenek-nenek dan rambutmu beruban?\""
+  },
+  {
+   "id": "a0",
+   "text": "J: Wajib bagimu untuk berlemah lembut kepada ibu, berbuat baik kepadanya, dan berbicara kepadanya dengan cara yang paling baik, karena hak ibu itu besar. Akan tetapi, tidak boleh bagimu untuk menaatinya dalam hal yang bukan kebaikan, berdasarkan sabda Nabi ﷺ, \"Ketaatan itu hanya dalam kebaikan,\" dan sabda beliau shallallahu 'alaihi wa sallam, \"Tidak ada ketaatan kepada makhluk dalam bermaksiat kepada al-Khaliq.\" Demikian pula ayah, suami, dan selain mereka; mereka tidak ditaati dalam kemaksiatan kepada Allah, berdasarkan hadis yang telah disebutkan. Akan tetapi, selayaknya bagi istri, anak, dan semisalnya untuk menggunakan kelembutan dan cara yang baik dalam menyelesaikan masalah, yaitu dengan menjelaskan dalil-dalil syar'i, kewajiban menaati Allah dan Rasul-Nya, serta peringatan dari bermaksiat kepada Allah dan Rasul-Nya, dengan tetap teguh di atas kebenaran dan tidak menaati orang yang memerintahkan untuk menyelisihinya, baik suami, ayah, ibu, maupun selain mereka.\nTidak mengapa menyaksikan apa yang tidak ada kemungkarannya di televisi dan video, mendengarkan seminar-seminar ilmiah dan pelajaran-pelajaran yang bermanfaat, serta berhati-hati dari menyaksikan kemungkaran yang ditayangkan pada keduanya. Demikian pula, tidak boleh menonton bioskop karena di dalamnya terdapat berbagai macam kebatilan⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu' Fatawa wa Maqalat asy-Syaikh Ibnu Baz (5/355)."
+  }
+ ]
+}

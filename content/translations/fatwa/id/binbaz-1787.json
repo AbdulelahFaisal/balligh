@@ -1,0 +1,60 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1787",
+ "source_content_sha256": "sha256:eb9a78c98c9912a7f56c6dbcd00c34bcd241d9b45bdb64114922966b057a14b2",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:03:28.485511+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1039,
+  "completion_tokens": 967,
+  "total_tokens": 2006,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 783
+ },
+ "latency_ms": 9314,
+ "units": [
+  {
+   "id": "title",
+   "text": "Penjelasan tentang keadaan-keadaan yang memperbolehkan menunda shalat"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Apa saja keadaan yang memperbolehkan menunda shalat? Dan apakah boleh seseorang menunda shalat berjamaah karena makanan?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban: "
+  },
+  {
+   "id": "a1",
+   "text": "Menunda shalat memiliki sebab-sebab dalam safar (perjalanan) dan hadhar (tidak dalam perjalanan). Dalam keadaan hadhar, jika ada sebab-sebab bagi para jamaah masjid, misalnya mereka kehujanan lebat dan ingin menunda agar bisa shalat di masjid, maka mereka menunda karena hujan, atau karena sakit yang menimpa mereka maka mereka menunda, atau semisalnya, atau untuk menunggu jamaah shalat Isya. Dahulu Nabi jika mereka sudah berkumpul, beliau menyegerakan shalat, dan jika mereka terlambat, beliau mengakhirkannya -shallallahu 'alaihi wa sallam-. Atau karena ada jenazah yang hadir agar dishalatkan supaya shalat jenazah tidak terlewat, atau semisalnya dari uzur-uzur syar'i dan tujuan-tujuan syar'i."
+  },
+  {
+   "id": "a2",
+   "text": "Adapun individu, dia tidak boleh menunda, bahkan wajib bersegera dan bergegas menuju shalat berjamaah. Tidak boleh baginya menunda, bahkan wajib bersegera dan bergegas menuju shalat berjamaah, sebagaimana sabda Nabi: \"Barangsiapa mendengar adzan lalu tidak datang, maka tidak ada shalat baginya kecuali karena uzur.\""
+  },
+  {
+   "id": "a3",
+   "text": "Dan Ibnu Mas'ud radhiyallahu 'anhu berkata: \"Sungguh aku telah melihat kami (para sahabat), dan tidak ada yang tertinggal dari shalat berjamaah kecuali orang munafik yang jelas kemunafikannya, kita berlindung kepada Allah.\""
+  },
+  {
+   "id": "a4",
+   "text": "Dan ketika seorang buta meminta izin kepada beliau, ia berkata: \"Tidak ada penuntun yang menuntunku ke masjid, apakah aku mendapat keringanan untuk shalat di rumahku?\" Beliau bersabda: \"Apakah engkau mendengar adzan untuk shalat?\" Ia menjawab: \"Ya.\" Beliau bersabda: \"Maka penuhilah.\" Beliau tidak memberikan keringanan kepada orang buta yang tidak memiliki penuntun yang selalu menemaninya, bahkan beliau memerintahkannya untuk menghadiri jamaah dan melaksanakan shalat berjamaah."
+  },
+  {
+   "id": "a5",
+   "text": "Akan tetapi, jika shalat telah ditegakkan atau waktu shalat telah tiba sementara makanannya telah dihidangkan atau makanannya sudah datang, maka hendaklah ia memulai dengan makanan itu, karena Nabi -shallallahu 'alaihi wa sallam- bersabda: \"Tidak ada shalat ketika makanan telah dihidangkan.\" Maka jika makanan telah dihidangkan, ia memulai dengan makanan itu walaupun ia tertinggal dari jamaah. Namun, hendaklah ia tidak menjadikan hal ini sebagai kebiasaan. Jika waktu shalat tiba lalu ia berkata: \"Berikan kami makanan\", maka tidak, ini tidak boleh. Tetapi jika kebetulan makanan telah dihidangkan, kemudian muadzin mengumandangkan adzan, maka ia memulai dengan makanan yang telah dihidangkan itu. Adapun menjadikannya sebagai kebiasaan, ini artinya ia ingin meninggalkan jamaah, maka ini tidak boleh, ini termasuk perbuatan orang-orang munafik. Akan tetapi, kapan saja kebetulan makanan telah dihidangkan, atau adzan dikumandangkan sementara makanan sedang dihidangkan, maka ia memulai dengan makanan itu."
+  }
+ ]
+}

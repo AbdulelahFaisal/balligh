@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1391",
+ "source_content_sha256": "sha256:753186bcde8d774253b42e0747133d21d24a56db6c7c2fb21f114e8664723f23",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:57:53.479227+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1009,
+  "completion_tokens": 887,
+  "total_tokens": 1896,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 753
+ },
+ "latency_ms": 7515,
+ "units": [
+  {
+   "id": "title",
+   "text": "Que dit celui qui voit un rêve qui ne lui plaît pas ?"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Ma mère a vu en rêve qu'elle et toute la famille étaient dans une maison, et mon père décédé – qu'Allah lui fasse miséricorde – est venu à eux. Elle dit : je me suis réjouie de lui et je lui ai dit : ne nous quitte pas. Dans son esprit, il vivait dans un autre endroit. Elle dit qu'elle l'a touché, et il lui a dit : ne me touche pas, je suis impur ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Ce rêve et ses semblables proviennent des démons. Le Prophète ﷺ dit : « Le rêve pieux vient d'Allah, et le mauvais rêve vient de Satan. Si l'un de vous voit ce qui lui déplaît, qu'il crache légèrement à sa gauche trois fois, et qu'il demande protection à Allah contre Satan le lapidé et contre ce qu'il a vu, trois fois, puis qu'il se retourne de l'autre côté. Cela ne lui nuira pas, et qu'il n'en parle à personne. » Celui qui voit qu'il est tué, ou qu'il est impur, ou qu'on verse de l'urine sur lui, ou que quelqu'un le menace de mort, ou le frappe, ou qu'il a la nudité découverte, ou autre chose de semblable, tout cela vient des démons. S'il se réveille, qu'il crache légèrement à sa gauche trois fois et qu'il dise : « Je cherche protection auprès d'Allah contre Satan et contre le mal de ce que j'ai vu », trois fois, puis qu'il se retourne de l'autre côté et qu'il n'en parle à personne. Cela ne lui nuira pas, si Allah le veut."
+  },
+  {
+   "id": "a2",
+   "text": "Question : Que dit-il : Allahou akbar kabîran, wal-hamdou lillâhi kathîran, wa soubhânallâhi wa bihamdihi boukratan wa asîlan ?"
+  },
+  {
+   "id": "a3",
+   "text": "Réponse : Nous n'avons pas entendu cela. Ce que le Prophète ﷺ a dit : « Qu'il demande protection à Allah et qu'il crache légèrement à sa gauche trois fois, et qu'il demande protection à Allah contre Satan et contre le mal de ce qu'il a vu, trois fois, puis qu'il se retourne de l'autre côté. » S'il veut ensuite glorifier Allah, cela est un bien."
+  },
+  {
+   "id": "a4",
+   "text": "La sunna, au réveil, est de dire : « Il n'y a de divinité digne d'adoration qu'Allah, seul, sans associé. À Lui la royauté et à Lui la louange, et Il est capable de toute chose. Gloire à Allah, louange à Allah, il n'y a de divinité digne d'adoration qu'Allah, Allah est le plus grand, et il n'y a de force ni de puissance qu'en Allah. Louange à Allah qui m'a redonné la vie après m'avoir fait mourir, et c'est vers Lui que se fera la résurrection. » Il est recommandé de dire cela au réveil de manière générale, en fin de nuit ou au milieu de la nuit, même si l'on n'a pas vu de rêve. Si l'on se réveille pendant la nuit, il est recommandé de dire cela."
+  }
+ ]
+}

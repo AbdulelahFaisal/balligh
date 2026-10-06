@@ -1,6 +1,6 @@
 {
   "schema": "balligh.site-help/1",
-  "version": "g4v1-1",
+  "version": "g5g-1",
   "entries": [
     {
       "id": "help-learn-first-steps",
@@ -46,8 +46,8 @@
       },
       "href": null,
       "text": {
-        "en": "The “Interface language” menu at the top changes the site’s buttons and labels, and this browser remembers your choice. In the library, “Reading language” chooses which published translation is shown next to the Arabic original; it starts from your interface language. The Arabic original is always shown, and a translation appears only where a published one is available. The interface has 7 languages; its wording in languages other than Arabic and English is machine-drafted and unreviewed.",
-        "ar": "تغيّر قائمة «لغة الواجهة» في أعلى الصفحة أزرار الموقع وتسمياته، ويتذكر هذا المتصفح اختيارك. وفي المكتبة، تحدد «لغة القراءة» الترجمة المنشورة التي تُعرض بجوار الأصل العربي، وتبدأ بلغة الواجهة. يُعرض الأصل العربي دائمًا، ولا تظهر ترجمة إلا حيث تتوفر ترجمة منشورة. للواجهة سبع لغات، ونصوصها في غير العربية والإنجليزية مسودات آلية غير مراجعة."
+        "en": "The “Interface language” menu at the top changes the site’s buttons and labels, and this browser remembers your choice. In the library, “Reading language” chooses which translation is shown with the Arabic original; it starts from your interface language. For the Quran and hadith, the Arabic is always shown and a translation appears only where the publisher has released one. For fatwas, the reader shows an AI-assisted translation where one is stored, labelled “AI-assisted translation”, and keeps the Arabic original available on the same page. The interface has 7 languages; its wording in languages other than Arabic and English is machine-drafted and unreviewed.",
+        "ar": "تغيّر قائمة «لغة الواجهة» في أعلى الصفحة أزرار الموقع وتسمياته، ويتذكر هذا المتصفح اختيارك. وفي المكتبة، تحدد «لغة القراءة» الترجمة التي تُعرض مع الأصل العربي، وتبدأ بلغة الواجهة. في القرآن والحديث يُعرض النص العربي دائمًا، ولا تظهر ترجمة إلا حيث أصدر الناشر ترجمة. وفي الفتاوى يعرض القارئ ترجمة بمساعدة الذكاء الاصطناعي حيث تتوفر، تحت تسمية «ترجمة بمساعدة الذكاء الاصطناعي»، مع إبقاء الأصل العربي متاحًا في الصفحة نفسها. للواجهة سبع لغات، ونصوصها في غير العربية والإنجليزية مسودات آلية غير مراجعة."
       }
     },
     {
@@ -58,8 +58,8 @@
       },
       "href": "/library",
       "text": {
-        "en": "The library has three collections: the Noble Quran (all 114 surahs) with the Arabic text and published translations of its meanings from QuranEnc; Fatwas answered by Sheikh Abdulaziz Ibn Baz, from binbaz.org.sa, in Arabic only; and authentic hadith from HadeethEnc.com with their grade, published explanation and published translations where available. Texts are shown as their publishers released them, and Balligh has not reviewed them.",
-        "ar": "تضم المكتبة ثلاث مجموعات: القرآن الكريم (السور الـ114 كلها) بنصه العربي وترجمات منشورة لمعانيه من موقع QuranEnc؛ و«فتاوى» أجاب عنها الشيخ عبد العزيز بن باز، من موقع binbaz.org.sa، بالعربية فقط؛ وأحاديث صحيحة من موقع HadeethEnc.com مع درجتها وشرحها المنشور وترجماتها المنشورة حيث تتوفر. تُعرض النصوص كما أصدرها ناشروها، ولم يراجعها «بلّغ»."
+        "en": "The library has three collections: the Noble Quran (all 114 surahs) with the Arabic text and published translations of its meanings from QuranEnc; Fatwas answered by Sheikh Abdulaziz Ibn Baz, from binbaz.org.sa, published in Arabic, with AI-assisted translations where one is stored; and authentic hadith from HadeethEnc.com with their grade, published explanation and published translations where available. Texts are shown as their publishers released them, and Balligh has not reviewed them. The AI-assisted fatwa translations are not publisher translations, and no person has reviewed them.",
+        "ar": "تضم المكتبة ثلاث مجموعات: القرآن الكريم (السور الـ114 كلها) بنصه العربي وترجمات منشورة لمعانيه من موقع QuranEnc؛ و«فتاوى» أجاب عنها الشيخ عبد العزيز بن باز، من موقع binbaz.org.sa، منشورة بالعربية مع ترجمات بمساعدة الذكاء الاصطناعي حيث تتوفر؛ وأحاديث صحيحة من موقع HadeethEnc.com مع درجتها وشرحها المنشور وترجماتها المنشورة حيث تتوفر. تُعرض النصوص كما أصدرها ناشروها، ولم يراجعها «بلّغ». أما ترجمات الفتاوى بمساعدة الذكاء الاصطناعي فليست ترجمات من الناشر، ولم يراجعها أحد."
       }
     },
     {
@@ -82,8 +82,8 @@
       },
       "href": "/library",
       "text": {
-        "en": "When no published translation exists in your reading language, the reader says so and shows only the Arabic original. This applies to the Quran, to the questions and answers (published in Arabic only) and to hadith whose publisher has no translation in that language. Balligh does not show machine translations of these sources.",
-        "ar": "عندما لا توجد ترجمة منشورة بلغة القراءة التي اخترتها، يوضح القارئ ذلك ويعرض الأصل العربي فقط. ينطبق هذا على القرآن، وعلى الأسئلة والأجوبة (المنشورة بالعربية فقط)، وعلى الأحاديث التي لا تتوفر لها ترجمة من ناشرها بتلك اللغة. لا يعرض «بلّغ» ترجمات آلية لهذه المصادر."
+        "en": "When no translation exists in your reading language, the reader says so and shows the Arabic original. For the Quran and hadith, Balligh shows only translations released by their publishers, never a machine translation. Fatwas are published in Arabic only; where an AI-assisted translation of a fatwa is stored, the reader shows it under the label “AI-assisted translation” and keeps the Arabic original available, and where none is stored it shows the Arabic original. Quran verses quoted in a fatwa are never machine-translated.",
+        "ar": "عندما لا توجد ترجمة بلغة القراءة التي اخترتها، يوضح القارئ ذلك ويعرض الأصل العربي. في القرآن والحديث لا يعرض «بلّغ» إلا الترجمات التي أصدرها ناشروها، ولا يعرض ترجمة آلية لهما أبدًا. أما الفتاوى فمنشورة بالعربية فقط؛ فحيث تتوفر للفتوى ترجمة بمساعدة الذكاء الاصطناعي يعرضها القارئ تحت تسمية «ترجمة بمساعدة الذكاء الاصطناعي» مع إبقاء الأصل العربي متاحًا، وحيث لا تتوفر يعرض الأصل العربي. والآيات القرآنية الواردة في الفتوى لا تُترجم آليًا أبدًا."
       }
     },
     {

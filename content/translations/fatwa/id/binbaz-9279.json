@@ -1,0 +1,52 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-9279",
+ "source_content_sha256": "sha256:3800dc33be049baa6c74b905e3376eb32ac867773999532f446dadd5393dc497",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:25:06.173889+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 838,
+  "completion_tokens": 643,
+  "total_tokens": 1481,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 582
+ },
+ "latency_ms": 6261,
+ "units": [
+  {
+   "id": "title",
+   "text": "Parameter kebencian dan kemarahan terhadap orang lain serta durasinya"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Yang Mulia Syaikh, ada pertanyaan terakhir yang berbunyi: Jika seseorang membenci orang lain, apakah orang lain itu berdosa jika membalas kebenciannya? Semoga Allah membalas Anda dengan kebaikan."
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Ini perlu diketahui sebab-sebabnya. Jika ia membencinya karena orang itu menampakkan kemaksiatan, maka ia mendapat pahala dan orang itu pantas dijauhi. Adapun jika ia membencinya karena hal-hal lain, maka tidak sepantasnya demikian; tidak sepantasnya karena urusan duniawi. Hendaknya ia berjuang melawan hawa nafsunya agar ia mencintainya karena Allah. Demikian pula orang lain itu, janganlah ia membalas dengan perlakuan serupa, tetapi hendaknya ia mencintainya karena Allah jika ia taat kepada Allah dan istiqamah. Kecintaannya bukan karena mengikuti hawa nafsunya, tetapi karena hal-hal yang syar'i. Barangsiapa yang istiqamah, maka wajib mencintainya karena Allah, sekalipun Anda mendapati darinya sesuatu yang Anda benci terkait hak Anda, karena kewajiban Anda adalah mencintainya karena Allah, dan orang lain itu mencintai Anda karena Allah jika Anda istiqamah."
+  },
+  {
+   "id": "a2",
+   "text": "Adapun urusan duniawi yang terjadi di antara manusia, maka tidak mengapa untuk mendiamkannya selama tiga hari atau kurang, jika masalahnya memuncak dan membutuhkan hal itu selama tiga hari atau kurang. Pendiaman itu hanya untuk urusan duniawi saja, berdasarkan sabda Nabi ﷺ: \"Tidak ada hijrah (pendiaman) lebih dari tiga hari.\" Ya, maksudnya jika terjadi perselisihan di antara mereka terkait hak makhluk, atau perkelahian, atau semacamnya, maka mereka boleh saling mendiamkan hanya selama tiga hari."
+  },
+  {
+   "id": "a3",
+   "text": "Adapun jika karena Allah, karena kemaksiatan yang nyata, atau karena bid'ah, maka orang itu didiamkan sampai ia bertobat, meskipun sebulan, dua bulan, atau lebih, karena Rasulullah ﷺ mendiamkan Ka'b bin Malik dan dua sahabatnya selama lima puluh malam karena mereka durhaka dalam urusan jihad; mereka tidak ikut berjihad tanpa uzur. Ya."
+  }
+ ]
+}

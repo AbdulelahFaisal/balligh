@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-6",
+ "source_content_sha256": "sha256:c9d37b4a1ec0322fd006d7c656231c520fd43f347c4645caa77aa1d0f42a132c",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:22:16.981019+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 624,
+  "completion_tokens": 268,
+  "total_tokens": 892,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 368
+ },
+ "latency_ms": 2817,
+ "units": [
+  {
+   "id": "title",
+   "text": "认识认主独一在信仰、行为和操守方面的途径"
+  },
+  {
+   "id": "q0",
+   "text": "问：提问者说：愿真主因你们充实的讲座而赐予你们最好的回赐，并使其成为你们善功的砝码。我的问题是：如何认识认主独一的真谛，即在信仰、行为和操守方面？"
+  },
+  {
+   "id": "a0",
+   "text": "答：赞颂真主，途径是容易的。信士应当自我反省，坚持真理，并效仿那些将经典明文付诸自身实践的人，从而坚守对真主的认主独一和虔诚，坚持实践，并宣传之，直到坚定不移，使之成为自己的天性，此后任何企图阻挠或混淆视听者都不能伤害他。\n重要的是要重视此事，自我反省，并深刻理解它，以免事物混淆，以免谬误乘虚而入⟦N1⟧。"
+  },
+  {
+   "id": "n0.0",
+   "text": "伊本·巴兹教法判例集（1/49）。"
+  }
+ ]
+}

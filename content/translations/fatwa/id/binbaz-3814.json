@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3814",
+ "source_content_sha256": "sha256:548cf03974c6fe00cfbf76444cb3f89de13059727e31eccd44a2a9600e136381",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:18:18.353002+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 846,
+  "completion_tokens": 670,
+  "total_tokens": 1516,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 590
+ },
+ "latency_ms": 6455,
+ "units": [
+  {
+   "id": "title",
+   "text": "Hukum mandi karena mimpi basah yang tidak mendapati bekasnya"
+  },
+  {
+   "id": "q0",
+   "text": "T: Pertanyaan dari: Ibrahim. A. H - dia berkata: Kadang-kadang saya ingat mimpi basah setelah saya bangun tidur, tetapi saya tidak melihat bekas apa pun dari mimpi basah itu. Apakah saya wajib mandi atau tidak? Berilah kami fatwa, semoga Allah membalas kalian dengan kebaikan."
+  },
+  {
+   "id": "a0",
+   "text": "J: Tidak wajib mandi bagi orang yang bermimpi basah kecuali jika dia mendapati cairan, yaitu mani; berdasarkan sabda Nabi ﷺ: \"Air itu karena air\" maksudnya: air mandi itu karena keluarnya air mani. Ini menurut para ulama dalam hal orang yang mimpi basah. Adapun jika dia bersetubuh dengan istrinya, maka dia wajib mandi walaupun tidak keluar mani darinya; berdasarkan sabda Nabi ﷺ: \"Apabila dua khitan bertemu, maka wajib mandi\" diriwayatkan oleh Muslim dalam Shahihnya. Dan beliau ﷺ bersabda: \"Apabila dia duduk di antara empat cabangnya (kedua tangan dan kedua kaki istrinya), lalu bersungguh-sungguh kepadanya, maka wajib mandi\" disepakati keshahihannya, Muslim menambahkan dalam Shahihnya: \"walaupun tidak keluar mani.\"\n Dalam Shahihain, dari Anas radhiyallahu 'anhu, bahwa Ummu Sulaim Al-Anshariyyah – ibunya Anas radhiyallahu 'anhuma – berkata: Wahai Rasulullah, sesungguhnya Allah tidak malu dari kebenaran. Apakah wanita wajib mandi jika dia mimpi basah? Maka Nabi ﷺ bersabda: \"Ya, jika dia melihat air (mani).\"\n Hukum ini mencakup laki-laki dan perempuan menurut seluruh ulama. Dan termasuk dalam makna ini: orang yang mengeluarkan mani karena syahwat, baik karena berpikir atau bersentuhan, maka dia wajib mandi, seperti orang yang mimpi basah jika mengeluarkan mani; berdasarkan keumuman sabda beliau ﷺ: \"Air itu karena air.\" Dan Allah Maha Pemberi taufik⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Diterbitkan di Majalah Ad-Da'wah edisi (955) tanggal 23/11/1404 H. Dan dalam kitab Ad-Da'wah (Al-Fatawa) karya beliau, jilid 1 halaman 40-41, (Majmu' Fatawa wa Maqalat Asy-Syaikh Ibnu Baz 10/179)."
+  }
+ ]
+}

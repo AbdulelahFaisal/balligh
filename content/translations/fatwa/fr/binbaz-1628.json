@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1628",
+ "source_content_sha256": "sha256:96e8a9251e4c16aedd6c23ee621e686bf80e88242c710dfcf32a82c118e84353",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:01:32.216455+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 729,
+  "completion_tokens": 564,
+  "total_tokens": 1293,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 473
+ },
+ "latency_ms": 5812,
+ "units": [
+  {
+   "id": "title",
+   "text": "Le jugement concernant le fait de regarder la fiancée et ses conditions"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Si le prétendant demande à rencontrer la femme sans isolement, quelle est la preuve de cela, alors que le Messager ﷺ dit : « Toute la femme est ‘awrah » ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Il n’y a pas de mal à cela. La femme est ‘awrah, comme cela est venu dans le hadith, mais le Prophète ﷺ a excepté de cela ce qui concerne le prétendant lorsqu’il fait sa demande et qu’il souhaite regarder : il n’y a pas de mal. Le Prophète ﷺ a dit : « Si l’un de vous demande une femme en mariage et qu’il peut regarder d’elle ce qui l’incite à l’épouser, qu’il le fasse. » S’il peut regarder, même de loin et à son insu, il n’y a pas de mal. Jâbir ibn ‘Abdillâh al-Ansârî (qu’Allah l’agrée) a demandé en mariage une femme des Ansâr sans l’avoir vue. Il dit : « Je me suis mis à longer les palmiers dans l’espoir de la voir, jusqu’à ce qu’il vît d’elle ce qui lui plut, et il l’épousa. »"
+  },
+  {
+   "id": "a2",
+   "text": "Le but est que, s’il lui est facile de la voir, même de loin, même en se trouvant dans la maison de sa famille, qu’elle passe et qu’ils soient consentants, ou autre chose de semblable ; et s’il est facile que son père ou son frère la fassent venir chez eux et la fassent entrer auprès de lui, et qu’il la voie sans isolement, en présence de son père, de son frère, de sa mère ou autre, alors il n’y a pas de mal. C’est ce que le Prophète ﷺ a permis et autorisé."
+  }
+ ]
+}

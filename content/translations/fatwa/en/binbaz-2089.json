@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2089",
+ "source_content_sha256": "sha256:e675c38fd856136f56e9837afd01ad537022c07febf227c5c56de06f282e3d8f",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:09:02.302924+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 562,
+  "completion_tokens": 257,
+  "total_tokens": 819,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 306
+ },
+ "latency_ms": 2684,
+ "units": [
+  {
+   "id": "title",
+   "text": "Are Harut and Marut angels or humans?"
+  },
+  {
+   "id": "q0",
+   "text": "Q: Are Harut and Marut angels or humans? Please clarify the preponderant view among the scholars on this."
+  },
+  {
+   "id": "a0",
+   "text": "A: The scholars have differed on this. The most apparent view is that they were two angels who were sent down as a trial and test, as Allah, Mighty and Majestic, says: ⟦Q1⟧ the verse [al-Baqarah:102]. Some of the people of knowledge said that they were two kings from the children of Adam with whom people were tested. The first view is the more apparent one, and according to this first view the reading has a fathah on the lam, while according to the second view it has a kasrah⟦N2⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu' Fatawa wa Maqalat al-Shaykh Ibn Baz (8/115)."
+  }
+ ]
+}

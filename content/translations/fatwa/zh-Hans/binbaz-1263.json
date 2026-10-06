@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1263",
+ "source_content_sha256": "sha256:b29f02601d672521e9b92d31b467e83a34c54df33d85b0d92891395bcc397ee2",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:54:41.987774+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 724,
+  "completion_tokens": 384,
+  "total_tokens": 1108,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 468
+ },
+ "latency_ms": 4241,
+ "units": [
+  {
+   "id": "title",
+   "text": "进入伊斯兰教的事项"
+  },
+  {
+   "id": "q0",
+   "text": "问：仅念诵第一支柱——作证“万物非主，唯有真主，穆罕默德是真主的使者”就足够了吗？还是必须完成其他事项，一个人的伊斯兰才算完整？"
+  },
+  {
+   "id": "a0",
+   "text": "答：如果非穆斯林真诚地作证“万物非主，唯有真主，穆罕默德是真主的使者”，对此坚信不疑，理解其含义并遵行，他便进入了伊斯兰教。之后他被要求履行拜功及其余教法规定。因此，先知ﷺ派遣穆阿兹前往也门时对他说：“你首先号召他们作证万物非主，唯有真主，穆罕默德是真主的使者。如果他们这样做了，你再告诉他们，真主规定他们每昼夜礼五番拜。如果他们服从了，你再告诉他们，真主规定他们从富人的财产中抽取天课（则卡），用于周济穷人。”他只在认主独一和信仰使者ﷺ之后才命令他们礼拜和缴纳天课。如果非穆斯林这样做了，他就获得穆斯林的律法地位，然后被要求履行拜功及宗教的其他事务。如果他拒绝，则有其他律法规定：若放弃拜功，执政者应要求他悔改，若悔改则罢，否则处死。其他教法规定也依其应得的方式处理⟦N1⟧。"
+  },
+  {
+   "id": "n0.0",
+   "text": "伊本·巴兹谢赫教法判例与文集总汇（5/355）。"
+  }
+ ]
+}

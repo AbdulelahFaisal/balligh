@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2460",
+ "source_content_sha256": "sha256:84a97d168c720b0de4302d6b26f166e1c80e4c9ddb5eeb31cc093859038a2b77",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:11:21.273198+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 912,
+  "completion_tokens": 729,
+  "total_tokens": 1641,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 656
+ },
+ "latency_ms": 6506,
+ "units": [
+  {
+   "id": "title",
+   "text": "Hukum Muwalat (Berloyalitas) kepada Orang Kafir dan Mencintai Mereka"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Anda menyebutkan dalam salah satu fatwa Anda tentang tafsir ayat yang mulia ⟦Q1⟧ [al-Mujadilah:22] ayat tersebut bahwa siapa yang mencintai orang-orang kafir dan berloyalitas kepada mereka, maka dia kafir dengan kekufuran yang mengeluarkan dari agama. Saya mohon penjelasan mengenai hal itu, dan apakah yang dimaksud dengan orang-orang kafir adalah mereka yang sedang berperang melawan kaum muslimin?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Ya, siapa yang mencintai orang-orang kafir -Yahudi, Nasrani, dan musyrikin- meskipun mereka dalam perjanjian damai dan tidak dalam keadaan perang, siapa yang mencintai mereka karena agama mereka, meridai agama mereka, dan bekerja sama dengan mereka untuk kepentingan agama mereka, dan semacamnya; maka dia seperti mereka. Adapun jika dia mencintai suatu kaum dengan kecintaan yang khusus; karena mereka memberinya sesuatu, atau karena mereka kerabat, dia mencintai mereka karena kekerabatan, bukan karena agama mereka, maka ini adalah maksiat besar."
+  },
+  {
+   "id": "a2",
+   "text": "Adapun jika dia mencintai mereka karena agama mereka, karena akhlak mereka, dan karena apa yang mereka berada di atasnya, dan dia mengutamakan mereka atas kaum muslimin, serta memandang bahwa mereka berada di atas petunjuk dan kebaikan, maka ini -wal 'iyadzu billah- adalah murtad yang nyata dan kufur yang jelas, kita memohon keselamatan kepada Allah; karena muwalat itu ada dua macam:"
+  },
+  {
+   "id": "a3",
+   "text": "Muwalat yang bermakna kecintaan, pertolongan, dan dukungan kepada mereka atas kaum muslimin, serta meridai agama dan akhlak mereka, ini adalah kufur akbar."
+  },
+  {
+   "id": "a4",
+   "text": "Dan terkadang: seseorang mencintai sebagian orang karena kekerabatan, atau karena istrinya dari ahli kitab, atau karena dia kerabatnya sehingga dia mencintainya, dan mendoakannya agar mendapat hidayah, dan semacamnya, tetapi dia tidak mencintai agamanya, tidak meridai agamanya, dan tidak berloyalitas atas dasar agamanya, maka ini adalah kecintaan yang kurang, kecintaan yang khusus karena kekerabatan atau hubungan lain, maka kecintaan ini mengurangi agamanya dan melemahkan agamanya, dan dia wajib membenci mereka karena Allah dan memusuhi mereka karena Allah, tetapi hal itu tidak termasuk murtad besar, melainkan di bawah itu, kita memohon keselamatan kepada Allah."
+  }
+ ]
+}

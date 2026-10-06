@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-6720",
+ "source_content_sha256": "sha256:7e90c2504fd942523be1f61a36674b10a522ae9da1a0255e8bcf67ce41819778",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:22:26.899358+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 503,
+  "completion_tokens": 192,
+  "total_tokens": 695,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 247
+ },
+ "latency_ms": 2265,
+ "units": [
+  {
+   "id": "title",
+   "text": "What is the praiseworthy strength in a believer?"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "Who said that the strength in a strong believer includes physical strength?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "No, it is not physical. What does he want with the body?! Strength is the strength of action. If he were stronger than an elephant but does not enjoin good or forbid evil, he is not called strong; he is called weak.\n (Lessons on explaining Bulugh al-Maram, Kitab al-Jami')"
+  }
+ ]
+}

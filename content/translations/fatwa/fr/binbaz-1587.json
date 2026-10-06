@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1587",
+ "source_content_sha256": "sha256:3841c343d16bc6258820ebe89572d5839aaecd69c2a59016040e0022f889a878",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:59:29.767075+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 795,
+  "completion_tokens": 601,
+  "total_tokens": 1396,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 539
+ },
+ "latency_ms": 5907,
+ "units": [
+  {
+   "id": "title",
+   "text": "Le jugement relatif à l'obéissance aux parents concernant l'abandon de la 'oumra"
+  },
+  {
+   "id": "q0",
+   "text": "Q : Si mes parents m'ordonnent d'abandonner de bons amis et de vertueux compagnons et de ne pas voyager avec eux pour accomplir une 'oumra, sachant que je suis sur la voie de l'engagement religieux, leur obéissance m'est-elle obligatoire dans ce cas ?"
+  },
+  {
+   "id": "a0",
+   "text": "R : Tu n'as pas à leur obéir dans la désobéissance à Allah, ni dans ce qui est nuisible, conformément à la parole du Prophète ﷺ : « L'obéissance n'est due que dans le convenable », et à sa parole ﷺ : « Point d'obéissance à une créature dans la désobéissance au Créateur. » Celui qui t'interdit la compagnie des vertueux, ne lui obéis pas, qu'il s'agisse de tes parents ou d'autres. Et n'obéis à personne dans la compagnie des gens mauvais. Mais adresse-toi à tes parents avec de bonnes paroles et de la meilleure manière, en disant par exemple : « Ô mon père, ceci... Ô ma mère, cela... Ce sont des gens bien, je profite d'eux et ils me sont utiles, mon cœur s'adoucit avec eux, j'apprends la science et j'en tire profit. » Réponds-leur donc avec de bonnes paroles et un bon comportement, non avec dureté et violence. Et s'ils t'empêchent, ne leur dis pas que tu fréquentes les vertueux et que tu es en contact avec eux, et ne leur dis pas que tu es parti avec eux s'ils ne l'acceptent pas.\nMais tu ne dois leur obéir que dans l'obéissance à Allah et dans le convenable. S'ils t'ordonnent de fréquenter les gens mauvais, ou de fumer, de boire de l'alcool, de commettre la fornication ou toute autre désobéissance, ne leur obéis pas, ni à eux ni à d'autres, en raison des deux hadiths mentionnés ci-dessus. Et c'est d'Allah que vient le succès⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmou' fatawa wa maqalat de Cheikh Ibn Baz (6/161)."
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3650",
+ "source_content_sha256": "sha256:a8b10da16fbe6543e86930bc72fa558f140ce2f9b71295b39eaf494ccd05c8c4",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:17:11.453936+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 499,
+  "completion_tokens": 229,
+  "total_tokens": 728,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 243
+ },
+ "latency_ms": 2594,
+ "units": [
+  {
+   "id": "title",
+   "text": "Est-il exigé pour celui qui a une barbe épaisse que l'eau atteigne les racines des poils ?"
+  },
+  {
+   "id": "q0",
+   "text": "Q : Est-il exigé pour celui qui a une barbe épaisse que l'eau atteigne les racines des poils ?"
+  },
+  {
+   "id": "a0",
+   "text": "R : Il lui suffit de faire passer l'eau dessus, et des hadiths authentiques indiquent cela. Et s'il les fait pénétrer, c'est meilleur. Le Prophète ﷺ a fait ceci et cela⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "De l'émission Nour 'ala ad-Darb, (Majmou' Fatawa wa Maqalat de Shaykh Ibn Baz 10/99)."
+  }
+ ]
+}

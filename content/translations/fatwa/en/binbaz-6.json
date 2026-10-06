@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-6",
+ "source_content_sha256": "sha256:c9d37b4a1ec0322fd006d7c656231c520fd43f347c4645caa77aa1d0f42a132c",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:22:13.587117+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 621,
+  "completion_tokens": 306,
+  "total_tokens": 927,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 365
+ },
+ "latency_ms": 3146,
+ "units": [
+  {
+   "id": "title",
+   "text": "The way to know Tawhid in belief, conduct, and action"
+  },
+  {
+   "id": "q0",
+   "text": "Q: The questioner says: May Allah reward you well for your comprehensive lecture, and may Allah place it in the balance of your good deeds. My question is: How can one know the reality of Tawhid in belief, conduct, and action?"
+  },
+  {
+   "id": "a0",
+   "text": "A: The way, praise be to Allah, is facilitated. The believer must hold himself to account, adhere to the truth, and be influenced by those who apply the texts to themselves. Thus he remains upright upon the Tawhid of Allah and sincerity to Him, adheres to acting upon that, and calls to it until he becomes firm upon it and it becomes his natural disposition. After that, no one who wishes to hinder him from this or to confuse him can harm him.\nThe important thing is that he gives attention to this matter, holds himself to account, and knows it well so that matters do not become confused for him, and so that doubts do not find acceptance with him⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu' Fatawa Ibn Baz (1/49)."
+  }
+ ]
+}

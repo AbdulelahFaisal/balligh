@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-5990",
+ "source_content_sha256": "sha256:1510ee23cc954cd3f3bbc93264366731c885a7c0e40de803e60180a4059e628f",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:22:13.929765+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 920,
+  "completion_tokens": 863,
+  "total_tokens": 1783,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 664
+ },
+ "latency_ms": 7303,
+ "units": [
+  {
+   "id": "title",
+   "text": "Quelles sont les conditions de l'islam ?"
+  },
+  {
+   "id": "q0",
+   "text": "Question : Notre frère pose une question à la fin de son message et dit : Combien y a-t-il de conditions pour l'islam ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse : Les conditions de l'islam sont deux :\nPremière condition : la sincérité envers Allah. Il faut que ton intention en embrassant l'islam, en entrant dans la religion d'Allah et dans tes actes, soit le Visage d'Allah, Puissant et Majestueux. Cela est indispensable. Tout acte que tu accomplis sans rechercher le Visage d'Allah – qu'il s'agisse de prière, d'aumône, de jeûne ou autre – n'est ni utile ni accepté, même les deux attestations de foi. Si tu les prononces par ostentation ou par hypocrisie, elles ne sont pas acceptées et ne te servent à rien ; tu seras parmi les hypocrites. Il faut donc que ta parole « J'atteste qu'il n'y a de divinité qu'Allah et que Muhammad est le Messager d'Allah » soit véridique, venant de ton cœur : que tu croies en Allah Seul, qu'Il est la divinité digne d'adoration en toute vérité, que Muhammad est le Messager d'Allah, véridique, qu'il est réellement le Messager d'Allah et le sceau des prophètes. Si cela est sincère et pur, cela te sera utile."
+  },
+  {
+   "id": "a1",
+   "text": "De même, dans ta prière, tu adores Allah Seul ; de même pour ton aumône, ta lecture, tes louanges, ton jeûne, ton pèlerinage : ils doivent être pour Allah Seul.\nDeuxième condition : la conformité à la Loi révélée. Il faut que tes actes soient conformes à la Loi révélée, non issus de ton opinion personnelle ni de ton propre effort d'interprétation. Tu dois t'efforcer de suivre la Loi : prie comme Allah a légiféré, jeûne comme Allah a légiféré, verse la zakah (aumône obligatoire) comme Allah a légiféré, lutte comme Allah a légiféré, accomplis le pèlerinage comme Allah a légiféré. C'est ainsi que le Prophète ﷺ a dit : « Quiconque accomplit un acte qui n'est pas conforme à notre affaire, cet acte est rejeté. » Et Allah dit dans Son Livre immense : ⟦Q1⟧ [Sourate Ash-Shoura, verset 21], les blâmant pour cela. Et Il dit, Glorifié soit-Il : ⟦Q2⟧ [Sourate Al-Jathiya, verset 18].\nIl est donc obligatoire de suivre la Loi révélée qu'Allah a prescrite par l'intermédiaire de Son Messager Muhammad ﷺ, et de ne pas s'en écarter dans toutes les adorations par lesquelles on se rapproche d'Allah, Glorifié et Exalté soit-Il. Telles sont les conditions de l'islam ; elles sont deux :\nPremièrement : la sincérité envers Allah dans l'acte.\nDeuxièmement : la conformité à la Loi révélée.\nC'est par cela que tu tires profit de tes adorations et qu'Allah les accepte de toi, si tu es musulman.\nOui."
+  }
+ ]
+}

@@ -4,5 +4,8 @@
   "helpQuestion": "Please explain the question and the answer of this fatwa in clear English. This is an explanation, not a translation.",
   "aiAssisted": "AI-assisted translation",
   "showArabic": "Show the Arabic original",
-  "publishedMeaning": "Published translation of the meanings"
+  "publishedMeaning": "Published translation of the meanings",
+  "aiAvailableIn": "An AI-assisted translation of this fatwa is available in these languages:",
+  "readingHintTranslated": "The Arabic original is available under “{{label}}”.",
+  "notesTitle": "Notes"
 }

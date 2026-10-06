@@ -1,0 +1,76 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2190",
+ "source_content_sha256": "sha256:1516421fd1d73f1977e5d25dadb4ca35b9361a7638712f8c3a91fa98e94fc797",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:10:44.689556+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1754,
+  "completion_tokens": 1932,
+  "total_tokens": 3686,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 1498
+ },
+ "latency_ms": 14629,
+ "units": [
+  {
+   "id": "title",
+   "text": "Exposé des types de tawhid et de la différence entre eux"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Nous entendons souvent à la radio parler du tawhid ar-rubûbiyya et du tawhid al-ulûhiyya. Quelle est la différence entre les deux ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Le tawhid ar-rubûbiyya consiste à croire en Allah à travers Ses attributs d'action, comme le Créateur, le Pourvoyeur, Celui qui administre les affaires et les régit, et autres, et que Sa volonté est exécutoire et Sa puissance parfaite. C'est ce que les associateurs reconnaissaient. Les associateurs reconnaissaient qu'Allah est leur Créateur, leur Pourvoyeur et Celui qui administre leurs affaires, qu'Il est le Créateur des cieux et de la terre. C'est le fait d'uniciser Allah dans Ses actions. Ce tawhid ar-rubûbiyya consiste à croire qu'Allah est le Créateur, le Pourvoyeur, Celui qui administre les affaires et régit les choses, qui a créé toute chose, administré et régi les affaires, créé les rivières, les mers, les montagnes, les arbres, le ciel, la terre et autres. Voilà le tawhid ar-rubûbiyya."
+  },
+  {
+   "id": "a2",
+   "text": "Quant au tawhid al-ulûhiyya, c'est le fait d'uniciser Allah par tes propres actions : tu Lui voues exclusivement l'adoration à Lui seul, à l'exclusion de tout autre, que ce soit la prière, le jeûne, l'invocation, le vœu, la zakah (aumône obligatoire), le pèlerinage et autres."
+  },
+  {
+   "id": "a3",
+   "text": "Le tawhid al-ulûhiyya est le sens de « Lâ ilâha illa Allah » (nulle divinité digne d'adoration si ce n'est Allah), c'est-à-dire qu'il n'y a pas de divinité digne d'adoration en dehors d'Allah. C'est que tu voues à ton Seigneur tes actes, tes adorations, tes rapprochements. N'invoque pas avec Allah une autre divinité, n'adore avec Lui rien d'autre, que ce soit un arbre, une pierre, une idole, un prophète ou un saint. N'invoque pas autre qu'Allah, ne dis pas : « Ô mon maître al-Badawî, guéris-moi », ou « Ô Messager d'Allah, guéris-moi », ou « accorde-moi la santé », ou « secours-moi », ou « Ô untel », ou « Ô untel » parmi les saints ou d'autres que les saints parmi les morts, ou parmi les arbres, les pierres et les idoles. C'est là le plus grand polythéisme."
+  },
+  {
+   "id": "a4",
+   "text": "Le tawhid al-'ibâda (unicité de l'adoration) signifie que tu voues l'adoration à Allah seul. On l'appelle aussi tawhid al-ilâhiyya, et l'ilâhiyya est l'adoration. Cela signifie qu'on voue à Allah l'adoration à l'exclusion de tout autre. C'est le sens de la parole du Très-Haut : ⟦Q1⟧ [al-Bayyinah : 5]."
+  },
+  {
+   "id": "a5",
+   "text": "Et Sa parole : ⟦Q2⟧ [al-Isrâ' : 23], ⟦Q3⟧ [al-Baqarah : 21] ⟦Q4⟧ [adh-Dhâriyât : 56] signifie qu'ils Lui vouent exclusivement l'adoration par leurs prières, leur jeûne, leurs invocations, leurs demandes de secours, leur jihad, tout cela pour Allah seul. Cela s'appelle le tawhid al-'ibâda, et aussi le tawhid al-ilâhiyya. C'est ce que les associateurs ont nié et refusé. Lorsqu'il leur fut dit : « Dites : Lâ ilâha illa Allah », ils refusèrent et le trouvèrent étrange, et ils dirent : ⟦Q5⟧ [Sâd : 5]. Ils trouvèrent cela étrange et persévérèrent dans leur mécréance et leur égarement. Ils disent pourtant : « Allah est le Créateur, le Pourvoyeur, l'Administrateur ». Ils disaient cela, mais malgré cela ils ne se soumirent pas au tawhid de l'adoration... C'est pourquoi ils devinrent mécréants, et le Prophète ﷺ les combattit et considéra licites leur sang et leurs biens à cause de leur mécréance et de leur refus de se soumettre au tawhid al-ilâhiyya."
+  },
+  {
+   "id": "a6",
+   "text": "Il y a un troisième type de tawhid : le tawhid al-asmâ' wa-s-sifât (unicité des noms et attributs). C'est la foi en tous les noms d'Allah et Ses attributs qui sont venus dans le Coran et qui ont été authentiquement rapportés dans la Sunna du Prophète ﷺ. Il est obligatoire d'y croire tous et de les affirmer : Il est al-'Alîm (l'Omniscient), al-Hakîm (le Sage), ar-Ra'ûf (le Compatissant), ar-Rahîm (le Très Miséricordieux), Il agrée et Se met en colère, Il parle quand Il veut, glorifié et exalté soit-Il. Tous Ses attributs dans le Coran et la Sunna, il est obligatoire d'y croire et de les affirmer pour Allah, Puissant et Majestueux. Cela s'appelle le tawhid al-asmâ' wa-s-sifât."
+  },
+  {
+   "id": "a7",
+   "text": "Et la foi qu'Allah est Unique dans Son essence, Unique dans Ses noms et attributs, sans associé. Il n'a pas d'associé qui crée, qui pourvoit, qui fait miséricorde aux serviteurs jusqu'à les faire entrer au Paradis et les sauver de l'Enfer. Il n'a pas d'associé dans la puissance. Il est capable de toute chose. Au contraire, Il est Seul à posséder cela, glorifié et exalté soit-Il. Il n'a pas d'associé dans Sa divinité, ni dans Ses noms et attributs, ni dans Sa seigneurie, glorifié et exalté soit-Il."
+  },
+  {
+   "id": "a8",
+   "text": "Il est l'Unique dans la seigneurie, l'Unique dans la divinité, l'Unique dans les noms et attributs. ⟦Q6⟧ [ash-Shûrâ : 11], ⟦Q7⟧ [Maryam : 65] ⟦Q8⟧ [al-Ikhlâs : 4] ⟦Q9⟧ [an-Nahl : 74]."
+  },
+  {
+   "id": "a9",
+   "text": "Ses noms sont tous les plus beaux, Ses attributs tous les plus élevés, tous sont vrais et établis pour Lui. Il est, glorifié et exalté soit-Il, décrit par eux réellement et non métaphoriquement. Il est donc obligatoire de les affirmer pour Allah, de les faire passer tels qu'ils sont venus, d'y croire, et qu'ils sont une réalité qui convient à Allah, glorifié et exalté soit-Il, et que rien ne Lui ressemble dans cela. Il est l'Audient, le Voyant, glorifié et exalté soit-Il."
+  }
+ ]
+}

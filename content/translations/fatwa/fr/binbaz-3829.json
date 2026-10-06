@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3829",
+ "source_content_sha256": "sha256:4dc641497f5e5270d83bef2e3b2a9ced79e4e5215d6b308fe38e4bb5b85c174d",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:18:53.025485+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1067,
+  "completion_tokens": 1081,
+  "total_tokens": 2148,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 811
+ },
+ "latency_ms": 8257,
+ "units": [
+  {
+   "id": "title",
+   "text": "Comment le malade fait-il les ablutions sèches (tayammum) ?"
+  },
+  {
+   "id": "q0",
+   "text": "Question : Le frère A. S. A. de Médine demande dans sa question : Je suis malade et je ne peux pas faire moi-même mes ablutions, et je n'ai personne pour m'aider. Dois-je faire les ablutions sèches (tayammum) ? Sachant que l'hôpital nettoie quotidiennement les murs, le sol et les lits, comment puis-je faire les ablutions sèches dans la situation que j'ai décrite ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse : Si le malade n'a personne pour lui faire ses ablutions et qu'il ne peut pas les faire lui-même, il fait les ablutions sèches (tayammum), conformément à la parole du Très-Haut : ⟦Q1⟧ [Al-Mâ'idah : 6].\n Celui qui est incapable d'utiliser l'eau et de faire les ablutions sèches est excusé. Il doit alors prier à l'heure sans ablutions ni ablutions sèches, conformément à la parole du Très-Haut : ⟦Q2⟧ [At-Taghâbun : 16], et à la parole du Prophète (paix et bénédictions d'Allah sur lui) : « Ce que je vous ai interdit, évitez-le, et ce que je vous ai ordonné, faites-en ce que vous pouvez. »\n Certains Compagnons (qu'Allah soit satisfait d'eux) ont prié lors de certains voyages du Prophète (paix et bénédictions d'Allah sur lui) sans ablutions ni ablutions sèches, et le Prophète (paix et bénédictions d'Allah sur lui) ne les a pas blâmés pour cela. Cela s'est produit lors du voyage où le collier de 'Â'ishah (qu'Allah soit satisfait d'elle) a été perdu. Certains Compagnons (qu'Allah soit satisfait d'eux) sont allés le chercher sur ordre du Prophète (paix et bénédictions d'Allah sur lui), mais ne l'ont pas trouvé. L'heure de la prière est arrivée et ils ont prié sans ablutions ni ablutions sèches, car les ablutions sèches n'avaient pas encore été prescrites à cette époque et ils n'avaient pas d'eau. Cette prescription a ensuite été révélée à cause de cet incident.\n Telle est l'obligation. Si le malade n'a pas la capacité d'utiliser l'eau et n'a personne pour lui faire ses ablutions, il doit faire les ablutions sèches s'il trouve de la terre propre sur le sol ou dans un récipient ou un contenant à partir duquel il peut les faire. Cela suffit à la place des ablutions.\n Il n'est pas permis de faire preuve de négligence dans cette affaire. Tous les hôpitaux doivent y prêter attention. Le malade, avant les ablutions ou les ablutions sèches, doit se nettoyer des excréments et de l'urine avec de l'eau ou des pierres. L'eau n'est pas obligatoire ; il lui suffit de se nettoyer avec des mouchoirs propres ou autre chose, comme des pierres, de la terre, des briques, etc., jusqu'à éliminer la souillure. Il est obligatoire de ne pas faire moins de trois passages. Si la propreté n'est pas obtenue ainsi, il faut augmenter le nombre jusqu'à obtenir la propreté, conformément à la parole du Prophète (paix et bénédictions d'Allah sur lui) : « Que celui qui utilise des pierres pour se nettoyer le fasse en nombre impair », et à ce qui est rapporté de lui (paix et bénédictions d'Allah sur lui) qu'il a interdit de se nettoyer avec moins de trois pierres, et qu'il a interdit de se nettoyer avec des os et des excréments, en disant : « Ils ne purifient pas. » Et Allah est le garant du succès.⟦N3⟧"
+  },
+  {
+   "id": "n0.0",
+   "text": "Publié dans la revue Al-'Arabiyyah, numéro (192) du mois de Muharram de l'année 1414 de l'hégire (Majmû' Fatâwâ wa Maqâlât al-Shaykh Ibn Bâz 10/194)."
+  }
+ ]
+}

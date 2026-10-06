@@ -71,4 +71,4 @@ tools/
 
 ## Status at publication
 
-`content/translations/` (85 AI-assisted fatwa translations) is part of the tree. `docs/review/` and `.claude/` are excluded. The JSON3 caption fixtures are team-authored synthetic files.
+`content/translations/` (600 AI-assisted fatwa translations) is part of the tree. `docs/review/` and `.claude/` are excluded. The JSON3 caption fixtures are team-authored synthetic files.

@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1261",
+ "source_content_sha256": "sha256:afd3831973d8ed4a07493fe90cb6f278e7db0f4402f1e19c46fb683597c7d415",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:54:35.059320+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 750,
+  "completion_tokens": 596,
+  "total_tokens": 1346,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 494
+ },
+ "latency_ms": 5689,
+ "units": [
+  {
+   "id": "title",
+   "text": "Obéissance au père dans ce qui est convenable"
+  },
+  {
+   "id": "q0",
+   "text": "Question : Le frère R. A. M. de la République arabe d’Égypte, après avoir salué votre éminence, interroge au sujet des actes de son père qui contredisent la Charia et ses convenances, et demande ce qu’il doit faire envers son père dans ce cas."
+  },
+  {
+   "id": "a0",
+   "text": "Réponse : Et sur vous la paix, la miséricorde d’Allah et Ses bénédictions.\nEnsuite : Nous demandons à Allah pour ton père la guidée et qu’Il lui accorde le repentir. Nous te recommandons la douceur envers lui, de le conseiller avec la meilleure manière et de ne pas désespérer de sa guidée, selon la parole d’Allah, glorifié soit-Il : ⟦Q1⟧ le verset [Luqmân : 14-15]. Il a recommandé de remercier les parents avec Son remerciement, et a ordonné à l’enfant de les accompagner dans la vie d’ici-bas de façon convenable, même s’ils s’efforcent de le faire mécroire en Allah. Par cela tu sais qu’il t’es prescrit d’accompagner ton père avec bonté, de bien agir envers lui même s’il te fait du mal, et de t’efforcer de l’appeler à la vérité, peut-être qu’Allah le guidera par tes moyens.\nIl ne t’est pas permis de lui obéir dans la désobéissance à Allah. Nous te recommandons aussi de demander l’aide pour sa guidée d’abord à Allah, Puissant et Majestueux, puis aux gens de bien parmi tes proches, comme tes oncles paternels et d’autres que ton père estime et respecte, peut-être qu’il acceptera leur conseil. Nous demandons à Allah pour nous, pour toi et pour lui la guidée et le succès vers un repentir sincère, Il est Audient et Proche⟦N2⟧.\nEt paix sur vous, ainsi que la miséricorde d’Allah et Ses bénédictions."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmû’ Fatâwâ wa Maqâlât du Cheikh Ibn Bâz (5/354)."
+  }
+ ]
+}

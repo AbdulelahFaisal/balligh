@@ -13,6 +13,10 @@ export interface StageEntry {
   recap: boolean;
   title: string;
   languages: string[];
+  /** Fatwas only: locales that have an AI-assisted translation (never part of `languages`). */
+  machine_languages?: string[];
+  /** Fatwas only: AI-assisted titles by locale. */
+  translated_titles?: Record<string, string>;
   content_sha256: string;
   href: string;
 }

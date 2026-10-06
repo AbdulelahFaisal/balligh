@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1524",
+ "source_content_sha256": "sha256:20a246518aef28cb510184487b4aa61b073497654a1e76f4bc24c715c5266069",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:58:22.314344+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 738,
+  "completion_tokens": 523,
+  "total_tokens": 1261,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 482
+ },
+ "latency_ms": 4455,
+ "units": [
+  {
+   "id": "title",
+   "text": "Penjelasan bahwa mimpi-mimpi yang tidak disukai berasal dari setan"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Saya bermimpi dalam tidur dan melihat bahwa saya dan saudara saya merokok, padahal kami tidak pernah merokok. Mimpi itu terjadi dan terulang selama tiga malam. Tolong beri saya penjelasan, semoga Allah membalas Anda dengan kebaikan?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Jika seseorang melihat apa yang tidak disukainya, maka itu berasal dari setan. Mimpi bahwa ia merokok, atau minum khamar, atau berzina, atau menyetubuhi ibunya, atau menyetubuhi saudara perempuannya, atau melakukan homoseksual, atau yang semisalnya—ia melihat mimpi-mimpi yang tidak disukai, maka itu berasal dari setan. Nabi ﷺ bersabda: “Mimpi yang baik berasal dari Allah, dan mimpi buruk berasal dari setan. Maka jika salah seorang dari kalian melihat apa yang tidak disukainya, hendaklah ia meniup ke kiri tiga kali, dan memohon perlindungan kepada Allah dari setan dan dari keburukan apa yang dilihatnya tiga kali, kemudian hendaklah ia berpindah ke sisi tubuhnya yang lain, maka mimpi itu tidak akan membahayakannya.”"
+  },
+  {
+   "id": "a2",
+   "text": "Nasihat untuk Anda wahai saudaraku, dan orang-orang semisal Anda yang melihat apa yang tidak disukai: jika bangun tidur, hendaklah ia meniup ke kiri tiga kali, memohon perlindungan kepada Allah dari setan dan dari keburukan apa yang dilihatnya tiga kali, kemudian berpindah ke sisi tubuhnya yang lain, maka mimpi itu tidak akan membahayakannya, dan jangan menceritakannya kepada siapa pun. Inilah sunnahnya. Semoga Allah memberi taufik kepada semua."
+  }
+ ]
+}

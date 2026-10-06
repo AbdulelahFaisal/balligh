@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2149",
+ "source_content_sha256": "sha256:290db782e0e10e6101468287fd6f5185bba283d9b02c4cfebde543829b453d68",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:09:29.553765+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 613,
+  "completion_tokens": 365,
+  "total_tokens": 978,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 357
+ },
+ "latency_ms": 3342,
+ "units": [
+  {
+   "id": "title",
+   "text": "Les causes aidant à se lever pour la prière de l'aube"
+  },
+  {
+   "id": "q0",
+   "text": "Q : Quelles sont les causes qui aident le musulman à se lever pour la prière de l'aube, sachant qu'il se couche tôt mais ne se réveille qu'après le lever du soleil ?"
+  },
+  {
+   "id": "a0",
+   "text": "R : Il est du devoir de tout musulman de craindre Allah, d'accomplir les cinq prières en leurs temps dans les mosquées avec l'assemblée des musulmans, et de s'empresser vers toutes les causes qui l'y aident. Parmi les causes qui l'aident à accomplir la prière de l'aube en commun : se coucher tôt, régler le réveil à l'heure appropriée afin de se lever pour la prière en son temps, assister à la prière avec l'assemblée, s'efforcer de demander à Allah la réussite et l'assistance, et réciter les invocations prescrites au moment de dormir. Ainsi, Allah lui accordera, si Allah le veut, de se lever à l'heure de la prière et de l'accomplir avec l'assemblée ⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Recueil de fatwas et d'articles du cheikh Ibn Baz (8/276)"
+  }
+ ]
+}

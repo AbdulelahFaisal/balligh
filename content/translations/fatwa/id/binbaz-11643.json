@@ -1,0 +1,160 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-11643",
+ "source_content_sha256": "sha256:e3cd01d3b20379edbefd1a28ca1dfef06f2e414dc838ccd182e74590bdb18968",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:51:48.981024+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 3526,
+  "completion_tokens": 3978,
+  "total_tokens": 7504,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 3270
+ },
+ "latency_ms": 30148,
+ "units": [
+  {
+   "id": "title",
+   "text": "Apakah orang yang mengucapkan La ilaha illallah masuk surga? Apa syarat-syaratnya?"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Yang Mulia Syaikh! Penanya ini berkata: Apa syarat-syarat La ilaha illallah, kalimat tauhid? Dan apakah orang yang hanya mengucapkan La ilaha illallah tanpa beramal akan masuk surga?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, shalawat dan salam semoga tercurah kepada Rasulullah, kepada keluarga dan para sahabatnya, serta orang yang mengikuti petunjuknya. Amma ba'du."
+  },
+  {
+   "id": "a2",
+   "text": "Telah ditunjukkan oleh dalil-dalil syar'i dari Al-Qur'an dan Sunnah bahwa siapa yang membawa tauhid dan mati di atasnya, ia masuk surga. Di antaranya sabda Nabi ﷺ: \"Aku diperintahkan untuk memerangi manusia hingga mereka mengucapkan La ilaha illallah. Bila mereka mengucapkannya, maka darah dan harta mereka terlindungi dariku kecuali dengan haknya.\" Dan hadits Ubadah bin Ash-Shamit: \"Barangsiapa bersaksi bahwa tidak ada tuhan yang berhak disembah selain Allah semata, tiada sekutu bagi-Nya, dan bahwa Muhammad adalah hamba dan utusan-Nya, dan bahwa Isa adalah hamba Allah, utusan-Nya, dan kalimat-Nya yang Dia tiupkan kepada Maryam, serta ruh dari-Nya, dan bahwa surga itu benar, neraka itu benar, niscaya Allah memasukkannya ke dalam surga apa pun amal yang telah diperbuatnya.\""
+  },
+  {
+   "id": "a3",
+   "text": "... Banyak hadits tentang ini yang menunjukkan bahwa siapa yang mengucapkan La ilaha illallah dengan jujur dan bertauhid, yang ucapannya mengandung pembebasan diri dari syirik dan keimanan bahwa Allah sajalah yang berhak disembah, maka ia masuk surga dan menjadi seorang muslim, disertai keimanan pada kesaksian para nabi bahwa Muhammad adalah Rasulullah, dan beriman kepada semua yang diberitakan Allah dan Rasul-Nya yang telah sampai padanya saat itu."
+  },
+  {
+   "id": "a4",
+   "text": "Kemudian ia dituntut untuk menjalankan syariat-syariat Islam. Jika ia mendapati waktu shalat, wajib shalat; demikian pula zakat, puasa, dan haji. Jika ia meninggal dalam keadaan bertauhid sebelum sempat beramal, ia masuk surga. Maksudnya, jika ia masuk Islam lalu langsung meninggal, ia masuk surga karena belum sempat beramal dan belum melakukan dosa apa pun. Islam menghapus dosa sebelumnya, dan taubat meruntuhkan dosa sebelumnya. Jika ia hidup hingga mendapati waktu shalat, shalat menjadi wajib baginya. Jika ia menolak dan mengingkari kewajibannya, ia kafir; dan jika ia tidak shalat, ia kafir."
+  },
+  {
+   "id": "a5",
+   "text": "Demikian pula jika ia mendapati waktu zakat, ia wajib membayar zakat. Jika ia menolak, ia menjadi pelaku maksiat yang pantas masuk neraka. Demikian pula jika ia mendapati bulan puasa lalu tidak berpuasa, ia menjadi pelaku maksiat yang pantas masuk neraka kecuali Allah memaafkannya. Demikian pula jika ia berzina, mencuri, atau semisalnya, ia menjadi pelaku maksiat yang pantas masuk neraka kecuali Allah memaafkannya, dan ia berada di bawah kehendak Allah: ⟦Q1⟧ [An-Nisa': 48]."
+  },
+  {
+   "id": "a6",
+   "text": "Intinya: kapan saja ia masuk Islam, mengesakan Allah, melepaskan diri dari semua kesyirikan, dan beriman kepada semua yang diberitakan Allah dan Rasul-Nya, ia menjadi seorang muslim. Kemudian ia dituntut untuk menunaikan hak-hak Islam dari shalat dan lainnya, serta meninggalkan maksiat. Jika ia meninggalkan maksiat dan menunaikan hak-hak, sempurnalah Islam dan imannya. Jika ia meninggal seketika sebelum sempat beramal apa pun, ia mendapat surga, karena keislamannya menghapus dosa-dosa sebelumnya. Jika ia hidup lalu melakukan sebagian maksiat atau meninggalkan sebagian kewajiban, ia berada di bawah kehendak Allah: jika Allah berkehendak, Dia mengampuninya dan memasukkannya ke surga karena tauhidnya; jika berkehendak, Dia mengadzabnya sesuai dengan maksiat yang ia mati di atasnya, sebagaimana firman-Nya: ⟦Q2⟧ [An-Nisa': 48]. Ini berdasarkan ijma' kaum muslimin, ijma' Ahlus Sunnah wal Jama'ah."
+  },
+  {
+   "id": "a7",
+   "text": "Pelaku maksiat berada di bawah kehendak Allah, tidak kafir, berbeda dengan Khawarij. Ia juga tidak kekal di neraka sebagaimana dikatakan Khawarij dan Mu'tazilah, tidak. Bahkan ia berada di bawah kehendak Allah; jika ia mati dalam keadaan berzina, mencuri, durhaka kepada orang tua, minum khamar, makan riba, tetapi ia tidak menghalalkannya dan mengakui bahwa itu maksiat, tidak menghalalkan, hanya saja hawa nafsu dan setan menguasainya, padahal ia tahu itu maksiat, maka ia di bawah kehendak Allah: jika Allah berkehendak, Dia memaafkannya; jika berkehendak, Dia mengadzabnya di neraka sesuai dengan maksiat yang ia mati di atasnya, kemudian setelah dibersihkan dan disucikan, Allah mengeluarkannya dari neraka berdasarkan ijma' Ahlus Sunnah wal Jama'ah. Tidak kekal di neraka kecuali orang-orang kafir; berbeda dengan Khawarij dan Mu'tazilah yang berpendapat bahwa pelaku maksiat jika mati di atas maksiatnya kekal di neraka, dan Khawarij berkata ia kafir. Pendapat mereka batil menurut Ahlus Sunnah wal Jama'ah, termasuk kebatilan yang paling batil. Ayat yang mulia membantah mereka, yaitu firman-Nya: ⟦Q3⟧ [An-Nisa': 48]."
+  },
+  {
+   "id": "a8",
+   "text": "Adapun sabda Nabi ﷺ tentang pezina: \"Tidaklah seorang pezina berzina ketika berzina sedang ia beriman, dan tidaklah peminum khamar minum khamar ketika minum sedang ia beriman, dan tidaklah pencuri mencuri ketika mencuri sedang ia beriman\", maka maknanya adalah ancaman dan peringatan. Artinya, ia tidak beriman dengan iman yang sempurna; imannya ada kekurangan, bukan berarti ia kafir. Karena ayat-ayat saling membenarkan satu sama lain, hadits-hadits saling membenarkan satu sama lain, Kitab Allah tidak saling mendustakan, dan Sunnah tidak bertentangan dengan Al-Qur'an. Maka wajib menafsirkan nash dengan nash."
+  },
+  {
+   "id": "a9",
+   "text": "Sabdanya: \"Tidaklah seorang pezina berzina ketika berzina sedang ia beriman\" maksudnya iman wajib yang sempurna. Jika ia memiliki iman yang sempurna, ia tidak akan berzina, tetapi imannya ada kekurangan, karena itulah ia jatuh ke dalam zina, jatuh ke dalam khamar, karena kekurangan imannya. Bukan berarti ia kafir, karena Rasulullah ﷺ memerintahkan agar pezina ditegakkan had atasnya, dan had itu menjadi kaffarah (penebus dosa) baginya. Demikian pula peminum khamar ditegakkan had atasnya, dan had itu menjadi kaffarah baginya."
+  },
+  {
+   "id": "a10",
+   "text": "Jika seorang pezina mati di atas zina setelah ditegakkan had, ia masuk surga; had menjadi kaffarah baginya. Karena itu Nabi ﷺ bersabda dalam hadits Ubadah dalam Shahihain ketika menyebutkan maksiat-maksiat: \"Barangsiapa yang Allah hukum di dunia (dengan had syar'i), maka itu kaffarah baginya. Barangsiapa yang Allah tangguhkan sampai akhirat, maka urusannya kepada Allah,\" sebagaimana firman-Nya: ⟦Q4⟧ [An-Nisa': 48]."
+  },
+  {
+   "id": "a11",
+   "text": "Ahlus Sunnah wal Jama'ah berpendapat bahwa pelaku maksiat berada di bawah kehendak Allah, jika maksiatnya selain syirik dan ia tidak menghalalkannya, maka ia di bawah kehendak Allah; seperti pezina, peminum khamar, pemakan riba, pendurhaka kepada orang tua, dan semisalnya. Adapun orang yang menghalalkan maksiat, menghalalkan zina, ia berkata: \"Zina itu halal\", maka ditegakkan hujjah atasnya. Jika telah dijelaskan dalil kepadanya, tetapi ia tetap ngotot bahwa zina halal, ia kafir, menjadi kafir besar. Demikian pula orang yang berkata: \"Khamar itu halal\", dijelaskan dalil kepadanya, tetapi ia tetap ngotot, ia menjadi kafir."
+  },
+  {
+   "id": "a12",
+   "text": "Demikian pula orang yang berkata: \"Mencuri itu halal\", atau \"Riba itu halal\", dijelaskan dalil-dalil kepadanya. Jika ia tetap ngotot bahwa semua riba halal, ia kafir. Demikian pula orang yang berkata: \"Durhaka kepada orang tua itu halal\", dijelaskan kepadanya. Jika ia tetap ngotot setelah ada dalil, ia kafir. Demikian pula orang yang berkata: \"Liwaath (homoseksual) itu halal\", dan seterusnya. Barangsiapa menghalalkan maksiat-maksiat yang sudah diketahui dari agama secara pasti, ia menghalalkannya, lalu dijelaskan dalil kepadanya, tetapi ia tetap ngotot, ia kafir."
+  },
+  {
+   "id": "a13",
+   "text": "Adapun orang yang mati di atas maksiat sedang ia tahu itu maksiat, tidak menghalalkannya, tahu bahwa ia bermaksiat, mati dalam keadaan berzina, mati dalam keadaan minum khamar, mati dalam keadaan memakan riba, dan ia tahu itu semua maksiat, maka ia berada di bawah kehendak Allah: jika Tuhan kita berkehendak, Dia mengampuninya karena amal shalih dan tauhidnya; jika berkehendak, Dia mengadzabnya sesuai dengan kejahatan yang ia mati di atasnya, kemudian setelah dibersihkan dan disucikan di neraka, Allah mengeluarkannya dari neraka."
+  },
+  {
+   "id": "a14",
+   "text": "Telah mutawatir hadits-hadits dari Rasulullah ﷺ bahwa banyak pelaku maksiat masuk neraka dan diadzab di dalamnya, kemudian Allah mengeluarkan mereka dari neraka dalam keadaan hangus dan terbakar, lalu mereka dilemparkan ke sungai kehidupan, lalu tumbuh seperti tumbuhnya biji di tanah yang dibawa banjir. Setelah sempurna penciptaan mereka, Allah memasukkan mereka ke surga. Hadits-hadits ini telah mutawatir dari Rasulullah ﷺ, dan Ahlus Sunnah wal Jama'ah telah berijma' atas hal ini. Tidak ada yang kekal di neraka kecuali orang-orang kafir - kita memohon keselamatan kepada Allah -. Adapun pelaku maksiat tidak; ia mungkin tinggal lama di neraka, dan itu dinamakan kekal, tetapi kekal sementara yang berakhir. Jika telah selesai masa yang Allah tetapkan baginya, ia keluar dari neraka dan kembali ke surga karena tauhid dan keislamannya."
+  },
+  {
+   "id": "a15",
+   "text": "Tauhid memiliki syarat-syarat yang disebutkan sebagian ulama yaitu tujuh, sebagian berkata delapan, dikumpulkan oleh seorang dalam dua bait:"
+  },
+  {
+   "id": "a16",
+   "text": "Ilmu, yakin, ikhlas, dan kejujuranmu bersama"
+  },
+  {
+   "id": "a17",
+   "text": "Mahabbah, inqiyad, dan penerimaan baginya"
+  },
+  {
+   "id": "a18",
+   "text": "Dan ditambah yang kedelapan: pengingkaranmu terhadap apa"
+  },
+  {
+   "id": "a19",
+   "text": "Selain Tuhan dari hal-hal yang telah dipertuhankan"
+  },
+  {
+   "id": "a20",
+   "text": "Jika seorang penuntut ilmu memahami syarat-syarat ini, menguasainya, dan mengamalkannya, maka itu penyempurna tauhid dan imannya. Adapun orang awam yang tidak mengenal syarat-syarat ini, tetapi ia melepaskan diri dari syirik, beriman kepada Allah, dan mengesakan-Nya, itu sudah cukup, meskipun tidak mengetahui syarat-syaratnya; selama ia melepaskan diri dari syirik, dari kekafiran, meyakini kebatilannya, beriman kepada Allah, dan mengesakan-Nya, itu cukup.\n\nPerkataan \"ilmu\", artinya ia tahu bahwa Allah - Jalla wa 'Ala - adalah yang berhak disembah, dan makna La ilaha illallah adalah tidak ada tuhan yang berhak disembah selain Allah."
+  },
+  {
+   "id": "a21",
+   "text": "Yakin: ia mengucapkannya dengan keyakinan, bukan keraguan, artinya ia mengesakan Allah dengan yakin."
+  },
+  {
+   "id": "a22",
+   "text": "Ikhlas: artinya ia tidak menyekutukan Allah dengan selain-Nya, bahkan ia mengikhlaskan ibadah untuk Allah."
+  },
+  {
+   "id": "a23",
+   "text": "Disertai kejujuran, berbeda dengan orang-orang munafik yang mengucapkannya dalam keadaan dusta. Orang munafik, jika ia mengucapkannya secara lahir tetapi mendustakannya dalam batin, ia kafir."
+  },
+  {
+   "id": "a24",
+   "text": "Disertai mahabbah: mencintai Allah, mencintai tauhid-Nya. Tidaklah Allah mencintai orang kafir, atau orang yang membenci tauhid dan membenci iman, ia kafir: ⟦Q5⟧ [Muhammad: 9]."
+  },
+  {
+   "id": "a25",
+   "text": "Demikian pula penerimaan, ia menerima agama, menerima kebenaran, tunduk kepadanya. Adapun jika ia menolak kebenaran, tidak menerimanya, tidak tunduk kepada kebenaran, bahkan menolaknya dan tidak mengesakan Allah, ia masuk ke dalam kesyirikan dan menjadi kafir."
+  },
+  {
+   "id": "a26",
+   "text": "Dan harus disertai pengingkaran terhadap apa yang disembah selain Allah, sebagaimana firman Allah: ⟦Q6⟧ [Al-Baqarah: 256], artinya ia mengingkari peribadatan kepada selain Allah, menolaknya, meyakini kebatilan peribadatan kepada selain Allah, mengingkarinya, dan berlepas diri darinya. Itulah makna perkataan penyair:"
+  },
+  {
+   "id": "a27",
+   "text": "Dan ditambah yang kedelapan: pengingkaranmu terhadap apa"
+  },
+  {
+   "id": "a28",
+   "text": "Selain Tuhan dari hal-hal yang telah dipertuhankan"
+  },
+  {
+   "id": "a29",
+   "text": "Intinya: seorang mukmin mengetahui kebenaran, meyakininya, jujur dalam hal itu, berlepas diri dari syirik dan pelakunya, tunduk kepada kebenaran, tenang dengannya, mencintai Allah dan Rasul-Nya. Demikianlah seorang mukmin. Meskipun ia tidak hafal syarat-syaratnya, selama ia menerima kebenaran, tunduk kepada tauhid Allah, ikhlas kepada Allah, mencintai Allah, tunduk kepada syariat-Nya, dan tidak berdusta seperti orang munafik, maka imannya sah. Ya."
+  },
+  {
+   "id": "a30",
+   "text": "Pembawa acara: Semoga Allah membalas Anda dengan kebaikan atas penjelasan ini, Yang Mulia Syaikh."
+  }
+ ]
+}

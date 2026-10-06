@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3005",
+ "source_content_sha256": "sha256:13bb4563032bb2b8ff2052a19e6bc7ccf3226547ad23df5ca58564ad8da8ede1",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:14:44.603898+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 534,
+  "completion_tokens": 209,
+  "total_tokens": 743,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 278
+ },
+ "latency_ms": 2706,
+ "units": [
+  {
+   "id": "title",
+   "text": "忘记诵读《开端章》的教法规定"
+  },
+  {
+   "id": "q0",
+   "text": "问题："
+  },
+  {
+   "id": "q1",
+   "text": "如果忘记了诵读《开端章》，是否要补礼一拜来代替？是否要叩纠错头？"
+  },
+  {
+   "id": "a0",
+   "text": "回答："
+  },
+  {
+   "id": "a1",
+   "text": "如果是跟随伊玛目礼拜的人，则无需任何补叩；但如果是伊玛目或单独礼拜者，则需补礼一拜，以代替缺失《开端章》的那一拜。至于跟随伊玛目者，他跟随伊玛目，如果忘记或错过了站立，只要他跟随了伊玛目所礼的部分，就足够了。"
+  }
+ ]
+}

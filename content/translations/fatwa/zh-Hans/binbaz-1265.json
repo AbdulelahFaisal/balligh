@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1265",
+ "source_content_sha256": "sha256:2629ae5ef3b6d5cfab3d351de135274e5410f89177fcf47a3cefbae6d7d99ece",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:55:00.097202+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 785,
+  "completion_tokens": 372,
+  "total_tokens": 1157,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 529
+ },
+ "latency_ms": 3689,
+ "units": [
+  {
+   "id": "title",
+   "text": "母亲要求她放弃戴头巾"
+  },
+  {
+   "id": "q0",
+   "text": "问：我是一名穆斯林，感赞安拉，我做一切安拉喜悦的事，遵守教法规定的头巾，但我的母亲——愿安拉饶恕她——不想让我遵守头巾，她命令我看电影、录像等，并对我说：如果你不娱乐、不开心，你会变老，头发会变白？"
+  },
+  {
+   "id": "a0",
+   "text": "答：你应该温和对待母亲，善待她，用最好的方式与她交谈，因为母亲的权利是重大的。但你不能在不符合教法的事情上服从她，因为先知ﷺ说：“服从只在善行中。”他（愿主福安之）又说：“不能为违抗造物主而服从被造物。”同样，父亲、丈夫和其他人，也不应在违抗安拉的事情上服从他们，因为上述圣训。但是，妻子、子女等应该以温和方式和良好的方法解决问题，即阐明教法证据，说明必须服从安拉及其使者，警惕违抗安拉及其使者，同时坚持真理，不服从任何命令违背真理的人，无论是丈夫、父亲、母亲或其他人。\n 可以观看电视和录像中没有违禁内容的东西，收听学术讲座和有益的课程，警惕观看其中播放的违禁内容。同样，不允许观看电影，因为其中有各种虚假内容⟦N1⟧。"
+  },
+  {
+   "id": "n0.0",
+   "text": "《伊本·巴兹教法判例与文集》（5/355）。"
+  }
+ ]
+}

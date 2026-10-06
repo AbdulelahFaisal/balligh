@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2556",
+ "source_content_sha256": "sha256:10a5decf315275f31857963b7b0259c5d05e7d35c0ea27750f1e7c34f02bac8f",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:12:46.155185+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 840,
+  "completion_tokens": 686,
+  "total_tokens": 1526,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 584
+ },
+ "latency_ms": 5560,
+ "units": [
+  {
+   "id": "title",
+   "text": "Erreur dans l’explication de la parole : Lâ ilâha illa Allah"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Si le prédicateur explique « Lâ ilâha illa Allah » en disant : « Pas de créateur si ce n’est Allah, pas de pourvoyeur, pas de régisseur si ce n’est Allah, et que la création et le commandement appartiennent à Allah ; par cela on n’adore qu’Allah » – sans évoquer la négation d’autres divinités, la négation de l’association et sa mise en garde – cela suffit-il ? Et quel est le sens complet de façon résumée ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "C’est une erreur. En effet, « pas de créateur si ce n’est Allah, pas de pourvoyeur si ce n’est Allah », cela est dit par Abû Jahl et par les premiers mécréants associateurs. Ils disent : « Pas de créateur si ce n’est Allah » ⟦Q1⟧ [Az-Zukhruf : 87] ⟦Q2⟧ [Az-Zumar : 38]. Ils reconnaissent cela. Mais lorsqu’on leur disait : « Dites : Lâ ilâha illa Allah », ils disaient : « Non » ⟦Q3⟧ [As-Sâffât : 35]. Et ils disaient : ⟦Q4⟧ [Sâd : 5]."
+  },
+  {
+   "id": "a2",
+   "text": "Il faut donc expliquer le sens de « Lâ ilâha illa Allah », à savoir que cela signifie : nulle divinité digne d’adoration si ce n’est Allah, et qu’on n’invoque qu’Allah, qu’on ne demande le secours qu’à Allah, qu’on ne fait de vœu que pour Allah, qu’on n’immole que pour Allah. Il faut expliquer ce sens, tout en précisant qu’il n’y a pas de créateur si ce n’est Allah, pas de pourvoyeur si ce n’est Allah… mais avec cela… Il est la vraie divinité, c’est Lui qui doit être adoré… par la prière, le jeûne, le vœu, le sacrifice, le désir, la crainte, la peur, l’espoir et autres actes d’adoration. Quiconque voue cela à un autre qu’Allah – à une planète, un ange, un mort ou une idole – devient adorateur de cette chose et associe ainsi à Allah, glorifié et exalté soit-Il."
+  }
+ ]
+}

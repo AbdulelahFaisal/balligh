@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3805",
+ "source_content_sha256": "sha256:7490704b91438f4ebadc55fcd2b4cf849e8d1684cb18c82e48816f664107a176",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:17:32.388235+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 817,
+  "completion_tokens": 529,
+  "total_tokens": 1346,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 561
+ },
+ "latency_ms": 4668,
+ "units": [
+  {
+   "id": "title",
+   "text": "Bathing on Friday is a confirmed Sunnah"
+  },
+  {
+   "id": "q0",
+   "text": "Q: Is the ghusl (ritual bath) for Friday obligatory or recommended?"
+  },
+  {
+   "id": "a0",
+   "text": "A: Bathing on Friday is a confirmed Sunnah, due to the authentic hadiths reported from the Prophet ﷺ, among them his saying ﷺ: “The ghusl on Friday is obligatory upon every adult, and that he should use the toothstick and apply perfume.” And his saying ﷺ: “Whoever performs ghusl, then comes to Friday prayer and prays what is decreed for him, then listens attentively until the imam finishes his sermon, then prays with him, will be forgiven what is between him and the next Friday, plus three extra days.” Narrated by Muslim in his Sahih, and in another wording by him: “Whoever performs wudu’ and does it well, then comes to Friday prayer and listens attentively, will be forgiven what is between him and the next Friday, plus three extra days, and whoever touches the pebbles has engaged in idle talk,” along with many hadiths on this topic.\nAnd his saying ﷺ: “obligatory upon every adult” means, according to most scholars, “emphasized,” just as the Arabs say: “the promise is a debt” and “your right upon me is obligatory.” This meaning is supported by the fact that in some hadiths he ﷺ deemed wudu’ sufficient.\nLikewise, applying perfume, using the toothstick, wearing the best of clothes, and coming early to Friday prayer are all recommended Sunnahs, none of them is obligatory⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Published in the newspaper Al-Bilad, issue no. 10708, Sunday 16/5/1413 AH; and in the magazine Al-Da’wah, issue no. 1355, dated 29/2/1413 AH; and in the book Al-Da’wah (Al-Fatawa) by His Eminence, part 2, p. 68, (Majmu’ Fatawa wa Maqalat al-Shaykh Ibn Baz 10/170)."
+  }
+ ]
+}

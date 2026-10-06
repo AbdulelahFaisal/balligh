@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1665",
+ "source_content_sha256": "sha256:f6e36ce6b0f15e9ac729e84e952796a322a681478b552a299d9a8bbabb4a4a13",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:03:07.368918+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 916,
+  "completion_tokens": 765,
+  "total_tokens": 1681,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 660
+ },
+ "latency_ms": 6547,
+ "units": [
+  {
+   "id": "title",
+   "text": "Comment jeûner pour celui qui ne peut pas se marier"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Le Prophète ﷺ a dit : « Ô jeunes gens ! Quiconque parmi vous en a la capacité (al-bâ’ah), qu’il se marie… » jusqu’à la fin du hadith. Le jeûne demandé doit-il être continu ou entrecoupé ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Le Messager d’Allah ﷺ a dit : « Ô jeunes gens ! Quiconque parmi vous en a la capacité (al-bâ’ah), qu’il se marie », c’est-à-dire qu’il peut assumer les dépenses du mariage. Qu’il se marie donc, car cela aide à baisser le regard et à préserver la chasteté. Il a ainsi incité au mariage, et les pères doivent s’empresser de marier leurs fils et leurs filles, ne pas repousser un prétendant convenable lorsqu’il se présente, et s’entraider à faciliter les dots et les repas de noces, sans exagération dans ces choses, afin de rendre facile à leurs fils et à leurs filles ce qu’Allah a prescrit comme mariage."
+  },
+  {
+   "id": "a2",
+   "text": "Quant à celui qui est incapable et ne peut pas, il doit recourir au jeûne – comme l’a dit le Prophète ﷺ – et à la chasteté, et Allah a ordonné cela."
+  },
+  {
+   "id": "a3",
+   "text": "Le jeûne peut être continu ou entrecoupé, cela ne pose pas de problème, selon son état et sa capacité. S’il jeûne de manière continue, c’est bien, afin de réfréner ainsi le mal du désir. Et s’il jeûne de manière entrecoupée, il n’y a pas de mal. La décision lui revient, car il est le plus au courant de sa situation. Le jeûne est recommandé et prescrit pour atténuer le mal du désir. Et s’il utilise certains médicaments qui atténuent cela, c’est également bien."
+  },
+  {
+   "id": "a4",
+   "text": "Le plus grand remède est de baisser le regard, d’éviter de flâner dans les marchés sans besoin, de regarder les femmes dans les marchés ou dans sa maison s’il y a chez lui des femmes qui ne lui sont pas interdites au mariage (non-mahrams). Il doit se méfier de cela et éviter de laisser libre cours au regard, car c’est l’une des plus grandes causes de sa préservation. Quant au fait de laisser libre cours au regard et de flâner dans les marchés sans besoin parmi les femmes, c’est l’une des plus grandes causes de tentation, de déchaînement du désir et de commission de l’acte abominable. Nous demandons à Allah la préservation."
+  }
+ ]
+}

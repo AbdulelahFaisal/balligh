@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-855",
+ "source_content_sha256": "sha256:3b9a416061780103260d93a443694faa030fa741b19c0a874e43cc150360e756",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:24:29.170240+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 627,
+  "completion_tokens": 418,
+  "total_tokens": 1045,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 371
+ },
+ "latency_ms": 3595,
+ "units": [
+  {
+   "id": "title",
+   "text": "De quoi Allah a-t-il créé les anges et Iblis ?"
+  },
+  {
+   "id": "q0",
+   "text": "Question : Allah a créé Adam à partir d'argile, et Il a créé avant lui les anges. Iblis était parmi les anges, et Il l'a créé à partir du feu. Pourquoi l'a-t-il créé à partir du feu ? Et de quoi Allah a-t-il créé les anges ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse : Il est authentiquement rapporté du Messager d'Allah ﷺ, d'après le hadith de 'Aïcha, qu'Allah soit satisfait d'elle, qu'elle a dit : « Les anges ont été créés de lumière, les djinns ont été créés d'un feu sans fumée, et Adam a été créé de ce qui vous a été décrit (c'est-à-dire d'argile). » Rapporté par Mouslim dans son Sahih.\n Quant à la sagesse en cela, Allah, gloire et pureté à Lui, le Très-Haut, la connaît le mieux. Il est le Sage et l'Omniscient dans tout ce qu'Il crée et légifère. Nul ne peut s'opposer à Son jugement ni repousser Son décret. Et Il est capable de toute chose⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Publié dans la revue Al-'Arabiyya, dans la rubrique « Interrogez les gens du rappel ». (Recueil de fatwas et d'articles du cheikh Ibn Baz : 4/154)."
+  }
+ ]
+}

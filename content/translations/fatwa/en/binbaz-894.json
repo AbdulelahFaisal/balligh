@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-894",
+ "source_content_sha256": "sha256:f505eb7081ca104ae2947007e29b752a0e8268740142bcbacba909007a14de7a",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:24:34.273290+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 879,
+  "completion_tokens": 543,
+  "total_tokens": 1422,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 623
+ },
+ "latency_ms": 4692,
+ "units": [
+  {
+   "id": "title",
+   "text": "Introducing the Religion"
+  },
+  {
+   "id": "q0",
+   "text": "Q: Everything that people adhere to and worship by is called a religion, even if it is false. The question is: On Friday evening, 4 Safar 1403 AH, the television aired the program 'The Innate World', presented by Ibrahim Al-Rashid, and the episode was about India. At the beginning of his introduction, he said: 'Truly, India is called the land of religions, for in it we find: Hinduism, Buddhism, Sikhism... etc.' I hope you will clarify the following: Are the religions mentioned by the presenter, as he claims, truly religions? And are they revealed and sent from God? May God grant you success in correcting concepts."
+  },
+  {
+   "id": "a0",
+   "text": "A: Everything that people adhere to and worship by is called a religion, even if it is false, such as Buddhism, paganism, Judaism, Hinduism, Christianity, and other false religions. Allah, Glorified be He, says in Surah Al-Kafirun: ⟦Q1⟧ [Al-Kafirun:6] Thus, what the idol worshipers follow is called a religion. The true religion is Islam alone, as Allah, Mighty and Majestic, says: ⟦Q2⟧ [Al 'Imran:19] And the Almighty says: ⟦Q3⟧ [Al 'Imran:85] And the Almighty says: ⟦Q4⟧ [Al-Ma'idah:3] Islam is the worship of Allah alone, apart from everything else, obeying His commands, avoiding His prohibitions, stopping at His limits, and believing in everything Allah and His Messenger have informed, whether past or future. None of the false religions is revealed from Allah or approved by Him; rather, all of them are innovated and not sent down from Allah. Islam is the religion of all the messengers, but their laws differed, as Allah, Glorified be He, says: ⟦Q5⟧ [Al-Ma'idah:48]⟦N6⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Published in the book 'Ad-Da'wah': (1/15). (Majmu' Fatawa wa Maqalat Ash-Shaikh Ibn Baz: 4/320)."
+  }
+ ]
+}

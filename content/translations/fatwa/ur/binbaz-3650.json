@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3650",
+ "source_content_sha256": "sha256:a8b10da16fbe6543e86930bc72fa558f140ce2f9b71295b39eaf494ccd05c8c4",
+ "locale": "ur",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:17:05.561270+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 500,
+  "completion_tokens": 272,
+  "total_tokens": 772,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 244
+ },
+ "latency_ms": 3199,
+ "units": [
+  {
+   "id": "title",
+   "text": "کیا گھنی داڑھی والے کے لیے بالوں کی جڑوں تک پانی پہنچانا ضروری ہے؟"
+  },
+  {
+   "id": "q0",
+   "text": "س: کیا گھنی داڑھی والے کے لیے بالوں کی جڑوں تک پانی پہنچانا ضروری ہے؟"
+  },
+  {
+   "id": "a0",
+   "text": "ج: اس کے لیے پانی کا داڑھی پر بہا دینا کافی ہے، اور اس پر صحیح احادیث دلالت کرتی ہیں، اور اگر وہ اسے خلال کرے تو یہ افضل ہے، اور نبی ﷺ نے یہ اور وہ دونوں طریقے اختیار فرمائے ہیں⟦N1⟧۔"
+  },
+  {
+   "id": "n0.0",
+   "text": "نور علی الدرب پروگرام سے، (مجموع فتاویٰ ومقالات شیخ ابن باز 10/ 99)۔ "
+  }
+ ]
+}

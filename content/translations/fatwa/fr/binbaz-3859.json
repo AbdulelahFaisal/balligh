@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3859",
+ "source_content_sha256": "sha256:c4473d10716754f822765a105383cfba8e73f0919d9cb48841be18219c30cb03",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:19:09.514143+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 719,
+  "completion_tokens": 517,
+  "total_tokens": 1236,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 463
+ },
+ "latency_ms": 4723,
+ "units": [
+  {
+   "id": "title",
+   "text": "Que doit faire une femme enceinte qui a délaissé la prière à cause d'un écoulement urinaire ?"
+  },
+  {
+   "id": "q0",
+   "text": "Question : La sœur M. H., du Maghreb arabe, dit : Une femme enceinte de neuf mois souffre d'un écoulement urinaire à chaque instant ; elle a cessé de prier pendant le dernier mois. Est-ce considéré comme un abandon de la prière ? Que doit-elle faire ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse : Cette femme et ses semblables ne doivent pas délaisser la prière. Il lui est obligatoire de prier selon son état, de faire ses ablutions pour chaque prière comme la femme atteinte de métrorragie (istihâda), de se protéger autant qu'elle le peut avec du coton ou autre chose, et d'accomplir la prière en son temps. Il lui est recommandé d'accomplir les prières surérogatoires dans le temps prescrit. Elle peut regrouper les deux prières du dhohr et du 'asr, et celles du maghreb et du 'ichâ, comme la femme atteinte de métrorragie, conformément à la parole d'Allah, Puissant et Majestueux : ⟦Q1⟧ [At-Taghâboun : 16]. Elle doit rattraper les prières qu'elle a délaissées, tout en se repentant à Allah, Glorifié et Exalté soit-Il, en regrettant ce qu'elle a fait et en ayant la ferme résolution de ne plus recommencer, conformément à la parole d'Allah, Glorifié et Exalté soit-Il : ⟦Q2⟧ [An-Nour : 31]⟦N3⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Publié dans la revue Ad-Da'wah, numéro 965, daté du 19/2/1405 H. (Majmou' Fatâwâ wa Maqâlât du Cheikh Ibn Bâz 10/224)."
+  }
+ ]
+}

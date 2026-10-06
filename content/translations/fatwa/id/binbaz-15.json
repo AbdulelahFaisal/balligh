@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-15",
+ "source_content_sha256": "sha256:fc40f899142dd65cfedb09ffba7510b06d24deab4375fbc429b7a86a8f42a40f",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:58:06.140260+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 741,
+  "completion_tokens": 539,
+  "total_tokens": 1280,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 485
+ },
+ "latency_ms": 5739,
+ "units": [
+  {
+   "id": "title",
+   "text": "Bermalas-malasan dalam Menunaikan Sebagian Kewajiban"
+  },
+  {
+   "id": "q0",
+   "text": "Apa hukum orang yang mengesakan Allah Ta'ala tetapi bermalas-malasan dalam menunaikan sebagian kewajiban?"
+  },
+  {
+   "id": "a0",
+   "text": "Iman orang itu menjadi berkurang. Demikian pula orang yang melakukan sebagian kemaksiatan, imannya berkurang menurut Ahlus Sunnah wal Jamaah, karena mereka berpendapat bahwa iman adalah ucapan, perbuatan, dan keyakinan yang bertambah dengan ketaatan dan berkurang dengan kemaksiatan. Contohnya: meninggalkan puasa Ramadan tanpa uzur atau sebagiannya, maka ini adalah kemaksiatan besar yang mengurangi dan melemahkan iman. Sebagian ulama mengafirkannya karena hal itu. Akan tetapi, pendapat yang benar adalah bahwa dia tidak kafir selama masih mengakui kewajibannya, tetapi dia berbuka pada sebagian hari karena meremehkan dan malas. Demikian pula jika dia menunda zakat melewati waktunya karena meremehkan atau enggan mengeluarkannya, maka itu adalah kemaksiatan dan kelemahan iman. Sebagian ulama mengafirkannya karena meninggalkannya. Demikian pula jika dia memutus silaturahmi atau durhaka kepada kedua orang tuanya, maka itu adalah kekurangan dan kelemahan iman. Begitu pula kemaksiatan-kemaksiatan lainnya. Adapun meninggalkan salat, hal itu meniadakan iman dan menyebabkan riddah (keluar dari Islam) meskipun dia tidak mengingkari kewajibannya menurut pendapat ulama yang paling sahih, berdasarkan sabda Nabi shallallahu alaihi wa sallam, \"Pokok segala urusan adalah Islam, tiangnya adalah salat, dan puncaknya adalah jihad di jalan Allah,\" dan sabdanya, \"Perjanjian antara kami dan mereka adalah salat, barangsiapa meninggalkannya maka dia telah kafir,\" serta hadis-hadis lain yang menunjukkan hal itu⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu' Fatawa Ibnu Baz (1/55)."
+  }
+ ]
+}

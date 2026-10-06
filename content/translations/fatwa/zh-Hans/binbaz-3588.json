@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3588",
+ "source_content_sha256": "sha256:14a24c3f3304cac36ec96a19b18594dfa65f3cb040a955a454246957d6390570",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:16:30.659351+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 648,
+  "completion_tokens": 335,
+  "total_tokens": 983,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 392
+ },
+ "latency_ms": 3573,
+ "units": [
+  {
+   "id": "title",
+   "text": "在浴室内做小净的教法判定"
+  },
+  {
+   "id": "q0",
+   "text": "问：在浴室内做小净的人，其教法判定是什么？他的小净有效吗？"
+  },
+  {
+   "id": "a0",
+   "text": "答：如果有需要，在浴室内做小净无妨。他在开始小净时念“بسم الله”（以安拉之名）即可。因为念泰斯米（诵念安拉之名）在一些学者看来是必须的（瓦吉布），在大多数学者看来是受强调的圣行。他应当念泰斯米，这样可憎性就消除了，因为当需要念泰斯米时，可憎性就消失了。人们被命令在小净开始时念泰斯米，所以他应念泰斯米并完成小净。\n至于作证词（تشهد），应在出浴室后念——浴室是解手的地方。当他完成小净后，应出来在外面念作证词。\n如果浴室仅用于做小净，不是大小便的地方，那么在其中念泰斯米无妨，因为那里不是解手之处⟦N1⟧。"
+  },
+  {
+   "id": "n0.0",
+   "text": "摘自《光明道路》节目，第8盘磁带，（《伊本·巴兹教法判例与文章全集》10/28）。 "
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3442",
+ "source_content_sha256": "sha256:324ac2630133cd4da7963ce4d638ecc9b76ded5cac2bee76e298df923e0c65c4",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:15:42.503533+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1186,
+  "completion_tokens": 986,
+  "total_tokens": 2172,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 930
+ },
+ "latency_ms": 7972,
+ "units": [
+  {
+   "id": "title",
+   "text": "Comment se désavouer des mécréants et les appeler à Allah"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "À notre époque, il y a parmi nous beaucoup de mécréants – polythéistes, chrétiens et païens – dans les marchés et dans nos travaux. Quel est notre rôle entre les appeler à l’islam et la nécessité de bien les traiter ? Se limite-t-on à les appeler une seule fois, ou chaque jour et continuellement ? Comment concilier cela avec la question du désaveu à leur égard ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "L’appel à Allah et leur enseignement n’empêchent pas de les haïr pour Allah. Tu les hais pour Allah et tu les appelles à Allah, comme tu hais ton enfant désobéissant : tu l’appelles à Allah et tu lui imposes la vérité. Ton frère désobéissant, tu l’appelles à Allah et tu lui imposes la vérité ; tu le hais pour Allah, tu l’aimes pour son islam, tu lui ordonnes la vérité et tu le réprouves pour le faux. C’est le devoir des savants musulmans et des États musulmans de traiter les mécréants qui sont chez eux, de les appeler à Allah, de leur enseigner et de les guider. C’est leur devoir : ⟦Q1⟧ [Āl ʿImrān : 104] et Il dit, glorifié soit-Il : ⟦Q2⟧ [Fuṣṣilat : 33], et Il dit, glorifié soit-Il : ⟦Q3⟧ [An-Naḥl : 125]."
+  },
+  {
+   "id": "a2",
+   "text": "La Présidence générale des recherches scientifiques, de l’ifta, de l’appel et de l’orientation accomplit une part de ce devoir en envoyant des prédicateurs ici et là, et en appelant la communauté ici à Riyad et ailleurs par des formes d’appel et d’orientation, en distribuant des livres utiles. Nous demandons à Allah de faire profiter par ces moyens. De même, la Ligue accomplit une part de cela, et le Séminaire de la jeunesse en accomplit une part."
+  },
+  {
+   "id": "a3",
+   "text": "De même, toute personne ayant de la jalousie parmi les gens de science et ayant de la clairvoyance contribue à ce grand bien dans son pays et ailleurs. Nous demandons à Allah d’accorder la réussite à tous et d’aider tous à davantage de bien et d’activité dans le bien, car ils sont venus chez nous maintenant, leur appel est proche, dans leurs entreprises et dans tout lieu où ils se rassemblent. Leur appel est possible maintenant, au lieu de voyager vers eux en Europe, en Amérique et dans beaucoup d’endroits. Maintenant, ils se trouvent chez lui dans son pays, ici et ailleurs."
+  },
+  {
+   "id": "a4",
+   "text": "De même, les savants en Égypte, au Levant et ailleurs ont aussi leur devoir. Les savants de ce pays ont un devoir encore plus grand, car ce pays est le berceau de l’islam et la source de l’islam, le pays des deux sanctuaires. C’est la péninsule d’où a jailli cette religion et où ont vécu le Prophète et ses compagnons – prière et salut sur lui, et qu’Allah soit satisfait d’eux –."
+  },
+  {
+   "id": "a5",
+   "text": "Le devoir de ce pays, de ses savants et de ses gouverneurs en matière d’appel, d’exposé clair et de soutien de la vérité est plus grand que celui des autres. Nous demandons à Allah la guidée pour tous, la réussite pour tous et l’aide pour tout bien."
+  }
+ ]
+}

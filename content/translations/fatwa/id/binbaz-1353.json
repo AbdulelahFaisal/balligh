@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1353",
+ "source_content_sha256": "sha256:8b82672d88926fd00ef81ff71a5a26b067e1e0e4e782b0dfd300226909a71dc7",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:56:28.919263+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 604,
+  "completion_tokens": 361,
+  "total_tokens": 965,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 348
+ },
+ "latency_ms": 3941,
+ "units": [
+  {
+   "id": "title",
+   "text": "Apakah wanita shalat dengan suara keras seperti laki-laki?"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Apakah wanita dalam shalat jahriyah (yang bacaannya dikeraskan) membaca dengan suara keras sebagaimana laki-laki, di mana terjadi perbedaan pendapat di antara sebagian penuntut ilmu, dan sebagian mereka berkata: \"Shalatlah kalian sebagaimana kalian melihat aku shalat,\" maka ini berlaku untuk wanita dan laki-laki. Kami mohon penjelasan yang benar tentang hal ini?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Yang tampak bagi kami bahwa tidak ada halangan, dia shalat dan mengeraskan suara pada shalat Maghrib, Isya, dan Subuh seperti laki-laki; karena Nabi shallallahu 'alaihi wa sallam bersabda: \"Shalatlah kalian sebagaimana kalian melihat aku shalat,\" dan hukum-hukum itu sama, hukum laki-laki dan wanita sama kecuali apa yang ditunjukkan oleh dalil yang mengkhususkannya. Jika ada dalil yang mengkhususkan laki-laki atau wanita, maka tidak sama, tetapi pada dasarnya keduanya dalam hukum-hukum adalah sama: shalat mereka sama, zakat mereka sama, haji mereka sama."
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3958",
+ "source_content_sha256": "sha256:f722842a09d5ff1957fd33c5f2e2f11bc5ac17941f6adb61d4ff10ab39ae53ee",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:19:11.515394+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 648,
+  "completion_tokens": 360,
+  "total_tokens": 1008,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 392
+ },
+ "latency_ms": 3379,
+ "units": [
+  {
+   "id": "title",
+   "text": "Delaying prayer beyond its time due to work"
+  },
+  {
+   "id": "q0",
+   "text": "Q: We are workers on a farm, and we all perform the obligatory prayers because the mosque is about 2 kilometers away from us and we cannot hear the call to prayer. We call the adhan and iqamah on the farm, and sometimes we delay the prayer half an hour beyond its time because of work. What is the ruling on that?"
+  },
+  {
+   "id": "a0",
+   "text": "A: There is no harm in praying on the farm if the mosque is far from you. Likewise, delaying the prayer from the beginning of its time by half an hour or so is not harmful, but praying at the beginning of the time is better, except if the heat is intense in the Dhuhr prayer, then waiting for it to cool down is better. Likewise, if the congregation delays the Isha prayer from the beginning of its time, the imam should accommodate them, because it is established from the Prophet ﷺ that he used to consider the congregation in the Isha prayer: if he saw them gathered, he would hasten, and if he saw them delaying, he would delay. And Allah is the Grantor of success ⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "From the program \"Noor 'ala al-Darb\", tape no. 57. (Majmu' Fatawa wa Maqalat al-Shaykh Ibn Baz 10/380)."
+  }
+ ]
+}

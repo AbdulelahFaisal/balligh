@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1338",
+ "source_content_sha256": "sha256:e4f5fd143ad5ba76e7cd55ee60a7b371e6abf87139af73dc3a1922960919547f",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:55:56.027543+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 560,
+  "completion_tokens": 295,
+  "total_tokens": 855,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 304
+ },
+ "latency_ms": 3072,
+ "units": [
+  {
+   "id": "title",
+   "text": "Hukum orang yang tidak mampu memenuhi nazar"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Saya pernah berada di suatu majelis bersama teman-teman, lalu saya bersumpah demi Allah bahwa jika saudara laki-laki saya datang, saya akan menyembelih seekor kambing. Ternyata saudara saya datang, sementara saat itu saya dalam keadaan kesulitan dan tidak memiliki uang seharga kambing tersebut. Apa yang harus saya lakukan?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Jika sudah dimudahkan, sembelihlah kambing itu. Jika sudah mampu membeli kambing, sembelihlah sebagai pemenuhan nazarmu. Sembelihlah dengan niat untuk diberikan kepada orang-orang fakir, berikan kepada mereka. Jika tidak ada niat tertentu, kamu boleh memakannya bersama keluargamu, kamu dan keluargamu boleh memakannya. Jika tidak ada niat, berikan kepada orang-orang fakir, jangan kamu makan."
+  }
+ ]
+}

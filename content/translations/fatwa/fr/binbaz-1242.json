@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1242",
+ "source_content_sha256": "sha256:2d3cf94bd19cca742cc2cac28e9a4371a7be67ba4dcd288b37c9ee20b93611ce",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:54:15.115186+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1131,
+  "completion_tokens": 1099,
+  "total_tokens": 2230,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 875
+ },
+ "latency_ms": 9481,
+ "units": [
+  {
+   "id": "title",
+   "text": "Réponses utiles concernant le rêve et le jeûne pour le mort"
+  },
+  {
+   "id": "q0",
+   "text": "Q : De ‘Abd al-‘Azîz ibn ‘Abd Allah ibn Bâz à l’honorable frère N. H. ‘A., qu’Allah lui accorde la réussite, âmîn.\nQue la paix, la miséricorde d’Allah et Ses bénédictions soient sur vous, ensuite :\nVotre noble lettre m’est parvenue, qu’Allah vous guide vers Sa guidance, et les cinq questions qu’elle contient ont été prises en considération. Voici leurs réponses :\nPremièrement : Votre mère a vu de façon répétée en rêve qu’elle rassemblait des moutons, et chaque fois qu’elle rassemblait un groupe, un autre groupe s’échappait d’elle, et elle s’est fatiguée de cela.\nDeuxièmement : Votre mère voit sa mère à de nombreuses reprises, malade, pendant sa vie et après sa mort, etc.\nTroisièmement : Votre grand-mère, la mère de votre mère, souffrait d’une maladie quasi permanente, elle rompait le jeûne pendant le Ramadan et le rattrapait, et votre mère l’aidait à rattraper le jeûne par le jeûne à sa place, etc. ?"
+  },
+  {
+   "id": "a0",
+   "text": "Première réponse : Un tel rêve est considéré comme un rêve détestable. Ce qui est prescrit, pour celui qui voit un tel rêve, est de souffler trois fois sur sa gauche lorsqu’il se réveille, de demander la protection d’Allah contre Satan et contre le mal de ce qu’il a vu, trois fois, puis de se tourner sur l’autre côté ; en effet, cela ne lui nuira pas, et il n’en informera personne ; conformément à la parole du Prophète ﷺ : « Le rêve pieux vient d’Allah, et le mauvais rêve vient de Satan. Si l’un de vous voit ce qu’il déteste, qu’il souffle trois fois sur sa gauche, qu’il demande la protection d’Allah contre Satan et contre le mal de ce qu’il a vu, trois fois, puis qu’il se tourne sur l’autre côté ; cela ne lui nuira pas, et qu’il n’en informe personne. » Rapporté et jugé authentique par al-Bukhârî et Muslim.\nQuant au bouc que votre mère a pris parmi les moutons qui se sont mélangés à ses moutons et dont elle n’a pas informé son propriétaire, puis qu’ils ont égorgé et mangé, elle doit s’en repentir, et elle doit en payer la valeur à son propriétaire à ce moment-là. Si elle ne connaît pas son propriétaire, elle en fera aumône en son nom à quelque pauvre. Nous demandons à Allah de nous pardonner, ainsi qu’à elle et à tout musulman.\nDeuxième réponse : Cette question est comme la précédente ; car c’est un rêve détestable, venant de Satan. Ce qui est prescrit, pour celui qui voit un rêve détestable, est ce que nous avons mentionné dans la réponse à la première question.\nTroisième réponse : Le jeûne d’une personne à la place d’une autre ne suffit pas lorsque la personne pour qui on jeûne est vivante. Votre grand-mère est décédée, qu’Allah lui fasse miséricorde ; il est donc prescrit à votre mère de jeûner pour elle les jours qu’elle a jeûnés pour elle de son vivant, car son jeûne pour elle de son vivant n’était pas valable. Si elle ne peut pas jeûner, il lui est alors prescrit de faire l’aumône pour elle, pour chaque jour, d’un demi-sâ‘ de dattes ou d’autre nourriture de base du pays, soit environ un kilo et demi, tout en priant pour elle afin qu’Allah lui pardonne et lui fasse miséricorde.⟦N1⟧.⟦N2⟧"
+  },
+  {
+   "id": "n0.0",
+   "text": "(Majmû‘ Fatâwâ wa Maqâlât al-Cheikh Ibn Bâz 5/350)"
+  },
+  {
+   "id": "n1.0",
+   "text": "Les réponses aux quatrième et cinquième questions ne sont pas mentionnées ici car elles ne sont pas liées à la croyance."
+  }
+ ]
+}

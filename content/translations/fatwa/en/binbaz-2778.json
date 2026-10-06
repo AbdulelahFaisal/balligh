@@ -1,0 +1,60 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2778",
+ "source_content_sha256": "sha256:7b2a59c3f3411d07503bfac265928b102f9e625886cb4be0bd62dda54a72a462",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:13:31.608531+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 898,
+  "completion_tokens": 600,
+  "total_tokens": 1498,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 642
+ },
+ "latency_ms": 4878,
+ "units": [
+  {
+   "id": "title",
+   "text": "Ruling on abandoning prayer while affirming it is obligatory"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "One who abandons prayer deliberately and intentionally, but affirms it is obligatory?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "Regarding abandoning prayer deliberately while affirming it and believing in it, there are two statements from the scholars:"
+  },
+  {
+   "id": "a2",
+   "text": "One of them: that he is a disbeliever with major disbelief and an apostate from Islam, because he neglects it although it is the pillar of Islam. This statement is more correct due to numerous evidences, including:"
+  },
+  {
+   "id": "a3",
+   "text": "His saying ﷺ: \"The head of the matter is Islam, and its pillar is prayer.\" Among them is what came in the Noble Qur'an of Allah's praise for those who pray, His command to establish prayer, and His saying about the disbelievers when they were asked: ⟦Q1⟧ [Al-Muddaththir:42, 43] They mentioned that among the reasons for their entering the Fire and their being led into it was that they were not among those who pray. Among them is His saying ﷺ: \"The covenant between us and them is prayer; whoever abandons it has disbelieved.\" And His saying ﷺ: \"Between a man and disbelief and polytheism is abandoning prayer,\" among other evidences."
+  },
+  {
+   "id": "a4",
+   "text": "Others said: He is a disbeliever with minor disbelief, not major, because the evidences of Tawhid indicate that abandoning prayer is destruction and apostasy from Islam, and they mentioned things of this sort that indicate what they believed, that his disbelief is minor, not major, and that if he believes it is obligatory upon him and that it is a religious duty, but he neglects it, his disbelief is minor, and he is a disobedient sinner, and his sin is greater than that of the adulterer and the thief, but it is not major disbelief. They said: Thus, the funeral prayer is offered over him, and he is buried with the Muslims. This is the statement of a group of the scholars."
+  },
+  {
+   "id": "a5",
+   "text": "The first statement is more apparent in evidence and stronger in argument: that it is major disbelief—we seek refuge in Allah from that."
+  }
+ ]
+}

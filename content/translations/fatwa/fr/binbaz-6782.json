@@ -1,0 +1,36 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-6782",
+ "source_content_sha256": "sha256:f0882812f3a120631df6d516c59b2cc9fb8543f120dfa407185d2eb2792d1e57",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:22:56.932793+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 807,
+  "completion_tokens": 739,
+  "total_tokens": 1546,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 551
+ },
+ "latency_ms": 6757,
+ "units": [
+  {
+   "id": "title",
+   "text": "Le mérite de l’amour pour Allah et de la haine pour Allah"
+  },
+  {
+   "id": "q0",
+   "text": "Question : Ceci est une lettre qui nous est parvenue de l’auteur de la question, Adel Abd al-Hamid Hassan, de la République arabe d’Égypte – gouvernorat de Minya – résidant en Jordanie. Il dit : L’amour est-il en Islam licite ou illicite ? – il vise apparemment : l’amour avant le mariage entre l’homme et la femme – Éclairez-nous, qu’Allah vous récompense ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse : L’amour pour Allah et la haine pour Allah sont une adoration et une obéissance entre les musulmans : que l’homme aime son frère pour Allah et le déteste pour Allah, c’est une obéissance. Il aime les musulmans pour Allah et déteste les mécréants pour Allah. Allah, Glorifié et Exalté, a dit dans Son noble Livre : ⟦Q1⟧ [Al-Mujadilah : 22]. Le croyant doit donc détester les ennemis d’Allah et se désavouer d’eux. Et Il, Glorifié, a dit : ⟦Q2⟧ [Al-Mumtahanah : 4]. Le musulman déteste pour Allah et se montre hostile pour Allah, et de même il aime pour Allah. Le Prophète ﷺ a dit : « Sept personnes qu’Allah mettra sous Son ombre le jour où il n’y aura d’ombre que la Sienne », et il a mentionné parmi elles deux hommes qui se sont aimés pour Allah, se sont réunis pour cela et se sont séparés pour cela. Et il ﷺ a dit dans un hadith authentique : « Il y a trois choses qui, si elles se trouvent chez une personne, lui font trouver la douceur de la foi : qu’Allah et Son Messager soient plus aimés de lui que tout autre, et qu’il n’aime une personne que pour Allah. » Et il, que la prière et le salut d’Allah soient sur lui, a aussi dit : « Allah dira au Jour de la Résurrection : Où sont ceux qui se sont aimés pour Ma majesté ? Aujourd’hui, Je les mets sous Mon ombre, le jour où il n’y aura d’ombre que Mon ombre. »\nEt si un homme demande en mariage une femme qu’il aime pour Allah à cause de sa religion, il n’y a pas de mal à cela. S’il la demande en mariage parce qu’il l’aime pour Allah, pour sa religion et sa droiture, il n’y a pas de mal à cela, et c’est ce qu’il convient au croyant de rechercher : il choisit la femme vertueuse afin de la demander en mariage. Oui.\nPrésentateur : Qu’Allah vous récompense par le bien et vous bénisse."
+  }
+ ]
+}

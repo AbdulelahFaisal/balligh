@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3709",
+ "source_content_sha256": "sha256:d6979fce39d51efa7cc5ddd1a0d1980f20687efcbfe30eb4910b318da1f9bbfc",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:17:14.672213+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 778,
+  "completion_tokens": 445,
+  "total_tokens": 1223,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 522
+ },
+ "latency_ms": 3715,
+ "units": [
+  {
+   "id": "title",
+   "text": "Guidance for One Who Does Not Feel at Ease in His Prayer"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "I pray, praise be to Allah, but I feel constriction and lack of ease in prayer. Advise me, may Allah reward you with good."
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "This is a disease of the heart, and most often its cause is sins and heedlessness. The one who does not find delight in prayer has fallen into that because of his heedlessness, turning away, and sins. So let him repent to Allah, strive against his own self, ask his Lord for success, and be present with his heart in prayer. Prayer is rest and the delight of the eye. The Prophet (peace be upon him) said: \"The delight of my eye has been placed in prayer.\" So it is the delight of the eye. And he said to Bilal: \"Give the iqamah, and give us rest by the prayer.\""
+  },
+  {
+   "id": "a2",
+   "text": "Prayer is the rest of hearts, the rest of consciences, and the delight of the eye. When the believer enters it, he finds rest in it, his heart is tranquil, and his eye is delighted, because it is the pillar of Islam, and because in it he pleases his Lord and stands before Him in humility. It is the rest of hearts, the bliss of souls, and the delight of the eye.\nSo if a person feels constriction in it, let him know that this is a calamity, and let him treat it by repenting to Allah, asking Him for success, guidance, and help. Allah accepts the repentance of those who repent, Mighty and Majestic."
+  }
+ ]
+}

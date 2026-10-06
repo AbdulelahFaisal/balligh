@@ -101,11 +101,27 @@ def test_serving_uses_the_creation_checks(tmp_path: Path, mutate):
     assert ft.machine_translation(tmp_path, RECORD, "en") is None
 
 
-def test_known_misattributed_binbaz_1158_artifacts_are_not_served():
+def test_binbaz_1158_is_served_only_from_the_regenerated_input():
+    """The six version-1 artifacts attributed Quran 2:8 to the Prophet. Only a version-2 artifact may be served."""
     root = CONTENT / "translations" / "fatwa"
     rec = json.loads((CONTENT / "library/fatwa/records/binbaz-1158.json").read_text(encoding="utf-8"))
     for loc in ft.LOCALES:
-        assert ft.machine_translation(root, rec, loc) is None
+        doc = ft.valid_artifact(root, rec, loc)
+        assert doc is None or doc["prompt_version"] == ft.PROMPT_VERSION
+    english = ft.valid_artifact(root, rec, "en")
+    if english is not None:
+        a0 = next(u["text"] for u in english["units"] if u["id"] == "a0")
+        lead_in = a0[a0.index("⟦Q1⟧"):a0.index("⟦Q2⟧")].lower()
+        assert "prophet" not in lead_in and "messenger" not in lead_in
+
+
+def test_machine_counts_follow_the_validator_and_refresh_when_files_change(tmp_path: Path):
+    assert ft.machine_counts(tmp_path, [RECORD]) == {loc: 0 for loc in ft.LOCALES}
+    units = {u["id"]: "EN " + u["text"].replace("ا", "a") for u in ft.record_units(RECORD)[0]}
+    path = ft.write_artifact(tmp_path, RECORD, "en", units, {"provider": "deepseek", "model": "deepseek-v4-pro"})
+    assert ft.machine_counts(tmp_path, [RECORD])["en"] == 1 and ft.machine_counts(tmp_path, [RECORD])["fr"] == 0
+    path.write_text("{}", encoding="utf-8")
+    assert ft.machine_counts(tmp_path, [RECORD])["en"] == 0
 
 
 def test_only_a_complete_single_ayah_reference_gets_a_published_translation():
@@ -120,3 +136,70 @@ def test_only_a_complete_single_ayah_reference_gets_a_published_translation():
     assert resolve is None or all((resolve(t) or {}).get("surah") != 25 for t in ranged)
     single = ft.published_resolver(CONTENT / "library/quran", RECORD, "en")("⟦Q1⟧")
     assert single and (single["surah"], single["ayah"]) == (22, 62)
+
+
+R1158 = json.loads((CONTENT / "library/fatwa/records/binbaz-1158.json").read_text(encoding="utf-8"))
+
+
+def test_verified_symbols_are_spelled_out_in_the_input_only():
+    raw = (CONTENT / "library/fatwa/records/binbaz-1158.json").read_bytes()
+    assert ft.has_symbols(R1158) and not ft.has_symbols(RECORD)
+    units, _ = ft.record_units(R1158)
+    a0 = next(u for u in units if u["id"] == "a0")["text"]
+    assert "وقال عز وجل" in a0 and "\uf055" not in a0 and "⟦Q2⟧" in a0
+    assert a0.index("وقال عز وجل") < a0.index("⟦Q2⟧")
+    payload = json.dumps(ft.build_payload("deepseek-v4-pro", R1158, "en"), ensure_ascii=False)
+    assert "\uf055" not in payload and "never attribute a Quran" in payload
+    assert (CONTENT / "library/fatwa/records/binbaz-1158.json").read_bytes() == raw
+    assert ft.normalize_input("نص بلا رموز") == "نص بلا رموز"
+
+
+def test_version_1_artifacts_survive_only_for_records_without_symbols(tmp_path: Path):
+    def stored(record, version):
+        units = {u["id"]: "EN " + u["text"].replace("ا", "a") for u in ft.record_units(record)[0]}
+        path = ft.write_artifact(tmp_path, record, "en", units, {"provider": "deepseek", "model": "deepseek-v4-pro"})
+        doc = json.loads(path.read_text(encoding="utf-8"))
+        doc["prompt_version"] = version
+        path.write_text(json.dumps(doc, ensure_ascii=False), encoding="utf-8")
+    stored(RECORD, "fatwa-translate-1")
+    assert ft.valid_artifact(tmp_path, RECORD, "en") is not None
+    stored(R1158, "fatwa-translate-1")
+    assert ft.valid_artifact(tmp_path, R1158, "en") is None
+    stored(R1158, ft.PROMPT_VERSION)
+    assert ft.valid_artifact(tmp_path, R1158, "en") is not None
+    stored(RECORD, "fatwa-translate-0")
+    assert ft.valid_artifact(tmp_path, RECORD, "en") is None
+
+
+def test_translated_notes_keep_the_original_note_ids(tmp_path: Path):
+    rec = json.loads((CONTENT / "library/fatwa/records/binbaz-1157.json").read_text(encoding="utf-8"))
+    units = {u["id"]: "EN " + u["text"].replace("ا", "a") for u in ft.record_units(rec)[0]}
+    ft.write_artifact(tmp_path, rec, "en", units, {"provider": "deepseek", "model": "deepseek-v4-pro"})
+    mt = ft.machine_translation(tmp_path, rec, "en")
+    assert [n["id"] for n in mt["notes"]] == [str(n["id"]) for n in rec["notes"]]
+
+
+def test_the_publishers_citation_replaces_any_model_written_reference():
+    src = "قال تعالى: ⟦Q1⟧ [ص:5] ثم قال: ⟦Q2⟧ [الفرقان:68-69] وقال: ⟦Q3⟧ ثم ⟦Q4⟧ [الحج:62]"
+    out = ft.restore_citations(src, "He says: ⟦Q1⟧ [p.5] then: ⟦Q2⟧（放逐章：68-69）and: ⟦Q3⟧ (peace) then ⟦Q4⟧ (as he said) end")
+    assert "⟦Q1⟧ \u2068[ص:5]\u2069 then" in out and "p.5" not in out
+    assert "⟦Q2⟧ \u2068[الفرقان:68-69]\u2069and" in out and "放逐章" not in out
+    assert "⟦Q3⟧ (peace) then" in out                      # no citation in the source: nothing is touched
+    assert "⟦Q4⟧ \u2068[الحج:62]\u2069 (as he said) end" in out   # a bracket without a verse number is kept
+    assert ft.restore_citations("⟦Q1⟧ [ص:5]", "⟦Q1⟧ and more") == "⟦Q1⟧ \u2068[ص:5]\u2069 and more"  # an omitted citation returns
+    assert ft.restore_citations("نص بلا آية", "plain text") == "plain text"
+
+
+def test_served_translations_carry_the_original_citation_after_each_quotation():
+    root = CONTENT / "translations" / "fatwa"
+    rec = json.loads((CONTENT / "library/fatwa/records/binbaz-1996.json").read_text(encoding="utf-8"))
+    raw = (CONTENT / "library/fatwa/records/binbaz-1996.json").read_bytes()
+    for loc in ft.LOCALES:
+        mt = ft.machine_translation(root, rec, loc)
+        if mt is None:
+            continue
+        shown = "".join(r.get("text", "") for para in mt["answer"] for r in para if r.get("kind") == "text")
+        assert "\u2068[ص:5]\u2069" in shown and "[الصافات:35-36]" in shown
+        for wrong in ("p.5", "hal.5", "第5页", "পৃষ্ঠা"):
+            assert wrong not in shown
+    assert (CONTENT / "library/fatwa/records/binbaz-1996.json").read_bytes() == raw

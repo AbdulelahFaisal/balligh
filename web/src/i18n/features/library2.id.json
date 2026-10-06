@@ -4,7 +4,9 @@
     "questionsDesc": "Jawaban Syekh Abdul Aziz bin Baz atas pertanyaan orang-orang.",
     "hadithDesc": "Hadis beserta derajat dan penjelasan yang diterbitkan.",
     "open": "Buka",
-    "arabicOnly": "Hanya bahasa Arab"
+    "arabicOnly": "Hanya bahasa Arab",
+    "publishedArabic": "Diterbitkan dalam bahasa Arab",
+    "aiCoverage": "Terjemahan dibantu AI: {{n}} dari {{total}}"
   },
   "list": {
     "resetSearch": "Hapus pencarian dan tampilkan semua"

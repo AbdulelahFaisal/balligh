@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3611",
+ "source_content_sha256": "sha256:65e619011cabaf18a361b762d88ce081be798778fface3fb0e4b19f3a90be2ba",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:17:02.114647+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 617,
+  "completion_tokens": 373,
+  "total_tokens": 990,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 361
+ },
+ "latency_ms": 3662,
+ "units": [
+  {
+   "id": "title",
+   "text": "Le jugement concernant l'utilisation du vernis à ongles, et doit-on l'enlever lors des ablutions ?"
+  },
+  {
+   "id": "q0",
+   "text": "Question : La questionneuse : S. S. – d'Al-Jawf – dit dans sa question : La femme commet-elle un péché en utilisant le vernis à ongles dont on enduit les ongles ? Et que doit-elle faire lors des ablutions ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse : Nous ne connaissons rien à ce sujet, mais le délaisser est préférable, car il n'y a pas de nécessité à cela, et parce qu'il peut empêcher l'eau d'atteindre la peau lors des ablutions.\nEn résumé : le délaisser est préférable, et se contenter du henné, ce sur quoi étaient les premiers, est meilleur. Si la femme l'utilise, il lui est obligatoire de l'enlever lors des ablutions, car – comme nous l'avons dit – il empêche l'eau d'atteindre la peau. Et Allah est le Garant de la réussite⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Publié dans la revue Al-'Arabiyya, numéro (177) du mois de Dhul-Qi'da de l'année 1412 H, (Majmu' Fatawa wa Maqalat du Cheikh Ibn Baz 10/48)."
+  }
+ ]
+}

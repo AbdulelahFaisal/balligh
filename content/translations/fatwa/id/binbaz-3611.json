@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3611",
+ "source_content_sha256": "sha256:65e619011cabaf18a361b762d88ce081be798778fface3fb0e4b19f3a90be2ba",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:16:58.214915+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 617,
+  "completion_tokens": 354,
+  "total_tokens": 971,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 361
+ },
+ "latency_ms": 3622,
+ "units": [
+  {
+   "id": "title",
+   "text": "Hukum memakai cat kuku (manakir), dan apakah wajib menghilangkannya saat wudu?"
+  },
+  {
+   "id": "q0",
+   "text": "Tanya: Penanya: S. S. -dari Al-Jauf- berkata dalam pertanyaannya: Apakah seorang wanita berdosa bila memakai cat kuku (manakir) yang dioleskan pada kuku? Dan apa yang harus dilakukannya saat wudu?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawab: Kami tidak mengetahui ada dalil tentang hal ini, namun meninggalkannya lebih utama; karena tidak ada kebutuhan, dan karena cat kuku itu dapat menghalangi sampainya air ke kulit saat wudu. Singkatnya, meninggalkannya lebih utama, dan cukup dengan hina (pacar kuku) yang biasa dipakai orang-orang terdahulu, itu lebih utama. Jika seorang wanita memakainya, maka wajib menghilangkannya saat wudu; karena -sebagaimana telah kami katakan- cat kuku itu menghalangi sampainya air ke kulit. Allah-lah pemberi taufik⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Diterbitkan dalam Majalah Al-Arabiyyah edisi (177) bulan Dzulqa'dah tahun 1412 H, (Majmu' Fatawa wa Maqalat Syaikh Ibnu Baz 10/48)."
+  }
+ ]
+}

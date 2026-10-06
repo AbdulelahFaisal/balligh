@@ -1,0 +1,72 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1614",
+ "source_content_sha256": "sha256:6e944d6e8b4349d900028b8235adeb121719a928606a2710bd9f15bb9a3841c2",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:00:25.411743+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1486,
+  "completion_tokens": 1025,
+  "total_tokens": 2511,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 1230
+ },
+ "latency_ms": 11128,
+ "units": [
+  {
+   "id": "title",
+   "text": "Ruling on abandoning obligations using the hadith 'Friday to Friday' as an excuse"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "Many people only pray on Friday and during Ramadan, citing the hadith: 'Friday to Friday and Ramadan to Ramadan are expiations for what is between them.' Is this correct?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "This argument is sheer ignorance. Allah has obligated upon us congregational prayer, Friday prayer, and fasting Ramadan. We must perform all the obligations and prayers, attend Friday prayer, fast Ramadan, and do everything Allah has made obligatory. In doing so, there is great reward. Perhaps if we do all of this, strive, and avoid what Allah has forbidden, we may be saved, perhaps we may be spared Allah's punishment, perhaps we will be accepted."
+  },
+  {
+   "id": "a2",
+   "text": "But to use Friday prayer and the expiation Allah has attached to it, or Ramadan, as an excuse to neglect other obligations—this is not something said by one who believes in Allah and the Last Day, nor by anyone with sound intellect. Whoever believes that Friday prayer suffices for the rest of the prayers is a disbeliever, misguided and misguiding. We ask Allah for safety."
+  },
+  {
+   "id": "a3",
+   "text": "And whoever believes that fasting Ramadan removes from him all other religious duties and that he may commit whatever sins he wishes is also misguided, misguiding, and a disbeliever in Allah. We seek refuge with Allah!"
+  },
+  {
+   "id": "a4",
+   "text": "Muslims have unanimously agreed that Ramadan does not remove other obligations, and that Friday prayer does not remove other obligations. Friday prayer does not remove the Fajr prayer, nor the Asr, Maghrib, or Isha prayers at their times on that day, for it only replaces the Zuhr prayer specifically on Friday. As for the other days, according to all scholars, the five daily prayers are necessary. Likewise, the four prayers on Friday—Asr, Maghrib, Isha, and Fajr—are necessary."
+  },
+  {
+   "id": "a5",
+   "text": "Whoever claims that Friday prayer removes all these obligations and believes that has committed disbelief and misguidance. He must hasten to repent to Allah, glorified and exalted, because this is abandoning obligations and making lawful what is forbidden. Whoever does that believing it after the proof has been established against him and it has been clarified to him has disbelieved and gone astray. Similarly, fasting Ramadan does not remove obligations—neither prayer, nor zakah (obligatory almsgiving), nor anything else."
+  },
+  {
+   "id": "a6",
+   "text": "Fasting Ramadan is an obligation upon the servant that he must fulfill. Allah, majestic and lofty, has made great reward and recompense for it. But the reward of Ramadan does not remove the rest of the obligations. The Prophet (peace and blessings be upon him) said: 'The five daily prayers, Friday to Friday, and Ramadan to Ramadan are expiations for what is between them as long as major sins are avoided.' If one commits a major sin, he forfeits the reward of fasting—we ask Allah for safety—he forfeits the reward of the prayers, he forfeits the reward of Friday prayer. He will not attain their reward unless he avoids major sins, i.e., disobedience, as Allah, majestic and lofty, says: ⟦Q1⟧ [An-Nisa:31]. Thus, expiation of sins and admission to Paradise are only for those who avoid major sins."
+  },
+  {
+   "id": "a7",
+   "text": "The point is that the one who says Friday prayer and Ramadan suffice for the rest of the obligations and that through them all forbidden acts are expiated is speaking out of immense ignorance that has no meaning to a rational person. Rather, it contradicts the texts and the consensus of Muslims. We ask Allah for safety."
+  },
+  {
+   "id": "a8",
+   "text": "Perhaps if he performs all the obligations and abandons all forbidden things, he may be granted success, perhaps he will be accepted, perhaps his sins will be expiated, perhaps he will attain Paradise. But if he becomes self-conceited and reminds Allah of his deeds as a favor, he is deserving of deprivation and non-acceptance. We ask Allah for safety."
+  }
+ ]
+}

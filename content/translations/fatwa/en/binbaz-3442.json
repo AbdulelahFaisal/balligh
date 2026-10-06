@@ -1,0 +1,60 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3442",
+ "source_content_sha256": "sha256:324ac2630133cd4da7963ce4d638ecc9b76ded5cac2bee76e298df923e0c65c4",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:15:17.648750+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1186,
+  "completion_tokens": 804,
+  "total_tokens": 1990,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 930
+ },
+ "latency_ms": 6277,
+ "units": [
+  {
+   "id": "title",
+   "text": "How to disavow the disbelievers and call them to Allah"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "In this era, among us there are many disbelievers: polytheists, Christians, and idolaters, in the markets and at our workplaces. What is our role between calling them to Islam and the necessity of treating them well? Is it limited to calling them once, or every day and continuously? How do we reconcile that with the issue of disavowing them?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "Calling to Allah and teaching them does not prevent hating them for the sake of Allah. You hate them for the sake of Allah and call them to Allah, just as you hate your disobedient son: you call him to Allah, obligate him to the truth, and your disobedient brother: you call him to Allah, obligate him to the truth, hate him for the sake of Allah, and love him for his Islam. You enjoin him to the truth and forbid him from falsehood. This is what is obligatory upon the Muslim scholars and the Muslim states: to deal with the disbelievers among them, call them to Allah, teach them, and guide them. This is their duty: ⟦Q1⟧ [Āl ʿImrān:104], and He, glorified be He, says: ⟦Q2⟧ [Fuṣṣilat:33], and He, glorified be He, says: ⟦Q3⟧ [Al-Naḥl:125]."
+  },
+  {
+   "id": "a2",
+   "text": "The General Presidency of Scholarly Research and Ifta, Da'wah and Guidance undertakes a portion of this duty by sending callers here and there, by undertaking the calling of the communities here in Riyadh and elsewhere through various methods of da'wah and guidance, and by distributing useful books. We ask Allah to make the means beneficial. Likewise, the Muslim World League undertakes part of that, and the Islamic Youth Symposium undertakes part of that."
+  },
+  {
+   "id": "a3",
+   "text": "Likewise, everyone among the people of knowledge who has zeal and insight contributes to this great good in his country and in other countries. We ask Allah to grant success to all and help all to increase in goodness and activity in goodness. For they have now come to us, so calling them is now near: calling them in their companies and in any place where they gather is now possible, instead of traveling to them in Europe, America, and many places. Now they are found in his country here and in other places."
+  },
+  {
+   "id": "a4",
+   "text": "Also, the scholars in Egypt, Syria, and elsewhere have their duty as well, and the scholars in this country have even more, because this country is the cradle of Islam and the source of Islam, the land of the Two Holy Sanctuaries. It is the peninsula from which this religion originated, and where the Prophet, peace and blessings be upon him, and his Companions, may Allah be pleased with them, resided."
+  },
+  {
+   "id": "a5",
+   "text": "Thus, the duty of this country, its scholars, and its rulers in calling, clarifying, and supporting the truth is greater than that of others. We ask Allah for guidance for all, success for all, and help upon every good."
+  }
+ ]
+}

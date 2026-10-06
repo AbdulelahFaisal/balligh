@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2616",
+ "source_content_sha256": "sha256:e1cba27c0bd2106dcab5a5cdd8d4ed5c6edbc99377e57ecd78eec42384ff646f",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:12:47.145103+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 610,
+  "completion_tokens": 342,
+  "total_tokens": 952,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 354
+ },
+ "latency_ms": 3124,
+ "units": [
+  {
+   "id": "title",
+   "text": "Ruling on drying after wudu’ and after ghusl from janabah"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "Is it permissible to wipe off the wudu’ water, or is it better to leave it? And if the prayer is established while a person is praying a voluntary prayer, what should he do?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "The matter is broad. Whoever dries, there is no harm, and whoever leaves it, there is no harm. Nothing authentic has come in this regard, as far as we know, neither about drying nor about disliking drying. The matter is flexible."
+  },
+  {
+   "id": "a2",
+   "text": "As for the ghusl from janabah, it has been narrated from the Prophet ﷺ that a towel was offered to him, but he returned it and began shaking the water off with his hand—in the ghusl from janabah—peace and blessings be upon him. This is better: to shake the water off with his hand. As for wudu’, nothing has been established in that regard as far as we know. So whoever dries, there is no harm, and whoever leaves it, there is no harm. The matter is flexible."
+  }
+ ]
+}

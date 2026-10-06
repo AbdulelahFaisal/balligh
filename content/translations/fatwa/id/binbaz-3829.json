@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3829",
+ "source_content_sha256": "sha256:4dc641497f5e5270d83bef2e3b2a9ced79e4e5215d6b308fe38e4bb5b85c174d",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:18:44.385212+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1067,
+  "completion_tokens": 884,
+  "total_tokens": 1951,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 811
+ },
+ "latency_ms": 8043,
+ "units": [
+  {
+   "id": "title",
+   "text": "Bagaimana cara tayamum bagi orang sakit"
+  },
+  {
+   "id": "q0",
+   "text": "Tanya: Saudara A. S. A. - dari Madinah Al-Munawwarah berkata dalam pertanyaannya: Saya sakit dan tidak mampu berwudhu sendiri, dan tidak ada orang yang membantuku, apakah saya boleh bertayamum? Perlu diketahui bahwa rumah sakit membersihkan dinding, lantai, dan kasur setiap hari, lalu bagaimana cara saya bertayamum dalam keadaan seperti yang saya sebutkan?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawab: Jika orang sakit tidak memiliki orang yang mewudhukannya, dan dia tidak mampu berwudhu sendiri, maka dia bertayamum; berdasarkan firman Allah Subhanahu: ⟦Q1⟧ ayat [Al-Ma'idah: 6].\nDan orang yang tidak mampu menggunakan air dan tidak mampu bertayamum dimaafkan, dan dia wajib: shalat pada waktunya tanpa wudhu dan tanpa tayamum; berdasarkan firman Allah Subhanahu: ⟦Q2⟧ [At-Taghabun: 16] dan sabda Nabi ﷺ: Apa yang aku larang untuk kalian maka jauhilah, dan apa yang aku perintahkan kepada kalian maka lakukanlah semampu kalian.\nSebagian sahabat radhiyallahu 'anhum pernah shalat dalam sebagian perjalanan Nabi ﷺ tanpa wudhu dan tanpa tayamum, dan Nabi 'alaihishshalatu wassalam tidak mengingkari perbuatan mereka itu, yaitu dalam perjalanan ketika kalung Aisyah radhiyallahu 'anha hilang, dan sebagian sahabat radhiyallahu 'anhum pergi mencarinya atas perintah Nabi ﷺ namun mereka tidak menemukannya, lalu waktu shalat tiba, maka mereka shalat tanpa wudhu dan tanpa tayamum, dan saat itu tayamum belum disyariatkan, dan mereka tidak memiliki air, kemudian tayamum disyariatkan karena peristiwa ini.\nInilah yang wajib, karena orang sakit jika tidak mampu menggunakan air, dan tidak ada orang yang mewudhukannya, maka dia wajib bertayamum jika menemukan tanah yang bersih di bumi atau di bejana atau wadah untuk bertayamum darinya, dan itu cukup menggantikan wudhu.\nTidak boleh meremehkan masalah ini, bahkan wajib bagi seluruh rumah sakit untuk memperhatikan hal tersebut, dan wajib bagi orang sakit sebelum berwudhu atau bertayamum untuk beristinja dari kotoran dan air kencing dengan air atau istijmar (bersuci dengan batu), dan air tidak harus digunakan, bahkan cukup baginya beristinja dengan tisu yang suci atau semisalnya, seperti batu, tanah, batu bata, dan semacamnya; sampai hilang najisnya, dan yang wajib adalah tidak kurang dari tiga usapan, jika belum bersih dengan itu maka wajib menambah sampai bersih; berdasarkan sabda Nabi ﷺ: Barangsiapa beristijmar maka hendaklah dia mengganjilkan, dan karena telah sahih dari beliau ﷺ bahwa beliau melarang beristinja dengan kurang dari tiga batu, dan melarang beristinja dengan tulang dan kotoran hewan, beliau bersabda: Sesungguhnya keduanya tidak menyucikan. Dan Allah-lah pemberi taufik⟦N3⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Diterbitkan di Majalah Arab edisi (192) bulan Muharram tahun 1414 H, (Majmu' Fatawa wa Maqalat Syaikh Ibnu Baz 10/194)."
+  }
+ ]
+}

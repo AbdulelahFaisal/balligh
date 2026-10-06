@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3446",
+ "source_content_sha256": "sha256:6cf793844705de0d8d3f40834c85f06d79fb8c569cc4e942ed73ea655ae7e6c2",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:15:50.642030+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 526,
+  "completion_tokens": 271,
+  "total_tokens": 797,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 270
+ },
+ "latency_ms": 3439,
+ "units": [
+  {
+   "id": "title",
+   "text": "Cinta dan benci itu terhadap perbuatan seseorang, bukan terhadap dirinya"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Apakah cinta dan benci itu ditujukan kepada diri seseorang atau kepada perbuatannya?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Cinta dan benci itu terhadap perbuatannya. Jika dia seorang mukmin, maka dia dicintai karena keimanannya, dan jika dia kafir, maka dia dibenci karena kekafirannya, bukan karena nasabnya, bukan karena dia berkulit putih atau hitam, tidak. Dia dicintai karena iman dan takwanya, sekalipun dia orang yang paling buruk rupanya, dan dibenci karena kekafiran dan kesesatannya, sekalipun dia orang yang paling bagus rupanya, dan sekalipun dia orang yang paling banyak hartanya."
+  }
+ ]
+}

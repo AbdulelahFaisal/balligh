@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2348",
+ "source_content_sha256": "sha256:c90bd2037259d48dce104f0eedd4d04efdd1418980f82a3112746e0c971fa55b",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:10:51.402593+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 841,
+  "completion_tokens": 455,
+  "total_tokens": 1296,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 585
+ },
+ "latency_ms": 5195,
+ "units": [
+  {
+   "id": "title",
+   "text": "否认真主存在的人是否意味着否认了主性（rububiyyah）？"
+  },
+  {
+   "id": "q0",
+   "text": "问：我们这个时代的共产主义者和无神论者否认真主的存在，这难道不被视为否认主性独一（tawhid al-rububiyyah）吗？而一些学者曾说，没有任何不信道者否认主性独一。"
+  },
+  {
+   "id": "a0",
+   "text": "答：学者们提到，主性独一是各民族所公认的，只有少数不值一提的离群者才否认它。其中有祆教徒，他们说有两个神：光明与黑暗，光明比黑暗更伟大，光明创造善，黑暗创造恶。至于完全否认神的存在，则出自法老的顽固，同样，古代的哲学家和无神论者众所周知地认为天体是神，并有其已知的运动。但大多数多神教徒和普通人承认主的存在，承认有一位创造并供养的主，他在高天之上，他们通过所行的一切以物配主的行为来接近他。\n古莱什的不信道者否认复活，但他们承认真主是他们的主和创造者，然而他们在崇拜中以物配主并否认复活，他们说：“只有我们今世的生活，我们死，我们生。”他们否认天堂和火狱，于是真主派遣穆罕默德ﷺ到他们以及精灵和人类中，引导他们走向真理，否定他们所处的谬误。凡真主意欲其幸福者便追随他，而大多数人则不信他，如同对待其他使者（愿主赐福他们）一样。正如真主所言：⟦Q1⟧ [优素福：103] 真主又说：⟦Q2⟧ [赛伯邑：20] 关于此意义的经文很多⟦N3⟧。"
+  },
+  {
+   "id": "n0.0",
+   "text": "《伊本·巴兹教法判例与文集》（9/74）。"
+  }
+ ]
+}

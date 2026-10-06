@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3650",
+ "source_content_sha256": "sha256:a8b10da16fbe6543e86930bc72fa558f140ce2f9b71295b39eaf494ccd05c8c4",
+ "locale": "bn",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:17:10.718487+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 500,
+  "completion_tokens": 277,
+  "total_tokens": 777,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 244
+ },
+ "latency_ms": 3573,
+ "units": [
+  {
+   "id": "title",
+   "text": "ঘন দাড়িওয়ালার জন্য কি চুলের গোড়ায় পানি পৌঁছানো শর্ত?"
+  },
+  {
+   "id": "q0",
+   "text": "প্রশ্ন: ঘন দাড়িওয়ালার জন্য কি চুলের গোড়ায় পানি পৌঁছানো শর্ত?"
+  },
+  {
+   "id": "a0",
+   "text": "উত্তর: তার জন্য দাড়ির উপর দিয়ে পানি চালিয়ে দেওয়াই যথেষ্ট। সহিহ হাদিসসমূহ এটাই প্রমাণ করে। আর যদি সে দাড়ির ভেতরে আঙুল চালিয়ে পানি পৌঁছায়, তবে তা উত্তম। নবী ﷺ কখনো এমন করেছেন, কখনো করেছেন তেমন⟦N1⟧।"
+  },
+  {
+   "id": "n0.0",
+   "text": "نূরুন আলাদ-দারব প্রোগ্রাম থেকে, (মাজমু' ফতোয়া ওয়া মাকালাত আশ-শাইখ ইবনে বায ১০/৯৯)।"
+  }
+ ]
+}

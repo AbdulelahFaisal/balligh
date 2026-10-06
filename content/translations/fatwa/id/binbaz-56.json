@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-56",
+ "source_content_sha256": "sha256:0f10ec2e8f29b1cd1f498129ecf16fb1166d1ab101a6682fd15eb3882fe9c49d",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:20:33.724090+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 814,
+  "completion_tokens": 627,
+  "total_tokens": 1441,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 558
+ },
+ "latency_ms": 6478,
+ "units": [
+  {
+   "id": "title",
+   "text": "Dalil tentang Kalimat Tauhid"
+  },
+  {
+   "id": "q0",
+   "text": "T: Adapun pertanyaan penanya: 'Anda mengajak kepada tauhid, maka apa dalil Anda tentang kalimat tauhid? Dari mana kalimat itu diambil?'"
+  },
+  {
+   "id": "a0",
+   "text": "J: Jawabannya, terdapat banyak dalil dari Kitabullah 'Azza wa Jalla dan Sunnah Rasulullah ﷺ.\nTauhid artinya: mengesakan Allah, yaitu meyakini bahwa Dia Maha Esa, tidak ada sekutu bagi-Nya. Di antara ayat-ayat yang menunjukkan hal itu adalah firman-Nya Subhanahu: ⟦Q1⟧ [Adz-Dzariyat: 56], dan firman-Nya Subhanahu: ⟦Q2⟧ [Al-Anbiya': 25]. Ayat-ayat tentang makna ini sangat banyak.\nAdapun hadis-hadis, di antaranya: hadis sahih dalam Sahih Bukhari dari Ibnu Abbas radhiyallahu 'anhuma bahwa Nabi ﷺ bersabda kepada Mu'adz radhiyallahu 'anhu ketika mengutusnya ke Yaman: \"Serulah mereka agar mengesakan Allah\" dengan lafal ini, diriwayatkan oleh Bukhari dalam kitab sahihnya. Dalam Sahih Muslim dari Thariq bin Asyim Al-Asyja'i radhiyallahu 'anhu, dari Nabi ﷺ bahwa beliau bersabda: \"Barangsiapa mengesakan Allah dan mengingkari apa yang disembah selain Allah, maka haram hartanya dan darahnya, sedangkan hisabnya terserah kepada Allah.\" Beliau menegaskan dengan ucapannya: \"mengesakan Allah\", ini menunjukkan bahwa itulah makna Laa ilaaha illallah.\nDi antaranya juga hadis sahih dalam Sahih Muslim dari Ibnu Umar radhiyallahu 'anhuma bahwa Nabi ﷺ bersabda: \"Islam dibangun di atas lima perkara, yaitu agar mengesakan Allah...\" dan seterusnya. Hadis ini merupakan penafsiran sabda beliau ﷺ dalam riwayat lain: \"Islam dibangun di atas lima perkara: syahadat bahwa tidak ada ilah (yang berhak disembah) selain Allah, dan bahwa Muhammad adalah utusan Allah...\" dan seterusnya. Hadis-hadis tentang makna ini banyak. Allah-lah pemberi taufik⟦N3⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "(Majmu' Fatawa wa Maqalat Asy-Syaikh Ibnu Baz 3/140)"
+  }
+ ]
+}

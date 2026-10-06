@@ -3,38 +3,38 @@
  "record_id": "binbaz-1157",
  "source_content_sha256": "sha256:d0250bac18f4e28c6e2f7cf370e7703c68498393594c4783c3804fcf340a1851",
  "locale": "id",
- "prompt_version": "fatwa-translate-1",
+ "prompt_version": "fatwa-translate-2",
  "review_status": "ai_generated_not_item_reviewed",
- "generated_at": "2026-10-06T19:31:25.075798+00:00",
+ "generated_at": "2026-10-06T20:50:42.865191+00:00",
  "provider": "deepseek",
  "model": "deepseek-v4-pro",
  "usage": {
-  "prompt_tokens": 1286,
-  "completion_tokens": 1292,
-  "total_tokens": 2578,
+  "prompt_tokens": 1385,
+  "completion_tokens": 1301,
+  "total_tokens": 2686,
   "prompt_tokens_details": {
-   "cached_tokens": 0
+   "cached_tokens": 256
   },
-  "prompt_cache_hit_tokens": 0,
-  "prompt_cache_miss_tokens": 1286
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 1129
  },
- "latency_ms": 14729,
+ "latency_ms": 12409,
  "units": [
   {
    "id": "title",
-   "text": "Dosa-Dosa Besar Mempengaruhi Keislaman Seorang Hamba"
+   "text": "Dosa-dosa besar mempengaruhi keislaman seorang hamba"
   },
   {
    "id": "q0",
-   "text": "T: Apa hukum melakukan sebagian kemaksiatan, terutama dosa-dosa besar? Apakah itu mempengaruhi teguhnya seorang hamba dalam Islam?"
+   "text": "T: Apa hukum melakukan sebagian maksiat, khususnya dosa-dosa besar? Apakah itu mempengaruhi keteguhan hamba dalam Islam?"
   },
   {
    "id": "a0",
-   "text": "J: Ya, itu mempengaruhi. Sesungguhnya melakukan dosa-dosa besar seperti zina, minum khamar, membunuh jiwa tanpa hak, memakan riba, ghibah, namimah, dan kemaksiatan lainnya, mempengaruhi tauhid kepada Allah dan keimanan kepada-Nya serta melemahkannya. Akan tetapi, seorang muslim tidak menjadi kafir karena sesuatu dari dosa-dosa itu selama ia tidak menghalalkannya. Berbeda dengan Khawarij, mereka mengafirkan seorang muslim karena melakukan kemaksiatan seperti zina, mencuri, durhaka kepada kedua orang tua, dan dosa-dosa besar lainnya meskipun ia tidak menghalalkannya. Ini adalah kekeliruan besar dari Khawarij. Adapun Ahlus Sunnah wal Jamaah, mereka tidak mengafirkannya karena hal itu dan tidak mengekalkannya di neraka. Akan tetapi, mereka mengatakan bahwa ia kurang iman dan tauhidnya, tetapi tidak kafir dengan kekafiran yang besar, bahkan dalam imannya terdapat kekurangan dan kelemahan.\nOleh karena itu, Allah mensyariatkan hukuman bagi pezina dengan cambuk jika ia masih perjaka: dicambuk seratus kali dan diasingkan selama satu tahun. Demikian pula peminum khamar dicambuk dan tidak dibunuh. Demikian pula pencuri dipotong tangannya dan tidak dibunuh. Seandainya zina, minum khamar, dan mencuri menyebabkan kekafiran besar, tentulah mereka dibunuh, berdasarkan sabda Nabi ﷺ: \"Barangsiapa mengganti agamanya, maka bunuhlah dia.\" Diriwayatkan oleh Imam Bukhari rahimahullah dalam Shahih-nya. Hal itu menunjukkan bahwa kemaksiatan-kemaksiatan ini bukanlah kemurtadan, tetapi melemahkan iman dan menguranginya. Karena itu, Allah mensyariatkan hukuman-hukuman ini untuk mendidik mereka agar bertobat dan kembali kepada Rabb mereka serta jera dari apa yang diharamkan Allah atas mereka.\nMu'tazilah berkata: \"Orang yang bermaksiat berada pada kedudukan di antara dua kedudukan, tetapi ia kekal di neraka jika mati di atas kemaksiatan itu.\" Mereka menyelisihi Ahlus Sunnah dan sependapat dengan Khawarij dalam hal itu. Kedua golongan itu telah sesat dari jalan yang benar.\nYang benar adalah pendapat pertama, yaitu pendapat Ahlus Sunnah wal Jamaah, yaitu bahwa ia menjadi pelaku maksiat yang lemah imannya, berada dalam bahaya besar dari kemurkaan Allah dan siksa-Nya, tetapi ia bukan kafir dengan kekafiran besar yang merupakan kemurtadan dari Islam, dan tidak kekal di neraka sebagaimana kekalnya orang-orang kafir jika ia mati di atas salah satu dosa itu. Akan tetapi, ia berada di bawah kehendak Allah; jika Allah menghendaki, Dia mengampuninya, dan jika menghendaki, Dia menyiksanya sesuai dengan dosa-dosa yang ia mati di atasnya, kemudian Allah mengeluarkannya dari neraka, dan tidak ada yang kekal di neraka selama-lamanya kecuali orang-orang kafir. Kemudian setelah berlalu hukuman yang Allah tetapkan atasnya, Allah mengeluarkannya dari neraka ke surga. Ini adalah pendapat Ahlul Haq, dan inilah yang telah mutawatir riwayat-riwayatnya dari Rasulullah ﷺ, berbeda dengan Khawarij dan Mu'tazilah. Allah berfirman: ⟦Q1⟧ [An-Nisa: 48] Allah menggantungkan dosa selain syirik pada kehendak-Nya.\nAdapun orang yang mati di atas syirik besar, maka ia kekal di neraka, dan surga haram baginya, berdasarkan firman Allah: ⟦Q2⟧ [Al-Ma'idah: 72] dan firman-Nya: ⟦Q3⟧ [At-Taubah: 17] dan ayat-ayat tentang makna ini banyak.\nAdapun pelaku maksiat, jika ia masuk neraka, ia tinggal di sana sampai waktu yang Allah kehendaki, dan tidak kekal seperti kekalnya orang-orang kafir, tetapi bisa jadi masanya panjang, dan ini adalah kekekalan khusus yang sementara, tidak seperti kekekalan orang-orang kafir, sebagaimana firman Allah dalam ayat Al-Furqan ketika menyebutkan orang musyrik, pembunuh, dan pezina: ⟦Q4⟧ [Al-Furqan: 68-69] maka itu adalah kekekalan sementara yang ada akhirnya.\nAdapun orang musyrik, kekekalannya abadi selama-lamanya. Oleh karena itu Allah berfirman tentang orang-orang musyrik dalam surat Al-Baqarah: ⟦Q5⟧ [Al-Baqarah: 167] dan berfirman dalam surat Al-Ma'idah tentang orang-orang kafir: ⟦Q6⟧ [Al-Ma'idah: 37]⟦N7⟧."
+   "text": "J: Ya, itu berpengaruh. Sesungguhnya melakukan dosa-dosa besar seperti zina, minum khamar, membunuh jiwa tanpa hak, makan riba, ghibah (menggunjing), namimah (mengadu domba), dan maksiat-maksiat lainnya, mempengaruhi tauhid kepada Allah dan iman kepada-Nya serta melemahkannya. Akan tetapi, seorang muslim tidak menjadi kafir karena sesuatu dari dosa-dosa itu selama ia tidak menghalalkannya. Berbeda dengan kaum Khawarij, mereka mengafirkan seorang muslim karena melakukan maksiat seperti zina, mencuri, durhaka kepada kedua orang tua, dan dosa-dosa besar lainnya, walaupun ia tidak menghalalkannya. Ini adalah kesalahan besar dari kaum Khawarij. Ahlus Sunnah wal Jamaah tidak mengafirkannya karena hal itu dan tidak mengekalkannya di dalam neraka, tetapi mereka berkata: iman dan tauhidnya berkurang, tetapi ia tidak kafir dengan kekafiran besar, melainkan dalam imannya ada kekurangan dan kelemahan.\nOleh karena itu, Allah mensyariatkan hukuman had bagi pezina dengan cambuk jika ia masih perjaka—dicambuk seratus kali dan diasingkan selama setahun. Demikian pula peminum khamar dicambuk dan tidak dibunuh. Demikian pula pencuri dipotong tangannya dan tidak dibunuh. Seandainya zina, minum khamar, dan mencuri menyebabkan kekafiran besar, tentulah mereka dibunuh, berdasarkan sabda Nabi ﷺ: “Barangsiapa mengganti agamanya, maka bunuhlah dia.” Diriwayatkan oleh Imam Bukhari rahimahullah dalam Shahihnya. Hal itu menunjukkan bahwa maksiat-maksiat ini bukanlah riddah (keluar dari Islam), tetapi melemahkan iman dan menguranginya. Karena itulah Allah mensyariatkan hukuman-hukuman ini untuk mendidik mereka agar mereka bertaubat, kembali kepada Rabb mereka, dan berhenti dari apa yang diharamkan oleh Rabb mereka Subhanahu.\nKaum Mu’tazilah berkata: “Pelaku maksiat berada pada posisi di antara dua posisi, tetapi ia kekal di neraka jika mati di atasnya.” Mereka menyelisihi Ahlus Sunnah dan sependapat dengan Khawarij dalam hal itu. Kedua golongan ini telah sesat dari jalan.\nYang benar adalah pendapat pertama, yaitu pendapat Ahlus Sunnah wal Jamaah, yaitu bahwa ia adalah pelaku maksiat yang lemah imannya, berada dalam bahaya besar dari kemurkaan Allah dan siksa-Nya, tetapi ia bukan kafir dengan kekafiran besar yang merupakan riddah dari Islam, dan tidak kekal di neraka seperti kekalnya orang-orang kafir jika ia mati di atas salah satu dosa tersebut. Akan tetapi, ia berada di bawah kehendak Allah; jika Allah menghendaki, Dia mengampuninya, dan jika menghendaki, Dia menyiksanya sesuai kadar maksiat yang ia mati di atasnya, kemudian Dia mengeluarkannya dari neraka, dan tidak kekal di dalamnya selama-lamanya kecuali orang-orang kafir. Setelah berlalu apa yang Allah tetapkan atasnya dari azab, Allah mengeluarkannya dari neraka ke surga. Ini adalah pendapat Ahlul Haq, dan inilah yang ditegaskan oleh banyak riwayat dari Rasulullah ﷺ, berbeda dengan Khawarij dan Mu’tazilah. Allah berfirman: ⟦Q1⟧ [An-Nisa:48], maka Allah Subhanahu menggantungkan apa yang di bawah syirik kepada kehendak-Nya ‘Azza wa Jalla.\nAdapun orang yang mati di atas syirik besar, maka ia kekal di neraka, dan surga haram baginya, berdasarkan firman Allah Subhanahu: ⟦Q2⟧ [Al-Maidah:72], dan Dia berfirman: ⟦Q3⟧ [At-Taubah:17]. Ayat-ayat tentang makna ini banyak.\nAdapun pelaku maksiat jika masuk neraka, ia tetap di dalamnya sampai apa yang Allah kehendaki, dan tidak kekal seperti kekalnya orang-orang kafir, tetapi bisa panjang waktunya. Ini adalah kekekalan khusus yang terbatas, tidak seperti kekekalan orang-orang kafir, sebagaimana firman Allah dalam ayat Al-Furqan ketika menyebutkan orang musyrik, pembunuh, dan pezina: ⟦Q4⟧ [Al-Furqan:68-69]. Jadi itu adalah kekekalan yang terbatas yang memiliki akhir.\nAdapun orang musyrik, kekekalannya abadi selama-lamanya. Karena itu Allah ‘Azza wa Jalla berfirman tentang orang-orang musyrik dalam surat Al-Baqarah: ⟦Q5⟧ [Al-Baqarah:167], dan Dia berfirman dalam surat Al-Maidah tentang orang-orang kafir: ⟦Q6⟧ [Al-Maidah:37]⟦N7⟧."
   },
   {
    "id": "n0.0",
-   "text": "(Majmu' Fatawa wa Maqalat Syaikh Ibnu Baz 5/338)"
+   "text": "(Majmu’ Fatawa wa Maqalat Asy-Syaikh Ibnu Baz 5/338)"
   }
  ]
 }

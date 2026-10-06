@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1533",
+ "source_content_sha256": "sha256:bf4150f2e48cace2a1035dc85fb707833c3b9e73cc2431d60f17ce2ae729f5d6",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:58:44.978862+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 621,
+  "completion_tokens": 297,
+  "total_tokens": 918,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 365
+ },
+ "latency_ms": 3473,
+ "units": [
+  {
+   "id": "title",
+   "text": "节日中拥抱的教法判定"
+  },
+  {
+   "id": "q0",
+   "text": "问："
+  },
+  {
+   "id": "q1",
+   "text": "我们看到人们在节日里相互拥抱，即使有些人并非远行归来，而且他们之间相隔的时间可能很短，比如礼拜的时间，然后在节日拜后他们相互拥抱。我们希望阐明真相。"
+  },
+  {
+   "id": "a0",
+   "text": "答："
+  },
+  {
+   "id": "a1",
+   "text": "关于拥抱，我们不知道有任何教法依据，它只是人们的一种习惯。合乎圣行的是：当遇到兄弟时，为他祈求（善功）被接纳（قبول），即对他说“愿安拉接受我们的善功”之类的。这是先辈们的做法。至于专门为此而拥抱，我不知道有任何依据，它只是人们的习惯。"
+  },
+  {
+   "id": "a2",
+   "text": "因此，最好的做法是握手，在见面时以握手为满足：与兄弟握手，并对他说：“愿安拉使你在这个节日快乐，愿安拉在这个节日赐福于你”或“愿安拉接受我们和你们的善功”等类似的话，这无妨。"
+  }
+ ]
+}

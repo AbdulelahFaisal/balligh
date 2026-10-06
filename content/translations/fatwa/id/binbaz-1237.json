@@ -1,0 +1,64 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1237",
+ "source_content_sha256": "sha256:b52c4e5fc9b2a6037c406fc7589cadf3f6d4faf0594aaf6c143309f548738590",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:53:25.614992+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1053,
+  "completion_tokens": 890,
+  "total_tokens": 1943,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 797
+ },
+ "latency_ms": 7119,
+ "units": [
+  {
+   "id": "title",
+   "text": "Bagaimana Tauhid Terwujud dan Makna Syirik serta Kezaliman"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Perkara apa saja yang dengannya tauhid terwujud? Dan apa makna syirik dan kezaliman?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Tauhid terwujud dengan mengikhlaskan ibadah hanya kepada Allah -Jalla wa 'Ala- dan beriman bahwa Dia-lah yang berhak disembah, bahwa Dia Esa dalam rububiyah-Nya, Esa dalam uluhiyah-Nya, dan Esa dalam nama-nama dan sifat-sifat-Nya, dan bahwa Dia Subhanahu tidak ada yang serupa dengan-Nya dan tidak ada sekutu bagi-Nya, baik dalam perbuatan-perbuatan-Nya, perkataan-perkataan-Nya, maupun sifat-sifat-Nya, dan bahwa hanya Dia yang berhak disembah semata, tidak ada yang berhak disembah selain Dia Subhanahu wa Ta'ala, disertai keimanan kepada segala yang dikabarkan Allah dan Rasul-Nya, menghalalkan apa yang dihalalkan Allah dan Rasul-Nya, dan mengharamkan apa yang diharamkan Allah dan Rasul-Nya; inilah tauhid, inilah iman dan petunjuk yang dengannya seorang hamba menjadi muslim."
+  },
+  {
+   "id": "a2",
+   "text": "Syaikh: Ulangi pertanyaannya."
+  },
+  {
+   "id": "a3",
+   "text": "Pertanyaan: Perkara apa saja yang dengannya tauhid terwujud, dan apa makna syirik dan kezaliman?"
+  },
+  {
+   "id": "a4",
+   "text": "Jawaban: Adapun makna syirik dan kezaliman, maka syirik maknanya: menjadikan sekutu bagi Allah dalam ibadah, berdoa kepada selain Allah, baik wali, nabi, pohon, atau berhala; berdoa kepadanya bersama Allah, meminta pertolongan kepadanya bersama Allah, bernazar untuknya, dan selain itu, maka itulah sekutu."
+  },
+  {
+   "id": "a5",
+   "text": "Juga dimutlakkan pada syirik kecil, seperti orang yang beribadah kepada Allah karena dirham dan dinar, celakalah hamba dinar, celakalah hamba dirham, demikian pula riya' termasuk jenis syirik kecil, dan juga dimutlakkan pada setiap orang yang kafir, dikatakan kepadanya: musyrik, setiap orang yang kafir kepada Allah dengan mengingkari apa yang dihalalkan Allah, atau mengingkari apa yang diharamkan Allah, atau mencela Allah dan Rasul-Nya disebut kafir."
+  },
+  {
+   "id": "a6",
+   "text": "Dan disebut musyrik; karena dengan perbuatannya itu dia menaati hawa nafsunya, dan menyekutukan hawa nafsunya dalam ibadah bersama Allah, dan menaati perintah hawa nafsu dan setan, dan menjadi kafir karena mengingkari apa yang diwajibkan Allah, seperti mengingkari kewajiban salat, atau mengingkari kewajiban puasa Ramadan padahal mampu, atau mengingkari apa yang dihalalkan Allah berupa unta, kambing, sapi, atau biji-bijian yang halal seperti gandum, jelai, dan semacamnya, atau mencela Allah, atau mencela Rasulullah, atau mengolok-olok agama Allah, atau semacamnya, ini adalah jenis-jenis kekafiran dan kesyirikan."
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2994",
+ "source_content_sha256": "sha256:2e4d616e1cdeab810024e54ce6b9d55088cee6900f235d84d756ab24db03820d",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:14:40.007123+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 691,
+  "completion_tokens": 501,
+  "total_tokens": 1192,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 435
+ },
+ "latency_ms": 4649,
+ "units": [
+  {
+   "id": "title",
+   "text": "À propos du terme « allégeance à la patrie »"
+  },
+  {
+   "id": "q0",
+   "text": "Q : Certains exagèrent en disant que le terme « allégeance à la patrie » fait partie du polythéisme dans un pays islamique dont les habitants vouent leur allégeance à Allah. Qu'en pense Votre Éminence ?"
+  },
+  {
+   "id": "a0",
+   "text": "R : L'obligation est l'allégeance à Allah et à Son Messager, dans le sens où le serviteur doit s'allier et s'inimicier pour Allah. Or, il se peut que sa patrie ne soit pas islamique ; comment pourrait-il alors lui vouer allégeance ? Mais si sa patrie est islamique, il doit lui vouloir le bien et s'y efforcer, mais l'allégeance revient à Allah. En effet, quiconque parmi les musulmans obéit à Allah est son allié, et quiconque contredit la religion d'Allah est son ennemi, même s'il est de sa patrie, même s'il est son frère, son oncle paternel, son père ou autre. L'alliance et le désaveu se font donc pour Allah.\n Quant à la patrie, on l'aime si elle est islamique, et l'homme doit encourager le bien dans sa patrie et sa préservation en tant que pays islamique, et s'efforcer à la stabilité de sa situation et de ses habitants. C'est là le devoir de tous les musulmans. Nous demandons à Allah pour nous, pour vous et pour tous les musulmans la réussite, la guidance, la rectitude de l'intention et de l'œuvre. Que la prière et le salut d'Allah soient sur notre Prophète Muhammad, ainsi que sur sa famille et ses Compagnons⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmû' fatâwâ wa maqâlât al-Shaykh Ibn Bâz (9/317)."
+  }
+ ]
+}

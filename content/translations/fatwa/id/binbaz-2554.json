@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2554",
+ "source_content_sha256": "sha256:0e5498a59849fb43a660b0507fc1386fd246674dc8f3a48ff12707a6bf9aa055",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:12:16.217616+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1199,
+  "completion_tokens": 969,
+  "total_tokens": 2168,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 943
+ },
+ "latency_ms": 8569,
+ "units": [
+  {
+   "id": "title",
+   "text": "Alasan Menggabungkan Dua Kalimat Syahadat dalam Satu Rukun"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Mengapa dua kalimat syahadat digabungkan dalam satu rukun Islam, padahal yang dimaksud adalah dua hal, yaitu uluhiyah (ketuhanan) bagi Allah dan risalah (kerasulan) bagi Muhammad?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Harus ada ini dan itu, harus ada dua kalimat syahadat. Namun kedudukan syahadat tauhid kepada Allah lebih agung, lebih penting, dan lebih besar, karena banyak orang tidak merasa berat untuk mengucapkan: Muhammad Rasulullah, dan mengakui risalahnya, tetapi mereka tidak mengamalkan makna Laa ilaaha illallah. Oleh karena itu, para saudara diingatkan tentang kalimat ini dengan bersaksi padanya, dan akan ada pengingat lebih lanjut tentang syahadat bahwa Muhammad adalah Rasulullah dalam pertemuan-pertemuan lainnya."
+  },
+  {
+   "id": "a2",
+   "text": "Namun kalimat ini berlaku bersama semua rasul, bukan hanya bersama Muhammad saja, tetapi juga bersama Nuh, Adam, Hud, Shalih, Ibrahim, Luth, dan para nabi setelah mereka: Musa, Harun, Isa, Daud, Sulaiman, dan rasul serta nabi lainnya. Maka merealisasikan hal ini adalah sesuatu yang harus dilakukan sejak masa Adam hingga hari ini. Harus merealisasikan Laa ilaaha illallah, harus mengetahui maknanya, menunaikan haknya, dan mengikhlaskan ibadah hanya kepada Allah semata di setiap zaman, sejak masa Adam hingga hari ini."
+  },
+  {
+   "id": "a3",
+   "text": "Dan atas umat Muhammad ﷺ dengan demikian harus beriman kepada Muhammad ﷺ beserta para rasul lainnya, sebagaimana orang-orang yang hidup di masa Adam, karena bapak kita Adam adalah seorang nabi -'alaihishshalatu wassalam- yang diutus kepada mereka, sebagai rasul bagi mereka, dan mereka mengambil syariatnya. Demikian pula orang-orang yang hidup di masa Nuh harus beriman kepada Nuh bersama tauhid kepada Allah, dan orang-orang yang hidup di masa Hud harus mentauhidkan Allah, membenarkan Hud, dan mengikuti syariatnya. Begitu pula orang-orang yang hidup di masa Shalih harus mentauhidkan Allah, beriman dengan kalimat ini, membenarkan apa yang dibawa Shalih, dan mengikuti syariatnya. Demikian pula orang-orang yang hidup di masa Ibrahim, masa Luth, masa Musa, Harun, dan lainnya, setiap umat harus beriman kepada rasulnya bersama tauhid kepada Allah, dan bersama keikhlasan kepada Allah."
+  },
+  {
+   "id": "a4",
+   "text": "Dan atas umat terakhir, umat Muhammad -alaihishshalatu wassalam-, harus mentauhidkan Allah, dan harus membenarkan rasulnya Muhammad ﷺ dan tunduk kepada syariatnya. Harus ada ini dan itu, harus ada dua kalimat syahadat, salah satunya tidak cukup tanpa yang lain. Seandainya seseorang mentauhidkan Allah, beribadah hanya kepada-Nya, meninggalkan maksiat, tetapi tidak beriman bahwa Muhammad adalah Rasulullah, maka dia kafir, halal darah dan hartanya menurut seluruh ulama. Seandainya dia membenarkan Rasul ﷺ dan beriman kepadanya, dan berkata: 'Sesungguhnya beliau adalah Rasulullah', tetapi dia tidak mengamalkan makna Laa ilaaha illallah, tidak beribadah kepada Allah, bahkan beribadah kepada selain-Nya bersama-Nya, atau mencaci Allah, atau melakukan hal yang membatalkan keislamannya, maka tidak bermanfaat baginya syahadat bahwa Muhammad adalah Rasulullah. Maka harus ada dua kalimat syahadat, dan harus merealisasikan keduanya serta mengamalkan konsekuensinya, kemudian setelah itu mengamalkan shalat, zakat, dan lainnya."
+  }
+ ]
+}

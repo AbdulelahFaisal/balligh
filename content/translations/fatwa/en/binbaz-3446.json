@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3446",
+ "source_content_sha256": "sha256:6cf793844705de0d8d3f40834c85f06d79fb8c569cc4e942ed73ea655ae7e6c2",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:15:44.294273+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 526,
+  "completion_tokens": 230,
+  "total_tokens": 756,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 270
+ },
+ "latency_ms": 2105,
+ "units": [
+  {
+   "id": "title",
+   "text": "Love and hatred are for a person's deeds, not for his person"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "Is love and hatred for the person himself, or for his deeds?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "Love and hatred are for his deeds. If he is a believer, you love him for his faith, and if he is a disbeliever, you hate him for his disbelief, not because of his lineage, nor because he is white or black. No. He is loved for his faith and piety, even if he is the ugliest of people in appearance, and he is hated for his disbelief and misguidance, even if he is the most handsome of people in appearance and the wealthiest."
+  }
+ ]
+}

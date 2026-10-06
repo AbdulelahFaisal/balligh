@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-15",
+ "source_content_sha256": "sha256:fc40f899142dd65cfedb09ffba7510b06d24deab4375fbc429b7a86a8f42a40f",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:58:12.015304+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 741,
+  "completion_tokens": 647,
+  "total_tokens": 1388,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 485
+ },
+ "latency_ms": 5614,
+ "units": [
+  {
+   "id": "title",
+   "text": "La négligence dans l'accomplissement de certains devoirs"
+  },
+  {
+   "id": "q0",
+   "text": "Q : Quel est le jugement relatif à celui qui proclame l'unicité d'Allah le Très-Haut mais qui fait preuve de négligence dans l'accomplissement de certains devoirs ?"
+  },
+  {
+   "id": "a0",
+   "text": "R : Son iman (foi) est incomplet. De même, celui qui commet certains péchés voit son iman diminuer selon les gens de la Sunna et du consensus (Ahl as-Sunna wa al-Jama'a), car ils disent que l'iman est parole, acte et croyance, il augmente avec l'obéissance et diminue avec la désobéissance. Parmi les exemples de cela : le fait de délaisser le jeûne du Ramadan sans excuse ou une partie de celui-ci, c'est une grande désobéissance qui diminue et affaiblit l'iman. Certains savants le considèrent comme mécréant pour cela.\nMais l'avis correct est qu'il ne devient pas mécréant pour cela tant qu'il reconnaît son obligation, mais qu'il a rompu le jeûne certains jours par négligence et paresse.\nDe même, s'il retarde la zakah (aumône obligatoire) au-delà de son temps par négligence ou délaisse son versement, c'est une désobéissance et une faiblesse dans l'iman. Certains savants le considèrent comme mécréant pour son abandon.\nDe même, s'il rompt les liens de parenté ou désobéit à ses parents, cela constitue une diminution et une faiblesse dans l'iman, et il en va de même pour les autres péchés.\nQuant au délaissement de la prière, il contredit l'iman et entraîne l'apostasie, même s'il n'en renie pas l'obligation, selon l'avis le plus correct des savants, d'après la parole du Prophète (paix et salut d'Allah sur lui) : « La tête de l'affaire est l'islam, son pilier est la prière et son sommet est le jihad dans le sentier d'Allah. » Et sa parole (paix et salut d'Allah sur lui) : « Le pacte qu'il y a entre nous et eux est la prière ; celui qui la délaisse a mécru. » Et d'autres hadiths qui indiquent cela.⟦N1⟧"
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu' Fatawa Ibn Baz (1/55)."
+  }
+ ]
+}

@@ -3,22 +3,22 @@
  "record_id": "binbaz-11423",
  "source_content_sha256": "sha256:9eab42b034464482796fb37e0978f5e88a00436e16cead27ab89b2744e2a4705",
  "locale": "id",
- "prompt_version": "fatwa-translate-1",
+ "prompt_version": "fatwa-translate-2",
  "review_status": "ai_generated_not_item_reviewed",
- "generated_at": "2026-10-06T19:21:05.744280+00:00",
+ "generated_at": "2026-10-06T20:49:20.924428+00:00",
  "provider": "deepseek",
  "model": "deepseek-v4-pro",
  "usage": {
-  "prompt_tokens": 697,
-  "completion_tokens": 590,
-  "total_tokens": 1287,
+  "prompt_tokens": 796,
+  "completion_tokens": 593,
+  "total_tokens": 1389,
   "prompt_tokens_details": {
    "cached_tokens": 0
   },
   "prompt_cache_hit_tokens": 0,
-  "prompt_cache_miss_tokens": 697
+  "prompt_cache_miss_tokens": 796
  },
- "latency_ms": 5737,
+ "latency_ms": 4946,
  "units": [
   {
    "id": "title",
@@ -30,7 +30,7 @@
   },
   {
    "id": "q1",
-   "text": "Penanya perempuan yang menyimbolkan namanya dengan (M) berkata: Saya mohon penjelasan makna Islam?"
+   "text": "Penanya wanita yang diberi kode nama dengan (M) berkata: Saya mohon penjelasan tentang makna Islam?"
   },
   {
    "id": "a0",
@@ -38,19 +38,19 @@
   },
   {
    "id": "a1",
-   "text": "Islam artinya: berserah diri kepada Allah dengan tauhid (mengesakan-Nya), dan tunduk kepada-Nya dengan ketaatan secara rendah hati dan patuh. Inilah makna Islam. Dikatakan: 'Aslama fulanun li fulan', yaitu dia merendahkan diri kepadanya, tunduk kepadanya, dan memberikan apa yang dimintanya. Maka Islam maknanya: merendahkan diri kepada Allah, tunduk kepada Allah dengan mentauhidkan-Nya, ikhlas kepada-Nya, menaati perintah-perintah-Nya, dan meninggalkan larangan-larangan-Nya. Inilah Islam. Allah Ta'ala berfirman: ⟦Q1⟧ [Ali 'Imran: 19], dan seorang muslim dinamakan muslim karena dia tunduk kepada Allah, merendah dan taat kepada-Nya Subhanahu dalam melaksanakan apa yang diperintahkan dan meninggalkan apa yang dilarang."
+   "text": "Islam maknanya adalah: berserah diri kepada Allah dengan mentauhidkan-Nya, tunduk kepada-Nya dengan ketaatan secara merendah dan patuh. Inilah makna Islam. Dikatakan: aslama fulanun li fulan, artinya: dia merendah dan tunduk kepadanya serta memberikan apa yang dimintanya. Maka Islam maknanya: merendah kepada Allah, tunduk kepada Allah dengan mentauhidkan-Nya, ikhlas kepada-Nya, menaati perintah-perintah-Nya, dan meninggalkan larangan-larangan-Nya. Inilah Islam. Allah Ta'ala berfirman: ⟦Q1⟧ [Ali Imran: 19]. Seorang Muslim dinamakan Muslim karena dia tunduk kepada Allah, merendah dan taat kepada-Nya Subhanahu dalam melaksanakan apa yang diperintahkan dan meninggalkan apa yang dilarang."
   },
   {
    "id": "a2",
-   "text": "Islam juga dimutlakkan pada semua yang diperintahkan Allah dan Rasul-Nya, berupa shalat, puasa, haji, iman, dan lainnya. Semuanya disebut Islam, sebagaimana firman Allah: ⟦Q2⟧ [Ali 'Imran: 19], dan firman-Nya: ⟦Q3⟧ [Al-Ma'idah: 3], dan firman-Nya: ⟦Q4⟧ [Ali 'Imran: 85]."
+   "text": "Islam juga dimutlakkan pada semua yang diperintahkan Allah dan Rasul-Nya, seperti shalat, puasa, haji, iman, dan selainnya. Semuanya disebut Islam, sebagaimana firman Allah 'Azza wa Jalla: ⟦Q2⟧ [Ali Imran: 19] dan firman-Nya Ta'ala: ⟦Q3⟧ [Al-Maidah: 3] dan firman-Nya Subhanahu: ⟦Q4⟧ [Ali Imran: 85]."
   },
   {
    "id": "a3",
-   "text": "Maka muslim adalah orang yang tunduk kepada perintah Allah dalam perkataan, perbuatan, dan keyakinan. Islam adalah ketundukan kepada perintah Allah, penyerahan diri kepada perintah Allah, dan perendahan diri kepada perintah Allah dari segala sisi. Ya."
+   "text": "Maka Muslim adalah orang yang tunduk kepada perintah Allah dalam ucapan, perbuatan, dan keyakinan. Dan Islam adalah tunduk kepada perintah Allah, berserah diri kepada perintah Allah, dan merendah kepada perintah Allah dari segala sisi. Ya."
   },
   {
    "id": "a4",
-   "text": "Pembawa acara: Semoga Allah membalas Anda dengan kebaikan, Yang Mulia Syaikh."
+   "text": "Pemandu acara: Semoga Allah membalas Anda dengan kebaikan, Yang Mulia Syaikh."
   }
  ]
 }

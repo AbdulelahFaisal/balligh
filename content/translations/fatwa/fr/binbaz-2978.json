@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2978",
+ "source_content_sha256": "sha256:a1c13385ee740002eda7d575d6a78feae85ded7d795fca6ea68b010e8c2f426b",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:14:22.333639+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1161,
+  "completion_tokens": 1133,
+  "total_tokens": 2294,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 905
+ },
+ "latency_ms": 9154,
+ "units": [
+  {
+   "id": "title",
+   "text": "Quel est le devoir envers le frère qui ne prie pas ?"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Éminent cheikh, que la paix, la miséricorde et les bénédictions d'Allah soient sur vous. Ensuite : je vous aime beaucoup en Allah, et j'espère d'Allah qu'Il fasse de nous et de vous de ceux qui s'aiment en Lui. Amine.\nEnsuite : j'ai un frère germain qui ne prie pas à la mosquée et qui n'habite pas avec moi. Il veut se marier, et ma mère m'a demandé d'aller avec lui pour demander sa main. J'ai refusé en disant : non, car il ne prie pas. Mais quand il priera et que l'imam de la mosquée de son quartier témoignera en sa faveur, alors j'irai avec lui et je demanderai sa main. Mais maintenant, ô cheikh, ma mère ne me parle plus, et tous mes frères et sœurs ne me parlent plus et m'ont coupé. Louange à Allah en tout cas."
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Quant à l'amour en Allah, nous disons : Qu'Allah t'aime, Lui pour qui tu nous as aimés. Comme il a été dit précédemment, l'amour en Allah est l'une des meilleures formes de rapprochement."
+  },
+  {
+   "id": "a2",
+   "text": "Quant à ce que tu as mentionné au sujet de ton frère : le devoir pour toi et pour tous tes frères est de le conseiller et de le contacter tous ensemble, pas toi seul ; mais qu'il y ait avec toi quelqu'un d'autre, peut-être que cela aura de l'effet sur lui et qu'il répondra à l'appel de la vérité. Car si tu es seul, il se peut qu'il ne fasse pas attention, surtout s'il est plus âgé que toi. Le but est qu'il faut continuer le conseil et qu'il y ait avec toi d'autres personnes parmi tes bons frères ou parmi tes voisins ; peut-être acceptera-t-il de vous, priera-t-il et observera-t-il assidûment la prière en commun. Ensuite, tu exécuteras le souhait de ta mère et de tes frères en l'aidant et en allant avec lui chez la famille auprès de laquelle il veut demander la main, après qu'Allah l'aura guidé vers cela et qu'il l'aura accepté de vous et qu'il priera."
+  },
+  {
+   "id": "a3",
+   "text": "Mais s'il persiste à ne pas prier, n'y va pas avec lui, mais délaisse-le jusqu'à ce qu'il se repente à Allah et revienne à la droiture et à la vérité, même si ta mère se fâche et même si tes frères se fâchent ; car celui qui ne prie pas est mécréant selon l'avis le plus correct des savants. Celui qui délaisse la prière et l'abandonne délibérément a mécru, comme l'a dit le Prophète ﷺ dans le hadith authentique : « L'engagement qu'il y a entre nous et eux est la prière ; celui qui l'abandonne a mécru. » Et il a dit, que la paix et le salut soient sur lui : « Entre l'homme et la mécréance et le polythéisme, il y a l'abandon de la prière », et dans beaucoup d'autres hadiths qui indiquent cela."
+  },
+  {
+   "id": "a4",
+   "text": "Quant au fait qu'il délaisse la prière en commun, c'est moins grave. Il se peut qu'il ait une ambiguïté, car certains savants ne considèrent pas la prière en commun comme obligatoire, donc il n'y a pas de mal. Il convient que tu le contactes avec tes frères et que tu t'efforces pour qu'il prie en commun, s'il prie mais ne prie pas en commun. Cela est plus facile. Tu dois le contacter avec tes frères et avec d'autres parmi tes voisins et ceux qui t'aident dans cela ; peut-être qu'Allah le guidera grâce à ces causes ; afin de concilier tous les intérêts : la satisfaction de ta mère et de tes frères, et la guidance d'Allah pour lui par tes mains et par celles de tes frères qui t'accompagnent dans son appel à Allah, Puissant et Majestueux. Qu'Allah accorde à tous la réussite et la guidance."
+  }
+ ]
+}

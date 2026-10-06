@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1533",
+ "source_content_sha256": "sha256:bf4150f2e48cace2a1035dc85fb707833c3b9e73cc2431d60f17ce2ae729f5d6",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:58:52.947788+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 618,
+  "completion_tokens": 412,
+  "total_tokens": 1030,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 362
+ },
+ "latency_ms": 3545,
+ "units": [
+  {
+   "id": "title",
+   "text": "Le jugement concernant les accolades lors des fêtes"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Nous voyons les gens lors des fêtes se serrer dans les bras, même si certains ne reviennent pas de voyage. Il se peut même que le temps qui les sépare soit court, le temps de la prière, puis ils s'étreignent après la prière de l'Aïd. Nous espérons une clarification de la vérité ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Nous ne connaissons aucun fondement à l'accolade, si ce n'est une coutume que les gens ont adoptée. Ce qui est prescrit, c'est d'invoquer pour l'acceptation lorsqu'on rencontre son frère et que l'on prie pour lui afin que ses œuvres soient acceptées ; cela fait partie de la pratique des pieux prédécesseurs. Quant à l'accolade pour cette occasion particulière, je ne lui connais aucun fondement ; ce n'est qu'une coutume des gens."
+  },
+  {
+   "id": "a2",
+   "text": "Le mieux est de se serrer la main, et cela suffit lors de la rencontre. On serre la main de son frère et on lui dit : « Qu'Allah te rende heureux en cette fête, qu'Allah te bénisse en cette fête, ou qu'Allah accepte de nous et de toi », et autres formules de ce genre ; il n'y a pas de mal à cela."
+  }
+ ]
+}

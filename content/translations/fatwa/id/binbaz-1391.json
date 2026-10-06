@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1391",
+ "source_content_sha256": "sha256:753186bcde8d774253b42e0747133d21d24a56db6c7c2fb21f114e8664723f23",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:57:45.718541+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1009,
+  "completion_tokens": 873,
+  "total_tokens": 1882,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 753
+ },
+ "latency_ms": 7533,
+ "units": [
+  {
+   "id": "title",
+   "text": "Apa yang diucapkan orang yang melihat mimpi yang tidak menyenangkannya?"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Ibu saya bermimpi bahwa ia dan seluruh keluarga berada di sebuah rumah, lalu ayah saya yang sudah meninggal -semoga Allah merahmatinya- datang kepada mereka. Ibu berkata: Saya senang bertemu dengannya, dan saya katakan kepadanya: Jangan pergi dari kami. Dalam pikirannya, ayahnya masih hidup di tempat lain. Ibu berkata bahwa ia menyentuhnya, lalu ayahnya berkata kepadanya: Jangan sentuh aku, aku najis?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Mimpi ini dan yang semisalnya berasal dari setan. Nabi ﷺ bersabda: \"Mimpi yang baik berasal dari Allah, dan mimpi buruk berasal dari setan. Jika salah seorang dari kalian melihat sesuatu yang tidak disukainya, hendaklah ia meludah ke kiri tiga kali, dan memohon perlindungan kepada Allah dari setan yang terkutuk dan dari apa yang dilihatnya sebanyak tiga kali, kemudian berpindah posisi ke sisi yang lain, maka mimpi itu tidak akan membahayakannya, dan jangan memberitahukannya kepada siapa pun.\" Siapa yang bermimpi dibunuh, atau bahwa dirinya najis, atau dikencingi, atau diancam akan dibunuh, atau dipukul, atau auratnya terbuka, atau semacamnya, semua ini dari setan. Jika ia terbangun, hendaklah ia meludah ke kiri tiga kali, dan mengucapkan: Aku berlindung kepada Allah dari setan dan dari keburukan apa yang kulihat, tiga kali, kemudian berpindah posisi ke sisi yang lain, dan jangan memberitahukannya kepada siapa pun, maka tidak akan membahayakannya, insya Allah."
+  },
+  {
+   "id": "a2",
+   "text": "Pertanyaan: Apa yang diucapkan, 'Allahu akbar kabira, walhamdulillahi katsira, wa subhanallahi wa bihamdihi bukratan wa ashila'?"
+  },
+  {
+   "id": "a3",
+   "text": "Jawaban: Kami tidak pernah mendengar ini. Yang diucapkan Nabi ﷺ adalah: Hendaklah ia memohon perlindungan kepada Allah dan meludah ke kiri tiga kali, dan memohon perlindungan kepada Allah dari setan dan dari keburukan apa yang dilihatnya tiga kali, kemudian berpindah posisi ke sisi yang lain. Jika ia ingin bertasbih setelah itu, maka itu baik."
+  },
+  {
+   "id": "a4",
+   "text": "Sunnahnya ketika bangun tidur adalah mengucapkan: 'Laa ilaaha illallah wahdahu laa syarika lah, lahul mulku wa lahul hamdu wa huwa 'ala kulli syai'in qadir, subhanallah, walhamdulillah, wa laa ilaaha illallah, wallahu akbar, wa laa hawla wa laa quwwata illa billah, alhamdulillahilladzi ahyana ba'da ma amatana wa ilaihin nusyur.' Dianjurkan mengucapkannya ketika bangun dari tidur secara mutlak di akhir malam atau di tengah malam, walaupun tidak melihat mimpi. Jika terbangun di malam hari, dianjurkan baginya untuk mengucapkan ini."
+  }
+ ]
+}

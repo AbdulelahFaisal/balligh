@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3611",
+ "source_content_sha256": "sha256:65e619011cabaf18a361b762d88ce081be798778fface3fb0e4b19f3a90be2ba",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:16:55.202700+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 620,
+  "completion_tokens": 263,
+  "total_tokens": 883,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 364
+ },
+ "latency_ms": 3104,
+ "units": [
+  {
+   "id": "title",
+   "text": "关于涂指甲油的教法律例，小净时是否必须清除它？"
+  },
+  {
+   "id": "q0",
+   "text": "问：来自焦夫的女士萨德·萨（S. S）在问题中说：女性使用涂在指甲上的指甲油有罪吗？小净时她该怎么做？"
+  },
+  {
+   "id": "a0",
+   "text": "答：我们不知道这方面的任何（明确经文），但最好避免使用，因为没有必要，而且它可能在小净时阻碍水到达皮肤。总之，最好避免使用，用指甲花（一种传统染甲植物）就足够了，遵循先辈的做法更好。如果女性使用了它，必须在小净时将其清除，因为——如我们所说——它会阻碍水到达皮肤。真主是赐予成功的主。⟦N1⟧"
+  },
+  {
+   "id": "n0.0",
+   "text": "发表于《阿拉伯杂志》第177期，伊历1412年11月（谢赫伊本·巴兹教法判例与文章集10/48）。"
+  }
+ ]
+}

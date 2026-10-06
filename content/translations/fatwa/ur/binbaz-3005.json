@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3005",
+ "source_content_sha256": "sha256:13bb4563032bb2b8ff2052a19e6bc7ccf3226547ad23df5ca58564ad8da8ede1",
+ "locale": "ur",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:14:44.005340+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 532,
+  "completion_tokens": 339,
+  "total_tokens": 871,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 276
+ },
+ "latency_ms": 3658,
+ "units": [
+  {
+   "id": "title",
+   "text": "سورہ فاتحہ پڑھنا بھول جانے والے کا حکم"
+  },
+  {
+   "id": "q0",
+   "text": "سوال:"
+  },
+  {
+   "id": "q1",
+   "text": "اسی طرح اگر کوئی سورہ فاتحہ بھول جائے تو کیا وہ اس کی جگہ ایک اور رکعت پڑھے؟ اور کیا وہ سجدہ سہو کرے؟"
+  },
+  {
+   "id": "a0",
+   "text": "جواب:"
+  },
+  {
+   "id": "a1",
+   "text": "اگر وہ مقتدی ہے تو اس پر کچھ نہیں، البتہ اگر وہ امام ہے یا منفرد (اکیلا نماز پڑھنے والا) ہے تو وہ ایک رکعت پڑھے، اس رکعت کے بدلے جس میں سورہ فاتحہ چھوٹ گئی تھی، لیکن اگر وہ مقتدی ہے تو مقتدی اپنے امام کا تابع ہوتا ہے، اگر وہ بھول جائے یا قیام (کھڑے ہونا) اس سے رہ جائے تو وہ کافی ہے، جو اس نے امام کے ساتھ پایا۔"
+  }
+ ]
+}

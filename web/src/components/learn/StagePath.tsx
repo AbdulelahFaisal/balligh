@@ -12,7 +12,7 @@ function firstStageOf(path: Path, key: string, before: number): number {
   return path.stages.find((s) => s.order < before && s.entries.some((e) => entryKey(e) === key))?.order ?? before;
 }
 
-/** A display title only from an actual published hadith translation in the reading language; never for fatwas (Arabic only). */
+/** A display title from an actual published hadith translation in the reading language; fatwa titles come from the stage entry itself (AI-assisted). */
 function useTranslatedTitle(entry: StageEntry, lang: string | null): { title: string; locale: string } | null {
   const [found, setFound] = useState<{ title: string; locale: string; key: string } | null>(null);
   const key = `${entry.source_id}|${lang ?? ""}`;
@@ -35,7 +35,14 @@ function useTranslatedTitle(entry: StageEntry, lang: string | null): { title: st
 function Entry({ entry, stage, position, lang, path, read, onMark }: { entry: StageEntry; stage: number; position: number; lang: string | null; path: Path; read: boolean; onMark: (read: boolean) => void }) {
   const { t } = useTranslation();
   const names = entry.languages.filter(isLocale).map((l) => LOCALE_NAMES[l]);
-  const translated = useTranslatedTitle(entry, lang);
+  const machine =
+    entry.collection === "fatwa" && Array.isArray(entry.machine_languages)
+      ? entry.machine_languages.filter(isLocale).filter((l, i, all) => all.indexOf(l) === i && !entry.languages.includes(l))
+      : [];
+  const published = useTranslatedTitle(entry, lang);
+  const machineTitle = lang && lang !== "ar" && machine.some((l) => l === lang) ? entry.translated_titles?.[lang] : null;
+  const translated =
+    published ?? (lang && typeof machineTitle === "string" && machineTitle.trim() ? { title: machineTitle.trim(), locale: lang } : null);
   return (
     <li className="step-card" data-testid="stage-entry" data-collection={entry.collection} data-id={entry.source_id} data-recap={entry.recap} data-read={read}>
       <span className="min-w-0 flex-1 space-y-2">
@@ -54,7 +61,14 @@ function Entry({ entry, stage, position, lang, path, read, onMark }: { entry: St
               {t("stages.recap", { n: firstStageOf(path, entryKey(entry), stage) })}
             </Badge>
           )}
-          <span>{entry.collection === "fatwa" ? t("stages.arabicOnly") : t("stages.languages", { languages: names.join(" · ") })}</span>
+          <span data-testid="entry-languages">
+            {entry.collection === "fatwa" && machine.length === 0 ? t("stages.arabicOnly") : t("stages.languages", { languages: names.join(" · ") })}
+          </span>
+          {machine.length > 0 && (
+            <span data-testid="entry-machine-languages" data-locales={machine.join(" ")}>
+              {t("stages.aiLanguages", { languages: machine.map((l) => LOCALE_NAMES[l]).join(" · ") })}
+            </span>
+          )}
         </span>
         <span className="flex flex-wrap items-center gap-3">
           <Link to={contextHref(entry, stage, position, lang)} className="bl-btn bl-btn--quiet" data-testid="stage-entry-link">

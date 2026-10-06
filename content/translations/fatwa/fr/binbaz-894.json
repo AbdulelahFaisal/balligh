@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-894",
+ "source_content_sha256": "sha256:f505eb7081ca104ae2947007e29b752a0e8268740142bcbacba909007a14de7a",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:24:52.301468+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 879,
+  "completion_tokens": 739,
+  "total_tokens": 1618,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 623
+ },
+ "latency_ms": 6389,
+ "units": [
+  {
+   "id": "title",
+   "text": "Présentation de la religion"
+  },
+  {
+   "id": "q0",
+   "text": "Q : Tout ce que les gens prennent comme religion et par quoi ils adorent est appelé religion, même si elle est fausse. La question est la suivante : la télévision a diffusé vendredi soir 4 Safar 1403 de l’hégire l’émission « Le monde naturel », présentée par Ibrahim Al-Rashid, et l’épisode portait sur l’Inde. Au début de son introduction, il a dit : « Vraiment, l’Inde est appelée le pays des religions, car on y trouve : l’hindouisme, le bouddhisme, le sikhisme, etc. » Je vous prie donc de bien vouloir clarifier ce qui suit : les religions mentionnées par le présentateur sont-elles vraiment, comme il le prétend, des religions ?\nEt sont-elles révélées et envoyées par Allah ?\nQu’Allah vous accorde la réussite pour corriger les concepts."
+  },
+  {
+   "id": "a0",
+   "text": "R : Tout ce que les gens prennent comme religion et par quoi ils adorent est appelé religion, même si elle est fausse, comme le bouddhisme, le polythéisme, le judaïsme, l’hindouisme, le christianisme et d’autres religions fausses. Allah, glorifié soit-Il, a dit dans la sourate Al-Kafiroun : ⟦Q1⟧ [Al-Kafiroun : 6]. Il a donc appelé religion ce que pratiquent les adorateurs d’idoles.\nLa religion vraie est uniquement l’islam, comme Allah, puissant et majestueux, a dit : ⟦Q2⟧ [Al-‘Imran : 19], et comme le Très-Haut a dit : ⟦Q3⟧ [Al-‘Imran : 85], et comme le Très-Haut a dit : ⟦Q4⟧ [Al-Ma’idah : 3]. L’islam consiste à adorer Allah seul, à l’exclusion de tout autre, à obéir à Ses commandements, à délaisser Ses interdits et à s’arrêter à Ses limites, et à croire en tout ce qu’Allah et Son Messager ont annoncé, que cela soit passé ou futur.\nAucune des religions fausses n’est révélée par Allah ni agréée par Lui ; au contraire, elles sont toutes inventées et non révélées par Allah. L’islam est la religion de tous les messagers, mais leurs législations ont différé, conformément à la parole d’Allah, glorifié soit-Il : ⟦Q5⟧ [Al-Ma’idah : 48]⟦N6⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Publié dans le livre « Al-Da’wah » : (1/15). (Majmu’ Fatawa wa Maqalat du cheikh Ibn Baz : 4/320)."
+  }
+ ]
+}

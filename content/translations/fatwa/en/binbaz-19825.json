@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-19825",
+ "source_content_sha256": "sha256:442867c81c529d438c355453ff7dce76d7411bd4e22502f89bacc2ca6a1b68f8",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:03:38.014109+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 742,
+  "completion_tokens": 494,
+  "total_tokens": 1236,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 486
+ },
+ "latency_ms": 3708,
+ "units": [
+  {
+   "id": "title",
+   "text": "The ruling on reading the Noble Quran for one who is not proficient in Arabic grammar"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "I have a relative who loves to read the Noble Quran, but he is not proficient in the rules of Arabic grammar and recitation. What should he do?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "He should strive to read the Quran, ponder it, not be hasty, and read to someone more knowledgeable than him so that he can teach him what he does not know. He should not despair, and he will have a great reward due to the saying of the Prophet ﷺ: \"The best of you are those who learn the Quran and teach it\"⟦N1⟧ (recorded by al-Bukhari in his Sahih), and his saying ﷺ: \"The one who is proficient in the Quran will be with the noble and righteous scribes, and the one who recites the Quran and finds it difficult and stumbles over it will have two rewards\"⟦N2⟧ (agreed upon⟦N3⟧)."
+  },
+  {
+   "id": "n0.0",
+   "text": "Recorded by al-Bukhari in \"The Virtues of the Quran\", no. 4639, chapter \"The best of you are those who learn the Quran and teach it\"."
+  },
+  {
+   "id": "n1.0",
+   "text": "Narrated by Muslim in \"The Prayer of Travelers and Its Shortening\", no. 1329, and Ibn Majah in \"Etiquette\", no. 3769. "
+  },
+  {
+   "id": "n2.0",
+   "text": "Published in (Majallat al-Da'wah), issue no. 1520, on 15/7/1416 AH. (Majmu' Fatawa wa Maqalat al-Shaykh Ibn Baz 24/357)."
+  }
+ ]
+}

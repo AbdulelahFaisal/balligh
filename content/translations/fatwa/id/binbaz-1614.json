@@ -1,0 +1,72 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1614",
+ "source_content_sha256": "sha256:6e944d6e8b4349d900028b8235adeb121719a928606a2710bd9f15bb9a3841c2",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:00:52.894591+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1486,
+  "completion_tokens": 1490,
+  "total_tokens": 2976,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 1230
+ },
+ "latency_ms": 14727,
+ "units": [
+  {
+   "id": "title",
+   "text": "Hukum Meninggalkan Kewajiban dengan Berdalih Hadis: \"Jumat ke Jumat\""
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Banyak orang tidak shalat kecuali hanya shalat Jumat, dan hanya pada waktu-waktu Ramadhan saja, dan mereka berdalih dengan hadis: \"Jumat ke Jumat dan Ramadhan ke Ramadhan adalah penghapus dosa di antara keduanya.\" Apakah perbuatan ini benar?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Istidlal (pengambilan dalil) ini adalah kebodohan belaka. Allah telah mewajibkan atas kita shalat berjamaah, mewajibkan shalat Jumat, dan mewajibkan puasa Ramadhan. Maka kita wajib menunaikan semua kewajiban, semua shalat, menunaikan shalat Jumat, berpuasa Ramadhan, dan melaksanakan semua yang Allah wajibkan atas kita. Kita akan mendapat pahala yang besar, dan semoga jika kita melakukan semua ini, bersungguh-sungguh, dan menjauhi apa yang Allah haramkan, semoga kita selamat, semoga kita selamat dari azab Allah, semoga kita diterima."
+  },
+  {
+   "id": "a2",
+   "text": "Adapun berdalih dengan shalat Jumat, dan apa yang Allah tetapkan darinya berupa penghapus dosa, atau Ramadhan, kemudian menyia-nyiakan kewajiban, ini tidak akan diucapkan oleh orang yang beriman kepada Allah dan hari akhir, ini tidak akan diucapkan oleh orang yang berakal. Barangsiapa meyakini bahwa shalat Jumat cukup menggantikan shalat-shalat lainnya, maka dia kafir, sesat lagi menyesatkan. Kita memohon keselamatan kepada Allah."
+  },
+  {
+   "id": "a3",
+   "text": "Dan barangsiapa meyakini bahwa puasa Ramadhan menggugurkan beban-beban syariat darinya, dan dia boleh melakukan maksiat apa saja yang dia mau, maka orang ini juga sesat, menyesatkan, dan kafir kepada Allah, kita berlindung kepada Allah!"
+  },
+  {
+   "id": "a4",
+   "text": "Kaum Muslimin seluruhnya telah sepakat bahwa Ramadhan tidak menggugurkan kewajiban-kewajiban lainnya, dan bahwa shalat Jumat tidak menggugurkan kewajiban-kewajiban lainnya. Shalat Jumat tidak menggugurkan shalat Subuh, tidak pula shalat Ashar, shalat Subuh, shalat Ashar, Maghrib, dan Isya pada waktunya di hari itu, karena shalat Jumat hanya menggugurkan shalat Zhuhur saja. Adapun hari-hari lainnya, menurut seluruh ulama, shalat-shalat itu wajib, wajib melaksanakan shalat lima waktu di hari-hari lainnya, sebagaimana juga wajib melaksanakan empat shalat di hari Jumat, yaitu Ashar, Maghrib, Isya, dan Subuh di hari Jumat, ini semua wajib."
+  },
+  {
+   "id": "a5",
+   "text": "Barangsiapa mengira bahwa shalat Jumat menggugurkan semua kewajiban shalat tersebut dan meyakininya, maka ini adalah kekufuran dan kesesatan. Dia wajib segera bertaubat kepada Allah Subhanahu wa Ta'ala, karena ini berarti menggugurkan kewajiban dan menghalalkan yang haram. Barangsiapa melakukannya dengan meyakini hal itu setelah ditegakkan hujjah atasnya dan dijelaskan kepadanya, maka dia kafir dan sesat karenanya. Demikian pula Ramadhan, puasa Ramadhan tidak menggugurkan kewajiban-kewajiban, tidak shalat, tidak zakat (zakat), dan tidak pula kewajiban-kewajiban lainnya."
+  },
+  {
+   "id": "a6",
+   "text": "Puasa Ramadhan adalah fardhu atas hamba untuk dilaksanakan dan ditunaikan, dan Allah -Jalla wa 'Ala- menjadikan baginya pahala dan ganjaran. Maka pahala Ramadhan tidaklah menggugurkan kewajiban-kewajiban lainnya. Nabi -'alaihishshalatu wassalam- bersabda: \"Shalat lima waktu, Jumat ke Jumat, dan Ramadhan ke Ramadhan adalah penghapus dosa di antara keduanya, selama tidak dilakukan dosa-dosa besar.\" Maka jika dia melakukan dosa besar, dia terhalang dari pahala puasa -kita memohon keselamatan kepada Allah-, terhalang dari pahala shalat-shalat, terhalang dari pahala Jumat, sehingga dia tidak mendapatkan pahalanya kecuali dengan menjauhi dosa-dosa besar, yaitu maksiat-maksiat, sebagaimana Allah -Jalla wa 'Ala- berfirman: ⟦Q1⟧ [An-Nisa:31]. Maka tidak akan didapatkan penghapusan dosa-dosa kecil dan masuk surga kecuali bagi orang yang menjauhi dosa-dosa besar."
+  },
+  {
+   "id": "a7",
+   "text": "Maksudnya: ucapan ini adalah ucapan orang bodoh, yang mengatakan bahwa shalat Jumat dan Ramadhan cukup menggantikan kewajiban-kewajiban lainnya, dan dengannya dihapus semua dosa besar. Ini termasuk kebodohan yang besar yang tidak masuk akal, bahkan bertentangan dengan nash-nash dan bertentangan dengan ijma' (konsensus) kaum Muslimin. Kita memohon keselamatan kepada Allah."
+  },
+  {
+   "id": "a8",
+   "text": "Dan semoga jika dia menunaikan semua kewajiban, meninggalkan semua yang diharamkan, semoga dia diberi taufik, semoga diterima, semoga dihapus dosa-dosanya, semoga beruntung masuk surga. Dan jika dia merasa bangga dengan hal itu dan merasa berjasa kepada Allah karenanya, maka dia pantas diharamkan dari pahala dan tidak diterima. Kita memohon keselamatan kepada Allah."
+  }
+ ]
+}

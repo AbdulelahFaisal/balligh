@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1533",
+ "source_content_sha256": "sha256:bf4150f2e48cace2a1035dc85fb707833c3b9e73cc2431d60f17ce2ae729f5d6",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:58:41.253924+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 618,
+  "completion_tokens": 314,
+  "total_tokens": 932,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 362
+ },
+ "latency_ms": 2901,
+ "units": [
+  {
+   "id": "title",
+   "text": "The ruling on embracing during the Eids"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "We see people embracing during the Eids, even if some of them are not coming from travel, and the time between them may be short, the time of prayer, then they embrace after the Eid prayer. Please clarify the truth?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "We do not know that embracing has any basis except a custom that people have adopted. What is prescribed is supplicating for acceptance when one meets his brother and supplicates for acceptance for him; this is from the practice of the early generations. As for embracing for this particular occasion, I do not know of any basis for it; it is only a custom of the people."
+  },
+  {
+   "id": "a2",
+   "text": "So what is best is the handshake, and it is sufficient upon meeting: he shakes his brother's hand and says to him: May Allah grant you happiness on this Eid, may Allah bless you in this Eid, or may Allah accept from us and from you, and similar phrases; there is no harm in that."
+  }
+ ]
+}

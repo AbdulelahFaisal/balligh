@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2149",
+ "source_content_sha256": "sha256:290db782e0e10e6101468287fd6f5185bba283d9b02c4cfebde543829b453d68",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:09:22.393798+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 616,
+  "completion_tokens": 232,
+  "total_tokens": 848,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 360
+ },
+ "latency_ms": 3108,
+ "units": [
+  {
+   "id": "title",
+   "text": "有助于礼晨礼的原因"
+  },
+  {
+   "id": "q0",
+   "text": "问：帮助穆斯林起来礼晨礼的原因是什么？尽管他早睡，但他直到日出后才醒来。"
+  },
+  {
+   "id": "a0",
+   "text": "答：每个穆斯林都必须敬畏真主，按时在清真寺与穆斯林大众一起礼五番拜，并努力采取一切有助于此的方法。有助于他参加集体晨礼的方法有：早睡，并在合适的时间设置闹钟，以便按时起来礼拜，参加集体礼拜，努力祈求真主赐予顺利和帮助，睡前念诵教法规定的记主词。这样，如果真主意欲，真主会赐予他顺利，按时起来与集体一起完成礼拜⟦N1⟧。"
+  },
+  {
+   "id": "n0.0",
+   "text": "《伊本·巴兹教长教法解答全集》(8/276)"
+  }
+ ]
+}

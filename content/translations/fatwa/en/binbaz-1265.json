@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1265",
+ "source_content_sha256": "sha256:2629ae5ef3b6d5cfab3d351de135274e5410f89177fcf47a3cefbae6d7d99ece",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:54:56.162268+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 782,
+  "completion_tokens": 473,
+  "total_tokens": 1255,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 526
+ },
+ "latency_ms": 4330,
+ "units": [
+  {
+   "id": "title",
+   "text": "Her mother asks her to abandon the hijab"
+  },
+  {
+   "id": "q0",
+   "text": "Q: I am a Muslim, praise be to Allah, and I do everything that pleases Allah, and I adhere to the lawful hijab, but my mother, may Allah forgive her, does not want me to adhere to the hijab, and she orders me to watch cinema and video... etc., and she says to me: If you do not enjoy yourself and have fun, you will become an old woman and your hair will turn white?"
+  },
+  {
+   "id": "a0",
+   "text": "A: It is obligatory upon you to be gentle with your mother, to treat her kindly, and to address her with the best of speech, because the mother's right is great, but you are not to obey her in anything that is not right, because of the Prophet's saying ﷺ: \"Obedience is only in what is right,\" and his saying, peace and blessings be upon him: \"There is no obedience to a creature in disobedience to the Creator.\" Likewise, the father, the husband, and others are not to be obeyed in acts of disobedience to Allah, due to the aforementioned hadith. However, it is appropriate for the wife, the child, and the like to use gentleness and good approach in solving problems, by explaining the religious evidences and the obligation to obey Allah and His Messenger, and warning against disobeying Allah and His Messenger, while remaining steadfast upon the truth and not obeying anyone who commands opposing it, whether a husband, father, mother, or others.\n  There is no harm in watching what contains no evil on television and video, and listening to scholarly seminars and beneficial lessons, while being wary of watching the evil that is shown on them. Likewise, it is not permissible to watch cinema because of the various kinds of falsehood it contains⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu' Fatawa wa Maqalat al-Shaykh Ibn Baz (5/355)."
+  }
+ ]
+}

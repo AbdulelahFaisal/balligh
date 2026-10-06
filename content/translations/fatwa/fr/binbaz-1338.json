@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1338",
+ "source_content_sha256": "sha256:e4f5fd143ad5ba76e7cd55ee60a7b371e6abf87139af73dc3a1922960919547f",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:55:59.183635+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 560,
+  "completion_tokens": 326,
+  "total_tokens": 886,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 304
+ },
+ "latency_ms": 2916,
+ "units": [
+  {
+   "id": "title",
+   "text": "Jugement concernant celui qui est incapable d'accomplir son vœu"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "J'étais dans une réunion avec mes collègues, et j'ai juré par Allah que si mon frère venait, j'égorgerais un mouton. Mon frère est venu, et à ce moment-là j'étais dans la gêne et je ne possédais pas la valeur d'un mouton. Que dois-je faire ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Si cela devient facile, tu égorgeras le mouton. Si le mouton devient facile à obtenir, tu l'égorgeras, en accomplissement de ton vœu. Tu l'égorgeras avec l'intention de le donner aux pauvres. Tu le donneras aux pauvres. Si tu as l'intention de le manger, toi et ta famille, tu le mangeras, toi et ta famille, si tu n'avais pas d'intention particulière. Tu le donneras aux pauvres et tu n'en mangeras pas."
+  }
+ ]
+}

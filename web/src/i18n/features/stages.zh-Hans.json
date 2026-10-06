@@ -61,5 +61,6 @@
   "continue": "继续下一篇阅读",
   "continueStage": "继续：第 {{n}} 阶段",
   "backToStage": "返回第 {{n}} 阶段",
-  "position": "第 {{n}} 阶段 · 第 {{i}} 篇，共 {{total}} 篇"
+  "position": "第 {{n}} 阶段 · 第 {{i}} 篇，共 {{total}} 篇",
+  "aiLanguages": "AI 辅助翻译：{{languages}}"
 }

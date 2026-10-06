@@ -1,0 +1,52 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3521",
+ "source_content_sha256": "sha256:31a52d6ebc8b526d5ad3b34f4100350dd212aea906eb604b78c679b4caba4e26",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:16:06.130611+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 597,
+  "completion_tokens": 392,
+  "total_tokens": 989,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 341
+ },
+ "latency_ms": 3594,
+ "units": [
+  {
+   "id": "title",
+   "text": "Le jugement concernant celui qui oublie de dire bismillah avant les ablutions"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Qu'en est-il de celui qui oublie de dire bismillah avant les ablutions ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "La formule de bismillah au début des ablutions est annulée pour lui. S'il l'oublie, il n'a rien à faire. S'il s'en souvient pendant les ablutions, qu'il dise alors bismillah pendant les ablutions, comme pour le repas : on dit bismillah avant de manger, et si on oublie, on la dit pendant le repas."
+  },
+  {
+   "id": "a2",
+   "text": "Question : ... ?"
+  },
+  {
+   "id": "a3",
+   "text": "Réponse : Le hadith est faible, mais ce qui est obligatoire, c'est que lorsqu'il s'en souvient, il dise bismillah. C'est ce qui convient, pour sortir de la divergence des savants. La plupart des gens de science considèrent que c'est une sunna, parce que le hadith est faible. Mais s'il l'a délaissée volontairement, il doit refaire ses ablutions. En revanche, s'il l'a fait par ignorance ou par oubli, il n'y a pas de mal."
+  }
+ ]
+}

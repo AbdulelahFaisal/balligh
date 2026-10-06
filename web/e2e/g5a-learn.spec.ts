@@ -42,6 +42,7 @@ test("five stages stay open, Next moves forward, and the just-exploring entry le
   let total = 0;
   for (let n = 1; n <= 5; n++) {
     await page.getByTestId("stage-tab").nth(n - 1).click();
+    await expect(page.getByTestId("stage-panel")).toHaveAttribute("data-stage", String(n));
     total += await page.getByTestId("stage-entry").count();
   }
   expect(total).toBe(17);
@@ -112,6 +113,7 @@ test("the end states introductory reading, lists what is not covered, and offers
   await shot(page, info.project.name, "end-partial");
   for (let n = 1; n <= 5; n++) {
     await page.getByTestId("stage-tab").nth(n - 1).click();
+    await expect(page.getByTestId("stage-panel")).toHaveAttribute("data-stage", String(n));
     const buttons = page.locator('[data-testid="stage-entry"][data-read="false"] [data-testid="mark-read"]');
     while ((await buttons.count()) > 0) await buttons.first().click();
   }
@@ -125,6 +127,7 @@ test("flagged teacher-context fatwas are not presented as beginner recommendatio
   await expect(page.getByTestId("stage-entry").first()).toBeVisible();
   for (let n = 1; n <= 5; n++) {
     await page.getByTestId("stage-tab").nth(n - 1).click();
+    await expect(page.getByTestId("stage-panel")).toHaveAttribute("data-stage", String(n));
     const ids = await page.getByTestId("stage-entry").evaluateAll((els) => els.map((e) => e.getAttribute("data-id")));
     expect(ids.filter((id) => FLAGGED.includes(id ?? ""))).toEqual([]);
   }

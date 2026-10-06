@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-19825",
+ "source_content_sha256": "sha256:442867c81c529d438c355453ff7dce76d7411bd4e22502f89bacc2ca6a1b68f8",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:03:52.755269+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 742,
+  "completion_tokens": 563,
+  "total_tokens": 1305,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 486
+ },
+ "latency_ms": 4183,
+ "units": [
+  {
+   "id": "title",
+   "text": "Le statut de la lecture du Noble Coran pour celui qui ne maîtrise pas les règles de la langue arabe"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "J'ai un proche qui aime lire le Noble Coran, mais il ne maîtrise pas les règles de la langue arabe ni la récitation. Que doit-il faire ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Il doit s'efforcer de lire le Coran, méditer et ne pas se précipiter. Il doit lire en présence de quelqu'un de plus savant que lui afin qu'il lui enseigne ce qu'il ignore. Il ne doit pas désespérer, et il aura une grande récompense, conformément à la parole du Prophète ﷺ : « Le meilleur d'entre vous est celui qui apprend le Coran et l'enseigne ⟦N1⟧ », rapporté par Al-Boukhari dans son Sahih, et à sa parole ﷺ : « Celui qui récite le Coran avec aisance sera avec les nobles anges scribes, et celui qui le récite avec difficulté et en balbutiant aura une double récompense ⟦N2⟧ », rapporté par Al-Boukhari et Muslim⟦N3⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Rapporté par Al-Boukhari dans « Les mérites du Coran », n° 4639, chapitre : « Le meilleur d'entre vous est celui qui apprend le Coran et l'enseigne »."
+  },
+  {
+   "id": "n1.0",
+   "text": "Rapporté par Muslim dans « La prière des voyageurs et sa réduction », n° 1329, et Ibn Majah dans « Les bonnes manières », n° 3769."
+  },
+  {
+   "id": "n2.0",
+   "text": "Publié dans la revue « Ad-Da'wah », n° 1520, le 15/7/1416 H. (Majmou' Fatawa wa Maqalat de cheikh Ibn Baz, 24/357)."
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1263",
+ "source_content_sha256": "sha256:b29f02601d672521e9b92d31b467e83a34c54df33d85b0d92891395bcc397ee2",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:54:52.670460+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 721,
+  "completion_tokens": 565,
+  "total_tokens": 1286,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 465
+ },
+ "latency_ms": 5007,
+ "units": [
+  {
+   "id": "title",
+   "text": "Les choses par lesquelles on entre en islam"
+  },
+  {
+   "id": "q0",
+   "text": "Q : Suffit-il de prononcer le premier pilier, l’attestation qu’il n’y a de divinité digne d’adoration qu’Allah et que Muhammad est le Messager d’Allah ? Ou faut-il d’autres choses pour que l’islam de la personne soit complet ?"
+  },
+  {
+   "id": "a0",
+   "text": "R : Si le mécréant atteste qu’il n’y a de divinité digne d’adoration qu’Allah et que Muhammad est le Messager d’Allah, avec sincérité, certitude et connaissance de ce que cela implique, et qu’il agit en conséquence, il entre en islam. Ensuite, on lui demande d’accomplir la prière et le reste des obligations. C’est pourquoi, lorsque le Prophète ﷺ envoya Mu’adh au Yémen, il lui dit : « Appelle-les à attester qu’il n’y a de divinité digne d’adoration qu’Allah et que Muhammad est le Messager d’Allah. S’ils le font, alors informe-les qu’Allah leur a prescrit cinq prières par jour et par nuit. S’ils t’obéissent pour cela, informe-les qu’Allah leur a imposé une aumône légale (zakah) sur leurs biens, prise de leurs riches et rendue à leurs pauvres. » Il ne leur a ordonné la prière et la zakah qu’après le monothéisme et la foi au Messager ﷺ. Si le mécréant fait cela, il prend le statut des musulmans, puis on lui demande la prière et le reste des affaires de la religion. S’il s’abstient de cela, il aura d’autres statuts : s’il délaisse la prière, l’autorité le fera se repentir, s’il se repent, sinon il sera exécuté. De même pour le reste des obligations, il sera traité selon ce qu’il mérite ⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu’ fatawa wa maqalat al-Cheikh Ibn Baz (5/355)."
+  }
+ ]
+}

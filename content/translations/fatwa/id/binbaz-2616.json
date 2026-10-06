@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2616",
+ "source_content_sha256": "sha256:e1cba27c0bd2106dcab5a5cdd8d4ed5c6edbc99377e57ecd78eec42384ff646f",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:12:54.889336+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 610,
+  "completion_tokens": 374,
+  "total_tokens": 984,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 354
+ },
+ "latency_ms": 3788,
+ "units": [
+  {
+   "id": "title",
+   "text": "Hukum mengeringkan badan setelah wudhu dan setelah mandi junub"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Apakah boleh mengeringkan anggota wudhu, ataukah meninggalkannya lebih utama? Dan jika iqamah dikumandangkan ketika seseorang sedang mengerjakan shalat sunnah, apa yang harus ia lakukan?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Masalahnya luas. Barangsiapa mengeringkan, maka tidak mengapa, dan barangsiapa meninggalkannya, maka tidak mengapa. Tidak ada dalil shahih yang kami ketahui dalam hal ini, baik tentang mengeringkan maupun tentang makruhnya mengeringkan. Perkaranya luas."
+  },
+  {
+   "id": "a2",
+   "text": "Adapun mandi junub, telah diriwayatkan dari Nabi ﷺ bahwa beliau ditawari handuk, namun beliau menolaknya dan mengibaskan air dengan tangannya, yaitu dalam mandi junub - shalawat dan salam atasnya - ini lebih utama, beliau mengibaskan air dengan tangannya. Adapun wudhu, tidak ada dalil yang shahih yang kami ketahui, maka barangsiapa mengeringkan, tidak mengapa, dan barangsiapa meninggalkan, tidak mengapa. Perkaranya luas."
+  }
+ ]
+}

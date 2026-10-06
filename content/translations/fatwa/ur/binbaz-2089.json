@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2089",
+ "source_content_sha256": "sha256:e675c38fd856136f56e9837afd01ad537022c07febf227c5c56de06f282e3d8f",
+ "locale": "ur",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:09:06.298343+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 563,
+  "completion_tokens": 346,
+  "total_tokens": 909,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 307
+ },
+ "latency_ms": 3739,
+ "units": [
+  {
+   "id": "title",
+   "text": "کیا ہاروت اور ماروت فرشتے ہیں یا انسان؟"
+  },
+  {
+   "id": "q0",
+   "text": "س: کیا ہاروت اور ماروت فرشتے ہیں یا انسان؟ براہ کرم علماء کے اقوال میں سے راجح قول بیان کریں؟"
+  },
+  {
+   "id": "a0",
+   "text": "ج: علماء کا اس میں اختلاف ہے، اور ظاہر بات یہ ہے کہ وہ دونوں فرشتے ہیں جو آزمائش اور امتحان کے لیے اترے، جیسا کہ اللہ عز وجل نے فرمایا: ⟦Q1⟧ الآية [البقرة:102]۔\n اور بعض اہل علم نے کہا: وہ دونوں بنی آدم میں سے بادشاہ ہیں جن کے ذریعے لوگوں کو آزمایا گیا، اور پہلا قول ظاہر ہے، اور پہلے قول پر قراءت لام کے فتحہ کے ساتھ ہے، اور دوسرے قول پر اس کے کسرہ کے ساتھ⟦N2⟧۔"
+  },
+  {
+   "id": "n0.0",
+   "text": "مجموع فتاویٰ ومقالات الشيخ ابن باز (8/ 115)۔"
+  }
+ ]
+}

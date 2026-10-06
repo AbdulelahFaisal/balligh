@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-6720",
+ "source_content_sha256": "sha256:7e90c2504fd942523be1f61a36674b10a522ae9da1a0255e8bcf67ce41819778",
+ "locale": "ur",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:22:28.821032+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 504,
+  "completion_tokens": 253,
+  "total_tokens": 757,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 248
+ },
+ "latency_ms": 2594,
+ "units": [
+  {
+   "id": "title",
+   "text": "مومن میں قابلِ تعریف قوت کیا ہے؟"
+  },
+  {
+   "id": "q0",
+   "text": "سوال:"
+  },
+  {
+   "id": "q1",
+   "text": "کس نے کہا کہ قوی مومن میں قوت سے مراد جسمانی قوت ہے؟"
+  },
+  {
+   "id": "a0",
+   "text": "جواب:"
+  },
+  {
+   "id": "a1",
+   "text": "نہیں، جسمانی قوت مراد نہیں، جسمانی قوت سے کیا مطلب؟ قوت سے مراد عمل کی قوت ہے۔ اگر وہ ہاتھی سے بھی زیادہ طاقتور ہو لیکن امر بالمعروف اور نہی عن المنکر نہ کرے تو وہ قوی نہیں کہلاتا؛ وہ ضعیف کہلاتا ہے۔\n (دروس شرح بلوغ المرام، کتاب الجامع)"
+  }
+ ]
+}

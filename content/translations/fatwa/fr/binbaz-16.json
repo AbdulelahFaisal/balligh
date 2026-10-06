@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-16",
+ "source_content_sha256": "sha256:47c671963afd41d11f8172c53dd4339546abeacabeebb7ea752e630279315092",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:00:19.545645+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1489,
+  "completion_tokens": 1632,
+  "total_tokens": 3121,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 1233
+ },
+ "latency_ms": 16443,
+ "units": [
+  {
+   "id": "title",
+   "text": "Jugement sur la parole : \"se conformer aux noms et attributs d'Allah\""
+  },
+  {
+   "id": "q0",
+   "text": "De Abd al-Aziz ibn Abdillah ibn Baz à l'honorable frère, qu'Allah le préserve et le prenne en charge.\nQue la paix soit sur vous, ainsi que la miséricorde d'Allah et Ses bénédictions. Ensuite :\nVotre noble lettre datée du 23/3/1386 H m'est parvenue, qu'Allah vous guide vers Sa guidée. Quant à ce qu'elle contenait comme question au sujet de ce que certains prêcheurs ont dit dans le sermon du vendredi, en incitant à se parer des attributs d'Allah et à se conformer à Ses caractères : cela a-t-il une interprétation, et quelqu'un a-t-il déjà dit cela... etc., était-ce connu ?"
+  },
+  {
+   "id": "a0",
+   "text": "La réponse : cette expression est inappropriée, mais elle a une interprétation correcte, qui est d'inciter à se conformer à ce qu'impliquent les attributs et les noms d'Allah et à ce qu'ils exigent, en considérant les attributs qu'il convient à la créature de revêtir selon leurs implications, contrairement aux attributs propres à Allah, comme Al-Khallaq (le Créateur suprême), Ar-Razzaq (le Pourvoyeur suprême), Al-Ilah (la Divinité) et autres, car cela est une chose que la créature ne peut pas revêtir et qu'il ne lui est pas permis de revendiquer. Il en va de même pour les noms qui ressemblent à ceux-ci. Ce qui est visé, ce sont les attributs dont Allah aime que Ses serviteurs se parent selon leurs implications, comme la science, la force dans la vérité, la miséricorde, la clémence, la générosité, la largesse, le pardon et autres semblables. Ainsi, Il est Omniscient et aime les savants, Fort et aime le croyant fort plus qu'Il n'aime le croyant faible, Généreux et aime les généreux, Miséricordieux et aime les miséricordieux, Pardonneur et aime le pardon, etc. Mais ce qu'Allah, gloire à Lui, possède de ces attributs et d'autres est plus complet et plus grand que ce que possède la créature, il n'y a même aucune comparaison entre eux, car Il, gloire à Lui, n'a rien qui Lui ressemble dans Ses attributs et Ses actes, de même qu'Il n'a pas d'équivalent dans Son essence. La créature ne peut qu'avoir une part des significations de ces attributs qui lui convient et lui est appropriée dans la limite légale. Si elle dépasse la limite dans la générosité, elle devient prodigue ; si elle dépasse la limite dans la miséricorde, elle suspend les peines légales et les sanctions ; de même, si elle augmente dans le pardon au-delà de la limite légale, elle le met à une place qui n'est pas la sienne. Ces exemples indiquent les autres cas. Le savant Ibn al-Qayyim, qu'Allah lui fasse miséricorde, a explicitement mentionné ce sens dans ses deux livres : \"'Iddat as-Sabirin\" (L'équipement des patients) et \"Al-Wabil as-Sayyib\" (La pluie abondante), et peut-être l'a-t-il aussi mentionné dans d'autres, comme \"Al-Madarij\" (Les degrés) et \"Zad al-Ma'ad\" (La provision de l'au-delà) et d'autres. Voici le texte de ses paroles dans \"Al-'Iddah\" et \"Al-Wabil\". Il a dit dans \"Al-'Iddah\", page 310 :\n« Puisqu'Il, gloire à Lui, est véritablement le Reconnaissant, les créatures qu'Il aime le plus sont celles qui se parent de l'attribut de reconnaissance, de même que les créatures qu'Il déteste le plus sont celles qui l'ont négligé ou se sont parées de son contraire. Telle est la situation de Ses beaux noms : les créatures qu'Il aime le plus sont celles qui se conforment à ce qu'ils impliquent, et celles qu'Il déteste le plus sont celles qui se parent de leurs contraires. C'est pourquoi Il déteste le mécréant, l'injuste, l'ignorant, celui au cœur dur, l'avare, le lâche, le vil et le méprisable. Il est, gloire à Lui, Beau et aime la beauté, Omniscient et aime les savants, Miséricordieux et aime les miséricordieux, Bienfaisant et aime les bienfaisants, Celui qui couvre et aime les gens qui couvrent, Capable et blâme l'incapacité, et le croyant fort est plus aimé de Lui que le croyant faible. Il est Pardonneur et aime le pardon, Unique et aime l'impair. Tout ce qu'Il aime est un effet de Ses noms, de Ses attributs et de ce qu'ils exigent, et tout ce qu'Il déteste fait partie de ce qui s'y oppose et les contredit. »\nIl a dit dans \"Al-Wabil as-Sayyib\", page 43 de la compilation des hadiths : « La générosité fait partie des attributs du Seigneur, que Sa majesté soit exaltée, car Il donne et ne prend pas, Il nourrit et n'est pas nourri, et Il est le plus généreux des généreux et le plus noble des nobles. Les créatures qu'Il aime le plus sont celles qui se conforment aux exigences de Ses attributs, car Il est Généreux et aime les généreux parmi Ses serviteurs, Omniscient et aime les savants, Capable et aime les courageux, et Beau et aime la beauté. » Fin de citation.\nJ'espère que ce que nous avons mentionné est suffisant et utile. Je demande à Allah, gloire à Lui, de nous accorder à tous la compréhension de Sa religion et l'accomplissement de Son droit, car Il entend tout et est proche. Que la paix soit sur vous, ainsi que la miséricorde d'Allah et Ses bénédictions.⟦N1⟧"
+  },
+  {
+   "id": "n0.0",
+   "text": "Lettre envoyée à l'un des questionneurs en réponse à sa question, lorsque j'étais adjoint de l'Université islamique de Médine en 1386 H. (Majmu' Fatawa wa Maqalat Mutanawwi'ah du cheikh Ibn Baz 1/133)."
+  }
+ ]
+}

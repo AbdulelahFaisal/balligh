@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1656",
+ "source_content_sha256": "sha256:9d9b89cbcb6d72251cd30e65dc904e9b7fd35d706486bce97aca2c49cfd9f76d",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:02:43.433850+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 816,
+  "completion_tokens": 658,
+  "total_tokens": 1474,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 560
+ },
+ "latency_ms": 5857,
+ "units": [
+  {
+   "id": "title",
+   "text": "Différence entre les significations de la foi, de l'unicité et de la croyance"
+  },
+  {
+   "id": "q0",
+   "text": "Q : La foi, l'unicité et la croyance sont des noms pour des concepts : leurs significations diffèrent-elles ?"
+  },
+  {
+   "id": "a0",
+   "text": "R : Oui, elles diffèrent quelque peu, mais elles reviennent à une même chose. L'unicité (tawhid) consiste à vouer exclusivement à Allah l'adoration. La foi (iman) consiste à croire qu'Il mérite l'adoration, et à croire en tout ce dont Il a informé, glorifié soit-Il. Elle est donc plus générale que le mot tawhid, qui est le substantif verbal de wahhada-yuwahhidu, c'est-à-dire vouer exclusivement à Allah l'adoration et la Lui réserver, en raison de sa croyance qu'Il, glorifié soit-Il, est Celui qui la mérite, car Il est le Créateur, le Pourvoyeur, parfait dans Ses noms, attributs et actes, et car Il administre et dispose des affaires. Il mérite donc l'adoration. Le tawhid est donc le fait de Lui vouer exclusivement l'adoration et de la nier à tout autre que Lui. La foi est plus large que cela : elle inclut Son unicité et la sincérité envers Lui, et elle inclut le fait de Le croire en tout ce dont a informé Son Messager, prière et salut d'Allah sur lui. La croyance (aqida) englobe les deux choses : elle englobe le tawhid, et elle englobe la foi en Allah et en ce dont Il a informé, glorifié soit-Il, ou dont a informé Son Messager ﷺ, et la foi en Ses noms et attributs.\nLa croyance est ce que l'être humain croit en son cœur et considère comme une croyance par laquelle il pratique la religion d'Allah et L'adore. Elle inclut donc tout ce qu'il croit comme unicité d'Allah et foi qu'Il est le Créateur, le Pourvoyeur, qu'Il possède les plus beaux noms et les attributs les plus sublimes, la foi que nul autre que Lui ne mérite l'adoration, et la foi qu'Il a interdit telle chose, rendu obligatoire telle chose, légiféré telle chose et interdit telle chose. Elle est donc plus générale⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu' Fatawa wa Maqalat ash-Shaykh Ibn Baz (6/277)."
+  }
+ ]
+}

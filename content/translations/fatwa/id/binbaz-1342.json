@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1342",
+ "source_content_sha256": "sha256:e7ade7a901ec803693ac2a67b552ca98404d88660a3521bd9022121fc60960dc",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:56:14.998504+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 830,
+  "completion_tokens": 618,
+  "total_tokens": 1448,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 574
+ },
+ "latency_ms": 6828,
+ "units": [
+  {
+   "id": "title",
+   "text": "Menyembelih Saat Bangunan Mencapai Setengah atau Selesai"
+  },
+  {
+   "id": "q0",
+   "text": "T: Pertanyaan dari salah seorang saudara dari Sudan yang mengatakan: Di negeri kami ada sebuah kebiasaan, yaitu seseorang apabila mulai membangun rumahnya, ia menyembelih hewan ketika bangunan mencapai setengah, atau penyembelihan ini ditunda hingga bangunan selesai dan hendak menempati rumah tersebut. Untuk penyembelihan ini diundanglah kerabat dan tetangga. Bagaimana pendapat Anda yang mulia tentang perbuatan ini? Apakah ada amalan yang disyariatkan dan dianjurkan sebelum menempati rumah baru? Berilah kami fatwa, semoga Allah membalas Anda dengan balasan terbaik."
+  },
+  {
+   "id": "a0",
+   "text": "J: Segala puji bagi Allah, shalawat dan salam semoga tercurah kepada Rasulullah, kepada keluarganya, para sahabatnya, dan siapa saja yang mengikuti petunjuknya. Amma ba'du:\nPerbuatan ini perlu diperinci. Apabila maksud penyembelihan itu untuk menangkal jin atau maksud lain yang diinginkan pemilik rumah bahwa dengan penyembelihan ini akan tercapai ini dan itu, seperti keselamatan dirinya dan keselamatan penghuninya, maka ini tidak boleh, karena termasuk bid'ah. Apabila ditujukan untuk jin, maka itu syirik besar; karena merupakan ibadah kepada selain Allah.\nAdapun apabila penyembelihan itu dalam rangka bersyukur atas nikmat yang telah Allah berikan kepadanya berupa sampainya bangunan ke atap atau ketika rumah selesai, lalu ia mengumpulkan kerabat dan tetangganya dan mengundang mereka untuk walimah ini, maka hal itu tidak mengapa. Ini dilakukan oleh banyak orang dalam rangka bersyukur atas nikmat-nikmat Allah, di mana Allah telah menganugerahkan kepada mereka pembangunan rumah dan menempatinya sebagai ganti menyewa. Demikian pula yang dilakukan sebagian orang ketika datang dari safar, ia mengundang kerabat dan tetangganya sebagai rasa syukur kepada Allah atas keselamatan. Sesungguhnya Nabi ﷺ apabila datang dari safar, beliau menyembelih unta dan mengundang orang-orang untuk itu, 'alaihishshalatu wassalam⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Nur 'ala ad-Darb, kaset nomor 837. (Majmu' Fatawa wa Maqalat Syaikh Ibnu Baz 5/388)"
+  }
+ ]
+}

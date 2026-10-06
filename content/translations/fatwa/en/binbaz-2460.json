@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2460",
+ "source_content_sha256": "sha256:84a97d168c720b0de4302d6b26f166e1c80e4c9ddb5eeb31cc093859038a2b77",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:11:09.585902+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 912,
+  "completion_tokens": 582,
+  "total_tokens": 1494,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 656
+ },
+ "latency_ms": 5059,
+ "units": [
+  {
+   "id": "title",
+   "text": "The ruling on befriending and loving the disbelievers"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "You mentioned in one of your fatwas regarding the interpretation of the noble verse ⟦Q1⟧ [Al-Mujadilah:22] that whoever loves the disbelievers and befriends them is a disbeliever with disbelief that expels from the religion. I hope you clarify this, and does it refer to the disbelievers who are at war with the Muslims?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "Yes, whoever loves the disbelievers—the Jews, the Christians, and the polytheists—even if they are in a treaty and not at war, whoever loves them for their religion, is pleased with their religion, cooperates with them in the interests of their religion, and the like, then he is like them. However, if he loves certain people with a specific love because they gave him something, or because they are relatives, he loves them for their kinship, not for their religion, this is a major sin."
+  },
+  {
+   "id": "a2",
+   "text": "But if he loves them for their religion, their morals, and what they are upon, and prefers them over the Muslims, and believes that they are upon guidance and good, then this—and refuge is sought in Allah—is clear apostasy and manifest disbelief. We ask Allah for well-being; because alliance is of two types:"
+  },
+  {
+   "id": "a3",
+   "text": "Alliance meaning love, support, and backing them against the Muslims, being pleased with their religion and morals—this is major disbelief."
+  },
+  {
+   "id": "a4",
+   "text": "And sometimes a person may love some people due to kinship, or because she is his wife from the People of the Book, or because he is a relative whom he loves and supplicates for guidance, and the like, but he does not love their religion, nor is pleased with it, nor allies with them on account of it. This is deficient love, a specific love due to kinship or another connection. This love diminishes his religion and weakens it, and it is obligatory upon him to hate them for the sake of Allah and have enmity toward them for Allah, but it is not major apostasy; rather it is less than that. We ask Allah for safety."
+  }
+ ]
+}

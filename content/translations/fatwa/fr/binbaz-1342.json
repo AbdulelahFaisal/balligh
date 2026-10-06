@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1342",
+ "source_content_sha256": "sha256:e7ade7a901ec803693ac2a67b552ca98404d88660a3521bd9022121fc60960dc",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:56:21.534851+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 830,
+  "completion_tokens": 623,
+  "total_tokens": 1453,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 574
+ },
+ "latency_ms": 6294,
+ "units": [
+  {
+   "id": "title",
+   "text": "L'immolation au milieu de la construction ou à son achèvement"
+  },
+  {
+   "id": "q0",
+   "text": "Question d'un frère soudanais : Dans notre pays, il existe une coutume : lorsqu'une personne commence à construire sa maison, elle immole une bête lorsque la construction atteint la moitié, ou bien cette immolation est différée jusqu'à l'achèvement du bâtiment et le désir de l'habiter. On invite alors à cette immolation les proches et les voisins. Quel est l'avis de Votre Éminence sur cette pratique ? Y a-t-il une action prescrite qu'il est recommandé d'accomplir avant d'habiter une nouvelle maison ? Éclairez-nous, qu'Allah vous récompense par la meilleure des récompenses."
+  },
+  {
+   "id": "a0",
+   "text": "Réponse : Louange à Allah, que la prière et le salut soient sur le Messager d'Allah, ainsi que sur sa famille, ses Compagnons et ceux qui suivent sa guidance. Cela dit :\nCette pratique mérite d'être détaillée. Si le but de l'immolation est de se prémunir contre les djinns ou un autre objectif par lequel le propriétaire de la maison vise à obtenir telle ou telle chose, comme sa propre sécurité et celle des habitants, cela n'est pas permis, car c'est une innovation. Et si c'est pour les djinns, c'est un polythéisme majeur, car c'est une adoration vouée à un autre qu'Allah.\nMais si c'est par gratitude pour le bienfait qu'Allah lui a accordé en atteignant le toit ou à l'achèvement de la maison, qu'il réunit alors ses proches et ses voisins et les invite à ce banquet, cela est sans inconvénient. Beaucoup de gens le font par gratitude pour les bienfaits d'Allah, puisqu'Il leur a permis de construire une maison et de l'habiter au lieu de la louer. De même, certains, au retour d'un voyage, invitent leurs proches et voisins en remerciement à Allah pour le salut, car le Prophète ﷺ, lorsqu'il revenait de voyage, égorgeait une chamelle et invitait les gens à cela, paix et salut sur lui⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Nour 'ala ad-darb, cassette n° 837. (Majmu' fatawa wa maqalat du cheikh Ibn Baz, 5/388)"
+  }
+ ]
+}

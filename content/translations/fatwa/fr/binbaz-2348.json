@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2348",
+ "source_content_sha256": "sha256:c90bd2037259d48dce104f0eedd4d04efdd1418980f82a3112746e0c971fa55b",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:11:05.192945+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 838,
+  "completion_tokens": 725,
+  "total_tokens": 1563,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 582
+ },
+ "latency_ms": 6142,
+ "units": [
+  {
+   "id": "title",
+   "text": "Ceux qui nient l’existence de Dieu : cela signifie-t-il qu’ils nient la Seigneurie ?"
+  },
+  {
+   "id": "q0",
+   "text": "Q : Les communistes et les athées de notre époque nient l’existence de Dieu. N’est-ce pas considéré comme une négation de l’unicité de la Seigneurie, contrairement à ce qu’ont dit certains gens de science, à savoir qu’aucun mécréant n’a nié l’unicité de la Seigneurie ?"
+  },
+  {
+   "id": "a0",
+   "text": "R : Les savants ont mentionné que l’unicité de la Seigneurie est une chose reconnue par les nations, et que seuls des individus isolés, dont on ne tient pas compte, l’ont niée. Parmi eux figurent les mazdéens, qui ont dit qu’il y a deux divinités : la lumière et les ténèbres, que la lumière est supérieure aux ténèbres et qu’elle a créé le bien, tandis que les ténèbres ont créé le mal. Quant à la négation totale des divinités, c’est ce qu’a dit l’obstiné Pharaon. De même, les philosophes anciens et les athées sont connus pour considérer les sphères célestes comme des divinités, et qu’elles ont leur mouvement connu. Cependant, la majorité des polythéistes et le commun des gens reconnaissent le Seigneur, qu’il existe un Seigneur qui a créé et qui pourvoit, et qu’Il est en haut. Ils ne s’approchent de Lui qu’à travers les actes polythéistes qu’ils commettent.\nLes mécréants de Quraysh ont nié la résurrection, tout en reconnaissant qu’Allah est leur Seigneur et leur Créateur, mais ils ont associé dans l’adoration et nié la résurrection. Ils ont dit : « Il n’y a que notre vie terrestre ; nous mourons et nous vivons. » Ils ont nié le Paradis et l’Enfer. Alors Allah a envoyé Muhammad ﷺ à eux et aux autres, parmi les djinns et les humains, pour les guider vers la vérité et leur montrer la fausseté de ce sur quoi ils étaient. Ceux à qui Allah voulait le bonheur l’ont suivi, et la plupart ont mécru en lui, comme ils ont mécru en d’autres messagers, paix et salut sur eux. Comme Allah le Très-Haut a dit : ⟦Q1⟧ [Youssouf : 103] et le Très-Haut a dit : ⟦Q2⟧ [Saba’ : 20]. Les versets dans ce sens sont nombreux⟦N3⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmou‘ fatâwâ wa maqâlât al-Cheikh Ibn Bâz (9/74)."
+  }
+ ]
+}

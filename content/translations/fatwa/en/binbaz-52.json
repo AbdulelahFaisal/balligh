@@ -1,0 +1,60 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-52",
+ "source_content_sha256": "sha256:088565861bd88501ccc22bcac10aa975b31c4ef168294b24e4b1f01a3e42c7bc",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:19:57.125796+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 974,
+  "completion_tokens": 689,
+  "total_tokens": 1663,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 718
+ },
+ "latency_ms": 5288,
+ "units": [
+  {
+   "id": "title",
+   "text": "Conditions of Saying La ilaha illa Allah"
+  },
+  {
+   "id": "q0",
+   "text": "Question: What are the conditions of saying La ilaha illa Allah? Does merely uttering it suffice without understanding its meaning and what it entails?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer: \"La ilaha illa Allah\" is the best of speech, and it is the foundation of the religion and the basis of the creed. It is what the Messengers (peace and blessings be upon them) began with when calling their people. The first thing the Messenger began with his people was to say: 'Say La ilaha illa Allah and you will succeed.' Allah says: ⟦Q1⟧ [Al-Anbiya:25] And every Messenger said to his people: ⟦Q2⟧ [Al-A'raf:59] Thus it is the foundation of the religion and the creed. The one who says it must know its meaning: it means that there is no deity worthy of worship except Allah. It has conditions: knowledge of its meaning, certainty without any doubt about its truth, sincerity to Allah alone, truthfulness with heart and tongue, love for what it entails of sincerity to Allah and acceptance of that, submission to Him, and singling Him out for worship, and renouncing shirk (associating partners) with Him, along with disavowal of worship of anything else and belief in its falsehood. All of this is from the conditions of saying La ilaha illa Allah and the soundness of its meaning. The believing man and woman say it while disavowing worship of other than Allah, submitting to the truth and accepting it, loving Allah and singling Him out, being sincere to Him, and having no doubt in its meaning. Some people say it but do not believe in it, like the hypocrites who say it while having doubt or denial. So knowledge, certainty, truthfulness, sincerity, love, submission, acceptance, and disavowal are necessary. Some have combined its conditions in two verses, saying:"
+  },
+  {
+   "id": "a1",
+   "text": "Knowledge, certainty, sincerity, and your truthfulness, along with"
+  },
+  {
+   "id": "a2",
+   "text": "Love and submission and acceptance of it"
+  },
+  {
+   "id": "a3",
+   "text": "And its eighth they added: your rejection of everything"
+  },
+  {
+   "id": "a4",
+   "text": "Other than the deity among things that has been deified"
+  },
+  {
+   "id": "a5",
+   "text": "And may Allah's peace and blessings be upon our Prophet Muhammad and his family and companions⟦N3⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Published in Majallat al-Da'wah, issue 1018, Monday 29/3/1407 AH. (Majmu' Fatawa wa Maqalat al-Shaykh Ibn Baz 3/49)"
+  }
+ ]
+}

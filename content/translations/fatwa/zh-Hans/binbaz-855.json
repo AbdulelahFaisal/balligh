@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-855",
+ "source_content_sha256": "sha256:3b9a416061780103260d93a443694faa030fa741b19c0a874e43cc150360e756",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:24:24.272926+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 630,
+  "completion_tokens": 305,
+  "total_tokens": 935,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 374
+ },
+ "latency_ms": 3875,
+ "units": [
+  {
+   "id": "title",
+   "text": "真主用什么创造了天使和易卜劣厮？"
+  },
+  {
+   "id": "q0",
+   "text": "问：真主确已用泥土创造了阿丹，在创造他之前创造了天使，易卜劣厮当时在天使之中，真主用火创造了他。为什么用火创造他呢？真主用什么创造了天使？"
+  },
+  {
+   "id": "a0",
+   "text": "答：据阿伊莎（愿主喜悦之）传述的圣训，真主的使者ﷺ确已说：“天使是从光上被造的，精灵是从无烟的火上被造的，阿丹是用真主为你们描述的材料（即泥土）造的。”穆斯林在其《圣训实录》中辑录了此段圣训。\n至于其中的哲理，真主——赞他清净与崇高——最知道，他对于他所创造和所规定的万物是至睿的、全知的，没有人能更改他的判决，也没有人能驳回他的决定。他对于万事确是全能的⟦N1⟧。"
+  },
+  {
+   "id": "n0.0",
+   "text": "发表于阿拉伯杂志“请询问有学识的人”栏目。（谢赫伊本·巴兹的法特瓦和文章集：4/154）。"
+  }
+ ]
+}

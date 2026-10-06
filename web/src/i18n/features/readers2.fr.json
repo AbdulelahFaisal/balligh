@@ -4,5 +4,8 @@
   "helpQuestion": "Expliquez clairement en français la question et la réponse de cette fatwa. Il s’agit d’une explication, pas d’une traduction.",
   "aiAssisted": "Traduction assistée par IA",
   "showArabic": "Afficher l'original arabe",
-  "publishedMeaning": "Traduction publiée du sens"
+  "publishedMeaning": "Traduction publiée du sens",
+  "aiAvailableIn": "Une traduction assistée par IA de cette fatwa est disponible dans ces langues :",
+  "readingHintTranslated": "L’original arabe est disponible sous « {{label}} ».",
+  "notesTitle": "Notes"
 }

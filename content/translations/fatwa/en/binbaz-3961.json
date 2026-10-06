@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3961",
+ "source_content_sha256": "sha256:2330a9b3270c3283d95fbdd01d7d693d6bb09fad5c27d43d10f68da35dad3557",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:19:28.961169+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1102,
+  "completion_tokens": 846,
+  "total_tokens": 1948,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 846
+ },
+ "latency_ms": 5887,
+ "units": [
+  {
+   "id": "title",
+   "text": "The necessary time for the Zuhr, Asr, and Maghrib prayers"
+  },
+  {
+   "id": "q0",
+   "text": "Q: The questioner, Y. A. from Khartoum, Republic of Sudan, says: I hope you will inform me about the necessary time for each of the Zuhr, Asr, and Maghrib prayers."
+  },
+  {
+   "id": "a0",
+   "text": "A: As for Zuhr, it does not have a necessary time. Rather, all of its time is optional. When the sun passes its zenith, the time of Zuhr begins, and the time remains optional until the shadow of every object becomes equal to its length after the shadow cast by the sun's decline. All of this is an optional time, but the best is to offer it at the beginning of its time after the adhan and the regular Sunnah prayer, and the imam should delay a little so that the people can catch up. This is best.\nAs for Asr, it has an optional time and a necessary time. The optional time is from the beginning of the time until the sun turns yellow. When the sun turns yellow, that is the time of necessity until the sun sets, and it is not permissible to delay until that time. If one prays it during that time, he has performed it within the time, but it is not permissible to delay, because the Prophet ﷺ said: \"The time of Asr is as long as the sun has not turned yellow.\" And he said about the hypocrite: \"That is the prayer of the hypocrite, that is the prayer of the hypocrite. He watches the sun until it is between the horns of Satan, then he stands and pecks four times, not remembering Allah in them except a little.\" So the Prophet ﷺ mentioned that delaying is a characteristic of the hypocrites. The believer does not delay Asr until the sun turns yellow; rather, he hastens and prays it before the sun turns yellow, within the optional time.\nAs for Maghrib, all of its time is also optional, from sunset until the disappearance of the twilight. All of this is an optional time, but offering it at the beginning of its time is best, because the Prophet ﷺ used to pray it at the beginning of its time. When the sun set and the muezzin gave the adhan, he would delay a little, then he would give the iqamah and pray it at the beginning of the time. If one delays it a little, there is no harm, as long as he performs it within its time. Its time ends with the disappearance of the twilight, which is the redness in the western horizon. When the twilight disappears, the time of Maghrib ends and the time of Isha begins until midnight. What is after midnight is the necessary time for Isha, so it is not permissible to delay until after midnight. However, the period from the disappearance of the twilight to midnight is all an optional time for Isha. If one prays it after midnight, he has performed it within the time but is sinful because he delayed it to the time of necessity.\nAs for Fajr, all of its time is optional, from the break of dawn until sunrise. All of this is an optional time, but the best is to offer it at the beginning of its time and not delay it beyond the beginning, following the example of the Prophet ﷺ in that, because he used to pray it in the darkness after the dawn became clear.\nAnd Allah is the Granter of success⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Program Noor 'ala al-Darb, cassette no. 51. (Majmu' Fatawa wa Maqalat al-Shaykh Ibn Baz 10/383)."
+  }
+ ]
+}

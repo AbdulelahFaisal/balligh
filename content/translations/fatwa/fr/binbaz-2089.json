@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2089",
+ "source_content_sha256": "sha256:e675c38fd856136f56e9837afd01ad537022c07febf227c5c56de06f282e3d8f",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:09:16.798804+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 562,
+  "completion_tokens": 311,
+  "total_tokens": 873,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 306
+ },
+ "latency_ms": 3633,
+ "units": [
+  {
+   "id": "title",
+   "text": "Harout et Marout sont-ils des anges ou des humains ?"
+  },
+  {
+   "id": "q0",
+   "text": "Q : Harout et Marout sont-ils des anges ou des humains ? Veuillez indiquer l’avis prépondérant parmi les savants à ce sujet."
+  },
+  {
+   "id": "a0",
+   "text": "R : Les savants ont divergé à ce sujet. L’avis le plus apparent est qu’il s’agit de deux anges descendus comme épreuve et test, comme Allah, Puissant et Majestueux, dit : ⟦Q1⟧, verset [Al-Baqara : 102]. Certains gens de science ont dit : ce sont deux rois parmi les fils d’Adam par qui les gens ont été éprouvés. Le premier avis est le plus apparent. Selon cet avis, la lecture se fait avec un fatha sur le lam (malakân), et selon le second avec un kasra (malikân)⟦N2⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmû‘ Fatâwâ wa Maqâlât du Cheikh Ibn Bâz (8/115)."
+  }
+ ]
+}

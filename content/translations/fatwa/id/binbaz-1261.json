@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1261",
+ "source_content_sha256": "sha256:afd3831973d8ed4a07493fe90cb6f278e7db0f4402f1e19c46fb683597c7d415",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:54:29.116075+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 750,
+  "completion_tokens": 589,
+  "total_tokens": 1339,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 494
+ },
+ "latency_ms": 6312,
+ "units": [
+  {
+   "id": "title",
+   "text": "Ketaatan kepada ayah dalam hal yang ma'ruf"
+  },
+  {
+   "id": "q0",
+   "text": "Tanya: Saudara R. A. M dari Republik Arab Mesir, setelah mengucapkan salam kepada Yang Mulia, bertanya tentang perbuatan ayahnya yang menyalahi syariat dan adab-adabnya, dan apa yang wajib ia lakukan terhadap ayahnya dalam keadaan seperti ini?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawab: Wa'alaikumussalam wa rahmatullah wa barakatuh. Amma ba'du: Kami memohon kepada Allah semoga ayahmu mendapat hidayah dan dianugerahi taubat. Kami nasehatkan kepadamu untuk bersikap lemah lembut kepadanya, menasehatinya dengan cara yang baik, dan jangan berputus asa dari hidayah baginya, berdasarkan firman Allah Subhanahu: ⟦Q1⟧ ayat tersebut [Luqman:14-15]. Allah Subhanahu berwasiat agar bersyukur kepada kedua orang tua bersamaan dengan bersyukur kepada-Nya, dan memerintahkan anak untuk mempergauli keduanya di dunia dengan cara yang ma'ruf meskipun keduanya memaksanya untuk kafir kepada Allah. Dengan demikian engkau mengetahui bahwa yang disyariatkan bagimu adalah mempergauli ayahmu dengan cara yang ma'ruf, berbuat baik kepadanya meskipun ia berbuat buruk kepadamu, dan bersungguh-sungguh mendakwahinya kepada kebenaran semoga Allah memberinya hidayah melalui perantaramu. Dan tidak halal bagimu menaatinya dalam kemaksiatan. Kami juga menasehatkan kepadamu untuk memohon pertolongan dalam menghidayahinya kepada Allah Azza wa Jalla kemudian kepada orang-orang baik dari kerabatmu seperti paman-pamanmu dan selain mereka yang dihormati dan disegani oleh ayahmu, semoga ia menerima nasehat mereka. Kami memohon kepada Allah untuk kami, engkau, dan dia agar diberi hidayah dan taufik untuk bertaubat nasuha. Sesungguhnya Dia Maha Mendengar lagi Maha Dekat.⟦N2⟧ Wassalamu'alaikum wa rahmatullah wa barakatuh."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu' Fatawa wa Maqalat Syaikh Ibnu Baz (5/354)."
+  }
+ ]
+}

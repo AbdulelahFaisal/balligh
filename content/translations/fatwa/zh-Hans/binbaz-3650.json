@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3650",
+ "source_content_sha256": "sha256:a8b10da16fbe6543e86930bc72fa558f140ce2f9b71295b39eaf494ccd05c8c4",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:17:06.893831+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 502,
+  "completion_tokens": 178,
+  "total_tokens": 680,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 246
+ },
+ "latency_ms": 3318,
+ "units": [
+  {
+   "id": "title",
+   "text": "浓密胡须者是否必须让水到达发根？"
+  },
+  {
+   "id": "q0",
+   "text": "问：浓密胡须者是否必须让水到达发根？"
+  },
+  {
+   "id": "a0",
+   "text": "答：他只需让水流过胡须即可，正确的圣训已证明了这一点。如果他梳理胡须，则更好。先知ﷺ有时这样做，有时那样做⟦N1⟧。"
+  },
+  {
+   "id": "n0.0",
+   "text": "摘自《光明之路》节目，（《伊本·巴兹教法判例与文章全集》10/99）。"
+  }
+ ]
+}

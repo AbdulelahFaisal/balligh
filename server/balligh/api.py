@@ -14,7 +14,10 @@ from . import __version__
 from .assistant import AssistantService, assistant_router, load_site_help
 from .config import LOCALES, MAX_IMPORT_BYTES, PRODUCT_PROVIDER, RTL_LOCALES, Settings, load_settings
 from .export_html import render_lesson_html
+from .fatwa_translation import machine_counts as fatwa_machine_counts
+from .fatwa_translation import machine_locales as fatwa_machine_locales
 from .fatwa_translation import machine_translation as fatwa_machine_translation
+from .fatwa_translation import sidecar_title
 from .fatwa_translation import published_resolver
 from .hashing import lesson_hash
 from .ledger import Ledger
@@ -119,6 +122,7 @@ def create_app(
 
     library = Library(settings.content_dir / "library")
     translations_root = settings.content_dir / "translations" / "fatwa"
+    app_translations_root = translations_root
     assistant = AssistantService(
         settings=settings,
         library=library,
@@ -132,6 +136,7 @@ def create_app(
     app = FastAPI(title="Balligh", version=__version__, docs_url=None, redoc_url=None)
     app.state.generation = service
     app.state.library = library
+    app.state.fatwa_translations = app_translations_root
     app.state.assistant = assistant
     api = APIRouter(prefix="/api")
 
@@ -205,7 +210,14 @@ def create_app(
 
     @api.get("/library")
     def library_summary() -> dict[str, Any]:
-        return read_library(library.summary)
+        data = read_library(library.summary)
+        fatwa = data.get("collections", {}).get("fatwa")
+        if isinstance(fatwa, dict) and fatwa.get("available"):
+            try:  # valid AI-assisted sidecars per language; `locales` stays the publisher's own count
+                fatwa["machine_translations"] = fatwa_machine_counts(translations_root, library._all("fatwa").values())
+            except SnapshotError:
+                pass
+        return data
 
     @api.get("/library/quran")
     def library_quran() -> dict[str, Any]:
@@ -226,7 +238,42 @@ def create_app(
     def library_fatwas(
         topic: Optional[str] = None, q: Optional[str] = None, locale: str = "ar", page: int = 1, page_size: int = 20
     ) -> dict[str, Any]:
-        return listing("fatwa", topic, q, locale, page, page_size)
+        if locale == "ar":
+            return listing("fatwa", topic, q, locale, page, page_size)
+
+        def fatwa_record(rid: str) -> dict[str, Any]:
+            return library.record("fatwa", rid, "ar")["record"]
+
+        def with_titles(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
+            for item in items:  # AI-assisted sidecar titles are shown beside the Arabic original, never stored in it
+                title = sidecar_title(translations_root, fatwa_record(item["id"]), locale)
+                item["machine_translated"] = title is not None
+                if title is not None and not item.get("translated_title"):
+                    item["translated_title"] = title
+            return items
+
+        needle = (q or "").strip().casefold()
+        if not needle:
+            data = listing("fatwa", topic, q, locale, page, page_size)
+            with_titles(data["items"])
+            return data
+
+        def every(query: Optional[str]) -> tuple[dict[str, Any], list[dict[str, Any]]]:
+            first = listing("fatwa", topic, query, locale, 1, 50)
+            items, n = list(first["items"]), 1
+            while len(items) < first["total"]:
+                n += 1
+                items += listing("fatwa", topic, query, locale, n, 50)["items"]
+            return first, items
+
+        first, arabic = every(q)  # matches in the Arabic text, then matches in a valid translated title
+        found = {item["id"] for item in arabic}
+        extra = [i for i in with_titles(every(None)[1]) if i["id"] not in found and needle in (i.get("translated_title") or "").casefold()]
+        merged = with_titles(arabic) + extra
+        if page < 1 or not 1 <= page_size <= 50:
+            return listing("fatwa", topic, q, locale, page, page_size)
+        start = (page - 1) * page_size
+        return {**first, "total": len(merged), "page": page, "page_size": page_size, "items": merged[start : start + page_size]}
 
     @api.get("/library/fatwas/{record_id}")
     def library_fatwa(record_id: str, locale: str = "ar") -> dict[str, Any]:
@@ -238,6 +285,7 @@ def create_app(
             fatwa_machine_translation(translations_root, rec, locale, published_resolver(quran_dir, rec, locale))
             if locale != "ar" else None
         )
+        data["machine_locales"] = fatwa_machine_locales(translations_root, rec)
         return data
 
     @api.get("/library/hadith")

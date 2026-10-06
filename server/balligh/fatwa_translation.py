@@ -11,12 +11,30 @@ import os
 import re
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Any, Optional
+from typing import Any, Iterable, Optional
 
 from .config import LOCALE_NAMES
 
 SCHEMA = "balligh.fatwa-translation/1"
-PROMPT_VERSION = "fatwa-translate-1"
+PROMPT_VERSION = "fatwa-translate-2"
+# fatwa-translate-1 artifacts stay valid only for records whose translation input is unchanged by version 2,
+# that is, records without any publisher honorific symbol. Records with a symbol must be regenerated.
+COMPATIBLE_WITHOUT_SYMBOLS = frozenset({"fatwa-translate-1"})
+# The four verified Ibn Baz publisher symbols (private-use code points) and their Arabic phrases; the same mapping
+# the reader displays (web/src/lib/library.ts HONORIFIC_GLYPHS). Used in the translation INPUT only.
+HONORIFICS = {"\uf049": "سبحانه وتعالى", "\uf055": "عز وجل", "\uf074": "رضي الله عنه", "\uf079": "رضي الله عنهم"}
+_SYMBOL = re.compile("[\uf049\uf055\uf074\uf079]")
+
+
+def normalize_input(text: str) -> str:
+    """Spell out the verified honorific symbols for the model; the stored publisher record is never changed."""
+    if not _SYMBOL.search(text):
+        return text
+    return re.sub(r"[ \t]{2,}", " ", _SYMBOL.sub(lambda m: f" {HONORIFICS[m.group(0)]} ", text))
+
+
+def has_symbols(record: dict[str, Any]) -> bool:
+    return bool(_SYMBOL.search(json.dumps([record.get("title"), record.get("question"), record.get("answer"), record.get("notes")], ensure_ascii=False)))
 LOCALES = ("en", "ur", "zh-Hans", "id", "bn", "fr")
 TOKEN = re.compile(r"⟦([QN])(\d+)⟧")
 REVIEW_STATUS = "ai_generated_not_item_reviewed"
@@ -27,7 +45,10 @@ SYSTEM = (
     "number, name and attribution exactly; never summarize, shorten, omit, soften or add anything. Tokens such as "
     "⟦Q1⟧ stand for Quran quotations and tokens such as ⟦N1⟧ for footnote markers: copy every token exactly once and "
     "unchanged at the matching place, and never write any Quran text or a translation of it. Translate hadith "
-    "quotations faithfully. Keep Islamic terms recognisable: the first time, give the usual transliteration with a "
+    "quotations faithfully. A phrase that introduces a Quran token, such as «قال تعالى», «قال الله», «قال سبحانه» or "
+    "«وقال عز وجل», attributes the quotation to Allah: keep exactly that attribution, and never attribute a Quran "
+    "quotation to the Prophet or to anyone the Arabic does not name. «عز وجل» and «سبحانه وتعالى» are said of Allah; "
+    "«رضي الله عنه» and «رضي الله عنهم» of the Companions. Keep Islamic terms recognisable: the first time, give the usual transliteration with a "
     "short meaning in parentheses when it helps (for example: zakah (obligatory almsgiving)). Return JSON only, in "
     'the form {{"units": [{{"id": "<id>", "text": "<translation>"}}]}} with exactly the same ids in the same order.'
 )
@@ -47,7 +68,7 @@ def _paragraph_units(prefix: str, paragraphs: list[Any], counter: list[int], tok
                 tokens[tok] = run
                 parts.append(tok)
             else:
-                parts.append(str(run.get("text", "")))
+                parts.append(normalize_input(str(run.get("text", ""))))
         text = "".join(parts)
         if text.strip():
             out.append({"id": f"{prefix}{i}", "text": text})
@@ -67,7 +88,7 @@ def record_units(record: dict[str, Any]) -> tuple[list[dict], dict[str, dict]]:
     """Translation units in reading order, and the token → original run map."""
     tokens: dict[str, dict] = {}
     counter = [0]
-    units = [{"id": "title", "text": str(record.get("title", ""))}]
+    units = [{"id": "title", "text": normalize_input(str(record.get("title", "")))}]
     units += _paragraph_units("q", record.get("question") or [], counter, tokens)
     units += _paragraph_units("a", record.get("answer") or [], counter, tokens)
     for n, note in enumerate(record.get("notes") or []):
@@ -146,18 +167,46 @@ def write_artifact(root: Path, record: dict[str, Any], locale: str, units: dict[
     return path
 
 
+def policy_ok(version: Any, record: dict[str, Any]) -> bool:
+    return version == PROMPT_VERSION or (version in COMPATIBLE_WITHOUT_SYMBOLS and not has_symbols(record))
+
+
 def valid_artifact(root: Path, record: dict[str, Any], locale: str) -> Optional[dict[str, Any]]:
     """The stored artifact if it still matches this record, locale and prompt policy, else None (never raises)."""
     try:
         doc = json.loads(artifact_path(root, locale, record["id"]).read_text(encoding="utf-8"))
         if (doc.get("schema") != SCHEMA or doc.get("record_id") != record["id"] or doc.get("locale") != locale
                 or doc.get("source_content_sha256") != record.get("content_sha256")
-                or doc.get("prompt_version") != PROMPT_VERSION):
+                or not policy_ok(doc.get("prompt_version"), record)):
             return None
         check_units(record, doc.get("units"))  # the same checks as at creation (G5-E)
         return doc
     except (OSError, ValueError, KeyError, TypeError, AttributeError):
         return None
+
+
+# The citation that follows a Quran quotation belongs to the publisher's text. Models misread or rename it (the surah
+# «ص» became "page 5"; a Chinese label named another surah), so the served text always carries the original citation.
+_CITED = re.compile(r"\s*(\[[^\]:\n]{1,40}:[^\]\n]{1,40}\])")
+_WRITTEN = re.compile(r"\s*([\[(（［〔【][^\])）］〕】\n]{1,80}[\])）］〕】])")
+_ANY_DIGIT = re.compile(r"[0-9\u0660-\u0669\u06f0-\u06f9\u09e6-\u09ef]")
+
+
+def restore_citations(source: str, translated: str) -> str:
+    """After each Quran token, show the publisher's own citation (e.g. [ص:5]) inside a bidi isolate."""
+    for m in TOKEN.finditer(source):
+        if m.group(1) != "Q":
+            continue
+        cited = _CITED.match(source, m.end())
+        at = translated.find(m.group(0))
+        if cited is None or at < 0:
+            continue
+        end = at + len(m.group(0))
+        written = _WRITTEN.match(translated, end)
+        if written is not None and not _ANY_DIGIT.search(written.group(1)):
+            written = None  # a bracket without a verse number is not a citation: keep it and add the publisher's
+        translated = translated[:end] + " \u2068" + cited.group(1) + "\u2069" + translated[(written.end() if written else end):]
+    return translated
 
 
 def _rebuild(text: str, tokens: dict[str, dict], published) -> list[dict]:
@@ -186,18 +235,21 @@ def machine_translation(root: Path, record: dict[str, Any], locale: str, publish
         return None
     units, tokens = record_units(record)
     text = {u["id"]: u["text"] for u in doc["units"]}
+    source = {u["id"]: u["text"] for u in units}
     sections: dict[str, Any] = {"question": [], "answer": [], "notes": []}
     for u in units:
         uid = u["id"]
         if uid == "title":
             continue
-        runs = _rebuild(text[uid], tokens, published)
+        runs = _rebuild(restore_citations(source[uid], text[uid]), tokens, published)
         if uid.startswith("q"):
             sections["question"].append(runs)
         elif uid.startswith("a"):
             sections["answer"].append(runs)
         else:
-            note = uid[1:].split(".")[0]
+            index = int(uid[1:].split(".")[0])
+            source_note = (record.get("notes") or [])[index]
+            note = str(source_note.get("id", index)) if isinstance(source_note, dict) else str(index)
             if not sections["notes"] or sections["notes"][-1]["id"] != note:
                 sections["notes"].append({"id": note, "paragraphs": []})
             sections["notes"][-1]["paragraphs"].append(runs)
@@ -274,3 +326,36 @@ def published_resolver(quran_dir: Path, record: dict[str, Any], locale: str):
         return {"surah": surah, "ayah": ref[1], "text": text, "footnotes": tr.get("footnotes") or "", "edition": edition}
 
     return resolve
+
+
+def sidecar_title(root: Path, record: dict[str, Any], locale: str) -> Optional[str]:
+    """The AI-assisted title for a record and locale when a valid artifact exists; never a publisher translation."""
+    doc = valid_artifact(root, record, locale)
+    if doc is None:
+        return None
+    return next((u["text"] for u in doc["units"] if u["id"] == "title"), None)
+
+
+def machine_locales(root: Path, record: dict[str, Any]) -> list[str]:
+    return [loc for loc in LOCALES if valid_artifact(root, record, loc) is not None]
+
+
+_COUNTS: dict[tuple[str, str], tuple[tuple[int, int, int], int]] = {}
+
+
+def machine_counts(root: Path, records: Iterable[dict[str, Any]]) -> dict[str, int]:
+    """Records with a valid AI-assisted translation per locale; recounted only when that locale's folder changes."""
+    records = list(records)
+    out: dict[str, int] = {}
+    for loc in LOCALES:
+        try:
+            stats = [e.stat() for e in os.scandir(root / loc) if e.name.endswith(".json")]
+        except OSError:
+            out[loc] = 0
+            continue
+        sig = (len(stats), max((st.st_mtime_ns for st in stats), default=0), sum(st.st_size for st in stats))
+        key = (str(root), loc)
+        if key not in _COUNTS or _COUNTS[key][0] != sig:
+            _COUNTS[key] = (sig, sum(1 for rec in records if valid_artifact(root, rec, loc) is not None))
+        out[loc] = _COUNTS[key][1]
+    return out

@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3581",
+ "source_content_sha256": "sha256:f77751c0a9785b60d9264d66cb9d84275f65dbceb3bf9c4dc95910f858a98720",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:16:08.265824+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 788,
+  "completion_tokens": 437,
+  "total_tokens": 1225,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 532
+ },
+ "latency_ms": 3985,
+ "units": [
+  {
+   "id": "title",
+   "text": "Ruling on ablution with water mixed with chlorine"
+  },
+  {
+   "id": "q0",
+   "text": "Q: A female questioner says: In our country, drinking water is often mixed with chlorine as a purifier, a substance that changes the color and taste of the water. Does this affect its ability to purify the one performing ablution? Please advise us, may Allah reward you."
+  },
+  {
+   "id": "a0",
+   "text": "A: Changes in water caused by pure substances or by medicines placed in it to prevent harm to people, as long as the name of water remains, do not affect it, even if some change occurs, like when it changes due to algae growing in it, tree leaves, soil that settles in it, or the like. All of this does not harm it; it remains purifying as it is. It is only affected if it changes by something that removes the name of water, making it something else, such as milk being poured into water until it changes and becomes milk, tea, or broth, leaving the name of water. In that case, ablution with it is not valid because it has left the name of water to another name. As long as the name of water remains, even if some pure substance such as soil, straw, or the like falls into it without removing the name of water, it does not harm it. However, impurities spoil it if its taste, color, or smell changes, or if it is a small amount that is affected by impurity even if the impurity does not appear in it, then it becomes spoiled and it is not permissible to use it⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Program Nūr ‘alā al-Darb, cassette no. 109, (Majmū‘ Fatāwā wa Maqālāt al-Shaykh Ibn Bāz 10/19)."
+  }
+ ]
+}

@@ -50,7 +50,7 @@
     "prepareBody": "Pour les enseignants : choisissez une source enregistrée, vérifiez le brouillon par rapport à elle, puis prévisualisez et téléchargez.",
     "prepareCta": "Préparer une leçon"
   },
-  "coverage": "L'interface existe en 7 langues ; la couverture du contenu diffère : les questions-réponses sont des documents publiés uniquement en arabe, les traductions des hadiths varient selon le document, et les sens du Coran proviennent de six éditions publiées nommées.",
+  "coverage": "L'interface existe en 7 langues ; la couverture du contenu diffère : les questions-réponses sont publiées en arabe avec des traductions assistées par IA lorsqu'elles existent, les traductions des hadiths varient selon le document, et les sens du Coran proviennent de six éditions publiées nommées.",
   "kinds": "Une traduction publiée provient de son éditeur nommé. Un brouillon IA est un texte généré non vérifié. Une validation locale indique seulement qu'un préparateur sur cet appareil a comparé un brouillon à sa source.",
   "page": {
     "title": "Commencer à apprendre",

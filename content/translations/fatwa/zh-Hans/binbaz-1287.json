@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1287",
+ "source_content_sha256": "sha256:399a2298ca7f092e8e1d6e7daf084d9afa2833af48bfcbe02f1582a03e3bb953",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:55:32.535850+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 714,
+  "completion_tokens": 326,
+  "total_tokens": 1040,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 458
+ },
+ "latency_ms": 3867,
+ "units": [
+  {
+   "id": "title",
+   "text": "因妻子懒惰而休妻的教法规定"
+  },
+  {
+   "id": "q0",
+   "text": "问题："
+  },
+  {
+   "id": "q1",
+   "text": "我的妻子履行所有宗教义务，但她因一些家务而受到指责，甚至会因此生气，有些家务她只在生气时才做，因为她习惯了懒惰。我可以休她吗？"
+  },
+  {
+   "id": "a0",
+   "text": "回答："
+  },
+  {
+   "id": "a1",
+   "text": "你应该忍耐，如果她是善良的、有教门的，即使她有些懒惰，你也应该忍耐。你自己也有些懒惰，没有人是完美的。你应该和善，并在家务上帮助她。先知（愿主福安之）曾帮助他的家人做家务，他是最优秀的人，他在家中帮助家人处理家务。"
+  },
+  {
+   "id": "a2",
+   "text": "所以你要帮助她，不要雇女佣。帮助她，这样你就不需要女佣了。帮助她做她力所不及的家务。她可能有孩子使她疲惫，你在家务上帮助她，用温和的话语鼓励她工作，而不是说“你这个坏女人、荡妇、某某的女儿、某某的母亲，去做这个”之类的话。应该说“愿安拉使你健康，愿安拉喜悦你，请你做这个”等好话。"
+  }
+ ]
+}

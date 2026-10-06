@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-16",
+ "source_content_sha256": "sha256:47c671963afd41d11f8172c53dd4339546abeacabeebb7ea752e630279315092",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:59:37.640773+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1489,
+  "completion_tokens": 1207,
+  "total_tokens": 2696,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 1233
+ },
+ "latency_ms": 10190,
+ "units": [
+  {
+   "id": "title",
+   "text": "Ruling on saying: adopting the names and attributes of Allah as one’s own character"
+  },
+  {
+   "id": "q0",
+   "text": "From ʿAbd al-ʿAzīz ibn ʿAbd Allāh ibn Bāz to the honorable brother, may Allah keep him safe and care for him.\nPeace be upon you, and the mercy of Allah and His blessings. To proceed:\nYour noble letter dated 23/3/1386 AH has arrived—may Allah guide you—and what it contained of the question about what some preachers said in the Friday sermon urging people to adopt the attributes of Allah and to take on His characteristics: does it have a valid interpretation, and has anyone previously said it… etc., is understood?"
+  },
+  {
+   "id": "a0",
+   "text": "The answer: This expression is not appropriate, but it has a sound interpretation, which is urging people to adopt what the attributes and names of Allah entail and require, by considering the attributes that are good for a created being to embody, as opposed to the attributes that are exclusive to Allah, such as the Creator, the Provider, the God, and the like. These are things that a created being cannot possibly have, and it is not permissible to claim them. Similarly for other such names. The intended meaning is the attributes that Allah loves His servants to embody, such as knowledge, strength in upholding truth, mercy, forbearance, generosity, liberality, forgiveness, and the like. He, glorified be He, is All-Knowing and loves the knowledgeable; He is Strong and loves the strong believer more than the weak believer; He is Generous and loves the generous; He is Merciful and loves the merciful; He is Forgiving and loves forgiveness, etc. However, Allah's possession of these attributes and others is more perfect and greater than that of created beings; indeed, there is no comparison between them, because He, glorified be He, has nothing like Him in His attributes and actions, just as there is no equal to Him in His essence. The most a created being can do is to have a share of the meanings of these attributes that befits him and suits him within the bounds of Islamic law. If he goes beyond the limit in generosity, he becomes a spendthrift; if he goes beyond the limit in mercy, he nullifies the prescribed punishments and disciplinary measures; likewise, if he goes beyond the prescribed limit in forgiveness and places it inappropriately, this is wrong. These examples indicate the same for others. The scholar Ibn al-Qayyim, may Allah have mercy on him, has stated this meaning in his two books: ʿUddat al-Ṣābirīn (The Provision of the Patient) and al-Wābil al-Ṣayyib (The Rain Cloud), and perhaps he stated it in others such as al-Madārij (The Levels) and Zād al-Maʿād (Provisions for the Hereafter) and others. Here is the text of his words in ʿUddat and al-Wābil. He said in ʿUddat, page 310:\n\"Because He, glorified be He, is truly the Most Appreciative, the most beloved of His creation to Him are those who embody the attribute of gratitude, just as the most hated of His creation to Him are those who neglect it or embody its opposite. This is the case with His beautiful names: the most beloved of His creation to Him are those who embody what they entail, and the most hated are those who embody their opposites. Therefore, He hates the disbeliever, the oppressor, the ignorant, the hard-hearted, the miser, the coward, the lowly, and the mean. He, glorified be He, is Beautiful and loves beauty; All-Knowing and loves the knowledgeable; Merciful and loves the merciful; Benevolent and loves the benevolent; Concealer and loves those who conceal; Powerful and condemns incapacity; the strong believer is dearer to Him than the weak believer; He is Forgiving and loves forgiveness; Odd and loves the odd. Everything He loves is from the effects of His names and attributes and what they entail, and everything He hates is what contradicts and opposes them.\"\nHe said in al-Wābil al-Ṣayyib, page 43 of Majmūʿat al-Ḥadīth:\n\"Generosity is one of the attributes of the Lord, may His majesty be exalted, for He gives and does not take, feeds and is not fed, and He is the most generous of the generous and the most noble of the noble. The most beloved of creation to Him are those who embody the implications of His attributes, for He is Generous and loves the generous among His servants, All-Knowing and loves the knowledgeable, Powerful and loves the brave, and Beautiful and loves beauty.\" End quote.\nI hope that what we have mentioned is sufficient and beneficial. I ask Allah, glorified be He, to grant us all success in understanding His religion and fulfilling His right. Indeed, He is All-Hearing, Near. Peace be upon you, and the mercy of Allah and His blessings⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "A letter sent to one of the questioners in response to his question when I was deputy of the Islamic University of Madinah in 1386 AH. (Majmūʿ Fatāwā wa-Maqālāt Mutanawwiʿah by Shaykh Ibn Bāz 1/133)."
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-15",
+ "source_content_sha256": "sha256:fc40f899142dd65cfedb09ffba7510b06d24deab4375fbc429b7a86a8f42a40f",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:58:00.152347+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 744,
+  "completion_tokens": 366,
+  "total_tokens": 1110,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 488
+ },
+ "latency_ms": 4653,
+ "units": [
+  {
+   "id": "title",
+   "text": "对履行部分义务的懈怠"
+  },
+  {
+   "id": "q0",
+   "text": "问：一个人认主独一，但对履行部分义务懈怠，其教法律例是什么？"
+  },
+  {
+   "id": "a0",
+   "text": "答：其信仰是欠缺的。在正统派学者看来，犯一些罪恶也会使信仰减少，因为他们认为信仰是言语、行为和信念，会因顺主而增加，因违抗而减少。例如：无故放弃斋月整月或部分斋戒，这是大罪，会减少和削弱信仰，部分学者甚至认为因此叛教。但正确观点是：只要他还承认其义务，只因懈怠而放弃部分日子的斋戒，则不叛教。同样，如果拖延缴纳天课或放弃缴纳，也是罪恶和信仰的软弱，部分学者认为放弃天课即叛教。同样，如果断绝骨肉或忤逆父母，也是信仰的欠缺和软弱，其他罪恶也是如此。至于放弃礼拜，则与信仰相悖，在学者最正确的两个主张之一中，即使不否认其义务，也构成叛教；因为先知（愿主福安之）说：“万事之首是伊斯兰，其支柱是礼拜，其顶峰是为安拉之道奋斗。”他还说：“我们与他们之间的盟约是礼拜，谁放弃礼拜，确已叛教。”还有其他圣训表明这一点⟦N1⟧。"
+  },
+  {
+   "id": "n0.0",
+   "text": "《伊本·巴兹教法判例集》（1/55）。"
+  }
+ ]
+}

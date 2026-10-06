@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3588",
+ "source_content_sha256": "sha256:14a24c3f3304cac36ec96a19b18594dfa65f3cb040a955a454246957d6390570",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:16:36.999538+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 645,
+  "completion_tokens": 481,
+  "total_tokens": 1126,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 389
+ },
+ "latency_ms": 3986,
+ "units": [
+  {
+   "id": "title",
+   "text": "Le statut des ablutions à l'intérieur de la salle de bain"
+  },
+  {
+   "id": "q0",
+   "text": "Q : Quel est le statut de celui qui fait ses ablutions à l'intérieur de la salle de bain, et ses ablutions sont-elles valides ?"
+  },
+  {
+   "id": "a0",
+   "text": "R : Il n'y a pas de mal à faire ses ablutions à l'intérieur de la salle de bain, si le besoin s'en fait sentir. Il doit prononcer le nom d'Allah au début des ablutions en disant : « Bismillah » (Au nom d'Allah), car la prononciation du nom d'Allah est obligatoire selon certains savants, et fortement recommandée selon la plupart. S'il la prononce, la répugnance est levée, car la répugnance disparaît lorsqu'il y a besoin de prononcer le nom d'Allah. L'homme est tenu de prononcer le nom d'Allah au début des ablutions ; il le fait et achève ses ablutions.\nQuant au tashahhud (la profession de foi), il se fait après être sorti de la salle de bain — c'est-à-dire l'endroit où l'on satisfait ses besoins. Lorsqu'il a terminé ses ablutions, il sort et prononce le tashahhud à l'extérieur.\nEn revanche, si la salle de bain est réservée uniquement aux ablutions, et non aux besoins naturels, il n'y a pas de mal à y prononcer le nom d'Allah, car ce n'est pas un lieu où l'on satisfait ses besoins⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Extrait de l'émission Nour 'ala ad-Darb, cassette n° 8, (Majmou' fatwas et articles du cheikh Ibn Baz, 10/28)."
+  }
+ ]
+}

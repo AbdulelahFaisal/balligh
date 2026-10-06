@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2089",
+ "source_content_sha256": "sha256:e675c38fd856136f56e9837afd01ad537022c07febf227c5c56de06f282e3d8f",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:09:12.922705+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 562,
+  "completion_tokens": 291,
+  "total_tokens": 853,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 306
+ },
+ "latency_ms": 3186,
+ "units": [
+  {
+   "id": "title",
+   "text": "Apakah Harut dan Marut itu dua malaikat atau dua manusia?"
+  },
+  {
+   "id": "q0",
+   "text": "T: Apakah Harut dan Marut itu dua malaikat atau dua manusia? Kami mohon penjelasan pendapat yang rajih dari pendapat-pendapat para ulama tentang hal itu?"
+  },
+  {
+   "id": "a0",
+   "text": "J: Para ulama berbeda pendapat tentang hal ini, dan yang lebih jelas: bahwa keduanya adalah dua malaikat yang turun sebagai ujian dan cobaan, sebagaimana firman Allah Azza wa Jalla: ⟦Q1⟧ ayat [Al-Baqarah: 102]. Sebagian ahli ilmu berkata: bahwa keduanya adalah dua raja dari Bani Adam yang manusia diuji dengan keduanya. Pendapat pertama lebih jelas, dan bacaan atas dasar pendapat pertama adalah dengan fathah pada huruf lam, sedangkan atas dasar pendapat kedua dengan kasrah padanya⟦N2⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu’ Fatawa wa Maqalat Asy-Syaikh Ibnu Baz (8/115)."
+  }
+ ]
+}

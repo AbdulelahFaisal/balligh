@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1353",
+ "source_content_sha256": "sha256:8b82672d88926fd00ef81ff71a5a26b067e1e0e4e782b0dfd300226909a71dc7",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:56:21.291011+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 604,
+  "completion_tokens": 288,
+  "total_tokens": 892,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 348
+ },
+ "latency_ms": 2696,
+ "units": [
+  {
+   "id": "title",
+   "text": "Does a woman pray aloud like a man?"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "Does a woman recite aloud in the audible prayer as a man recites aloud? There is a disagreement among some students of knowledge, and some of them said: “Pray as you have seen me pray”; this is for the woman and the man. We hope for clarification of the truth in this matter."
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "What appears to us is that there is no objection: she prays and recites aloud in the Maghrib, ‘Isha, and Fajr prayers like a man, because the Prophet (peace and blessings be upon him) said: “Pray as you have seen me pray,” and the rulings are equal. The rulings for men and women are equal except where evidence specifically applies. If evidence comes to specify the man or the woman, then otherwise the principle is that they are equal in rulings. Their prayer is one, their zakah is one, their Hajj is one."
+  }
+ ]
+}

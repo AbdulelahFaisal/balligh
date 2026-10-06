@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1655",
+ "source_content_sha256": "sha256:da7a07a2630be739fba0d3b2411d80317b5a29ed276ac3cad5c521b11a4aa49b",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:02:08.163381+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1592,
+  "completion_tokens": 1713,
+  "total_tokens": 3305,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 1336
+ },
+ "latency_ms": 14750,
+ "units": [
+  {
+   "id": "title",
+   "text": "Pembagian tauhid menjadi tiga bagian"
+  },
+  {
+   "id": "q0",
+   "text": "T: Pertanyaan terkait pembagian tauhid menjadi tiga bagian, apakah ada dalilnya?"
+  },
+  {
+   "id": "a0",
+   "text": "J: Ini diambil dari istiqra (penelitian induktif), karena ketika para ulama meneliti nash-nash dari Kitabullah dan Sunnah Rasul-Nya, tampaklah bagi mereka hal ini. Sebagian mereka menambahkan jenis keempat yaitu tauhid mutaba'ah (mengikuti Rasul), dan semua ini berdasarkan istiqra.\nTidak diragukan bahwa siapa yang merenungkan Al-Qur'an Al-Karim akan mendapati ayat-ayat yang memerintahkan untuk mengikhlaskan ibadah hanya kepada Allah semata, dan ini adalah tauhid uluhiyah. Ia juga mendapati ayat-ayat yang menunjukkan bahwa Allah adalah Al-Khallaq (Maha Pencipta), Ar-Razzaq (Maha Pemberi Rezeki), dan Pengatur segala urusan, dan ini adalah tauhid rububiyah yang diakui oleh orang-orang musyrik namun tidak memasukkan mereka ke dalam Islam. Demikian pula ia mendapati ayat-ayat lain yang menunjukkan bahwa Allah memiliki Al-Asma' Al-Husna (nama-nama yang terbaik) dan Ash-Shifat Al-'Ula (sifat-sifat yang tertinggi), dan bahwa tidak ada yang serupa dengan-Nya dan tidak ada yang setara dengan-Nya, dan ini adalah tauhid asma' wa shifat yang diingkari oleh para ahli bid'ah dari kalangan Jahmiyah, Mu'tazilah, Musyabbihah, dan siapa saja yang mengikuti jalan mereka.\nIa juga mendapati ayat-ayat yang menunjukkan wajibnya mengikuti Rasul ﷺ dan menolak apa yang bertentangan dengan syariatnya, dan ini adalah tauhid mutaba'ah. Pembagian ini diketahui melalui istiqra, penelusuran ayat-ayat, dan kajian sunnah. Di antaranya firman Allah Subhanahu: ⟦Q1⟧ [Al-Fatihah:5] dan firman-Nya 'Azza wa Jalla: ⟦Q2⟧ [Al-Baqarah:21] dan firman-Nya 'Azza wa Jalla: ⟦Q3⟧ [Al-Baqarah:163] dan firman-Nya Subhanahu: ⟦Q4⟧ [Ali 'Imran:18] dan firman-Nya Subhanahu: ⟦Q5⟧ [Adz-Dzariyat:56-58] dan firman-Nya Subhanahu: ⟦Q6⟧ [Al-A'raf:54] dan firman-Nya Subhanahu: ⟦Q7⟧ [Yunus:31] dan firman-Nya Subhanahu: ⟦Q8⟧ [Asy-Syura:11] dan firman-Nya 'Azza wa Jalla: ⟦Q9⟧ [Al-Ikhlas:1-4] dan firman-Nya Subhanahu: ⟦Q10⟧ [Ali 'Imran:31] dan firman-Nya Subhanahu: ⟦Q11⟧ [An-Nur:54] dan ayat-ayat tentang pembagian ini banyak sekali.\nDi antara hadits-hadits: sabda Nabi ﷺ dalam hadits Mu'adz radhiyallahu 'anhu yang disepakati keshahihannya: \"Hak Allah atas para hamba adalah mereka beribadah kepada-Nya dan tidak menyekutukan-Nya dengan sesuatu apa pun.\" Dan sabdanya ﷺ: \"Barangsiapa mati dalam keadaan menyeru sekutu selain Allah, ia masuk neraka.\" Diriwayatkan oleh Al-Bukhari dalam Shahihnya. Dan sabdanya ﷺ kepada Jibril ketika bertanya tentang Islam: \"Engkau beribadah kepada Allah dan tidak menyekutukan-Nya dengan sesuatu apa pun, mendirikan shalat wajib, menunaikan zakat yang diwajibkan...\" hadits, Muttafaq 'alaih. Dan sabdanya ﷺ: \"Barangsiapa menaatiku maka ia telah menaati Allah, dan barangsiapa mendurhakaiku maka ia telah mendurhakai Allah.\" Disepakati keshahihannya. Dan sabdanya ﷺ: \"Setiap umatku masuk surga kecuali yang enggan.\" Ditanyakan, \"Wahai Rasulullah, siapa yang enggan?\" Beliau menjawab, \"Barangsiapa menaatiku masuk surga, dan barangsiapa mendurhakaiku maka ia telah enggan.\" Diriwayatkan oleh Al-Bukhari dalam Shahihnya. Hadits-hadits dalam bab ini banyak sekali.\nSyaikhul Islam Ibnu Taimiyah rahimahullah berkata: \"Al-ilah adalah al-ma'bud al-mutha' (yang disembah lagi ditaati), karena al-ilah adalah al-ma'luh, dan al-ma'luh adalah yang berhak disembah. Keberhakannya untuk disembah adalah karena sifat-sifat yang disandangnya yang mengharuskan bahwa Dialah yang dicintai dengan kecintaan yang puncak, yang tunduk kepada-Nya dengan ketundukan yang puncak.\"\nBeliau juga berkata: \"Al-ilah adalah yang dicintai lagi disembah, yang hati-hati mencintai-Nya, tunduk, merendah, takut, berharap, kembali kepada-Nya dalam kesulitan, berdoa kepada-Nya dalam perkara-perkara penting, bertawakal kepada-Nya dalam kemaslahatan, berlindung kepada-Nya, tenang dengan mengingat-Nya, dan tenteram dengan mencintai-Nya. Hal itu tidak layak kecuali bagi Allah semata. Oleh karena itu, la ilaha illallah adalah perkataan yang paling benar, dan pemiliknya adalah wali Allah dan golongan-Nya, sedangkan yang mengingkarinya adalah musuh-musuh-Nya dan orang-orang yang dimurkai dan dibenci-Nya. Apabila kalimat itu benar, maka benarlah setiap masalah, keadaan, dan perasaan. Jika seorang hamba tidak membenarkannya, maka kerusakan pasti menimpanya dalam ilmu dan amalnya.\" ⟦N12⟧.\nKami memohon kepada Allah agar memberikan taufik kepada seluruh kaum Muslimin, baik penguasa maupun rakyat, untuk memahami agama-Nya, istiqamah di atasnya, dan memberikan nasihat kepada Allah dan hamba-hamba-Nya, serta waspada terhadap apa yang menyelisihi hal itu. Sesungguhnya Dia-lah yang menguasai dan mampu atas hal itu. Semoga shalawat dan salam tercurah kepada Nabi kita Muhammad, keluarga, dan seluruh sahabatnya.⟦N13⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Fathul Majid Syarh Kitab At-Tauhid, Bab Fadhl At-Tauhid wa Ma Yukaffiru min Adz-Dzunub, hal. 33, dicetak dan diterbitkan oleh Kepresidenan Umum untuk Administrasi Riset Ilmiah, Fatwa, Dakwah, dan Bimbingan – cet. 1403 H.]"
+  },
+  {
+   "id": "n1.0",
+   "text": "(Majmu' Fatawa wa Maqalat Asy-Syaikh Ibnu Baz 6/277)."
+  }
+ ]
+}

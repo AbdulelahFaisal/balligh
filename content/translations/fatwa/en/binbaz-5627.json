@@ -1,0 +1,36 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-5627",
+ "source_content_sha256": "sha256:4334ded18d5e4e39ddeaaaea486be0eb6a2780c48cdd30efeac08632e94fabff",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:20:45.850348+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1262,
+  "completion_tokens": 1008,
+  "total_tokens": 2270,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 1006
+ },
+ "latency_ms": 7525,
+ "units": [
+  {
+   "id": "title",
+   "text": "Ruling on being content with faith in the heart without action"
+  },
+  {
+   "id": "q0",
+   "text": "Question: Also the sister in Islam from Baghdad in Iraq asks: Is faith in the heart sufficient for a person to be a Muslim, away from prayer, fasting, and zakah?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer: Faith in the heart is not sufficient; it does not replace prayer and other acts. He must believe in his heart that Allah is One with no partner, that He is his Lord and Creator. He must devote worship to Him, Glorified and Exalted, and believe in the Messenger Muhammad ﷺ, that he is truly the Messenger of Allah to all people. All of this is essential; it is the foundation of the religion.\nHowever, along with that, prayer and the rest of the matters of the religion are necessary. If he prays, he has fulfilled his obligation, but if he does not pray, he disbelieves, because abandoning prayer is disbelief. As for zakah, fasting, Hajj, and the rest of the matters, if he believes in them and that they are obligatory but is negligent, he does not disbelieve by that; he is a sinner. His faith is weak and deficient, because faith increases and decreases; faith increases with acts of obedience and righteous deeds and decreases with sins. As for prayer alone, in particular, abandoning it is disbelief according to a group of scholars, and it is the soundest of the two scholarly opinions, unlike the rest of the acts of worship such as zakah, fasting, Hajj, and the like, for abandoning them is not major disbelief according to the correct opinion, but it is a deficiency in faith and a weakness in faith, and a grave major sin. Abandoning zakah is a grave major sin, abandoning fasting is a grave major sin, abandoning Hajj while able is a grave major sin, but it is not major disbelief if he believes that zakah is a right, that fasting is a right, and that Hajj when able is a right; he does not deny that or reject its obligation, but he is negligent in action, so he does not become a disbeliever by that according to the correct opinion.\nAs for prayer, if he abandons it, he disbelieves in the soundest of the two scholarly opinions with major disbelief—we seek refuge with Allah—if he abandons it completely. As for the two testimonies, that Allah is the Lord of all and the God of all, and that there is no deity worthy of worship except Him, and the testimony that Muhammad is the Messenger of Allah—these two testimonies are the foundation of the religion, the basis of the faith. A group of scholars, and it is the opinion of most jurists, hold that a person becomes a Muslim by that even if he does not pray, as long as he believes in the obligation of prayer, fasting, Hajj, and so on, but he does not do them out of negligence. The majority of jurists do not consider him a disbeliever with major disbelief if he abandons that; he remains a Muslim, a sinner, in danger of entering the Fire, and he does not disbelieve by that.\nA group of scholars hold that abandoning prayer is major disbelief, and it is the more correct view, as previously mentioned, and it is the soundest, because the Prophet ﷺ said: \"The covenant between us and them is prayer; whoever abandons it has disbelieved.\" And because he, peace and blessings be upon him, said: \"Between a man and disbelief and polytheism is abandoning prayer,\" as previously mentioned in an answer to a previous question.\nSo one should pay attention to this. As for the rest of the obligatory matters of the religion such as zakah, fasting, Hajj, and the like, if the believer in Allah and His Messenger believes in their obligation and does not deny their obligation, but he may be negligent in performing them, this is not major disbelief, but it is a deficiency in faith, a weakness in faith, and he is a sinner deserving entry into the Fire and the wrath of Allah unless Allah pardons him, Glorified and Exalted, because He, Mighty and Majestic, said: ⟦Q1⟧ [an-Nisa:48]. Thus He placed what is less than polytheism under the will of Allah. So it is known from that that sins are subject to the will of Allah, and a person does not become a disbeliever with major disbelief by them; rather, he is a sinner and weak in faith. Yes."
+  }
+ ]
+}

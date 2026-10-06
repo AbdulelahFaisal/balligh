@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1665",
+ "source_content_sha256": "sha256:f6e36ce6b0f15e9ac729e84e952796a322a681478b552a299d9a8bbabb4a4a13",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:02:48.349041+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 916,
+  "completion_tokens": 575,
+  "total_tokens": 1491,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 660
+ },
+ "latency_ms": 5263,
+ "units": [
+  {
+   "id": "title",
+   "text": "How should someone who cannot get married fast?"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "The Prophet ﷺ said: \"O young men, whoever among you can afford to get married, let him do so...\" to the end of the hadith. Is the required fasting to be continuous or intermittent?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "The Messenger ﷺ said: \"O young men, whoever among you can afford to get married, let him do so\"—meaning that he is able to bear the expenses of marriage—let him marry, for it is more effective in lowering the gaze and guarding chastity. He urged marriage, and fathers should hasten to marry off their sons and daughters, and not reject a suitable suitor when he proposes. They should cooperate in facilitating the dowries and making the wedding feasts easy, and avoid extravagance in these matters, so that they make it easy for their sons and daughters to do what Allah has ordained of marriage."
+  },
+  {
+   "id": "a2",
+   "text": "But if he is unable and cannot afford it, then he must resort to fasting—as the Prophet ﷺ said—and to chastity. Allah has commanded that."
+  },
+  {
+   "id": "a3",
+   "text": "Fasting may be continuous or intermittent, there is no harm in that, depending on his condition and ability. If he fasts continuously, that is good, so that he may curb the evil of desire. And if he fasts intermittently, there is no harm. The matter is up to him, for he knows best his own condition. Fasting is recommended and prescribed in order to reduce the evil of desire. And if he uses some medicines that reduce that, it is also good."
+  },
+  {
+   "id": "a4",
+   "text": "Among the greatest remedies is lowering the gaze, and avoiding wandering in the markets without need, and looking at women in the markets or in his house if there are women who are not his mahrams. He should be cautious about such things and avoid letting his gaze wander, for that is one of the greatest means for his safety. But letting the gaze wander and wandering in the markets without need among women is one of the greatest causes of temptation, unleashing desire, and falling into indecency. We ask Allah for well-being."
+  }
+ ]
+}

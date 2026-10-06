@@ -1,0 +1,60 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2778",
+ "source_content_sha256": "sha256:7b2a59c3f3411d07503bfac265928b102f9e625886cb4be0bd62dda54a72a462",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:13:50.944508+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 898,
+  "completion_tokens": 790,
+  "total_tokens": 1688,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 642
+ },
+ "latency_ms": 6721,
+ "units": [
+  {
+   "id": "title",
+   "text": "Le jugement concernant le délaissement de la prière tout en reconnaissant son obligation"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Celui qui délaisse la prière volontairement et délibérément, tout en reconnaissant son obligation ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Délaisser la prière volontairement, tout en reconnaissant son obligation et en y croyant, fait l'objet de deux avis parmi les gens de science :"
+  },
+  {
+   "id": "a2",
+   "text": "Le premier : il est mécréant d'une mécréance majeure et apostat de l'islam, car il la néglige alors qu'elle est le pilier de l'islam. Cet avis est le plus juste en raison de nombreuses preuves, parmi lesquelles :"
+  },
+  {
+   "id": "a3",
+   "text": "Sa parole ﷺ : « La tête de l'affaire est l'islam, et son pilier est la prière. » Parmi elles aussi, ce qui est venu dans le Noble Coran comme éloge d'Allah envers ceux qui prient, Son ordre d'accomplir la prière, et Sa parole au sujet des mécréants lorsqu'ils furent interrogés : ⟦Q1⟧ [Al-Muddaththir : 42-43]. Ils ont mentionné que l'une des causes de leur entrée en Enfer et de leur cheminement vers lui était qu'ils n'étaient pas parmi ceux qui priaient. Parmi elles également, Sa parole ﷺ : « Le pacte qui existe entre nous et eux est la prière ; celui qui la délaisse a certes mécru. » Et Sa parole ﷺ : « Entre l'homme, la mécréance et le polythéisme, il y a le délaissement de la prière. » Et d'autres preuves encore."
+  },
+  {
+   "id": "a4",
+   "text": "D'autres ont dit : il est mécréant d'une mécréance mineure, non majeure, car les preuves du monothéisme indiquent que délaisser la prière est une perdition et une apostasie de l'islam. Ils ont mentionné des choses de ce genre qui montrent, selon leur croyance, que sa mécréance est mineure et non majeure, et que s'il croit en son obligation et qu'elle est une prescription, mais qu'il la néglige, sa mécréance est mineure et il est pervers, sa perversité étant plus grave que celle du fornicateur et du voleur, mais cela n'est pas une mécréance majeure. Ils ont dit : en conséquence, on prie sur lui et on l'enterre avec les musulmans. C'est l'avis d'un groupe de gens de science."
+  },
+  {
+   "id": "a5",
+   "text": "Le premier avis est le plus évident par les preuves et le plus solide par l'argumentation : c'est une mécréance majeure – qu'Allah nous en préserve."
+  }
+ ]
+}

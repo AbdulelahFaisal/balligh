@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-15",
+ "source_content_sha256": "sha256:fc40f899142dd65cfedb09ffba7510b06d24deab4375fbc429b7a86a8f42a40f",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T20:57:55.253664+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 741,
+  "completion_tokens": 465,
+  "total_tokens": 1206,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 485
+ },
+ "latency_ms": 4264,
+ "units": [
+  {
+   "id": "title",
+   "text": "Laziness in performing some obligations"
+  },
+  {
+   "id": "q0",
+   "text": "Question: What is the ruling on someone who affirms the oneness of Allah Almighty but is lazy in performing some obligations?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer: He has deficient faith, and likewise whoever commits some sins, his faith decreases according to Ahl al-Sunnah wal-Jama'ah, because they say faith is statement, action, and belief; it increases with obedience and decreases with disobedience. Examples of that include: abandoning the fast of Ramadan without an excuse or part of it, which is a major sin that decreases and weakens faith, and some scholars declare him a disbeliever for that. However, the correct view is that he does not become a disbeliever as long as he acknowledges its obligation, but he broke the fast on some days out of laxity and laziness. Likewise, if he delays zakah (obligatory almsgiving) beyond its time out of laxity or neglects paying it, that is a sin and weakness in faith, and some scholars declare him a disbeliever for abandoning it. Likewise, if he severs ties of kinship or is undutiful to his parents, that is a deficiency and weakness in faith, and so are the rest of sins. As for abandoning prayer, it negates faith and necessitates apostasy even if he does not deny its obligation, according to the more correct of the two scholarly opinions, because of the statement of the Prophet (peace and blessings be upon him): \"The head of the matter is Islam, its pillar is prayer, and its highest peak is jihad in the cause of Allah.\" And his statement (peace and blessings be upon him): \"The covenant between us and them is prayer, so whoever abandons it has disbelieved,\" in other hadiths that indicate that⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Majmu' Fatawa Ibn Baz (1/55)."
+  }
+ ]
+}

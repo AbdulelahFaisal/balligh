@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3446",
+ "source_content_sha256": "sha256:6cf793844705de0d8d3f40834c85f06d79fb8c569cc4e942ed73ea655ae7e6c2",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:15:53.807601+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 526,
+  "completion_tokens": 275,
+  "total_tokens": 801,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 270
+ },
+ "latency_ms": 2786,
+ "units": [
+  {
+   "id": "title",
+   "text": "L'amour et la haine se portent sur les actes de la personne, non sur sa personne même"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "L'amour et la haine concernent-ils la personne elle-même ou ses actes ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "L'amour et la haine concernent ses actes. S'il est croyant, on l'aime pour sa foi ; et s'il est mécréant, on le déteste pour sa mécréance, non à cause de sa lignée, ni parce qu'il est blanc ou noir, non. On l'aime pour sa foi et sa piété, même s'il est la personne la plus laide en apparence, et on le déteste pour sa mécréance et son égarement, même s'il est la personne la plus belle en apparence et la plus riche."
+  }
+ ]
+}

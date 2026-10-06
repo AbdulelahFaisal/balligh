@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3807",
+ "source_content_sha256": "sha256:82dccb06a8f4f8c29464d6831325d0fa6622db49d016bae4e20d71b8724cbebc",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:17:58.696504+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 591,
+  "completion_tokens": 322,
+  "total_tokens": 913,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 335
+ },
+ "latency_ms": 3275,
+ "units": [
+  {
+   "id": "title",
+   "text": "Mandi dari junub dan lainnya, apakah cukup menggantikan wudu?"
+  },
+  {
+   "id": "q0",
+   "text": "Tanya: Saudara A. S. S. dari Tsadiq di Kerajaan Arab Saudi berkata dalam pertanyaannya: Saya mandi junub dengan sabun dan sampo, apakah mandi ini cukup menggantikan wudu jika saya niatkan demikian?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawab: Itu sudah cukup jika dia meniatkan kedua-duanya (mandi dan wudu). Namun yang lebih utama adalah berwudu terlebih dahulu kemudian mandi, sebagaimana perbuatan Nabi ﷺ, karena itu lebih sempurna. Tidak mengapa menggunakan sabun, sampo, daun bidara, dan semacamnya untuk menghilangkan kotoran."
+  },
+  {
+   "id": "a1",
+   "text": "Semoga Allah memberi taufik kepada semuanya⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Diterbitkan di Majalah Al-Arabiyyah, edisi 218, bulan Rabiul Awwal 1416 H. (Majmu' Fatawa wa Maqalat Syaikh Ibnu Baz, 10/173)."
+  }
+ ]
+}

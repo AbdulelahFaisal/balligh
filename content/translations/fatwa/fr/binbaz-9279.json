@@ -1,0 +1,52 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-9279",
+ "source_content_sha256": "sha256:3800dc33be049baa6c74b905e3376eb32ac867773999532f446dadd5393dc497",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:25:11.909454+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 838,
+  "completion_tokens": 638,
+  "total_tokens": 1476,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 582
+ },
+ "latency_ms": 5327,
+ "units": [
+  {
+   "id": "title",
+   "text": "Le critère de l'aversion et de la haine envers autrui et sa durée"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Éminent cheikh, il a une dernière question : si une personne en déteste une autre, l'autre commet-elle un péché si elle lui rend la pareille ? Qu'Allah vous récompense par le bien."
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Cela nécessite de connaître les raisons. S'il le déteste parce qu'il affiche des péchés, alors il en est récompensé et l'autre mérite l'abandon. Mais s'il le déteste pour d'autres choses, cela ne convient pas ; pour des affaires mondaines, cela ne convient pas. Il doit lutter contre lui-même afin de l'aimer pour Allah. De même, l'autre ne doit pas lui rendre la pareille, mais plutôt l'aimer pour Allah s'il est obéissant à Allah et droit. L'amour ne doit pas suivre la passion, mais les prescriptions religieuses. Celui qui est droit, il est obligatoire de l'aimer pour Allah, même si tu trouves de sa part ce que tu détestes en ce qui te concerne, car il t'incombe de l'aimer pour Allah, et l'autre t'aime pour Allah si tu es droit."
+  },
+  {
+   "id": "a2",
+   "text": "Quant aux affaires mondaines qui surviennent entre les gens, il n'y a pas de mal à ce qu'il l'abandonne trois jours ou moins. Si la situation devient grave et nécessite cela, trois jours ou moins, l'abandon ne concerne que ces affaires-là, conformément à la parole du Prophète ﷺ : « Pas d'abandon au-delà de trois jours. » Oui, c'est-à-dire si, concernant un droit de la créature, il y a un différend entre eux, une querelle ou autre, ils peuvent s'abandonner mutuellement pendant trois jours seulement."
+  },
+  {
+   "id": "a3",
+   "text": "Mais si c'est pour Allah, pour un péché apparent ou une innovation, on l'abandonne jusqu'à ce qu'il se repente, même un mois, deux mois ou plus, car le Prophète ﷺ a abandonné Ka'b ibn Malik et ses deux compagnons pendant cinquante nuits en raison de leur désobéissance dans l'affaire du jihad ; ils s'étaient absentés du jihad sans excuse. Oui."
+  }
+ ]
+}

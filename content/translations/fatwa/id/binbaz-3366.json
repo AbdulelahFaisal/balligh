@@ -1,0 +1,52 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3366",
+ "source_content_sha256": "sha256:330768f694a9fc6d30380ebf3939801485de64b7d1ed80935c29c5d49d7829b6",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-2",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T21:15:06.103412+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 913,
+  "completion_tokens": 763,
+  "total_tokens": 1676,
+  "prompt_tokens_details": {
+   "cached_tokens": 256
+  },
+  "prompt_cache_hit_tokens": 256,
+  "prompt_cache_miss_tokens": 657
+ },
+ "latency_ms": 6596,
+ "units": [
+  {
+   "id": "title",
+   "text": "Hakikat Asal Iman dan Perbedaan Tingkat Manusia di Dalamnya"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Apakah asal iman pada semua orang beriman itu sama, ataukah berbeda dari satu orang ke orang lain? Kami mohon penjelasannya karena penting."
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Asal iman itu satu, yaitu iman kepada Allah, rasul-rasul-Nya, malaikat-malaikat-Nya, kitab-kitab-Nya, hari akhir, dan segala yang diberitakan oleh Allah dan Rasul-Nya. Namun iman itu bertingkat-tingkat. Iman Muhammad ﷺ, Abu Bakar, Umar, Utsman, dan para sahabat lainnya tidak sama dengan iman orang-orang setelah mereka. Iman berbeda dalam kekuatan, kesempurnaan, kelengkapan, dan pengaruhnya. Tetapi asalnya adalah iman kepada Allah, malaikat-malaikat-Nya, kitab-kitab-Nya, para rasul-Nya, hari akhir, dan takdir baik maupun buruk, serta iman kepada segala yang disyariatkan oleh Allah dan Rasul-Nya, dan iman kepada segala yang diberitakan oleh Allah dan Rasul-Nya tentang urusan akhirat, surga, neraka, dan selainnya."
+  },
+  {
+   "id": "a2",
+   "text": "Namun dengan ilmu, kesungguhan, mendalami agama, semangat membela agama Allah, dan rasa takut kepada Allah, iman ini bertambah dan menguat hingga hamba menunaikan kewajiban-kewajiban dan menjauhi hal-hal yang diharamkan. Sebaliknya, dengan kebodohan, berpaling, duduk bersama orang-orang jahat, dan mengikuti hawa nafsu, iman ini melemah. Oleh karena itu para ulama berkata: Iman itu bertambah dan berkurang; bertambah dengan ketaatan dan berkurang dengan kemaksiatan. Iman adalah ucapan dengan lisan, amalan dengan anggota badan, amalan hati, dan keyakinan di dalamnya."
+  },
+  {
+   "id": "a3",
+   "text": "Barangsiapa yang diberi taufik oleh Allah untuk memperoleh ilmu yang bermanfaat, bashirah yang tajam, takut kepada Allah, rasa khasyyah kepada-Nya, duduk bersama orang-orang baik, dan meneladani perilaku mereka, maka imannya kuat, tinggi, dan sempurna. Sebaliknya, barangsiapa yang keadaannya berbeda karena kebodohannya, atau mengikuti hawa nafsunya, atau duduk bersama orang-orang jahat, atau sebab lainnya, maka hal itu termasuk sebab-sebab yang melemahkan iman. Iman bisa melemah sangat banyak hingga hilang sama sekali dan ia murtad dari agamanya—kita memohon keselamatan kepada Allah—atau bisa melemah kurang dari itu karena sebab-sebab kemaksiatan. Oleh karena itu para ulama berkata: Iman bertambah dengan ketaatan dan berkurang dengan kemaksiatan."
+  }
+ ]
+}
