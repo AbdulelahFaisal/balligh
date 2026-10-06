@@ -1,0 +1,73 @@
+{
+ "answer": [
+  [
+   {
+    "kind": "strong",
+    "text": "ج:"
+   },
+   {
+    "kind": "text",
+    "text": " الواجب على كل مسلم أن يتقي الله، وأن يصلي الصلوات الخمس في أوقاتها في المساجد في جماعة المسلمين، وأن يحرص على جميع الأسباب التي تعينه على ذلك، ومن الأسباب التي تعينه على صلاة الفجر في الجماعة: أن يبكر في النوم، ويركب الساعة في الوقت المناسب حتى يقوم للصلاة في وقتها، ويحضر الصلاة مع الجماعة، ويجتهد في سؤال الله التوفيق والإعانة، ويأتي بالأوراد الشرعية عند نومه، وبذلك يوفقه الله إن شاء الله للقيام في وقت الصلاة وأدائها مع الجماعة"
+   },
+   {
+    "kind": "noteref",
+    "note": "1",
+    "text": "[1]"
+   },
+   {
+    "kind": "text",
+    "text": ". "
+   }
+  ]
+ ],
+ "content_sha256": "sha256:290db782e0e10e6101468287fd6f5185bba283d9b02c4cfebde543829b453d68",
+ "id": "binbaz-2149",
+ "language": "ar",
+ "notes": [
+  {
+   "id": "1",
+   "runs": [
+    {
+     "kind": "text",
+     "text": "مجموع فتاوى ومقالات الشيخ ابن باز (276/8)"
+    }
+   ]
+  }
+ ],
+ "question": [
+  [
+   {
+    "kind": "strong",
+    "text": "س:"
+   },
+   {
+    "kind": "text",
+    "text": " ما هي الأسباب التي تساعد المسلم على القيام لصلاة الفجر؟ علما بأنه ينام مبكرًا لكنه لا يستيقظ إلا بعد طلوع الشمس."
+   }
+  ]
+ ],
+ "raw_sha256": "sha256:d3cbf075aa1c0092efbc8170eeac88a9b21f7d7abc20dd001321b7f0ec26dab8",
+ "reuse_basis": "user_confirmed_permission",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.fatwa/2",
+ "source": {
+  "edition": null,
+  "publisher": "binbaz.org.sa",
+  "publisher_name": "موقع الشيخ ابن باز",
+  "retrieved_at": "2026-10-06T03:52:40+00:00",
+  "series": "مجموع الفتاوى",
+  "url": "https://binbaz.org.sa/fatwas/2149/%D8%A7%D9%84%D8%A7%D8%B3%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%B9%D9%8A%D9%86%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D9%85-%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D8%A7%D9%84%D9%81%D8%AC%D8%B1"
+ },
+ "source_categories": [
+  {
+   "id": "23",
+   "label": "حكم الصلاة وأهميتها",
+   "url": "https://binbaz.org.sa/categories/fiqhi/23"
+  }
+ ],
+ "source_record_id": "2149",
+ "title": "الأسباب المعينة على القيام لصلاة الفجر",
+ "topic": "worship",
+ "translations": {},
+ "type": "fatwa"
+}

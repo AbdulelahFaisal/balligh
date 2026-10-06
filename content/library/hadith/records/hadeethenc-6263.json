@@ -1,0 +1,177 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:02ddc43ff625541098a45224c8f8b23d61740706475035a09e7f4310d3dd80e2",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يُخْبِرُ النبيُّ صلى الله عليه وسلم أنَّ مَن توضَّأ مع مُراعاةِ سُننِ الوضوء وآدابِه، كان ذلك من أسبابِ تكفيرِ السيئات وحَطِّ الخطايا، «حتى تخرج» ذنوبُه من تحت أظفار يديه ورجليه.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "الحث على الاعتناء بتعلُّم الوضوء وسننه وآدابه، والعمل بذلك.",
+  "فضل الوضوء، وأنه كفارة للذنوب الصغائر، أما الكبائر فلا بد من التوبة.",
+  "شرط خروج الخطايا هو إكمال الوضوء والإتيان به بدون إخلال كما بينه النبي -صلى الله عليه وسلم-.",
+  "تكفير الذنوب في هذا الحديث مُقيَّدٌ باجتناب الكبائر والتوبة منها، قال تعالى: (إِنْ تَجْتَنِبُوا كَبَائِرَ مَا تُنْهَوْنَ عَنْهُ نُكَفِّرْ عَنْكُمْ سَيِّئَاتِكُمْ) [النساء:31]."
+ ],
+ "id": "hadeethenc-6263",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (1/ 216) (245).\nشرح رياض الصالحين، لابن عثيمين (5/ 9).\nنزهة المتقين شرح رياض الصالحين، لمصطفى الخِن وغيره (2/ 763).\nبهجة الناظرين، سليم الهلالي (2/ 247).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=6263",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:40+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/6263"
+ },
+ "source_categories": [
+  {
+   "id": "441",
+   "label": "فضل الوضوء"
+  }
+ ],
+ "source_record_id": "6263",
+ "text": "عن عثمان بن عفان رضي الله عنه قال: قال رسول الله صلى الله عليه وسلم: «مَنْ تَوَضَّأَ فَأَحْسَنَ الْوُضُوءَ خَرَجَتْ خَطَايَاهُ مِنْ جَسَدِهِ حَتَّى تَخْرُجَ مِنْ تَحْتِ أَظْفَارِهِ».",
+ "title": "من توضأ فأحسن الوضوء خرجت خطاياه من جسده حتى تخرج من تحت أظفاره",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=6263",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:d958d2b663b72070bf86aaece13bcb02aa895ddef02d554822cf267d0a1b54a2",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এ হাদীসে বর্ণনা করেছেন , যে ব্যক্তি অযুর সুন্নত ও আদবসহকারে উত্তমরূপে অযু করবে, তবে তা তার অপরাধ ক্ষমা ও ভুল-ত্রুটি মাফের কারণ হবে। এমন কি তার হাত পায়ের নখের ভিতর থেকেও (গুনাহ) বের হয়ে যাবে।",
+   "grade": "সহীহ",
+   "hints": [
+    "হাদীসে অযুর সুন্নাত ও আদবসমূহ সহকারে অযু শেখা ও সে অনুযায়ী আমল করার প্রতি যত্নবান হওয়ার জন্য উৎসাহ প্রদান করা হয়েছে।\r",
+    "অযুর ফযীলত বর্ণিত হয়েছে এবং এটি সগীরাহ গুনাহর কাফফারা স্বরূপ। অন্যদিকে কবীরাহ গুনাহ তাওবাহ ব্যতীত ক্ষমা হয় না।\r",
+    "এক্ষেত্রে গুনাহ মাফের শর্ত হলো কোন ভুল-ত্রুটি ব্যতীত পরিপূর্ণতার সাথে অযু করা, যেমনটি নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম হাদীসে বর্ণনা করেছেন।\r",
+    "এ হাদীসে বর্ণিত গুনাহ মাফ করার বিষয়টি কবীরাহ গুনাহ থেকে বিরত  থাকা ও তা থেকে তাওবার সাথে শর্তযুক্ত। কেননা মহান আল্লাহ বলেছেন: إِنْ تَجْتَنِبُوا كَبَائِرَ مَا تُنْهَوْنَ عَنْهُ نُكَفِّرْ عَنْكُمْ سَيِّئَاتِكُمْ “তোমরা যদি সেসব কবীরা গুনাহ পরিহার কর, যা থেকে তোমাদের বারণ করা হয়েছে, তাহলে আমি তোমাদের গুনাহসমূহ ক্ষমা করে দিবো।” [সূরা আন-নিসা: ৩১]"
+   ],
+   "mapping": "same HadeethEnc record id 6263; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:50+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/6263",
+   "text": "‘উসমান ইবনু ‘আফফান রাদিয়াল্লাহু আনহু থেকে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন: “যে ব্যক্তি অযু করে এবং তা উত্তমরূপে করে, তার দেহ থেকে সমুদয় গুনাহ বের হয়ে যায়, এমন কি তার নখের ভিতর থেকেও (গুনাহ) বের হয়ে যায়।”",
+   "title": "“যে ব্যক্তি অযু করে এবং তা উত্তমরূপে করে, তার দেহ থেকে সমুদয় গুনাহ বের হয়ে যায়, এমন কি তার নখের ভিতর থেকেও (গুনাহ) বের হয়ে যায়।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=6263",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:bd42de713b06c2afcdd892487bde67959c6839748afa57577fa85e750e63360b",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) informs that if a person performs ablution while observing its Sunnahs and etiquettes, this will cause his sins and misdeeds to be expiated and forgiven - to the extent that his sins will come out from under the nails of his hands and feet.",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth urges us to be keen on learning the ablution and its Sunnahs and etiquettes and to act accordingly.\r",
+    "It highlights the merit of ablution and that it expiates minor sins. As for major sins, they require repentance.\r",
+    "For sins to come out of a person's body, he is required to perform ablution perfectly and without shortcomings, as illustrated by the Prophet (may Allah's peace and blessings be upon him).\r",
+    "The expiation of sins mentioned in the Hadīth is conditional upon the avoidance of major sins and repentance therefrom. Allah Almighty says: {f you avoid the major sins[20] which are forbidden to you, We will absolve your [minor] sins.} [Surat an-Nisā’: 31]"
+   ],
+   "mapping": "same HadeethEnc record id 6263; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:49+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/6263",
+   "text": "‘Uthmān ibn ‘Affān (may Allah be pleased with him) reported: The Messenger of Allah (may Allah's peace and blessings be upon him) said: \"Whoever performs ablution perfectly, his sins will come out from his body, to the extent that it will come out from under his nails.\"",
+   "title": "Whoever performs ablution perfectly, his sins will come out from his body, to the extent that it will come out from under his nails",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=6263",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:b3b54b34eff878ee20227708aba28b0e55d34536ff82744e7caadc808c181fb0",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) informe quiconque accomplit ses ablutions en prenant bien soin des traditions prophétiques (Sounan) et des bienséances qui y sont liées, que cela fait partie des causes d'expiation des mauvaises actions et de l'effacement des péchés \" au point qu'ils en sortent même \" de sous les ongles de ses mains et de ses pieds.",
+   "grade": "Authentique",
+   "hints": [
+    "L'encouragement à accorder de l'attention à l'apprentissage des ablutions, des traditions prophétiques et des bienséances qui y sont liées, et à la mise en pratique de cela.\r",
+    "Le mérite des ablutions et le fait qu'elles sont une expiation des péchés mineurs. En ce qui concerne les péchés majeurs, le repentir est obligatoire.\r",
+    "La condition de la sortie des péchés est de parfaire les ablutions et de les accomplir sans négligence comme l'a expliqué le Prophète (qu'Allah le couvre d'éloges et le préserve).\r",
+    "L'expiation des péchés dans ce hadith est liée au fait d'éviter les péchés majeurs et de s'en repentir. Allah, Exalté soit-Il, a dit : { Si vous évitez les grands péchés qui vous sont interdits, Nous effacerons de vous vos méfaits } [Les Femmes, 4 : 31]."
+   ],
+   "mapping": "same HadeethEnc record id 6263; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:50+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/6263",
+   "text": "'Outhmân ibn 'Affân (qu'Allah l'agrée) relate que le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) a dit : « Quiconque fait ses ablutions et les accomplit parfaitement, ses péchés quittent son corps au point qu'ils en sortent même de sous ses ongles. »",
+   "title": "Quiconque fait ses ablutions et les accomplit parfaitement, ses péchés quittent son corps au point qu'ils en sortent même de sous ses ongles.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=6263",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:00e866f5871e80bc60662e60c1d778fdd89de638146c694f32e570c3e6cb9811",
+   "explanation": "Nabi ﷺ mengabarkan bahwa orang yang berwudu dengan memperhatikan sunah dan adab-adab wudu, hal itu menjadi sebab penghapusan kesalahan dan pengguguran dosanya, hingga dosa-dosanya keluar dari bawah kuku tangan dan kakinya.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Anjuran untuk serius mempelajari wudu, sunah-sunah dan adab-adabnya serta mengamalkannya.\r",
+    "2- Keutamaan wudu, yaitu sebagai penghapus dosa-dosa kecil, adapun dosa besar maka harus dengan tobat.\r",
+    "3- Syarat keluarnya dosa ialah menyempurnakan wudu dan melaksanakannya tanpa cacat sebagaimana dijelaskan oleh Nabi ﷺ.\r",
+    "4- Penghapusan dosa yang disebutkan di dalam hadis ini diikat dengan syarat menjauhi dosa besar dan bertobat darinya. Allah Ta'ala berfirman, \"Jika kamu menjauhi dosa-dosa besar di antara dosa-dosa yang dilarang mengerjakannya, niscaya Kami hapus kesalahan-kesalahanmu.\" [QS. An-Nisā`: 31]"
+   ],
+   "mapping": "same HadeethEnc record id 6263; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:50+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/6263",
+   "text": "Uṡmān bin 'Affān -raḍiyallāhu 'anhu- meriwayatkan, Rasulullah ﷺ bersabda, \"Siapa yang berwudu dan menyempurnakan wudunya, maka dosa-dosanya akan keluar dari tubuhnya hingga dosanya itu keluar dari bawah kuku-kukunya.\"",
+   "title": "Siapa yang berwudu dan menyempurnakan wudunya, maka dosa-dosanya akan keluar dari tubuhnya hingga dosanya itu keluar dari bawah kuku-kukunya",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=6263",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:4212b2ce117d138fec4a6d94ae3337eca3d4b1a60db002ce6f92f5d606bb81aa",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم بتا رہے ہيں کہ جس نے وضو کی سنتوں اور آداب کا خیال رکھتے ہوئے وضو کیا، تو اس سے اس کے گناہ مٹا دیے جائیں گے۔ یہاں تک کہ اس کے دونوں ہاتھوں اور پیروں کی انگلیوں کے ناخنوں کے نیچے سے بھی گناہ نکل جائيں گے۔",
+   "grade": "صحيح",
+   "hints": [
+    "وضو، اس کی سنتوں اور آداب کو سیکھنے اور ان پر عمل کرنے کی ترغیب۔\r",
+    "وضو کی فضیلت اور اس کا صغیرہ گناہوں کا کفارہ ہونا۔ جہاں تک بڑے گناہوں کی بات ہے، تو ان کے لیے توبہ ضروری ہے۔\r",
+    "گناہوں سے پاک ہونے کے لیے شرط یہ ہے کہ نبی صلی اللہ علیہ وسلم کے بتائے ہوئے طریقے کے مطابق وضو مکمل طور پر کیا جائے اور اس میں کوئی کمی نہ رہنے نہ دیا جائے۔\r",
+    "گناہوں کے مٹا دیے جانے کی جو بات اس حدیث میں آئی ہے‘ وہ کبیرہ گناہوں سے اجتناب اور ان سے توبہ کرنے کے ساتھ مقید ہے۔ اللہ تعالی نے کہا ہے : \"اگر تم ان بڑے گناہوں سے بچتے رہوگے جن سے تم کو منع کیا جاتا ہے، تو ہم تمہارے چھوٹے گناه دور کر دیں گے۔\" [سورہ نساء : 31]"
+   ],
+   "mapping": "same HadeethEnc record id 6263; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:49+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/6263",
+   "text": "عثمان بن عفان رضی اللہ عنہ سے روایت ہے، وہ کہتے ہیں کہ اللہ کے رسول صلی اللہ علیہ و سلم  نے فرمایا : ”جو شخص اچھی طرح سے وضو کرے، اس کے گناہ اس کے جسم سے نکل جاتے ہیں، یہاں تک کہ اس کے ناخنوں کے نیچے سے بھی نکل جاتے ہیں“۔",
+   "title": "”جو شخص اچھی طرح سے وضو کرے، اس کے گناہ اس کے جسم سے نکل جاتے ہیں، یہاں تک کہ اس کے ناخنوں کے نیچے سے بھی نکل جاتے ہیں“۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=6263",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:b3d1dfa423d4b2e1aec18306ea02c043452ace85910f22aef7e6f1924b9e2e1f",
+   "explanation": "先知（愿主福安之）叙述道，凡按照小净的圣行及礼节而做小净者，这便是消除罪行的因素，直至其罪行从他的手指甲和脚指甲下面流出。",
+   "grade": "正确的",
+   "hints": [
+    "鼓励注重洗小净的圣行和礼节并遵行之。\r",
+    "小净之贵，因为它能消除小罪，至于大罪必须要忏悔。\r",
+    "消除罪行的条件是完美的洗小净，正如先知（愿主福安之）所阐明的一般，没有任何疏漏。\r",
+    "该圣训中提到的消除罪行是在远离大罪并做忏悔的前提之下。"
+   ],
+   "mapping": "same HadeethEnc record id 6263; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:50+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/6263",
+   "text": "据欧斯曼·本·安发尼（愿主喜悦之）传述说：安拉的使者（愿主福安之）说： “凡完美的做了小净之人，其罪行将从他的身体内流出，直至从他的指甲下面流出。”",
+   "title": "“凡完美的做了小净之人，其罪行将从他的身体内流出，直至从他的指甲下面流出。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

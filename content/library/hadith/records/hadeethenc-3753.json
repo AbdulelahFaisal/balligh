@@ -1,0 +1,176 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:450538eb9c436d358adf59a76e267e8b9c3a8efa6295183ce5d26461b5100dbe",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يُخبِرُ النبيُّ صلى الله عليه وسلم عن رجُلٍ كان يتعامل مع الناس بالقَرْض، أو يَبِيعُهم بالآجِل، وكان يقول لغلامه الذي يَتَقاضى الدُّيون التي عند الناس: \nإذا أتيتَ مَدِيْنًا ولم يكن عنده ما يقضي به الدَّين الذي عليه لعجزه \"فَتَجَاوَزْ عنه\"؛ إما بإمهالِه وعدم الإلحاح في المطالبة، أو بقبول ما عنده ولو مع ما فيه مِن نَقْص، وذلك رَغْبةٌ منه وطَمَعٌ في أنْ يتجاوزَ اللهُ عنه ويعفوَ عنه.\n\nفلما ماتَ عفا اللهُ عنه وتجاوزَ عن سيئاتِه.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "الإحسان في معاملة الناس والعفو عنهم والتجاوز عن معسرهم من أعظم أسباب نجاة العبد يوم القيامة.",
+  "الإحسان إلى الخلق والإخلاص لله والرجاء في رحمته من أسباب مغفرة الذنوب."
+ ],
+ "id": "hadeethenc-3753",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (4/ 176) (3480).\nصحيح مسلم (3/ 1196) (1562).\nبهجة الناظرين شرح رياض الصالحين، لسليم الهلالي (2/ 458).\nالتنوير شرح الجامع الصغير، للصنعاني (8/ 123).\nكنوز رياض الصالحين، لمجموعة من الباحثين (16/ 402).\nمرقاة المفاتيح شرح مشكاة المصابيح، للقاري (5/ 1953).\nنزهة المتقين شرح رياض الصالحين (2/ 945).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3753",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:50+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3753"
+ },
+ "source_categories": [
+  {
+   "id": "282",
+   "label": "الأخلاق الحميدة"
+  }
+ ],
+ "source_record_id": "3753",
+ "text": "عن أبي هريرة رضي الله عنه أن رسول الله صلى الله عليه وسلم قال: «كان رجلٌ يُدَايِنُ الناسَ، فكان يقول لفتاه: إذا أتيتَ مُعسِرًا فتجاوز عنه، لعل اللهَ يَتجاوزُ عنا، فلقي اللهَ فتجاوز عنه».",
+ "title": "كان رجل يداين الناس، فكان يقول لفتاه: إذا أتيت معسرا فتجاوز عنه، لعل الله يتجاوز عنا",
+ "topic": "conduct",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3753",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:047da24f53ad5b8693c4aef7fa835138faf783efb7733e99a0387b62ca910f89",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম পূর্বযুগের কোন এক লোক সম্পর্কে এ হাদীসে সংবাদ দিয়েছেন, যিনি মানুষকে ঋণ প্রদান করত অথবা বাকীতে বিক্রয় করত। সে তার কর্মচারী বালককে বলে দিত, যে মানুষের থেকে পাওয়ানা আদায় করত: তুমি যখন কোন ঋণগ্রস্তের কাছে পাওনা আদায়ের জন্য যাবে, যে অভাবের কারণে ঋণ আদায়ে অক্ষম, তখন তাকে ছাড় দিবে, হয়ত তার কাছে বারবার না চেয়ে তাকে ঢিল দিবে। অথবা সে যা দিতে পারে তা গ্রহণ করবে; যদিও তাতে ঘাটতি থাকে। এটি এ আশায় যে, হয়ত তাকে আল্লাহ তা‘আলা এ কারণে ক্ষমা করে দিবেন। অতপর লোকটি যখন মারা গেল তখন আল্লাহ তাকে ক্ষমা করে দিলেন এবং তার গুনাহসমূহতে ছাড় দিয়ে দেন।",
+   "grade": "সহীহ",
+   "hints": [
+    "মানুষের সাথে লেনদেনে তাদের প্রতি ইহসান করা, তাদেরকে মার্জনা করা এবং অভাবগ্রস্তকে ঋণ অনাদায়ে ছাড় দেয়া কিয়ামতের দিন বান্দার নাজাতের বড় অসিলা।\r",
+    "সৃষ্টির প্রতি ইহসান, আল্লাহর জন্য ইখলাস (একনিষ্ঠার সাথে কাজ করা) ও তাঁর রহমতের আশা, গুনাহ থেকে ক্ষমা পাওয়ার অন্যতম উপায়।"
+   ],
+   "mapping": "same HadeethEnc record id 3753; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:21+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3753",
+   "text": "আবূ হুরায়রা রাদিয়াল্লাহু আনহু থেকে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন: “পূর্বযুগে কোন এক লোক ছিল, যে মানুষকে ঋণ প্রদান করত। সে তার কর্মচারীকে বলে দিত, তুমি যখন কোন অভাবগ্রস্তের কাছে (পাওনা আদায়ের জন্য) যাবে তখন তাকে ছাড় দিবে। হয়ত আল্লাহ তা‘আলা এ কারণে আমাকে ক্ষমা করে দিবেন। নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেন, যখন সে আল্লাহ তা‘আলার সাক্ষাৎ করল, তখন আল্লাহ তাকে ছাড় দিয়ে দেন।”",
+   "title": "পূর্বযুগে কোন এক লোক ছিল, যে মানুষকে ঋণ প্রদান করত। সে তার কর্মচারীকে বলে দিত, তুমি যখন কোন অভাবগ্রস্তের কাছে (পাওনা আদায়ের জন্য) যাবে তখন তাকে ছাড় দিবে। হয়ত আল্লাহ তা‘আলা এ কারণে আমাকে ক্ষমা করে দিবেন।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3753",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:782207515a2fd14a1e62efdd93eb85af50ad25decc34b68985a2937c724fe05e",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) talks about a man who used to give loans to people or sell to them with deferred payment. He used to say to his servant who would collect debts from the people: When you go to a debtor and find him unable to repay the debt, \"overlook his debt\", either by giving him respite or not pressing him to pay, or by accepting the little he offers, though it falls below the due amount. He did that in the hope that Allah would pardon and forgive him. When he died, Allah forgave him and overlooked his sins.",
+   "grade": "Authentic",
+   "hints": [
+    "Dealing with people in a benevolent and forgiving manner and overlooking the debts of those who are insolvent is one of the greatest means of salvation on the Day of Judgment.\r",
+    "Benevolence towards people, sincerity toward Allah, and hoping for His mercy are the means for the forgiveness of sins."
+   ],
+   "mapping": "same HadeethEnc record id 3753; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:21+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3753",
+   "text": "Abu Hurayrah (may Allah be pleased with him) reported: The Messenger of Allah (may Allah's peace and blessings be upon him) said: \"There was a man who used to give loans to people. He would say to his servant: ‘When you come to an insolvent person, overlook his debt; perhaps Allah would overlook our sins.’ So, the man met Allah (after death), and He overlooked his sins.\"",
+   "title": "There was a man who used to give loans to people. He would say to his servant: ‘When you come to an insolvent person, overlook his debt; perhaps Allah would overlook our sins.’",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=3753",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:aed3e7f88b1ac6375c633d97b7ea13bb99e68d184f26e0699843a0cf87b0b559",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) informe au sujet d'un homme qui faisait des prêts aux gens ou qu'il leur vendait tout en leur accordant des délais. Il disait à son garçon qui était en charge de récupérer les dettes auprès des gens : ‘ Lorsque tu te rends auprès d'une personne endettée et qu'elle n'a pas de quoi rembourser la dette qu'elle a contractée en raison d'une incapacité, sois conciliant : accorde lui un délai et n'insiste pas dans la demande ; ou accepte ce qu'il possède, même si c'est moins [que ce qu'il doit]. ' Il faisait cela dans l'espoir qu'Allah soit conciliant avec lui et lui pardonne. Et lorsqu'il est mort, Allah lui pardonna et passa outre ses mauvaises actions.",
+   "grade": "Authentique",
+   "hints": [
+    "La bienfaisance dans les interactions avec les gens, le fait de leur pardonner et d'être conciliant avec les personnes en difficulté font partie des plus grandes causes de délivrance du serviteur au Jour de la Résurrection.\r",
+    "La bienfaisance envers les créatures, la sincérité envers Allah et l'espoir d'obtenir Sa miséricorde font partie des causes du pardon des péchés."
+   ],
+   "mapping": "same HadeethEnc record id 3753; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:21+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/3753",
+   "text": "Aboû Hourayrah (qu'Allah l'agrée) relate que le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) a dit : \"Un homme avait l'habitude de prêter de l'argent aux gens. Il disait à son servant : ' Si tu rencontres une personne en difficulté, sois conciliant ! Peut-être qu’Allah le sera avec nous. ' Et lorsqu’il rencontra Allah, Il fut conciliant avec lui. \"",
+   "title": "Un homme avait l'habitude de prêter de l'argent aux gens. Il disait à son servant : ' Si tu rencontres une personne en difficulté, sois conciliant ! Peut-être qu’Allah le sera avec nous",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3753",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:f8a529212106be07d869e610f43a82faa09d45f582cb8aa839ab7d8d172bc0a1",
+   "explanation": "Nabi ﷺ mengabarkan tentang seorang laki-laki yang memberikan pinjaman utang kepada orang lain, atau berjualan dengan mereka menggunakan sistem pembayaran bertempo, dan dia selalu berpesan kepada pembantunya yang bertugas menagih utang yang ada pada orang lain: jika engkau menagih orang yang berutang kepada kita, sementara ia tidak memiliki sesuatu untuk melunasi utangnya karena ia belum mampu, maka maafkanlah, baik dengan cara diberi penangguhan dan tidak dituntut paksa, atau dengan menerima apa yang dimilikinya sekalipun kurang. Hal itu ia lakukan karena berharap Allah akan memberinya ampunan dan memaafkannya. Ketika ia meninggal dunia, Allah memaafkannya dan mengampuni dosa-dosanya.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Berbuat baik dalam muamalah kepada manusia dan memaafkan mereka serta memberikan kemudahan bagi orang yang mengalami kesulitan termasuk sebab keselamatan hamba yang paling besar kelak di hari kiamat.\r",
+    "2- Berbuat baik kepada manusia, ikhlas kepada Allah dan mengharapkan rahmat-Nya termasuk sebab pengampunan dosa."
+   ],
+   "mapping": "same HadeethEnc record id 3753; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:21+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3753",
+   "text": "Abu Hurairah -raḍiyallāhu 'anhu- meriwayatkan bahwa Rasulullah ﷺ bersabda, \"Dahulu ada seorang laki-laki yang biasa memberikan pinjaman utang kepada orang lain. Dia selalu berpesan kepada pembantunya, 'Jika engkau mendapatkan orang yang kesulitan, maka maafkanlah ia, semoga Allah memaafkan kita (di akhirat).' Kemudian dia menemui Allah (meninggal), dan Allah pun memaafkannya.\"",
+   "title": "Dahulu ada seorang laki-laki yang biasa memberikan pinjaman utang kepada orang lain. Dia selalu berpesan kepada pembantunya, 'Jika engkau mendapatkan orang yang kesulitan, maka maafkanlah ia, semoga Allah memaafkan kita (di akhirat)",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3753",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:5d187a59c60c1ee9f1fb78b11791029ca5f66e57a66f8cc7b5f9ee27c15a7263",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم ایک ایسے شخص کے بارے میں بتا رہے ہیں، جو لوگوں کو قرض دیا کرتا تھا یا سامان ادھار بیچا کرتا تھا‘ اور قرض کی وصولی کے لیے لوگوں کے پاس جانے والے اپنے کارندے سے کہا کرتا تھا کہ: جب تم ایسے قرض دار کے یہاں جاؤ، جس کے پاس قرض چکانے کے لیے کچھ نہ ہو، تو اس کے ساتھ درگزر سے کام لو۔ یعنی یا تو اس سے اصرار کے ساتھ مطالبہ نہ کرو اور کچھ مہلت دے دو‘ یا پھر اس کے پاس کم و بیش جو بھی ہو لے لو۔ اپنے کارندے کو اس طرح کا حکم وہ اس امید میں دیا کرتا تھا کہ ہو سکتا ہے کہ اللہ اس کے ساتھ درگزر سے کام لے اور اسے معاف کر دے۔ چنانچہ جب اس کی وفات ہوئی تو اللہ نے اس کے ساتھ درگزر سے کام لیا اور اس کے گناہ معاف کر دیے۔",
+   "grade": "صحيح",
+   "hints": [
+    "لوگوں کے ساتھ معاملہ کرتے وقت ان پر احسان کرنا، ان کو معاف کر دینا اور نادار لوگوں کے ساتھ درگزر سے کام لینا قیامت کے دن بندے کی نجات کا ایک بہت بڑا سبب ہے۔\r",
+    "مخلوق پر احسان کرنا، اللہ کے تئیں مخلص ہونا اور اس کی رحمت کی امید رکھنا گناہوں کی بخشش کا سبب ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 3753; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:21+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3753",
+   "text": "ابوھریرہ رضی اللہ عنہ سے روایت ہے کہ اللہ کے رسول ﷺ نے فرمایا: \"ایک شخص لوگوں کو قرض دیا کرتا تھا۔ وہ اپنے کارندے کو (جب قرض کی وصولی کے لئے بھیجتا تو) کہہ دیتا : اگر تم کسی تنگ دست کے پاس آؤ تو اس سے درگزر کرنا ۔ ہو سکتا ہے کہ اللہ بھی ہم سے درگزر کرے۔ چنانچہ جب وہ اللہ تعالیٰ سے ملا تو اللہ نے اسے بخش دیا۔“",
+   "title": "ایک شخص لوگوں کو قرض دیا کرتا تھا۔ وہ اپنے کارندے کو (جب قرض کی وصولی کے لئے بھیجتا تو) کہہ دیتا : اگر تم کسی تنگ دست کے پاس آؤ تو اس سے درگزر کرنا ۔ ہو سکتا ہے کہ اللہ بھی ہم سے درگزر کرے",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3753",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:929121737a9769f051a4e3626104ccc1b7e30693cd47fe2aadf7a08e1f820280",
+   "explanation": "先知（愿主福安之）叙述道，曾有人给人们借债，或给他们赊账出售货物。 他嘱咐专门负责讨债的侍从说： 当你去见一位困难、无力偿还债务之人时，当谅解他，要么宽限时日，不要追债。 或接受他能够给出的东西，即使有欠缺也无妨，这是因为他渴望得到安拉的原谅和饶恕。 当他归真以后，安拉便饶恕了他，并原谅了他的罪行。",
+   "grade": "正确的",
+   "hints": [
+    "善待他人，原谅他们，宽限困难之人的债务，这是仆人在复生日得以获救的最大因素之一。\r",
+    "善待众生，虔诚为主，希望他的疼慈，这是罪行得到饶恕的因素之一。"
+   ],
+   "mapping": "same HadeethEnc record id 3753; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:21+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3753",
+   "text": "据艾布·胡莱勒（愿主喜悦之）传述，安拉的使者（愿主福安之）说： “曾有一个人给人们借出了一些债务，他对他的侍从说：当你去见苦难之人时，当原谅他，希望安拉原谅我们。然后他见到了安拉，并得到了安拉的原谅。",
+   "title": "“曾有一个人给人们借出了一些债务，他对他的侍从说：当你去见苦难之人时，当原谅他，希望安拉原谅我们",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [
+  {
+   "meaning": " يكثر من التعامل مع الناس بالدين.",
+   "word": "يداين"
+  },
+  {
+   "meaning": " غلامه الذي يكلفه بالعمل.",
+   "word": "فتاه"
+  },
+  {
+   "meaning": " لمطالبته بما عليه.",
+   "word": "أتيت معسرًا"
+  }
+ ],
+ "words_meanings_language": "ar"
+}

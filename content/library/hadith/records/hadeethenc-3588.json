@@ -1,0 +1,163 @@
+{
+ "attribution": "رواه النسائي وأحمد",
+ "content_sha256": "sha256:c01a672840528dc6bbb8361958a511336c27bf813c54c888c42ad31fd9f273aa",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يُخبرنا النبيُّ صلى الله عليه وسلم أنَّ تنظيفَ الأسنانِ بِعُوْدِ شجرةِ الأَرَاك ونحوِه يُطَهِّر الفَمَ من الأوساخ والروائح الكريهة، \nوأنه مِن أسباب رضا الله عن العبد؛ لأن فيه طاعة لله واستجابة لأمره، ولما فيه من النظافة التي يحبها الله تعالى.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "فضيلة التَّسَوُّك، وترغيب النبي صلى الله عليه وسلم أمَّته الإكثار منه.",
+  "الأفضل في التسوُّك استعمال عُوْد شجر الأراك، واستعمل الفرشاة والمعجون يقومُ مقامَه."
+ ],
+ "id": "hadeethenc-3588",
+ "language": "ar",
+ "narrator": null,
+ "reference": "سنن النسائي (1/ 10) (5).\nمسند أحمد (40/ 240) (24203).\nبهجة الناظرين شرح رياض الصالحين، لسليم الهلالي (2/ 342).\nنزهة المتقين شرح رياض الصالحين، لمصطفى الخِن وغيره (2/ 852).\nتطريز رياض الصالحين، لفيصل آل مبارك (ص675).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3588",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:40+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3588"
+ },
+ "source_categories": [
+  {
+   "id": "436",
+   "label": "سنن الفطرة"
+  }
+ ],
+ "source_record_id": "3588",
+ "text": "عن عائشة رضي الله عنها قالت: قال رسول الله صلى الله عليه وسلم: «السِّوَاكُ مَطْهَرَةٌ لِلْفَمِ، مَرْضَاةٌ لِلرَّبِّ».",
+ "title": "السواك مطهرة للفم، مرضاة للرب",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3588",
+   "arabic_match": "exact",
+   "attribution": "এটি নাসাঈ ও আহমাদ বর্ণনা করেছেন।",
+   "content_sha256": "sha256:c51c4d5f51ab95e72671bb0bdd75eaa1660db8c0ef888b7681b89a57824a90f1",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এ হাদীসে বর্ণনা করেছেন যে, আরাক গাছ বা অনুরূপ কোন গাছের ডাল দিয়ে দাত মাজন মুখের ময়লা আবর্জনা ও দুর্গন্ধ থেকে মুখকে পবিত্র করে। আর মিসওয়াক করা বান্দার প্রতি আল্লাহর সন্তুষ্টির অন্যতম উপায়; কেননা এতে রয়েছে আল্লাহর আনুগত্য ও তাঁর নির্দেশের মান্যতা। এছাড়াও মিসওয়াকে রয়েছে পরিস্কার পরিচ্ছন্নতা, যা আল্লাহ তা‘আলা পছন্দ করেন।",
+   "grade": "সহীহ",
+   "hints": [
+    "মিসওয়াকের ফযিলত বর্ণিত হয়েছে। নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাঁর উম্মতকে বেশি বেশি মিসওয়াক করতে উৎসাহিত করেছেন।\r",
+    "আরাক গাছের কাঠ দ্বারা মিসওয়াক করা উত্তম। ব্রাশ ও পেস্ট এর স্থলাভিষিক্ত হবে।"
+   ],
+   "mapping": "same HadeethEnc record id 3588; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:47+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3588",
+   "text": "‘আয়িশা রাদিয়াল্লাহু ‘আনহা থেকে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন: “মিসওয়াক মুখের পবিত্রতা অর্জনের উপকরণ ও আল্লাহর সন্তোষ লাভের উপায়।”",
+   "title": "“মিসওয়াক মুখের পবিত্রতা অর্জনের উপকরণ ও আল্লাহর সন্তোষ লাভের উপায়।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3588",
+   "arabic_match": "exact",
+   "attribution": "Narrated by An-Nasā’i and Ahmad",
+   "content_sha256": "sha256:74d6daf19edb8290de5b50db3c8c84548eaee4d3630f04bf184126653410e77f",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) informs us that cleaning our teeth with a stick from the Arak tree and the like purifies the mouth from dirt and foul smells. Also, it is one of the means for winning Allah's pleasure, for its use constitutes obedience to Allah and observance of His command, and it brings about cleanliness which Allah Almighty likes.",
+   "grade": "Authentic",
+   "hints": [
+    "This points out the merit of using the tooth stick. The Prophet (may Allah's peace and blessings be upon him) encouraged his Ummah to use it often.\r",
+    "When cleaning your teeth with a stick, it is better to use a stick from the Arak tree. A toothbrush and toothpaste can be used instead of a stick."
+   ],
+   "mapping": "same HadeethEnc record id 3588; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:47+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3588",
+   "text": "‘Ā’ishah (may Allah be pleased with her) reported: The Messenger of Allah (may Allah's peace and blessings be upon him) said: \"The tooth-stick purifies the mouth and pleases the Lord.\"",
+   "title": "The tooth-stick purifies the mouth and pleases the Lord",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=3588",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par An-Nassâ'î et Ahmad",
+   "content_sha256": "sha256:19ca9a598265263d8cf08667bdd8e199e63f59ca05ee19f4fc51cefd11f81ef5",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) nous informe que le fait de se nettoyer les dents avec un bâton de bois d'Arâk, ou ce qui y ressemble, purifie la bouche des saletés et des odeurs désagréables. et qu'il fait partie des causes qui font qu'Allah est satisfait du serviteur ; ceci, car il s'y trouve une obéissance à Allah ainsi qu'une réponse à Son ordre, et aussi pour ce qu'il s'y trouve de propreté aimée par Allah, Exalté soit-Il.",
+   "grade": "Authentique",
+   "hints": [
+    "Le mérite de se nettoyer les dents avec un bâton de bois d’Arâk, et l'encouragement du Prophète (qu'Allah le couvre d'éloges et le préserve) afin que sa communauté multiplie cette action.\r",
+    "Le meilleur est d'utiliser un bâton de bois d'Arâk, et l'utilisation d'une brosse à dent et de dentifrice peut être fait à sa place."
+   ],
+   "mapping": "same HadeethEnc record id 3588; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:47+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/3588",
+   "text": "'Âichah (qu'Allah l'agrée) relate : \"Le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) a dit : \"Le siwâk est une purification pour la bouche et une satisfaction du Seigneur. \"",
+   "title": "Le siwâk est une purification pour la bouche et une satisfaction du Seigneur.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3588",
+   "arabic_match": "exact",
+   "attribution": "HR. Nasai dan Ahmad",
+   "content_sha256": "sha256:a6e6b7c7a4118044469e77bb4451b2e0ee0f8dc59a34b5a02b0a09feb11b38fc",
+   "explanation": "Nabi ﷺ mengabarkan kepada kita bahwa membersihkan gigi dengan akar pohon siwak dan semisalnya dapat membersihkan mulut dari kotoran serta aroma tidak sedap. Bersiwak termasuk penyebab keridaan Allah terhadap seorang hamba, karena di dalamnya terkandung ketaatan kepada Allah dan penerapan perintah-Nya, dan ia juga termasuk kebersihan yang dicintai oleh Allah Ta'ala.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Keutamaan bersiwak serta anjuran Nabi ﷺ kepada umat beliau agar memperbanyak melakukannya.\r",
+    "2- Bersiwak lebih afdal menggunakan akar pohon arak, atau bisa juga menggunakan sikat gigi dan pasta gigi."
+   ],
+   "mapping": "same HadeethEnc record id 3588; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:47+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3588",
+   "text": "Aisyah -raḍiyallāhu 'anhā- meriwayatkan, ia berkata, Rasulullah ﷺ bersabda, \"Siwāk itu membersihkan mulut dan mendatangkan keridaan Rabb.\"",
+   "title": "Siwāk itu membersihkan mulut dan mendatangkan keridaan Rabb",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3588",
+   "arabic_match": "exact",
+   "attribution": "رواه النسائي وأحمد",
+   "content_sha256": "sha256:032e32d1924ab7c7f5d2bf36c030f164fbc6eda6186cd0f48f60333f827e2121",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم ہمیں بتا رہے ہیں کہ پیلو وغیرہ کی شاخ  سے دانتوں کو صاف کرنا منہ کو گندگیوں اور بدبو سے پاک کرتا ہے۔ اور اس کے ذریعہ اللہ بندہ  سے راضی بھی ہوتا ہے۔ کیوں کہ یہ اللہ کی اطاعت گزاری اور اس کے حکم کی تعمیل ہے اور اس سے صفائی ستھرائی بھی حاصل ہوتی ہے، جو اللہ کو پسند ہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "مسواک کرنے کی فضیلت اور اللہ کے نبی صلی اللہ علیہ و سلم کی اپنی امت کو اس بات کی ترغیب کہ وہ زیادہ سے زیادہ مسواک کیا کریں۔\r",
+    "بہتر یہ ہے کہ انسان پیلو پیڑ کی شاخ سے مسواک کرے، لیکن برش اور ٹوتھ پیسٹ کا استعمال بھی اس کے قائم مقام ہوگا۔"
+   ],
+   "mapping": "same HadeethEnc record id 3588; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:47+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3588",
+   "text": "عائشہ رضی اللہ عنہا سے روایت ہے، وہ کہتی ہیں کہ رسول اللہ ﷺ نے فرمایا: ”مسواک منہ کی پاکیزگی اور رب کی رضا کا موجب ہے“۔",
+   "title": "”مسواک منہ کی پاکیزگی اور رب کی رضا کا موجب ہے“۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3588",
+   "arabic_match": "exact",
+   "attribution": "奈萨仪、艾哈迈德辑录",
+   "content_sha256": "sha256:0ef753573f8944a952a3f02ea7983fbe9022fcbfe22d6b8f9cdbeebcf16fcc4f",
+   "explanation": "先知（愿主福安之）告诉我们，用树枝清洁牙齿，能祛除口腔内的污垢和异味， 这也是安拉喜悦仆人的因素之一，因为其中有服从安拉，应答其命令，还有安拉所喜爱的清洁卫生。",
+   "grade": "正确的",
+   "hints": [
+    "刷牙之优越，先知（愿主福安之）鼓励他的民众多刷牙。\r",
+    "最好的刷牙是使用树枝，使用牙刷和牙膏也是可以的。"
+   ],
+   "mapping": "same HadeethEnc record id 3588; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:47+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3588",
+   "text": "据阿伊莎（愿主喜悦之）传述：安拉的使者（愿主福安之）说： “刷牙是洁净口腔，取悦养主。”",
+   "title": "“刷牙是洁净口腔，取悦养主。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

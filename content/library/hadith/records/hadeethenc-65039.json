@@ -1,0 +1,181 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:bd84d4f4d3a553a0165fb87ad3ee7d0eaa469f802b538ff4c2dd2f5921806519",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "بيَّن النبي صلى الله عليه وسلم أن كل شيء بقدر؛ \nحتى العجز وهو: ترك ما يجب فعله والتسويف به وتأخيره عن وقته، بأمور الدنيا والآخرة. \nوحتى الْكَيْسُ وهو: النشاط والحِذْق بأمور الدنيا والآخرة. \nوإن الله عز وجل قد قدَّر العجز والكيس وكل شيء، لا يقع في الوجود إلا وقد سبق به علم الله ومشيئته.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "بيان اعتقاد الصحابة رضوان الله عليهم في القدر.",
+  "كل شيء يحصل بقدر الله حتى العجز والنشاط.",
+  "تثبت وحذر الصحابة رضوان الله عليهم في نقل حديث رسول الله صلى الله عليه وسلم.",
+  "الإيمان بالقدر كله خيره وشره."
+ ],
+ "id": "hadeethenc-65039",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (4/ 2045) (2655)، إكمال المعلم (8/143)، شرح النووي على مسلم (16/205)، الفتح الرباني لترتيب مسند الإمام أحمد بن حنبل الشيباني (1/ 122).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=65039",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:35+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/65039"
+ },
+ "source_categories": [
+  {
+   "id": "64",
+   "label": "الإيمان بالقضاء والقدر"
+  },
+  {
+   "id": "86",
+   "label": "مراتب القضاء والقدر"
+  }
+ ],
+ "source_record_id": "65039",
+ "text": "عَنْ طَاوُسٍ أَنَّهُ قَالَ: أَدْرَكْتُ نَاسًا مِنْ أَصْحَابِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، يَقُولُونَ كُلُّ شَيْءٍ بِقَدَرٍ، قَالَ: وَسَمِعْتُ عَبْدَ اللهِ بْنَ عُمَرَ رضي الله عنهما يَقُولُ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «كُلُّ شَيْءٍ بِقَدَرٍ، حَتَّى الْعَجْزِ وَالْكَيْسِ، أَوِ الْكَيْسِ وَالْعَجْزِ».",
+ "title": "كل شيء بقدر، حتى العجز والكيس، أو الكيس والعجز",
+ "topic": "belief",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=65039",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:20a814c2311fb68b2ce9c8e6f09a4e324d0f01d4db15e41eb25930e03fc892b5",
+   "explanation": "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বর্ণনা করেছেন যে, প্রতিটি জিনিস তাকদীর অনুসারেই ঘটবে। এমনকি অপারগতা (العجز), তা হচ্ছে: পছন্দনীয় কাজ ত্যাগ করা, তা বিলম্বে আদায় করা এবং নির্ধারিত সময় পার হয়ে যাওয়ার পরে আদায় করা, হোক তা দুনিয়াবী অথবা আখিরাতের কোন কাজ। আর যোগ্যতা (الْكَيْسُ) হচ্ছে: দুনিয়া হোক বা আখিরাতের যে কোন কাজে তৎপরাতা ও দক্ষতা। নিশ্চয় আল্লাহ তা‘আলা অপারগতা, যোগ্যতা এবং প্রতিটি বস্তুকে নির্ধারণ করে রেখেছেন, কোন বস্তু শুধুমাত্রে আল্লাহর জ্ঞান ও ইচ্ছা অনুসারেই অস্তিত্বে আসতে পারে।",
+   "grade": "সহীহ",
+   "hints": [
+    "হাদীসে সাহাবী রদিয়াল্লাহু ‘আনহুমের তাকদীর বিষয়ে আক্বীদার বর্ণনা করা হয়েছে।\r",
+    "তৎপরতা ও অপারগতাসহ প্রতিটি বস্তুই আল্লাহর পূর্ব-নির্ধারণ তথা তাকদীর অনুসারে অর্জিত হবে।\r",
+    "সাহাবী রদিয়াল্লাহু ‘আনহুমের রাসূলুল্লাহু সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের হাদীস বর্ণনার ক্ষেত্রে সতর্কতা ও সঠিকতা যাচাই করা বর্ণনা।\r",
+    "ভালো-মন্দ যাই হোক তাকদীরের প্রতি পরিপূর্ণ ঈমান রাখা।"
+   ],
+   "mapping": "same HadeethEnc record id 65039; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:32+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/65039",
+   "text": "ত্বাঊস (রহিমাহুল্লাহ) হতে বর্ণিত, তিনি বলেছেন: আমি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের অনেক সাহাবীর সাক্ষাৎ পেয়েছি, যারা বলতেন: প্রতিটি বস্তু তাকদীর অনুযায়ীই হয়। তিনি আরো বলেছেন: আমি আব্দুল্লাহ ইবনু ‘উমার রদিয়াল্লাহু ‘আনহুমাকে বলতে শুনেছি, তিনি বলেছেন: আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন: “প্রতিটি বিষয় তাকদীর অনুসারেই হয়, এমনকি অপারগতা এবং যোগ্যতা। অথবা (তিনি বলেছেন:) যোগ্যতা এবং অপারগতা।”",
+   "title": "“প্রতিটি বিষয় তাকদীর অনুসারেই হয়, এমনকি অপারগতা এবং যোগ্যতা। অথবা (তিনি বলেছেন:) যোগ্যতা এবং অপারগতা।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=65039",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:e2a0deafcd1d7a614aa8f5adfa7de47966aa1920a76ccdd9f00ede96c1dab246",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) pointed out that everything is decreed, even incapacity, which is failure to do what should be done - in matters of this world and the Hereafter - and procrastinating and delaying it beyond its due time; and even capacity, which is vigor and proficiency in matters of worldly life and the Hereafter; and that Allah Almighty had predestined capacity and incapacity, and everything that happens in the universe had already been known and willed by Allah.",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth demonstrates the Companions' belief in predestination.\r",
+    "Everything happens by Allah's predestination, even people's incapacity and vigor.\r",
+    "The Companions (may Allah be pleased with them) were cautious and meticulous in conveying the Prophet's Hadīths.\r",
+    "We should believe in all predestination, including its pleasant and unpleasant aspects."
+   ],
+   "mapping": "same HadeethEnc record id 65039; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:32+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/65039",
+   "text": "Tāwūs reported: I found some of the Prophet's Companions say: \"Everything is decreed.\" I heard ‘Abdullah ibn ‘Umar say: The Messenger of Allah (may Allah’s peace and blessings be upon him) said: \"Everything is decreed, even incapacity and capacity, or capacity and incapacity.\"",
+   "title": "Everything is decreed, even incapacity and capacity, or capacity and incapacity",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=65039",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:a3576596f577cbe289362e679452e5370ea85150f2c8af2ceb19c9191404c2ca",
+   "explanation": "Le Prophète (qu’Allah le couvre d’éloges et le préserve) a expliqué que toute chose est prédestinée ; y compris l'impuissance, qui est le fait de délaisser ce qu'il est obligatoire de faire, de le remettre à plus tard ou encore le retarder au regard de son temps, qu'il s'agisse d'affaires mondaines ou de l'au-delà. Et y compris l'aptitude, qui est le fait d'être actif et perspicace concernant les affaires mondaines et celles de l'au-delà. Allah a certes décrété l'impuissance et l'aptitude, et toute chose qui se produit dans l'existence a été précédée par la science d'Allah et Sa volonté.",
+   "grade": "Authentique",
+   "hints": [
+    "L'explication de la croyance des Compagnons (qu'Allah les agrée) concernant la Prédestination.\r",
+    "Toute chose qui arrive est prédestinée par Allah, y compris l'impuissance et l'aptitude.\r",
+    "La façon dont les Compagnons (qu'Allah les agrée) s'assuraient [de la provenance] des récits concernant le Messager d'Allah (qu’Allah le couvre d’éloges et le préserve) et étaient prudents quant à leur transmission.\r",
+    "La foi au Destin dans son intégralité, son bien et son mal."
+   ],
+   "mapping": "same HadeethEnc record id 65039; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:32+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/65039",
+   "text": "Ṭâwous relate : « J'ai rencontré des personnes parmi les Compagnons du Messager d'Allah (qu’Allah le couvre d’éloges et le préserve) qui disaient que toute chose est prédestinée. » Il a dit : « J'ai entendu 'Abdoullâh ibn 'Oumar (qu'Allah l'agrée, lui et son père) dire que le Messager d'Allah (qu’Allah le couvre d’éloges et le préserve) a dit : \"Toute chose est prédestinée, y compris l'impuissance et l'aptitude, ou l'aptitude et l'impuissance !\" »",
+   "title": "Toute chose est prédestinée, y compris l'impuissance et l'aptitude, ou l'aptitude et l'impuissance !\"",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=65039",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:646d38323855a24d585fcc27a134e2b52cd42fcd8ed8377d9f82b764ee254821",
+   "explanation": "Nabi ﷺ menjelaskan bahwa segala sesuatu terjadi sesuai dengan takdir, bahkan hingga kelemahan; yaitu meninggalkan sesuatu yang wajib dilakukan atau menunda-nundanya dan mengakhirkannya hingga lewat waktu, dalam urusan dunia dan akhirat. Demikian juga hingga kecerdasan, yaitu semangat dan kecakapannya dalam urusan dunia dan akhirat. Sungguh Allah ﷻ telah menetapkan kelemahan, kecerdasan, dan segala sesuatu. Semuanya tidak akan terjadi di dunia ini, kecuali telah diketahui dan dikehendaki oleh Allah.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Penjelasan akidah para sahabat -riḍwānullāh 'alaihim- terkait masalah takdir.\r",
+    "2- Segala sesuatu terjadi sesuai dengan takdir Allah hingga kelemahan dan kecerdasan.\r",
+    "3- Para sahabat -raḍiyallāhu 'anhum- selalu memverifikasi dan berhati-hati saat meriwayatkan hadis Rasulullah ﷺ.\r",
+    "4- Mengimani takdir secara keseluruhan; yang baik dan yang buruk."
+   ],
+   "mapping": "same HadeethEnc record id 65039; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:32+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/65039",
+   "text": "Ṭāwūs meriwayatkan, ia berkata, \"Aku bertemu sejumlah orang dari kalangan sahabat Rasulullah ﷺ, mereka mengatakan: Segala sesuatu terjadi berdasarkan takdir.\" Dia juga berkata, \"Aku telah mendengar Abdullah bin Umar -raḍiyallāhu 'anhumā- berkata, Rasulullah ﷺ bersabda, \"Segala sesuatu terjadi berdasarkan takdir. Bahkan sampai kelemahan dan kecerdasan, atau kecerdasan dan kelemahan.\"",
+   "title": "Segala sesuatu terjadi berdasarkan takdir. Bahkan sampai kelemahan dan kecerdasan, atau kecerdasan dan kelemahan",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=65039",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:80304bfcbe167b3206e0c62b2ec3862906d8b4a35505ee76c060c9a5e365aef2",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ وسلم نے یہ وضاحت فرمائی ہے کہ ہر چیز (اللہ کی مقرر کردہ) تقدیر کے تحت سامنے آتی ہے۔ یہاں تک کہ عاجزی بھی۔ یعنی جو کام کرنا واجب ہے، اسے ترک کرنا، اس میں ٹال مٹول کرنا اور اسے اس کے وقت سے مؤخر کرنا بھی۔ کام خواہ دنیوی ہو یا اخروی۔ اور یہاں تک کہ چاق و چوبند ہونا بھی، جس کے معنی ہیں، دنیوی اور اخروی امور میں نشاط اور مہارت۔ اللہ عز و جل نے عاجزی، قدرت و نشاط اور ہر ایک چیز کو مقدر فرما رکھا ہے۔ کوئی بھی چیز اللہ کے علم اور مشیت کے بغیر واقع نہیں ہوتی۔",
+   "grade": "صحيح",
+   "hints": [
+    "تقدیر کے سلسلے میں صحابۂ کرام کے عقیدے کی وضاحت۔\r",
+    "ہر ایک چیز اللہ کی (مقرر کردہ) تقدیر کے مطابق سامنے آتی ہے، یہاں تک کہ عاجزی اور قدرت و نشاط بھی۔\r",
+    "اللہ کے نبی صلی اللہ علیہ وسلم کی حدیث کو منتقل کرنے میں صحابۂ کرام رضی اللہ عنہم کا احتیاط اور بیدار مغزی۔\r",
+    "بھلی بری ہر تقدیر ہر ایمان رکھنا۔"
+   ],
+   "mapping": "same HadeethEnc record id 65039; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:32+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/65039",
+   "text": "طاوس سے مروی ہے, وہ کہتے ہیں: میں نے رسول اللہ ﷺ کے متعدد صحابہ کو پایا، وہ سب کے سب یہ کہتے تھے کہ ہر چیز (اللہ کی مقرر کردہ) تقدیر کے تحت سامنے آتی ہے اور میں نے حضرت عبداللہ بن عمر رضی اللہ تعالیٰ عنہ سے سنا ہے، وہ کہہ رہے تھے کہ رسول اللہ ﷺ نے فرمایا ہے : ’’ہر چیز (اللہ کی مقرر کردہ) تقدیر کے تحت سامنے آتی ہے، یہاں تک کہ (کسی کام کو) نہ کر سکنا اور کر سکنا بھی۔ یا پھر یہ کہا کہ (کسی کام کو) کر سکنا اور نہ کر سکنا بھی۔‘‘",
+   "title": "’’ہر چیز (اللہ کی مقرر کردہ) تقدیر کے تحت سامنے آتی ہے، یہاں تک کہ (کسی کام کو) نہ کر سکنا اور کر سکنا بھی۔ یا پھر یہ کہا کہ (کسی کام کو) کر سکنا اور نہ کر سکنا بھی۔‘‘",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=65039",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:445cf09866b0634712dabd6d7c43778bf9e3724299ff2ddd14f41b4e814997a2",
+   "explanation": "先知（愿主福安之）阐明，万事皆凭定然； 甚至是无能：即放弃应该的做的事情，关于今后两世的事情，他都拖延和不按时完成。 甚至是聪慧：即对今后两世之事所表现出的活跃和机智。 的确安拉已经注定了无能、聪慧和万事，凡天地间存在的东西，安拉均对其有超前的知识和意欲。",
+   "grade": "正确的",
+   "hints": [
+    "说明圣门弟子们对前定的信仰。\r",
+    "万物均依前定而发生，甚至是无能和聪慧。\r",
+    "圣门弟子们在传述使者（愿主福安之）的圣训当中的谨慎和警惕。\r",
+    "信仰好与坏的一切前定。"
+   ],
+   "mapping": "same HadeethEnc record id 65039; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:32+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/65039",
+   "text": "据塔乌斯传述说：我赶上了部分圣门弟子，他们都说万事皆凭定然，他说：我听阿卜杜拉·本·欧玛尔（愿主喜悦他俩）说：安拉的使者（愿主福安之）说： “万事皆凭定然，甚至是无能和聪慧，或者是聪慧和无能。”",
+   "title": "“万事皆凭定然，甚至是无能和聪慧，或者是聪慧和无能。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

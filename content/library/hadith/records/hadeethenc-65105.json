@@ -1,0 +1,189 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:973805f4775191c371935c4f501aeacfd37fdb90abf8d2243c12c1f9e289cd67",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "أتى عثمانُ بن أبي العاص رضي الله عنه إلى النبيِّ صلى الله عليه وسلم فقال: يا رسول الله إن الشيطان قد حَجَزَ بيني وبين صلاتي، ومَنَعني الخشوعَ فيها، وخَلَطَ عليَّ قراءتي وشَكَّكَني فيها، \nفقال له رسول الله صلى الله عليه وسلم: ذاك هو شيطان يقال له خِنْزَبٌ، فإذا وَجَدْتَ هذا وشَعَرتَ به فاعتصم بالله، واستعذ بالله منه، وانفخ عن يسارك مع يَسِيْرٍ مِن الرِّيْق ثلاث مرات، قال عثمان: ففعلتُ ما أَمَرَني به النبيُّ صلى الله عليه وسلم فأذْهَبَه الله عني.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "أهمية الخشوعِ وحضورِ القلب في الصلاة، وأن الشيطان يجتهد في التَّشْوِيْشِ والتَّشْكِيْكِ فيها.",
+  "استحباب التَّعَوُّذِ من الشيطان عند وسوسته في الصلاة، مع التَّفْل عن اليسار ثلاثًا.",
+  "بيان ما كان عليه الصحابة رضي الله عنهم من رجوعِهم إلى النبي صلى الله عليه وسلم فيما يحصل لهم من المشكلات حتى يحلها لهم.",
+  "حياة قلوب الصحابة، وأنّ همَّهم الآخرة."
+ ],
+ "id": "hadeethenc-65105",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (4/ 1728) (2203)، إكمال المعلم (7/110)، شرح النّووي على مسلم (14/190)، البحر المحيط الثجاج في شرح صحيح الإمام مسلم بن الحجاج (36/ 136).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=65105",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:43+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/65105"
+ },
+ "source_categories": [
+  {
+   "id": "76",
+   "label": "الجن"
+  },
+  {
+   "id": "464",
+   "label": "صفة الصلاة"
+  },
+  {
+   "id": "278",
+   "label": "فضائل الذكر"
+  },
+  {
+   "id": "308",
+   "label": "الأذكار للأمور العارضة"
+  }
+ ],
+ "source_record_id": "65105",
+ "text": "عن عُثْمَانَ بْنَ أَبِي الْعَاصِ رضي الله عنه: أنه أَتَى النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: يَا رَسُولَ اللهِ، إِنَّ الشَّيْطَانَ قَدْ حَالَ بَيْنِي وَبَيْنَ صَلَاتِي وَقِرَاءَتِي يَلْبِسُهَا عَلَيَّ، فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «ذَاكَ شَيْطَانٌ يُقَالُ لَهُ خِنْزَِبٌ، فَإِذَا أَحْسَسْتَهُ فَتَعَوَّذْ بِاللهِ مِنْهُ، وَاتْفُلْ عَلَى يَسَارِكَ ثَلَاثًا»، قَالَ: فَفَعَلْتُ ذَلِكَ فَأَذْهَبَهُ اللهُ عَنِّي.",
+ "title": "ذاك شيطان يقال له خنزب، فإذا أحسسته فتعوذ بالله منه، واتفل على يسارك ثلاثا",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=65105",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:bcc1dbb8e4d2b982ac10c50b67d31564eef1fe6656e28670cbd77fadbde3a5aa",
+   "explanation": "উসমান বিন আবিল ‘আস রাদিয়াল্লাহু ‘আনহু হতে বর্ণিত, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট এসে বললেন- হে আল্লাহর রসূল! শাইতান আমার ও আমার সালাতের মধ্যে বাধা হয়ে দাঁড়ায় এবং আমাকে তার একাগ্রতা থেকে বঞ্চিত করে এবং আমার কিরাতে গোলমাল বাধিয়ে দেয় ও তাতে সন্দেহ সৃষ্টি করে। তখন রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বললেনঃ এটা এক (প্রকারের) শয়তান— যার নাম ’খিনযিব’। যে সময় তুমি এর উপস্থিতি বুঝতে পারবে ও তাকে অনুধাবন করবে তখন আল্লাহর আশ্রয় গ্রহণ করো এবং (আউয়ুবিল্লাহ পড়ে) তার অনিষ্ট হতে আল্লাহর কাছে পানাহ চাও এবং তিনবার তোমার বাম পাশে সামান্য থুথুসহ ফু দাও। উসমান বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম আমাকে যা করার নির্দেশ দিয়েছেন তাই করলাম, তারপরে আল্লাহ আমার হতে তা দূর করে দিলেন।",
+   "grade": "সহীহ",
+   "hints": [
+    "সালাতে একাগ্রতা ও অন্তরের উপস্থিতির গুরুত্ব প্রমাণিত হয় এবং শয়তান সালাতে সন্দিহান ও দ্বিধাগ্রস্ত করার চেষ্টা করে।\r",
+    "সালাতে শয়তান যখন কুমন্ত্রনা দেয় তখন আল্লাহর কাছে আশ্রয় চাওয়া ও বাম পাশে তিনবার থুথু দেওয়া মুস্তাহাব।\r",
+    "সাহাবীগণ রাদিয়াল্লাহু ‘আনহুম যেসব সমস্যা ও জটিলতার সম্মুখীন হতেন তার সমাধানের জন্যে তারা নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের নিকট গমন করতেন ও তার স্মরণাপন্ন হতেন।\r",
+    "সাহাবীদের অন্তর ছিল জীবন্ত এবং তাদের চিন্তা ছিল কেবল আখিরাত।"
+   ],
+   "mapping": "same HadeethEnc record id 65105; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:06+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/65105",
+   "text": "উসমান ইবনু আবূল আস রাদিয়াল্লাহু ‘আনহু হতে বর্ণিত, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট এসে বললেন- হে আল্লাহর রসূল ! শয়তান আমার মাঝে , আমার সালাতের মাঝে ও কিরাআতের মাঝে বাধা হয়ে দাঁড়ায় এবং গোলমাল বাধিয়ে দেয় । তখন রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ “এটা এক (প্রকারের) শয়তান— যার নাম ’খিনযিব’। যে সময় তুমি তার উপস্থিতি বুঝতে পারবে তখন (আউয়ুবিল্লাহ পড়ে) তার অনিষ্ট হতে আল্লাহর কাছে আশ্রয় চেয়ে তিনবার তোমার বাম পাশে থুথু ফেলবে”। তিনি বলেন, তারপরে আমি তা করলাম আর আল্লাহ আমার হতে তা দূর করে দিলেন।",
+   "title": "এটা এক (প্রকারের) শয়তান— যার নাম ’খিনযিব’। যে সময় তুমি তার উপস্থিতি বুঝতে পারবে তখন (আউয়ুবিল্লাহ পড়ে) তার অনিষ্ট হতে আল্লাহর কাছে আশ্রয় চেয়ে তিনবার তোমার বাম পাশে থুথু ফেলবে",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=65105",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:bb4e8662e0559597935b3833a184f53a629d1b16373f221bfd0f09de4f2a7bb6",
+   "explanation": "‘Uthmān ibn Abi al-‘Ās (may Allah be pleased with him) came to the Prophet (may Allah's peace and blessings be upon him) and said: O Messenger of Allah, Satan intervenes between me and my prayer and prevents me from offering it with Khushū‘ (humility and focus) and makes me confused and doubtful about my recitation in it. Thereupon, the Messenger of Allah (may Allah's peace and blessings be upon him) said to him: That is Satan, who is known as Khinzab. If you perceive that and feel it, seek refuge with Allah from him and blow three times to your left with a bit of saliva. 'Uthmān said: I did what the Prophet (may Allah's peace and blessings be upon him) commanded me to do, and Allah caused him to depart from me.",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth demonstrates the significance of humility and presence of mind in prayer and that Satan strives to make one confused and doubtful about it.\r",
+    "It is recommended to seek refuge with Allah Almighty from Satan when he whispers in prayer, along with spitting three times to the left.\r",
+    "It points out how the Companions (may Allah be pleased with them) used to go to the Prophet (may Allah’s peace and blessings be upon him) and present their problems to him so that he could solve their problems for them.\r",
+    "The Companions possessed living hearts, and their principal concern was the Hereafter."
+   ],
+   "mapping": "same HadeethEnc record id 65105; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:06+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/65105",
+   "text": "‘Uthmān ibn Abi al-‘Ās (may Allah be pleased with him) reported: I came to the Prophet (may Allah's peace and blessings be upon him) and said: \"O Messenger of Allah, Satan intervenes between me and my prayer and my recitation of the Qur'an, confounding me.\" So, the Messenger of Allah (may Allah's peace and blessings be upon him) said: \"That is Satan who is known as Khinzab. If you perceive his effect, seek refuge with Allah from him and spit three times to your left.\" He said: I did that, and Allah caused him to depart from me.",
+   "title": "That is Satan who is known as Khinzab. If you perceive his effect, seek refuge with Allah from him and spit three times to your left",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=65105",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:2d92cfdee0d3bacaacc871eb3c90f9f630320a1c932a3d3b3ad48fe6a312c3c2",
+   "explanation": "'Uthmân ibn Abî Al 'Âs (qu'Allah l'agrée) s'est rendu auprès du Prophète ﷺ et [lui] a dit : \" Ô Messager d'Allah ! Certes, le Diable s'est interposé entre moi et ma prière et il m'a empêché de me recueillir dedans. En outre, il m'a embrouillé dans ma lecture et m'en a fait douter. \" Alors, le Messager d'Allah ﷺ lui a dit : \" C'est un démon que l'on appelle : \" Khinzab. \" Lorsque tu le trouves et tu le ressens, alors trouve asile auprès d'Allah, réfugie-toi auprès d'Allah contre lui et crachote trois fois sur ta gauche avec un peu de salive. \" 'Uthmân a alors dit : \" J'ai fait ce que le Prophète ﷺ m'a ordonné et Allah l'a fait disparaître de moi. \"",
+   "grade": "Authentique",
+   "hints": [
+    "L'importance du recueillement et de la présence du cœur dans la prière. Et Satan s'efforce d'embrouiller le serviteur et de le faire douter [dans sa prière].\r",
+    "La recommandation de chercher refuge auprès d'Allah contre Satan au moment de ses insufflations dans la prière tout en crachotant trois fois sur sa gauche.\r",
+    "L'explication de ce sur quoi étaient les Compagnons (qu'Allah les agrée) dans le fait de revenir vers le Prophète ﷺ à propos de ce qui leur arrivait comme problèmes jusqu'à ce qu'il ﷺ leur solutionne leurs problèmes.\r",
+    "La vie des cœurs des Compagnons et leur principal souci était l'au-delà [et non ce bas monde]."
+   ],
+   "mapping": "same HadeethEnc record id 65105; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:06+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/65105",
+   "text": "D'après 'Uthmân ibn Abî Al 'Âs (qu'Allah l'agrée) : Ce dernier s'est rendu auprès du Prophète ﷺ et [lui] a dit : \" Ô Messager d'Allah ! Certes, le Diable s'est interposé entre moi et ma prière ainsi que ma lecture en m'embrouillant. \" Alors, le Messager d'Allah ﷺ a dit : \"  C'est un démon que l'on appelle : \" Khinzab. \" Lorsque tu le ressens, alors réfugie-toi auprès d'Allah contre lui et crachote trois fois sur ta gauche  . \" Il a dit : \" J'ai fait cela et Allah l'a fait disparaître de moi. \"",
+   "title": "C'est un démon que l'on appelle : \" Khinzab. \" Lorsque tu le ressens, alors réfugie-toi auprès d'Allah contre lui et crachote trois fois sur ta gauche",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=65105",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:6a49536b4991f1e5f43c0268a61c22ecd9d6225c2504482b1b57b4d3242cccae",
+   "explanation": "Uṡmān bin Abil-'Āṣ -raḍiyallāhu 'anhu- datang menemui Nabi ﷺ seraya bertanya, \"Wahai Rasulullah, setan telah menghalangiku dari salatku; menghalangiku dari khusyuk, merancukan bacaanku dan membuatku ragu di dalamnya.\" Rasulullah ﷺ bersabda, \"Itu adalah setan yang disebut Khinzab. Apabila engkau merasakannya, maka berlindunglah kepada Allah darinya dan meniuplah ke sebelah kirimu disertai dengan sedikit ludah sebanyak tiga kali.\" Uṡmān berkata, \"Lantas aku melakukan apa yang diperintahkan Nabi ﷺ kepadaku, maka Allah menghilangkannya dariku.\"",
+   "grade": "Sahih",
+   "hints": [
+    "1- Pentingnya khusyuk dan kehadiran hati dalam salat, dan bahwa setan berjuang untuk memasukkan waswas dan keraguan di dalamnya.\r",
+    "2- Anjuran berlindung dari setan ketika ada bisikannya dalam salat disertai dengan meludah ke kiri tiga kali.\r",
+    "3- Menjelaskan sikap kembalinya para sahabat -raḍiyallāhu 'anhum- kepada Nabi ﷺ ketika mereka mengalami permasalahan supaya beliau memberi mereka solusi.\r",
+    "4- Hidupnya hati para sahabat dan bahwa obsesi mereka adalah akhirat."
+   ],
+   "mapping": "same HadeethEnc record id 65105; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:06+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/65105",
+   "text": "Uṡmān bin Abil-'Āṣ -raḍiyallāhu 'anhu- meriwayatkan, Dia pernah datang menemui Nabi ﷺ seraya berkata, \"Wahai Rasulullah! Setan telah menghalangiku dari salatku dan bacaanku; ia merancukannya padaku.\" Maka Rasulullah ﷺ bersabda, \"Itu adalah setan yang disebut Khinzab. Apabila engkau merasakannya, maka berlindunglah kepada Allah dan meludahlah ke sebelah kirimu tiga kali.\" Lantas aku melakukannya, maka Allah menghilangkannya dariku.",
+   "title": "Itu adalah setan yang disebut Khinzab. Apabila engkau merasakannya, maka berlindunglah kepada Allah dan meludahlah ke sebelah kirimu tiga kali",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=65105",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:a4d4117d3a65843feac9c16883231be8b27ab2d623f957f295f23b4225ddf88b",
+   "explanation": "عثمان بن ابوالعاص رضی اللہ عنہ اللہ کے نبی صلی اللہ علیہ و سلم کے پاس آئے اور عرض کیا کہ اے اللہ کے رسول! شیطان میرے اور میری نماز کے درمیان حائل ہو جاتا ہے، نماز میں خشوع پیدا ہونے نہیں دیتا اور میری تلاوت میں شک پیدا کر دیتا ہے۔ چنانچہ اللہ کے رسول صلی اللہ علیہ و سلم نے ان سے فرمایا: وہ ایک شیطان ہے، جسے خِِنزَب کہا جاتا ہے۔ لہذا جب تمھیں اس کی دخل اندازی کا احساس ہو، تو اس سے اللہ کی پناہ مانگو اور تین بار بائیں طرف تھتکارو۔ عثمان کہتے ہیں کہ میں نے اللہ کے رسول صلی اللہ علیہ و سلم کے اس حکم پر عمل کیا، تو اللہ نے میری اس الجھن کو دور کر دیا۔",
+   "grade": "صحيح",
+   "hints": [
+    "نماز میں خشوع و خضوع اور حضور قلب کی اہمیت۔ ساتھ ہی یہ کہ شیطان نماز میں شک و شبہ پیدا کرنے کی پوری کوشش کرتا ہے۔\r",
+    "جب شیطان نماز کے دوران برے خیالات ڈالے، تو اس سے اللہ کی پناہ مانگنا اور تین بار بائیں جانب تھتکارنا مستحب ہے۔\r",
+    "صحابہ کے سامنے جب کوئی پریشانی آتی، تو وہ اس کے حل کے لیے اللہ کے نبی صلی اللہ علیہ و سلم سے رجوع کرتے۔\r",
+    "صحابہ کرام کے دل زندہ تھے اور انہیں صرف آخرت کی فکر دامن گیر رہتی تھی۔"
+   ],
+   "mapping": "same HadeethEnc record id 65105; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:06+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/65105",
+   "text": "عثمان بن ابوالعاص سے روایت ہے کہ وہ اللہ کے نبی صلی اللہ علیہ و سلم کے پاس آئے اور عرض کیا کہ اے اللہ کے رسول! شیطان میرے، میری نماز اور میری تلاوت کے بیچ حائل ہو جاتا ہے اور مجھے الجھانے کی کوشش کرتا ہے۔ چناں چہ اللہ کے رسول صلی اللہ علیہ و سلم  نے فرمایا : \"وہ ایک شیطان ہے، جسے خِِنزَب کہا جاتا ہے۔ جب تمھیں اس کے خلل انداز ہونے کا احساس ہو، تو اس سے اللہ کی پناہ مانگو اور اپنی بائیں جانب تین بار تھتکارو۔\" ان کا کہنا ہے کہ میں نے آپ کے بتائے ہوئے طریقے پر عمل کیا، تو اللہ نے میری اس پریشانی کو دور کر دیا۔",
+   "title": "وہ ایک شیطان ہے، جسے خِِنزَب کہا جاتا ہے۔ جب تمھیں اس کے خلل انداز ہونے کا احساس ہو، تو اس سے اللہ کی پناہ مانگو اور اپنی بائیں جانب تین بار تھتکارو",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=65105",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:3c1995db8ab367b93411c9d50cc50814192dc5dfc9205bddb211895c2bef6e55",
+   "explanation": "欧斯曼·本·艾布·阿遂来见先知（愿主福安之），他说：安拉的使者啊！恶魔确已来打扰我礼拜，阻止恭顺，搅乱我的诵读，使我怀疑我的拜功， 然后安拉的使者（愿主福安之）告诉他：那是一个被称为“罕责布”的恶魔，如果你感觉它的时候，你当祈求安拉的保护，祈求安拉护佑你免遭其害，并向左边吐口水三次。欧斯曼说：我便遵照使者之命令做了，然后安拉便替我驱离了它。",
+   "grade": "正确的",
+   "hints": [
+    "虔心敬意、恭顺礼拜之重要。恶魔在竭尽全力的教唆礼拜者，使其对拜功产生怀疑。\r",
+    "拜功中遭遇恶魔之教唆时，向安拉祈求护佑为可嘉，同时向左边吐口水三次。\r",
+    "阐明圣门弟子们每当遇到问题，便去请教先知（愿主福安之），以解决问题。\r",
+    "圣门弟子的心是活的，他们的主要目标在后世。"
+   ],
+   "mapping": "same HadeethEnc record id 65105; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:06+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/65105",
+   "text": "据欧斯曼·本·艾布·阿遂（愿主喜悦之）传述， 他来见先知（愿主福安之）说：安拉的使者啊！恶魔来扰乱我的礼拜和诵读，使我混淆不清。然后安拉的使者（愿主福安之）说：“那是被称为‘罕责布’的恶魔，如果你感觉它的时候，你就从中祈求安拉的护佑，并向你的左边吐三次。”他说：我便照做了，然后安拉替我驱离了它。",
+   "title": "那是被称为‘罕责布’的恶魔，如果你感觉它的时候，你就从中祈求安拉的护佑，并向你的左边吐三次",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

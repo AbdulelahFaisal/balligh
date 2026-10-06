@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-854",
+ "source_content_sha256": "sha256:0a8800750c460d83024d40a1bdd4c4a360ddbdce8039f1dcbbd5c7666b1c0efc",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:25:37.385388+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 645,
+  "completion_tokens": 561,
+  "total_tokens": 1206,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 645
+ },
+ "latency_ms": 5874,
+ "units": [
+  {
+   "id": "title",
+   "text": "Changer le nom après avoir embrassé l'islam"
+  },
+  {
+   "id": "q0",
+   "text": "Question : De la part d'Abd al-Aziz ibn Abd Allah ibn Baz à l'honorable frère H. M. L., que Dieu lui accorde la réussite. Que la paix, la miséricorde et les bénédictions de Dieu soient sur vous. Ceci est la réponse à votre noble lettre datée du 13/9/1409 H, qui contient votre question concernant le jugement sur le changement de nom de celui qui se convertit récemment à l'islam, de son ancien nom vers un nom islamique, et cela est-il obligatoire ou non ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse : Je vous informe qu'il n'y a dans les preuves légales rien qui implique l'obligation pour celui que Dieu a guidé vers l'islam de changer son nom, sauf s'il y a quelque chose qui l'exige légalement, comme le fait que le nom soit une adoration d'autre que Dieu, comme 'Abd al-Masih (serviteur du Messie) et autres, ou que ce soit un nom qu'il n'est pas recommandé de porter et qu'un autre soit meilleur, comme Hazn (tristesse) que l'on remplace par Sahl (facilité), et ce qui ressemble à ces noms qu'il n'est pas recommandé de porter. Cependant, le changement dans ce qui est une adoration d'autre que Dieu est obligatoire, tandis que le reste relève de la recommandation et de la préférence. Entrent dans la deuxième catégorie les noms que les chrétiens ont rendus célèbres et dont celui qui les entend imagine que leur porteur est chrétien ; le changement y est tout à fait approprié. Que Dieu accorde à tous la réussite dans ce qu'Il aime et agrée, et qu'Il nous accorde, ainsi qu'à vous, la compréhension de la religion et la constance dans celle-ci. Que la paix, la miséricorde et les bénédictions de Dieu soient sur vous. ⟦N1⟧"
+  },
+  {
+   "id": "n0.0",
+   "text": "(Majmu' Fatawa wa Maqalat al-Shaykh Ibn Baz : 4/153)"
+  }
+ ]
+}

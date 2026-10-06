@@ -1,0 +1,167 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:23ef7c62ad10a0f49232147e155e3d11475496710301081ed6dd301d347eb44d",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يَحُثُّ النبيُّ صلى الله عليه وسلم المؤمنَ بالمسارعة والإكثار من الأعمال الصالحة قبل تعذُّرِها والاشتغال عنها بمجيء الفتن والشبهات التي تمنع منها، وتصد عنها، وهي مظلمة كقطع الليل، يختلط فيها الحق بالباطل، فيصعب على الناس التمييز بينهما، ومن شدتها يتخبط الإنسان حتى إنه يصبح مؤمنًا ويمسي كافرًا، ويمسي مؤمنًا ويصبح كافرًا، يترك دينه بمتاع من الدنيا زائل.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "وجوب التمسُّك بالدين، والمبادرة إلى العمل الصالح قبل أن تَحوْل الموانع دونه.",
+  "الإشارة إلى تتابع الفتن المضلة آخر الزمان، وأنه كلما ذهبت فتنة أعقبتها فتنة أخرى.",
+  "إذا ضَعُف دين الإنسان وتنازل عنه مقابل الأمور الدنيوية من مال أو غيره كان ذلك سببًا في انحرافه وتركه للدين وانسياقه مع الفتن.",
+  "في الحديث دليل على أن الأعمال الصالحة سبب للنجاة من الفتن.",
+  "الفتن قسمان: فتن شبهات وعلاجها العلم، وفتن شهوات وعلاجها الإيمان والصبر.",
+  "في الحديث إشارة إلى أن مَن قلَّ عمله كانت الفتنة إليه أسرع، وأن من كثر عمله ينبغي ألّا يغتر بما عنده بل يستزيد."
+ ],
+ "id": "hadeethenc-3138",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (1/ 110) (118).\nبهجة الناظرين شرح رياض الصالحين، لسليم الهلالي (1/ 169).\nشرح رياض الصالحين، لابن عثيمين (2/ 16).\nنزهة المتقين شرح رياض الصالحين، لمجموعة من الباحثين (1/ 122).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3138",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:56:02+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3138"
+ },
+ "source_categories": [
+  {
+   "id": "94",
+   "label": "شعب الإيمان"
+  }
+ ],
+ "source_record_id": "3138",
+ "text": "عَنْ أَبِي هُرَيْرَةَ رضي الله عنه أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «بَادِرُوا بِالْأَعْمَالِ فِتَنًا كَقِطَعِ اللَّيْلِ الْمُظْلِمِ، يُصْبِحُ الرَّجُلُ مُؤْمِنًا وَيُمْسِي كَافِرًا، أَوْ يُمْسِي مُؤْمِنًا وَيُصْبِحُ كَافِرًا، يَبِيعُ دِينَهُ بِعَرَضٍ مِنَ الدُّنْيَا».",
+ "title": "بادروا بالأعمال فتنا كقطع الليل المظلم،",
+ "topic": "understanding_islam",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3138",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:403b7ded6736a3bfa3a283cbea85d7beb9716a6bde086d4100b0a1527c937dec",
+   "explanation": "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুমিন ব্যক্তিকে কোন উযর উপস্থিত হওয়া অথবা আমলে বাধাদান করে আঁধারে ঢাকা রাতের অংশের ন্যায় এমন বৃহৎ ফিতনা ও সন্দেহের পরিস্থিতি তৈরী হওয়ায় অন্য কাজে ব্যস্ত হয়ে পড়ার আগেই সৎ আমলের ক্ষেত্রে তাড়াহুড়া এবং বেশী বেশী করার প্রতি উৎসাহ প্রদান করেছেন। (সন্দেহের) যে পরিস্থিতিতে হক বাতিলের সাথে মিশ্রিত হয়ে যাবে, তখন মানুষের জন্যে এ দুটির মধ্যে পার্থক্য করা কঠিন হয়ে পড়বে, এর মধ্যে কঠিনতম ব্যাপারটি হচ্ছে মানুষের বিপথগামী হয়ে পড়া, এমনকি কোন ব্যক্তি সকালে মুমিন থাকলেও সন্ধ্যায় সে কাফির হয়ে যাবে, আবার কেউ সন্ধ্যায় মুমিন থাকবে অথচ সকালে কাফির হয়ে যাবে এবং দুনিয়ার অস্থায়ী ধন-সম্পদের বিনিময়ে সে তার দীনকে পরিত্যাগ করেবে।",
+   "grade": "সহীহ",
+   "hints": [
+    "দীনকে আঁকড়ে ধরা আবশ্যক। কোন বাধা আসার আগেই সৎ আমলের প্রতি দ্রুত অগ্রসর হওয়া।\r",
+    "শেষ যামানায় একের পর এক পথভ্রষ্টকারী ফিতনার ধারাবাহিক আবির্ভাবের প্রতি ইশারা করা হয়েছে এবং যখনই কোন ফিতনা চলে যাবে সেখানে তার পিছে পিছে অন্য একটি ফিতনার আগমন ঘটবে।\r",
+    "যখন কোন মানুষের দীন দূর্বল হয়ে পড়বে এবং সেখান থেকে তার অধঃপতন ঘটবে দুনিয়াবী কোন বিষয় যেমন ধন-সম্পদ অথবা অন্য কোন বস্তুর কারণে, তাহলে সেটি তার পথ-বিচ্যুতি, দীন পরিত্যাগ এবং ফিতনায় নিমজ্জিত হওয়ার কারণ হবে।\r",
+    "এ হাদীসটিতে দলীল রয়েছে যে সৎ আমল ফিতনা থেকে নাজাতের কারণ।\r",
+    "ফিতনা দুই প্রকার: সংশয়-সন্দেহের ফিতনা, এর চিকিৎসা হচ্ছে ইলম, এবং প্রবৃত্তির ফিতনা, যার চিকিৎসা হচ্ছে ঈমান এবং সবর।\r",
+    "এ হাদীসে আরো ইঙ্গিত রয়েছে যে, যার আমল কমে যাবে, তার দিকে ফিতনা দ্রুত গতিতে ধাবিত হবে। আর যার আমল বেশী হবে, সে যেন তার আমলের কারণে ধোঁকায় না পতিত হয় বরং সে আরো বাড়ানোর চেষ্টা করবে।"
+   ],
+   "mapping": "same HadeethEnc record id 3138; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:56:04+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3138",
+   "text": "আবূ হুরাইরা রদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন: “অন্ধকার রাতের টুকরোর মত ফিতনাসমূহ আসার পূর্বে নেকীর কাজ দ্রুত ক’রে ফেল। মানুষ সে সময়ে সকালে মু’মিন থাকবে এবং সন্ধ্যায় কাফের হয়ে যাবে অথবা সন্ধ্যায় মু’মিন থাকবে ও সকালে কাফের হয়ে যাবে। তখন সে তার নিজের দ্বীনকে দুনিয়ার সম্পদের বিনিময়ে বিক্রয় করবে।”",
+   "title": "“অন্ধকার রাতের টুকরোর মত ফিতনাসমূহ আসার পূর্বে নেকীর কাজ দ্রুত ক’রে ফেল।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3138",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:5a8b3b1b13c6598efe5a7b16d18f009ee24c97bdecf4534b195bb3e5214912cf",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) is urging the believer to hasten to good deeds and perform them frequently before they become difficult and he gets preoccupied with tribulations and suspicious matters that would prevent him and turn him away from offering good deeds. During such tribulations, which are as dark as the night, the truth and falsehood are mixed up, and it becomes hard for people to distinguish between them. Their severity causes one to wander blindly to the extent that he would be a believer in the morning and become a disbeliever in the evening, or he would be a believer in the evening and become a disbeliever in the morning, abandoning his religion for the sake of a transient worldly gain.",
+   "grade": "Authentic",
+   "hints": [
+    "It is obligatory to hold fast to the religion and hasten to good deeds before being hindered by impediments.\r",
+    "Referring to the succession of misleading trials at the end of time and the fact that when one trial ends another begins.\r",
+    "If one's religion is weak and he gives it up in return for worldly affairs like wealth and others, this will cause him to deviate, abandon the religion, and get carried away by trials.\r",
+    "The Hadīth bears evidence that good deeds are a means of salvation from trials.\r",
+    "Trials are of two types: trials related to suspicious matters and their treatment lies in knowledge, and trials related to desires and their treatment lies in faith and patience.\r",
+    "The Hadīth points out that those with few good deeds are more vulnerable to tribulations, whereas those with plenty of good deeds should not be deceived by what they have done; rather, they should strive for more."
+   ],
+   "mapping": "same HadeethEnc record id 3138; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:56:04+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3138",
+   "text": "Abu Hurayrah (may Allah be pleased with him) reported that the Messenger of Allah (may Allah's peace and blessings be upon him) said: \"Hasten to deeds before being overtaken by tribulations that are like patches of the darkest night; a man would be a believer in the morning and become a disbeliever in the evening, or he would be a believer in the evening and become a disbeliever in the morning. He sells his religion for a worldly gain.\"",
+   "title": "Hasten to deeds before being overtaken by tribulations that are like patches of the darkest night;",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3138",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:208e26ef2542b210bb3d1108cfd670acdd0abd4904247b3831954a73bed3e82a",
+   "explanation": "Nabi ﷺ mendorong orang beriman agar menyegerakan dan memperbanyak amal saleh sebelum datangnya kesibukan lain dan kondisi tidak memungkinkan karena munculnya berbagai fitnah dan syubhat yang menghalangi hal itu. Fitnah-fitnah itu gelap gulita seperti potongan malam, di dalamnya kebenaran bercampur dengan kebatilan, sehingga manusia kesulitan untuk membedakan keduanya. Saking beratnya, seseorang akan mengalami keguncangan. Sampai-sampai di pagi hari ia masih beriman, namun di sore hari ia menjadi kafir. Atau, di sore hari ia masih beriman, namun di pagi hari ia menjadi kafir. Dia meninggalkan agamanya dengan harta dunia yang fana.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Kewajiban berpegang teguh dengan agama dan menyegerakan amal saleh sebelum dihalangi oleh berbagai rintangan.\r",
+    "2- Isyarat yang menunjukkan adanya berbagai fitnah menyesatkan yang susul-menyusul di akhir zaman. Setiap kali sebuah fitnah sirna akan disusul oleh fitnah yang lain.\r",
+    "3- Apabila agama seseorang lemah dan ia mengalah lantaran perkara dunia seperti harta atau lainnya maka hal itu menjadi sebab penyimpangannya serta meninggalkan agamanya dan larut bersama fitnah.\r",
+    "4- Dalam hadis di atas terdapat dalil bahwa amal saleh menjadi sebab keselamatan dari berbagai fitnah.\r",
+    "5- Fitnah terbagi menjadi dua: fitnah syubhat dan obatnya adalah ilmu, serta fitnah syahwat dan obatnya adalah iman dan sabar.\r",
+    "6- Dalam hadis di atas terdapat petunjuk bahwa orang yang minim amalnya akan lebih cepat diombang-ambingkan oleh fitnah, sedangkan orang yang banyak amalnya tidak boleh tertipu dengannya, bahkan mestinya ia terus menambah amalan."
+   ],
+   "mapping": "same HadeethEnc record id 3138; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:56:04+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3138",
+   "text": "Abu Hurairah -raḍiyallāhu 'anhu- meriwayatkan bahwa Rasulullah ﷺ bersabda, \"Bersegeralah untuk beramal saleh sebelum datang berbagai fitnah seperti potongan-potongan malam yang gelap. Imbasnya, pada pagi hari seseorang masih beriman, namun di sore hari ia menjadi kafir. Atau, pada sore hari ia masih beriman, namun di pagi hari ia menjadi kafir, ia menjual agamanya dengan secuil harta dunia.\"",
+   "title": "Bersegeralah untuk beramal saleh sebelum datang berbagai fitnah seperti potongan-potongan malam yang gelap",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3138",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:c154bc7b67296e03c8f1820f55b1957be5fac437d438776f3ff2f3ca3e8912b8",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم مومن کو اچھے کاموں کی طرف تیزی سے بڑھنے اور زیادہ سے زیادہ اچھے کام کرنے کی ترغیب دے رہے ہیں، قبل اس کے کہ اچھے کاموں سے روک دینے والے فتنوں اور شبہات کی آمد کی وجہ سے انھیں کرنا دشوار ہو جائے اور انسان کے ہاتھ سے موقع نکل جائے۔ یہ فتنے تاریکیوں کی شکل میں نمودار ہوں گے۔ مانو رات کے ٹکڑے ہوں۔ ان کے آنے کی وجہ سے حق باطل کے ساتھ اس طرح گڈ مڈ ہو جائے گا کہ انسان کے لیے دونوں کے درمیان فرق کرنا دشوار ہو جائے گا۔ حالت یہ ہوگی کہ انسان بدحواسی کا شکار ہو جائے گا۔ صبح مومن رہے گا، تو شام کو کافر ہو جائے گا۔ شام کو مومن رہے گا، تو صبح کافر بن جائے گا۔ دنیا کے متاع فانی کی وجہ سے دین سے کنارہ کش ہو جائے گا۔",
+   "grade": "صحيح",
+   "hints": [
+    "دین کو مضبوطی سے پکڑے رہنے اور عمل صالح کی جانب تیزی سے آگے بڑھنے کی ضرورت، قبل اس کے کہ موانع حائل ہو جائيں۔\r",
+    "آخری وقت میں گمراہ کن فتنوں کے پے در پے آنے کا اشارہ۔ صورت حال یہ ہوگی کہ ایک فتنہ جائے گا تو دوسرا فتنہ آ جائے گا۔\r",
+    "جب انسان کا دین کمزور ہو جاتا ہے اور وہ متاع دنیا، جیسے مال وغیرہ کے چکر میں دین سے کنارہ کش ہو جاتا ہے، تو یہ اس کے دین سے انحراف، دین بیزاری اور فتنوں کے شکار ہونے کا سبب بن جاتا ہے۔\r",
+    "اس حدیث میں اس بات کی دلیل ہے کہ اچھے اعمال فتنوں سے نجات کا سبب ہے۔\r",
+    "فتنوں کی دو قسمیں ہيں : شبہات کا فتنہ، جس کا علاج علم ہے اور شہوات کا فتنہ، جس کا علاج ایمان اور صبر ہے۔\r",
+    "اس حدیث میں اس بات کا اشارہ ہے کہ جو قلیل العمل ہوگا، اس کی جانب فتنے زیادہ تیزی سے آئيں گے اور جو کثیرالعمل ہوگا، اسے اپنے عمل کے دھوکے میں آنے کے بجائے مزید عمل کرنا چاہیے۔"
+   ],
+   "mapping": "same HadeethEnc record id 3138; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:56:04+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3138",
+   "text": "ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: \"نیک اعمال کی طرف تیزی سے بڑھو، ان فتنوں سے پہلے، جو سخت تاریک رات کی طرح ہوں گے؛ (حالت یہ ہوگی کہ) آدمی صبح کے وقت مؤمن ہوگا، تو شام کے وقت کافر اور شام کے وقت مؤمن ہوگا، تو صبح کے وقت کافر۔ دنیاوی ساز و سامان کے بدلے آدمی اپنا دین بیچ دے گا۔\"",
+   "title": "نیک اعمال کی طرف تیزی سے بڑھو، ان فتنوں سے پہلے، جو سخت تاریک رات کی طرح ہوں گے؛",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3138",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:6173723e8919615ff0527b4bf0ff120348fd60bff41407e82ebb44f9ea6e863e",
+   "explanation": "先知（愿主福安之）鼓励信士，当在灾难来临之前抢先多行善功，以免灾难和嫌疑之事来临后使自己无法行善，灾难就像漆黑的夜晚，真理和虚伪相混合，人们很难区分之，由于灾难的严厉，人们挣扎到这种地步，早晨还是信士，晚上便已成为异教徒，或晚上还是信士，早晨便已成为异教徒，他会因今世的利益而出卖自己的教门。",
+   "grade": "正确的",
+   "hints": [
+    "务必紧抓自己的教门，在阻止自己行善的因素来临之前，当抢先行善。\r",
+    "圣训指出，世界末日之际，使人迷误的灾难将纷至沓来，磨难将接踵而至。\r",
+    "如果一个人信仰羸弱，那么在今世的利益，比如金钱等的诱惑之下，他将偏斜，放弃自己的教门，而选择与磨难并行。\r",
+    "圣训证明善功是免遭磨难的因素。\r",
+    "磨难有两种：嫌疑事物的磨难，摆脱的方法是学习；欲望的磨难，摆脱的方法是信仰和忍耐。\r",
+    "圣训指示道：凡善功少许之人，磨难将最先到于他，相反善行多的人不要因此而傲慢，应该继续多多行善。"
+   ],
+   "mapping": "same HadeethEnc record id 3138; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:56:04+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3138",
+   "text": "艾布·胡莱赖（愿主喜悦他）传述：安拉的使者（愿主福安之）说： “你们当抢先行善，磨难犹如漆黑的夜晚。一个人早晨还是信士，晚上已成异教徒，或者一个人晚上还是信士，早晨已成异教徒，他将为今世之利益而出卖自己的教门。”",
+   "title": "“你们当抢先行善，磨难犹如漆黑的夜晚。",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

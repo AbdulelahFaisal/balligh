@@ -1,0 +1,178 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:71243c79b4adbebf1a041c9372e5ebdcd93e3052b0b7fa9f591d3ba81baae429",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "نهى النبيُّ صلى الله عليه وسلم عن هَجْر المسلم أخاه المسلمَ أكثر من ثلاث ليال، يلتقي كلٌّ منهما بالآخر ولا يسلم عليه ولا يكلمه.\n\nوأفضل هذين المتخاصمين مَن يُحاوِل إزالةَ الهجر، ويبدأ بالسلام، والمراد بالهجر هنا الهجر لحظ النفس، أما الهجر لحق الله تعالى كهجر العصاة والمبتدعة وقرناء السوء، فهذا لا يُؤقَّت بوقت، وإنما هو معلق بالمصلحة في الهجر، ويزول بزوالها.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "إباحة الهجر في الثلاثة أيام فما دونها، مراعاة للطباع البشرية، فعُفي عن الهجر في الثلاث ليذهب ذلك العارض.",
+  "فضل السلام، وأنه يُزيل ما في النفوس، وأنه علامة على المحبة.",
+  "حرص الإسلام على الأخوة والألفة بين أهله."
+ ],
+ "id": "hadeethenc-5365",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (8/ 21) (6077).\nصحيح مسلم (4/ 1984) (2560).\nمنحة العلام في شرح بلوغ المرام، لعبد الله الفوزان (10/ 111).\nفتح ذي الجلال والإكرام بشرح بلوغ المرام، لابن عثيمين (6/ 293).\nتوضيح الأحكام من بلوغ المرام، للبسام (7/ 339).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=5365",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:49+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/5365"
+ },
+ "source_categories": [
+  {
+   "id": "5",
+   "label": "الفضائل والآداب"
+  },
+  {
+   "id": "112",
+   "label": "الهجر وشروطه"
+  },
+  {
+   "id": "286",
+   "label": "آداب السلام والاستئذان"
+  }
+ ],
+ "source_record_id": "5365",
+ "text": "عن أبي أيوب الأنصاري رضي الله عنه أن رسول الله صلى الله عليه وسلم قال: «لَا يَحِلُّ لِرَجُلٍ أَنْ يَهْجُرَ أَخَاهُ فَوْقَ ثَلَاثِ لَيَالٍ، يَلْتَقِيَانِ، فَيُعْرِضُ هَذَا وَيُعْرِضُ هَذَا، وَخَيْرُهُمَا الَّذِي يَبْدَأُ بِالسَّلَامِ».",
+ "title": "لا يحل لرجل أن يهجر أخاه فوق ثلاث ليال، يلتقيان، فيعرض هذا ويعرض هذا، وخيرهما الذي يبدأ بالسلام",
+ "topic": "conduct",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=5365",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:36588f7a5872e63fdb7719d0e96302d29f0d9efae8b6a387b550baab601916c2",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এ হাদীসে এক মুসলিম ভাইকে তার অন্য মুসলিম ভাইয়ের সাথে তিন দিনের বেশি এমনভাবে সম্পর্ক ছিন্ন রাখতে নিষেধ করেছেন যে, দু’জনে সাক্ষাৎ হলেও একজন অন্যজনকে সালাম বিনিময় ও কথাবার্তা না বলে বিরত থাকবে।\r\n\r\nএ ঝগড়াটে দু’জনের মধ্যে উত্তম হলো যে ব্যক্তি সর্বপ্রথম তাদের সম্পর্ক ছিন্নতাকে দূরীভুত করতে চেষ্টা করবে এবং প্রথমে তাকে সালাম দিবে। এক্ষেত্রে সম্পর্ক ত্যাগের দ্বারা উদ্দেশ্য হয় নিজ স্বার্থে সম্পর্ক ত্যাগ করা। অন্যদিকে আল্লাহর হকের সাথে সম্পৃক্ততার কারণে সম্পর্ক ছিন্ন করা যেমন বড়পাপী, বিদ‘আতী ও অসৎ সঙ্গের সঙ্গ ত্যাগ করা কোন নির্দিষ্ট সময়ের সাথে সম্পৃক্ত নয়; বরং এগুলো সম্পর্ক ছিন্ন করার কারণ ও উদ্দেশ্যের সাথে জড়িত, যখনই সে কারণ দূর হবে তখনই সম্পর্ক ছিন্নতাকেও দূর করা হবে।",
+   "grade": "সহীহ",
+   "hints": [
+    "মানুষের স্বভাবজাতের কারণে তিনদিন বা তারচেয়ে কম সময়ের জন্য সম্পর্ক ছিন্ন করা জায়েয। যে কারণে সম্পর্ক ছিন্ন করা হয়েছে তা দূর করার জন্য তিনদিন সম্পর্ক ছিন্ন করা ক্ষমাযোগ্য।\r",
+    "সালামের ফযিলত হাদীসে বর্ণিত হয়েছে। সালামের কারণে মানুষের অন্তরে বিদ্যমান হিংসা-বিদ্বেষ দূর হয় এবং সালাম হলো ভালোবাসার প্রতীক।\r",
+    "মুসলিমদের মধ্যে ভ্রাতৃত্ব বন্ধন ও ভালোবাসা বৃদ্ধি করতে ইসলাম সর্বদা উৎসাহিত করে।"
+   ],
+   "mapping": "same HadeethEnc record id 5365; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:14+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/5365",
+   "text": "আবূ আইয়ূব আল-আনসারী রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন: “কোন ব্যক্তির জন্য হালাল নয় যে সে তার ভাই এর সাথে তিন দিনের বেশি এমনভাবে সম্পর্ক ছিন্ন রাখবে যে, দু’জনে সাক্ষাৎ হলেও একজন এদিকে আর অপর জন সে দিকে মুখ ফিরিয়ে নেবে। তাদের মধ্যে যে সর্বপ্রথম সালামের সূচনা করবে, সেই উত্তম ব্যক্তি।”",
+   "title": "“কোন ব্যক্তির জন্য হালাল নয় যে সে তার ভাই এর সাথে তিন দিনের বেশি এমনভাবে সম্পর্ক ছিন্ন রাখবে যে, দু’জনে সাক্ষাৎ হলেও একজন এদিকে আর অপর জন সে দিকে মুখ ফিরিয়ে নেবে। তাদের মধ্যে যে সর্বপ্রথম সালামের সূচনা করবে, সেই উত্তম ব্যক্তি।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=5365",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:4057bb40e4e134b46b9cd55fb3682a69a8e8fa7f9f05648dac19eb8203861735",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) forbade that a Muslim should desert his fellow Muslim for more than three nights. None of them greets the other or talks to him when they meet.\r\n\r\nThe best of such two estranged persons is the one who tries to end their estrangement, so he greets the other first. The kind of desertion intended in this Hadīth is what a person engages in for his own sake. However, a person may desert others for the sake of Allah Almighty, like deserting sinners, heretic innovators, and bad companions. This does not have a time limit. Instead, it is contingent on a cause and should end when the cause is no longer there.",
+   "grade": "Authentic",
+   "hints": [
+    "It is permissible to desert someone for three days or less. Taking human nature into consideration, desertion for this period of three days is allowed so as to give a chance for the cause behind this to go away.\r",
+    "The Hadīth points out the merit of the greeting of peace and that it removes ill feelings and is a sign of love.\r",
+    "Islam is keen on the existence of brotherliness and friendliness among its followers."
+   ],
+   "mapping": "same HadeethEnc record id 5365; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:13+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/5365",
+   "text": "Abu Ayyūb al-Ansāri (may Allah be pleased with him) reported: The Messenger of Allah (may Allah's peace and blessings be upon him) said: \"It is unlawful for a Muslim to desert his fellow Muslim for more than three nights. As they meet, both of them turn their backs on each other. But the best of them is the one who starts by greeting the other.\"",
+   "title": "It is unlawful for a Muslim to desert his fellow Muslim for more than three nights. As they meet, both of them turn their backs on each other. But the best of them is the one who starts by greeting the other",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=5365",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:0bce1917b0877728abf04bede5768840346c79a4c7f8829a47cc82c78d536940",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) a interdit que le musulman rompe avec son frère musulman plus de trois nuits de sorte que, lorsque chacun rencontre l'autre, ni il le salue et ni il parle avec lui.\r\n\r\nEt le meilleur des deux protagonistes est celui qui essaye de faire disparaître cette rupture en commençant par saluer. Ici, le sens voulu du terme \" rompre\" désigne la rupture en raison d'un problème d'égo et non pas concernant un droit d'Allah, Exalté soit-Il, comme le fait de rompre avec des personnes désobéissantes, des innovateurs, des mauvais compagnons. Ce genre de rupture n'est pas délimitée dans le temps mais fonction de l'intérêt à l'observer, elle cesse par la cessation de celui-ci.",
+   "grade": "Authentique",
+   "hints": [
+    "La permission d'être en rupture pendant trois jours ou moins, prenant en considération les différences de tempéraments. Ainsi donc, la rupture de trois jours a été pardonnée afin de faire disparaître ce symptôme.\r",
+    "Le mérite du salut, le fait qu'il fasse disparaître ce qu'il y a [d'hostilité] dans les âmes, et que c'est un signe d'affection.\r",
+    "Combien l'Islam veille à la fraternité et la bonne entente entre les musulmans."
+   ],
+   "mapping": "same HadeethEnc record id 5365; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:14+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/5365",
+   "text": "Aboû Ayyoûb Al-Anṣârî (qu'Allah l'agrée) relate que le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) a dit : « Il n’est pas permis à un musulman d’éviter son frère plus de trois jours de sorte que, lorsqu’ils se rencontrent, ils se détournent l'un de l'autre. Et le meilleur des deux est celui qui salue l’autre en premier. »",
+   "title": "Il n’est pas permis à un musulman d’éviter son frère plus de trois jours de sorte que, lorsqu’ils se rencontrent, ils se détournent l'un de l'autre. Et le meilleur des deux est celui qui salue l’autre en premier.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=5365",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:e1763a45070eea09070c7ad7f6138feb79f31d80f4f8a65ce3714ede71375c56",
+   "explanation": "Nabi ﷺ melarang seorang muslim memboikot saudaranya seislam lebih dari tiga hari, yaitu masing-masing tidak mau mengucapkan salam dan tidak mau berbicara kepada yang lain.\r\n\r\nOrang paling baik di antara kedua orang yang bertengkar itu ialah orang yang berupaya menghilangkan boikot tersebut dan memulai salam. Boikot yang dimaksudkan di sini ialah boikot karena kepentingan pribadi. Adapun boikot karena hak Allah Ta'ala, seperti memboikot pelaku maksiat, pelaku bidah dan teman-teman yang buruk maka tidak dibatasi dengan waktu tertentu, melainkan ia terikat dengan maslahat pemboikotan dan akan hilang bersama hilangnya maslahat tersebut.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Kebolehan melakukan boikot selama tiga hari atau kurang karena menimbang tabiat manusiawi sehingga diperbolehkan melakukan boikot tiga hari agar perasaan yang muncul hilang.\r",
+    "2- Keutamaan ucapan salam, yaitu salam dapat menghilangkan kebencian yang ada dalam jiwa dan sebagai tanda cinta.\r",
+    "3- Kegigihan Islam dalam mengupayakan persaudaraan dan keakraban di antara pemeluknya."
+   ],
+   "mapping": "same HadeethEnc record id 5365; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:14+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/5365",
+   "text": "Abu Ayyūb Al-Anṣāriy -raḍiyallāhu 'anhu- meriwayatkan bahwa Nabi ﷺ bersabda, \"Tidak halal bagi seorang muslim memboikot saudaranya lebih dari tiga hari; keduanya saling bertemu, tetapi yang satu berpaling dan yang lain pun berpaling. Yang paling baik di antara mereka berdua adalah yang memulai ucapan salam.\"",
+   "title": "Tidak halal bagi seorang muslim memboikot saudaranya lebih dari tiga hari; keduanya saling bertemu, tetapi yang satu berpaling dan yang lain pun berpaling. Yang paling baik di antara mereka berdua adalah yang memulai ucapan salam",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=5365",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:0df136a7903420ae1ee9588cc790cf14270ed1709a82f6a8e2533208c79092dc",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم  نے اس بات سے منع کیا ہے کہ کوئی مسلمان اپنے بھائی سے تین دن سے زیادہ تک بات چیت بند رکھے اور یہ حالت بنائے رکھے کہ دونوں ایک دوسرے سے ملیں ، لیکن سلام کلام کچھ نہ ہو۔\r\n\r\nان دونوں میں بہتر شخص وہ ہے جو قطع کلامی کے اس سلسلے کو توڑے اور آگے بڑھ کر سلام کرے۔ معلوم رہے کہ یہاں بات چیت بند رکھنے سے مراد ذاتی مفاد کی خاطر بات چیت بند رکھنا ہے۔ رہی بات اللہ کے حق کی خاطر بات چیت بند رکھنے کی، جیسے اللہ اور اس کے رسول صلی اللہ علیہ و سلم کی نافرمانی کرنے والوں، بدعتیوں اور برے ساتھیوں سے قطع کلامی کرنا، تو اس کے لیے وقت کی کوئی تحدید نہيں ہے۔ اس کا تعلق قطع کلامی کے پیچھے کار فرما مصلحت سے ہے۔ جیسے ہی یہ مصلحت دور ہو جائے، قطع کلامی کا سلسلہ بند ہو جانا چاہیے۔",
+   "grade": "صحيح",
+   "hints": [
+    "انسانی طبیعت کا پاس ولحاظ رکھتے ہوئے تین دن یا اس سے کم وقت تک بات چیت بند رکھنے کی اجازت دی گئی ہے۔\r",
+    "سلام کی فضیلت، سلام سے دل کی کدورتیں دور ہوتی ہیں اور سلام محبت کی نشانی ہے۔\r",
+    "اسلام مسلمانوں کے بیچ اخوت اور محبت کی فضا قائم کرنا چاہتا ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 5365; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:14+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/5365",
+   "text": "ابو ایوب انصاری رضی اللہ عنہ سے روایت ہے کہ اللہ کے رسول صلی اللہ علیہ و سلم نے فرمایا : ”کسی شخص کے لیے جائز نہیں کہ وہ اپنے بھائی سے تین دن سے زیادہ رشتہ منقطع رکھے۔ دونوں ایک دوسرے سے ملیں اور یہ بھی منہ پھیر  لے اور وہ بھی منہ پھیر  لے۔ ان دونوں میں بہتر وہ شخص ہے، جو سلام میں پہل کر لے“",
+   "title": "”کسی شخص کے لیے جائز نہیں کہ وہ اپنے بھائی سے تین دن سے زیادہ رشتہ منقطع رکھے۔ دونوں ایک دوسرے سے ملیں اور یہ بھی منہ پھیر  لے اور وہ بھی منہ پھیر  لے۔ ان دونوں میں بہتر وہ شخص ہے، جو سلام میں پہل کر لے“",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=5365",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:a7047aa84aae119ff03c15c4c118ab62aa5f6ce04d312907048dc07bdbcdb55d",
+   "explanation": "先知（愿主福安之）禁止一个穆斯林弃绝其穆斯林兄弟，并且两人相互见面却不道“色俩目”，也不说话超过三昼夜。\r\n\r\n两个争吵之人中，最优秀的那个是先尝试消除不相往来，先道“色俩目”之人。这里的“不相往来”是指因个人缘故。至于为了清高的安拉而不相往来，如远离违逆者、新生异端者、恶贯满盈者，则不受时间限制，而是取决于“不相往来”的合理性，而这种“不相往来”会因合理性的消失而消除。",
+   "grade": "正确的",
+   "hints": [
+    "在三天及以下的时间内允许“不相往来”，是因考虑到人性，暂缓三天时间，以便这一障碍消失。\r",
+    "“色俩目”的贵重在于它可以平息人们内心的矛盾，它也是爱的象征。\r",
+    "伊斯兰教强调兄弟关系和亲情之间的团结和友好。"
+   ],
+   "mapping": "same HadeethEnc record id 5365; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:14+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/5365",
+   "text": "据辅士艾布·艾尤卜(愿主喜悦之)传述，真主的使者(愿主福安之)说: “一个人不可弃绝同胞超过三昼夜。两人相遇时，这个回避那个，那个回避这个｡他们两人中最优秀者是先开口[给对方]说赛俩目的人｡”",
+   "title": "“一个人不可弃绝同胞超过三昼夜。两人相遇时，这个回避那个，那个回避这个｡他们两人中最优秀者是先开口[给对方]说赛俩目的人｡”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

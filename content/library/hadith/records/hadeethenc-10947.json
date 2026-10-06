@@ -1,0 +1,163 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:af9c4a8c81705dbdd565208f811d0afefbd2c67b2082ec55b2477a19cfa518b5",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "كان النبيُّ صلى الله عليه وسلم يقول إذا انتهى من صلاته: أستغفر الله، أستغفر الله، أستغفر الله.\n\nثم يُعَظِّم ربَّه بقوله: \"اللَّهمَّ أنتَ السَّلامُ، ومنْكَ السَّلامُ، تباركْتَ ذا الجَلالِ والإكرامِ \" فالله السالم الكامل في صفاته، المنزَّهُ عنَ كل عيب ونَقصٍ، وتَطْلُبُ منه سبحانه السَّلامةَ منْ شُرورِ الدُّنيا والآخرةِ لا مِنْ غَيره، وهو سبحانه قد تَكاثَرَ خَيْرُه في الدارين، صاحب العظَمةِ والإحسانِ.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "استحباب الاستغفار عَقِبَ الصلاةِ والمداومة عليه.",
+  "استحباب الاستغفار لاستكمال النقص في العبادة وجَبْرًا للطاعة والتقصير فيها."
+ ],
+ "id": "hadeethenc-10947",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (1/ 414) (591).\nمرعاة المفاتيح شرح مشكاة المصابيح، لعبيد الله المباركفوري (3/ 317).\nسبل السلام، للصنعاني (1/ 294).\nتوضيح الأحكام مِن بلوغ المرام، لعبد الله البسام (2/ 301).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=10947",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:43+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/10947"
+ },
+ "source_categories": [
+  {
+   "id": "465",
+   "label": "أذكار الصلاة"
+  }
+ ],
+ "source_record_id": "10947",
+ "text": "عن ثَوْبَانَ رضي الله عنه قال: كَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ إِذَا انْصَرَفَ مِنْ صَلَاتِهِ اسْتَغْفَرَ ثَلَاثًا، وَقَالَ: «اللَّهُمَّ أَنْتَ السَّلَامُ، وَمِنْكَ السَّلَامُ، تَبَارَكْتَ ذَا الْجَلَالِ وَالْإِكْرَامِ»، قَالَ الْوَلِيدُ: فَقُلْتُ لِلْأَوْزَاعِيِّ: كَيْفَ الْاسْتِغْفَارُ؟ قَالَ: تَقُولُ: أَسْتَغْفِرُ اللهَ، أَسْتَغْفِرُ اللهَ.",
+ "title": "اللهم أنت السلام، ومنك السلام، تباركت ذا الجلال والإكرام",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=10947",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:885f52884ee4586bc3ca44b788070d2213b874b59005d513258e4bb95de180e6",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম সালাতের সালাম ফেরানোর পর ‘আস্তাগফিরুল্লাহ’ তিনবার বলতেন।\r\n\r\nতারপর তিনি তাঁর রবের মর্যাদা বর্ণনা করতেন এ বলে:\n اللَّهُمَّ أَنْتَ السَّلَامُ، وَمِنْكَ السَّلَامُ، تَبَارَكْتَ ذَا الْجَلَالِ وَالْإِكْرَامِ \n“হে আল্লাহ! আপনিই সালাম-শান্তি। আপনার পক্ষ থেকেই শান্তি। আপনি বারাকাতময়, মহামহিম ও মহা সম্মানিত।” অর্থাৎ আল্লাহ তাঁর গুণে পরিপূর্ণ সালিম, সকল প্রকারের ত্রুটি থেকে তিনি মুক্ত। তিনি একমাত্র আল্লাহ সুবাহানাহু ওয়া‘আলার কাছেই দুনিয়া ও আখিরাতের সকল প্রকারের অকল্যাণ থেকে নিরাপত্তা প্রার্থনা করবে। তিনি সুবহানাহু ওয়াতা‘আলা উভয় জাহানেই তাঁর কল্যাণের প্রাচুর্যতা দান করেন। তিনিই মহানত্ব, বড়ত্ব ও ইহসানের অধিকারী।",
+   "grade": "সহীহ",
+   "hints": [
+    "সালাতের পরে ইসতিগফার করা মুস্তাহাব এবং তা নিয়মিতভাবে করা।\r",
+    "ইবাদতে ভুল-ত্রুটির পূর্ণতা এবং আল্লাহর আনুগত্যে কমতির ক্ষতিপূরণের জন্যে আল্লাহর কাছে ক্ষমা প্রার্থনা করা মুস্তাহাব।"
+   ],
+   "mapping": "same HadeethEnc record id 10947; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:02+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/10947",
+   "text": "সাওবান রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত: তিনি বলেন: রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম সালাতের সালাম ফিরানোর পর তিনবার (ইস্তিগফার) ক্ষমা প্রার্থনা করতেন, তারপর এ দু’আ পড়তেন: اللَّهُمَّ أَنْتَ السَّلَامُ، وَمِنْكَ السَّلَامُ، تَبَارَكْتَ ذَا الْجَلَالِ وَالْإِكْرَامِ \nঅর্থাৎ হে আল্লাহ! আপনিই সালাম। আপনার পক্ষ থেকেই শান্তি। আপনি বরকতময়, হে মহামহিম ও মহা সম্মানিত। বর্ণনাকারী ওয়ালিদ রহ. বলেন, আমি আওযা‘ঈ রহ.কে জিজ্ঞেস করলাম: ইসতিগফার কীভাবে করব? তিনি বললেন: তুমি এভাবে বলবে: أَسْتَغْفِرُ اللهَ، أَسْتَغْفِرُ اللهَ অর্থাৎ হে আল্লাহ! আমি আপনার নিকট ক্ষমা প্রার্থনা করছি, হে আল্লাহ! আমি আপনার নিকট ক্ষমা প্রার্থনা করছি।",
+   "title": "অর্থাৎ হে আল্লাহ! আপনিই সালাম। আপনার পক্ষ থেকেই শান্তি। আপনি বরকতময়, হে মহামহিম ও মহা সম্মানিত।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=10947",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:ef30ce5328379cb8914a9cf9821ffbaf2656f37e5927dc0773e5c675a41a24f5",
+   "explanation": "When the Prophet (may Allah's peace and blessings be upon him) finished his prayer, he would say: I seek forgiveness from Allah, I seek forgiveness from Allah, I seek forgiveness from Allah.\r\n\r\nThen, he would glorify his Lord, saying: \"O Allah, You are As-Salām (peace, perfection), and as-salām comes from You. Blessed are You, O Possessor of Glory and Honor.\" Indeed, Allah is complete and perfect in His attributes and far exalted above any imperfection or defect. From Him alone, and not from others, we should ask for safety from the evils of this world and the Hereafter. He, Exalted be He, gives abundant blessings in both abodes, and He is the Possessor of greatness and benevolence.",
+   "grade": "Authentic",
+   "hints": [
+    "It is recommended to ask for Allah's forgiveness after prayer and to do this persistently.\r",
+    "Asking for Allah's forgiveness is recommended to redress any shortcomings in worship and compensate for any deficiency therein."
+   ],
+   "mapping": "same HadeethEnc record id 10947; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:02+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/10947",
+   "text": "Thawbān (may Allah be pleased with him) reported: When the Messenger of Allah (may Allah's peace and blessings be upon him) finished his prayer, he would seek Allah’s forgiveness three times and say: \"Allahumma anta as-salām wa minka as-salām, tabārakta yadha al-jalāl wa al-ikrām (O Allah, You are As-Salām (peace, perfection), and as-salām comes from You. Blessed are You, O Possessor of Glory and Honor)\". Al-Walīd said: I said to Al-Awzā‘i: \"How is the seeking of forgiveness?\" He said: \"You say: Astaghfirullāh, astaghfirullāh (I seek forgiveness from Allah, I seek forgiveness from Allah).\"",
+   "title": "Allahumma anta as-salām wa minka as-salām, tabārakta yadha al-jalāl wa al-ikrām",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=10947",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:a28d3eee405161f98e728e9e8bfb43933ae7ba6f5b61a73e949025988cfd686e",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) lorsqu'il terminait sa prière, disait : \" J'implore pardon à Allah, j'implore pardon à Allah,  j'implore pardon à Allah. \"\r\n\r\nEnsuite, il évoquait son Seigneur avec considération, et en disant : \" Ô Allah ! Tu es Le Pur, et de Toi proviennent la paix et la sécurité. Béni sois-Tu ! Ô détenteur de la Majesté et de la Magnificence ! \" En effet, Allah est Celui qui est Sain et Complet dans Ses attributs, Celui qui est exempt de tout défaut et de toute déficience. C'est à Lui, et à personne d'autre, qu'on demande la préservation contre les maux d'ici-bas et de l'au-delà. Il est certes, Gloire et Pureté à Lui, Celui qui a répandu à profusion le bien dans les Deux demeures. Il est le Détenteur de la Grandeur et de la Bienfaisance.",
+   "grade": "Authentique",
+   "hints": [
+    "La recommandation de la demande de pardon à la fin de la prière et d'y être assidu.\r",
+    "La recommandation de demander pardon pour compléter les manquements dans l'adoration, et de compenser les négligences qui y sont relatives."
+   ],
+   "mapping": "same HadeethEnc record id 10947; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:02+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/10947",
+   "text": "Thawbân (qu'Allah l'agrée) relate : « Lorsque le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) terminait sa prière, il implorait le pardon trois fois et disait : \"  Ô Allah ! Tu es Le Pur, et de Toi proviennent la paix et la sécurité. Béni sois-Tu ! Ô détenteur de la Majesté et de la Magnificence !  » Al-Walîd dit : \" J'ai alors demandé à Al-Awzâ'î : \" Comment se fait l'imploration du pardon ? - Il a répondu : Tu dis : j'implore pardon à Allah, j'implore pardon à Allah. \"",
+   "title": "Ô Allah ! Tu es Le Pur, et de Toi proviennent la paix et la sécurité. Béni sois-Tu ! Ô détenteur de la Majesté et de la Magnificence !",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=10947",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:acb67ca9039de78eef3a7361e6987d58a3b2c0b7b958509e4a0d39d59c377f2c",
+   "explanation": "Nabi ﷺ biasanya jika telah selesai dari salatnya membaca: astagfirullāh, astagfirullāh, astagfirullāh.\r\n\r\nKemudian beliau mengagungkan Tuhannya dengan membaca: Allāhumma antas-salām wa minkas-salām, tabārakta yā żal-jalāli wal-ikrām. Allah yang selamat lagi sempurna dalam sifat-sifat-Nya, yang disucikan dari segala cacat dan aib, kepada-Nya engkau meminta keselamatan dari keburukan dunia dan akhirat, bukan kepada yang lain. Allah ﷻ yang banyak kebaikan-Nya di dunia dan akhirat, yang memiliki keagungan dan kebaikan.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Anjuran membaca istigfar di akhir salat dan merutinkannya.\r",
+    "2- Anjuran beristigfar untuk menutupi kekurangan dalam ibadah serta menyempurnakan ketaatan dan kekurangan yang terjadi di dalamnya."
+   ],
+   "mapping": "same HadeethEnc record id 10947; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:02+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/10947",
+   "text": "Ṡaubān -raḍiyallāhu 'anhu- meriwayatkan, Apabila Rasulullah ﷺ telah bersalam dari salatnya, beliau beristigfar tiga kali lalu membaca, \"Allāhumma antas-salām wa minkas-salām, tabārakta yā żal-jalāli wal-ikrām (Ya Allah, Engkaulah pemilik keselamatan, dari-Mu keselamatan, Mahamulia Engkau, wahai pemilik keagungan dan kebaikan).\" \nAl-Walīd mengisahkan: Aku bertanya kepada Al-Auzā'iy, \"Bagaimana cara beristigfar?\" Beliau menjawab, \"Yaitu engkau membaca, 'Astagfirullāh, astagfirullāh.'\"",
+   "title": "Allāhumma antas-salām wa minkas-salām, tabārakta yā żal-jalāli wal-ikrām",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=10947",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:cfe228edc71f206816dafeaa7150c38cdfecbe30852c1a09fab26c3a2b16777f",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم جب نماز ختم کرتے، تو \"أستغفر الله، أستغفر الله، أستغفر الله.\" کہتے۔\r\n\r\nاس کے بعد اپنے رب کی عظمت بیان کرتے ہوئے کہتے : \"اللَّهمَّ أنتَ السَّلامُ، ومنْكَ السَّلامُ، تباركْتَ ذا الجَلالِ والإكرامِ۔\" یعنی اللہ اپنی صفات میں سالم و کامل ہے، ہر عیب و نقص سے پاک ہے، دنیا و آخرت کی تمام برائیوں سے سلامتی اسی سے مانگی جائے گی، دونوں جہان میں اس کی بھلائیوں کی بہتات ہے اور وہ صاحب عظمت و احسان ہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "نماز کے بعد استغفار کرنا اور اس عمل پر ہمیشگی برتنا مستحب ہے۔\r",
+    "عبادت میں رہ جانے والی کمیوں اور کوتاہیوں کے تدارک کے لیے اللہ سے بخشش طلب کرنا مستحب ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 10947; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:02+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/10947",
+   "text": "ثوبان رضی اللہ عنہ کہتے ہیں : اللہ کے نبی صلی اللہ علیہ و سلم جب نماز ختم کرتے تو تین بار بخشش طلب کرتے اور اس کے بعد فرماتے : \"اللَّهُمَّ أَنْتَ السَّلَامُ، وَمِنْكَ السَّلَامُ، تَبَارَكْتَ ذَا الْجَلَالِ وَالْإِكْرَامِ\"۔ (اے اللہ تو سلامتی والا ہے اور تیری ہی جانب سے سلامتی حاصل ہوتی ہے۔ تو برکت والا ہے اے صاحب جلال و اکرام!) ولید کہتے ہیں کہ میں نے اوزاعی سے پوچھا کہ بخشش کیسے طلب کی جائے؟ تو انھوں نے جواب دیا کہ تم \"استعفر اللہ استغفر اللہ\" کہہ لیا کرو۔",
+   "title": "اللَّهُمَّ أَنْتَ السَّلَامُ، وَمِنْكَ السَّلَامُ، تَبَارَكْتَ ذَا الْجَلَالِ وَالْإِكْرَامِ",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=10947",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:d4ac7ac9913e65cd72d867509ea849a6b751fd07be6f2eaace0535b1b1209a34",
+   "explanation": "先知（愿主福安之）当礼拜完毕以后会念：我向安拉祈求饶恕，我向安拉祈求饶恕，我向安拉祈求饶恕。\r\n\r\n然后赞颂他的养主尊大，他说：“主啊！你是和平的主，和平来自你，伟大慷慨的主啊！祈求你赐福。”安拉是属性完美毫无缺点的主宰，故你当向安拉祈求安宁于今后两世的种种邪恶，而不去祈求其他任何人和物。清高伟大的安拉在今后两世都是多福的，是善待和威严的执掌者。",
+   "grade": "正确的",
+   "hints": [
+    "拜后祈求饶恕并持之以恒为可嘉。\r",
+    "为完善功修中所出现的欠缺，弥补自己的善行以及善行中出现的怠慢，而祈求安拉饶恕为可嘉。"
+   ],
+   "mapping": "same HadeethEnc record id 10947; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:02+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/10947",
+   "text": "据扫班（愿主喜悦之）传述说： 安拉的使者（愿主福安之）每当礼拜完出赛俩目转身以后，便会向安拉求恕三次，他说：“主啊！你是和平的主，和平来自你，伟大慷慨的主啊！祈求你赐福。”沃立德说：我对奥扎伊说：如何祈求饶恕？他说：你念：我向安拉祈求饶恕，我向安拉祈求饶恕。",
+   "title": "主啊！你是和平的主，和平来自你，伟大慷慨的主啊！祈求你赐福",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

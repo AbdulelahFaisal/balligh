@@ -1,0 +1,187 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:c3da14120898b534ed44bbeb9e06b728b2a64cc187d7ac108d868df24c42fc05",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "شَبَّهَ النبيُّ صلى الله عليه وسلم الإسلامَ بِبِناءٍ مُحْكَمٍ بأركانه الخمسة الحاملة لذلك البُنيان، وبقية خصال الإسلام كتتمة البنيان، \nوأولُ هذه الأركان: الشهادتان؛ شهادة أن لا إله إلا الله وأنَّ محمدًا رسول الله، وهما ركن واحد؛ لا تنفك إحداهما عن الأخرى، ينطق العبد بهما معترفًا بوحدانية الله واستحقاقه للعبادة وحده دون ما سواه، وعاملًا بمقتضاها، ومؤمنًا برسالة محمد صلى الله عليه وسلم مُتَّبِعًا له. \nوالركن الثاني: إقامة الصلاة، وهي الصلوات الخمس المفروضات في اليوم والليلة: الفجر، والظهر، والعصر، والمغرب، والعشاء، بشروطها وأركانها وواجباتها. \nوالركن الثالث: إخراج الزكاة المفروضة، وهي عبادة ماليَّة واجبة في كل مال بَلَغَ قَدْرًا مُحَدّدًا في الشرع، تُعطى لمستحقيها. \nوالركن الرابع: الحج، وهو قَصْدُ مكة لإقامة المَناسك، تَعبُّدًا لله عز وجل. \nوالركن الخامس: صوم رمضان، وهو الإمساك عن الأكل والشرب وغيرهما من المفطرات بِنِيَّةِ التعبُّد لله، من طلوع الفجر إلى غروب الشمس.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "تلازم الشهادتين، فلا تصح أحدهما إلا بالأخرى؛ لذا جعلهما ركنًا واحدًا.",
+  "الشهادتان هما أساس الدين، فلا يُقبل قولٌ ولا عملٌ إلا بهما."
+ ],
+ "id": "hadeethenc-65000",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (1/ 11) (8)، صحيح مسلم (1/ 45) (16)، و(1/ 88) (82)، فتح الباري لابن رجب (1/ 22)، جامع العلوم والحكم (1/147)، شرح الأربعين لابن العطّار (ص 62)، شرح الأربعين النووية لعبد الكريم الخضير (ص 87)، فتح القوي المتين في شرح الأربعين للعباد (ص 29)، شرح الأربعين النووية لصالح آل الشيخ (ص 91 - 95)، التحفة الربانية لإسماعيل الأنصاري (ص 12).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=65000",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:29+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/65000"
+ },
+ "source_categories": [
+  {
+   "id": "59",
+   "label": "الإيمان بالله عز وجل"
+  },
+  {
+   "id": "79",
+   "label": "النبوة"
+  },
+  {
+   "id": "88",
+   "label": "الإسلام"
+  },
+  {
+   "id": "456",
+   "label": "وجوب الصلاة وحكم تاركها"
+  },
+  {
+   "id": "500",
+   "label": "وجوب الزكاة وحكم تاركها"
+  },
+  {
+   "id": "512",
+   "label": "وجوب الصيام وحكم تاركه"
+  },
+  {
+   "id": "531",
+   "label": "وجوب الحج والعمرة وحكم تاركهما"
+  }
+ ],
+ "source_record_id": "65000",
+ "text": "عَنْ عَبْدِ اللهِ بنِ عُمَر رضي الله عنهما قال: قال رسولُ الله صلى الله عليه وسلم: «بُنِيَ الْإِسْلَامُ عَلَى خَمْسٍ: شَهَادَةِ أَنْ لَا إِلَهَ إِلَّا اللهُ، وَأَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ، وَإِقَامِ الصَّلَاةِ، وَإِيتَاءِ الزَّكَاةِ، وَحَجِّ الْبَيْتِ، وَصَوْمِ رَمَضَانَ».",
+ "title": "بني الإسلام على خمس",
+ "topic": "understanding_islam",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=65000",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:35060e06d58404fe6d884caf42c10af8573d218d40bd2e5193c24b28a2958d1d",
+   "explanation": "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইসলামকে সুদৃঢ় পাঁচটি ভিত্তির উপর তুলনা করেছেন, যা উক্ত ভিত্তির উপর দাঁড়িয়ে আছে। ইসলামের অন্যান্য বিধানগুলো যেন উক্ত ভিত্তির পরিপূরক ও পূর্ণতাদানকারী। এসব রুকনের প্রথমটি হলো: দুটি সাক্ষ্য: আল্লাহ ছাড়া সত্য কোনো মাবূদ নেই এবং নিশ্চয় মুহাম্মাদ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম আল্লাহর রাসূল -এ কথার সাক্ষ্য দান করা। এ দুটি কালিমার সাক্ষ্য দেওয়া মূলত একটি রুকন। একাংশ আরেক অংশ থেকে আলাদা হয় না। আল্লাহর তাওহীদের-একত্বের স্বীকৃতি ও তিনি একমাত্র ইবাদতের উপযুক্ত ।এ স্বীকৃতি সহকারে বান্দাহ এ কালিমা তার মুখে উচ্চারণ করবে, এর দাবি অনুযায়ী আমল করবে এবং মুহাম্মদ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের নবুওয়াতের উপর ঈমান আনায়ন ও তাঁর আনুসরণ করবে । দ্বিতীয় রুকন: সালাত কায়েম করা। আর তা হলো দিনে রাতে পাঁচ ওয়াক্ত ফরয সালাত তার শর্তাবলি, রুকন ও ওয়াজিবসমূহ সহকারে আদায় করা। সেগুলো হলো: ফজর, যোহর, আসর, মাগরিব ও ইশা। তৃতীয় রুকন: ফরয যাকাত দেয়া। এটি মূলত  ধন-সম্পদের উপর ফরযকৃতএকটি ইবাদত।শরী‘আহ নির্দিষ্ট নিসাব পরিমাণ সম্পদ কারো কাছে থাকলে,যাকাত পাওয়ার হকদারদেরকে প্রদান করা ফরয করেছে। চতুর্থ রুকন: হজ করা। তা হলো আল্লাহর ইবাদতের উদ্দেশ্যে হজের কার্যাবলি পালনের জন্যে মক্কায় গমন করা। পঞ্চম রুকন: রমযানের সাওম পালন করা। আর তা হলো ইবাদতের নিয়তে রমযান মাসে ফজরের শুরু থেকে সূর্যাস্ত পর্যন্ত খাদ্য, পানীয় ও অন্যান্য সাওম ভঙ্গকারী বিষয়সমূহ থেকে বিরত থাকা।",
+   "grade": "সহীহ",
+   "hints": [
+    "দু’টি কালিমার সাক্ষ্য একত্রে দেওয়া আবশ্যক। সুতরাং একটি বাদে অপরটি বিশুদ্ধ হবে না। এ কারণে দু’টি কালিমার সাক্ষ্যকে একটি রুকন হিসেবে গণ্য করা হয়েছে।\r",
+    "দু’টি কালিমার সাক্ষ্য দ্বীনের মূল। সুতরাং কারো কোন কথা ও আমল এ দু’টি কালিমার সাক্ষ্য দেওয়া ব্যতীত গ্রহণ করা হবে না।"
+   ],
+   "mapping": "same HadeethEnc record id 65000; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:05+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/65000",
+   "text": "ইবন `উমার রাদ্বিয়াল্লাহু ‘আনহুমা থেকে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন: «بُنِيَ الإِسْلاَمُ عَلَى خَمْسٍ: شَهَادَةِ أَنْ لاَ إِلَهَ إِلَّا اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ، وَإِقَامِ الصَّلاَةِ، وَإِيتَاءِ الزَّكَاةِ، وَالحَجِّ، وَصَوْمِ رَمَضَانَ»\n“ইসলামের ভিত্তি পাঁচটি। -এ কথার সাক্ষ্য দেয়া যে, আল্লাহ ছাড়া সত্য কোনো মাবূদ নেই এবং নিশ্চয় মুহাম্মাদ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম আল্লাহর রাসূল। সালাত কায়েম করা, যাকাত দেয়া, হজ করা এবং রমযানের সাওম পালন করা।”",
+   "title": "بُنِيَ الإِسْلاَمُ عَلَى خَمْسٍ: شَهَادَةِ أَنْ لاَ إِلَهَ إِلَّا اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ، وَإِقَامِ الصَّلاَةِ، وَإِيتَاءِ الزَّكَاةِ، وَالحَجِّ، وَصَوْمِ رَمَضَانَ»\n“ইসলামের ভিত্তি পাঁচটি।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=65000",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:368bb62c319879b162e3568b86bce9eab4fcea1d39ed0d4dfb15c663dbcfaf15",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) likened Islam to a well-built structure based on five pillars that carry it and the rest of its characteristics complement the structure. First pillar: The two testimonies of faith; testifying that there is no god but Allah and that Muhammad is the Messenger of Allah. These two testimonies constitute one pillar as they are both inseparable. The slave utters the two testimonies of faith acknowledging the oneness of Allah and His exclusive worthiness of worship apart from others, acting upon their requirements, believing in the message of Muhammad (may Allah's peace and blessings be upon him), and following him. Second pillar: Establishing the prayer, which refers to the five obligatory prayers that are to be observed every day and night and they are: Fajr (morning), Zhuhr (noon), ‘Asr (afternoon), Maghrib (sunset), and ‘Ishā’ (night), along with observing their conditions, pillars, and obligatory acts. Third pillar: Giving the obligatory Zakah, which is an obligatory financial act of worship due on every type of property that has reached the limit prescribed by Shariah and it is to be given to those entitled to it. Fourth pillar: Performing Hajj, which is travelling to Makkah to perform the rituals as a means of worshipping Allah Almighty. Fifth pillar: Fasting Ramadān, which is abstaining from food, drink, and other invalidators from the break of dawn until sunset with the intention of worshipping Allah.",
+   "grade": "Authentic",
+   "hints": [
+    "The two testimonies of faith are inseparable, i.e., none of them is valid without the other; hence, he considered them one pillar.\r",
+    "The two testimonies of faith are the core of the religion; hence, they are essential for the validity of any saying or deed."
+   ],
+   "mapping": "same HadeethEnc record id 65000; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:05+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/65000",
+   "text": "‘Abdullah ibn ‘Umar (may Allah be pleased with him and his father) reported that the Messenger of Allah (may Allah's peace and blessings be upon him) said: \"Islam is built on five: testifying that there is no god but Allah and that Muhammad is His slave and Messenger, establishing prayer, giving Zakah, performing Hajj to the (Sacred) House, and fasting Ramadān.\"",
+   "title": "Islam is built on five",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=65000",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:1bd5ecfc01f0a57ac5690762afc1598fe4d48afb5943d2acad4a4643c548e493",
+   "explanation": "Le Prophète ﷺ a comparé l'islam à un édifice solide reposant sur cinq piliers qui supporte cette structure et le reste des caractéristiques de l'Islam est comme le parachèvement de la structure. Le premier de ces piliers est : la double attestation, à savoir : l'attestation qu'il n'y a aucune divinité [digne d'adoration] excepté Allah et que Muhammad est le Messager d'Allah. Cette double attestation est un seul pilier et l'une ne va pas sans l'autre. Le serviteur prononce celle-ci en reconnaissant l'Unicité d'Allah et le fait qu'Il mérite l'adoration, Seul, en dehors de quiconque, il œuvre selon ses implications et il croit au Message de Muhammad ﷺ en le suivant. Le second pilier est : l'établissement de la prière qui correspond aux cinq prières obligatoires, de jour comme de nuit : Al Fajr, Adh-Dhuhr, Al 'Asr, Al Maghrib et Al 'Ichâ', avec leurs conditions, leurs piliers et leurs devoirs. Le troisième pilier est : l'acquittement de l'aumône obligatoire qui est une adoration financière obligatoire pour tout bien ou argent qui atteint une valeur déterminée dans la Législation et qu'on donne ensuite à quiconque la mérite. Le quatrième pilier est : le pèlerinage qui est le fait de se rendre à La Mecque pour y accomplir les rites du pèlerinage en guise de dévouement pour Allah ﷻ. Le cinquième pilier est : le jeûne de Ramadân. C'est le fait de s'abstenir de manger et boire ainsi que d'autres choses qui rompent le jeûne en ayant l'intention de se dévouer à Allah. Le jeûne dure du lever de l'aube jusqu'au coucher du soleil.",
+   "grade": "Authentique",
+   "hints": [
+    "La double attestation est indissociable. En effet, l'une n'est pas valide sans l'autre ; c'est pourquoi, cette double attestation constitue un seul et même pilier.\r",
+    "La double attestation est la base de la religion. Ainsi, aucune parole ni œuvre n'est acceptée sans elle."
+   ],
+   "mapping": "same HadeethEnc record id 65000; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:05+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/65000",
+   "text": "D'après 'AbdaLlah ibn 'Umar (qu'Allah les agrée tous les deux) : Le Messager d'Allah ﷺ a dit : \" L'Islam a été bâti sur cinq piliers  : l'attestation qu'il n'y a aucune divinité [digne d'adoration] excepté Allah et que Muḥammad est le serviteur d'Allah et Son Messager, l'accomplissement de la prière, l'acquittement de l'aumône légale, le pèlerinage à la Demeure et le jeûne de Ramadan. \"",
+   "title": "L'Islam a été bâti sur cinq piliers",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=65000",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:9fb33e7f44a4025fb42e8dba6d546d760c409f2ef12bbe340ee082b6bfdb2ab1",
+   "explanation": "Nabi ﷺ memisalkan Islam dengan sebuah bangunan yang kokoh dengan lima pilar yang menopang bangunan itu, sedangkan perkara-perkara Islam lainnya sebagai penyempurna bangunan. - Pilar pertama: Dua kalimat syahadat, yaitu syahadat Lā ilāha illallāh Muḥammad rasūlullāh. Keduanya adalah satu pilar yang tak terpisahkan. Seorang hamba mengucapkannya dengan penuh yakin pada keesaan Allah dan keberhakan-Nya terhadap ibadah sekaligus mengamalkan konsekuensinya, serta dengan penuh keimanan pada kerasulan Muhammad ﷺ sekaligus mengikuti beliau. Pilar kedua: Menegakkan salat; yaitu lima salat fardu dalam sehari semalam: Subuh, Zuhur, Asar, Magrib, dan Isya, lengkap dengan syarat-syaratnya, rukun-rukunnya, dan wajib-wajibnya. - Pilar ketiga: Menunaikan zakat yang wajib; yaitu ibadah harta yang diwajibkan pada semua harta yang mencapai kadar yang ditentukan oleh agama, yang diberikan kepada para mustahiknya. - Pilar keempat: Berhaji; yaitu pergi ke Makkah untuk melaksanakan manasik haji dalam rangka beribadah kepada Allah ﷻ. - Pilar keenam: Puasa Ramadan; yaitu menahan diri dari makan, minum, dan pembatal-pembatal puasa lainnya dengan niat beribadah kepada Allah sejak terbit fajar hingga terbenam matahari.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Keterpaduan dua syahadat; yaitu salah satunya tidak sah kecuali bersama yang lain, sehingga keduanya dijadikan sebagai satu pilar.\r",
+    "2- Dua syahadat itu merupakan fondasi agama, tidak diterima suatu ucapan ataupun perbuatan kecuali dengan keduanya."
+   ],
+   "mapping": "same HadeethEnc record id 65000; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:05+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/65000",
+   "text": "Abdullah bin Umar -raḍiyallāhu 'anhumā- meriwayatkan, Rasulullah ﷺ bersabda, \"Islam dibangun di atas lima perkara: Syahadat Lā ilāha illallāh-Muḥammad rasūlullāh, menegakkan salat, menunaikan zakat, berhaji ke Baitullah, dan berpuasa di bulan Ramadan.\"",
+   "title": "Islam dibangun di atas lima perkara",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=65000",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:ed3bfe8fb6de6cc01c242bd17993c0b95928232d78aaeaa333cfeecd27b022db",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم نے اسلام کو پانچ ارکان پر کھڑی ایک عمارت کے مشابہ قرار دیا ہے۔ اسلام کے باقی کام اس عمارت کے تتمہ کی حیثیت رکھتے ہیں۔ ان پانچ ارکان میں سے پہلا رکن اس بات کی گواہی دینا ہے کہ اللہ کے سوا کوئی عبادت کے لا‏ئق نہيں ہے اور محمد صلی اللہ علیہ و سلم اللہ کے رسول ہيں۔ یہ دونوں گواہیاں ایک دوسرے سے جڑی ہوئی ہیں اور ایک ہی رکن کی حیثیت رکھتی ہیں۔ بندہ ان کو اپنی زبان سے، اللہ کے ایک ہونے اور بس اسی کے عبادت کا حق دار ہونے کا اعتراف کرتے ہوئے، ان کے تقاضوں پر عمل کرتے ہوئے، محمد صلی اللہ علیہ و سلم کے رسول ہونے کا یقین رکھتے ہوئے اور آپ کا اتباع کرتے ہوئے، ادا کرے گا۔ دوسرا رکن نماز قائم کرنا ہے۔ دن اور رات میں پانچ فرض نمازیں ہيں۔ فجر، ظہر، عصر، مغرب اور عشا۔ ان پانچ نمازوں کو ان کی شرطوں، ارکان اور واجبات کے ساتھ ادا کیا جائے گا۔ تیسرا رکن فرض زکاۃ دینا ہے۔ دراصل زکاۃ ایک مالی عبادت ہے، جو شریعت کی جانب سے مال کی ایک متعینہ مقدار پر واجب ہوتی ہے اور جسے اس کے حق داروں کو دیا جاتا ہے۔ چوتھا رکن حج ہے۔ حج در اصل اللہ کی عبادت کے طور پر مناسک کی ادائیگی کے لیے مکہ کا قصد کرنے کا نام ہے۔ پانچواں رکن رمضان مہینے کے روزے رکھنا ہے۔ روزہ نام ہے کھانے، پینے اور دیگر روزہ توڑنے والی چیزوں سے فجر طلوع ہونے سے لے کر سورج غروب ہونے تک اللہ کی عبادت کی نیت سے رکے رہنے کا۔",
+   "grade": "صحيح",
+   "hints": [
+    "دونوں گواہیاں ایک دوسرے کے ساتھ لازمی طور پر جڑی ہوئی ہيں۔ ان میں سے ایک کو چھوڑ دیا جائے، تو دوسری صحیح نہیں ہوگی۔ اسی لیے دونوں کو ایک رکن بنایا گیا ہے۔\r",
+    "یہ دونوں گواہیاں دین کی بنیاد ہیں۔ ان کے بغیر کوئی قول اور عمل قبول نہیں ہوگا۔"
+   ],
+   "mapping": "same HadeethEnc record id 65000; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:05+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/65000",
+   "text": "عبد اللہ بن عمرو رضی اللہ عنہما سے روایت ہے، وہ کہتے ہیں کہ اللہ کے رسول صلی اللہ علیہ وسلم نے فرمایا: ”اسلام کی بنیاد پانچ چیزوں پر ہے : اس بات کی گواہی دینا کہ اللہ کے سوا کوئی سچا معبود نہیں ہے اور محمد صلی اللہ علیہ وسلم اللہ کے بندے اور اس کے رسول ہیں، نماز قائم کرنا، زکوٰۃ ادا کرنا، خانۂ کعبہ کا حج کرنا اور رمضان کے روزے رکھنا۔“",
+   "title": "”اسلام کی بنیاد پانچ چیزوں پر ہے",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=65000",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:aa07b8991a1741c12145baee55615e2259793b0253a10bb92e46a14152b735b4",
+   "explanation": "先知（愿主福安之）将伊斯兰比作坚固的建筑，有五个支柱支撑着这座建筑，而伊斯兰的其它特质则是为完善这座建筑的附属。 第一个支柱是：两个作证言：作证没有真正应受崇拜的主，只有安拉。穆罕默德是安拉的使者，它俩是一个支柱；两者不可分离。仆人诵念这两个见证词，以承认安拉之独一，承认他独自应受崇拜，遵循其要求，信仰穆罕默德（愿主福安之）之使命，追随他的教导。 支柱二：立行礼拜，它包括一天五次的主命拜：晨礼、晌礼、晡礼、昏礼和宵礼，按照拜功的条件、要素和义务。 支柱三：缴纳主命天课，这是一项必须的财产功修，任何到达法定数额的财产都要取出法定的数额交付给应受之人。 支柱四：即为崇拜安拉而前往麦加进行一些宗教功课。 支柱五：即：举意为崇拜安拉，而自黎明时刻直至日落，停止进食、饮水以及其它会使斋戒无效的行为。",
+   "grade": "正确的",
+   "hints": [
+    "两个作证言是相辅相成的，失去一个则另一个无效，因此教律将此两者视为一个支柱。\r",
+    "两个证言是宗教的基础，故仆人只有诵念两个见证词，其言语和工作才能被接受。"
+   ],
+   "mapping": "same HadeethEnc record id 65000; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:05+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/65000",
+   "text": "据阿卜杜拉·本·奥马尔（愿主喜悦他俩）说：安拉的使者（愿主福安之）说： “伊斯兰建立在五个支柱之上：作证没有应受崇拜的主，只有安拉，穆罕默德是安拉的使者和仆人，力行礼拜，缴纳天课，朝觐天房，封斋月斋。\"",
+   "title": "“伊斯兰建立在五个支柱之上",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

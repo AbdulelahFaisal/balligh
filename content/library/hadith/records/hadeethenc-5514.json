@@ -1,0 +1,179 @@
+{
+ "attribution": "رواه الترمذي وأحمد",
+ "content_sha256": "sha256:c325d4eeb12b5ddd6050453fe62277fef99a1fbdcc2c344196d9b11a53ba78b7",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يُخْبِرُ النبيُّ صلى الله عليه وسلم أنَّ مَن دافَعَ عن عِرْضِ أخيه المسلم في غَيْبته بمنع ذَمِّهِ أو الإساءة إليه، فإنَّ اللهَ يَرُدُّ عنه العذابَ يومَ القيامة.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "النهي عن الكلام في أعراض المسلمين.",
+  "الجزاء من جنس العمل، فمن رَدَّ عن عِرض أخيه ردَّ الله عنه النار.",
+  "الإسلام دين التآخي والتناصُر بين أهله."
+ ],
+ "id": "hadeethenc-5514",
+ "language": "ar",
+ "narrator": null,
+ "reference": "سنن الترمذي (3/ 488) (1931).\nمسند أحمد (45/ 528) (27543).\nتوضيح الأحكام من بلوغ المرام، للبسام (7/ 499).\nمنحة العلام في شرح بلوغ المرام، لعبد الله الفوزان (10/ 349).\nفتح ذي الجلال والإكرام، لابن عثيمين (6/ 437).\nسبل السلام بشرح بلوغ المرام، للصنعاني (2/ 692).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=5514",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:55+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/5514"
+ },
+ "source_categories": [
+  {
+   "id": "5",
+   "label": "الفضائل والآداب"
+  },
+  {
+   "id": "282",
+   "label": "الأخلاق الحميدة"
+  }
+ ],
+ "source_record_id": "5514",
+ "text": "عن أبي الدرداء رضي الله عنه عن النبي صلى الله عليه وسلم قال: «مَنْ رَدَّ عَنْ عِرْضِ أَخِيهِ رَدَّ اللهُ عَنْ وَجْهِهِ النَّارَ يَوْمَ الْقِيَامَةِ».",
+ "title": "من رد عن عرض أخيه رد الله عن وجهه النار يوم القيامة",
+ "topic": "conduct",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=5514",
+   "arabic_match": "exact",
+   "attribution": "এটি তিরিমিযী ও আহমাদ বর্ণনা করেছেন।",
+   "content_sha256": "sha256:a054f12ae5bfabc4936d66fb44bbd0c19981be9fa65e3e148541504feffe5a5f",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এ হাদীসে সংবাদ দিয়েছেন, যে ব্যক্তি তার মুসলিম ভাইয়ের অনুপস্থিতিতে তার  বিরুদ্ধে মন্দ ও খারাপ কিছু আরোপ  করা থেকে তাকে রক্ষা করবে,আল্লাহ তা‘আলা কিয়ামত দিবসে তার থেকে আযাব প্রতিহত করবেন।",
+   "grade": "সহীহ",
+   "hints": [
+    "মুসলিমদের সম্মানহানীকর কোন কথাবার্তা বলা হারাম।\r",
+    "সমজাতীয় কাজে সমজাতীয় পুরুস্কার। সুতরাং যে ব্যক্তি তার ভাইয়ের সম্মানের উপর আঘাত প্রতিরোধ করে আল্লাহ তা‘আলা কিয়ামত দিবসে তার চেহারা থেকে জাহান্নামের আগুন প্রতিহত করবেন।\r",
+    "ইসলাম তার অনুসারীদের জন্য পরস্পর ভ্রাতৃত্ব বন্ধনে আবদ্ধ হওয়া ও সহযোগিতার ধর্ম।"
+   ],
+   "mapping": "same HadeethEnc record id 5514; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:41+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/5514",
+   "text": "আবূ দারদা রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন: “যে ব্যক্তি তার ভাইয়ের সম্মানের উপর আঘাতকে প্রতিহত করে আল্লাহ তা‘আলা কিয়ামত দিবসে তার চেহারা থেকে জাহান্নামের আগুন কে প্রতিহত করবেন।”",
+   "title": "“যে ব্যক্তি তার ভাইয়ের সম্মানের উপর আঘাতকে প্রতিহত করে আল্লাহ তা‘আলা কিয়ামত দিবসে তার চেহারা থেকে জাহান্নামের আগুন কে প্রতিহত করবেন।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=5514",
+   "arabic_match": "exact",
+   "attribution": "Narrated by At-Tirmidhi and Ahmad",
+   "content_sha256": "sha256:45ff4eddb7f0b59504daff7f35d791bfa9031f04308605382bf0ff344a245e42",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) informs that if a Muslim defends the honour of his fellow Muslim in his absence by preventing others from backbiting him, Allah will protect him from the punishment on the Day of Judgment.",
+   "grade": "Authentic",
+   "hints": [
+    "It is prohibited to backbite or slander Muslims.\r",
+    "Recompense is of the same type as one's deeds. So, whoever defends the honor of his fellow Muslim, Allah will defend him against the Fire.\r",
+    "Islam is a religion of fraternity and mutual support among its adherents."
+   ],
+   "mapping": "same HadeethEnc record id 5514; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:41+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/5514",
+   "text": "Abu ad-Dardā’ (may Allah be pleased with him) reported: The Prophet (may Allah’s peace and blessings be upon him) said: \"Whoever protects the honor of his brother in his absence, Allah will protect his face from the Fire on the Day of Judgment.\"",
+   "title": "Whoever protects the honor of his brother in his absence, Allah will protect his face from the Fire on the Day of Judgment",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=5514",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par At-Tirmidhî et Ahmad",
+   "content_sha256": "sha256:3c3c7a0717cae886c270b8d21b98930b95fae1782f61ccdc76a0e6ef51835479",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) informe que quiconque défend l'honneur de son frère musulman en son absence, empêchant ainsi qu'on l'atteigne ou qu'on agisse mal avec lui, Allah repoussera de lui le châtiment au Jour de la Résurrection.",
+   "grade": "Authentique",
+   "hints": [
+    "L'interdiction de parler sur ce qui porte atteinte à l'honneur des musulmans.\r",
+    "La rétribution est fonction même de l'œuvre. Ainsi donc, quiconque défend l'honneur de son frère, Allah repoussera l'Enfer de sa personne.\r",
+    "L'Islam est la religion de la fraternité et de la solidarité entre ses membres."
+   ],
+   "mapping": "same HadeethEnc record id 5514; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:41+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/5514",
+   "text": "Aboû Ad-Dardâ' (qu'Allah l'agrée) relate que le Prophète (qu'Allah le couvre d'éloges et le préserve) a dit : « Quiconque défend l’honneur de son frère en son absence, Allah éloignera le Feu de son visage au Jour de la Résurrection. »",
+   "title": "Quiconque défend l’honneur de son frère en son absence, Allah éloignera le Feu de son visage au Jour de la Résurrection.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=5514",
+   "arabic_match": "exact",
+   "attribution": "HR. Tirmizi dan Ahmad",
+   "content_sha256": "sha256:a875931ffc8a84c95249491e57c727f6933820faee4c3b949e46e6908294d19c",
+   "explanation": "Nabi ﷺ mengabarkan bahwa orang yang membela kehormatan saudaranya yang muslim ketika ia tidak hadir dengan mencegah tindakan mencelanya atau perbuatan buruk kepadanya maka Allah akan menjauhkan siksa darinya pada hari Kiamat.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Larangan mencoreng kehormatan kaum muslimin.\r",
+    "2- Balasan sejenis dengan perbuatan, yaitu orang yang membela kehormatan saudaranya akan dijauhkan Allah dari api neraka.\r",
+    "3- Islam adalah agama persaudaraan dan kerjasama di antara pemeluknya."
+   ],
+   "mapping": "same HadeethEnc record id 5514; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:41+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/5514",
+   "text": "Abu Ad-Dardā` -raḍiyallāhu 'anhu- meriwayatkan dari Nabi ﷺ bahwa beliau bersabda, \"Siapa yang membela kehormatan saudaranya, Allah akan menjauhkan neraka dari wajahnya pada hari Kiamat.\"",
+   "title": "Siapa yang membela kehormatan saudaranya, Allah akan menjauhkan neraka dari wajahnya pada hari Kiamat",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=5514",
+   "arabic_match": "exact",
+   "attribution": "رواه الترمذي وأحمد",
+   "content_sha256": "sha256:0312a19e283497675b5e94d47d75d081a3b5d845c2d511b2a1df0d16797d2ffc",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم بتا رہے ہیں کہ جو شخص اپنے بھائی کی غیر موجودگی میں کسی کو اس کی مذمت کرنے یا اس کے ساتھ برا سلوک کرنے سے روک کر اپنے مسلمان بھائی کا دفاع کرتا ہے، اللہ قیامت کے دن اس سے عذاب کو دور رکھے گا۔",
+   "grade": "صحيح",
+   "hints": [
+    "مسلمانوں کی عزت و آبرو پر کیچڑ اچھالنے کی ممانعت۔\r",
+    "انسان کو جزا اسی نوعیت کی دی جائے گی، جس نوعیت کا اس کا عمل رہے گا۔ چنانچہ جو اپنے بھائی کی عزت کا دفاع کرے گا، اللہ اس سے جہنم کی آگ کو دور رکھے گا۔\r",
+    "اسلام آپسی بھائی چارے اور باہمی تعاون کا مذہب ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 5514; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:41+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/5514",
+   "text": "ابو درداء رضی اللہ عنہ سے روایت ہے کہ اللہ کے نبی صلی اللہ علیہ و سلم نے فرمایا : ”جو شخص اپنے بھائی کی عزت وناموس کا (اس کی غیر موجودگی میں) دفاع کرے، اللہ تعالیٰ قیامت کے دن اس کے چہرے کو جہنم کی آگ سے دور کردے گا“۔",
+   "title": "”جو شخص اپنے بھائی کی عزت وناموس کا (اس کی غیر موجودگی میں) دفاع کرے، اللہ تعالیٰ قیامت کے دن اس کے چہرے کو جہنم کی آگ سے دور کردے گا“۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=5514",
+   "arabic_match": "exact",
+   "attribution": "提尔密兹、艾哈迈德辑录",
+   "content_sha256": "sha256:d4d9aba373aebc4bd38461724f2bdb45bcf033c23b767d5a2399295e22aa73c7",
+   "explanation": "先知（愿主福安之）告诉我们，如果一个穆斯林在他的兄弟不在场的时候捍卫他的尊严，阻止人诋毁他或对他恶意中伤，那么真主将在末日的时候使他免受刑罚。",
+   "grade": "正确的",
+   "hints": [
+    "禁止有损穆斯林尊严的高谈阔论。\r",
+    "善恶之果源于所行好坏。所以谁捍卫了其兄弟的尊严，真主就替他挡回火狱。\r",
+    "伊斯兰教是互为兄弟、同袍间互帮互助的宗教。"
+   ],
+   "mapping": "same HadeethEnc record id 5514; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:41+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/5514",
+   "text": "据艾布·戴尔达伊（愿主喜悦之）传述:先知(愿主福安之)说: “不诋毁兄弟人格者，安拉复生日使他不入火狱｡”",
+   "title": "“不诋毁兄弟人格者，安拉复生日使他不入火狱｡”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [
+  {
+   "meaning": " العرض هو ما يُمْدَح به الإنسان أو يذم.",
+   "word": "عِرْضِ أَخِيهِ"
+  }
+ ],
+ "words_meanings_language": "ar"
+}

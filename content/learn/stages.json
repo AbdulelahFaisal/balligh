@@ -1,0 +1,61 @@
+{
+  "schema": "balligh.learn.stages.v1",
+  "version": "2026-10-06.1",
+  "path_id": "introductory-reading",
+  "stages": [
+    {
+      "order": 1,
+      "key": "introduction_belief",
+      "entries": [
+        { "collection": "quran", "source_id": "112", "recap": false },
+        { "collection": "fatwa", "source_id": "binbaz-11423", "recap": false },
+        { "collection": "hadith", "source_id": "hadeethenc-65050", "recap": false }
+      ]
+    },
+    {
+      "order": 2,
+      "key": "testimony_pillars",
+      "entries": [
+        { "collection": "fatwa", "source_id": "binbaz-18975", "recap": false },
+        { "collection": "hadith", "source_id": "hadeethenc-65000", "recap": false },
+        { "collection": "fatwa", "source_id": "binbaz-3982", "recap": false }
+      ]
+    },
+    {
+      "order": 3,
+      "key": "purification_prayer",
+      "entries": [
+        { "collection": "hadith", "source_id": "hadeethenc-3313", "recap": false },
+        { "collection": "fatwa", "source_id": "binbaz-3649", "recap": false },
+        { "collection": "quran", "source_id": "1", "recap": false },
+        { "collection": "fatwa", "source_id": "binbaz-2774", "recap": false }
+      ]
+    },
+    {
+      "order": 4,
+      "key": "fasting_zakah_hajj",
+      "entries": [
+        { "collection": "hadith", "source_id": "hadeethenc-65000", "recap": true },
+        { "collection": "hadith", "source_id": "hadeethenc-4196", "recap": false },
+        { "collection": "hadith", "source_id": "hadeethenc-65044", "recap": false },
+        { "collection": "fatwa", "source_id": "binbaz-18397", "recap": false }
+      ]
+    },
+    {
+      "order": 5,
+      "key": "everyday_conduct",
+      "entries": [
+        { "collection": "hadith", "source_id": "hadeethenc-4717", "recap": false },
+        { "collection": "hadith", "source_id": "hadeethenc-5437", "recap": false },
+        { "collection": "fatwa", "source_id": "binbaz-854", "recap": false }
+      ]
+    }
+  ],
+  "not_covered": ["prayer_demonstration", "fasting_rules", "zakah_calculation", "hajj_practice"],
+  "human_support": {
+    "name": "eDialogue",
+    "operator_ar": "جمعية ركن الحوار",
+    "url": "https://edialogue.org/",
+    "faq_url": "https://edialogue.org/faq/"
+  }
+}

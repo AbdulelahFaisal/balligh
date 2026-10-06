@@ -1,0 +1,186 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:c92dbdeb744db534e8ebbcf5e9bd723f4e0beeaaba2116f2d2a50ca2cdfb43cc",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "كان النبيُّ صلى الله عليه وسلم في بعض أسفاره، والناسُ في مكان نومِهم الذي يَبِيْتُون فيه في رِحالِهم وخيامِهم، فأَرْسَلَ شخصًا إلى الناس يأمرهم بِقَطْع القَلَائد التي تُعَلَّق على البعير سواء كانت من الوَتَر -وَتَر القَوْس- أو من غيره كالجَرَس أو النعل، وذلك لأنهم كانوا يُقَلِّدونها حذرًا من العين، فأُمِرُوا بقطعها؛ لأنها لا تَرُدُّ عنهم شيئًا، وأنَّ النفعَ والضرَّ بيد الله وحده لا شريك له.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "تحريم تعليق الأوتار والقلائد لجلب النفع أو دفع الضر؛ لأن ذلك من الشرك.",
+  "ربط القلادة من غير الوتر إذا كان للزينة أو لقيادة الدابة أو لربطها به فلا بأس به.",
+  "وجوب إنكار المنكر بحسب الاستطاعة.",
+  "وجوب تعلق القلب بالله وحده لا شريك له."
+ ],
+ "id": "hadeethenc-6761",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (4/ 59) (3005).\nصحيح مسلم (3/ 1672) (2115).\nالقول المفيد على كتاب التوحيد، لابن عثيمين (1/ 179).\nالملخص في شرح كتاب التوحيد، لصالح الفوزان (ص77).\nالجديد في شرح كتاب التوحيد، لمحمد القرعاوي (ص89).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=6761",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:36+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/6761"
+ },
+ "source_categories": [
+  {
+   "id": "73",
+   "label": "توحيد الألوهية"
+  }
+ ],
+ "source_record_id": "6761",
+ "text": "عن أبي بَشير الأنصاري رضي الله عنه: أَنَّهُ كَانَ مَعَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِي بَعْضِ أَسْفَارِهِ، قَالَ: فَأَرْسَلَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ رَسُولًا -وَالنَّاسُ فِي مَبِيتِهِمْ-: «لَا يَبْقَيَنَّ فِي رَقَبَةِ بَعِيرٍ قِلَادَةٌ مِنْ وَتَرٍ أَوْ قِلَادَةٌ إِلَّا قُطِعَتْ».",
+ "title": "لا يبقين في رقبة بعير قلادة من وتر أو قلادة إلا قطعت",
+ "topic": "belief",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=6761",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:12f64c84e4326c35cb437d090128c1e73dde225440ca8ad1d60ae160e9fd8021",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম কোন এক সফরে ছিলেন। লোকজন তাদের যানবাহন ও তাবুতে অবস্থিত ঘুমের জায়গায় ঘুমের প্রস্তুতি নিচ্ছিল। তখন রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এক লোককে নির্দেশ দিয়ে পাঠালেন যে, তারা যেন তাদের উটের গলার মালা কেটে ফেলে, যা তারা উটের গলায় ধনুকের তারের পট্টি বা অন্যান্য সাধারণ কোনো পট্টি যেমন ঘন্টা বা জুতা ইত্যাদি, ঝুলিয়ে দিতো। মানুষের চোখের ক্ষতি-বদনজর থেকে রক্ষা পাওয়ার জন্য তারা এসব করতো। ফলে তিনি এগুলো কেটে ফেলার নির্দেশ দিলেন। কেননা এগুলো কোন ক্ষতি প্রতিহত করতে পারে না। বরং কোন উপকার বা ক্ষতি সাধন করা একমাত্র মহান আল্লাহর হাতে, যার কোন শরীক নেই।",
+   "grade": "সহীহ",
+   "hints": [
+    "কারো উপকার সাধন বা ক্ষতি দূর করতে গলায়  ধনুকের তারের রশি এবং মালা ঝুলানো হারাম। কেননা এ কাজ শির্ক।\r",
+    "কেউ যদি নিছক সৌন্দর্য, পশু চালানো বা পশুকে বেঁধে রাখার জন্যে গলায় ধনুকের তারের পট্টি ব্যতীত সাধারণ মালা বা রশি বেঁধে দেয় তবে তাতে কোন অসুবিধে নেই।\r",
+    "সাধ্য অনুযয়ী মন্দ কাজে বাধা প্রদান করা ওয়াজিব।\r",
+    "অন্তরকে একমাত্র এক আল্লাহর সাথে সম্পৃক্ত করা ওয়াজিব, তিনি একক তার কোন শরীক নেই।"
+   ],
+   "mapping": "same HadeethEnc record id 6761; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:38+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/6761",
+   "text": "আবূ বাশীর আল-আনসারী রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত: তিনি কোনো এক সফরে রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের সাথে ছিলেন। আবূ বাশীর রাদিয়াল্লাহু ‘আনহু বলেন: রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম একজন দূত পাঠালেন। লোকজন তখন ঘুমের প্রস্তুতি নিচ্ছিল। (দূত এ মর্মে ঘোষণা দিলেন যে,) “উটের গলায় সুতার বা যে কোন মালা যেন অবশিষ্ট না থাকে, এ গুলো কেটে ফেলো।”",
+   "title": "উটের গলায় সুতার বা যে কোন মালা যেন অবশিষ্ট না থাকে, এ গুলো কেটে ফেলো।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=6761",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:1b5fdd46fb36de007df3f169cd865e0c9e25a8bed5ff81ea58ca3ce910b2383e",
+   "explanation": "As the Prophet (may Allah's peace and blessings be upon him) was on one of his journeys, and the people were in their sleeping places where they would pass the night in their dwellings and tents, he sent someone to the people ordering them to cut the necklaces hung around the camels' necks, be they made of strings - bowstrings - or any other material, like bells or sandals. This is because they used to hang these necklaces for protection against the evil eye. Hence, they were ordered to cut them, as they are of no avail against the evil eye, and benefit and harm lie in the Hand of Allah alone, with no partner.",
+   "grade": "Authentic",
+   "hints": [
+    "It is prohibited to hang strings and necklaces to bring about benefits or ward off evils, for this is an act of Shirk (polytheism).\r",
+    "There is nothing wrong with hanging a necklace without a string, as adornment, or for the purpose of riding an animal or tying it.\r",
+    "It is obligatory to show disapproval of wrong things, according to one's ability.\r",
+    "A person's heart should be attached to Allah alone, with no partner."
+   ],
+   "mapping": "same HadeethEnc record id 6761; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:38+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/6761",
+   "text": "Abu Bashīr al-Ansāri (may Allah be pleased with him) reported: He was with the Messenger of Allah (may Allah's peace and blessings be upon him) on one of his journeys, and he sent a messenger ordering: \"There should not remain any necklace of string or any other kind of necklace around the necks of camels without being cut.\"",
+   "title": "There should not remain any necklace of string or any other kind of necklace around the necks of camels without being cut",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=6761",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:0defed5c1c593c38a32578b52f42ee860ed6ed04675567562768d62c6e033791",
+   "explanation": "Au cours de l'un des voyages du Prophète (qu'Allah le couvre d'éloges et le préserve), alors que les gens se trouvaient sur le lieu où ils allaient passer la nuit pour dormir, dans leurs refuges et leurs tentes, il leur envoya une personne afin de leur ordonner de couper les colliers qu'on accrochait sur les chameaux, qu'ils fussent faits de corde - la corde d'un arc - ou de quoi que ce soit d'autre, qu'ils s'agisse d'une cloche, d'une sandale, etc. Cela parce qu'ils les accrochaient afin de conjurer le mauvais œil. Il leur fut donc ordonné de couper ces colliers car ils n'étaient pas en mesure de repousser [quelque mal que ce soit] d'eux et parce que le bien et le mal sont dans la Main d'Allah, Seul et sans associé.",
+   "grade": "Authentique",
+   "hints": [
+    "L'interdiction d'accrocher des cordes et des colliers afin d'attirer un bien ou repousser un mal ; car cela fait partie du polythéisme.\r",
+    "Il n'y a pas de mal à nouer un collier sans ficelles pour embellir, pour conduire la bête ou pour l'attacher.\r",
+    "L'obligation de réprouver le blâmable en fonction de la capacité.\r",
+    "L'obligation d'avoir son coeur attaché à Allah, Seul et sans associé."
+   ],
+   "mapping": "same HadeethEnc record id 6761; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:38+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/6761",
+   "text": "Aboû Bachîr Al-Anṣârî (qu'Allah l'agrée) relate : qu’il était avec le Messager d’Allah (qu'Allah le couvre d'éloges et le préserve) lors de l’un de ses voyages. Il a dit : Le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) envoya un émissaire - alors que les gens étaient chez eux - ordonnant : \" Qu'aucun collier fait de corde ne reste accroché aux cous des chameaux, ni même aucun collier, sans qu'il ne soit coupé ! \"",
+   "title": "Qu'aucun collier fait de corde ne reste accroché aux cous des chameaux, ni même aucun collier, sans qu'il ne soit coupé !",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=6761",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:b1dadd2d63b5728eddb98eb3808ba22823b67c30d409649746c2a07d024b24bf",
+   "explanation": "Di sebagian perjalanannya, saat orang-orang sedang beristirahat malam di tempat tidur mereka, di tenda dan kemah-kemah, Nabi ﷺ mengutus seseorang untuk memerintahkan mereka memutus kalung yang digantung pada unta, baik yang terbuat dari tali busur atau lainnya seperti lonceng atau sandal. Hal itu karena mereka menggantungkannya untuk menangkal penyakit ain, sehingga mereka diperintahkan agar memutusnya, sebab itu tidak dapat menolak apa-apa dan karena kebaikan dan keburukan hanya di tangan Allah semata, tidak ada sekutu bagi-Nya.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Diharamkan menggantung tali busur dan kalung untuk mendatangkan kebaikan atau menolak keburukan karena hal itu termasuk kesyirikan.\r",
+    "2- Mengikat kalung dengan selain tali busur jika tujuannya sebagai perhiasan atau untuk menggiring hewan atau menambatnya, maka tidak masalah.\r",
+    "3- Kewajiban mengingkari kemungkaran sesuai kemampuan.\r",
+    "4- Kewajiban menggantungkan hati pada Allah semata, tidak ada sekutu bagi-Nya."
+   ],
+   "mapping": "same HadeethEnc record id 6761; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:38+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/6761",
+   "text": "Abu Basyīr Al-Anṣāriy -raḍiyallāhu 'anhu- meriwayatkan, Ia pernah bersama Rasulullah ﷺ di sebagian perjalanannya, lalu Rasulullah ﷺ mengirim seorang utusan -sementara orang-orang sedang istirahat malam- agar mengumumkan, \"Tidak boleh membiarkan suatu kalung dari tali busur -atau kalung apa saja- di leher unta, kalau ada maka harus diputus.\"",
+   "title": "Tidak boleh membiarkan suatu kalung dari tali busur -atau kalung apa saja- di leher unta, kalau ada maka harus diputus",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=6761",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:c2dccc53f29b7ec732354070a88251a667474e6b60a2a0d79d4495e6b9275cb5",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم کسی سفر میں تھے اور لوگ اپنے سونے کی جگہوں میں، جہاں ان کو رات گزارنی تھی، موجود تھے۔ اسی درمیان آپ نے ایک شخص کو اس حکم کے ساتھ بھیجا کہ لوگ اپنے اونٹوں کے گلوں میں باندھی گئی چیزوں کو کاٹ دیں۔ چاہے وہ چیزیں کمان کی تانت کی شکل میں ہوں یا گھنٹی کی شکل میں ہوں یا جوتے وغیرہ کی شکل میں۔ ایسا اس لیے کہ لوگ یہ چیزیں نظر بد لگنے کے ڈر سے باندھا کرتے تھے، لہذا ان کو کاٹ دینے کا حکم دیا۔ کیوں کہ یہ چیزیں کچھ فائدہ نہيں دیتیں۔ نفع اور نقصان کا مالک صرف اللہ ہے۔ اس میں اس کا کوئی شریک نہيں ہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "نفع کے حصول اور ضرر سے بچنے کے لیے کمان کے تانت اور قلائد وغیرہ کو باندھنا حرام ہے، کیوں کہ یہ شرک ہے۔\r",
+    "اونٹ کے گلے میں تانت کے علاوہ کسی اور چیز کا پٹہ اور ہار اگر زینت، جانور کو کھینچنے اور اسے باندھنے کے لیے لگایا جائے، تو اس میں کوئی حرج نہيں ہے۔\r",
+    "حسب استطاعت منکر کا انکار ضروری ہے۔\r",
+    "دل کا تعلق بس اللہ سے ہونا چاہیے۔ کسی اور سے نہيں۔"
+   ],
+   "mapping": "same HadeethEnc record id 6761; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:38+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/6761",
+   "text": "ابو بشیر انصاری رضی اللہ عنہ روایت کرتے ہوۓ کہتے ہیں کہ: وہ کسی سفر میں اللہ کے رسول ﷺ کے ساتھ تھے۔ ان کا کہنا ہے کہ جب لوگ اپنی آرام گاہوں میں تھے تو آپ ﷺ نے یہ اعلان کرنے کے لیے ایک قاصد بھیجا کہ: جس اونٹ کی گردن میں بھی تانت کا ہار (گنڈا) یا ہار ہو اسے کاٹ دیا جائے۔",
+   "title": "جس اونٹ کی گردن میں بھی تانت کا ہار (گنڈا) یا ہار ہو اسے کاٹ دیا جائے۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=6761",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:299a8fb1219dc67cc2628e2097d63e7fbdbfad2e22093b635c44061031a45b72",
+   "explanation": "先知（愿主福安之）在一次旅行当中，当人们都还坐在下榻之地时，他派遣一人去到人们当中并命令他们去掉所有挂在牲畜脖子上的项圈，无论是弓弦或其他物，比如：铃铛和鞋子，那是因为他们这样做是为了防止毒眼。然后他命令割断这一切，因为这些并不能有益于他们丝毫，而真正的益和害均掌握在独一无二的安拉手中。",
+   "grade": "正确的",
+   "hints": [
+    "禁止以招福避祸为目的而悬挂弓弦和项圈，因为此举属于以物配主。\r",
+    "如果只是单纯为了装饰，或驾驭牲畜，或以此来栓牲畜，则无妨挂之，但弓弦除外。\r",
+    "必须制止恶行，但需量力而行。\r",
+    "必须要时刻心系独一无二的安拉。"
+   ],
+   "mapping": "same HadeethEnc record id 6761; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:38+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/6761",
+   "text": "据艾布·柏西尔（愿主喜悦之）传述： 他曾同使者（愿主福安之）一起出门旅行，他说：人们都坐在休息的地方，此时安拉的使者（愿主福安之）派出一人告诉人们说：“凡牲畜脖子上所系的或挂的弦或项圈必须统统去掉。”",
+   "title": "凡牲畜脖子上所系的或挂的弦或项圈必须统统去掉。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [
+  {
+   "meaning": " مفرد أوتار، وهو ما يشد به القوس كانت العرب تعلقه تتقي به العين.",
+   "word": "وتر"
+  },
+  {
+   "meaning": " ما يعلق في رقبة البعير وغيره، كالجرس والنعل، بنية دفع العين.",
+   "word": "قلادة"
+  }
+ ],
+ "words_meanings_language": "ar"
+}

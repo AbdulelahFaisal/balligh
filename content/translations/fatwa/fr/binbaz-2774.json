@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2774",
+ "source_content_sha256": "sha256:1090ab0e4652540b7dd325e02f61896872db697b6a5bdbfc2a126cc3279fc8fa",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:24:08.451853+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 520,
+  "completion_tokens": 470,
+  "total_tokens": 990,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 520
+ },
+ "latency_ms": 4972,
+ "units": [
+  {
+   "id": "title",
+   "text": "Jugement concernant celui qui a dormi et manqué la prière de l’aube jusqu’à la fin de son temps"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Je me suis endormi et n’ai pas accompli la prière de l’aube, et je ne me suis réveillé qu’au moment de la matinée (duha). M’est-il permis de la prier lorsque je me réveille, ou dois-je la prier à son heure ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Si une personne dort et manque une prière, puis se réveille, elle doit l’accomplir dès son réveil avec sa prière surérogatoire (sounnah), selon la parole du Prophète ﷺ : « Quiconque dort et manque une prière, ou l’oublie, qu’il la prie lorsqu’il s’en souvient ; il n’y a pas d’autre expiation pour elle que cela. »"
+  },
+  {
+   "id": "a2",
+   "text": "Lorsque le Prophète ﷺ a dormi lors de certaines de ses expéditions et voyages et a manqué la prière de l’aube, ils ne se réveillèrent qu’avec la chaleur du soleil. Il se leva - que la prière et la paix soient sur lui - ordonna à Bilal de faire l’appel à la prière (adhan), ils firent leurs ablutions, accomplirent sa prière surérogatoire, puis il fit l’annonce du début de la prière (iqamah) et la pria comme il la priait à son heure - que la prière et la paix soient sur lui."
+  }
+ ]
+}

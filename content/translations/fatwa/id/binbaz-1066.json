@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1066",
+ "source_content_sha256": "sha256:18f535414a98bd90ca4f4d99693221080db2101df9fb2a5776e7e380df4e909f",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:28:41.678843+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 672,
+  "completion_tokens": 566,
+  "total_tokens": 1238,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 672
+ },
+ "latency_ms": 5785,
+ "units": [
+  {
+   "id": "title",
+   "text": "Apa yang dilakukan orang yang menemukan kambing hilang?"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Saya menemukan dua ekor kambing yang hilang. Saya telah bertanya tentang pemiliknya di beberapa tempat dan di pasar kambing, namun tidak menemukan pemiliknya. Maka saya mohon fatwa, apa yang harus saya lakukan dengan kambing-kambing itu?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Apabila seseorang menemukan kambing-kambing yang hilang, atau selain kambing seperti sapi dan hewan lain yang dikhawatirkan akan pergi dan hilang, maka ia mengumumkannya selama satu tahun penuh. Jika pemiliknya diketahui, alhamdulillah. Jika tidak diketahui, maka halal baginya... Nabi -shallallahu 'alaihi wa sallam- bersabda: \"Barangsiapa menampung hewan hilang, maka ia sesat selama tidak mengumumkannya.\""
+  },
+  {
+   "id": "a2",
+   "text": "Adapun sapi dan unta, keduanya dapat melindungi diri sendiri; maka tidak perlu mengambil dan menahannya, tetapi biarkan di padang sahara hingga pemiliknya menemukannya. Jika berada di pasar, pemiliknya akan menemukannya."
+  },
+  {
+   "id": "a3",
+   "text": "Adapun kambing, hendaknya ia mengumumkannya selama satu tahun penuh. Demikian pula hewan-hewan kecil sejenis kambing yang dikhawatirkan mati... atau semacamnya; maka ia juga mengumumkannya."
+  },
+  {
+   "id": "a4",
+   "text": "Kesimpulannya: ia mengumumkannya selama satu tahun penuh. Jika diketahui pemiliknya, maka (selesai), jika tidak maka kambing itu menjadi miliknya. Biaya pengumuman yang benar menjadi tanggungannya; biaya untuk menyerukan dan mengumumkannya kepada orang-orang menjadi tanggungannya dari harta yang ia temukan. Jika ia meninggalkannya dan tidak mengambilnya, maka tidak mengapa."
+  }
+ ]
+}

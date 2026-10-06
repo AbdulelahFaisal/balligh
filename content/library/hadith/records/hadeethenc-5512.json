@@ -1,0 +1,156 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:a47dad3c6713100e11eceb216feeddbba5256f44e718c28d212713c029e34520",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يُبَيِّنُ النبيُّ صلى الله عليه وسلم أنَّ الصدقةَ لا تُنقِصُ المالَ، بل تَدْفَعُ عنه الآفات، ويُعَوِّض اللهُ صاحبَها الخيرَ العظيم، فتكون زيادةً لا نقصًا.\n\nوما زاد العفوُ مع القدرة على الانتقام أو المؤاخذة صاحبَه إلا قوةً وعزةً.\n\nوما تواضع وتَذَلَّل أحدٌ لوجه الله، لا خوفًا من أحد، ولا مداراة له، ولا طلبًا لمنفعة منه، إلا كان جزاؤه العُلُوَّ والشرفَ.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "الخير والفلاح في امتثال الشريعة وفعل الخير وإن ظن بعض الناس أنه بخلاف ذلك."
+ ],
+ "id": "hadeethenc-5512",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (4/ 2001) (2588).\nتوضيح الأحكام من بلوغ المرام، للبسام (7/ 501).\nمنحة العلام في شرح بلوغ المرام، لعبد الله الفوزان (10/ 354).\nفتح ذي الجلال والإكرام، لابن عثيمين (6/ 438).\nسبل السلام بشرح بلوغ المرام، للصنعاني (2/ 692).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=5512",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:39+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/5512"
+ },
+ "source_categories": [
+  {
+   "id": "511",
+   "label": "صدقة التطوع"
+  }
+ ],
+ "source_record_id": "5512",
+ "text": "عن أبي هريرة رضي الله عنه عن رسول الله صلى الله عليه وسلم قال: «مَا نَقَصَتْ صَدَقَةٌ مِنْ مَالٍ، وَمَا زَادَ اللهُ عَبْدًا بِعَفْوٍ إِلَّا عِزًّا، وَمَا تَوَاضَعَ أَحَدٌ لِلهِ إِلَّا رَفَعَهُ اللهُ».",
+ "title": "ما نقصت صدقة من مال، وما زاد الله عبدا بعفو إلا عزا، وما تواضع أحد لله إلا رفعه الله",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=5512",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:359d06747b61784d5f570879543516dbc59d0a8b2d34e8ad8abd52890fa026dd",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এ হাদীসে বর্ণনা করেছেন যে, সাদাকায় কখনো ব্যক্তির সম্পদ কমে না; বরং এর দ্বারা বালা-মুসিবত দূর হয়। আল্লাহ এর মাধ্যমে ব্যক্তিকে অপরিসীম কল্যাণ দান করেন। ফলে তার সবকিছুতে বৃদ্ধিই হয়, কমতি হয় না।\r\n\r\nপ্রতিশোধ নেয়ার সামর্থ থাকা সত্ত্বেও অথবা ব্যক্তিকে পাকড়াও করার ক্ষমতা থাকা সত্ত্বেও যে ব্যক্তি কাউকে ক্ষমা করে আল্লাহ তার শক্তি ও মর্যাদা বৃদ্ধি করে দেন।\r\n\r\nআর কাউকে ভয় না পেয়ে অথবা কারো তোষামোদ না করে অথবা কারো থেকে উপকার লাভের প্রত্যাশা না করে কেউ যদি আল্লাহর সন্তুষ্টির জন্য বিনীত হয়,  তিনি তার সম্মান ও মর্যাদা বৃদ্ধি করে দেন।",
+   "grade": "সহীহ",
+   "hints": [
+    "ইসলামী শারী‘আহ মান্য করার এবং ভালো কাজের মধ্যেই রয়েছে কল্যাণ ও সফলতা। যদিও কিছু মানুষ তার বিপরিত ধারণা করে থাকে।"
+   ],
+   "mapping": "same HadeethEnc record id 5512; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:41+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/5512",
+   "text": "আবূ হুরায়রা রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন: “সাদাকা করলে সম্পদ কমে যায় না। যে ব্যক্তি ক্ষমা করে আল্লাহ তার মর্যাদা বৃদ্ধি করে দেন। আর কেউ আল্লাহর সন্তুষ্টির জন্য বিনীত হলে তিনি তার মর্যাদা উঁচুতে তুলে দেন।”",
+   "title": "“সাদাকা করলে সম্পদ কমে যায় না। যে ব্যক্তি ক্ষমা করে আল্লাহ তার মর্যাদা বৃদ্ধি করে দেন। আর কেউ আল্লাহর সন্তুষ্টির জন্য বিনীত হলে তিনি তার মর্যাদা উঁচুতে তুলে দেন।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=5512",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:e34fa7f35999649149d78909bd28f636d647f8e8b476e247d12843c3272a7e8b",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) points out that charity does not decrease wealth. Rather, it protects it from misfortunes and brings great compensation from Allah for its doner. So, it constitutes an increase, not a decrease.\r\n\r\nAnd Allah does not increase a person who forgives others, while he has the ability to take revenge or inflict punishment, except in power and honor.\r\n\r\nAnd that whoever humbles himself for the sake of Allah, not out of fear from anyone or a desire to flatter him or seek some benefit from him, Allah will reward him by elevation and honor.",
+   "grade": "Authentic",
+   "hints": [
+    "All goodness and success lies in complying with the Shariah and doing good, even if some people think otherwise."
+   ],
+   "mapping": "same HadeethEnc record id 5512; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:41+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/5512",
+   "text": "Abu Hurayrah (may Allah be pleased with him) reported: The Messenger of Allah (may Allah's peace and blessings be upon him) said: \"Charity does not diminish wealth, and Allah does not increase a servant, on account of his forgiveness, except in honor, and no one humbles himself seeking the pleasure of Allah except that Allah will elevate him.\"",
+   "title": "Charity does not diminish wealth, and Allah does not increase a servant, on account of his forgiveness, except in honor, and no one humbles himself seeking the pleasure of Allah except that Allah will elevate him",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=5512",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:14782701fce7c53e4b80fe342dda106e612412ef6a506669d148fc5d61685bc2",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) explique que l'aumône ne diminue pas les biens, elle en repousse plutôt les maux et Allah la remplace par un bien immense, il s'agit donc ainsi d'une augmentation et non d'une diminution.\r\n\r\nEt en raison du pardon que concède l'individu alors qu'il est capable de se venger ou de prendre son dû, Allah lui rajoute force et fierté.\r\n\r\nEnfin, pas une personne ne fait preuve de modestie et d'humilité pour le Visage d'Allah, pas par crainte d'autrui, ni en se livrant à des simagrées envers cette personne ou en cherchant à tirer un quelconque avantage de sa part, sans que sa rétribution ne soit la grandeur et l'honneur.",
+   "grade": "Authentique",
+   "hints": [
+    "Le bien et le succès sont dans l'application de la Charî'ah et l'accomplissement du bien, même s'il est certaines personnes qui pensent le contraire."
+   ],
+   "mapping": "same HadeethEnc record id 5512; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:41+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/5512",
+   "text": "Aboû Hourayrah (qu'Allah l'agrée) relate que le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) a dit : \" Une aumône n'a jamais diminué un bien, Allah n'ajoute que fierté à un serviteur qui pardonne et personne ne se montre humble pour Allah sans qu'Allah n'élève son rang. \"",
+   "title": "Une aumône n'a jamais diminué un bien, Allah n'ajoute que fierté à un serviteur qui pardonne et personne ne se montre humble pour Allah sans qu'Allah n'élève son rang.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=5512",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:5870c3b1a56ebb5bda1adc0e7031c428093d193c3c9cd287ccbcead95582ff24",
+   "explanation": "Nabi ﷺ menerangkan bahwa sedekah itu tidak mengurangi harta, justru melindunginya dari berbagai keburukan, dan Allah akan memberi ganti bagi pemiliknya dengan kebaikan yang besar, sehingga yang terjadi ialah penambahan, bukan pengurangan.\r\n\r\nBeliau juga menerangkan bahwa tidaklah sikap memaafkan di saat mampu untuk membalas atau menghukum pelaku kezaliman melainkan akan menambah kekuatan dan keperkasaan.\r\n\r\nJuga menerangkan bahwa tidaklah seseorang bersikap tawaduk dan merendahkan diri karena Allah, bukan karena takut pada seseorang, melunak kepadanya, maupun mengharapkan manfaatnya, kecuali balasannya ialah keluhuran dan kemuliaan.",
+   "grade": "Sahih",
+   "hints": [
+    "Kebaikan dan kesuksesan ada pada pelaksanaan syariat dan mengerjakan kebaikan, walaupun sebagian orang mengira sebaliknya."
+   ],
+   "mapping": "same HadeethEnc record id 5512; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:41+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/5512",
+   "text": "Abu Hurairah -raḍiyallāhu 'anhu- meriwayatkan dari Rasulullah ﷺ bahwa beliau bersabda, \"Tidaklah sedekah mengurangi harta. Tidaklah Allah menambahkan pada seorang hamba dengan sebab memaafkan kecuali kemuliaan. Dan tidaklah seseorang merendahkan diri karena Allah kecuali Allah mengangkat derajatnya.\"",
+   "title": "Tidaklah sedekah mengurangi harta. Tidaklah Allah menambahkan pada seorang hamba dengan sebab memaafkan kecuali kemuliaan. Dan tidaklah seseorang merendahkan diri karena Allah kecuali Allah mengangkat derajatnya",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=5512",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:dc8ba1a08854d5825988dcc87ce84ff21d51a2952c97a79718d8186da2bb9473",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم بتا رہے ہیں کہ صدقہ مال کو گھٹاتا نہيں ہے، بلکہ اسے بلا و مصیبت سے محفوظ رکھتا ہے اور بدلے میں صدقہ کرنے والے کو بڑی بھلائی عطا کرتا ہے۔ اس طرح دیکھا جائے تو مال میں اضافہ ہوا، کمی نہیں۔\r\n\r\nانتقام لینے اور گرفت کرنے کی طاقت ہونے کے باوجود عفو و درگزر سے کام لینے سے انسان کے طاقت و عزت میں اضافہ ہوتا ہے۔\r\n\r\nجب کوئی اللہ کی رضا جوئی کے لیے تواضع اور انکساری کا رویہ اختیار کرتا ہے، اس میں کسی کا خوف، کسی کو خوش کرنے اور کسی سے کسی منفعت کا حصول جیسی باتیں پیش نظر نہيں ہوتیں، تو بدلے میں اللہ تعالی اسے بلندی اور عزت عطا کرتا ہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "خیر وبھلائی اور کامیابی وکامرانی شریعت کی پیروی اور نیکی کے کام کرنے میں ہے، اگرچہ کچھ لوگ اس کے برخلاف سوچیں۔"
+   ],
+   "mapping": "same HadeethEnc record id 5512; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:41+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/5512",
+   "text": "ابو ہریرہ رضی اللہ عنہ سے روایت ہے کہ اللہ کے رسول صلی اللہ علیہ و سلم نے فرمایا : ”صدقہ مال کو گھٹاتا نہيں ہے، بندہ کے عفو و درگزر سے کام لینے سے اللہ اس کی عزت کو مزید بڑھاتا ہے اور جو آدمی اللہ کے لیے تواضع اختیار کرتا ہے، اللہ تعالی اسے بلندیوں سے نوازتا ہے“۔",
+   "title": "”صدقہ مال کو گھٹاتا نہيں ہے، بندہ کے عفو و درگزر سے کام لینے سے اللہ اس کی عزت کو مزید بڑھاتا ہے اور جو آدمی اللہ کے لیے تواضع اختیار کرتا ہے، اللہ تعالی اسے بلندیوں سے نوازتا ہے“۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=5512",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:a9dd7394333307bdd8e3c9517e9fec42f9d86496f9a7e6a53af53b5a08b7495c",
+   "explanation": "先知（愿主福安之）阐明，施舍并不会减少财富，相反，它会将灾害远离，并且真主会以巨大的善回报那些慷慨的人，因此，它会增加而不是减少。\r\n\r\n即使有能力报复或惩罚他人的情况下宽恕，只会增强一个人的力量和尊严。\r\n\r\n一个人真诚地谦卑和屈服于真主，不出于对他人的害怕，也不是为了迎合他人，更不是为了谋取私利，那么他的回报将是高贵和尊荣。",
+   "grade": "正确的",
+   "hints": [
+    "善报和成功在于遵循伊斯兰教法和行善，尽管有些人可能持相反态度。"
+   ],
+   "mapping": "same HadeethEnc record id 5512; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:41+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/5512",
+   "text": "据艾布·胡莱勒（愿主喜悦之）传述，真主的使者（愿主福安之）说： “施舍对财产无任何减损;谅解人者真主使他更加尊荣;凡为真主而谦和的人安拉提升他｡”",
+   "title": "“施舍对财产无任何减损;谅解人者真主使他更加尊荣;凡为真主而谦和的人安拉提升他｡”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

@@ -1,0 +1,186 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:0896215cf28800e7c475eeab24521642e1d993a8c0b65380c3397363f4ace9cc",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يُخبرُ النبيُّ صلى الله عليه وسلم أنَّ الإيمانَ شُعَبٌ وخِصَالٌ كثيرة، تشتمل على أعمالٍ واعتقاداتٍ وأقوالٍ.\n\nوأنَّ أعلى خِصال الإيمان وأفضلَها قول: «لا إله إلا الله»، عالمًا بمعناها، عاملًا بمقتضاها، مِن أنّ الله هو الإله الواحد الأحد المستحق للعبادة وحده دون ما سواه.\n\nوأن أقلَّ أعمال الإيمان هو تَنْحِيَةُ كلِّ ما يؤذي الناسَ في طرقاتِهم.\n\nثم أخبر صلى الله عليه وسلم أنَّ الحياءَ مِن خِصال الإيمان، وهو خُلُقٌ يبعث على فعل الجميل وترك القبيح.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "الإيمان مراتب بعضها أفضل من بعض.",
+  "الإيمان قول وعمل واعتقاد.",
+  "الحياء من الله تعالى يقتضي: ألّا يراكَ حيث نهاك، وألّا يَفْقِدَكَ حيث أمرك.",
+  "ذِكْرُ العدد لا يعني الاقتصار عليه، بل يدلُّ على كثرة أعمال الإيمان، فإن العرب قد تذكر للشيء عددًا ولا تريد نفي ما سواه."
+ ],
+ "id": "hadeethenc-6468",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (1/ 11) (9).\nصحيح مسلم (1/ 63) (35).\nنزهة المتقين شرح رياض الصالحين (1/ 154).\nشرح رياض الصالحين، لابن عثيمين (2/ 169).\nتطريز رياض الصالحين، لفيصل آل مبارك (ص106).\nبهجة الناظرين شرح رياض الصالحين، لسليم لهلالي (1/ 205).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=6468",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:28+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/6468"
+ },
+ "source_categories": [
+  {
+   "id": "92",
+   "label": "زيادة الإيمان ونقصانه"
+  }
+ ],
+ "source_record_id": "6468",
+ "text": "عن أبي هريرة رضي الله عنه قال: قال رسول الله صلى الله عليه وسلم: «الْإِيمَانُ بِضْعٌ وَسَبْعُونَ -أَوْ بِضْعٌ وَسِتُّونَ- شُعْبَةً، فَأَفْضَلُهَا قَوْلُ لَا إِلَهَ إِلَّا اللهُ، وَأَدْنَاهَا إِمَاطَةُ الْأَذَى عَنِ الطَّرِيقِ، وَالْحَيَاءُ شُعْبَةٌ مِنَ الْإِيمَانِ».",
+ "title": "الإيمان بضع وسبعون أو بضع وستون شعبة، فأفضلها قول لا إله إلا الله، وأدناها إماطة الأذى عن الطريق",
+ "topic": "understanding_islam",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=6468",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:111357b8c4f65dacddb1e1ab4968269eace4cb1ad92e9a05c262b328feb76668",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এ হাদীসে সংবাদ দিয়েছেন, ঈমানের রয়েছে কতিপয় শাখা-প্রশাখা ও বৈশিষ্ট্য। সেগুলো কর্ম , আক্বীদাহ ও কথাকে অন্তর্ভুক্ত করে।\r\n\r\nঈমানের সর্বোচ্চ ও সর্বোত্তম বৈশিষ্ট্য হলো: (لا إله إلا الله) ‘আল্লাহ ব্যতীত অন্য কোনো সত্য ইলাহ নেই।’ এ কালিমার অর্থ জেনে বুঝে এবং এর দাবী অনুযায়ী আমল   করত: উক্ত কথা বলা। এর অর্থ  হলো আল্লাহই একমাত্র ইলাহ, তিনি এক ও অদ্বিতীয়, সকল ইবাদতের তিনিই একমাত্র অধিকারী, তিনি ব্যতীত কেউ ইবাদতের যোগ্য নয়।\r\n\r\nঈমানের সর্বনিম্ন আমল হলো রাস্তায় যেসব জিনিস মানুষকে কষ্ট দেয় তা অপসারণ করা।\r\n\r\nঅতপর নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম সংবাদ দিয়েছেন যে, লজ্জাশীলতা ঈমানের একটি শাখা। এটি এমন একটি চরিত্র যা ভালো কাজ করতে এবং খারাপ কাজ পরিহার করতে অনুপ্রেরণা যোগায়।",
+   "grade": "সহীহ",
+   "hints": [
+    "ঈমানের রয়েছে অনেক স্তর। এর এক একটি স্তর অন্য স্তরের চেয়ে উত্তম।\r",
+    "ঈমান হলো, কথা, কর্ম ও বিশ্বাসের নাম।\r",
+    "আল্লাহর থেকে লজ্জাশীলতার দাবী হলো: তিনি যা নিষেধ করেছেন, তাতে যেন তিনি তোমাকে না দেখেন, আর তিনি যা আদেশ করেছেন, তাতে যেন তুমি অনুপস্থিত না থাকো (১)।\r",
+    "সংখ্যার উল্লেখ সীমিত করা উদ্দেশ্য নয়; বরং ঈমানের কর্ম  অসংখ্য হওয়া বুঝায়। কেননা আরবরা কোন কিছুর জন্য সংখ্যা উল্লেখ করে, কিন্তু তার দ্বারা অন্য কিছুকে বাদ দেওয়া উদ্দেশ্য করে না।"
+   ],
+   "mapping": "same HadeethEnc record id 6468; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:45:58+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/6468",
+   "text": "আবূ হুরায়রা রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, তিনি বলেন: রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন: “ঈমানের সত্তরটিরও  অথবা ষাটটিরও বেশি শাখা রয়েছে। তার মধ্যে সর্বোত্তম হলো এ সাক্ষ্য দেয় যে, ‘আল্লাহ ব্যতীত সত্য কোনো মাবূদ নেই।’ আর সর্বনিম্ন হলো রাস্তা থেকে কষ্টদায়ক জিনিস অপসারণ করা। এবং লজ্জাশীলতা ঈমানের একটি শাখা।”",
+   "title": "“ঈমানের সত্তরটিরও  অথবা ষাটটিরও বেশি শাখা রয়েছে। তার মধ্যে সর্বোত্তম হলো এ সাক্ষ্য দেয় যে, ‘আল্লাহ ব্যতীত সত্য কোনো মাবূদ নেই।’ আর সর্বনিম্ন হলো রাস্তা থেকে কষ্টদায়ক জিনিস অপসারণ করা।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=6468",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:e756947bf7e8d77bef7ad69697813515792400865fd152505dc487e59b04d15f",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) informs that faith consists of many branches and elements comprising various deeds, beliefs, and words.\r\n\r\nAnd he states that the best and most sublime among the elements of faith is to say \"there is no god but Allah\" while knowing its meaning and acting according to it - that Allah is the One true God Who is worthy of worship, alone, and apart from all else.\r\n\r\nAnd that the lowest act of faith is to remove any object harmful to people from their ways.\r\n\r\nThen, the Prophet (may Allah's peace and blessings be upon him) informed that modesty is one of the elements of faith, and it is a character trait that prompts one to do what is good and deters him from doing what is evil.",
+   "grade": "Authentic",
+   "hints": [
+    "Faith comprises various levels, some of which are higher than others.\r",
+    "Faith consists of words, deeds, and beliefs.\r",
+    "Modesty towards Allah entails that He should not see you where He prohibited you from, or miss you where He commanded you to be.\r",
+    "Mention of the number does not mean faith is limited to these, but it indicates that the acts of faith are many. In fact, the Arabs may specify a number for something without intending to negate other than that."
+   ],
+   "mapping": "same HadeethEnc record id 6468; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:45:58+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/6468",
+   "text": "Abu Hurayrah (may Allah be pleased with him) reported: The Messenger of Allah (may Allah's peace and blessings be upon him) said: \"Faith has over seventy branches - or over sixty branches - the most excellent of which is the declaration that 'lā ilāha illa Allah (there is no god but Allah)', and the lowest of which is the removal of what is harmful from the way; and modesty is a branch of faith.\"",
+   "title": "Faith has over seventy branches - or over sixty branches - the most excellent of which is the declaration that 'lā ilāha illa Allah (there is no god but Allah)', and the lowest of which is the removal of what is harmful from the way",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=6468",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:72c369d16965259f90f89024b6bbbf48d5e77fc04402213a8f3ac3c58fbff0fd",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) informe que la foi possède de nombreuses branches et caractéristiques qui englobent des œuvres, des croyances et des paroles.\r\n\r\nQue la plus haute et la meilleure des caractéristiques de la foi est de dire : \" Il n'est de divinité [digne d'adoration] qu'Allah \" en connaissant sa signification et en œuvrant selon ses implications, à savoir qu'Allah est le Seul et Unique Dieu qui soit digne d'adoration, Lui Seul, et sans qui ou quoi que ce soit d'autre.\r\n\r\nEt que la moindre des œuvres de la foi consiste à ôter ce qui nuit aux gens sur leurs chemins.\r\n\r\nEnsuite, il a informé (qu'Allah le couvre d'éloges et le préserve) que la pudeur fait partie des caractéristiques de la foi. C'est un comportement qui pousse à l'accomplissement de ce qui est beau et au délaissement de ce qui est laid.",
+   "grade": "Authentique",
+   "hints": [
+    "La foi a des niveaux, certains d'entre eux sont meilleurs que d'autres.\r",
+    "La foi est parole, acte et croyance.\r",
+    "La pudeur à l'égard d'Allah, Exalté soit-Il, implique qu'Il ne te voit pas là où Il t'a interdit d'être, et qu'Il ne te trouve pas absent là où Il t'a ordonné d'être.\r",
+    "La mention du nombre [des branches de la foi] ne signifie pas qu'elle y soit limitée. Cela indique plutôt la multitude des œuvres de celle-ci. En effet, les Arabes mentionnaient parfois un nombre pour une chose, sans pour autant  vouloir infirmer autre que lui."
+   ],
+   "mapping": "same HadeethEnc record id 6468; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:45:58+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/6468",
+   "text": "Aboû Hourayrah (qu'Allah l'agrée) relate que le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) a dit : « La foi comporte soixante-dix et quelques - ou soixante et quelques - branches. La meilleure d’entre elles est la parole : \" Il n’est de divinité [digne d'adoration] qu'Allah \", et la moindre  consiste à ôter ce qui est nuisible du chemin, et la pudeur est une branche de la foi. »",
+   "title": "La foi comporte soixante-dix et quelques - ou soixante et quelques - branches. La meilleure d’entre elles est la parole : \" Il n’est de divinité [digne d'adoration] qu'Allah \", et la moindre  consiste à ôter ce qui est nuisible du chemin",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=6468",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:d05dc5b181a74f5044ef75c735b48caf1426a9e22aa093416a15607d6eeb06b4",
+   "explanation": "Nabi ﷺ mengabarkan bahwa iman terdiri dari banyak cabang yang mencakup amalan, keyakinan, dan ucapan.\r\n\r\nBeliau memaparkan bahwa cabang iman yang paling tinggi dan paling utama ialah ucapan \"lā ilāha illallāh\" disertai dengan mengetahui maknanya dan mengamalkan kandungannya. Maknanya: Allah satu-satunya sembahan yang Maha Esa lagi Mahatunggal dan yang berhak diibadahi, tidak ada sembahan yang lain.\r\n\r\nJuga menjelaskan bahwa amalan iman yang paling rendah ialah menyingkirkan semua hal yang mengganggu orang dari jalan mereka.\r\n\r\nKemudian beliau ﷺ menyampaikan bahwa malu bagian dari cabang iman, yaitu suatu akhlak yang mendorong untuk melakukan yang baik dan meninggalkan yang buruk.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Iman itu bertingkat-tingkat, sebagiannya lebih afdal dari yang lain.\r",
+    "2- Iman terdiri dari perkataan, perbuatan dan keyakinan.\r",
+    "3- Malu kepada Allah Ta'ala menuntut agar Allah tidak melihat Anda di tempat yang Dia larang serta tidak kehilangan Anda pada tempat yang Dia perintahkan.\r",
+    "4- Penyebutan bilangan cabang iman tidak menunjukkan pembatasan pada bilangan itu, tetapi menunjukkan banyaknya cabang iman, karena bangsa Arab kadang menyebutkan bilangan pada sesuatu tetapi tidak bermaksud sebagai pembatasan bilangan itu."
+   ],
+   "mapping": "same HadeethEnc record id 6468; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:45:58+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/6468",
+   "text": "Abu Hurairah -raḍiyallāhu 'anhu- meriwayatkan, Rasulullah ﷺ bersabda, \"Iman memiliki lebih dari tujuh puluhan -atau enam puluhan- cabang. Cabang yang paling utama ialah ucapan lā ilāha illallāh, sedangkan yang paling rendah ialah menyingkirkan gangguan dari jalan, dan malu juga salah satu cabang iman.\"",
+   "title": "Iman memiliki lebih dari tujuh puluhan -atau enam puluhan- cabang. Cabang yang paling utama ialah ucapan lā ilāha illallāh, sedangkan yang paling rendah ialah menyingkirkan gangguan dari jalan",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=6468",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:1dfd211abb208febb9d3962306361c1d04c7632a6a043b565df02dda95440f88",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم بتا رہے ہیں کہ  اعمال، اعتقادات اور اقوال پر مشتمل ایمان کی بہت سی شاخیں ہيں۔\r\n\r\nایمان کی سب سے اعلی و افضل شاخ \"لا الہ الا اللہ\" کہنا ہے، اس کے معنی کو جانتے ہوئے اور اس کے تقاضوں پر عمل کرتے ہوئے۔ یعنی بس اللہ ہی ایک اکیلا معبود ہے، جو عبادت کے لائق ہے اور اس کے سوا کوئی عبادت کے لائق نہیں ہے۔\r\n\r\nجب کہ ایمان کا سب سے کم تر عمل راستے سے ہر اس چیز کو ہٹانا ہے، جو لوگوں کی اذیت کا سبب بنے۔\r\n\r\nبعد ازاں اللہ کے نبی صلی اللہ علیہ و سلم نے بتایا کہ حیا بھی ایمان کی ایک شاخ ہے۔ دراصل حیا انسان کا ایک ایسا رویہ ہے، جو اسے اچھا کام کرنے اور برے کام سے دور رہنے پر آمادہ کرتا ہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "ایمان کے کئی مراتب ہیں، جن میں سے کچھ مراتب دوسرے مراتب کے مقابلے میں افضل ہيں۔\r",
+    "ایمان قول، عمل اور اعتقاد کا نام ہے۔\r",
+    "اللہ سے حیا کا تقاضا یہ ہے کہ انسان وہاں نظر نہ آئے، جہاں جانے سے اللہ نے منع کیا ہے اور اس جگہ سے غیر حاضر نہ ہو، جہاں جانے کا حکم اللہ نے دیا ہے۔\r",
+    "یہاں عدد کا ذکر مذکورہ تعداد کی تحدید کے لیے نہيں ہے، بلکہ ایمان کے اعمال کی کثرت کی کی دلیل ہے۔ کیوں کہ عرب کے لوگ کبھی کبھی کوئی عدد بیان کرتے ہيں اور ماسوا کی نفی مراد نہیں لیتے۔"
+   ],
+   "mapping": "same HadeethEnc record id 6468; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:45:58+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/6468",
+   "text": "ابو ہریرہ رضی اللہ عنہ سے روایت ہے، وہ کہتے ہیں کہ اللہ کے رسول ﷺ نے فرمایا: ”ایمان کی تہتّر سے زیادہ -یا ترسٹھ سے زیادہ- شاخیں ہیں، جن میں سے سب سے افضل شاخ لا الہ الا اللہ کہنا ہے اور سب سے کم مرتبہ والی شاخ راستے سے کسی تکلیف دہ چیز کو ہٹانا ہے اور حیا بھی ایمان کی ایک شاخ ہے“۔",
+   "title": "”ایمان کی تہتّر سے زیادہ -یا ترسٹھ سے زیادہ- شاخیں ہیں، جن میں سے سب سے افضل شاخ لا الہ الا اللہ کہنا ہے اور سب سے کم مرتبہ والی شاخ راستے سے کسی تکلیف دہ چیز کو ہٹانا ہے",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=6468",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:d6e8c7927f89c80f27e84017af3932446037a84232d437406cd57c2ba67f0752",
+   "explanation": "先知（愿主福安之）叙述道，信仰有很多的分支和特征，包括言语、行为和信条。\r\n\r\n信仰最高最优越的特性便是说“除安拉外，别无应受崇拜的主”，并且要知其要义，遵其要求，即：知道安拉是唯一的应受崇拜的主宰，其他一切皆非主宰。\r\n\r\n信仰之最低的工作是从道路中清除伤害人们的路障。\r\n\r\n然后先知（愿主福安之）叙述道，害羞是属于信仰的一个特性，害羞会使人做美好之事而放弃丑陋之事。",
+   "grade": "正确的",
+   "hints": [
+    "信仰有等级之分，一部分优越于另一部分。\r",
+    "信仰是言语、行为和信条。\r",
+    "安拉所要求的害羞是：当禁止你做某事时，不要让安拉看见你。当命令你某事时，不要让安拉失去你。\r",
+    "提到了数字并不意味着仅局限于此，而是证明了分支繁多。阿拉伯语中当为某物提到数字时，并不意味着否定除此以外的。"
+   ],
+   "mapping": "same HadeethEnc record id 6468; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:45:58+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/6468",
+   "text": "据艾布·胡莱勒（愿主喜悦之）传述：安拉的使者（愿主福安之）说： “信仰有七十多个或六十多个分支，其最优越的是说：除安拉外，别无应受崇拜的主；其最底层是清除路障；害羞属于信仰。”",
+   "title": "“信仰有七十多个或六十多个分支，其最优越的是说：除安拉外，别无应受崇拜的主；其最底层是清除路障",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [
+  {
+   "meaning": " من ثلاثة إلى تسعة.",
+   "word": "بِضْع"
+  },
+  {
+   "meaning": " خصلة.",
+   "word": "شعبة"
+  }
+ ],
+ "words_meanings_language": "ar"
+}

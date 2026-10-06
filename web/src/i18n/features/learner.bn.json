@@ -1,0 +1,7 @@
+{
+  "prevCard": "আগের কার্ড",
+  "nextCard": "পরের কার্ড",
+  "cardOf": "কার্ড {{n}} / {{total}}",
+  "cards": "পাঠের কার্ড",
+  "fromSource": "উৎস থেকে"
+}

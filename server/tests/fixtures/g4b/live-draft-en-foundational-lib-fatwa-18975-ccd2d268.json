@@ -1,0 +1,145 @@
+{
+  "id": "gen-ccd2d268-e8a8-46ef-a721-06506ea70688",
+  "schema_version": "balligh.lesson/1",
+  "is_test_data": false,
+  "title": "The Meaning of the Two Testimonies",
+  "source_ids": [
+    "lib-fatwa-18975"
+  ],
+  "spans": [
+    {
+      "id": "s4",
+      "source_id": "lib-fatwa-18975",
+      "source_version": "g4b-adapter-1:e3ac7d234783a58714dc2cc452f55fdbd54ffc4d38a2b5a6d93a70074b4926ef",
+      "source_sha256": "037a99df7e9cb2761cd1e1ce32c89447496f4053ac23a0e01680dd40cca94148",
+      "start_offset": 112,
+      "end_offset": 588,
+      "segment_ids": [],
+      "exact_text": "معنى الشهادة: أن يشهد بلسانه وبقلبه أنه لا معبود حق إلا الله، يشهد بلسانه ويؤمن بقلبه أنه لا إله إلا الله، يعني: لا معبود حق إلا الله، وأن ما عبده الناس من دون الله من أصنام، أو أموات، أو أشجار، أو أحجار، أو ملائكة أو غيرهم كله باطل كما قال تعالى: ذَلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِنْ دُونِهِ هُوَ الْبَاطِلُ [الحج:62]، هذا معنى شهادة أن لا إله إلا الله، أن تشهد عن علم، ويقين، وصدق أنه لا معبود حق إلا الله، وأن ما عبده الناس من دون الله فكله باطل.",
+      "text_sha256": "cb951eec339f20e9d90ff25cc61b37fe54c177451c1b076b50d248367f58a41e"
+    },
+    {
+      "id": "s5",
+      "source_id": "lib-fatwa-18975",
+      "source_version": "g4b-adapter-1:e3ac7d234783a58714dc2cc452f55fdbd54ffc4d38a2b5a6d93a70074b4926ef",
+      "source_sha256": "037a99df7e9cb2761cd1e1ce32c89447496f4053ac23a0e01680dd40cca94148",
+      "start_offset": 590,
+      "end_offset": 785,
+      "segment_ids": [],
+      "exact_text": "ومعنى شهادة (أن محمدًا رسول الله) أن تشهد عن علم ويقين، وصدق أن محمد بن عبد الله بن عبد المطلب هو رسول الله حقًا إلى جميع الثقلين جنهم وإنسهم، وأنه خاتم الأنبياء ليس بعده نبي عليه الصلاة والسلام.",
+      "text_sha256": "88d27c1a43c9104781c741f4306d2528d35efa43cc0497464f5aa1e30183798b"
+    }
+  ],
+  "input_hash": "037a99df7e9cb2761cd1e1ce32c89447496f4053ac23a0e01680dd40cca94148",
+  "target_locale": "en",
+  "level": "foundational",
+  "glossary_version": "g2-glossary-1",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "quote",
+      "source_span_ids": [
+        "s4"
+      ],
+      "text": "The testimony 'there is no god but Allah' means: you testify with your tongue and believe in your heart that no one deserves worship except Allah. Everything people worship besides Allah—idols, dead people, trees, stones, angels, or others—is false.",
+      "quote_id": "s4",
+      "derivation": "machine_translation",
+      "editor_note": ""
+    },
+    {
+      "id": "c2",
+      "kind": "quote",
+      "source_span_ids": [
+        "s5"
+      ],
+      "text": "The testimony 'Muhammad is the Messenger of Allah' means: you testify with knowledge, certainty, and truthfulness that Muhammad son of Abdullah son of Abdul-Muttalib is truly the Messenger of Allah to all jinn and humans, and he is the last prophet; no prophet comes after him.",
+      "quote_id": "s5",
+      "derivation": "machine_translation",
+      "editor_note": ""
+    },
+    {
+      "id": "c3",
+      "kind": "explanation",
+      "source_span_ids": [
+        "s4",
+        "s5"
+      ],
+      "text": "The first testimony is a testimony with the tongue and belief in the heart. The second testimony is given with knowledge, certainty, and truthfulness. Together they reject worship of anything besides Allah and confirm that Muhammad is Allah's final Messenger to all jinn and humans.",
+      "quote_id": "s4",
+      "derivation": "machine_explanation",
+      "editor_note": ""
+    }
+  ],
+  "terms": [
+    {
+      "term_id": "t1",
+      "source_form": "شهادة أن لا إله إلا الله",
+      "display_form": "testimony that there is no god except Allah (shahāda an lā ilāha illā Allāh)",
+      "meaning": "Testifying with the tongue and believing in the heart that no one deserves worship except Allah.",
+      "source_ids": [
+        "lib-fatwa-18975"
+      ]
+    }
+  ],
+  "activity": {
+    "question": "According to the answer, what does the testimony 'Muhammad is the Messenger of Allah' say about Muhammad?",
+    "options": [
+      {
+        "id": "a",
+        "text": "He is a prophet only for humans."
+      },
+      {
+        "id": "b",
+        "text": "He is the Messenger to all jinn and humans and the last prophet."
+      },
+      {
+        "id": "c",
+        "text": "He is the first prophet."
+      },
+      {
+        "id": "d",
+        "text": "He is not a prophet."
+      }
+    ],
+    "correct_option_id": "b",
+    "rationale": "The source says Muhammad is truly the Messenger of Allah to all jinn and humans and that he is the seal of the prophets; no prophet comes after him.",
+    "source_span_ids": [
+      "s5"
+    ]
+  },
+  "generation": {
+    "origin": "live",
+    "provider": "deepseek",
+    "requested_model": "deepseek-v4-pro",
+    "returned_model": "deepseek-v4-pro",
+    "prompt_version": "g2-lesson-1",
+    "request_id": "ccd2d268-e8a8-46ef-a721-06506ea70688",
+    "generated_at": "2026-10-06T09:37:07.779063Z",
+    "source_sha256": "037a99df7e9cb2761cd1e1ce32c89447496f4053ac23a0e01680dd40cca94148",
+    "glossary_sha256": "0fbc3bdd7280857e1f53a9354a016772a6b65a7925059e4361d2446f0d69b613",
+    "settings": {
+      "thinking": "enabled",
+      "reasoning_effort": "high",
+      "response_format": "json_object",
+      "max_tokens": 16384
+    },
+    "usage": {
+      "prompt_tokens": 2042,
+      "completion_tokens": 5180,
+      "total_tokens": 7222,
+      "prompt_cache_hit_tokens": 384,
+      "prompt_cache_miss_tokens": 1658,
+      "reasoning_tokens": 4595
+    },
+    "latency_ms": 58567,
+    "note": "AI draft generated from the registered source. Not reviewed by a person.",
+    "human_edited": false,
+    "last_human_edit_at": null
+  },
+  "validation_findings": [
+    "Proposed term «شهادة (أن محمدًا رسول الله)» was removed: it does not appear in the source or the glossary."
+  ],
+  "presentation": {
+    "font_scale": 1.0
+  }
+}

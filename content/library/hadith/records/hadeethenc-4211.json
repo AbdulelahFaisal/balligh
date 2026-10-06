@@ -1,0 +1,170 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:28e31c0d735a9a0339deb3d5dcf5acc9fd49332027d3d2a957cbb628b9cb0b00",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يُخْبِرُ النبيُّ صلى الله عليه وسلم أنَّ اللهَ أمرَه بمقاتلة المشركين حتى يشهدوا بأن لا معبود بحق إلا الله وحده لا شريك له، ويشهدوا لمحمد صلى الله عليه وسلم بالرسالة، والعمل بمقتضى هذه الشهادة من المحافظة على الصلوات الخمس في اليوم والليلة، ويعطوا الزكاة المفروضة لمستحقيها. \nفإذا فعلوا هذه الأمورَ فإنَّ الإسلام يَعْصِمُ دماءَهم وأموالَهم، فلا يَحِلُّ قتلُهم إلا إذا ارتكبوا جريمة أو جناية يستحقون عليها القتل بموجب أحكام الإسلام، ثم يوم القيامة يتولى الله تعالى حسابَهم حيث يعلم سرائرَهم.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "الأحكام إنما تَجْرِي على الظواهر، والله يتولَّى السرائر.",
+  "أهمية الدعوة إلى التوحيد وأنه أول ما يُبدأ به في الدعوة.",
+  "لا يعني هذا الحديث إكراه المشركين على الدخول في الإسلام، بل هم مُخَيَّرون بين الدخول في الإسلام أو دفع الجزية؛ فإنْ أبوا إلا مَنع الدعوة إلى الإسلام، فليس إلا المقاتلة بموجب أحكام الإسلام."
+ ],
+ "id": "hadeethenc-4211",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (1/ 14) (25).\nصحيح مسلم (1/ 53) (22).\nالتحفة الربانية في شرح الأربعين حديثًا النووية، لإسماعيل السعدي (ص23).\nشرح الأربعين النووية، لابن عثيمين (ص125).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=4211",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:30+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/4211"
+ },
+ "source_categories": [
+  {
+   "id": "88",
+   "label": "الإسلام"
+  }
+ ],
+ "source_record_id": "4211",
+ "text": "عَنِ ابْنِ عُمَرَ رضي الله عنهما أَنَّ رَسُولَ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «أُمِرْتُ أَنْ أُقَاتِلَ النَّاسَ حَتَّى يَشْهَدُوا أَنْ لاَ إِلَهَ إِلَّا اللَّهُ، وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ، وَيُقِيمُوا الصَّلاَةَ، وَيُؤْتُوا الزَّكَاةَ، فَإِذَا فَعَلُوا ذَلِكَ عَصَمُوا مِنِّي دِمَاءَهُمْ وَأَمْوَالَهُمْ إِلَّا بِحَقِّ الإِسْلاَمِ، وَحِسَابُهُمْ عَلَى اللَّهِ».",
+ "title": "أمرت أن أقاتل الناس حتى يشهدوا أن لا إله إلا الله، وأن محمدا رسول الله، ويقيموا الصلاة، ويؤتوا الزكاة",
+ "topic": "understanding_islam",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=4211",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:a9d6acaee0be5c1811479258a7d3f547a8f4f3451d991f1934ff1afd726e3483",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এ হাদীসে সংবাদ দিয়েছেন যে, আল্লাহ তাঁকে মুশরিকদের বিরুদ্ধে ততক্ষণ জিহাদ করতে নির্দেশ দিয়েছেন যতক্ষণ না তারা সাক্ষ্য দিবে যে, একমাত্র আল্লাহ ছাড়া সত্য কোনো মাবূদ নেই, তাঁর কোন শরীক নেই এবং তারা মুহাম্মাদ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের রিসালাতের সাক্ষ্য দিবে। আর এ সাক্ষ্যদানের দাবি হলো দিনে-রাতে পাঁচ ওয়াক্ত সালাত আদায়ে যত্নবান হবে, তারা যাকাতের হকদারকে তাদের প্রাপ্য ফরয যাকাত প্রদান করবে। তারা যখন এ কাজগুলো সম্পাদন করবে, তখন ইসলাম তাদের রক্ত (জান) ও মালের ব্যাপারে নিরাপত্তা প্রদান করবে। ফলে তাদেরকে হত্যা করা বৈধ হবে না; তবে তারা যদি কোন অপরাধে জড়িয়ে পড়ে অথবা এমন কোন জঘন্য শাস্তিযোগ্য কাজে লিপ্ত হয়, ইসলামী বিধানে যার শাস্তি হলো হত্যা, তখন সেটি ভিন্ন কথা।(১) অতপর কিয়ামতের দিন  আল্লাহ তাদের হিসাব গ্রহণ করবেন, যেহেতু তিনি তাদের গোপনীয় সকল কিছু অবগত।",
+   "grade": "সহীহ",
+   "hints": [
+    "দুনিয়াবি বিধি-বিধান প্রয়োগ হয় বাহ্যিক অবস্থার উপর বিবেচনা করে। আর আল্লাহ অপ্রকাশ্য ও পোগনীয় বিষয়ের দায়িত্ব নেন।\r",
+    "হাদীসে তাওহীদের দিকে দাওয়াতের গুরুত্ব বর্ণিত হয়েছে এবং দাওয়াতের ক্ষেত্রে সর্বপ্রথম  তাওহীদের দাওয়াত দিয়ে শুরু করতে হবে।\r",
+    "এ হাদীসের অর্থ এ নয় যে, মুশরিকদেরকে জোরপূর্বক ইসলাম গ্রহণে বাধ্য করা হবে; বরং তারা ইসলাম গ্রহণ অথবা জিযিয়া কর প্রদানের ক্ষেত্রে ইচ্ছাধীন। যদি তারা ইসলামের এ দাওয়াত (ইসলাম গ্রহণ অথবা জিযিয়া কর প্রদান) অস্বীকার করে, তবেই ইসলামের বিধান মোতাবেক তাদের বিরুদ্ধে যুদ্ধ করা হবে।"
+   ],
+   "mapping": "same HadeethEnc record id 4211; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:10+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/4211",
+   "text": "ইবনু ‘উমর রাদিয়াল্লাহু ‘আনহুমা হতে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন: “আমাকে লোকেদের বিরুদ্ধে জিহাদ করার আদেশ দেওয়া হয়েছে; যতক্ষণ না তারা সাক্ষ্য দিবে যে, আল্লাহ ছাড়া (সত্য) কোনো মাবূদ নেই এবং মুহাম্মাদ আল্লাহর রাসূল। আর তাঁরা সালাত প্রতিষ্ঠা করবে ও যাকাত প্রদান করবে। যখন তারা এ কাজগুলো সম্পাদন করবে, তখন আমার পক্ষ থেকে তাদের রক্ত (জান) ও মালের ব্যাপারে নিরাপত্তা লাভ করবে; কিন্তু ইসলামের হক ব্যতীত। আর তাদের হিসাব আল্লাহর ওপর ন্যস্ত হবে।”",
+   "title": "“আমাকে লোকেদের বিরুদ্ধে জিহাদ করার আদেশ দেওয়া হয়েছে; যতক্ষণ না তারা সাক্ষ্য দিবে যে, আল্লাহ ছাড়া (সত্য) কোনো মাবূদ নেই এবং মুহাম্মাদ আল্লাহর রাসূল। আর তাঁরা সালাত প্রতিষ্ঠা করবে ও যাকাত প্রদান করবে।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=4211",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:e55489ddc85c889a010925255ffd902004b065cd9a5cb982c2e22f3dca9a9557",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) informs that Allah commanded him to fight the polytheists until they testify that no deity is truly worthy of worship except Allah alone without any partner and that Muhammad (may Allah's peace and blessings be upon him) is His Messenger and act upon this testimony by observing the five prayers every day and night and paying the obligatory Zakah to those who are entitled to receive it. If they do these things, Islam protects their lives and properties, and it, thus, becomes unlawful to kill them unless they commit a crime or felony that makes them worthy of being killed in compliance with the rulings of Islam. Then, on the Day of Judgment, Allah Almighty will be in charge of their reckoning as He knows their innermost thoughts.",
+   "grade": "Authentic",
+   "hints": [
+    "External aspects are what count in rulings, whereas the intentions are judged by Allah.\r",
+    "The importance of calling to Tawhīd (monotheism) and the fact that it is the first thing to start with in Da‘wah (calling to Allah).\r",
+    "This Hadīth does not imply forcing the polytheists to embrace Islam; rather, they have the choice either to enter Islam or pay Jizyah (protection tax). However, if they insist on preventing the call to Islam, then, the only option is to fight them in compliance with the rulings of Islam."
+   ],
+   "mapping": "same HadeethEnc record id 4211; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:09+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/4211",
+   "text": "Ibn ‘Umar (may Allah be pleased with him and his father) reported that the Messenger of Allah (may Allah's peace and blessings be upon him) said: \"I have been commanded to fight people until they testify that there is no god but Allah and that Muhammad is the Messenger of Allah, establish prayer, and pay Zakah; if they do so, they protect their blood and properties from me, except through the right of Islam; and their reckoning is with Allah.\"",
+   "title": "I have been commanded to fight people until they testify that there is no god but Allah and that Muhammad is the Messenger of Allah, establish prayer, and pay Zakah",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=4211",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:1cc19259027410ba763b032f6a94723d66762ac4c736aef374f55872aead508d",
+   "explanation": "Le Prophète ﷺ informe qu'Allah lui a ordonné de combattre les polythéistes jusqu'à ce qu'ils attestent qu'il n'y a aucune divinité adorée, en toute vérité, excepté Allah, Seul et sans associé ; qu'ils attestent du Message de Muhammad ﷺ ; qu'ils œuvrent selon l'implication de cette attestation en étant assidu aux cinq prières obligatoires, de jour comme de nuit ; et qu'ils s'acquittent de l'aumône obligatoire en faveur de quiconque la mérite. S'ils accomplissent ces affaires, alors l'Islam garantit leur sang et leurs biens et il n'est pas licite de les tuer excepté s'ils commettent un crime ou un forfait pour lequel ils méritent d'être condamnés à mort au regard des décrets de l'Islam. Ensuite, au Jour de la Résurrection, Allah ﷺ se chargera de leur jugement étant donné qu'Il connaît leur for intérieur et leurs secrets.",
+   "grade": "Authentique",
+   "hints": [
+    "Les décrets et jugements s'appliquent en fonction des apparences et Allah est en charge des fors intérieurs et secrets.\r",
+    "L'importance d'appeler au monothéisme et le fait que c'est la première chose par laquelle on commence la prédication.\r",
+    "Ce hadith ne signifie pas qu'il faille contraindre les polythéistes à embrasser l'Islam. Plutôt, ils ont le choix entre embrasser l'Islam ou s'acquitter de l'impôt de capitation. Et s'ils refusent et empêchent l'appel à l'Islam, alors à ce moment-là il ne reste que le combat selon les dispositions des décrets de l'Islam."
+   ],
+   "mapping": "same HadeethEnc record id 4211; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:10+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/4211",
+   "text": "D'après Ibn 'Umar (qu'Allah les agrée tous les deux), le Messager d'Allah ﷺ a dit : \" Il m'a été ordonné de combattre les gens jusqu’à ce qu’ils témoignent qu’il n’y a aucune divinité [digne d’adoration] excepté Allah et que Muhammad est le Messager d’Allah, qu’ils accomplissent la prière et qu’ils s’acquittent de l’aumône légale  . S’ils font cela, leurs sangs et leurs biens seront préservés de moi, à l’exception de ce que l’islam exige. Et leur (compte) jugement appartient à Allah. \"",
+   "title": "Il m'a été ordonné de combattre les gens jusqu’à ce qu’ils témoignent qu’il n’y a aucune divinité [digne d’adoration] excepté Allah et que Muhammad est le Messager d’Allah, qu’ils accomplissent la prière et qu’ils s’acquittent de l’aumône légale",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=4211",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:9bf0ec943e13f4e5b772e289feab06e527a2307531107aef1210fbc3eb763b16",
+   "explanation": "Nabi ﷺ mengabarkan bahwa Allah memerintah beliau untuk memerangi orang-orang musyrik sampai mereka bersaksi tidak ada sembahan yang benar kecuali Allah semata, tidak ada sekutu bagi-Nya, dan bersaksi Muhammad ﷺ sebagai pembawa risalah, serta mengamalkan konsekuensi dari kesaksian itu berupa menjaga salat lima waktu dalam sehari semalam dan membayar zakat yang diwajibkan kepada yang berhak. Apabila mereka melaksanakan perkara-perkara ini, maka Islam melindungi darah dan harta mereka, sehingga mereka tidak boleh dibunuh kecuali karena melakukan kejahatan atau pidana yang konsekuensinya hukuman mati berdasarkan hukum Islam, kemudian kelak di hari kiamat Allah Ta'ala yang akan menangani perhitungan amal mereka, di mana Allah mengetahui rahasia mereka.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Hukum berlaku sesuai dengan apa yang tampak (zahir), sementara Allah yang akan mengurus perkara batin.\r",
+    "2- Urgensi berdakwah kepada tauhid; bahwa tauhid adalah hal pertama yang disampaikan ketika memulai dakwah.\r",
+    "3- Hadis ini tidak berarti orang-orang musyrik dipaksa masuk Islam, melainkan mereka diberi pilihan antara masuk ke dalam Islam atau membayar jizyah (upeti). Jika mereka enggan dan menghalangi dakwah Islam, maka tidak ada pilihan kecuali perang sebagaimana aturan hukum Islam."
+   ],
+   "mapping": "same HadeethEnc record id 4211; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:10+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/4211",
+   "text": "Ibnu Umar -raḍiyallāhu 'anhumā- meriwayatkan bahwa Rasulullah ﷺ bersabda, \"Aku diperintahkan untuk memerangi manusia sampai mereka bersaksi bahwa tidak ada tuhan yang berhak disembah selain Allah dan Muhammad adalah utusan Allah, mendirikan salat, dan menunaikan zakat. Apabila semua itu telah dilakukan, darah dan harta mereka terlindungi, kecuali dengan hak Islam. Sedangkan perhitungan amalan mereka terserah kepada Allah.\"",
+   "title": "Aku diperintahkan untuk memerangi manusia sampai mereka bersaksi bahwa tidak ada tuhan yang berhak disembah selain Allah dan Muhammad adalah utusan Allah, mendirikan salat, dan menunaikan zakat",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=4211",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:f8fbc958618ce2e2ff356a6e3f098ec6712ed37983a52ef722da81df58e6b282",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم بتا رہے ہیں کہ اللہ نے آپ کو مشرکوں کے ساتھ جنگ کرنے کا حکم دیا ہے، جب تک وہ اس بات کی گواہی نہ دے دیں کہ اللہ کے سوا کوئی برحق معبود نہیں ہے اور محمد صلی اللہ علیہ و سلم اللہ کے رسول ہیں اور گواہی کے تقاضوں پر عمل کرتے ہوئے دن اور رات میں فرض پانچ وقت کی نمازیں ادا نہ کرنے لگيں اور حق داروں کو فرض زکاۃ نہ دینے لگیں۔ جب وہ اتنا کر لیں گے، تو اللہ ان کی جان اور ان کے مال کو تحفظ فراہم کر دے گا اور ان کا قتل حلال نہیں رہ جائے گا۔ ہاں، اگر وہ ایسا جرم کر بیٹھیں کہ اس کی بنا پر اسلامی احکام کی رو سے قتل کے حق دار ٹھہر جائيں تو الگ بات ہے۔ پھر اللہ قیامت کے دن ان کا حساب لے گا، جو ان کے دلوں کی بات جانتا ہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "احکام ظاہر کی بنیاد پر صادر ہوتے ہیں اور باطن کا حساب اللہ لے گا۔\r",
+    "توحید کی دعوت کی اہمیت۔ دعوت کا آغاز اسی سے کیا جائے گا۔\r",
+    "اس حدیث کا مطلب یہ نہیں ہے کہ مشرکوں کو اسلام قبول کرنے پر مجبور کیا جائے۔ دراصل ان کے سامنے دو راستے ہوا کرتے ہیں۔ یا تو اسلام قبول کر لیں یا پھر جزیہ ادا کریں۔ اگر دونوں منظور نہ ہوں، تو احکام اسلام کی رو سے جنگ کی راہ ہی بچ جاتی ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 4211; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:09+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/4211",
+   "text": "عبداللہ بن عمر رضی اللہ عنہما سے روایت ہے کہ اللہ کے رسول صلی اللہ علیہ و سلم نے فرمایا : \"مجھے حکم دیا گیا ہے کہ میں لوگوں سے قتال کروں تا آں کہ لوگ اس بات کی گواہی دینے لگیں کہ اللہ کے سوا کوئی معبود برحق نہیں اور محمد صلی اللہ علیہ و سلم اللہ کے رسول ہیں، نماز قائم کریں اور زکوۃ ادا کریں۔ جو لوگ یہ کرلیں گے وہ مجھ سے اپنی جان اور اپنا مال محفوظ کر لیں گے سوائے اس حق کے جو اسلام کی وجہ سے واجب ہوگا، باقی رہا ان کا حساب تو وہ اللہ کے ذمہ ہے“۔",
+   "title": "مجھے حکم دیا گیا ہے کہ میں لوگوں سے قتال کروں تا آں کہ لوگ اس بات کی گواہی دینے لگیں کہ اللہ کے سوا کوئی معبود برحق نہیں اور محمد صلی اللہ علیہ و سلم اللہ کے رسول ہیں، نماز قائم کریں اور زکوۃ ادا کریں۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=4211",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:126876931fa901f1fb2fc5293ba6ef9a544ca7c2959ade492fd3a87143605922",
+   "explanation": "先知（愿主福安之）叙述道，安拉命令他同多神教徒作战，直至他们见证：没有真应受拜的主，唯有独一无二的安拉，见证穆罕默德（愿主福安之）使命。并履行这一证词所要求的事项，比如：坚守一天五时的拜功、将主命天课交付给应受的人。 如果他们遵行这些事情，那么伊斯兰将保护他们的生命和财产不受侵犯，不应该处死他们，除非他们触犯应受死罪的伊斯兰刑罚。然后在复生日，安拉将彻底清算他们，因为他知道他们所隐藏的。",
+   "grade": "正确的",
+   "hints": [
+    "教律只以表面而裁决，安拉知道隐藏的事情。\r",
+    "号召人认主独一的重要性，号召人皈依安拉的首要任务便是教人认主独一。\r",
+    "这段圣训并不意味着强迫多神教徒皈依伊斯兰，他们可以选择皈依伊斯兰，或选择交纳人头税。如果拒绝一切，只想阻止宣传伊斯兰，那么依伊斯兰律法只有与他们作战。"
+   ],
+   "mapping": "same HadeethEnc record id 4211; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:10+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/4211",
+   "text": "伊本·欧玛尔（愿主喜悦他俩）传述，安拉的使者（愿主福安之）说： “我奉命与人们作战，直至他们见证：万物非主，唯有安拉，穆罕默德是安拉的使者、立行拜功、交纳天课。当他们如此照做时，他们的生命和财产确已得到保护，除非侵犯伊斯兰的律法，他们的最终清算归于安拉。”",
+   "title": "“我奉命与人们作战，直至他们见证：万物非主，唯有安拉，穆罕默德是安拉的使者、立行拜功、交纳天课",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

@@ -1,0 +1,35 @@
+{
+  "version": "g2-glossary-1",
+  "rules": [
+    "Give each important Arabic term one rendering in the lesson language and use it consistently.",
+    "When a term has no exact equivalent, add a short transliteration in parentheses after the rendering.",
+    "Do not replace a term with a looser word that changes its meaning; explain it instead.",
+    "Copy source_form exactly from the source text, character for character."
+  ],
+  "entries": [
+    {
+      "source_form": "الإحالة",
+      "renderings": {
+        "en": "citation"
+      }
+    },
+    {
+      "source_form": "النقل الحرفي",
+      "renderings": {
+        "en": "verbatim quotation"
+      }
+    },
+    {
+      "source_form": "الترجمة",
+      "renderings": {
+        "en": "translation"
+      }
+    },
+    {
+      "source_form": "المراجعة",
+      "renderings": {
+        "en": "review"
+      }
+    }
+  ]
+}

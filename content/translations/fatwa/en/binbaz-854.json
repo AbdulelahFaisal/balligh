@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-854",
+ "source_content_sha256": "sha256:0a8800750c460d83024d40a1bdd4c4a360ddbdce8039f1dcbbd5c7666b1c0efc",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:25:01.933310+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 645,
+  "completion_tokens": 441,
+  "total_tokens": 1086,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 645
+ },
+ "latency_ms": 4638,
+ "units": [
+  {
+   "id": "title",
+   "text": "Changing the Name after Embracing Islam"
+  },
+  {
+   "id": "q0",
+   "text": "Q: From ‘Abd al-‘Aziz ibn ‘Abdullah ibn Baz to the respected brother H. M. L., may Allah grant him success. Peace be upon you, and the mercy of Allah and His blessings. To proceed:\nIn response to your noble letter dated 13/9/1409 AH, containing your question about the ruling on changing the name of one who has recently embraced Islam from his old name to an Islamic name, and whether that is obligatory or not?"
+  },
+  {
+   "id": "a0",
+   "text": "A: I inform you that there is no evidence in the Shariah sources that requires the one whom Allah has guided to Islam to change his name, unless there is something that necessitates that according to the Shariah, such as the name being one of servitude to other than Allah, like ‘Abd al-Masih (servant of the Messiah) and the like, or it being a name that is not commendable to be named with while another is better, like Hazn (meaning rough) being changed to Sahl (easy), and similar names that are not commendable. However, changing a name that denotes servitude to other than Allah is obligatory, while other than that is a matter of preference and desirability. In the second category are the names that Christians are known for and that would make one think upon hearing them that their bearer is a Christian; changing such names is very appropriate.\nMay Allah grant success to all to what He loves and is pleased with, and grant us and you understanding of the religion and steadfastness upon it. Peace be upon you, and the mercy of Allah and His blessings⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "(Majmu‘ Fatawa wa Maqalat al-Shaykh Ibn Baz: 4/153)"
+  }
+ ]
+}

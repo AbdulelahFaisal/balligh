@@ -1,0 +1,12 @@
+{
+  "home": {
+    "quranDesc": "阅读阿拉伯语原文并聆听诵读，附意义译解。",
+    "questionsDesc": "谢赫阿卜杜勒-阿齐兹·本·巴兹对人们问题的解答。",
+    "hadithDesc": "圣训及其等级和已发表的解释。",
+    "open": "打开",
+    "arabicOnly": "仅阿拉伯语"
+  },
+  "list": {
+    "resetSearch": "清除搜索并显示全部"
+  }
+}

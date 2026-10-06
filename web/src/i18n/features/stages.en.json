@@ -1,0 +1,65 @@
+{
+  "title": "Introductory reading path",
+  "intro": "Five short stages of real sources. Every stage stays open; read in any order.",
+  "exploring": "Just exploring? Read the first text",
+  "nav": "Reading stages",
+  "stage": "Stage {{n}}",
+  "names": {
+    "introduction_belief": "Introduction and belief",
+    "testimony_pillars": "The testimony and the five pillars",
+    "purification_prayer": "Purification and prayer",
+    "fasting_zakah_hajj": "Fasting, zakah and an introduction to Hajj",
+    "everyday_conduct": "Everyday conduct"
+  },
+  "endNav": "End and human support",
+  "collections": {
+    "quran": "Quran",
+    "fatwa": "Fatwa",
+    "hadith": "Hadith"
+  },
+  "arabicOnly": "Arabic only",
+  "languages": "Languages: {{languages}}",
+  "recap": "Recap of stage {{n}}: the same text again",
+  "open": "Open the reading",
+  "markRead": "I have finished reading this",
+  "markedRead": "Marked as read (select to undo)",
+  "stageProgress": "{{done}} of {{total}} marked as read",
+  "progress": "{{done}} of {{total}} readings marked as read",
+  "nextReading": "Next reading",
+  "nextStage": "Next: stage {{n}}",
+  "toEnd": "Finish the path",
+  "allRead": "Every reading is marked as read.",
+  "loading": "Loading the reading path…",
+  "error": "The reading path could not be loaded.",
+  "retry": "Try again",
+  "end": {
+    "title": "End of the introductory path",
+    "complete": "You have completed the introductory reading. This records that you read these texts; it is not a test and not a measure of mastery.",
+    "partial": "You have marked {{done}} of {{total}} readings as read. The stages stay open whenever you want to return.",
+    "notCoveredTitle": "What this path does not cover",
+    "notCovered": {
+      "prayer_demonstration": "A complete demonstration of how to pray",
+      "fasting_rules": "The full rules of fasting",
+      "zakah_calculation": "How to calculate zakah",
+      "hajj_practice": "Practical instruction for performing Hajj"
+    }
+  },
+  "support": {
+    "title": "Talk with a person",
+    "body": "For questions a reading list cannot answer, eDialogue, operated by جمعية ركن الحوار, offers conversation with people.",
+    "link": "Open eDialogue (external site)",
+    "faq": "eDialogue's FAQ describes its chat as free and private:",
+    "note": "Opening the link is your own choice. Balligh sends nothing to the site and keeps nothing about it."
+  },
+  "storage": {
+    "malformed": "Your saved reading marks could not be read. They were left unchanged and are not used.",
+    "unavailable": "This browser is not saving your reading marks; they are kept only while this page stays open.",
+    "write_failed": "Your reading mark could not be saved; it is kept only while this page stays open.",
+    "outdated": "Your earlier reading marks belong to an older version of this path and are not used. Marking a reading will start a new record."
+  },
+  "start": "Start the first reading",
+  "continue": "Continue with the next reading",
+  "continueStage": "Continue: stage {{n}}",
+  "backToStage": "Back to stage {{n}}",
+  "position": "Stage {{n}} · reading {{i}} of {{total}}"
+}

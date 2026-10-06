@@ -1,0 +1,184 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:356bb8ba57bd1bb715e09995e7998e986a2553e5ed52369a8c9ab4db3e5ba47b",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "بَيَّنَ النبيُّ صلى الله عليه وسلم أنَّ العبدَ المؤمن بالله واليوم الآخر الذي إليه معاده وفيه مجازاته بعمله، يَحُثُّه إيمانُه على فعل هذه الخصال: \n\nالأولى: القول الحسن: من التسبيح والتهليل، والأمر بالمعروف، والنهي عن المنكر، والإصلاح بين الناس، فإنْ لم يفعل فلْيلزم السكوت ويَكُف أذاه ويحفظ لسانه. \n\nالثاني: إكرام الجار: بالإحسان إليه وعدم إيذائه.\n\nالثالث: إكرام الضيف القادم لزيارتك: بطِيْبِ الكلام وإطعام الطعام ونحو ذلك.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "الإيمان بالله واليوم الآخر أَصْلٌ لكلِّ خير، ويَبعث على فعل الخير.",
+  "التحذير من آفات اللسان.",
+  "دين الإسلام دين الأُلفة والكرم.",
+  "هذه الخصال من شُعَب الإيمان ومن الآداب المحمودة.",
+  "كثرة الكلام قد تَجُرُّ إلى المكروه أو المحرَّم، والسلامة في عدم الكلام إلا في الخير."
+ ],
+ "id": "hadeethenc-5437",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (8/ 11) (6018).\nصحيح مسلم (1/ 68) (47).\nالتحفة الربانية في شرح الأربعين حديثًا النووية، (ص34).\nشرح الأربعين النووية، لابن عثيمين (ص176).\nشرح النووي على مسلم (2/ 18).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=5437",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:54+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/5437"
+ },
+ "source_categories": [
+  {
+   "id": "282",
+   "label": "الأخلاق الحميدة"
+  }
+ ],
+ "source_record_id": "5437",
+ "text": "عن أبي هريرة رضي الله عنه عن رسول الله صلى الله عليه وسلم قال: «مَنْ كَانَ يُؤْمِنُ بِاللهِ وَالْيَوْمِ الْآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ، وَمَنْ كَانَ يُؤْمِنُ بِاللهِ وَالْيَوْمِ الْآخِرِ فَلْيُكْرِمْ جَارَهُ، وَمَنْ كَانَ يُؤْمِنُ بِاللهِ وَالْيَوْمِ الْآخِرِ فَلْيُكْرِمْ ضَيْفَهُ».",
+ "title": "من كان يؤمن بالله واليوم الآخر فليقل خيرا أو ليصمت",
+ "topic": "conduct",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=5437",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:73efde795aa7acefa82b26ce0365d19dc5c1c438455ca632c7149cd68363e43c",
+   "explanation": "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এ হাদীসে বর্ণনা করেছেন যে, আল্লাহ ও শেষ দিনের উপর ঈমানদার বান্দা,যার প্রত্যাবর্তন তাঁরই নিকটে এবং তিনি তার কর্মের প্রতিদান দিবেন, তাকে তার ঈমান নিম্নোক্ত বৈশিষ্ট্যাবলী অর্জনে উৎসাহিত করে:\r\n\r\nপ্রথমত: উত্তম কথা বলা: সেগুলো হলো তাসহবীহ1, তাহলীল2, সৎকাজের আদেশ দেওয়া ও অসৎ কাজ থেকে নিষেধ করা, মানুষের মধ্যে সংশোধন করা। সে যদি এসব কাজ না করে, তবে সে যেন চুপ থাকে। সে যেন তার কষ্ট থেকে অন্যকে বিরত রাখে এবং সে যেন তার জিহ্বাকে হেফাযত করে।\r\n\r\nদ্বিতীয়: প্রতিবেশিকে সম্মান করা: তাদের প্রতি দয়া-অনুগ্রহ করা এবং তাদেরকে কষ্ট না দেওয়া।\r\n\r\nতৃতীয়: তোমার সাক্ষাতে আসা আগত মেহমানকে সম্মান করা। আর তা হলো তাদের সাথে উত্তম কথা বলা, তাদেরকে খাদ্য খাওয়ানো ইত্যাদি",
+   "grade": "সহীহ",
+   "hints": [
+    "আল্লাহ ও শেষ দিবসের প্রতি ঈমানই সকল কল্যাণের মূল এবং এটি মানুষকে ভালো কাজ করতে অনুপ্রাণিত করে।\r",
+    "যবানের ভুল- ভ্রান্তি ও দোষ-ত্রুটি থেকে সতর্কতা।\r",
+    "দীন ইসলাম হলো ভালোবাসা ও উদারতার দীন।\r",
+    "এসব গুণাবলী ঈমানের শাখা প্রশাখার ও প্রশংসিত শিষ্টাচারের অন্তর্ভুক্ত।\r",
+    "অধিক কথা বলা অনেক সময় অপছন্দনীয় ও হারাম কাজের প্রতি ধাবিত করে। কল্যাণকর কথা ব্যতীত চুপ থাকাই নিরাপদ।"
+   ],
+   "mapping": "same HadeethEnc record id 5437; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:34+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/5437",
+   "text": "আবূ হুরায়রা রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, তিনি বলেন, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন: “যে ব্যক্তি আল্লাহ ও শেষ দিনের উপর ঈমান রাখে সে যেন উত্তম কথা বলে, অথবা সে যেন চুপ থাকে।  যে আল্লাহ ও শেষ দিনের উপর ঈমান রাখে, সে যেন তার প্রতিবেশীকে সম্মান করে । যে লোক আল্লাহ ও শেষ দিনের উপর ঈমান রাখে, সে যেন তার মেহমানকে সম্মান করে।”",
+   "title": "“যে ব্যক্তি আল্লাহ ও শেষ দিনের উপর ঈমান রাখে সে যেন উত্তম কথা বলে, অথবা সে যেন চুপ থাকে।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=5437",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:a1f05f32eded9a6db3b4b5129b5292399c3a763562ec3c8c8a33aac319fc615a",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) pointed out that a person who believes in Allah and the Last Day, that he will be resurrected and recompensed therein for his deeds, is driven by his belief to do these things:\r\n\r\nFirst: good words: Examples of good words include glorification of Allah and proclamation of His oneness, enjoining the right and forbidding the wrong, and reconciling between people. If a person does not say something good, he should then keep silent, restraining his tongue and sparing people from his harm.\r\n\r\nSecond: honoring the neighbors: by being benevolent to them and not causing them any harm.\r\n\r\nThird: honoring the guests: by speaking to them in a nice manner, presenting food to them, and so on.",
+   "grade": "Authentic",
+   "hints": [
+    "Belief in Allah and the Last Day is the basis of all goodness, prompting people to do good.\r",
+    "The Hadīth warns against the bad use of the tongue.\r",
+    "Islam is a religion of cordiality and generosity.\r",
+    "These traits fall under the branches of faith and belong to sublime ethics.\r",
+    "Speaking a lot may lead one to what is disliked or prohibited. Safety lies in keeping silent unless one says something good."
+   ],
+   "mapping": "same HadeethEnc record id 5437; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:34+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/5437",
+   "text": "Abu Hurayrah (may Allah be pleased with him) reported: The Messenger of Allah (may Allah's peace and blessings be upon him) said: \"Whoever believes in Allah and the Last Day should say what is good or keep silent. Whoever believes in Allah and the Last Day should honor his neighbor. Whoever believes in Allah and the Last Day should honor his guest.\"",
+   "title": "Whoever believes in Allah and the Last Day should say what is good or keep silent",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=5437",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:847a21eb29f1841defea5d123b59f78462ac9ccb0bd4eeae0e8aaa1cb3d7ca40",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) explique que le serviteur qui croit en Allah et au Jour Dernier, dont le retour est vers Lui pour y être rétribué pour ses oeuvres, alors sa foi l'incite à accomplir les bribes suivantes :\r\n\r\nLa première : Dire de belles paroles : parmi la proclamation de la gloire d'Allah, Son unicité, l'ordonnance du convenable, l'interdiction du blâmable, la réforme entre les gens, etc. Et s'il ne le fait pas, alors qu'il s'attache au silence, qu'il s'abstienne de causer du tort et qu'il préserve sa langue.\r\n\r\nLa seconde : Honorer le voisin en étant bienfaisant envers lui et en ne lui causant aucun tort.\r\n\r\nLa troisième  : Honorer l'invité qui vient te visiter en lui parlant agréablement, en lui donnant à manger, et ce qui ressemble à cela.",
+   "grade": "Authentique",
+   "hints": [
+    "La foi en Allah et au Jour Dernier est la base de tout bien et cela pousse à l'accomplissement du bien.\r",
+    "La mise en garde contre les dégâts de la langue.\r",
+    "La religion de l'islam est une religion de cordialité et de générosité.\r",
+    "Ces bribes font partie des branches de la foi et sont parmi les bonnes manières louables.\r",
+    "La profusion de paroles peut amener à des choses répugnées et interdites ; et la sécurité est dans l'absence de paroles, excepté dans le bien."
+   ],
+   "mapping": "same HadeethEnc record id 5437; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:34+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/5437",
+   "text": "Aboû Hourayrah (qu'Allah l'agrée) relate que le Messager d'Allah  (qu'Allah le couvre d'éloges et le préserve) a dit : « Quiconque croit en Allah et au Jour Dernier, qu'il dise du bien ou qu'il se taise. Quiconque croit en Allah et au Jour Dernier, qu'il honore son voisin. Et quiconque croit en Allah et au Jour Dernier, qu'il honore son invité. »",
+   "title": "Quiconque croit en Allah et au Jour Dernier, qu'il dise du bien ou qu'il se taise",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=5437",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:a93dbd736d8fd06dd096673834c32f17a0aeaeea5f586289fe178ff2642f0ffd",
+   "explanation": "Nabi ﷺ menerangkan bahwa hamba yang beriman kepada Allah dan hari Akhir yang menjadi tempat kembali dan tempat pembalasan amalnya, imannya itu akan mendorongnya untuk melakukan perkara-perkara berikut:\r\n\r\n- Pertama: ucapan baik, seperti tasbih, tahlil, amar makruf nahi mungkar dan mendamaikan perselisihan. Jika tidak bisa melakukan itu, hendaklah ia diam, tidak menyakiti orang lain dan menjaga lisannya.\r\n\r\n- Kedua: memuliakan tetangga, yaitu dengan berbuat baik padanya dan tidak menyakitinya.\r\n\r\n- Ketiga: memuliakan tamu yang datang berkunjung dengan bertutur kata baik, memberi makan dan semisalnya.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Beriman kepada Allah dan hari Akhir merupakan fondasi segala kebaikan serta mendorong untuk melakukan kebaikan.\r",
+    "2- Peringatan terhadap penyakit-penyakit lisan.\r",
+    "3- Agama Islam adalah agama kedamaian dan kemuliaan.\r",
+    "4- Perkara-perkara ini termasuk cabang iman dan adab terpuji.\r",
+    "5- Banyak berbicara dapat menyeret pada perbuatan makruh atau haram. Inti keselamatan ialah tidak berbicara kecuali dalam kebaikan."
+   ],
+   "mapping": "same HadeethEnc record id 5437; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:34+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/5437",
+   "text": "Abu Hurairah -raḍiyallāhu 'anhu- meriwayatkan dari Rasulullah ﷺ bahwa beliau bersabda, \"Siapa yang beriman kepada Allah dan hari Akhir, maka hendaklah ia ‎berkata yang baik atau diam; siapa yang beriman kepada Allah ‎dan hari Akhir, maka hendaklah ia memuliakan tetangganya; dan ‎siapa yang beriman kepada Allah dan hari Akhir, maka hendaklah ia ‎memuliakan tamunya.\"",
+   "title": "Siapa yang beriman kepada Allah dan hari Akhir, maka hendaklah ia ‎berkata yang baik atau diam",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=5437",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:b63af8af29f6a1578634e695ae669779e440622846f13cf28c3e93049cd24c74",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم بتا رہے ہیں کہ اللہ اور آخرت کے دن، جہاں ہر شخص کو جانا ہے اور اپنے عمل کا بدلہ حاصل کرنا ہے، پر ایمان رکھنے والے بندے کو اس کا ایمان ان کاموں کی ترغیب دیتا ہے :\r\n\r\n1- اچھی بات کرنا : جیسے تسبیح، تہلیل، بھلائی کا حکم دینا، برائی سے روکنا اور لوگوں کے درمیان صلح صفائی کی کوشش کرنا۔ اگر وہ ایسا نہ کر سکتا ہو، تو خاموش رہے، کسی کو تکلیف نہ پہنچائے اور اپنی زبان کی حفاظت کرے۔\r\n\r\n2- پڑوسی کی عزت کرنا : یعنی اس کے ساتھ اچھا برتاؤ کرنا اور اسے تکلیف نہ دینا۔\r\n\r\n3- ملنے کے لیے آنے والے مہمان کی عزت کرنا : یعنی اس کے ساتھ خوش مزاجی سے بات کرنا اور اسے کھانا کھلانا وغیرہ۔",
+   "grade": "صحيح",
+   "hints": [
+    "اللہ اور آخرت کے دن پر ایمان ہر خیر و بھلائی کی اساس ہے اور اس سے اچھے کام کرنے کی ترغیب ملتی ہے۔\r",
+    "اس میں انسان کو زبان کی آفتوں سے خبردار کیا گیا ہے۔\r",
+    "اسلام محبت اور عزت و احترام کا مذہب ہے۔\r",
+    "یہ تین کام دراصل ایمان کے خصائل اور قابل تعریف آداب میں سے ہيں۔\r",
+    "زیادہ بولنا کبھی کبھی مکروہ اور حرام کی جانب لے جاتا ہے، اس لیے سلامتی بس اسی وقت بولنے میں ہے، جب کوئی اچھی بات کرنی ہو۔"
+   ],
+   "mapping": "same HadeethEnc record id 5437; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:34+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/5437",
+   "text": "ابو ہریرہ رضی اللہ عنہ سے روایت ہے کہ اللہ کے رسول صلی اللہ علیہ و سلم نے فرمایا : \"جو اللہ اور آخرت کے دن پر ایمان رکھتا ہو، وہ اچھی بات کرے یا خاموش رہے، جو اللہ اور آخرت کے دن پر ایمان رکھتا ہو، وہ اپنے پڑوسی کی عزت کرے اور جو اللہ اور آخرت کے دن پر ایمان رکھتا ہو، وہ اپنے مہمان کی عزت کرے۔\"",
+   "title": "جو اللہ اور آخرت کے دن پر ایمان رکھتا ہو، وہ اچھی بات کرے یا خاموش رہے",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=5437",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:aa9b16fe2f0e5cb2cfe967844eee7c1732d8404e5fc02fb5a5d3b56517448344",
+   "explanation": "先知（愿主福安之）阐明了一个归信真主、并归信后世者，其归宿就是后世，其善功将得到回赐。他的信仰会鼓励他具备以下品质：\r\n\r\n第一、善言：包括念“赞主清净词”、“清真言”，以及命人行善、止人作恶，与人为善。而如果未能这样做，那就保持缄默，避免伤害他人，并管好自己的口舌。\r\n\r\n第二、尊重邻里：即与邻里为善，不伤害他们。\r\n\r\n第三、款待前来探访你的客人：通过友好的言辞、提供食物等方式来款待他们。",
+   "grade": "正确的",
+   "hints": [
+    "对真主和末日审判的信仰是一切善行的根本，它激励人去行善。\r",
+    "警惕口舌的危害。\r",
+    "伊斯兰教是友爱和慷慨的宗教。\r",
+    "这些品质是信仰的分支，也是受赞美的行为。\r",
+    "言多可能导致可憎或被禁止的事情发生，唯有不言或言善能幸免于此。"
+   ],
+   "mapping": "same HadeethEnc record id 5437; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:34+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/5437",
+   "text": "据艾布·胡莱勒（愿主喜悦之）传述，真主的使者（愿主福安之）说： “谁归信真主和末日,就当说善言或当沉默。谁归信真主和末日，就不要伤害邻居。谁归信真主和末日，就当款待客人｡”",
+   "title": "“谁归信真主和末日,就当说善言或当沉默",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

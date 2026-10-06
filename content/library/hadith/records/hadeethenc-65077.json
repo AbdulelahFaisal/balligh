@@ -1,0 +1,185 @@
+{
+ "attribution": "رواه أبو داود",
+ "content_sha256": "sha256:da412b51c0ac1be1581f3232023ce447c15b91c7449e7c37c893397e375b0ca8",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "قال عبدُ الله بن عَمْرو رضي الله عنه: كنتُ أكتبُ كلَّ شيءٍ أسمعه مِن رسول الله صلى الله عليه وسلم لكي أحفَظَه بالكتابة، فنهاني رجالٌ من قريش، وقالوا: رسولُ الله صلى الله عليه وسلم بشرٌ يتكلَّم في الرِّضا والغضب، وقد يُخطئ، فتوقَّفت عن الكتابة.\n\nفأخبرتُ النبيَّ صلى الله عليه وسلم بما قالوه، فأشار بإصبعه إلى فَمِهِ فقال: اكتب، فوالذي نفسي بيده ما يَخرجُ منه إلّا حقّ على كل حال، وفي الرِّضا والغضب.\n\nوقد قال تعالى عن نبيه صلى الله عليه وسلم:\n﴿وَمَا یَنطِقُ عَنِ ٱلۡهَوَىٰۤ * إِنۡ هُوَ إِلَّا وَحۡیࣱ یُوحَىٰ﴾ [النجم ٣-٤].",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "النبي صلى الله عليه وسلم معصوم فيما يُبَلِّغُه عن ربه عز وجل، في الرضا والغضب.",
+  "حرص الصحابة رضي الله عنهم على حفظِ السنة وتبليغِها.",
+  "جواز الحلف ولو بغير تحليفٍ لمصلحة، كتوكيد أمر.",
+  "كتابة العلم من أهم الأسباب التي تحفظ العلم."
+ ],
+ "id": "hadeethenc-65077",
+ "language": "ar",
+ "narrator": null,
+ "reference": "سنن أبي داود (5/ 489) (3646)، شرح سنن أبي داود للعباد (412/ 21).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=65077",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:31+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/65077"
+ },
+ "source_categories": [
+  {
+   "id": "56",
+   "label": "أهمية السنة ومكانتها"
+  },
+  {
+   "id": "57",
+   "label": "تدوين السنة النبوية"
+  },
+  {
+   "id": "81",
+   "label": "نبينا محمد صلى الله عليه وسلم"
+  }
+ ],
+ "source_record_id": "65077",
+ "text": "عن عبدِ الله بن عمرو رضي الله عنهما قال: كنتُ أكتبُ كلَّ شيءٍ أسمعُه من رسولِ الله صلَّى الله عليه وسلم أُريدُ حفْظَه، فنهتْني قريشٌ، وقالوا: أتكْتبُ كلَّ شيءٍ تَسمَعُه من رسول الله صلَّى الله عليه وسلم، ورسولُ الله صلَّى الله عليه وسلم بَشَرٌ يتكلَّمُ في الغضَبِ والرِّضا؟ فأمسَكتُ عن الكتاب، فذكرتُ ذلك لرسول الله صلَّى الله عليه وسلم، فأومأ بإصبَعِه إلى فيه، فقال: «اكتُبْ، فوالذي نفسي بيدِه، ما يَخرُجُ منه إلا حقٌّ».",
+ "title": "اكتب، فوالذي نفسي بيده، ما يخرج منه إلا حق",
+ "topic": "understanding_islam",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=65077",
+   "arabic_match": "exact",
+   "attribution": "আবু দাউদ এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:dd22d1b4c6a4e5ab3b191f37feabd2d3b950e85400e5a3bdbcf8372ab6454610",
+   "explanation": "আব্দুল্লাহ বিন আমর রাদিয়াল্লাহু ‘আনহু বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট যা কিছু শুনতাম তা লিখে রাখতাম যেন লিখার সাহায্যে তা মুখস্থ করতে পারি। কুরাইশদের কিছু লোক আমাকে নিষেধ করলেন এবং বললেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একজন মানুষ রাগ ও শান্ত উভয় অবস্থায় কথা বলে থাকেন, কখনো তিনি ভুল করতে পারেন। সুতরাং আমি লেখা থেকে বিরত থাকলাম।\r\n\r\nতারপর আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে কুরাইশরা যা বলেছে তার সংবাদ দিলাম। তিনি আঙ্গুল দিয়ে তাঁর মুখের দিকে ইশারা করে বললেনঃ তুমি লিখে রাখো, সেই সত্তার শপথ, যাঁর হাতে আমার প্রাণ, এ মুখ থেকে রাগ ও শান্ত সর্বাবস্থায় সত্য ব্যতীত অন্য কিছু বের হয় না।\r\n\r\nআল্লাহ তা‘আলা তাঁর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সম্পর্কে বলেছেন: (তিনি প্রবৃত্তি থেকে বলেন না*, তা তো কেবলই অহী যা তাঁর প্রতি প্রত্যাদেশ করা হয়) [আন-নাজম ৩-৪]।",
+   "grade": "সহীহ",
+   "hints": [
+    "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম রাগ ও শান্ত অবস্থায় যা কিছু তাঁর মহান রবের তরফ থেকে প্রচার করেন তাতে তিনি নির্ভুল থাকেন।\r",
+    "সাহাবীগণ রাদিয়াল্লাহু ‘আনহুমের সুন্নাহ মুখস্থ করা ও তা প্রচার করার প্রতি গভীর আগ্রহ।\r",
+    "বিশেষ প্রয়োজনে, কসম তলব করা ছাড়াও কসম করা বৈধ, যেমন কোনো বিষয়ের গুরুত্ব বোঝাতে কসম করা।\r",
+    "ইলম সংরক্ষণ করার একটি গুরুত্বপূর্ণ উপায় হলো ইলম লিপিবদ্ধ করে রাখা।"
+   ],
+   "mapping": "same HadeethEnc record id 65077; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:12+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/65077",
+   "text": "আব্দুল্লাহ বিন ‘আমর রাদিয়াল্লাহু ‘আনহুমা থেকে বর্ণিত, তিনি বলেন: আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট যা কিছু শুনতাম তা মনে রাখার স্বার্থে লিখে রাখতাম। কুরাইশরা আমাকে (সবকিছু লিখতে) নিষেধ করলেন এবং বললেন, তুমি কি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট থেকে শোনা সবকিছুকেই লিখে রাখো? অথচ রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম একজন মানুষ, রাগ ও শান্ত উভয় অবস্থায় কথা বলে থাকেন। সুতরাং আমি লেখা থেকে বিরত থাকলাম। আমি এটা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট উল্লেখ করলাম। তিনি তাঁর আঙ্গুল দিয়ে তাঁর মুখের দিকে ইশারা করে বললেনঃ “তুমি লিখে রাখো, সেই সত্তার শপথ, যাঁর হাতে আমার প্রাণ, এ মুখ থেকে সত্য ব্যতীত অন্য কিছু বের হয় না”।",
+   "title": "তুমি লিখে রাখো, সেই সত্তার শপথ, যাঁর হাতে আমার প্রাণ, এ মুখ থেকে সত্য ব্যতীত অন্য কিছু বের হয় না”।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=65077",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Abu Dāwūd",
+   "content_sha256": "sha256:0f243964855f00a9ee93959420406e1aa5ff87ce39c289f484e8f1b3f3237d0c",
+   "explanation": "‘Abdullāh ibn ‘Amr (may Allah be pleased with him) reported: I used to write down everything I heard from the Messenger of Allah (may Allah's peace and blessings be upon him) in order to memorize it by writing, but men from the Quraysh forbade me from doing so, saying: The Messenger of Allah (may Allah's peace and blessings be upon him) is a human being who speaks in pleasure and anger and so he is likely to err. Therefore, I stopped writing.\r\n\r\nI told the Prophet (may Allah's peace and blessings be upon him) about what they said, and he pointed with his finger to his mouth and said: Write down, for the One in Whose Hand my soul is, nothing comes out of it except the truth, in all conditions and in pleasure and anger.\r\n\r\nAnd Allah Almighty says about His Prophet (may Allah's peace and blessings be upon him): {Nor does he speak out of his own desire*. It is but a revelation sent down [to him].} [Surat an-Najm: 3-4]",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth demonstrates the Prophet's infallibility in what he conveyed from his Lord, whether at times of pleasure or anger.\r",
+    "The Companions (may Allah be pleased with them) were keen to memorize and convey the Sunnah.\r",
+    "It is permissible to swear an oath, even without being asked to swear an oath, for the sake of a certain interest, like putting emphasis on something.\r",
+    "Writing down knowledge is one of the main methods for preserving it."
+   ],
+   "mapping": "same HadeethEnc record id 65077; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:12+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/65077",
+   "text": "‘Abdullāh ibn ‘Amr (may Allah be pleased with him) reported: I used to write down everything I heard from the Messenger of Allah (may Allah's peace and blessings be upon him) in order to memorize it. The Quraysh prohibited me, saying: \"Do you write down everything that you hear from the Messenger of Allah (may Allah's peace and blessings be upon him) while the Messenger of Allah (may Allah's peace and blessings be upon him) is a human being who speaks in anger and pleasure?\" So, I stopped writing and mentioned that to the Messenger of Allah (may Allah's peace and blessings be upon him). Thereupon, he pointed his finger to his mouth and said: \"Write down; for by the One in Whose Hand my soul is, nothing comes out of it except the truth.\"",
+   "title": "Write down; for by the One in Whose Hand my soul is, nothing comes out of it except the truth",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=65077",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Abû Dâwud",
+   "content_sha256": "sha256:93b5bc6e929e9b9e4b3a05b362f765338810312aa7961de6330c226f5e288ddb",
+   "explanation": "'AbdaLlah ibn 'Amrû (qu'Allah l'agrée) a dit : \" J'écrivais tout ce que j'entendais du Messager d'Allah ﷺ afin de le mémoriser grâce à l'écriture. Alors, des personnes de Quraych m'ont interdit de cela et ont dit : \" Le Messager d'Allah ﷺ est un être humain qui parle dans la satisfaction et sous la colère et il se peut qu'il se trompe. \" Alors, j'ai arrêté d'écrire [ce que j'entendais].\r\n\r\nJ'ai alors informé le Prophète ﷺ de ce qu'ils avaient dit et là, de son doigt, il a indiqué sa bouche et a dit : \" Écris ! Par Celui qui détient mon âme dans Sa main ! Certes, ne sort d'elle que la vérité en toute circonstance, tant dans la satisfaction que sous la colère. \"\r\n\r\nEt Allah ﷻ Lui-même a dit concernant Son Prophète ﷺ : {Et il ne prononce rien sous l'effet de la passion * ; certes, ce n'est rien d'autre qu'une révélation qui est révélée.} [L'Étoile, 53 : 3 - 4].",
+   "grade": "Authentique",
+   "hints": [
+    "Le Prophète ﷺ est infaillible concernant ce qu'il transmet de la part de son Seigneur ﷻ tant dans la satisfaction que sous la colère.\r",
+    "L'assiduité des Compagnons (qu'Allah les agrée) à la mémorisation de la Tradition et sa transmission.\r",
+    "La permission de jurer même si ce n'est pas un serment pour un intérêt, comme pour bien insister sur une affaire.\r",
+    "L'écriture de la science fait partie des plus importantes causes qui permettent de mémoriser et préserver la science."
+   ],
+   "mapping": "same HadeethEnc record id 65077; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:13+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/65077",
+   "text": "D'après 'AbdaLlah ibn 'Amrû (qu'Allah les agrée tous les deux) : \" J'écrivais tout ce que j'entendais du Messager d'Allah ﷺ que je voulais mémoriser, mais [la tribu de] Quraych me l'a interdit et ils [les membres de la tribu] ont dit : \" Écris-tu toute chose que tu entends du Messager d'Allah ﷺ alors que le Messager d'Allah ﷺ est un être humain qui parle sous le coup de la colère et de la satisfaction ? \" Alors, je me suis abstenu d'écrire. J'ai alors mentionné cela au Messager d'Allah ﷺ, alors avec son index il pointa vers sa bouche et a dit : \"  Écris ! Car, par Celui qui détient mon âme dans Sa main, il ne sort d'elle que de la vérité. \"",
+   "title": "Écris ! Car, par Celui qui détient mon âme dans Sa main, il ne sort d'elle que de la vérité.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=65077",
+   "arabic_match": "exact",
+   "attribution": "HR. Abu Daud",
+   "content_sha256": "sha256:bdc5dc1ae70133264a00787f0e076e9e378265487cee5c16eea9a84f6026f14e",
+   "explanation": "Abdullah bin 'Amr -raḍiyallāhu 'anhu- berkata: Dahulu aku menulis segala sesuatu yang aku dengar dari Rasulullah ﷺ dengan tujuan menjaganya lewat tulisan. Akan tetapi, sejumlah orang Quraisy melarangku, mereka mengatakan: Rasulullah ﷺ adalah seorang manusia yang berbicara ketika rida dan marah, dan beliau bisa saja bersalah. Sebab itu, aku pun berhenti menulis.\r\n\r\nLalu aku menceritakan hal itu kepada Nabi ﷺ, maka beliau menunjuk dengan jari ke mulutnya dan bersabda: Tulislah! Demi Tuhan yang jiwaku di tangan-Nya, tidak ada yang keluar dari mulutku kecuali kebenaran, pada segala keadaan dan ketika rida maupun marah.\r\n\r\nAllah Ta'ala telah berfirman tentang Nabi-Nya ﷺ, \"Tidaklah yang diucapkannya itu menurut keinginannya. Tidak lain ia adalah wahyu yang diwahyukan (kepadanya).\" [QS. An-Najm: 3-4]",
+   "grade": "Sahih",
+   "hints": [
+    "Nabi ﷺ maksum terkait semua yang beliau sampaikan dari Tuhannya ﷻ ketika rida maupun marah.\r",
+    "1- Kegigihan para sahabat -semoga Allah meridai mereka- untuk menjaga dan menyampaikan Sunnah.\r",
+    "2- Boleh bersumpah walaupun tanpa diminta untuk suatu kemaslahatan, misalnya demi menegaskan suatu perkara.\r",
+    "3- Mencatat ilmu termasuk sebab paling penting untuk menjaga ilmu."
+   ],
+   "mapping": "same HadeethEnc record id 65077; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:12+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/65077",
+   "text": "Abdullah bin 'Amr -raḍiyallāhu 'anhumā- meriwayatkan, Dahulu aku menulis segala sesuatu yang aku dengar dari Rasulullah ﷺ karena ingin menjaganya, tetapi orang-orang Quraisy melarangku. Mereka mengatakan, \"Apakah engkau akan menulis segala sesuatu yang kau dengar dari Rasulullah ﷺ, sedangkan Rasulullah ﷺ seorang manusia yang berbicara ketika marah dan rida?\" Sehingga aku berhenti menulis. Lalu aku menceritakan hal itu kepada Rasulullah ﷺ, maka beliau menunjuk dengan jari ke mulutnya seraya bersabda, \"Tulislah! Demi Allah yang jiwaku ada di tangan-Nya, tidak keluar dari mulutku kecuali kebenaran.\"",
+   "title": "Tulislah! Demi Allah yang jiwaku ada di tangan-Nya, tidak keluar dari mulutku kecuali kebenaran",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=65077",
+   "arabic_match": "exact",
+   "attribution": "رواه أبو داود",
+   "content_sha256": "sha256:01fcceb79f1dd309696411456bedb28fb75ec3c5be7283d64ec45562ae4ae5c6",
+   "explanation": "عبداللہ بن عمرو رضی اللہ عنہ کہتے ہيں کہ میں اللہ کے رسول صلی اللہ علیہ و سلم سے سنی ہوئی ہر بات کو لکھ لیا کرتا تھا، تاکہ اسے تحریری شکل میں محفوظ رکھا جا سکے۔ لیکن قریش کے کچھ لوگوں نے مجھے اس سے منع کیا اور کہا کہ اللہ کے رسول صلی اللہ علیہ و سلم ایک انسان ہیں اور غصہ اور خوشی دونوں حالتوں میں گفتگو کرتے ہیں۔ ہو سکتا ہے کہ آپ غلطی بھی کر بیٹھیں۔ (اس لیے آپ کی ہر بات کو لکھا مت کرو۔) چنانچہ میں نے لکھنا بند کر دیا۔\r\n\r\nپھر میں نے اللہ کے رسول صلی اللہ علیہ و سلم کے سامنے ان کی اس بات کا ذکر کیا، تو آپ نے اپنے دہن مبارک کی جانب اشارہ کرتے ہوئے کہا کہ تم لکھا کرو۔ اس ذات کی قسم جس کے ہاتھ میں میری جان ہے، اس سے ہر حال میں حق ہی نکلتا ہے۔ خوشی کی حالت میں بھی اور غصے کی حالت میں بھی۔\r\n\r\nاللہ تعالی نے بھی اپنے نبی صلی اللہ علیہ و سلم کے بارے میں فرمایا: {وَمَا یَنطِقُ عَنِ ٱلۡهَوَىٰۤ۔ إِنۡ هُوَ إِلَّا وَحۡیࣱ یُوحَىٰ} (اور نہ وه اپنی خواہش سے کوئی بات کہتے ہیں. وه تو صرف وحی ہے جو اتاری جاتی ہے.) [سورہ نجم : 3-4]",
+   "grade": "صحيح",
+   "hints": [
+    "اللہ کے نبی صلی اللہ علیہ و سلم اللہ کا پیغام پہنچانے کے معاملے میں معصوم تھے۔ خوشی کی حالت میں بھی اور غصے کی حالت میں بھی۔\r",
+    "صحابۂ کرام سنت کی حفاظت اور اس کی تبلیغ کے حریص تھے۔\r",
+    "کسی مصلحت کے پیش نظر، جیسے کسی بات کی تاکید کے لیے قسم کے مطالبے کے بغیر بھی قسم کھانا جائز ہے۔\r",
+    "علم کو لکھ لینا اسے محفوظ رکھنے کا ایک اہم ترین سبب ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 65077; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:12+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/65077",
+   "text": "عبداللہ بن عمرو رضی اللہ عنہما سے روایت ہے، وہ کہتے ہیں : اللہ کے رسول صلی اللہ علیہ وسلم سے میں جو کچھ سنتا سب لکھ لیا کرتا تھا، تاکہ ان کو محفوظ رکھا جا سکے۔ لہذا قریش کے کچھ لوگوں نے مجھے اس سے منع کیا اور کہا کہ کیا تم اللہ کے رسول صلی اللہ علیہ و سلم سے سنی ہوئی ہر بات لکھ لیا کرتے ہو، جب کہ اللہ کے رسول صلی اللہ علیہ و سلم انسان ہیں، غصہ اور خوشی دونوں حالتوں میں گفتگو کرتے ہیں؟ لہذا میں نے لکھنا موقوف کردیا اور یہ بات رسول اللہ صلی اللہ علیہ وسلم سے عرض کیا، تو آپ صلی اللہ علیہ وسلم نے اپنی انگلی سے اپنے دہن مبارک کی طرف اشارہ کرتے ہوئے فرمایا : \"لکھا کرو، قسم ہے اس ذات کی جس کے ہاتھ میں میری جان ہے، اس سے سوائے حق کے کچھ اور نہیں نکلتا\"۔",
+   "title": "لکھا کرو، قسم ہے اس ذات کی جس کے ہاتھ میں میری جان ہے، اس سے سوائے حق کے کچھ اور نہیں نکلتا\"۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=65077",
+   "arabic_match": "exact",
+   "attribution": "艾布·达吾德辑录",
+   "content_sha256": "sha256:47dd2038b576f5432a8dbbe413be7cf2a0017f1880f60205797552ed76fc7673",
+   "explanation": "阿卜杜拉·本·阿穆尔（愿主喜悦之）说：我曾记录我从使者（愿主福安之）那里听来的一切，便于我背记，然后古莱什中的一些人禁止我这样做，他们说：安拉的使者（愿主福安之）是人，他在高兴和生气时都会说话，也许会出错，所以我便停止了记录。\r\n\r\n然后我将此事告诉了先知（愿主福安之），使者用他的手指着他的口说：你记录吧！以掌握我生命的主发誓，我的口中所说出的一切都是真理，无论是高兴之时还是生气之时。\r\n\r\n清高的安拉确已叙述他的先知说： {未随私欲而言，这只是他所受的启示。}【星宿章：3-4】",
+   "grade": "正确的",
+   "hints": [
+    "无论是喜悦之时还是生气之时，先知（愿主福安之）自他的养主那里传达的一切都是受到保护的。\r",
+    "圣门弟子们（愿主喜悦他们）皆渴望背记圣训并传达之。\r",
+    "允许发誓，即使没有被要求发誓也罢，比如为了肯定某件事等有益之举。\r",
+    "书写知识是保护知识的重要途径之一。"
+   ],
+   "mapping": "same HadeethEnc record id 65077; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:12+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/65077",
+   "text": "据阿卜杜拉·本·阿穆尔（愿主喜悦他俩）传述说： 我曾经将我从安拉的使者（愿主福安之）那里听到的都记录了下来，我想要背诵它，古莱什人禁止我这么做，他们说：你记录了所有从使者（愿主福安之）那里听到的吗？安拉的使者（愿主福安之）也是人，他在生气和高兴的时候都会说话，然后我便停止了记录。当我将此告诉安拉的使者（愿主福安之）时，他用手指着他的嘴说：“你记录吧。以掌握我的生命的主发誓，从我口中说出的都是真理。”",
+   "title": "你记录吧。以掌握我的生命的主发誓，从我口中说出的都是真理。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

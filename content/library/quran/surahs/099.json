@@ -1,0 +1,281 @@
+{
+ "ayah_count": 8,
+ "ayahs": [
+  {
+   "arabic": "إِذَا زُلۡزِلَتِ ٱلۡأَرۡضُ زِلۡزَالَهَا",
+   "aya": 1,
+   "id": 6139,
+   "tafsir": {
+    "arabic_moyassar": "إذا رُجَّت الأرض رجًّا شديدًا، وأخرجت ما في بطنها من موتى وكنوز، وتساءل الإنسان فزعًا: ما الذي حدث لها؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "(কিয়ামত দিবসে) যখন প্রচণ্ড কম্পনে জমিন প্রকম্পিত হবে,"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "When the earth is shaken with a mighty quake,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Lorsque la terre subira une violente secousse,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Apabila bumi diguncangkan dengan guncangan yang dahsyat,"
+    },
+    "ur": {
+     "footnotes": "[1] اس کے مدنی اور مکی ہونے میں اختلاف ہے، اس کی فضلیت میں متعدد روایات منقول ہیں لیکن ان میں سے کوئی روایت صحیح نہیں ہے۔",
+     "text": "جب زمین پوری طرح جھنجھوڑ دی جائے گی.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "当大地猛烈地震动，"
+    }
+   }
+  },
+  {
+   "arabic": "وَأَخۡرَجَتِ ٱلۡأَرۡضُ أَثۡقَالَهَا",
+   "aya": 2,
+   "id": 6140,
+   "tafsir": {
+    "arabic_moyassar": "إذا رُجَّت الأرض رجًّا شديدًا، وأخرجت ما في بطنها من موتى وكنوز، وتساءل الإنسان فزعًا: ما الذي حدث لها؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১) অভ্যন্তরের মৃতদেহ ও অন্যান্য সকল।",
+     "text": "আর জমিন তার (১) বোঝা বের করে দিবে,"
+    },
+    "en": {
+     "footnotes": "[1] i.e., its dead bodies and treasures.",
+     "text": "and the earth throws out its burdens[1],"
+    },
+    "fr": {
+     "footnotes": "[1] Les morts enterrés en son sein, qui sortiront de terre le Jour de la résurrection.",
+     "text": "au point de rejeter ses fardeaux à sa surface[1],"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan bumi telah mengeluarkan beban-beban berat (yang dikandung)nya,"
+    },
+    "ur": {
+     "footnotes": "[1] اس کا مطلب ہے سخت بھونچال سے ساری زمین لرز اٹھے گی اور ہر چیز ٹوٹ پھوٹ جائے گی، یہ اس وقت ہوگا، جب پہلا نفخہ پھونکا جائے گا۔",
+     "text": "اور اپنے بوجھ باہر نکال پھینکے گی.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "抛其重担，"
+    }
+   }
+  },
+  {
+   "arabic": "وَقَالَ ٱلۡإِنسَٰنُ مَا لَهَا",
+   "aya": 3,
+   "id": 6141,
+   "tafsir": {
+    "arabic_moyassar": "إذا رُجَّت الأرض رجًّا شديدًا، وأخرجت ما في بطنها من موتى وكنوز، وتساءل الإنسان فزعًا: ما الذي حدث لها؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর মানুষ (আশ্চর্যান্বিত হয়ে) বলবে: ‘এর কী হল?’"
+    },
+    "en": {
+     "footnotes": "[2] In terror and astonishment.",
+     "text": "and man says[2], “What is the matter with it?”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "et que l’homme se demandera ce qui lui arrive,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan manusia bertanya, \"Apa yang terjadi pada bumi ini?\""
+    },
+    "ur": {
+     "footnotes": "[1] یعنی زمین میں جتنے انسان دفن ہیں، وہ زمین کا بوجھ ہیں، جنہیں زمین قیامت والے دن باہر نکال پھینکے گی۔ یعنی اللہ کے حکم سے سب زندہ ہو کر باہر نکل آئیں گے۔ یہ دوسرے نفخے میں ہوگا، اسی طرح زمین کے خزانے بھی باہر نکل آئیں گے۔",
+     "text": "انسان کہنے لگے گا کہ اسے کیا ہوگیا؟[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "人们说：“大地怎么啦?”"
+    }
+   }
+  },
+  {
+   "arabic": "يَوۡمَئِذٖ تُحَدِّثُ أَخۡبَارَهَا",
+   "aya": 4,
+   "id": 6142,
+   "tafsir": {
+    "arabic_moyassar": "يوم القيامة تخبر الأرض بما عُمل عليها من خير أو شر، وبأن الله سبحانه وتعالى أمرها بأن تخبر بما عُمل عليها."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(২) তাতে সংঘটিত ভালো-মন্দ কাজের।",
+     "text": "সেদিন জমিন তার (২) বৃত্তান্ত বর্ণনা করবে,"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "On that Day it will recount all its news,"
+    },
+    "fr": {
+     "footnotes": "[2] Les œuvres, bonnes ou mauvaises, accomplies à la surface de la terre par les hommes, selon nombre d’exégètes.",
+     "text": "ce Jour-là, elle livrera l’ensemble de ses secrets[2],"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Pada hari itu bumi menyampaikan beritanya,"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی دہشت زدہ ہوکر کہے گا کہ اسے کیا ہو گیا ہے، یہ کیوں اس طرح ہل رہی ہے اور اپنے خزانے اگل رہی ہے۔",
+     "text": "اس دن زمین اپنی سب خبریں بیان کردے گی.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "在那日，大地将报告它的消息。"
+    }
+   }
+  },
+  {
+   "arabic": "بِأَنَّ رَبَّكَ أَوۡحَىٰ لَهَا",
+   "aya": 5,
+   "id": 6143,
+   "tafsir": {
+    "arabic_moyassar": "يوم القيامة تخبر الأرض بما عُمل عليها من خير أو شر، وبأن الله سبحانه وتعالى أمرها بأن تخبر بما عُمل عليها."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "যেহেতু তোমার রব তাকে (এসব কথা প্রকাশ করার) নির্দেশ দিয়েছেন।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "because your Lord has inspired it [to do so]."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "se pliant ainsi à la volonté de ton Seigneur."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "karena sesungguhnya Tuhanmu telah memerintahkan (yang sedemikian itu) padanya."
+    },
+    "ur": {
+     "footnotes": "[1] یہ جواب شرط ہے۔ حدیث میں ہے، نبی (صلى الله عليه وسلم) نے یہ آیت تلاوت فرمائی اورپوچھا، جانتے ہو، زمین کی خبریں کیا ہیں؟ صحابہ (رضي الله عنهم) نے عرض کیا، اللہ اور اس کے رسول بہتر جانتے ہیں۔ آپ (صلى الله عليه وسلم) نے فرمایا، اس کی خبریں یہ ہیں کہ جس بندے یا بندی نے زمین کی پشت پر جو کچھ کیا ہوگا، اس کی گواہی دے گی۔ کہے گی فلاں فلاں شخص نے فلاں فلاں عمل، فلاں فلاں دن میں کیا تھا۔ ( ترمذي، أبواب صفة القيامة وتفسير سورة إذا زلزلت- مسند أحمد 2/ 374 ) ۔\nیعنی زمین کو یہ قوت گویائی اللہ عطا فرمائے گا، اس لئے اس میں تعجب والی بات نہیں ہے، جس طرح انسانی اعضا میں اللہ تعالیٰ یہ قوت پیدا فرما دے گا، زمین کو بھی اللہ تعالیٰ متکلم بنا دے گا اور وہ اللہ کے حکم سے بولے گی۔",
+     "text": "اس لئے کہ تیرے رب نے اسے حکم دیا ہوگا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "因为你的养主已启示了它。"
+    }
+   }
+  },
+  {
+   "arabic": "يَوۡمَئِذٖ يَصۡدُرُ ٱلنَّاسُ أَشۡتَاتٗا لِّيُرَوۡاْ أَعۡمَٰلَهُمۡ",
+   "aya": 6,
+   "id": 6144,
+   "tafsir": {
+    "arabic_moyassar": "يومئذ يرجع الناس عن موقف الحساب أصنافًا متفرقين؛ ليريهم الله ما عملوا من السيئات والحسنات، ويجازيهم عليها."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "সেদিন মানুষ দলে দলে (হাশরের মাঠের দিকে) বের হয়ে আসবে, যাতে তাদেরকে তাদের কৃতকর্ম দেখানো যায়।"
+    },
+    "en": {
+     "footnotes": "[3] From the place of Judgment to see the consequences of their deeds, whether to Paradise or to Hell.",
+     "text": "On that Day all people will come forward in separate groups to be shown their deeds[3]."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Ce Jour-là, les hommes quitteront séparément le lieu de leur rassemblement afin que chacun découvre la rétribution de ses œuvres."
+    },
+    "id": {
+     "footnotes": "[922] Ada yang beruntung dan ada yang celaka.",
+     "text": "Pada hari itu manusia keluar dari kuburnya dalam keadaan berkelompok-kelompok,[922] untuk diperlihatkan kepada mereka (balasan) semua amal perbuatannya."
+    },
+    "ur": {
+     "footnotes": "[1] يَصْدُرُ، يَرْجِعُ ( لوٹیں گے ) یہ ورود کی ضد ہے۔ یعنی قبروں سے نکل کر موقف حساب کی طرف، یا حساب کے بعد جنت اور دوزخ کی طرف لوٹیں گے۔ أَشْتَاتًا، متفرق، یعنی ٹولیاں ٹولیاں۔ بعض بےخوف ہوں گے، بعض خوف زدہ، بعض کے رنگ سفید ہوں گے جیسے جنتوں کے ہوں گے اور بعض کے رنگ سیاہ، جو ان کے جہنمی ہونے کی علامت ہوگی۔ بعض کا رخ دائیں جانب ہوگا بعض کا بائیں جانب۔ یا یہ مختلف گروہ ادیان ومذاہب اور اعمال وافعال کی بنیاد پر ہوں گے۔\n[2] یہ متعلق ہے يَصْدُرُ کے یا اس کا تعلق أَوْحَى لَهَا سے ہے۔ یعنی زمین اپنی خبریں اس لئے بیان کرے گی تاکہ انسانوں کو ان کے اعمال دکھا دیئے جائیں۔",
+     "text": "اس روز لوگ مختلف جماعتیں ہو کر (واپس) لوٹیں[1] گے تاکہ انہیں ان کے اعمال دکھا دیئے جائیں.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "在那日，人们将纷纷地离散，以便他们得见自己行为〔的报应〕。"
+    }
+   }
+  },
+  {
+   "arabic": "فَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرٗا يَرَهُۥ",
+   "aya": 7,
+   "id": 6145,
+   "tafsir": {
+    "arabic_moyassar": "فمن يعمل وزن نملة صغيرة خيرًا، ير ثوابه في الآخرة، ومن يعمل وزن نملة صغيرة شرًا، ير عقابه في الآخرة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "অতএব, কেউ অণু পরিমাণ সৎকাজ করলে তা সে দেখতে পাবে।"
+    },
+    "en": {
+     "footnotes": "[4] Or a small ant’s weight.",
+     "text": "So whoever does an atom’s weight[4] of good will see it,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Quiconque aura accompli une once de bien le verra."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Maka barangsiapa mengerjakan kebaikan seberat zarah, niscaya dia akan melihat (balasan)nya."
+    },
+    "ur": {
+     "footnotes": "[1] پس وہ اس سے خوش ہوگا۔",
+     "text": "پس جس نے ذره برابر نیکی کی ہوگی وه اسے دیکھ لے گا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "行一个微尘重的善事者，将见其善报;"
+    }
+   }
+  },
+  {
+   "arabic": "وَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٖ شَرّٗا يَرَهُۥ",
+   "aya": 8,
+   "id": 6146,
+   "tafsir": {
+    "arabic_moyassar": "فمن يعمل وزن نملة صغيرة خيرًا، ير ثوابه في الآخرة، ومن يعمل وزن نملة صغيرة شرًا، ير عقابه في الآخرة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "(অনুরূপভাবে) কেউ অণু পরিমাণ অসৎকাজ করলে তাও সে দেখতে পাবে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and whoever does an atom’s weight of evil will see it."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Et quiconque aura commis une once de mal le verra."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan barangsiapa mengerjakan kejahatan seberat zarah, niscaya dia akan melihat (balasan)nya."
+    },
+    "ur": {
+     "footnotes": "[1] وہ اس پرسخت پشیمان اور مضطرب ہوگا۔ ذَرَّةٍ بعض کے نزدیک چیونٹی سے بھی چھوٹی چیز ہے۔ بعض اہل لغت کہتے ہیں، انسان زمین پر ہاتھ مارتا ہے، اس سے اس کے ہاتھ پرجو مٹی لگ جاتی ہے، وہ ذرہ ہے۔ بعض کےنزدیک سوراخ سے آنے والی سورج کی شعاعوں میں گرد وغبار کے جو ذرات نظر آتے ہیں، وہ ذرہ ہے۔ لیکن امام شوکانی نے پہلے معنی کو اولیٰ کہا ہے۔ امام مقاتل کہتے ہیں کہ یہ سورت ان دو آمیوں کے بیان میں نازل ہوئی ہے۔ جن میں سے ایک شخص، سائل کو تھوڑا سا صدقہ دینے میں تامل کرتا اور دوسرا شخص چھوٹا گناہ کرنے میں کوئی خوف محسوس نہ کرتا تھا۔ (فتح القدیر) ۔",
+     "text": "اور جس نے ذره برابر برائی کی ہوگی وه اسے دیکھ لے گا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "作一个微尘重的恶事者，将见其恶报。"
+    }
+   }
+  }
+ ],
+ "content_sha256": "sha256:276ea10a69a61001270e4cb8d3c3d9d5bbd956a93403cf41ccd5a518fa835384",
+ "name_ar": "الزلزلة",
+ "number": 99,
+ "schema": "balligh.library.quran.surah/1"
+}

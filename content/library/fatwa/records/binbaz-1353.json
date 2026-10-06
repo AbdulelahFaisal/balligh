@@ -1,0 +1,79 @@
+{
+ "answer": [
+  [
+   {
+    "kind": "strong",
+    "text": "الجواب:"
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "الذي يظهر لنا أنه لا مانع، تصلي، وتجهر في صلاة المغرب، والعشاء، والفجر كالرجل؛ لأن النبي -عليه الصلاة والسلام- قال: "
+   },
+   {
+    "kind": "hadith",
+    "text": "صلوا كما رأيتموني أصلي"
+   },
+   {
+    "kind": "text",
+    "text": " والأحكام على السواء، أحكام الرجال، والنساء على السواء إلا ما جاء الدليل يخصه إن جاء الدليل بتخصيص الرجل، أو المرأة، وإلا فالأصل أنهما في الأحكام، سواء صلاتهما واحدة، زكاتهما واحدة، حجهما واحد. "
+   }
+  ]
+ ],
+ "content_sha256": "sha256:8b82672d88926fd00ef81ff71a5a26b067e1e0e4e782b0dfd300226909a71dc7",
+ "id": "binbaz-1353",
+ "language": "ar",
+ "notes": [],
+ "question": [
+  [
+   {
+    "kind": "strong",
+    "text": "السؤال:"
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "هل تقرأ المرأة في الصلاة الجهرية جهرًا كما يقرأ الرجل حيث حدث خلاف بين أناس من طلبة العلم، وقال بعضهم: "
+   },
+   {
+    "kind": "hadith",
+    "text": "صلوا كما رأيتموني أصلي"
+   },
+   {
+    "kind": "text",
+    "text": " فهذه للمرأة، والرجل نرجو بيان الحق في ذلك؟"
+   }
+  ]
+ ],
+ "raw_sha256": "sha256:91a1fa2e8a6016f8af89a6f1eff47bd1bf1bbacac6878c402d3369a3960d0183",
+ "reuse_basis": "user_confirmed_permission",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.fatwa/2",
+ "source": {
+  "edition": null,
+  "publisher": "binbaz.org.sa",
+  "publisher_name": "موقع الشيخ ابن باز",
+  "retrieved_at": "2026-10-06T05:08:43+00:00",
+  "series": "فتاوى الجامع الكبير",
+  "url": "https://binbaz.org.sa/fatwas/1353/%D9%87%D9%84-%D8%AA%D8%B5%D9%84%D9%8A-%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%A9-%D8%AC%D9%87%D8%B1%D8%A7-%D9%83%D8%A7%D9%84%D8%B1%D8%AC%D9%84"
+ },
+ "source_categories": [
+  {
+   "id": "34",
+   "label": "القراءة في الصلاة",
+   "url": "https://binbaz.org.sa/categories/fiqhi/34"
+  },
+  {
+   "id": "252",
+   "label": "قضايا المرأة",
+   "url": "https://binbaz.org.sa/categories/objective/252"
+  }
+ ],
+ "source_record_id": "1353",
+ "title": "هل تصلي المرأة جهرا كالرجل؟",
+ "topic": "worship",
+ "translations": {},
+ "type": "fatwa"
+}

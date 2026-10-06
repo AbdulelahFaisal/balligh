@@ -1,0 +1,383 @@
+{
+ "ayah_count": 11,
+ "ayahs": [
+  {
+   "arabic": "إِذَا جَآءَكَ ٱلۡمُنَٰفِقُونَ قَالُواْ نَشۡهَدُ إِنَّكَ لَرَسُولُ ٱللَّهِۗ وَٱللَّهُ يَعۡلَمُ إِنَّكَ لَرَسُولُهُۥ وَٱللَّهُ يَشۡهَدُ إِنَّ ٱلۡمُنَٰفِقِينَ لَكَٰذِبُونَ",
+   "aya": 1,
+   "id": 5189,
+   "tafsir": {
+    "arabic_moyassar": "إذا حضر مجلسك المنافقون -أيها الرسول- قالوا بألسنتهم، نشهد إنك لرسول الله، والله يعلم إنك لرسول الله، والله يشهد إن المنافقين لكاذبون فيما أظهروه من شهادتهم لك، وحلفوا عليه بألسنتهم، وأضمروا الكفر به."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "হে রাসূল! যখন তোমার কাছে মুনাফিকরা আসে, তখন তারা বলে: ‘আমরা সাক্ষ্য দিচ্ছি যে, নিশ্চয় আপনি আল্লাহর রাসূল।’ এবং আল্লাহ জানেন যে, অবশ্যই তুমি তাঁর রাসূল। আর আল্লাহ সাক্ষ্য দিচ্ছেন যে, অবশ্যই মুনাফিকরা মিথ্যাবাদী।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "When the hypocrites come to you, they say, “We bear witness that you are indeed the Messenger of Allah” And Allah knows that you are indeed His Messenger, and Allah bears witness that the hypocrites are truly liars."
+    },
+    "fr": {
+     "footnotes": "[1] Lorsqu’ils prétendent croire en ta mission.",
+     "text": "Lorsque les hypocrites se présentent à toi, ils déclarent : « Nous attestons que tu es le Messager d’Allah. » Or, Allah sait parfaitement que tu es Son Messager et Il atteste que les hypocrites sont des menteurs[1]."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Apabila orang-orang munafik datang kepadamu (Muhammad), mereka berkata, \"Kami mengakui, bahwa engkau adalah Rasul Allah.\" Dan Allah mengetahui bahwa engkau benar-benar Rasul-Nya; dan Allah menyaksikan bahwa orang-orang munafik itu benar-benar pendusta."
+    },
+    "ur": {
+     "footnotes": "[1] منافقین سے مراد عبداللہ بن ابی اور اس کے ساتھی ہیں۔ یہ جب نبی (صلى الله عليه وسلم) کی خدمت میں حاضر ہوتے تو قسمیں کھا کھا کر کہتے کہ آپ (صلى الله عليه وسلم) اللہ کے رسول ہیں۔\n[2] یہ جملہ معترضہ ہے جو مضمون ماقبل کی تاکید کے لیے ہے جس کا اظہار منافقین بطور منافق کے کرتے تھے۔ اللہ تعالیٰ نے فرمایا یہ تو ویسے ہی زبان سے کہتے ہیں، ان کے دل اس یقین سے خالی ہیں، لیکن ہم جانتے ہیں کہ آپ (صلى الله عليه وسلم) واقعی اللہ کے رسول ہیں۔\n[3] اس بات میں کہ وہ دل سے آپ (صلى الله عليه وسلم) کی رسالت کی گواہی دیتے ہیں۔ یعنی دل سے گواہی نہیں دیتے صرف زبان سے دھوکہ دینے کے لیے اظہار کرتے ہیں۔",
+     "text": "تیرے پاس جب منافق آتے ہیں تو کہتے ہیں کہ ہم اس بات کے گواه ہیں کہ بیشک آپ اللہ کے رسول ہیں[1] ، اور اللہ جانتا ہے کہ یقیناً آپ اس کے رسول ہیں[2]۔ اور اللہ گواہی دیتا ہے کہ یہ منافق قطعاً جھوٹے ہیں.[3]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "当伪信者来见你的时候，他们说：“我们作证，你确是安拉的使者。”安拉知道你确是他的使者，安拉作证，伪信的人们确是说谎的。"
+    }
+   }
+  },
+  {
+   "arabic": "ٱتَّخَذُوٓاْ أَيۡمَٰنَهُمۡ جُنَّةٗ فَصَدُّواْ عَن سَبِيلِ ٱللَّهِۚ إِنَّهُمۡ سَآءَ مَا كَانُواْ يَعۡمَلُونَ",
+   "aya": 2,
+   "id": 5190,
+   "tafsir": {
+    "arabic_moyassar": "إنما جعل المنافقون أيمانهم التي أقسموها سترة ووقاية لهم من المؤاخذة والعذاب، ومنعوا أنفسهم، ومنعوا الناس عن طريق الله المستقيم، إنهم بئس ما كانوا يعملون؛ ذلك لأنهم آمنوا في الظاهر، ثم كفروا في الباطن، فختم الله على قلوبهم بسبب كفرهم، فهم لا يفهمون ما فيه صلاحهم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তারা তাদের (ঈমানের দাবির ওপর কৃত) শপথগুলোকে ঢাল হিসেবে ব্যবহার করেছে। অতঃপর (এর আড়ালে মানুষকে) তারা আল্লাহর পথ থেকে বিরত রেখেছে। নিশ্চয় তারা যা করে এসেছে, তা কতই না নিকৃষ্ট!"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "They have taken their oaths as a shield in order to hinder people from the way of Allah. Evil indeed is what they do!"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "S’abritant derrière leurs serments, ils détournent les hommes de la voie d’Allah. Odieux comportement que le leur !"
+    },
+    "id": {
+     "footnotes": "[842] Mereka bersumpah bahwa mereka beriman untuk menjaga harta dan diri mereka agar jangan dibunuh atau ditawan atau dirampas hartanya.",
+     "text": "Mereka menjadikan sumpah-sumpah mereka sebagai perisai,[842] lalu mereka menghalang-halangi (manusia) dari jalan Allah. Sungguh, betapa buruknya apa yang telah mereka kerjakan."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی وہ جو قسم کھا کر کہتے ہیں کہ وہ تمہاری طرح مسلمان ہیں اور یہ کہ محمد (صلى الله عليه وسلم) اللہ کے رسول ہیں، انہوں نے اپنی اس قسم کو ڈھال بنا رکھا ہے اس کے ذریعے سے وہ تم سے بچے رہتے ہیں اور کافروں کی طرح یہ تمہاری تلواروں کی زد میں نہیں آتے۔\n[2] دوسرا ترجمہ ہے کہ انہوں نے شک وشبہات پیدا کرکے لوگوں کو اللہ کے راستے سے روکا۔",
+     "text": "انہوں نے اپنی قسموں کو ڈھال بنا رکھا ہے[1] پس اللہ کی راه سے رک گئے[2] بیشک برا ہے وه کام جو یہ کر رہے ہیں."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们以自己的盟誓为护符，妨碍主道。他们的行为真恶劣！"
+    }
+   }
+  },
+  {
+   "arabic": "ذَٰلِكَ بِأَنَّهُمۡ ءَامَنُواْ ثُمَّ كَفَرُواْ فَطُبِعَ عَلَىٰ قُلُوبِهِمۡ فَهُمۡ لَا يَفۡقَهُونَ",
+   "aya": 3,
+   "id": 5191,
+   "tafsir": {
+    "arabic_moyassar": "إنما جعل المنافقون أيمانهم التي أقسموها سترة ووقاية لهم من المؤاخذة والعذاب، ومنعوا أنفسهم، ومنعوا الناس عن طريق الله المستقيم، إنهم بئس ما كانوا يعملون؛ ذلك لأنهم آمنوا في الظاهر، ثم كفروا في الباطن، فختم الله على قلوبهم بسبب كفرهم، فهم لا يفهمون ما فيه صلاحهم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১) তাদের কল্যাণ ও হিদায়েতের পথ।",
+     "text": "এটা এ জন্য যে, তারা (মুনাফিকীর ছলে) ঈমান এনেছে, তারপর কুফরী করেছে। ফলে তাদের অন্তরসমূহে মোহর লাগিয়ে দেয়া হয়েছে। তাই তারা (১) বুঝতে পারছে না।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "That is because they believed, then disbelieved; therefore their hearts have been sealed, so they do not understand."
+    },
+    "fr": {
+     "footnotes": "[2] Ou : ils n’ont, en effet, embrassé la foi qu’extérieurement, étant au fond d’eux-mêmes mécréants.",
+     "text": "Ils ont en effet embrassé puis abjuré la foi[2]. Un sceau a donc été apposé sur leurs cœurs, les privant de tout entendement."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Yang demikian itu karena sesungguhnya mereka telah beriman, kemudian menjadi kafir, maka hati mereka dikunci, sehingga mereka tidak dapat mengerti."
+    },
+    "ur": {
+     "footnotes": "[1] اس سے معلوم ہوا کہ منافقین بھی صریح کافر ہیں۔",
+     "text": "یہ اس سبب سے ہے کہ یہ ایمان ﻻکر پھر کافر ہوگئے[1] پس ان کے دلوں پر مہر کر دی گئی۔ اب یہ نہیں سمجھتے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "这是因为他们归信了，然后他们又叛教了，他们的心就被封闭了，故他们不明理。"
+    }
+   }
+  },
+  {
+   "arabic": "۞ وَإِذَا رَأَيۡتَهُمۡ تُعۡجِبُكَ أَجۡسَامُهُمۡۖ وَإِن يَقُولُواْ تَسۡمَعۡ لِقَوۡلِهِمۡۖ كَأَنَّهُمۡ خُشُبٞ مُّسَنَّدَةٞۖ يَحۡسَبُونَ كُلَّ صَيۡحَةٍ عَلَيۡهِمۡۚ هُمُ ٱلۡعَدُوُّ فَٱحۡذَرۡهُمۡۚ قَٰتَلَهُمُ ٱللَّهُۖ أَنَّىٰ يُؤۡفَكُونَ",
+   "aya": 4,
+   "id": 5192,
+   "tafsir": {
+    "arabic_moyassar": "وإذا نظرت إلى هؤلاء المنافقين تعجبك هيئاتهم ومناظرهم، وإن يتحدثوا تسمع لحديثهم ; لفصاحة ألسنتهم، وهم لفراغ قلوبهم من الإيمان، وعقولهم من الفهم والعلم النافع كالأخشاب الملقاة على الحائط، التي لا حياة فيها، يظنون كل صوت عال واقعًا عليهم وضارًا بهم؛ لعلمهم بحقيقة حالهم، ولفرط جبنهم، والرعب الذي تمكَّن من قلوبهم، هم الأعداء الحقيقيون شديدو العداوة لك وللمؤمنين، فخذ حذرك منهم، أخزاهم الله وطردهم من رحمته، كيف ينصرفون عن الحق إلى ما هم فيه من النفاق والضلال؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তারা (যখন তোমার বৈঠকে বসে) যেন দেয়ালে ঠেস দেয়া (নিষ্প্রাণ) কাঠের গুঁড়ি (অপদার্থ)। তারা প্রত্যেক আওয়াজকেই নিজেদের বিরুদ্ধে মনে করে। তারাই প্রকৃত শত্রু; অতএব, তাদের সম্পর্কে সতর্ক থাকো। আল্লাহ তাদের ধ্বংস করুন! তারা কীভাবে সত্য থেকে ফিরিয়ে নেওয়া হচ্ছে!\""
+    },
+    "en": {
+     "footnotes": "[1] They are like bodies with empty minds and hearts.",
+     "text": "When you see them, their outward appearance pleases you, and when they speak, you listen to what they say. But they are like planks of wood leaned [against the wall][1]. They deem every cry to be against them. They are the enemy, so beware of them. May Allah destroy them; how are they deluded?"
+    },
+    "fr": {
+     "footnotes": "[3] Puisqu’ils ne sont pas habités par la foi. Littéralement : on dirait des morceaux de bois appuyés contre un mur.",
+     "text": "Celui qui les voit est impressionné par leur apparence et celui qui les écoute est séduit par leurs paroles. Ce ne sont pourtant que des corps sans vie[3]. Au moindre cri, ils pensent avoir été démasqués. Voilà vos pires ennemis. Méfie-toi d’eux ! Qu’ils soient maudits par Allah ! Comment peuvent-ils se détourner de la foi !"
+    },
+    "id": {
+     "footnotes": "[843] Mereka diumpamakan seperti kayu yang tersandar, maksudnya ialah untuk menyatakan sifat mereka yang jelek meskipun tubuh mereka bagus-bagus dan mereka pandai berbicara tetapi sebenarnya otak mereka adalah kosong tidak dapat memahami kebenaran.",
+     "text": "Dan apabila engkau melihat mereka, tubuh mereka mengagumkanmu. Dan jika mereka berkata, engkau mendengarkan tutur katanya. Mereka seakan-akan kayu yang tersandar.[843] Mereka mengira bahwa setiap teriakan ditujukan kepada mereka. Mereka itulah musuh (yang sebenarnya), maka waspadalah terhadap mereka; semoga Allah membinasakan mereka. Bagaimanakah mereka dapat dipalingkan (dari kebenaran)?"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی ان کے حسن وجمال اور رونق وشادابی کی وجہ سے۔\n[2] یعنی زبان کی فصاحت وبلاغت کی وجہ سے۔\n[3] یعنی اپنی درازئی قد اور حسن ورعنائی، عدم فہم اور قلت خیر میں ایسے ہیں گویا کہ دیوار پر لگائی ہوئی لکڑیاں ہیں جو دیکھنے والوں کو تو بھلی لگتی ہیں لیکن کسی کو فائدہ نہیں پہنچا سکتیں۔ یا یہ مبتدا محذوف کی خبر ہے اور مطلب ہے کہ یہ رسول اللہ (صلى الله عليه وسلم) کی مجلس میں اس طرح بیٹھتے ہیں جیسے دیوار کے ساتھ لگی ہوئی لکڑیاں ہیں جو کسی بات کو سمجھتی ہیں نہ جانتی ہیں۔ (فتح القدیر)\n[4] یعنی بزدل ایسے ہیں کہ کوئی زور دار آواز سن لیں تو سمجھتے ہیں کہ ہم پر کوئی آفت نازل ہوگئی ہے۔ یا گھبرا اٹھتے ہیں کہ ہمارے خلاف کسی کاروائی کا آغاز تو نہیں ہورہا ہے۔ جیسے چور اور خائن کا دل اندر سے دھک دھک کر رہا ہوتا ہے۔",
+     "text": "جب آپ انہیں دیکھ لیں تو ان کے جسم آپ کو خوشنما معلوم ہوں[1] ، یہ جب باتیں کرنے لگیں تو آپ ان کی باتوں پر (اپنا) کان لگائیں[2]، گویا کہ یہ لکڑیاں ہیں دیوار کے سہارے سے لگائی ہوئیں[3]، ہر (سخت) آواز کو اپنے خلاف سمجھتے ہیں[4]۔ یہی حقیقی دشمن ہیں ان سے بچو اللہ انہیں غارت کرے کہاں سے پھرے جاتے ہیں."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "当你看见他们的时候，他们的体格，将使你赞叹。如果他们说话，你就静听他们的言辞，他们好像木偶样，他们以为一切吶喊，都是对他们而发的。他们确是敌人，故你当谨防他们。愿安拉诛灭他们！他们是如何悖谬的呢！"
+    }
+   }
+  },
+  {
+   "arabic": "وَإِذَا قِيلَ لَهُمۡ تَعَالَوۡاْ يَسۡتَغۡفِرۡ لَكُمۡ رَسُولُ ٱللَّهِ لَوَّوۡاْ رُءُوسَهُمۡ وَرَأَيۡتَهُمۡ يَصُدُّونَ وَهُم مُّسۡتَكۡبِرُونَ",
+   "aya": 5,
+   "id": 5193,
+   "tafsir": {
+    "arabic_moyassar": "وإذا قيل لهؤلاء المنافقين: أقبلوا تائبين معتذرين عمَّا بدر منكم من سيِّئ القول وسفه الحديث، يستغفر لكم رسول الله ويسأل الله لكم المغفرة والعفو عن ذنوبكم، أمالوا رؤوسهم وحركوها استهزاءً واستكبارًا، وأبصرتهم -أيها الرسول- يعرضون عنك، وهم مستكبرون عن الامتثال لما طُلِب إليهم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর এ সব মুনাফিককে যখন বলা হয়, ‘এসো, আল্লাহর রাসূল তোমাদের (প্রকাশিত অপরাধের) জন্য ক্ষমা প্রার্থনা করবেন’, তখন তারা অবজ্ঞাভরে তাদের মাথা ঘুরিয়ে নেয়। আর তুমি তাদেরকে দেখতে পাবে, তারা অহংকারভরে বিমুখ হয়ে আছে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "When it is said to them, “Come, so that the Messenger of Allah may seek forgiveness for you”, they shake their heads, and you see them turning away in arrogance."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Lorsqu’il leur est dit : « Venez, afin que le Messager implore pour vous le pardon d’Allah », ils tournent la tête et on les voit se détourner avec dédain."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan apabila dikatakan kepada mereka, \"Marilah (beriman), agar Rasulullah memohonkan ampunan bagimu,\" mereka membuang muka dan engkau lihat mereka berpaling dengan menyombongkan diri."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی استغفار سے اعراض کرتے ہوئے اپنے سروں کو موڑ لیتے ہیں۔\n[2] یعنی کہنے والے کی بات سے منہ موڑ لیں گے یا رسول اللہ (صلى الله عليه وسلم) سے اعراض کر لیں گے۔",
+     "text": "اور جب ان سے کہا جاتا ہے کہ آؤ تمہارے لیے اللہ کے رسول استغفار کریں تو اپنے سر مٹکاتے ہیں[1] اور آپ دیکھیں گے کہ وه تکبر کرتے ہوئے رک جاتے ہیں.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "如果有人对他们说：“你们来〔道歉〕吧，安拉的使者将为你们求饶。”他们却掉头不顾，你见他们妄自尊大地阻扰，〔不肯道歉。〕"
+    }
+   }
+  },
+  {
+   "arabic": "سَوَآءٌ عَلَيۡهِمۡ أَسۡتَغۡفَرۡتَ لَهُمۡ أَمۡ لَمۡ تَسۡتَغۡفِرۡ لَهُمۡ لَن يَغۡفِرَ ٱللَّهُ لَهُمۡۚ إِنَّ ٱللَّهَ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡفَٰسِقِينَ",
+   "aya": 6,
+   "id": 5194,
+   "tafsir": {
+    "arabic_moyassar": "سواء على هؤلاء المنافقين أطلبت لهم المغفرة من الله -أيها الرسول- أم لم تطلب لهم، إن الله لن يصفح عن ذنوبهم أبدًا ; لإصرارهم على الفسق ورسوخهم في الكفر. إن الله لا يوفِّق للإيمان القوم الكافرين به، الخارجين عن طاعته."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "হে রাসূল! তুমি তাদের জন্য ক্ষমা প্রার্থনা করো অথবা না করো, উভয়টি তাদের ক্ষেত্রে সমান। আল্লাহ তাদেরকে কখনোই ক্ষমা করবেন না। অবশ্যই আল্লাহ পাপাচারী সম্প্রদায়কে হিদায়াত দেন না।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "It is the same to them whether you seek forgiveness for them or not, Allah will never forgive them. Indeed, Allah does not guide the wicked people."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Que tu implores ou non le pardon d’Allah en leur faveur, jamais Allah ne leur pardonnera. Allah, en vérité, ne saurait guider ceux qui Lui refusent obéissance."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sama saja bagi mereka, engkau (Muhammad) mohonkan ampunan untuk mereka atau tidak engkau mohonkan ampunan bagi mereka, Allah tidak akan mengampuni mereka; sesungguhnya Allah tidak akan memberi petunjuk kepada orang-orang yang fasik."
+    },
+    "ur": {
+     "footnotes": "[1] اپنے نفاق پر اصرار اور کفر پر استمرار کی وجہ سے وہ ایسے مقام پر پہنچ گئے جہاں استغفار اور عدم استغفار ان کے حق میں برابر ہے۔\n[2] اگر اسی حالت نفاق میں وہ مر گئے۔ ہاں اگر وہ زندگی میں کفر ونفاق سے تائب ہو جائیں تو بات اور ہے، پھر ان کی مغفرت ممکن ہے۔",
+     "text": "ان کے حق میں آپ کا استغفار کرنا اور نہ کرنا دونوں برابر ہے[1] ۔ اللہ تعالیٰ انہیں ہر گز نہ بخشے گا[2]۔ بیشک اللہ تعالیٰ (ایسے) نافرمان لوگوں کو ہدایت نہیں دیتا."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你为他们求饶与否，这在他们，是一样的。安拉绝不赦宥他们，安拉必定不引导悖逆的民众。"
+    }
+   }
+  },
+  {
+   "arabic": "هُمُ ٱلَّذِينَ يَقُولُونَ لَا تُنفِقُواْ عَلَىٰ مَنۡ عِندَ رَسُولِ ٱللَّهِ حَتَّىٰ يَنفَضُّواْۗ وَلِلَّهِ خَزَآئِنُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَلَٰكِنَّ ٱلۡمُنَٰفِقِينَ لَا يَفۡقَهُونَ",
+   "aya": 7,
+   "id": 5195,
+   "tafsir": {
+    "arabic_moyassar": "هؤلاء المنافقون هم الذين يقولون لأهل «المدينة» : لا تنفقوا على أصحاب رسول الله من المهاجرين حتى يتفرقوا عنه. ولله وحده خزائن السموات والأرض وما فيهما من أرزاق، يعطيها من يشاء ويمنعها عمَّن يشاء، ولكن المنافقين لا يفهمون أن الرزق من عند الله؛ لجهلهم به سبحانه وتعالى."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তারাই (এসব মুনাফিকরাই) বলে: যারা আল্লাহর রাসূলের কাছে আছে, তোমরা তাদের জন্য খরচ করো না; যতক্ষণ না তারা তার কাছ থেকে সরে যায়। আর আসমানসমূহ ও জমিনের ধন-ভাণ্ডার তো আল্লাহরই; কিন্তু মুনাফিকরা তা বুঝে না।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "They are those who say, “Do not spend on those who are with Allah’s Messenger so that they may desert him. But to Allah belong the treasures of the heavens and earth, but the hypocrites do not understand."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Ce sont eux qui disent : « Cessez de subvenir aux besoins des compagnons du Messager d’Allah afin qu’ils se séparent de lui. » Or, c’est à Allah qu’appartiennent les trésors des cieux et de la terre, ce que les hypocrites ne peuvent comprendre."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Mereka yang berkata (kepada orang-orang Ansar), \"Janganlah kamu bersedekah kepada orang-orang (Muhajirin) yang ada di sisi Rasulullah sampai mereka bubar (meninggalkan Rasulullah).\" Padahal milik Allah lah perbendaharaan langit dan bumi, tetapi orang-orang munafik itu tidak memahami."
+    },
+    "ur": {
+     "footnotes": "[1] ایک غزوے میں (جسے اہل سیر غزوۂ مریسیع یا غزوۂ بنی المصطلق کہتے ہیں) ایک مہاجر اور ایک انصاری کا جھگڑا ہوگیا، دونوں نے اپنی اپنی حمایت کے لیے انصار اور مہاجرین کو پکارا، جس پر عبداللہ بن ابی (منافق) نے انصار سے کہا کہ تم نے مہاجرین کی مدد کی اور اور ان کو اپنے ساتھ رکھا، اب دیکھ لو، اس کا نتیجہ سامنے آرہا ہے یعنی یہ اب تمہارا کھا کر تمہیں پر غرا رہے ہیں۔ ان کا علاج تو یہ ہے کہ ان پر خرچ کرنا بند کر دو، یہ اپنے آپ تتر بتر ہو جائیں گے۔ نیز اس نے یہ بھی کہا کہ ہم (جو عزت والے ہیں) ان ذلیلوں (مہاجروں) کو مدینے سے نکال دیں گے۔ حضرت زید بن ارقم (رضي الله عنه) نے یہ کلمات خبیثہ سن لیے اور انہوں نے رسول اللہ (صلى الله عليه وسلم) کو آکر بتلایا، آپ (صلى الله عليه وسلم) نے عبداللہ بن ابی کو بلا کر پوچھا تو اس نے صاف انکار کر دیا۔ جس پر حضرت زید بن ارقم (رضي الله عنه) ، کو سخت ملال ہوا، اللہ تعالیٰ نے حضرت زید بن ارقم (رضي الله عنه) ، کی صداقت کے اظہار کے لیے سورۂ منافقون نازل فرما دی، جس میں ابن ابی کے کردار کو پوری طرح طشت ازبام کر دیا گیا۔ (صحيح البخاري، تفسير سورة المنافقين)۔\n[2] مطلب یہ ہے کہ مہاجرین کا رازق اللہ تعالیٰ ہے اس لیے کہ رزق کے خزانے اسی کے پاس ہیں، وہ جس کو جتنا چاہے دے اور جس سے چاہے روک لے۔\n[3] منافق اس حقیقت کو نہیں جانتے، اس لیے وہ سمجھتے ہیں کہ انصار اگر مہاجرین کی طرف دست تعاون دراز نہ کریں تو وہ بھوکے مر جائیں گے۔",
+     "text": "یہی وه ہیں جو کہتے ہیں کہ جو لوگ رسول اللہ کے پاس ہیں ان پر کچھ خرچ نہ کرو یہاں تک کہ وه ادھر ادھر ہو جائیں[1] اور آسمان وزمین کے کل خزانے اللہ تعالیٰ کی ملکیت ہیں[2] لیکن یہ منافق بے سمجھ ہیں.[3]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们是那些人，说：“你们不要供给安拉的使者左右的人，以便他们离散。”天地的库藏，只是安拉的，伪信的人们却不明理。"
+    }
+   }
+  },
+  {
+   "arabic": "يَقُولُونَ لَئِن رَّجَعۡنَآ إِلَى ٱلۡمَدِينَةِ لَيُخۡرِجَنَّ ٱلۡأَعَزُّ مِنۡهَا ٱلۡأَذَلَّۚ وَلِلَّهِ ٱلۡعِزَّةُ وَلِرَسُولِهِۦ وَلِلۡمُؤۡمِنِينَ وَلَٰكِنَّ ٱلۡمُنَٰفِقِينَ لَا يَعۡلَمُونَ",
+   "aya": 8,
+   "id": 5196,
+   "tafsir": {
+    "arabic_moyassar": "يقول هؤلاء المنافقون: لئن عُدْنا إلى «المدينة» ليخرجنَّ فريقنا الأعزُّ منها فريق المؤمنين الأذل، ولله تعالى العزة ولرسوله صلى الله عليه وسلم، وللمؤمنين بالله ورسوله لا لغيرهم، ولكن المنافقين لا يعلمون ذلك؛ لفرط جهلهم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(২) আব্দুল্লাহ ইবনু উবাই ও তার সাথীরা।\n (৩) মুহাম্মাদ সাল্লাল্লাহু ‘আলাহি ওয়া সাল্লাম ও তার সাথীদেরকে।",
+     "text": "তারা বলে: ‘(এবার) যদি আমরা মদীনায় ফিরে যাই তাহলে সেখান থেকে (আমাদের) শক্তিশালীরা(২) অবশ্যই দুর্বলদেরকে(৩) বহিষ্কার করবে।’ অথচ সকল মর্যাদা তো আল্লাহর, তাঁর রাসূলের ও মু’মিনদেরই; কিন্তু মুনাফিকরা তা জানে না।"
+    },
+    "en": {
+     "footnotes": "[2] Referring to the notorious head of the hypocrites in Madinah, Abdullah ibn ’Ubayy, who uttered such words about the Prophet (عليه السلام) and his Companions.",
+     "text": "They[2] say, “When we return to Madinah, the mightier will surely expel the weaker therefrom.” In fact, all might belongs to Allah and to His Messenger, and to the believers, but the hypocrites do not know."
+    },
+    "fr": {
+     "footnotes": "[4] Eux-mêmes, selon leurs prétentions.\n[5] Les croyants, toujours selon eux.",
+     "text": "Ils prétendent : « Lorsque nous serons de retour à Médine, les plus puissants[4] en expulseront les plus faibles[5]. » Or, c’est Allah qui détient la vraie puissance, ainsi que Son Messager et les croyants, ce dont les hypocrites ne sont pas conscients."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Mereka berkata, \"Sungguh, jika kita kembali ke Madinah (kembali dari perang Bani Mustalik), pastilah orang yang kuat akan mengusir orang-orang yang lemah dari sana.\" Padahal kekuatan itu hanyalah bagi Allah, Rasul-Nya dan bagi orang-orang mukmin, tetapi orang-orang munafik itu tidak mengetahui."
+    },
+    "ur": {
+     "footnotes": "[1] اس کا کہنے والا رئیس المنافقین عبداللہ بن ابی تھا، عزت والے سے اس کی مراد تھی، وہ خود اور اس کے رفقاء اور ذلت والے سے (نعوذباللہ) رسول اللہ (صلى الله عليه وسلم) اور مسلمان۔\n[2] یعنی عزت اور غلبہ صرف ایک اللہ کے لیے ہے اور پھر وہ اپنی طرف سے جس کو چاہے عزت وغلبہ عطا فرما دے۔ چنانچہ وہ اپنے رسولوں اور ان پر ایمان لانے والوں کو عزت اور سرفرازیاں عطا فرماتا ہے نہ کہ ان کو جو اس کے نافرمان ہوں۔ یہ منافقین کے قول کی تردید فرمائی کہ عزتوں کا مالک صرف اللہ تعالیٰ ہے اور معزز بھی وہی ہے جسے وہ معزز سمجھے، نہ کہ وہ جو اپنے آپ کو معزز یا اہل دنیا جس کو معزز سمجھیں اور اللہ کے ہاں معزز صرف اور صرف اہل ایمان ہوں گے، کافر اور اہل نفاق نہیں۔\n[3] اس لیے ایسے کام نہیں کرتے جو ان کے لیے مفید ہیں اور ان چیزوں سے نہیں بچتے جو ان کے لیے نقصان دہ ہیں۔",
+     "text": "یہ کہتے ہیں کہ اگر ہم اب لوٹ کر مدینہ جائیں گے تو عزت واﻻ وہاں سے ذلت والے کو نکال دے گا[1] ۔ سنو! عزت تو صرف اللہ تعالیٰ کے لیے اور اس کے رسول کے لیے اور ایمان داروں کے لیے ہے[2] لیکن یہ منافق جانتے نہیں.[3]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们说：“如果我们返回麦地那，尊荣者必将卑贱者驱逐出城。”尊荣只是安拉和他的使者以及信士们的，而伪信的人们却不知道！"
+    }
+   }
+  },
+  {
+   "arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تُلۡهِكُمۡ أَمۡوَٰلُكُمۡ وَلَآ أَوۡلَٰدُكُمۡ عَن ذِكۡرِ ٱللَّهِۚ وَمَن يَفۡعَلۡ ذَٰلِكَ فَأُوْلَٰٓئِكَ هُمُ ٱلۡخَٰسِرُونَ",
+   "aya": 9,
+   "id": 5197,
+   "tafsir": {
+    "arabic_moyassar": "يا أيها الذين صدَّقوا الله ورسوله وعملوا بشرعه، لا تَشْغَلْكم أموالكم ولا أولادكم عن عبادة الله وطاعته، ومن تشغَله أمواله وأولاده عن ذلك، فأولئك هم المغبونون حظوظهم من كرامة الله ورحمته."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "হে তোমরা যারা ঈমান এনেছ! তোমাদের ধন-সম্পদ ও সন্তান- সন্ততি যেন তোমাদেরকে আল্লাহর স্মরণ (সালাত ইত্যাদি) থেকে উদাসীন না করে। আর যারা এরূপ করে তারাই তো ক্ষতিগ্রস্ত।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "O you who believe, do not let your wealth and your children distract you from Allah’s remembrance. For whoever does that, it is they who are the losers."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Vous qui croyez ! Ne laissez pas vos biens et vos enfants vous détourner du souvenir d’Allah. Ceux qui se laissent ainsi distraire sont perdus."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Wahai orang-orang yang beriman! Janganlah harta bendamu dan anak-anakmu melalaikan kamu dari mengingat Allah. Dan barangsiapa berbuat demikian, maka mereka itulah orang-orang yang rugi."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی مال اور اولاد کی محبت تم پر اتنی غالب نہ آجائے کہ تم اللہ کے بتلائے ہوئے احکام وفرائض سے غافل ہو جاؤ اور اللہ کی قائم کردہ حلال وحرام کی حدوں کی پروا نہ کرو۔ منافقین کے ذکر کے فوراً بعد اس تنبیہ کا مقصد یہ ہے کہ یہ منافقین کا کردار ہے جو انسان کو خسارے میں ڈالنے والا ہے۔ اہل ایمان کا کرداراس کے برعکس ہوتا ہے اور وہ یہ ہے کہ وہ ہر وقت اللہ کو یاد رکھتے ہیں، یعنی اس کے احکام وفرائض کی پابندی اور حلال وحرام کے درمیان تمیز کرتے ہیں۔",
+     "text": "اے مسلمانو! تمہارے مال اور تمہاری اوﻻد تمہیں اللہ کے ذکر سے غافل نہ کر دیں[1] ۔ اور جو ایسا کریں وه بڑے ہی زیاں کار لوگ ہیں."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "归信的人们啊！你们的财产和子女，不要使你们忽略记念安拉。谁那样做，这等人，他们是亏折的。"
+    }
+   }
+  },
+  {
+   "arabic": "وَأَنفِقُواْ مِن مَّا رَزَقۡنَٰكُم مِّن قَبۡلِ أَن يَأۡتِيَ أَحَدَكُمُ ٱلۡمَوۡتُ فَيَقُولَ رَبِّ لَوۡلَآ أَخَّرۡتَنِيٓ إِلَىٰٓ أَجَلٖ قَرِيبٖ فَأَصَّدَّقَ وَأَكُن مِّنَ ٱلصَّٰلِحِينَ",
+   "aya": 10,
+   "id": 5198,
+   "tafsir": {
+    "arabic_moyassar": "وأنفقوا -أيها المؤمنون- بالله ورسوله بعض ما أعطيناكم في طرق الخير، مبادرين بذلك من قبل أن يجيء أحدكم الموت، ويرى دلائله وعلاماته، فيقول نادمًا: ربِّ هلا أمهلتني، وأجَّلت موتي إلى وقت قصير، فأتصدق من مالي، وأكن من الصالحين الأتقياء."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর আমি (আল্লাহ) তোমাদেরকে যে রিযক দিয়েছি, তা থেকে ব্যয় করো, তোমাদের মৃত্যু আসার পূর্বে। কেননা (মৃত্যু আসলে) তখন সে বলবে: হে আমার রব, যদি আপনি আমাকে আরো কিছু কাল পর্যন্ত অবকাশ দিতেন, তাহলে আমি দান-সাদাকা করতাম এবং সৎকর্মপরায়ণদের অন্তর্ভুক্ত হতাম।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "And spend from what We have provided for you before death comes to one of you, then he would say, “My Lord, If only You had delayed me for a short while, so that I would give in charity and be one of the righteous.”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Offrez par charité une partie de ce que Nous vous avons accordé avant que la mort ne se présente à l’un de vous et qu’il ne dise : « Puisses-Tu, Seigneur, m’accorder ne serait-ce qu’un bref délai. Je ferai alors la charité et agirai en homme vertueux ! »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan infakkanlah sebagian dari apa yang telah Kami berikan kepadamu sebelum kematian datang kepada salah seorang di antara kamu; lalu dia berkata (menyesali), \"Ya Tuhanku, sekiranya Engkau berkenan menunda (kematian)ku sedikit waktu lagi, maka aku dapat bersedekah dan aku akan termasuk orang-orang yang saleh.\""
+    },
+    "ur": {
+     "footnotes": "[1] خرچ کرنے سے مراد زکٰوۃ کی ادائیگی اور دیگر امور خیر میں خرچ کرنا ہے۔\n[2] اس سے معلوم ہوا کہ زکٰوۃ کی ادائیگی اور انفاق فی سبیل اللہ میں اور اسی طرح اگر حج کی استطاعت ہو تو اس کی ادائیگی میں قطعاً تاخیر نہیں کرنی چاہیے۔ اس لیے کہ موت کا کوئی پتہ نہیں کس وقت آجائے؟ اور یہ فرائض اس کے ذمے رہ جائیں کیونکہ موت کے وقت آرزو کرنے کا کوئی فائدہ نہیں ہوگا۔",
+     "text": "اور جو کچھ ہم نے تمہیں دے رکھا ہے اس میں سے (ہماری راه میں) اس سے پہلے خرچ کرو کہ تم میں سے کسی کو موت آ جائے تو کہنے لگے اے میرے پروردگار! مجھے تو تھوڑی دیر کی مہلت کیوں نہیں[1] دیتا؟ کہ میں صدقہ کروں اور نیک لوگوں میں سے ہو جاؤں.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "在死亡降临你们的一个人之前，你们当分舍我赐予你们的，以免他说：“我的养主啊！你为何不让我延迟到一个临近的定期，以便我有所施舍，而成为善人呢？”"
+    }
+   }
+  },
+  {
+   "arabic": "وَلَن يُؤَخِّرَ ٱللَّهُ نَفۡسًا إِذَا جَآءَ أَجَلُهَاۚ وَٱللَّهُ خَبِيرُۢ بِمَا تَعۡمَلُونَ",
+   "aya": 11,
+   "id": 5199,
+   "tafsir": {
+    "arabic_moyassar": "ولن يؤخر الله نفسًا إذا جاء وقت موتها، وانقضى عمرها، والله سبحانه خبير بالذي تعملونه من خير وشر، وسيجازيكم على ذلك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর আল্লাহ কখনো কোন প্রাণকেই অবকাশ দিবেন না, যখন তার (মৃত্যুর) নির্ধারিত সময় এসে যাবে। আর তোমরা যা আমল করো, সে সম্পর্কে আল্লাহ সম্যক অবহিত।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "But Allah will never delay a soul when its appointed time comes, and Allah is All-Aware of what you do."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Mais Allah, qui est parfaitement informé de vos œuvres, n’accorde jamais de délai à une âme dont le terme est arrivé."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan Allah tidak akan menunda (kematian) seseorang apabila waktu kematiannya telah datang. Dan Allah Mahateliti terhadap apa yang kamu kerjakan."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "اور جب کسی کا مقرره وقت آجاتا ہے پھر اسے اللہ تعالیٰ ہر گز مہلت نہیں دیتا اور جو کچھ تم کرتے ہو اس سے اللہ تعالیٰ بخوبی باخبر ہے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "但寿限一到，安拉绝不让任何人延迟，安拉是彻知你们的行为的。"
+    }
+   }
+  }
+ ],
+ "content_sha256": "sha256:c5e394af5fb37b4518b6ab1edda812e25c3c3fd1c7c5595de7c45991401982dc",
+ "name_ar": "المنافقون",
+ "number": 63,
+ "schema": "balligh.library.quran.surah/1"
+}

@@ -1,0 +1,184 @@
+{
+ "attribution": "رواه البخاري",
+ "content_sha256": "sha256:dc1627623facd2c9879af1406166de41997d9d62769f682fc863ca5cdadcb837",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يُخبرُ النبيُّ صلى الله عليه وسلم أنَّ أسعد الناس بشفاعتِه يوم القيامة هو من قال: \"لا إله إلا الله\" خالصًا من قبله، أي لا معبود بحق إلا الله، وأن يكون سالمًا من الشرك ومن الرياء.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "إثبات الشفاعة للنبي صلى الله عليه وسلم في الآخرة وأنها لا تكون إلا للموحِّدين.",
+  "شفاعته صلى الله عليه وسلم هي تَوَسُّلُه إلى الله تعالى لِمَن استحقَّ النارَ مِن الموحّدين أنْ لا يَدخلَها، ومَن دخلَها أن يَخرج منها.",
+  "فضل كلمة التوحيد الخالصة لله تعالى وعظيم أثرها.",
+  "تحقيق كلمة التوحيد يكون بالعلم بمعناها، والعمل بمقتضاها.",
+  "فضل أبي هريرة رضي الله عنه، وحِرصُه على العِلم."
+ ],
+ "id": "hadeethenc-3414",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (1/ 31) (99).\nمنار القاري شرح مختصر صحيح البخاري، لحمزة محمد قاسم (1/ 197).\nالقول المفيد على كتاب التوحيد، لابن عثيمين (1/ 343).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3414",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:34+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3414"
+ },
+ "source_categories": [
+  {
+   "id": "73",
+   "label": "توحيد الألوهية"
+  }
+ ],
+ "source_record_id": "3414",
+ "text": "عَنْ أَبِي هُرَيْرَةَ رضي الله عنه أَنَّهُ قَالَ: قِيلَ: يَا رَسُولَ اللهِ، مَنْ أَسْعَدُ النَّاسِ بِشَفَاعَتِكَ يَوْمَ الْقِيَامَةِ؟ قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «لَقَدْ ظَنَنْتُ يَا أَبَا هُرَيْرَةَ أَنْ لَا يَسْأَلَنِي عَنْ هَذَا الْحَدِيثِ أَحَدٌ أَوَّلُ مِنْكَ؛ لِمَا رَأَيْتُ مِنْ حِرْصِكَ عَلَى الْحَدِيثِ، أَسْعَدُ النَّاسِ بِشَفَاعَتِي يَوْمَ الْقِيَامَةِ، مَنْ قَالَ لَا إِلَهَ إِلَّا اللهُ خَالِصًا مِنْ قَلْبِهِ أَوْ نَفْسِهِ»».",
+ "title": "أسعد الناس بشفاعتي يوم القيامة، من قال لا إله إلا الله خالصا من قلبه أو نفسه",
+ "topic": "belief",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3414",
+   "arabic_match": "exact",
+   "attribution": "এটি বুখারী বর্ণনা করেছেন।",
+   "content_sha256": "sha256:6975c2c1a77f8d95b837f2bf7037fd03f977468ffe4e96c97ccdb2d69113ef58",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এ হাদীসে বর্ণনা করেছেন যে, কিয়ামতের দিন তাঁর শাফাআত দ্বারা সর্বাধিক সৌভাগ্যশালী ঐ ব্যক্তি হবে যে খালেস অন্তর থেকে বলে لاَ إِلَهَ إِلاَّ اللَّهُ (লা ইলাহা ইল্লাল্লাহ) অর্থাৎ আল্লাহ ব্যতীত কোন প্রকৃত মাবূদ নেই এবং সে শিরক ও রিয়া থেকে মুক্ত থাকবে।",
+   "grade": "সহীহ",
+   "hints": [
+    "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের জন্য আখিরাতে শাফা‘আত করা প্রমাণিত। আর তিনি তাওহীদে বিশ্বাসীদের ব্যতীত অন্য কাউকে শাফা‘আত করবেন না।\r",
+    "তাওহীদপন্থীদের মধ্যে যারা জাহান্নামী হবে তাদের ব্যাপারে আল্লাহর কাছে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের শাফা‘আতের কারণে তারা আর জাহান্নামে প্রবেশ করবে না। অন্যদিকে যারা জাহান্নামে প্রবেশ করেছে, তাদেরকে সেখান থেকে বের করে আনা হবে।\r",
+    "হাদীসে আল্লাহ তা‘আলার একনিষ্ঠ তাওহীদের ফযিলত ও এর মহান প্রভাব বর্ণিত হয়েছে।\r",
+    "তাওহীদের কালিমা সাব্যস্ত হবে তার অর্থ জানা ও সে অনুযাযী আমল করার মাধ্যমে।\r",
+    "আবূ হুরায়রা রাদিয়াল্লাহু ‘আনহুর ফযিলত ও ইলমের ব্যাপারে তার আগ্রহ বর্ণিত হয়েছে।"
+   ],
+   "mapping": "same HadeethEnc record id 3414; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:29+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3414",
+   "text": "আবূ হুরায়রা রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, তিনি বলেনঃ বলা হলো, হে আল্লাহর রাসূল! কিয়ামতের দিন সমস্ত মানুষ থেকে বেশি সৌভাগ্যশালী হবে আপনার শাফাআত দ্বারা কোন লোকটি? তখন রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বললেনঃ হে আবূ হুরায়রা! আমি ধারণা করেছিলাম যে তোমার আগে কেউ এ সম্পর্কে আমাকে জিজ্ঞাসা করবে না। কারণ হাদীসের ব্যাপারে তোমার চেয়ে অধিক আগ্রহী আর কাউকে আমি দেখিনি। কিয়ামতের দিন আমার শাফাআত দ্বারা সর্বাধিক সৌভাগ্যশালী ঐ ব্যক্তি হবে যে খালেস অন্তর বা মনথেকে বলে লা ইলাহা ইল্লাল্লাহ (لاَ إِلَهَ إِلاَّ اللَّهُ)।”",
+   "title": "কিয়ামতের দিন আমার শাফাআত দ্বারা সর্বাধিক সৌভাগ্যশালী ঐ ব্যক্তি হবে যে খালেস অন্তর বা মনথেকে বলে লা ইলাহা ইল্লাল্লাহ (لاَ إِلَهَ إِلاَّ اللَّهُ)",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3414",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Al-Bukhāri",
+   "content_sha256": "sha256:3c77459bd8b5cf88a67612139c17b43186ab190b4cbe259ccd7ad71cf2759d3a",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) informs that the happiest of people to receive his intercession on the Day of Judgment is the one who says, \"there is no god but Allah\" sincerely from his heart; that's no one is worthy of worship except Allah, and he should be free from polytheism and show-off.",
+   "grade": "Authentic",
+   "hints": [
+    "It establishes the intercession of the Prophet (may Allah's peace and blessings be upon him) in the Hereafter, and that it would only be granted to monotheist believers.\r",
+    "The Prophet's intercession is his earnest supplication to Allah Almighty regarding the monotheistic believers who deserve to enter Hellfire not to enter it and those of them who entered it to be taken out of it.\r",
+    "It points out the merit and profound effect of the testimony of faith being sincerely uttered for Allah Almighty.\r",
+    "To actualize the testimony of faith, one should know its meaning and act according to it.\r",
+    "It demonstrates the merit of Abu Hurayrah (may Allah be pleased with him) and his keenness to seek knowledge."
+   ],
+   "mapping": "same HadeethEnc record id 3414; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:28+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3414",
+   "text": "Abu Hurayrah (may Allah be pleased with him) reported: It was said: \"O Messenger of Allah, who will be the happiest of people to receive your intercession on the Day of Judgment?\" The Messenger of Allah (may Allah's peace and blessings be upon him) said: \"I thought no one would ask me about this Hadīth before you, O Abu Hurayrah, given the keenness I have seen from you regarding the Hadīths. The happiest of people to receive my intercession on the Day of Judgment is the one who says, 'there is no god but Allah' sincerely from his heart or his soul.\"",
+   "title": "The happiest of people to receive my intercession on the Day of Judgment is the one who says, 'there is no god but Allah' sincerely from his heart or his soul",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=3414",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî",
+   "content_sha256": "sha256:ca82687bf29cf21006f5dca5afdcb17ca3e2bf1eac5a72e459c78b87c68dfe73",
+   "explanation": "Le Prophète  (qu'Allah le couvre d'éloges et le préserve) informe du fait que la personne la plus heureuse de son intercession, au Jour de la Résurrection, sera celle qui aura sincèrement dit : \"Il n'est de divinité [digne d'adoration] qu'Allah !\" sincèrement de son cœur. C'est-à-dire [qu'elle aura reconnu] que rien ni personne n'est digne d'adoration excepté Allah, tout en étant préservée de l'association et de  l'ostentation.",
+   "grade": "Authentique",
+   "hints": [
+    "La confirmation de l'intercession du Prophète  (qu'Allah le couvre d'éloges et le préserve) dans l'au-delà et que celle-ci ne sera que pour les monothéistes.\r",
+    "Son intercession (qu'Allah le couvre d'éloges et le préserve), c'est le fait qu'il implore Allah, Exalté soit-Il, en faveur de quiconque mérite l'Enfer parmi les monothéistes afin qu'il n'y entre pas et, concernant quiconque y sera entré, afin qu'il en sorte.\r",
+    "Le mérite de la parole de l'Unicité sincèrement pour Allah, Exalté soit-Il, et son immense répercussion.\r",
+    "La concrétisation de la parole de l'Unicité s'obtient par la connaissance de son sens et en œuvrant selon ce qu'elle implique.\r",
+    "Le mérite d'Aboû Hourayrah (qu'Allah l'agrée) et son attention ardente pour la science."
+   ],
+   "mapping": "same HadeethEnc record id 3414; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:29+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/3414",
+   "text": "Aboû Hourayrah (qu'Allah l'agrée) relate : On a demandé : \" Ô Messager d'Allah ! Quelle sera la personne la plus heureuse de ton intercession au Jour de la Résurrection ? - Le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) a répondu : \" Ô Aboû Hourayrah ! J'étais certes persuadé que personne ne m'interrogerait avant toi concernant ce hadith en raison de ce que j'ai vu de ton attention ardente pour le hadith ! Au Jour de la Résurrection, la personne la plus heureuse de mon intercession sera celle qui aura dit : \"Il n'est de divinité [digne d'adoration] qu'Allah\" sincèrement de son cœur ou de toute sa personne.",
+   "title": "Au Jour de la Résurrection, la personne la plus heureuse de mon intercession sera celle qui aura dit : \"Il n'est de divinité [digne d'adoration] qu'Allah\" sincèrement de son cœur ou de toute sa personne",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3414",
+   "arabic_match": "exact",
+   "attribution": "HR. Bukhari",
+   "content_sha256": "sha256:2645f7b9012ab35c76eead91f7d99552393c6cb0be268cacaea1972f299f30e9",
+   "explanation": "Nabi ﷺ mengabarkan bahwa orang yang paling beruntung mendapatkan syafaat beliau kelak di hari kiamat ialah orang yang mengucapkan \"lā ilāha illallāh\" tulus dari dalam hatinya. Yakni: tidak ada Tuhan yang berhak disembah kecuali Allah, serta ia bebas dari kesyirikan maupun ria.\"",
+   "grade": "Sahih",
+   "hints": [
+    "1- Menetapkan adanya syafaat Nabi ﷺ di akhirat, dan bahwa syafaat itu tidak berlaku kecuali bagi orang-orang yang bertauhid.\r",
+    "2- Syafaat Nabi ﷺ ialah tawasul beliau kepada Allah Ta'ala untuk orang yang sebenarnya berhak masuk neraka dari kalangan orang-orang yang bertauhid supaya ia tidak masuk ke dalamnya, dan untuk orang yang telah masuk ke dalamnya supaya ia keluar darinya.\r",
+    "3- Keutamaan kalimat tauhid yang tulus kepada Allah Ta'ala serta pengaruhnya yang besar.\r",
+    "4- Merealisasikan kalimat tauhid ialah dengan memahami maknanya dan mengamalkan konsekuensinya.\r",
+    "5- Keutamaan Abu Hurairah -raḍiyallāhu 'anhu- dan semangatnya mencari ilmu."
+   ],
+   "mapping": "same HadeethEnc record id 3414; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:29+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3414",
+   "text": "Abu Hurairah -raḍiyallāhu 'anhu- meriwayatkan, ia berkata, Seseorang bertanya, \"Wahai Rasulullah! Siapakah orang yang paling beruntung mendapatkan syafaatmu kelak di hari kiamat?\" Rasulullah ﷺ bersabda, \"Sungguh aku telah menduga, wahai Abu Hurairah, bahwa menurutku tidak akan ada yang mendahuluimu untuk bertanya kepadaku tentang hadis ini dikarenakan semangatmu kepada hadis. Orang yang paling beruntung dengan syafaatku kelak di hari kiamat ialah orang yang mengucapkan lā ilāha illallāh secara tulus dari dalam hatinya -atau jiwanya-.\"",
+   "title": "Orang yang paling beruntung dengan syafaatku kelak di hari kiamat ialah orang yang mengucapkan lā ilāha illallāh secara tulus dari dalam hatinya -atau jiwanya-",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3414",
+   "arabic_match": "exact",
+   "attribution": "رواه البخاري",
+   "content_sha256": "sha256:e2b424d5d57d6d1167bae91824504588b97488744f815b676b1bfe1a18a3ce80",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم بتا رہے ہیں کہ قیامت کے دن آپ کی شفاعت کا سب سے زیادہ حق دار وہ شخص ہوگا، جو خالص دل سے اس بات کی گواہی دے کہ اللہ کے سوا کوئی برحق معبود نہیں ہے اور شرک وریاکاری جیسی چیزوں سے محفوظ رہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "اللہ کے نبی صلی اللہ علیہ و سلم کے لیے آخرت میں شفاعت کا ثبوت اور یہ کہ آپ کی شفاعت صرف موحدین کو حاصل ہوگی۔\r",
+    "آپ کی شفاعت کا مطلب ہے اللہ کے حضور آپ کا اس بات کی سفارش کرنا کہ جو موحد لوگ جہنم کے حق دار بن چکے ہيں، ان کو جہنم میں نہ ڈالا جائے اور جو داخل ہو چکے ہیں، ان کو وہاں سے نکال دیا جائے۔\r",
+    "خالص طور پر اللہ کے لیے کہے گئے کلمۂ توحید کی فضیلت اور اس کا بڑا اثر۔\r",
+    "کلمۂ توحید کو بروئے کار لانے کا مطلب ہے اس کے معنی کو جاننا اور اس کے تقاضوں پر عمل کرنا۔\r",
+    "ابو ہریرہ رضی اللہ عنہ کی فضیلت اور ان کے اندر حصول علم کا شوق۔"
+   ],
+   "mapping": "same HadeethEnc record id 3414; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:29+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3414",
+   "text": "ابو ہریرہ رضی اللہ عنہ سے روایت ہے، وہ کہتے ہیں : کسی نے کہا کہ اے اللہ کے رسول! قیامت کے دن آپ کی شفاعت کی سعادت سب سے زیادہ کسے حاصل ہوگی؟ اللہ کے رسول ﷺ نے فرمایا: ”اے ابو ہریرہ! تمھاری حرصِ حدیث دیکھ کر مجھے یہ اندازہ ہوگیا تھا کہ مجھ سے یہ حدیث تم سے پہلے کوئی نہیں پوچھے گا۔  قیامت کے دن میری شفاعت کی سعادت سب سے زیادہ اسے حاصل ہو گی، جس نے کلمہ «لا إله إلا الله» خلوص دل سے کہا“۔",
+   "title": "قیامت کے دن میری شفاعت کی سعادت سب سے زیادہ اسے حاصل ہو گی، جس نے کلمہ «لا إله إلا الله» خلوص دل سے کہا“۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3414",
+   "arabic_match": "exact",
+   "attribution": "布哈里辑录",
+   "content_sha256": "sha256:8a1333125285bb8162e51a1f5a46190256acee7b5de786d4f72a823160f9d46d",
+   "explanation": "先知（愿主福安之）叙述道，复生日最有幸得到他的说情之人，是虔诚地说“没有真应受拜主，唯有安拉”之人，并且不得有以物配主和沽名钓誉。",
+   "grade": "正确的",
+   "hints": [
+    "肯定在后世先知拥有说情权，他只为认主独一之人说情。\r",
+    "先知（愿主福安之）的说情指：他向安拉祈求，认主独一的人中有应进火狱之人不要进入火狱，已经进入火狱的人从中救出。\r",
+    "虔诚为安拉而诵念认主独一之言词的优越，以及他的影响之大。\r",
+    "落实认主独一之言词就要知晓其意义，遵行其要求。\r",
+    "艾布·胡莱勒之优越，以及他对知识的渴望。"
+   ],
+   "mapping": "same HadeethEnc record id 3414; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:29+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3414",
+   "text": "据艾布·胡莱勒（愿主喜悦之）传述说： 有人说：安拉的使者啊！复生日，谁最有幸得到你的说情？安拉的使者（愿主福安之）说：“艾布·胡莱勒啊！我确实认为不会有人先于你而提出这个问题，因为我看到了你对圣训的渴望。复生日最有幸得到我的说情之人，是虔诚地发自内心地说：‘没有真应受拜主，唯有安拉’之人。”",
+   "title": "复生日最有幸得到我的说情之人，是虔诚地发自内心地说：‘没有真应受拜主，唯有安拉’之人。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

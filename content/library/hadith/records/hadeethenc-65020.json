@@ -1,0 +1,163 @@
+{
+ "attribution": "رواه الحاكم والطبراني",
+ "content_sha256": "sha256:f69672907cda8cc231cf9ca266b08a64371041bceafe770be7e6526bc25a3ad4",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يخبر النبي صلى الله عليه وسلم أن الإيمان يَبْلى في قلب المسلم ويَضْعف مثل الثوب الجديد الذي يبلى بطول استخدامه؛ \nوذلك بسبب الفتور في العبادة، أو ارتكاب المعاصي والانغماس في الشهوات. \nفأرشد النبي صلى الله عليه وسلم أن ندعوَ الله تعالى أن يجدِّد إيماننا، بالقيام بالفرائض وكثرة الذكر والاستغفار.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "الحث على سؤال الله الثبات وتجديد الإيمان في القلب.",
+  "الإيمان قول وعمل واعتقاد، يزيد بالطاعة، وينقص بالمعصية."
+ ],
+ "id": "hadeethenc-65020",
+ "language": "ar",
+ "narrator": null,
+ "reference": "المستدرك على الصحيحين للحاكم (1/ 45) (5)، المعجم الكبير للطبراني (13/ 36) (84)، النهاية في غريب الحديث والأثر، ص(282)، النهاية (1/316)، فيض القدير (2/323)، التنوير شرح الجامع الصغير (3/434).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=65020",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:30+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/65020"
+ },
+ "source_categories": [
+  {
+   "id": "92",
+   "label": "زيادة الإيمان ونقصانه"
+  }
+ ],
+ "source_record_id": "65020",
+ "text": "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْعَاصِ رضي الله عنهما قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «إِنَّ الْإِيمَانَ لَيَخْلَقُ فِي جَوْفِ أَحَدِكُمْ كَمَا يَخْلَقُ الثَّوْبُ الْخَلِقُ، فَاسْأَلُوا اللَّهَ أَنْ يُجَدِّدَ الْإِيمَانَ فِي قُلُوبِكُمْ».",
+ "title": "إن الإيمان ليخلق في جوف أحدكم كما يخلق الثوب الخلق، فاسألوا الله أن يجدد الإيمان في قلوبكم",
+ "topic": "understanding_islam",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=65020",
+   "arabic_match": "exact",
+   "attribution": "এটি হাকেম ও তবারানী বর্ণনা করেছেন।",
+   "content_sha256": "sha256:bdc6f4e799f39c2a0f67968c12d95957940d97596bd2b0819ceaaa8588d24c04",
+   "explanation": "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সংবাদ প্রদান করছেন, ঈমান মুসলিম ব্যক্তির অন্তরে ক্ষয় ও দূর্বল হতে থাকে, দীর্ঘ ব্যবহারের ফলে যেভাবে নতুন কাপড় ক্ষয় ও জীর্ণ হয়ে পড়ে। আর তা মূলত ইবাদাতে শৈথিল্য করা, পাপে লিপ্ত হওয়া অথবা প্রবৃত্তির অনুসরণে নিমজ্জিত হওয়ার কারণে হয়ে থাকে। সেখান থেকে পরিত্রানের উপায় হিসেবে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নির্দেশনা দিয়েছেন যে, আমরা যেন আল্লাহ তা‘আলার কাছে দু‘আ করি যে, তিনি যেন ফরযসমূহ পালন করা ও বেশী বেশী যিকির ও ইস্তিগফার করার মাধ্যমে আমাদের ঈমানকে নবায়ন করে দেন।",
+   "grade": "সহীহ",
+   "hints": [
+    "অন্তরে ঈমান নবায়ন ও তার উপরে দৃঢ় থাকার ব্যাপারে আল্লাহর কাছে প্রার্থনা করার প্র্রতি উৎসাহ প্রদান।\r",
+    "ঈমান হচ্ছে কথা, কাজ ও আক্বীদাহ পোষণের সমষ্টি। আনুগত্যের দ্বারা তা বৃদ্ধি পায় আর পাপের কারণে তার কমতি ঘটে।"
+   ],
+   "mapping": "same HadeethEnc record id 65020; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:09+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/65020",
+   "text": "আব্দুল্লাহ ইবনু আমর ইবনুল ‘আ্স রদিয়াল্লাহু আনহুমা হতে বর্ণিত, তিনি বলেছেন, আল্লাহর রাসূল সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন: “তোমাদের প্রতিটি ব্যক্তির মধ্যে ঈমান পুরাতন হতে থাকে, যেভাবে কাপড় পুরাতন হতে থাকে, সুতরাং আল্লাহর কাছে তোমরা দু‘আ করতে থাক, যেন তিনি তোমাদের অন্তরে ঈমানকে নবায়ন করে দেন।”",
+   "title": "“তোমাদের প্রতিটি ব্যক্তির মধ্যে ঈমান পুরাতন হতে থাকে, যেভাবে কাপড় পুরাতন হতে থাকে, সুতরাং আল্লাহর কাছে তোমরা দু‘আ করতে থাক, যেন তিনি তোমাদের অন্তরে ঈমানকে নবায়ন করে দেন।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=65020",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Al-Hākim and At-Tabarāni",
+   "content_sha256": "sha256:b8471573fde0f66815e5eaf558990f192f30d679632c6bcc5c32db4c0bc24d2d",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) says that faith wears out and weakens in the Muslim's heart as new clothing is worn out with long use. This stems from lethargy in worship or the commission of sins and indulgence in desires. So, the Prophet (may Allah's peace and blessings be upon him) instructed us to supplicate to Allah Almighty to renew our faith by performing our obligations and frequently remembering Him and asking Him for forgiveness.",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth urges us to ask Allah Almighty for steadfastness and renewal of faith in our hearts.\r",
+    "Faith comprises words, deeds, and beliefs, and it increases by good deeds and decreases by sins."
+   ],
+   "mapping": "same HadeethEnc record id 65020; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:09+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/65020",
+   "text": "‘Abdullāh ibn ‘Amr ibn al-‘Ās (may Allah be pleased with him) reported: The Messenger of Allah (may Allah’s peace and blessings be upon him) said: \"Verily, faith wears out within one of you as a shirt becomes worn out; so, ask Allah to renew faith in your hearts.\"",
+   "title": "Verily, faith wears out within one of you as a shirt becomes worn out; so, ask Allah to renew faith in your hearts",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=65020",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Hâkim et At-Tabarânî",
+   "content_sha256": "sha256:8cda6844b41c4bed30c3e6cdf6b5a182e1adff7646dbe7afa9ea9e07f9ff4674",
+   "explanation": "Le Prophète  (qu’Allah le couvre d’éloges et le préserve) informe du fait que la foi s'use dans le cœur du musulman et faiblit à l'instar du nouvel habit qui s'use au fil de sa longue utilisation. Ceci arrive en raison de la tiédeur dans l'adoration, du fait de commettre des péchés ou encore de s'enliser dans les plaisirs. Le Prophète (qu’Allah le couvre d’éloges et le préserve) nous a alors orienté vers le fait d'invoquer Allah, Exalté soit-Il, en Lui demandant de renouveler notre foi ; [et le renouvellement de la foi s'obtient aussi] par l'accomplissement des obligations, l'évocation d'Allah et la demande de pardon en abondance.",
+   "grade": "Authentique",
+   "hints": [
+    "L'incitation à demander à Allah l'affermissement et le renouvellement de la foi dans le cœur.\r",
+    "La foi est parole, acte et croyance. Elle augmente par l'obéissance et diminue par la désobéissance."
+   ],
+   "mapping": "same HadeethEnc record id 65020; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:09+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/65020",
+   "text": "'Abdoullah ibn 'Amr ibn Al-'Âṣ (qu'Allah l'agrée, lui et son père) relate que le Messager d'Allah (qu’Allah le couvre d’éloges et le préserve) a dit : « Certes, la foi s'use en vous comme s'use l'habit usagé. Demandez donc à Allah de renouveler la foi dans vos cœurs ! »",
+   "title": "Certes, la foi s'use en vous comme s'use l'habit usagé. Demandez donc à Allah de renouveler la foi dans vos cœurs !",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=65020",
+   "arabic_match": "exact",
+   "attribution": "HR. Hakim dan Tabarani",
+   "content_sha256": "sha256:1ec95ad50e1ab3f398df94c463a49cedc36d0fbacf92c653d2fd721e12fdf547",
+   "explanation": "Nabi ﷺ mengabarkan bahwa iman dapat usang dan lemah dalam hati seorang muslim sebagaimana pakaian baru yang dapat lusuh karena sudah lama dipakai. Hal itu disebabkan oleh kelesuan dalam beribadah atau melakukan kemaksiatan dan larut di dalam syahwat. Maka Nabi ﷺ mengarahkan kita agar berdoa kepada Allah Ta'ala semoga Allah memperbarui iman kita dengan melaksanakan kewajiban-kewajiban serta banyak berzikir dan beristigfar.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Anjuran memohon kepada Allah agar iman di dalam hati diteguhkan dan diperbarui kembali.\r",
+    "2- Iman itu mencakup perkataan, perbuatan, dan keyakinan. Ia dapat bertambah melalui ketaatan dan berkurang karena kemaksiatan."
+   ],
+   "mapping": "same HadeethEnc record id 65020; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:09+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/65020",
+   "text": "Abdullah bin 'Amr bin Al-'Āṣ -raḍiyallāhu 'anhumā- meriwayatkan, Rasulullah ﷺ bersabda, \"Sungguh iman itu dapat lusuh di dalam dada salah satu di antara kalian, sebagaimana lusuhnya pakaian yang sudah usang. Maka mohonlah kepada Allah agar memperbarui iman di dalam hati kalian.\"",
+   "title": "Sungguh iman itu dapat lusuh di dalam dada salah satu di antara kalian, sebagaimana lusuhnya pakaian yang sudah usang. Maka mohonlah kepada Allah agar memperbarui iman di dalam hati kalian",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=65020",
+   "arabic_match": "exact",
+   "attribution": "رواه الحاكم والطبراني",
+   "content_sha256": "sha256:64701ade37df520541f3a09da395afb2cdc567d3b3fccf23408258dc4b00bb11",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ وسلم نے بتایا ہے کہ مسلمان کے دل میں ایمان بھی اسی طرح بوسیدہ اور کمزور ہو جایا کرتا ہے، جس طرح نیا کپڑا زیادہ استعمال کرنے کے بعد بوسیدہ ہوجایا کرتا ہے۔ اس کی وجہ یہ ہے کہ انسان عبادت میں سستی کرنے لگتا ہے یا پھر گناہوں کا ارتکاب کر بیٹھتا ہے اور خواہشات نفسانی میں غرق ہوجاتا ہے۔ اس لیے اللہ کے نبی صلی اللہ علیہ وسلم نے یہ رہنمائی فرمائی ہے کہ ہم اللہ سے تجدید ایمان کی دعا کیا کریں، بایں طور کہ ہمیں فرائض کی ادائیگی اور کثرت سے ذکر و استغفار کا اہتمام کرنے کی توفیق دے۔",
+   "grade": "صحيح",
+   "hints": [
+    "دل میں ایمان کی تجدید اور ثابت قدمی کے لیے دعا کرنے کی ترغیب دی گئی ہے۔\r",
+    "ایمان، قول و عمل اور عقیدے سے عبارت ہے، جو اطاعت سے بڑھتا اور گناہ سے گھٹتا ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 65020; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:09+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/65020",
+   "text": "عبد اللہ بن عمرو بن العاص رضی اللہ عنہما سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: \"”کپڑے کی بوسیدگی کی طرح ایمان بھی تمہارے دل کے اندر بوسیدہ ہو جاتا ہے۔ لہذا اللہ تعالیٰ سے سوال کیا کرو کہ وہ تمہارے دلوں میں ایمان کی تجدید کرتا رہے۔“",
+   "title": "”کپڑے کی بوسیدگی کی طرح ایمان بھی تمہارے دل کے اندر بوسیدہ ہو جاتا ہے۔ لہذا اللہ تعالیٰ سے سوال کیا کرو کہ وہ تمہارے دلوں میں ایمان کی تجدید کرتا رہے۔“",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=65020",
+   "arabic_match": "exact",
+   "attribution": "哈肯和托伯拉尼辑录",
+   "content_sha256": "sha256:7dbb649faca3614bf019efb5fbe0536eaf94bf2565516f8d0224de57f765d93a",
+   "explanation": "先知（愿主福安之）叙述道：信仰在穆斯林的心中会削弱或陈旧，如同新衣服长时间以后变得陈旧一般。 那是由于在功修中松懈、犯罪和沉迷欲望所致。 然后先知（愿主福安之）指示我们，当向安拉祈求，通过立行主命，多念赞词，祈求饶恕来刷新我们的信仰。",
+   "grade": "正确的",
+   "hints": [
+    "鼓励向安拉祈求稳定和刷新心中的信仰。\r",
+    "信仰是言语、行为和诚信，它会随着善功而增加，随着罪恶而欠损。"
+   ],
+   "mapping": "same HadeethEnc record id 65020; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:09+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/65020",
+   "text": "据阿卜杜拉·本·阿穆尔·本·阿遂传述（愿主喜悦他俩）说：安拉的使者（愿主福安之）说： 的确信仰在你们的心中会陈旧，正如衣服会陈旧一般，故你们当向安拉祈求刷新你们心中的信仰。",
+   "title": "的确信仰在你们的心中会陈旧，正如衣服会陈旧一般，故你们当向安拉祈求刷新你们心中的信仰。",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

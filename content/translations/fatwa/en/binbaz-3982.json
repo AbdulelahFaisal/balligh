@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3982",
+ "source_content_sha256": "sha256:6441447dba6aafe3400479851f72e9ffa818f84e893007f7e0bb0563112484ef",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:22:02.318845+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 612,
+  "completion_tokens": 382,
+  "total_tokens": 994,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 612
+ },
+ "latency_ms": 3986,
+ "units": [
+  {
+   "id": "title",
+   "text": "What is the minimum required to fulfill the duty of worship to Allah Almighty?"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "What is the minimum of worship without which the creature does not fulfill the purpose of the Creator from His saying, exalted be He: ⟦Q1⟧ [Adh-Dhariyat:56]?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "The minimum is to perform the obligations and avoid the prohibitions. If he performs the obligations and avoids the prohibitions, then nothing is upon him, and he is called: muqtasid (one who takes a middle course), and he is among the righteous."
+  },
+  {
+   "id": "a2",
+   "text": "If he does more, performing the recommended acts and keeping away from the disliked matters, then he becomes among the foremost, those brought near, and he becomes of the highest class.\nThe classes are three:\nThe class of the disobedient: they are the wrongdoers to themselves.\nThe class of the muqtasidun, the righteous: they are those who performed the obligations and avoided the prohibitions only.\nThe third class is the highest class, which is the class of the foremost, those brought near, from the messengers and their followers: those who hastened to good deeds, performed the obligations and competed in various types of good, avoided the prohibitions, and kept away from disliked and doubtful matters. These are the highest class."
+  }
+ ]
+}

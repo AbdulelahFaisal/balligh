@@ -1,0 +1,180 @@
+{
+  "id": "gen-280bbb02-5d12-44e4-989d-e0bd5ff22c91",
+  "schema_version": "balligh.lesson/1",
+  "is_test_data": true,
+  "title": "Rules for Shared Files",
+  "source_ids": [
+    "src-g2-negation-ar"
+  ],
+  "spans": [
+    {
+      "id": "s1",
+      "source_id": "src-g2-negation-ar",
+      "source_version": "g2-fixture-1",
+      "source_sha256": "5d09360e0773c5cffc2c544f2c3945e621d697c81d46619d0aa5afd6b318c18b",
+      "start_offset": 0,
+      "end_offset": 40,
+      "segment_ids": [],
+      "exact_text": "لا يُنشر الملف المشترك من غير اسم كاتبه.",
+      "text_sha256": "0e8760fd3db60e72d41a16a0ad9c0ad5e194c3996286ae4d03a96d375c51e5d1"
+    },
+    {
+      "id": "s2",
+      "source_id": "src-g2-negation-ar",
+      "source_version": "g2-fixture-1",
+      "source_sha256": "5d09360e0773c5cffc2c544f2c3945e621d697c81d46619d0aa5afd6b318c18b",
+      "start_offset": 41,
+      "end_offset": 105,
+      "segment_ids": [],
+      "exact_text": "ولا يكفي أن يُذكر الاسم في رسالة منفصلة، بل يُكتب في الملف نفسه.",
+      "text_sha256": "ae3b2aa7534771a2175423119e1e7700fa871bf35659b1fa318b1ec1538ea6f2"
+    },
+    {
+      "id": "s3",
+      "source_id": "src-g2-negation-ar",
+      "source_version": "g2-fixture-1",
+      "source_sha256": "5d09360e0773c5cffc2c544f2c3945e621d697c81d46619d0aa5afd6b318c18b",
+      "start_offset": 106,
+      "end_offset": 178,
+      "segment_ids": [],
+      "exact_text": "ومن لم يعرف اسم الكاتب فلا ينسب الملف إلى أحد، ولا يُخمّن اسمًا من عنده.",
+      "text_sha256": "53325db9c07a38cf896af7abeb7bf4b648530a892d3d2f3944f639f17a9f1efb"
+    }
+  ],
+  "input_hash": "5d09360e0773c5cffc2c544f2c3945e621d697c81d46619d0aa5afd6b318c18b",
+  "target_locale": "en",
+  "level": "foundational",
+  "glossary_version": "g2-glossary-1",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "quote",
+      "source_span_ids": [
+        "s1"
+      ],
+      "text": "A shared file is not published without the name of its author.",
+      "quote_id": "s1",
+      "derivation": "machine_translation",
+      "editor_note": ""
+    },
+    {
+      "id": "c2",
+      "kind": "quote",
+      "source_span_ids": [
+        "s2"
+      ],
+      "text": "It is not enough to mention the name in a separate message. The name must be written in the file itself.",
+      "quote_id": "s2",
+      "derivation": "machine_translation",
+      "editor_note": ""
+    },
+    {
+      "id": "c3",
+      "kind": "explanation",
+      "source_span_ids": [
+        "s3"
+      ],
+      "text": "If you do not know the author's name, do not say who wrote the file. Do not guess a name.",
+      "quote_id": "s3",
+      "derivation": "machine_explanation",
+      "editor_note": ""
+    }
+  ],
+  "terms": [
+    {
+      "term_id": "t1",
+      "source_form": "الملف المشترك",
+      "display_form": "shared file",
+      "meaning": "The file that is shared with others.",
+      "source_ids": [
+        "src-g2-negation-ar"
+      ]
+    },
+    {
+      "term_id": "t2",
+      "source_form": "اسم الكاتب",
+      "display_form": "author's name",
+      "meaning": "The name of the person who wrote the file.",
+      "source_ids": [
+        "src-g2-negation-ar"
+      ]
+    },
+    {
+      "term_id": "t3",
+      "source_form": "رسالة منفصلة",
+      "display_form": "separate message",
+      "meaning": "A message that is not the file itself.",
+      "source_ids": [
+        "src-g2-negation-ar"
+      ]
+    },
+    {
+      "term_id": "t4",
+      "source_form": "يُخمّن",
+      "display_form": "guess (yukhammin)",
+      "meaning": "To make up a name when you do not know the real name.",
+      "source_ids": [
+        "src-g2-negation-ar"
+      ]
+    }
+  ],
+  "activity": {
+    "question": "Where must the author's name be written?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In a separate message"
+      },
+      {
+        "id": "b",
+        "text": "In the file itself"
+      },
+      {
+        "id": "c",
+        "text": "In another file"
+      },
+      {
+        "id": "d",
+        "text": "Nowhere"
+      }
+    ],
+    "correct_option_id": "b",
+    "rationale": "The source says it is not enough to mention the name in a separate message; it must be written in the file itself.",
+    "source_span_ids": [
+      "s2"
+    ]
+  },
+  "generation": {
+    "origin": "live",
+    "provider": "deepseek",
+    "requested_model": "deepseek-v4-pro",
+    "returned_model": "deepseek-v4-pro",
+    "prompt_version": "g2-lesson-1",
+    "request_id": "280bbb02-5d12-44e4-989d-e0bd5ff22c91",
+    "generated_at": "2026-10-05T23:03:44.801998Z",
+    "source_sha256": "5d09360e0773c5cffc2c544f2c3945e621d697c81d46619d0aa5afd6b318c18b",
+    "glossary_sha256": "0fbc3bdd7280857e1f53a9354a016772a6b65a7925059e4361d2446f0d69b613",
+    "settings": {
+      "thinking": "enabled",
+      "reasoning_effort": "high",
+      "response_format": "json_object",
+      "max_tokens": 16384
+    },
+    "usage": {
+      "prompt_tokens": 1472,
+      "completion_tokens": 6585,
+      "total_tokens": 8057,
+      "prompt_cache_hit_tokens": 384,
+      "prompt_cache_miss_tokens": 1088,
+      "reasoning_tokens": 6148
+    },
+    "latency_ms": 55821,
+    "note": "AI draft generated from the registered source. Not reviewed by a person.",
+    "human_edited": false,
+    "last_human_edit_at": null
+  },
+  "validation_findings": [],
+  "presentation": {
+    "font_scale": 1.0
+  }
+}

@@ -1,0 +1,193 @@
+{
+ "attribution": "رواه الترمذي",
+ "content_sha256": "sha256:65bbcc9fa0247bb052dbc40dd69d5ddf2bd2fd8dd1f651faf89849176f2f2538",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يُخبرُ ابنُ عباس رضي الله عنه أنه كان صغيرًا راكبًا مع النبي صلى الله عليه وسلم، فقال له عليه الصلاة والسلام: إني أُعلِّمك أمورًا وأشياءَ ينفعك الله بها:\n\nاحفظ الله بِحفظِ أوامرِه واجتنابِ نواهيه، بحيث يَجِدُكَ في الطاعات والقربات، ولا يجدُكَ في المعاصي والآثام، فإن فعلتَ ذلك كان جزاؤك أن يحفظَك الله من مكاره الدنيا والآخرة، وينصرَك في مُهماتِك أينما توجَّهتَ.\n\nوإذا أردتَ أن تسأل شيئًا، فلا تسألْ إلا الله فإنه وحده الذي يُجيب السائلين.\n\nوإذا أردتَ العونَ فلا تستعنْ إلا بالله.\n\nولْيكُن عندك يقينٌ أنه لن تحصل لك منفعة ولو اجتمع على منفعتِك أهلُ الأرض جميعًا إلا ما كتبه الله لك، ولن يحصُلَ عليك ضرر ولو اجتمع على ضرك أهلُ الأرض جميعًا إلا ما قدَّره الله عليك.\n\nوأن هذا الأمر قد كَتَبه الله عز وجل وقدّره وِفْقَ ما اقتضته حكمته وعلمه، ولا تبديل لما كتبه الله.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "أهمية تعليم الصغار والأطفال أمورَ الدين من التوحيد والآداب وغير ذلك.",
+  "الجزاء من جنس العمل.",
+  "الأمر بالاعتماد على الله، والتوكل عليه دون غيره، وهو نعم الوكيل.",
+  "الإيمان بالقضاء والقدر والرضا به، وأن الله قدر كل شيء.",
+  "من أضاع أمر الله فإن الله يُضَيِّعُه ولا يَحفظُه."
+ ],
+ "id": "hadeethenc-4811",
+ "language": "ar",
+ "narrator": null,
+ "reference": "سنن الترمذي (4/ 284) (2516).\nالتحفة الربانية في شرح الأربعين حديثًا النووية (ص42).\nشرح الأربعين النووية، لابن عثيمين (ص200).\nفتح القوي المتين في شرح الأربعين وتتمة الخمسين، للعباد (ص69).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=4811",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:32+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/4811"
+ },
+ "source_categories": [
+  {
+   "id": "86",
+   "label": "مراتب القضاء والقدر"
+  }
+ ],
+ "source_record_id": "4811",
+ "text": "عن ابن عباس رضي الله عنهما قال: كُنْتُ خَلْفَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَوْمًا، فَقَالَ: «يَا غُلَامُ، إِنِّي أُعَلِّمُكَ كَلِمَاتٍ، احْفَظِ اللهَ يَحْفَظْكَ، احْفَظِ اللهَ تَجِدْهُ تُجَاهَكَ، إِذَا سَأَلْتَ فَاسْأَلِ اللهَ، وَإِذَا اسْتَعَنْتَ فَاسْتَعِنْ بِاللهِ، وَاعْلَمْ أَنَّ الْأُمَّةَ لَوِ اجْتَمَعَتْ عَلَى أَنْ يَنْفَعُوكَ بِشَيْءٍ، لَمْ يَنْفَعُوكَ إِلَّا بِشَيْءٍ قَدْ كَتَبَهُ اللهُ لَكَ، وَلَوِ اجْتَمَعُوا عَلَى أَنْ يَضُرُّوكَ بِشَيْءٍ، لَمْ يَضُرُّوكَ إِلَّا بِشَيْءٍ قَدْ كَتَبَهُ اللهُ عَلَيْكَ، رُفِعَتِ الْأَقْلَامُ وَجَفَّتِ الصُّحُفُ».",
+ "title": "يا غلام، إني أعلمك كلمات، احفظ الله يحفظك، احفظ الله تجده تجاهك، إذا سألت فاسأل الله، وإذا استعنت فاستعن بالله",
+ "topic": "belief",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=4811",
+   "arabic_match": "exact",
+   "attribution": "এটি তিরমিযী বর্ণনা করেছেন।",
+   "content_sha256": "sha256:370cf6ccc2263e82c153ac52ac1f73f6b4e3643642e0be17c14b658e84b46c9b",
+   "explanation": "ইবনু আব্বাস রাদিয়াল্লাহু ‘আনহু সংবাদ দিয়েছেন যে, তিনি তখন ছোট ছিলেন। একদিন তিনি নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের সাথে আরোহী ছিলেন। তখন নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাকে বললেন, আমি তোমাকে এমন কিছু শিখিয়ে দিচ্ছি যার দ্বারা আল্লাহ তোমার উপকার করবেন:\r\n\r\nতুমি আল্লাহর (বিধানসমূহের) হিফাযত করবে, তাঁর আদেশসমূহ এমনভাবে পালন করবে এবং নিষেধসমূহ থেকে বিরত থাকবে যে, তোমাকে তাঁর আনুগত্য ও নৈকট্যে পাওয়া যাবে এবং তাঁর গুনাহ ও অপরাধে তোমাকে পাওয়া যাবে না। তুমি এমন করতে পারলে তোমার প্রতিদান হলো, আল্লাহ তোমার দুনিয়া ও আখিরাতের মন্দ থেকে হিফাযত করবেন, তুমি যেখানেই থাকো তিনি তোমার কাজে তোমাকে সাহায্য করবেন।\r\n\r\nতুমি যখন কিছু চাইবে তখন আল্লাহ ছাড়া কারো কাছে চাইবে না। কেননা তিনিই একমাত্র মাবূদ যিনি প্রার্থনাকারীর প্রার্থনায় সাড়া দেন।\r\n\r\nআর যখন সাহায্য চাইবে তখন আল্লাহর কাছেই সাহায্য চাইবে।\r\n\r\nতোমার কাছে যেন এমন ইয়াকীন জন্মায় যে, জমিনবাসী যদি সকলে একত্রিত হয়েও তোমার উপকার করতে চায় তবুও  আল্লাহ যা তোমার তকদীরে লিখে রেখেছেন তা ছাড়া কোন উপকার তারা তোমার করতে পারবে না। আর পৃথিবীর সকলে মিলেও যদি তোমার কোন ক্ষতি করতে চায় তবে তোমার তাকদীরে আল্লাহ তা‘আলা যা লিখে রেখছেন তা ছাড়া তোমার কোন ক্ষতি তারা করতে পারবে না।\r\n\r\nসকল বিষয় মহান আল্লাহ তার হিকমত ও ইলম অনুযায়ী আগেই নির্ধারণ করে দিয়েছেন এবং লিপিবদ্ধ করে রেখেছেন। আল্লাহ যা লিপিবদ্ধ করেছেন তার কোন পরিবর্তন হয় না।",
+   "grade": "সহীহ",
+   "hints": [
+    "তাওহীদ, শিষ্টাচার ও দ্বীনের বিষয়াবলী ছোট ও শিশুদেরকে শিক্ষা দেওয়ার গুরুত্ব এ হাদীসে বর্ণিত হয়েছে।\r",
+    "সমজাতীয় কাজের বিনিময় সমজাতীয় হয়ে থাকে।(যেমন কর্ম তেমন ফল)\r",
+    "আল্লাহর উপরই নির্ভর করা, একমাত্র তাঁরই উপর তাওয়াক্কুল করার নির্দেশ। তিনিই হলেন সর্বোত্তম অভিভাবক।\r",
+    "আল্লাহ কর্তৃক নির্ধারিত ফয়সালা, তাকদীরের ভালো-মন্দ ও এর উপর সন্তুষ্ট থাকার উপর ঈমান আনা। তিনি সবকিছু নির্ধারণ করে রেখেছেন।\r",
+    "যে ব্যক্তি আল্লাহর নির্দেশ অমান্য করে, আল্লাহ তাকে ধ্বংস করে দেন এবং তিনি তাকে হেফাযত করেন না।"
+   ],
+   "mapping": "same HadeethEnc record id 4811; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:18+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/4811",
+   "text": "ইবনু আব্বাস রাদিয়াল্লাহু ‘আনহুমা থেকে বর্ণিত, তিনি বলেন: একদিন আমি রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের পিছনে (আরোহী) ছিলাম। তিনি বললেন: “ওহে বালক, আমি তোমাকে কিছু কালেমা শিখিয়ে দিচ্ছি। আল্লাহর (বিধানসমূহের) হিফাযত করবে। তিনি তোমার হিফাযত করবেন; আল্লাহর হিফাযত করবে, তাঁকে তোমার সামনে পাবে। যখন কিছু চাইবে তখন আল্লাহর কাছেই চাইবে, যখন সাহায্য চাইবে তখন আল্লাহর কাছেই সাহায্য চাইবে। জেনে রাখ, সমস্ত উম্মতও যদি তোমার উপকার করতে একত্রিত হয়ে যায়, তবে আল্লাহ যা তোমার তকদীরে লিখে রেখেছেন তা ছাড়া কোন উপকার করতে পারবে না। আর সব উম্মত যদি তোমার কোন ক্ষতি করতে একত্রিত হয়ে যায়, তবে তোমার তাকদীরে আল্লাহ তা‘আলা যা লিখে রেখছেন তা ছাড়া তোমার কোন ক্ষতি তারা করতে পারবে না। কলম উঠিয়ে নেয়া হয়েছে, আর লিখিত কাগজসমূহও শুকিয়ে গেছে।”",
+   "title": "ওহে বালক, আমি তোমাকে কিছু কালেমা শিখিয়ে দিচ্ছি। আল্লাহর (বিধানসমূহের) হিফাযত করবে। তিনি তোমার হিফাযত করবেন; আল্লাহর হিফাযত করবে, তাঁকে তোমার সামনে পাবে। যখন কিছু চাইবে তখন আল্লাহর কাছেই চাইবে, যখন সাহায্য চাইবে তখন আল্লাহর কাছেই সাহায্য চাইবে",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=4811",
+   "arabic_match": "exact",
+   "attribution": "Narrated by At-Tirmidhi",
+   "content_sha256": "sha256:43bbffb333f1246c9569935cd75d15b3a2957d8f1d3f646ee8efbf9d6fbfa1e1",
+   "explanation": "Ibn ‘Abbās (may Allah be pleased with him) informs that one day, as a boy, he was riding behind the Prophet (may Allah's peace and blessings be upon him), and he said to him: I will teach you things by which Allah will benefit you:\r\n\r\nBe mindful of Allah by observing His commands and prohibitions so He will find you engaged in the acts of worship and piety and not find you committing sins and misdeeds. If you do so, your recompense will be that Allah will protect you from unpleasant things in this world and the Hereafter and support you in your endeavors wherever you go.\r\n\r\nIf you want to ask for something, do not ask anyone but Allah, for He alone responds to those who ask.\r\n\r\nAnd if you need help, do not seek help except from Allah.\r\n\r\nAnd you should be certain that no benefit will come to you, even if all the earth's inhabitants were to gather together to bring it to you, except if Allah had predestined it for you. No harm will happen to you, even if all the inhabitants of the earth were to gather together to cause it to you, except if Allah had predestined it for you.\r\n\r\nAnd that Allah Almighty had written and predestined this matter according to His wisdom and knowledge, and whatever Allah had written cannot be changed.",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth shows the significance of teaching children the religious matters of monotheism, ethics, and so on.\r",
+    "Recompense is of the same type as one's deed.\r",
+    "We are required to trust and rely upon Allah Almighty alone. He is the best Disposer of affairs.\r",
+    "We are required to believe in and be content with the divine decree and predestination and that Allah has predestined everything.\r",
+    "Whoever neglects the commands of Allah, Allah will abandon him and will not protect him."
+   ],
+   "mapping": "same HadeethEnc record id 4811; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:18+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/4811",
+   "text": "Ibn ‘Abbās (may Allah be pleased with him) reported: One day, I was riding behind the Prophet (peace and blessings of Allah be upon him), and he said: \"O boy, I shall teach you some words: Be mindful of Allah, and Allah will protect you. Be mindful of Allah, and you will find Him before you. If you ask, ask Allah; if you seek help, seek help from Allah. And know that if the Ummah were to gather together to benefit you with anything, they would not benefit you except with what Allah had already prescribed for you. And if they were to gather together to harm you with anything, they would not harm you except with what Allah had already prescribed against you. The pens have been lifted, and the scrolls have dried.\"",
+   "title": "O boy, I shall teach you some words: Be mindful of Allah, and Allah will protect you. Be mindful of Allah, and you will find Him before you. If you ask, ask Allah; if you seek help, seek help from Allah",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=4811",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par At-Tirmidhî",
+   "content_sha256": "sha256:e9a3a719ccc59b5128becd37edfc54ba5d22d94b81198ed4c9b071679230c29b",
+   "explanation": "Ibn 'Abbâs (qu'Allah l'agrée) informe qu'il était un jeune garçon étant avec le Prophète (qu'Allah le couvre d'éloges et le préserve) sur sa monture, alors il (qu'Allah le couvre d'éloges et le préserve) lui a dit : \" Certes, je vais t'enseigner des affaires et des choses dont Allah t'accordera le bénéfice de celles-ci. \"\r\n\r\nPréserve Allah en préservant Ses injonctions et en évitant Ses interdictions de sorte qu'Il te trouve dans des obéissances et des oeuvres qui rapprochent de Lui et qu'Il ne te trouve pas dans des désobéissances et des péchés. Si tu fais cela, alors ta récompense sera qu'Allah te préservera des désagréments de la vie d'ici-bas et de l'au-delà et Il te secourra dans tes tâches vers lesquelles tu te diriges.\r\n\r\nEt lorsque tu veux demander une chose, alors ne demande qu'à Allah car Il est le Seul qui répond à ceux qui demandent.\r\n\r\nEt lorsque tu veux de l'aide, alors ne demande de l'aide qu'à Allah.\r\n\r\nAie la certitude que tu n'obtiendras d'avantage que ce qu'Allah t'a écrit en ta faveur même si tous les gens de la terre se réunissaient pour t'accorder un avantage. Et à l'inverse, tu ne récolteras aucun préjudice même si tous les gens de la terre se réunissaient pour te porter préjudice excepté si Allah l'a décrété en ta défaveur.\r\n\r\nEn effet, Allah, Exalté soit-Il, a écrit cette affaire, Il l'a décrété selon ce qu'impliquait Sa sagesse et Sa science et Il n'y a pas de changement à ce qu'Allah a écrit.",
+   "grade": "Authentique",
+   "hints": [
+    "L'importance de l'enseignement des affaires de la religion aux petits et aux enfants, notamment : le monothéisme, les bonnes manières, et autre que cela.\r",
+    "La récompense est en fonction même de l’œuvre.\r",
+    "L'ordre de compter sur Allah et de placer sa confiance en Lui en dehors de quiconque autre, et quel bon Garant Il est.\r",
+    "La foi dans la Prédestinée et le Décret divin et son entière satisfaction. Et Allah est Celui qui a décrété toute chose.\r",
+    "Quiconque néglige l'ordre d'Allah, alors Allah le négligera et Il ne le préservera pas."
+   ],
+   "mapping": "same HadeethEnc record id 4811; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:18+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/4811",
+   "text": "D'après Ibn 'Abbâs (qu'Allah l'agrée, lui et son père) : « Un jour où je me trouvais derrière le Prophète (qu'Allah le couvre d'éloges et le préserve) il a dit : \"  Ô jeune garçon ! Je vais t’enseigner quelques paroles : Préserve Allah et Il te préservera. Préserve Allah et tu Le trouveras devant toi. Lorsque tu demandes, demande alors à Allah. Lorsque tu cherches de l’aide, alors cherche l'aide d’Allah. Sache que si toute la communauté se réunissait pour te faire bénéficier d'une chose, elle ne pourrait le faire que pour une chose qu’Allah a écrite en ta faveur. Et si elle se liguait pour te nuire, elle ne te nuirait que pour une chose qu’Allah a écrite en ta défaveur. La plume est levée et les pages ont séché. »",
+   "title": "Ô jeune garçon ! Je vais t’enseigner quelques paroles : Préserve Allah et Il te préservera. Préserve Allah et tu Le trouveras devant toi. Lorsque tu demandes, demande alors à Allah. Lorsque tu cherches de l’aide, alors cherche l'aide d’Allah",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=4811",
+   "arabic_match": "exact",
+   "attribution": "HR. Tirmizi",
+   "content_sha256": "sha256:c63e4dbd3303936844114b192f2a35b551f6df463fa44edc0cb036df0b6d698f",
+   "explanation": "Ibnu 'Abbās -raḍiallāhu 'anhu- mengabarkan bahwa ketika ia masih kecil dan sedang berkendara bersama Nabi ﷺ, beliau bersabda kepadanya: Sungguh aku akan mengajarimu beberapa perkara yang akan menjadi sebab Allah memberimu manfaat, yaitu:\r\n\r\n1- Jagalah Allah dengan menjaga perintah-Nya dan menjauhi larangan-Nya, agar Allah senantiasa mendapatimu dalam ketaatan dan ibadah, dan tidak mendapatimu dalam kemaksiatan dan dosa. Jika hal itu engkau lakukan, ganjaranmu ialah Allah menjagamu dari keburukan dunia dan akhirat serta menolongmu dalam semua urusanmu ke manapun engkau pergi.\r\n\r\n2- Jika engkau hendak meminta sesuatu, maka mintalah kepada Allah, karena hanya Allah semata yang mengabulkan permintaan orang-orang yang meminta.\r\n\r\n3- Jika engkau menginginkan pertolongan, janganlah meminta pertolongan kecuali kepada Allah.\r\n\r\n4- Hendaklah engkau memiliki keyakinan bahwa engkau tidak akan memperoleh manfaat apapun sekalipun semua penduduk bumi bersatu untuk memberimu manfaat, kecuali manfaat yang telah Allah tuliskan bagimu. Demikian juga, engkau tidak akan ditimpa keburukan sekalipun seluruh penduduk bumi bersatu untuk mencelakakanmu, kecuali yang telah Allah takdirkan bagimu.\r\n\r\n5- Semua urusan telah ditulis dan ditetapkan oleh Allah ﷻ sesuai dengan yang ditunjukkan oleh hikmah dan ilmu-Nya, dan tidak ada penggantian bagi ketetapan Allah.\"",
+   "grade": "Sahih",
+   "hints": [
+    "1- Urgensi mengajarkan anak-anak kecil urusan agama seperti tauhid, adab dan lainnya.\r",
+    "2- Balasan sejenis dengan perbuatan.\r",
+    "3- Perintah agar bertumpu dan bertawakal kepada Allah, tidak kepada yang lain, karena Allah adalah sebaik-baik tempat berserah diri.\r",
+    "4- Beriman kepada qada dan qadar serta rida kepadanya, dan bahwa Allah telah menakdirkan segala sesuatu.\r",
+    "5- Siapa yang menyia-nyiakan perintah Allah, maka Allah akan menelantarkannya dan tidak menjaganya."
+   ],
+   "mapping": "same HadeethEnc record id 4811; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:18+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/4811",
+   "text": "Ibnu 'Abbās -raḍiyallāhu 'anhumā- meriwayatkan, suatu hari aku berada di belakang Rasulullah ﷺ, lalu beliau bersabda, \"Wahai Ananda! Aku akan ajarkan kepadamu beberapa pelajaran. Jagalah Allah, niscaya Allah akan menjagamu. Jagalah Allah, niscaya engkau akan mendapatkan-Nya di hadapan-Mu. Jika engkau menginginkan sesuatu, mintalah kepada Allah, dan jika engkau butuh pertolongan, mohonlah pertolongan kepada Allah. Camkanlah! Andai seluruh manusia berkumpul untuk memberikan satu manfaat kepadamu, mereka tidak akan mampu mewujudkannya kecuali sebatas apa yang telah Allah tetapkan untukmu. Andai mereka berkumpul untuk mencelakaimu, maka mereka tidak akan mampu mewujudkannya kecuali sebatas apa yang telah Allah tetapkan untukmu. Pena takdir telah diangkat dan kertasnya telah kering (dari tinta).”",
+   "title": "Wahai Ananda! Aku akan ajarkan kepadamu beberapa pelajaran. Jagalah Allah, niscaya Allah akan menjagamu. Jagalah Allah, niscaya engkau akan mendapatkan-Nya di hadapan-Mu. Jika engkau menginginkan sesuatu, mintalah kepada Allah, dan jika engkau butuh pertolongan, mohonlah pertolongan kepada Allah",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=4811",
+   "arabic_match": "exact",
+   "attribution": "رواه الترمذي",
+   "content_sha256": "sha256:f21f8b290a964444da5d60b62a85d2e3734b9826a5b08244b3e18b2cca74a0b1",
+   "explanation": "عبداللہ بن عباس رضی اللہ عنہ بتا رہے ہيں کہ ایک دن وہ اللہ کے نبی صلی اللہ کے پیچھے سواری پر بیٹھے ہوئے تھے کہ آپ نے کہا : میں تمھیں کچھ باتیں سکھاؤں گا، جن سے اللہ تمھیں فائدہ پہنچائے گا :\r\n\r\nاللہ کے احکام کی حفاظت کرکے اور اس کی منع کی ہوئی چیزوں سے دور رہ کر اس طرح اللہ کی حفاظت کرو کہ وہ تم کو نیکی اور اللہ سے قریب کرنے والے کاموں میں مشغول پائے اور نافرمانیوں اور گناہوں میں مشغول نہ پائے۔ اگر تم ایسا کروگے، تو بدلے میں اللہ دنیا و آخرت کی ناخوش گوار چیزوں سے تمھاری حفاظت کرے گا اور تم جہاں بھی جاؤگے، ہر کام میں تمھاری مدد کرے گا۔\r\n\r\nجب تم کچھ مانگنا چاہو، تو صرف اللہ سے مانگو۔ کیوں کہ وہی مانگنے والوں کی مرادیں پوری کرتا ہے۔\r\n\r\nجب مدد طلب کرنی ہو، تو بس اللہ سے طلب کرو۔\r\n\r\nتمھارے دل میں اس بات کا یقین ہونا چاہیے کہ اگر روئے زمین پر موجود سارے لوگ تمھارا بھلا کرنا چاہيں، تو اتنا ہی کر سکتے ہيں، جتنا اللہ نے تمھاری قسمت میں لکھ رکھا ہے اور اگر دھرتی پر بسنے والے سارے لوگ تمھارا برا کرنا چاہيں، تو اس سے زیادہ نہیں کر سکتے، جتنا اللہ نے تمھاری قسمت میں لکھ رکھا ہے۔\r\n\r\nان ساری باتوں کو اللہ تبارک و تعالی نے اپنی حکمت اور علم کے تقاضے کے مطابق لکھ رکھا ہے اور اللہ کے لکھے ہوئے میں کوئی تبدیلی ممکن نہيں ہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "چھوٹے بچوں کو توحید و آداب اور اس طرح کے دین کی دیگر باتیں سکھانے کی اہمیت۔\r",
+    "انسان کو بدلہ اسی نوعیت کا دیا جاتا ہے، جس نوعیت کا اس کا عمل ہوتا ہے۔\r",
+    "اللہ پر بھروسہ رکھنے اور اس پر توکل کرنے کا حکم، کیوں کہ وہ سب سے بہترین کار ساز ہے۔\r",
+    "قضا و قدر پر ایمان اور اس سے رضامندی اور یہ کہ اللہ نے ساری چیزیں پہلے ہی مقدر کر رکھی ہے۔\r",
+    "جو اللہ کے حکم کو ضا‏ئع کرے گا، اللہ اسے ضائع کرے گا اور اس کی حفاظت نہیں کرے گا۔"
+   ],
+   "mapping": "same HadeethEnc record id 4811; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:18+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/4811",
+   "text": "عبداللہ بن عباس رضی اللہ عنہما سے مروی ہے، وہ کہتے ہیں: میں ایک دن اللہ کے رسول ﷺ کے پیچھے سوار تھا کہ اسی درمیان آپ نے فرمایا : \"اے لڑکے! میں تمھیں کچھ باتیں سکھانا چاہتا ہوں۔ اللہ (کے حقوق) کی حفاظت کرو، اللہ تمھاری حفاظت کرے گا۔ تم اللہ (کے حقوق) کا خیال رکھو، اللہ کو اپنے سامنے پاؤ گے۔ جب مانگو، تواللہ ہی سے مانگو اور جب مدد طلب کرو، تو اللہ ہی سے مدد طلب کرو۔ اس بات کو جان لو کہ اگر سب مل کر بھی تمھیں فائدہ پہنچانا چاہیں، تو تمھیں اتنا ہی فائدہ پہنچا سکتے ہیں، جتنا اللہ نے تمھارے لیے لکھ دیا ہے اور اگر سب مل کر بھی تمھیں نقصان پہنچانا چاہیں، تو تمھیں اتنا ہی نقصان پہنچا سکتے ہیں، جتنا اللہ نے تمھارے لیے لکھ دیاہے۔ قلم اٹھالیے گئے ہیں اور صحیفے خشک ہو چکے ہيں\"۔",
+   "title": "اے لڑکے! میں تمھیں کچھ باتیں سکھانا چاہتا ہوں۔ اللہ (کے حقوق) کی حفاظت کرو، اللہ تمھاری حفاظت کرے گا۔ تم اللہ (کے حقوق) کا خیال رکھو، اللہ کو اپنے سامنے پاؤ گے۔ جب مانگو، تواللہ ہی سے مانگو اور جب مدد طلب کرو، تو اللہ ہی سے مدد طلب کرو",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=4811",
+   "arabic_match": "exact",
+   "attribution": "提尔米兹辑录",
+   "content_sha256": "sha256:89eac4bd244902a8358857112b1eed22170b1c01f5530c13e7b1e2d65464e51f",
+   "explanation": "伊本·阿巴斯（愿主喜悦之）传达说，他在幼年时与先知（愿主福安之）一同乘坐，先知（愿主福安之）对他说：我将教导你一些事情和事物，愿真主使你从中受益：\r\n\r\n你遵守真主的命令并远离他的禁忌，也就是说他能在你的顺从与善功中见到你，而在违抗和罪恶中见不到你。如果你这样做，那么你的回报将是真主保护你免受今世和后世的困难，无论你前往何处他都会在你的重任中援助你。\r\n\r\n当你想要祈求某事时，只向真主祈求，因为只有他能够应答祈求者。\r\n\r\n当你需要帮助时，只寻求真主的援助。\r\n\r\n在你的内心要确信，即使大地上所有的人都集结起来为你谋求利益，也只能得到真主为你注定的那些利益。同样地，要确信即使大地上所有的人都团结起来伤害你，也只会发生真主对你命定的那些伤害。\r\n\r\n这件事情依真主的智慧、知识所注定的。对安拉注定的事物，没有任何改变。",
+   "grade": "正确的",
+   "hints": [
+    "教育儿童和孩子们宗教事物的重要性，包括认主独一、道德规范和其它方面的知识。\r",
+    "回报源于付出。\r",
+    "托靠真主，全心信赖他，他是最好的保护者。\r",
+    "相信前定，心悦诚服，相信真主注定了一切。\r",
+    "谁忽略真主的命令，真主就会忽视他，不保护他。"
+   ],
+   "mapping": "same HadeethEnc record id 4811; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:18+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/4811",
+   "text": "据伊本·阿巴斯（愿主喜悦他俩）传述，他说： 一天我在真主的使者(愿主福安之)身后,他说:“孩子啊!我教授你几句话:你看守真主,真主会看守你,你看守真主,你会发现他就在你面前｡若你祈祷,就向真主祈祷,若你求助,就求助真主｡须知!整个民族若一致助你一臂之力,也不会对你有什么好处,唯有真主早已规定的;整个民族若一致要加害于你,也不会对你有什么损害,唯有真主早已规定的｡一切都写好,墨迹已干｡”",
+   "title": "孩子啊!我教授你几句话:你看守真主,真主会看守你,你看守真主,你会发现他就在你面前｡若你祈祷,就向真主祈祷,若你求助,就求助真主",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [
+  {
+   "meaning": " أي على دابته رديفًا.",
+   "word": "خلف النبي -صلى الله عليه وسلم"
+  },
+  {
+   "meaning": " الصبي من حين يولد إلى أن يقارب سنَّ البلوغ.",
+   "word": "غلام"
+  }
+ ],
+ "words_meanings_language": "ar"
+}

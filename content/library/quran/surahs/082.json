@@ -1,0 +1,655 @@
+{
+ "ayah_count": 19,
+ "ayahs": [
+  {
+   "arabic": "إِذَا ٱلسَّمَآءُ ٱنفَطَرَتۡ",
+   "aya": 1,
+   "id": 5830,
+   "tafsir": {
+    "arabic_moyassar": "إذا السماء انشقت، واختلَّ نظامها، وإذا الكواكب تساقطت، وإذا البحار فجَّر الله بعضها في بعض، فذهب ماؤها، وإذا القبور قُلِبت ببعث مَن كان فيها، حينئذ تعلم كلُّ نفس جميع أعمالها، ما تقدَّم منها، وما تأخر، وجوزيت بها."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১) ফিরিশতাদের অবতরণের ফলে।",
+     "text": "যখন (১) আসমান বিদীর্ণ হবে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "When the sky breaks apart."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Lorsque le ciel s’entrouvrira,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Apabila langit terbelah,"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی اللہ کے حکم اور اس کی ہیبت سےپھٹ جائے گا اور فرشتے نیچے اتر آئیں گے۔",
+     "text": "جب آسمان پھٹ جائے گا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "当苍穹破裂的时候，"
+    }
+   }
+  },
+  {
+   "arabic": "وَإِذَا ٱلۡكَوَاكِبُ ٱنتَثَرَتۡ",
+   "aya": 2,
+   "id": 5831,
+   "tafsir": {
+    "arabic_moyassar": "إذا السماء انشقت، واختلَّ نظامها، وإذا الكواكب تساقطت، وإذا البحار فجَّر الله بعضها في بعض، فذهب ماؤها، وإذا القبور قُلِبت ببعث مَن كان فيها، حينئذ تعلم كلُّ نفس جميع أعمالها، ما تقدَّم منها، وما تأخر، وجوزيت بها."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর যখন নক্ষত্ররাজি বিক্ষিপ্তভাবে ঝরে পড়বে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and when the stars fall, scattered,"
+    },
+    "fr": {
+     "footnotes": "[1] En se dispersant.",
+     "text": "lorsque les astres chuteront[1],"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan apabila bintang-bintang jatuh berserakan,"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "اور جب ستارے جھڑ جائیں گے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "当众星飘堕的时候，"
+    }
+   }
+  },
+  {
+   "arabic": "وَإِذَا ٱلۡبِحَارُ فُجِّرَتۡ",
+   "aya": 3,
+   "id": 5832,
+   "tafsir": {
+    "arabic_moyassar": "إذا السماء انشقت، واختلَّ نظامها، وإذا الكواكب تساقطت، وإذا البحار فجَّر الله بعضها في بعض، فذهب ماؤها، وإذا القبور قُلِبت ببعث مَن كان فيها، حينئذ تعلم كلُّ نفس جميع أعمالها، ما تقدَّم منها، وما تأخر، وجوزيت بها."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর যখন সমুদ্রগুলোকে উত্তাল করে তোলা হবে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and when the seas burst forth,"
+    },
+    "fr": {
+     "footnotes": "[2] Et confondront leurs eaux, ajoutent certains commentateurs.",
+     "text": "lorsque les mers déborderont[2],"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan apabila lautan dijadikan meluap,"
+    },
+    "ur": {
+     "footnotes": "[1] اور سب کا پانی ایک ہی سمندر میں جمع ہو جائے گا، پھر اللہ تعالیٰ پچھمی ہوا بھیجے گا۔ جو اس میں آگ بھڑ کا دے گی جس سے فلک شگاف شعلے بلند ہوں گے۔",
+     "text": "اور جب سمندر بہہ نکلیں گے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "当海洋被混合的时候，"
+    }
+   }
+  },
+  {
+   "arabic": "وَإِذَا ٱلۡقُبُورُ بُعۡثِرَتۡ",
+   "aya": 4,
+   "id": 5833,
+   "tafsir": {
+    "arabic_moyassar": "إذا السماء انشقت، واختلَّ نظامها، وإذا الكواكب تساقطت، وإذا البحار فجَّر الله بعضها في بعض، فذهب ماؤها، وإذا القبور قُلِبت ببعث مَن كان فيها، حينئذ تعلم كلُّ نفس جميع أعمالها، ما تقدَّم منها، وما تأخر، وجوزيت بها."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর যখন কবরগুলো (মৃতদের পুনরুত্থানের জন্যে) উন্মোচিত করা হবে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and when the graves are overturned,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "que les tombes, bouleversées, se videront"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan apabila kuburan-kuburan dibongkar,"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی قبروں سے مردے زندہ ہو کر باہر نکل آئیں گے۔ بُعْثِرَتْ، اکھیڑ دی جائیں گی، یا ان کی مٹی پلٹ دی جائے گی۔",
+     "text": "اور جب قبریں (شق کر کے) اکھاڑ دی جائیں گی.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "当坟墓被揭开的时候，"
+    }
+   }
+  },
+  {
+   "arabic": "عَلِمَتۡ نَفۡسٞ مَّا قَدَّمَتۡ وَأَخَّرَتۡ",
+   "aya": 5,
+   "id": 5834,
+   "tafsir": {
+    "arabic_moyassar": "إذا السماء انشقت، واختلَّ نظامها، وإذا الكواكب تساقطت، وإذا البحار فجَّر الله بعضها في بعض، فذهب ماؤها، وإذا القبور قُلِبت ببعث مَن كان فيها، حينئذ تعلم كلُّ نفس جميع أعمالها، ما تقدَّم منها، وما تأخر، وجوزيت بها."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তখন প্রত্যেকেই জানতে পারবে, সে আগে কী আমল প্রেরণ করেছে এবং পেছনে কী আমল ছেড়ে এসেছে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "then each soul will come to know what it has done or what it has left undone."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "chaque âme connaîtra l’ensemble de ses actions."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(maka) setiap jiwa akan mengetahui apa yang telah dikerjakan dan yang dilalaikan(nya)."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی جب مذکورہ امور واقع ہوں گے تو انسان کو اپنے تمام کیے دھرے کا علم ہو جائے گا، جو بھی اچھا یا برا عمل اس نے کیا ہوگا، وہ سامنے آجائے گا، پیچھے چھوڑےہوئے عمل سے مراد اپنے کردار وعمل کے اچھی یا برے نمونے ہیں جو دنیا میں وہ چھوڑ آیا اور لوگ ان نمونوں پر عمل کرتے ہیں۔ یہ نمونے اگر اچھے ہیں تو اس کےمرنے کے بعد ان نمونوں پر جو لوگ بھی عمل کریں گے، اس کا ثواب اسے بھی پہنچتا رہے گا اور اگر برے نمونے اپنے پیچھے چھوڑ گیا ہے تو جو جو بھی اسے اپنائے گا، ان کا گناہ بھی اس شخص کو پہنچتا رہے گا، جس کی مساعی سے وہ برا طریقہ یا کام رائج ہوا ۔",
+     "text": "(اس وقت) ہر شخص اپنے آگے بھیجے ہوئے اور پیچھے چھوڑے ہوئے (یعنی اگلے پچھلے اعمال) کو معلوم کر لے گا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "每个人都知道自己前前后后所做的一切事情。"
+    }
+   }
+  },
+  {
+   "arabic": "يَٰٓأَيُّهَا ٱلۡإِنسَٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلۡكَرِيمِ",
+   "aya": 6,
+   "id": 5835,
+   "tafsir": {
+    "arabic_moyassar": "يا أيها الإنسان المنكر للبعث، ما الذي جعلك تغتَرُّ بربك الجواد كثير الخير الحقيق بالشكر والطاعة، أليس هو الذي خلقك فسوَّى خلقك فعَدَلك، وركَّبك لأداء وظائفك، في أيِّ صورة شاءها خلقك؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "হে মানুষ! কিসে তোমাকে তোমার মহান রব সম্পর্কে ধোঁকা দিল?"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "O mankind, what has lured you away from your Lord, the Most Generous,"
+    },
+    "fr": {
+     "footnotes": "[3] Pour Lui désobéir.",
+     "text": "Ô homme ! Qu’est-ce qui a bien pu t’abuser au sujet de ton noble Seigneur[3]"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Wahai manusia! Apakah yang telah memperdayakan kamu (berbuat durhaka) terhadap Tuhanmu Yang Maha Pengasih."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی کس چیز نےتجھے دھوکے اور فریب میں مبتلا کر دیا کہ تو نے اس رب کے ساتھ کفر کیا، جس نے تجھ پر احسان کیا اور تجھے وجود بخشا، تجھے عقل وفہم عطا کی اور اسباب حیات تیرے لئے مہیا کئے۔",
+     "text": "اے انسان! تجھے اپنے رب کریم سے کس چیز نے بہکایا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "人啊！什么东西引诱你背离了你的仁慈的养主呢？"
+    }
+   }
+  },
+  {
+   "arabic": "ٱلَّذِي خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ",
+   "aya": 7,
+   "id": 5836,
+   "tafsir": {
+    "arabic_moyassar": "يا أيها الإنسان المنكر للبعث، ما الذي جعلك تغتَرُّ بربك الجواد كثير الخير الحقيق بالشكر والطاعة، أليس هو الذي خلقك فسوَّى خلقك فعَدَلك، وركَّبك لأداء وظائفك، في أيِّ صورة شاءها خلقك؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "যিনি তোমাকে সৃষ্টি করেছেন অতঃপর তোমাকে সুঠাম করেছেন, তারপর তোমাকে সুসামঞ্জস্য করেছেন।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Who created you, then shaped and proportioned you,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "qui t’a créé, te donnant la forme la plus accomplie et de justes proportions,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Yang telah menciptakanmu lalu menyempurnakan kejadianmu dan menjadikan (susunan tubuh)mu seimbang,"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی حقیر نطفے سے، جب کہ اسے پہلے تیرا وجود نہیں تھا۔\n[2] یعنی تجھے ایک کامل انسان بنا دیا، تو سنتا ہے، دیکھتا ہے اور عقل وفہم رکھتا ہے۔\n[3] تجھے معتدل، کھڑا اور حسن صورت والا بنایا، یا تیری دونوں آنکھوں، دونوں کانوں، دونوں ہاتھوں اور دونوں پیروں کو برابر بنایا۔ اگر تیرےاعضا میں یہ برابری مناسبت نہ ہوتی تو تیرے وجود میں حسن کے بجائے بےڈھب پن ہو جاتا۔ اسی تخلیق کو دوسرےمقام پر أَحْسَنِ تَقْوِيمٍ سےتعبیر فرمایا، لَقَدْ خَلَقْنَا الإِنْسَانَ فِي أَحْسَنِ تَقْوِيمٍ ۔",
+     "text": "جس (رب نے) تجھے پیدا کیا،[1] پھر ٹھیک ٹھاک کیا[2]، پھر (درست اور) برابر بنایا.[3]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他曾创造了你，然后，使你健全，然后，使你匀称。"
+    }
+   }
+  },
+  {
+   "arabic": "فِيٓ أَيِّ صُورَةٖ مَّا شَآءَ رَكَّبَكَ",
+   "aya": 8,
+   "id": 5837,
+   "tafsir": {
+    "arabic_moyassar": "يا أيها الإنسان المنكر للبعث، ما الذي جعلك تغتَرُّ بربك الجواد كثير الخير الحقيق بالشكر والطاعة، أليس هو الذي خلقك فسوَّى خلقك فعَدَلك، وركَّبك لأداء وظائفك، في أيِّ صورة شاءها خلقك؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "যে আকৃতিতে তিনি চেয়েছেন, সেভাবেই তিনি তোমাকে গঠন করেছেন।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and assembled you in whatever form He willed?"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "choisissant pour toi la forme qu’Il a voulue."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dalam bentuk apa saja yang dikehendaki, Dia menyusun tubuhmu."
+    },
+    "ur": {
+     "footnotes": "[1] اس کا ایک مفہوم تو یہ ہے کہ اللہ بچے کو جس کے چاہے مشابہ بنا دے۔ باپ کے، ماں کے یا ماموں اور چچا کے۔ دوسرا مطلب ہے کہ وہ جس شکل میں چاہے، ڈھال دے، حتیٰ کہ قبیح ترین جانور کی شکل میں بھی پیدا کر سکتا ہے لیکن یہ اس کا لطف وکرم اور مہربانی ہے کہ وہ ایسا نہیں کرتا اور بہترین انسانی شکل میں ہی پیدا فرماتا ہے۔",
+     "text": "جس صورت میں چاہا تجھے جوڑ دیا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他依他所意欲的形象构造了你。"
+    }
+   }
+  },
+  {
+   "arabic": "كَلَّا بَلۡ تُكَذِّبُونَ بِٱلدِّينِ",
+   "aya": 9,
+   "id": 5838,
+   "tafsir": {
+    "arabic_moyassar": "ليس الأمر كما تقولون من أنكم في عبادتكم غير الله مُحِقون، بل تكذِّبون بيوم الحساب والجزاء. وإن عليكم لملائكة رقباء كراما على الله كاتبين لما وُكِّلوا بإحصائه، لا يفوتهم من أعمالكم شيء، يعلمون ما تفعلون من خير أو شر."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "কখনোই নয়; বরং তোমরা প্রতিদান দিবসকে অস্বীকার কর।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "No indeed; but you deny the Judgment Day,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Vous ne croyez pourtant pas au Jugement dernier,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sekali-kali jangan begitu! Bahkan kamu mendustakan hari pembalasan."
+    },
+    "ur": {
+     "footnotes": "[1] كَلا، حَقًّا کے معنی میں بھی ہو سکتا ہے۔ اور کافروں کےاس طرز عمل کی نفی بھی جو اللہ کریم کی رافت ورحمت سے دھوکے میں مبتلا ہونے پر مبنی ہے یعنی اس فریب نفس میں مبتلا ہونےکا کوئی جواز نہیں بلکہ اصل بات یہ ہے کہ تمہارے دلوں میں اس بات پر یقین نہیں ہے کہ قیامت ہوگی اور وہاں جزا وسزا ہوگی۔",
+     "text": "ہرگز نہیں بلکہ تم تو جزا وسزا کے دن کو جھٹلاتے ہو.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "绝不然，但你们否认报应！"
+    }
+   }
+  },
+  {
+   "arabic": "وَإِنَّ عَلَيۡكُمۡ لَحَٰفِظِينَ",
+   "aya": 10,
+   "id": 5839,
+   "tafsir": {
+    "arabic_moyassar": "ليس الأمر كما تقولون من أنكم في عبادتكم غير الله مُحِقون، بل تكذِّبون بيوم الحساب والجزاء. وإن عليكم لملائكة رقباء كراما على الله كاتبين لما وُكِّلوا بإحصائه، لا يفوتهم من أعمالكم وأسراركم شيء، يعلمون ما تفعلون من خير أو شر."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর নিশ্চয় তোমাদের ওপর সংরক্ষক ফিরিশতাগণ নিযুক্ত রয়েছে।"
+    },
+    "en": {
+     "footnotes": "[1] i.e., angels who preserve all your deeds.",
+     "text": "while there are watchers[1] over you,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "alors que vos œuvres sont soigneusement consignées,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan sesungguhnya bagi kamu ada (malaikat-malaikat) yang mengawasi (pekerjaanmu),"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "یقیناً تم پر نگہبان عزت والے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你们的上面，确有许多监视者，"
+    }
+   }
+  },
+  {
+   "arabic": "كِرَامٗا كَٰتِبِينَ",
+   "aya": 11,
+   "id": 5840,
+   "tafsir": {
+    "arabic_moyassar": "ليس الأمر كما تقولون من أنكم في عبادتكم غير الله مُحِقون، بل تكذِّبون بيوم الحساب والجزاء. وإن عليكم لملائكة رقباء كراما على الله كاتبين لما وُكِّلوا بإحصائه، لا يفوتهم من أعمالكم وأسراركم شيء، يعلمون ما تفعلون من خير أو شر."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "সম্মানিত লেখকবৃন্দ,"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "honorable scribes,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "par de nobles scribes, des anges honorés"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "yang mulia (di sisi Allah) dan yang mencatat (perbuatanmu),"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "لکھنے والے مقرر ہیں."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "〔他们〕是尊贵的，是记录的，"
+    }
+   }
+  },
+  {
+   "arabic": "يَعۡلَمُونَ مَا تَفۡعَلُونَ",
+   "aya": 12,
+   "id": 5841,
+   "tafsir": {
+    "arabic_moyassar": "ليس الأمر كما تقولون من أنكم في عبادتكم غير الله مُحِقون، بل تكذِّبون بيوم الحساب والجزاء. وإن عليكم لملائكة رقباء كراما على الله كاتبين لما وُكِّلوا بإحصائه، لا يفوتهم من أعمالكم وأسراركم شيء، يعلمون ما تفعلون من خير أو شر."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তারা জানে তোমরা যা করো।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "who know whatever you do."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "connaissant les actes que vous accomplissez."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "mereka mengetahui apa yang kamu kerjakan."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی تم جو جزا وسزا کے منکر ہو، لیکن تمہیں معلوم ہونا چاہئے کہ تمہارا ہر قول اور ہر فعل نوٹ ہو رہا ہے۔ اللہ کی طرف سے فرشتے تم پر بطور نگران مقرر ہیں جو تمہاری ہر اس بات کو جانتے ہیں جو تم کرتے ہو۔ یہ گویا انسانون کو تنبیہ ہے کہ ہر عمل اور بات سے پہلےسوچ لو کہ وہ غلط تو نہیں۔ یہ وہی بات ہے جو پہلے گزر چکی ہے مثلاً عَنِ الْيَمِينِ وَعَنِ الشِّمَالِ قَعِيدٌ (1) مَا يَلْفِظُ مِنْ قَوْلٍ إِلا لَدَيْهِ رَقِيبٌ عَتِيدٌ ( سورة ق ، 17۔ 18) یعنی (ایک فرشتہ اس کے دائیں اور دوسرا اس کے بائیں جانب بیٹھا ہوا ہے، انسان جو بولتا ہے، اس کے پاس نگران، تیار اور حاضر ہے) یعنی لکھنے کے لئے۔ کہتے ہیں ایک فرشتہ نیکی اور دوسرا بدی لکھتا ہے۔ اور احادیث وآثار سے معلوم ہوتا ہے کہ دن کے دو فرشتے الگ اور رات کے دو فرشتے الگ ہیں۔ آگے نیکوں اور بدوں، دونوں کا ذکر کیا جا رہا ہے۔",
+     "text": "جوکچھ تم کرتے ہو وه جانتے ہیں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们知道你们的一切行为。"
+    }
+   }
+  },
+  {
+   "arabic": "إِنَّ ٱلۡأَبۡرَارَ لَفِي نَعِيمٖ",
+   "aya": 13,
+   "id": 5842,
+   "tafsir": {
+    "arabic_moyassar": "إن الأتقياء القائمين بحقوق الله وحقوق عباده لفي نعيم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "নিশ্চয় সৎকর্মপরায়ণরা (কিয়ামত দিবসে) থাকবে সুখ- স্বাচ্ছন্দ্যে (জান্নাতে) ।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Indeed, the righteous will be in Bliss,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Les pieux croyants sont promis à la félicité,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sesungguhnya orang-orang yang berbakti benar-benar berada dalam (surga yang penuh) kenikmatan,"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "یقیناً نیک لوگ (جنت کے عیش وآرام اور) نعمتوں میں ہوں گے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "善人们，必在恩泽中；"
+    }
+   }
+  },
+  {
+   "arabic": "وَإِنَّ ٱلۡفُجَّارَ لَفِي جَحِيمٖ",
+   "aya": 14,
+   "id": 5843,
+   "tafsir": {
+    "arabic_moyassar": "وإن الفُجَّار الذين قَصَّروا في حقوق الله وحقوق عباده لفي جحيم، يصيبهم لهبها يوم الجزاء، وما هم عن عذاب جهنم بغائبين لا بخروج ولا بموت."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর নিশ্চয় পাপাচারীরা থাকবে (জাহান্নামের) প্রজ্বলিত আগুনে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and the wicked will be in Blazing Fire,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "tandis que les impies sont voués au Brasier"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan sesungguhnya orang-orang yang durhaka benar-benar berada dalam neraka."
+    },
+    "ur": {
+     "footnotes": "[1] جس طرح دوسرے مقام پر فرمایا، فَرِيقٌ فِي الْجَنَّةِ وَفَرِيقٌ فِي السَّعِيرِ (الشورى:7) ۔",
+     "text": "اور یقیناً بدکار لوگ دوزخ میں ہوں گے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "恶人们，必在烈火中。"
+    }
+   }
+  },
+  {
+   "arabic": "يَصۡلَوۡنَهَا يَوۡمَ ٱلدِّينِ",
+   "aya": 15,
+   "id": 5844,
+   "tafsir": {
+    "arabic_moyassar": "وإن الفُجَّار الذين قَصَّروا في حقوق الله وحقوق عباده لفي جحيم، يصيبهم لهبها يوم الجزاء، وما هم عن عذاب جهنم بغائبين لا بخروج ولا بموت."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "প্রতিদান দিবসে তারা সেখানে প্রবেশ করবে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "which they will enter on Judgment Day,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "où ils seront introduits le Jour du jugement dernier,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Mereka masuk ke dalamnya pada hari pembalasan."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی جس جزا وسزا کے دن کا وہ انکار کرتے تھے اسی دن جہنم میں اپنے اعمال کی پاداش میں داخل ہوں گے۔",
+     "text": "بدلے والے دن اس میں جائیں گے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们将在报应日堕入烈火，"
+    }
+   }
+  },
+  {
+   "arabic": "وَمَا هُمۡ عَنۡهَا بِغَآئِبِينَ",
+   "aya": 16,
+   "id": 5845,
+   "tafsir": {
+    "arabic_moyassar": "وإن الفُجَّار الذين قَصَّروا في حقوق الله وحقوق عباده لفي جحيم، يصيبهم لهبها يوم الجزاء، وما هم عن عذاب جهنم بغائبين لا بخروج ولا بموت."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(২) বরং তারা তথায় চিরকাল অবস্থান করবে।",
+     "text": "আর তারা সেখান থেকে অনুপস্থিত থাকতে পারবে না।(২)"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and will never come out of it."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "sans jamais plus pouvoir le quitter."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan mereka tidak mungkin keluar dari neraka itu."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی کبھی اس سے جدا نہیں ہوں گے اور اس سے غائب نہیں ہوں گے۔ بلکہ ہمیشہ اسی میں رہیں گے۔",
+     "text": "وه اس سے کبھی غائب نہ ہونے پائیں گے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们绝不得离开它。"
+    }
+   }
+  },
+  {
+   "arabic": "وَمَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلدِّينِ",
+   "aya": 17,
+   "id": 5846,
+   "tafsir": {
+    "arabic_moyassar": "وما أدراك ما عظمة يوم الحساب، ثم ما أدراك ما عظمةُ يوم الحساب؟ يوم الحساب لا يقدر أحد على نفع أحد، والأمر في ذلك اليوم لله وحده الذي لا يغلبه غالب، ولا يقهره قاهر، ولا ينازعه أحد."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "হে রাসূল! কিসে তোমাকে জানাবে প্রতিদান দিবস কী?"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "How do you know what Judgment Day is?"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Mais qui donc pourrait t’indiquer ce qu’est le Jour du jugement dernier ?"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan tahukah kamu apakah hari pembalasan itu?"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "تجھے کچھ خبر بھی ہے کہ بدلے کا دن کیا ہے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你怎能知道报应日是什么？"
+    }
+   }
+  },
+  {
+   "arabic": "ثُمَّ مَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلدِّينِ",
+   "aya": 18,
+   "id": 5847,
+   "tafsir": {
+    "arabic_moyassar": "وما أدراك ما عظمة يوم الحساب، ثم ما أدراك ما عظمةُ يوم الحساب؟ يوم الحساب لا يقدر أحد على نفع أحد، والأمر في ذلك اليوم لله وحده الذي لا يغلبه غالب، ولا يقهره قاهر، ولا ينازعه أحد."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তারপর বলছি, কিসে তোমাকে জানাবে প্রতিদান দিবস কী?"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Again, how do you know what Judgment Day is?"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Oui, qui pourrait t’indiquer ce qu’est vraiment le Jour du jugement dernier ?"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sekali lagi, tahukah kamu apakah hari pembalasan itu?"
+    },
+    "ur": {
+     "footnotes": "[1] تکرار، اس کی عظمت وضخامت اور اس دن کی ہولناکیوں کی وضاحت کے لئے ہے۔",
+     "text": "میں پھر (کہتا ہوں کہ) تجھے کیا معلوم کہ جزا (اور سزا) کا دن کیا ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "然后，你怎能知道报应日是什么？"
+    }
+   }
+  },
+  {
+   "arabic": "يَوۡمَ لَا تَمۡلِكُ نَفۡسٞ لِّنَفۡسٖ شَيۡـٔٗاۖ وَٱلۡأَمۡرُ يَوۡمَئِذٖ لِّلَّهِ",
+   "aya": 19,
+   "id": 5848,
+   "tafsir": {
+    "arabic_moyassar": "وما أدراك ما عظمة يوم الحساب، ثم ما أدراك ما عظمةُ يوم الحساب؟ يوم الحساب لا يقدر أحد على نفع أحد، والأمر في ذلك اليوم لله وحده الذي لا يغلبه غالب، ولا يقهره قاهر، ولا ينازعه أحد."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "সেদিন কেউ কারো কোনো উপকার করতে পারবে না। আর সেদিন সকল কর্তৃত্ব হবে আল্লাহর।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "It is the Day when no soul will be of any help to another, and all command on that Day will be with Allah."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Le Jour où nul ne pourra rien pour autrui, tout pouvoir revenant ce Jour-là à Allah."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(Yaitu) pada hari (ketika) seseorang sama sekali tidak berdaya (menolong) orang lain. Dan segala urusan pada hari itu dalam kekuasaan Allah."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی دنیا میں تو اللہ نے عارضی طور پر، آزمانے کے لئے، انسانوں کو کم وبیش کے کچھ فرق کے ساتھ اختیارات دے رکھے ہیں۔ لیکن قیامت والےدن تمام اختیارات کلیتاً صرف اور صرف اللہ کےپاس ہوں گے۔ جیسے فرمایا لِمَنِ الْمُلْكُ الْيَوْمَ لِلَّهِ الْوَاحِدِ الْقَهَّارِ ۔ ( سورۂ مؤمن:16 ) چنانچہ نبی (صلى الله عليه وسلم) نے اپنی پھوپھی حضرت صفیہ (رضی الله عنها) اور اپنی صاحبزادی حضرت فاطمہ (رضی الله عنها) کو فرما دیا تھا، ”لا أَمْلِكُ لَكُمْ مِنَ اللهِ شَيْئًا“ (صحيح مسلم، كتاب الإيمان) اور بنی ہاشم اور بنی عبدالمطلب کو بھی متنبہ فرما دیا، ”أَنْقِذُوا أَنْفُسَكُمْ مِنَ النَّارِ، وَاللهِ لا أَمْلِكُ لَكُمْ مِنَ اللهِ شَيْئًا“ (مسلم ، كتاب مذكور ، بخاري ، سورة الشعراء ) ۔",
+     "text": "(وه ہے) جس دن کوئی شخص کسی شخص کے لئے کسی چیز کا مختار نہ ہوگا، اور (تمام تر) احکام اس روز اللہ کے ہی ہوں گے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "在那日，任何人对任何人不能有什么裨益；在那日，命令全归安拉。"
+    }
+   }
+  }
+ ],
+ "content_sha256": "sha256:70527f8a40f84b509ef11d6b9e0c4f693df40b8a2a9574a8a6864dab7ca390db",
+ "name_ar": "الانفطار",
+ "number": 82,
+ "schema": "balligh.library.quran.surah/1"
+}

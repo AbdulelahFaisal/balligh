@@ -1,0 +1,64 @@
+{
+ "answer": [
+  [
+   {
+    "kind": "strong",
+    "text": "الجواب:"
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "نعم، يجوز عند أهل السنة والجماعة أن يقول: أنا مؤمن -إن شاء الله- وليس المراد الشك، لكن المراد -إن شاء الله- لأنه لا يدري هل استكمل الإيمان، أم لا؟ الإيمان له واجبات، وله أشياء تتعلق بترك المحرمات، فيقول: إن شاء الله، أي: إن شاء الله كمال إيماني، وتمام إيماني، أو بالنسبة للعاقبة؛ لأنه لا يدري ما يختم له به، فيقول: إن شاء الله؛ لأنه ما يدري ما هي الخاتمة."
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "والمرجئة تنكر ذلك، ويقولون للشك، وهذا غلط، وأهل السنة والجماعة يستثنون في الإيمان من دون شك، بل بالنظر إلى استكمال واجبات الإيمان، وبالنظر إلى الخاتمة."
+   }
+  ]
+ ],
+ "content_sha256": "sha256:af2e36c4607b7741a4b1559f3c6eb2723a36a9eb19a8c9cead325165b6133438",
+ "id": "binbaz-1532",
+ "language": "ar",
+ "notes": [],
+ "question": [
+  [
+   {
+    "kind": "strong",
+    "text": "السؤال:"
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "هل يجوز قول المؤمن -أنا مؤمن إن شاء الله- نرجو توضيح ذلك؟"
+   }
+  ]
+ ],
+ "raw_sha256": "sha256:58f431f84c349d08ba09219633c1acf43caf5c004c215ca54c08ceabd0fcf24e",
+ "reuse_basis": "user_confirmed_permission",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.fatwa/2",
+ "source": {
+  "edition": null,
+  "publisher": "binbaz.org.sa",
+  "publisher_name": "موقع الشيخ ابن باز",
+  "retrieved_at": "2026-10-06T03:52:30+00:00",
+  "series": "فتاوى الجامع الكبير",
+  "url": "https://binbaz.org.sa/fatwas/1532/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7%D8%A1-%D9%81%D9%8A-%D8%A7%D9%84%D8%A7%D9%8A%D9%85%D8%A7%D9%86"
+ },
+ "source_categories": [
+  {
+   "id": "206",
+   "label": "الإسلام والإيمان",
+   "url": "https://binbaz.org.sa/categories/objective/206"
+  }
+ ],
+ "source_record_id": "1532",
+ "title": "حكم الاستثناء في الإيمان",
+ "topic": "understanding_islam",
+ "translations": {},
+ "type": "fatwa"
+}

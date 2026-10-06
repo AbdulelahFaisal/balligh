@@ -1,0 +1,163 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:399886dec8f23c36394e199058f1b90626e910c288d5e981d9aea51f23a72cda",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يُخْبِرُ الصحابيُّ جريرُ بنِ عبدِ الله رضي الله عنه أنه التزمَ وعاهَدَ النبيَّ صلى الله عليه وسلم على التوحيد وأداء الصلوات الخمس المفروضات في اليوم والليلة، بشروطها وأركانها وواجباتها وسننها، وعلى أداء الزكاة المكتوبة، وهي عبادة مالية واجبة، تؤخذ من الأغنياء وتعطى المستحقين مِن الفقراء وغيرهم، وعلى الطاعة لولاة الأمر، والنصح لكل مسلم، وذلك بالحرص على منفعته، وإيصال الخير إليه، ودفع الشر عنه بالقول والفعل.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "أهمية الصلاة والزكاة، وهما من أركان الإسلام.",
+  "أهمية النصح والتناصح بين المسلمين، حتى بايع رسول الله صلى الله عليه وسلم الصحابة رضي الله عنهم عليها."
+ ],
+ "id": "hadeethenc-3512",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (1/ 111) (524)، (3/ 72) (2157).\nصحيح مسلم (1/ 75) (56).\nبهجة الناظرين شرح رياض الصالحين، لسليم الهلالي (1/ 272).\nتطريز رياض الصالحين، لفيصل آل مبارك (ص145).\nشرح رياض الصالحين، لابن عثيمين (2/ 398).\nنزهة المتقين شرح رياض الصالحين، لمجموعة من الباحثين (1/ 206).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3512",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:54:08+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3512"
+ },
+ "source_categories": [
+  {
+   "id": "457",
+   "label": "فضل الصلاة"
+  }
+ ],
+ "source_record_id": "3512",
+ "text": "عَنْ جَرِيرِِ بْنِ عَبْدِ اللَّهِ رضي الله عنه قَالَ: بَايَعْتُ رَسُولَ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَلَى شَهَادَةِ أَنْ لاَ إِلَهَ إِلَّا اللَّهُ، وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ، وَإِقَامِ الصَّلاَةِ، وَإِيتَاءِ الزَّكَاةِ، وَالسَّمْعِ وَالطَّاعَةِ، وَالنُّصْحِ لِكُلِّ مُسْلِمٍ.",
+ "title": "بايعت رسول الله صلى الله عليه وسلم على شهادة أن لا إله إلا الله، وأن محمدا رسول الله، وإقام الصلاة، وإيتاء الزكاة، والسمع والطاعة، والنصح لكل مسلم",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3512",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:84f0589cee300b8933e913407444653f2ce72a0190a2597cc235014677dc5299",
+   "explanation": "সাহাবী জারীর ইবন আব্দুল্লাহ রদিয়াল্লাহু ‘আনহু এ হাদীসে বর্ণনা করেছেন যে, তিনি রাসূলুল্লাহ সাল্লাল্লাহ আলাইহি ওয়াসাল্লামের হাতে তাওহীদ তথা আল্লাহ ছাড়া কোনো সত্য মাবূদ নেই এবং মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আল্লাহর রাসূল- এ কালেমার সাক্ষ্য, দিনে রাতে পাঁচ ওয়াক্ত ফরয সালাত , তার শর্ত ফরজ ওয়াজিব ও সুন্নাতসহকারে আদায়, ফরয যাকাত আদায়, আর তা হলো আর্থিক ফরয ইবাদত, যা ধনীদের থেকে নিয়ে এর হকদার দরিদ্র ও অন্যদেরকে দেওয়া হয়, তাছাড়া শাসকের আনুগত্য করা এবং প্রতিটি মুসলিমের জন্যে কল্যাণ কামনা করার উপরে বাই‘আত গ্রহণ করেছেন। আর মুসলিমের জন্যে কল্যাণ কামনা করার উদ্দেশ্য হলো তার উপকার করার ব্যাপারে গুরুত্ব দেওয়া, তাকে   কল্যাণ পৌঁছানো এবং কথা ও কাজে তার থেকে মন্দ ও ক্ষতিকর জিনিস প্রতিহত করা।",
+   "grade": "সহীহ",
+   "hints": [
+    "সালাত ও যাকাতের গুরুত্ব এ হাদীসে বর্ণিত হয়েছে। আর এ দুটি ইসলামের অন্যতম রুকন।\r",
+    "মুসলিমদের মধ্যে পরস্পর নসীহত দেওয়া ও নেওয়ার গুরুত্ব বুঝানো হয়েছে। এমনকি বিষয়টি সম্পর্কে রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর সাহাবীদের থেকে বাই‘আত গ্রহণ করেছেন।"
+   ],
+   "mapping": "same HadeethEnc record id 3512; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:14+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3512",
+   "text": "জারীর ইবন আব্দুল্লাহ রদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, তিনি বলেন: রাসূলুল্লাহ সাল্লাল্লাহ আলাইহি ওয়াসাল্লামের হাতে এ কথার সাক্ষ্য দেওয়া যে, আল্লাহ ছাড়া কোনো সত্য মাবূদ নেই এবং মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আল্লাহর রাসূল, সালাত কায়েম, যাকাত আদায়, আল্লাহ ও তাঁর রাসূলের আনুগত্য করা ও তাদের আদেশ মান্য করা ও প্রতিটি মুসলিমের কল্যাণ কামনা করার শর্তে আমি বাই‘আত গ্রহণ করেছি।",
+   "title": "রাসূলুল্লাহ সাল্লাল্লাহ আলাইহি ওয়াসাল্লামের হাতে এ কথার সাক্ষ্য দেওয়া যে, আল্লাহ ছাড়া কোনো সত্য মাবূদ নেই এবং মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আল্লাহর রাসূল, সালাত কায়েম, যাকাত আদায়, আল্লাহ ও তাঁর রাসূলের আনুগত্য করা ও তাদের আদেশ মান্য করা ও প্রতিটি মুসলিমের কল্যাণ কামনা করার শর্তে আমি বাই‘আত গ্রহণ করেছি।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3512",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:82923cb0c8d31ae9664b80999fa1d22ccc4463425ce8db3b9efa24feffd837e8",
+   "explanation": "The Companion Jarīr ibn' Abdullah (may Allah be pleased with him) reports that he was committed and made a covenant with the Prophet (may Allah's peace and blessings be upon him) to adopt Tawhīd (monotheism), perform the five obligatory prayers every day and night, fulfilling their conditions, pillars, obligatory and Sunnah acts; observe the prescribed Zakah, which is an obligatory financial act of worship taken from the rich and given to those who deserve it from the poor and others; obey the rulers; and giving sincere advice every Muslim by being keen on bringing benefit and goodness to him and warding evil off him through words and acts.",
+   "grade": "Authentic",
+   "hints": [
+    "The importance of prayer and Zakah and the fact that they are from the pillars of Islam.\r",
+    "The importance of counsel and mutual advice between Muslims to the extent that the Messenger of Allah (may Allah's peace and blessings be upon him) took a pledge from his Companions (may Allah be pleased with them) on that."
+   ],
+   "mapping": "same HadeethEnc record id 3512; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:14+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3512",
+   "text": "Jarīr ibn ‘Abdullah (may Allah be pleased with him) reported: I gave the Messenger of Allah (may Allah's peace and blessings be upon him) a pledge to testify that there is no god but Allah and that Muhammad is the Messenger of Allah, to establish the prayer, to pay Zakah, to hear and obey, and to give sincere advice to every Muslim.",
+   "title": "I gave the Messenger of Allah (may Allah's peace and blessings be upon him) a pledge to testify that there is no god but Allah and that Muhammad is the Messenger of Allah, to establish the prayer, to pay Zakah, to hear and obey, and to give sincere advice to every Muslim",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=3512",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:6db09aff6eb54123e2a70e9d620e3affdf340e92e2125d3247f50f1f10b32b9d",
+   "explanation": "Le Compagnon Jarîr ibn 'AbdiLlah (qu'Allah l'agrée) informe qu'il s'est attaché et s'est engagé vis-à-vis du Prophète ﷺ à respecter : le [témoignage du] monothéisme ; l'accomplissement des cinq prières obligatoires, de jour comme de nuit, avec ses conditions, ses piliers, ses obligations et ses traditions ; l'acquittement de l'aumône légale prescrite qui est une adoration financière obligatoire qu'on prélève sur les riches pour la donner à ceux qui la méritent parmi les pauvres et ceux qui leur ressemblent ; l'obéissance aux détenteurs de l'autorité ; et le conseil sincère envers chaque musulman en étant assidu à lui être bénéfique, à lui faire parvenir tout bien et à repousser de lui tout mal, que ce soit en paroles ou en actes.",
+   "grade": "Authentique",
+   "hints": [
+    "L'importance de la prière et de l'aumône légale qui font partie des piliers de l'Islam.\r",
+    "L'importance de la sincérité et du conseil mutuel entre les musulmans de sorte que les Compagnons (qu'Allah les agrée) ont prêté serment d'allégeance au Messager d'Allah ﷺ concernant cela."
+   ],
+   "mapping": "same HadeethEnc record id 3512; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:14+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/3512",
+   "text": "D'après Jarîr ibn 'AbdiLlah (qu'Allah l'agrée) qui a dit : « J’ai prêté [serment d’] allégeance au Messager d'Allah ﷺ [m’engageant] à attester qu'il n'y a aucune divinité [digne d'adoration] excepté Allah et que Muhammad est le Messager d'Allah, à accomplir la prière, à m’acquitter de l’aumône légale, à écouter et obéir [au dirigeant] et à sincèrement conseiller chaque musulman. »",
+   "title": "J’ai prêté [serment d’] allégeance au Messager d'Allah ﷺ [m’engageant] à attester qu'il n'y a aucune divinité [digne d'adoration] excepté Allah et que Muhammad est le Messager d'Allah, à accomplir la prière, à m’acquitter de l’aumône légale, à écouter et obéir [au dirigeant] et à sincèrement conseiller chaque musulman.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3512",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:20f5d8ea04ac32ed39bf3b64ed5b5ded3c3b14d2839ca474303f41b379abbbe2",
+   "explanation": "Jarīr bin Abdullah -raḍiyallāhu 'anhu- mengabarkan bahwa ia telah berkomitmen dan mengikat janji kepada Nabi ﷺ dalam hal tauhid dan menunaikan salat fardu lima waktu sehari semalam lengkap dengan syarat-syarat, rukun, wajib dan sunahnya. Juga membayar zakat yang wajib, yaitu ibadah harta yang diwajibkan, diambil dari orang-orang kaya dan diberikan kepada orang-orang yang berhak seperti orang fakir dan lainnya. Demikian juga taat kepada para pemimpin dan nasihat untuk setiap muslim, yaitu dengan gigih memberinya manfaat dan mengirim kebaikan kepadanya serta tidak menimpakan keburukan kepadanya entah itu dengan ucapan maupun perbuatan.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Urgensi salat dan zakat, dan keduanya termasuk rukun Islam.\r",
+    "2- Urgensi nasihat serta saling menasihati di antara kaum muslimin, sampai Rasulullah ﷺ membaiat para sahabat untuk hal itu."
+   ],
+   "mapping": "same HadeethEnc record id 3512; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:14+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3512",
+   "text": "Jarīr bin Abdullah -raḍiyallāhu 'anhu- meriwayatkan, ia berkata, \"Aku berbaiat kepada Rasulullah ﷺ untuk mengucapkan syahadat lā ilāha illallāh-wa anna muḥammadar rasūlullāh, menegakkan salat, membayar zakat, mendengar dan taat kepada pemimpin, dan nasihat untuk setiap muslim.\"",
+   "title": "Aku berbaiat kepada Rasulullah ﷺ untuk mengucapkan syahadat lā ilāha illallāh-wa anna muḥammadar rasūlullāh, menegakkan salat, membayar zakat, mendengar dan taat kepada pemimpin, dan nasihat untuk setiap muslim",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3512",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:d9b1a7191c0f6c704cfdaa61689de8c454910d7b129b11d52931cd93f013b3ef",
+   "explanation": "صحابی جریر بن عبداللہ رضی اللہ عنہ بتاتے ہیں کہ انھوں نے اللہ کے نبی صلی اللہ علیہ وسلم کے ساتھ توحید پر قائم رہنے، دن اور رات میں پانچ نمازیں ان کے شروط وارکان، واجبات اور سنن کے ساتھ ادا کرنے، فرض زکاۃ دینے، جو ایک مالی عبادت ہے اور جسے مال داروں سے  لے کر حق دار فقیروں وغیرہ میں تقسیم کیا جاتا ہے، حکمرانوں کی بات ماننے اور ہر مسلمان کی خیرخواہی کرنے کا عہد کیا، اور اس خیر خواہی طریقہ یہ ہے کہ دوسرے کو فیض یاب کرنے کی کوشش کی جائے، اس تک خیر پہنچائی جائے اور قول و فعل کے ذریعے اس سے برائی کو دور رکھا جائے۔",
+   "grade": "صحيح",
+   "hints": [
+    "نماز اور زکاۃ کی اہمیت۔ دونوں اسلام کے ارکان میں سے ہیں۔\r",
+    "مسلمانوں کے درمیان خیر خواہی کی اہمیت اس قدر زیادہ ہے کہ اللہ کے رسول صلی اللہ علیہ و سلم  نے صحابہ سے اس پر بیعت لی۔"
+   ],
+   "mapping": "same HadeethEnc record id 3512; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:14+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3512",
+   "text": "جریر بن عبداللہ رضی اللہ عنہ سے روایت ہے، وہ کہتے ہيں: میں نے رسول اللہ ﷺ کے ہاتھ پر اس بات کی بیعت کی کہ اللہ کے علاوہ کوئی حقيقي معبود نہ ہونے اور محمد صلی اللہ علیہ و سلم کے اللہ کے رسول ہونے کی گواہی دوں گا، نماز قائم کروں گا، زکوۃ ادا کروں گا اور ہر مسلمان کی خیر خواہی کروں گا۔",
+   "title": "میں نے رسول اللہ ﷺ کے ہاتھ پر اس بات کی بیعت کی کہ اللہ کے علاوہ کوئی حقيقي معبود نہ ہونے اور محمد صلی اللہ علیہ و سلم کے اللہ کے رسول ہونے کی گواہی دوں گا، نماز قائم کروں گا، زکوۃ ادا کروں گا اور ہر مسلمان کی خیر خواہی کروں گا۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3512",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:704be72d7dfee25ef463181aa88c3cd1633e06c18b191ce340e73468007ac8b6",
+   "explanation": "圣门弟子哲里力·本·阿卜杜拉（愿主喜悦之）告诉我们，他与使者（愿主福安之）缔结盟约，表示坚守认主独一；完成五时的主命拜功，即依照礼拜的条件、要素、主命和圣行而去完成；交纳主命天课，这是财方面的主命功修，从富裕的人中收取，然后交给应受天课的穷人等；服从主事者的命令；为每个人穆斯林尽忠，即渴望让他们每一个人得到利好，使福分到达他们每一个人，用言语和行为替他们遮挡危害。",
+   "grade": "正确的",
+   "hints": [
+    "礼拜和天课的重要性，二者属于伊斯兰教的要素。\r",
+    "为穆斯林尽忠以及相互之间互尽忠告的重要性，因为众圣门弟子为此而与使者（愿主福安之）缔结了约法。"
+   ],
+   "mapping": "same HadeethEnc record id 3512; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:14+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3512",
+   "text": "哲里力·本·阿卜杜拉（愿主喜悦之）传述，他说： 我与安拉的使者（愿主福安之）结约：见证万物非主，唯有安拉，穆罕默德是安拉的使者、立行拜功、交纳天课、听命于服从，以及为每个穆斯林尽忠。",
+   "title": "我与安拉的使者（愿主福安之）结约：见证万物非主，唯有安拉，穆罕默德是安拉的使者、立行拜功、交纳天课、听命于服从，以及为每个穆斯林尽忠。",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

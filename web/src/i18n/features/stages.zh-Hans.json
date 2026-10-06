@@ -1,0 +1,65 @@
+{
+  "title": "入门阅读路径",
+  "intro": "五个简短阶段，均为真实来源。每个阶段都保持开放，可按任意顺序阅读。",
+  "exploring": "只是随便看看？阅读第一篇文本",
+  "nav": "阅读阶段",
+  "stage": "第 {{n}} 阶段",
+  "names": {
+    "introduction_belief": "导言与信仰",
+    "testimony_pillars": "作证言与五大支柱",
+    "purification_prayer": "洁净与礼拜",
+    "fasting_zakah_hajj": "斋戒、天课（扎卡特）与朝觐入门",
+    "everyday_conduct": "日常品行"
+  },
+  "endNav": "结束与真人帮助",
+  "collections": {
+    "quran": "古兰经",
+    "fatwa": "法特瓦",
+    "hadith": "圣训"
+  },
+  "arabicOnly": "仅阿拉伯语",
+  "languages": "语言：{{languages}}",
+  "recap": "第 {{n}} 阶段回顾：再次阅读同一文本",
+  "open": "打开阅读",
+  "markRead": "我已读完这篇",
+  "markedRead": "已标记为已读（选择以撤销）",
+  "stageProgress": "已标记 {{done}}/{{total}} 篇为已读",
+  "progress": "{{total}} 篇阅读中已标记 {{done}} 篇为已读",
+  "nextReading": "下一篇阅读",
+  "nextStage": "下一步：第 {{n}} 阶段",
+  "toEnd": "完成路径",
+  "allRead": "所有阅读均已标记为已读。",
+  "loading": "正在加载阅读路径…",
+  "error": "无法加载阅读路径。",
+  "retry": "重试",
+  "end": {
+    "title": "入门路径结束",
+    "complete": "您已完成入门阅读。这只记录您读过这些文本；它不是测验，也不衡量掌握程度。",
+    "partial": "您已将 {{total}} 篇阅读中的 {{done}} 篇标记为已读。各阶段始终开放，随时可以回来。",
+    "notCoveredTitle": "本路径不涵盖的内容",
+    "notCovered": {
+      "prayer_demonstration": "完整的礼拜方法演示",
+      "fasting_rules": "斋戒的全部规定",
+      "zakah_calculation": "如何计算天课",
+      "hajj_practice": "履行朝觐的实际指导"
+    }
+  },
+  "support": {
+    "title": "与真人交谈",
+    "body": "对于阅读清单无法回答的问题，由 جمعية ركن الحوار 运营的 eDialogue 提供与人交谈的服务。",
+    "link": "打开 eDialogue（外部网站）",
+    "faq": "eDialogue 的常见问题（FAQ）将其聊天描述为免费且私密：",
+    "note": "是否打开链接由您自己决定。Balligh 不会向该网站发送任何内容，也不保留任何相关信息。"
+  },
+  "storage": {
+    "malformed": "无法读取您保存的阅读标记。它们保持原样，未被使用。",
+    "unavailable": "此浏览器不会保存您的阅读标记；它们只在本页保持打开时保留。",
+    "write_failed": "无法保存您的阅读标记；它只在本页保持打开时保留。",
+    "outdated": "您之前的阅读标记属于此路径的旧版本，未被使用。标记一篇阅读将开始新的记录。"
+  },
+  "start": "开始第一篇阅读",
+  "continue": "继续下一篇阅读",
+  "continueStage": "继续：第 {{n}} 阶段",
+  "backToStage": "返回第 {{n}} 阶段",
+  "position": "第 {{n}} 阶段 · 第 {{i}} 篇，共 {{total}} 篇"
+}

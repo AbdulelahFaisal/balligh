@@ -1,0 +1,12 @@
+{
+  "home": {
+    "quranDesc": "Read the Arabic text and listen to the recitation, with translated meanings.",
+    "questionsDesc": "Sheikh Abdulaziz Ibn Baz answers people's questions.",
+    "hadithDesc": "Hadith with their grade and published explanation.",
+    "open": "Open",
+    "arabicOnly": "Arabic only"
+  },
+  "list": {
+    "resetSearch": "Clear search and show all"
+  }
+}

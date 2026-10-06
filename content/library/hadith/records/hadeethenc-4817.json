@@ -1,0 +1,177 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:3822ade8417e1d69909d1e8bca50258dc66ba0fa1070b1cab050d0f2329c1f39",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يروي النبي صلى الله عليه وسلم عن ربه أن العبد إذا فعل ذنبًا ثم قال: اللهم اغفر لي ذنبي، قال الله تعالى: فَعَلَ عبدي ذنبًا، فعَلِمَ أنَّ له ربًّا يغفر الذنب، فيستره ويتجاوز عنه، أو يعاقب عليه، قد غفرت له. \nثم عاد العبد فأذنب، فقال: رب اغفر لي ذنبي، فقال الله: فعل عبدي ذنبًا، فعلم أن له ربًّا يغفر الذنب، فيستره ويتجاوز عنه، أو يعاقب عليه، قد غفرت لعبدي. \nثم عاد العبد فأذنب، فقال: رب اغفر لي ذنبي، فقال الله: فعل عبدي ذنبًا، فعلم أن له ربًّا يغفر الذنب، فيستره ويتجاوز عنه، أو يعاقب عليه، قد غفرت لعبدي، فليفعل ما شاء ما دام أنه كلّما أذنب ترك الذنب وندم وعزم على عدم العودة فيه لكن تغلبه نفسه فيقع في الذنب مرة أخرى، فما دام يفعل هكذا يذنب ويتوب فسأغفر له، فإن التوبة تهدم ما قبلها.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "سعة رحمة الله بعباده وأنَّ الإنسان مهما أذنب ومهما فعل إذا تاب إليه وأناب إليه تاب اللهُ عليه.",
+  "المؤمن بالله تعالى يأمل عفوَ ربِّه، ويخاف عقوبتَه، فيبادر إلى التوبة ولا يستمر على المعصية.",
+  "شروط التوبة الصحيحة: الإقلاع عن الذنب، والندم عليه، والعزم على عدم العودة إلى الذنب، وإذا كانت التوبة من مظالم العباد في مال أو عرض أو نفس، فتزيد شرطًا رابعًا، وهو: التَّحَلُّل من صاحب الحق، أو إعطاؤه حقَّه.",
+  "أهمية العلم بالله الذي يجعل العبد عالمًا بأمور دينه فيتوب كلّما أخطأ، فلا ييأس ولا يتمادى."
+ ],
+ "id": "hadeethenc-4817",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (9/ 145) (7507).\nصحيح مسلم (4/ 2112) (2758).\nنزهة المتقين شرح رياض الصالحين (1/ 383).\nبهجة الناظرين شرح رياض الصالحين، لسليم الهلالي (1/ 493).\nالنهاية في غريب الحديث والأثر، لابن الأثير(674).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=4817",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:39+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/4817"
+ },
+ "source_categories": [
+  {
+   "id": "278",
+   "label": "فضائل الذكر"
+  }
+ ],
+ "source_record_id": "4817",
+ "text": "عن أبي هريرة رضي الله عنه عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فِيمَا يَحْكِي عَنْ رَبِّهِ عَزَّ وَجَلَّ، قَالَ: «أَذْنَبَ عَبْدٌ ذَنْبًا، فَقَالَ: اللَّهُمَّ اغْفِرْ لِي ذَنْبِي، فَقَالَ تَبَارَكَ وَتَعَالَى: أَذْنَبَ عَبْدِي ذَنْبًا، فَعَلِمَ أَنَّ لَهُ رَبًّا يَغْفِرُ الذَّنْبَ، وَيَأْخُذُ بِالذَّنْبِ، ثُمَّ عَادَ فَأَذْنَبَ، فَقَالَ: أَيْ رَبِّ اغْفِرْ لِي ذَنْبِي، فَقَالَ تَبَارَكَ وَتَعَالَى: عَبْدِي أَذْنَبَ ذَنْبًا، فَعَلِمَ أَنَّ لَهُ رَبًّا يَغْفِرُ الذَّنْبَ، وَيَأْخُذُ بِالذَّنْبِ، ثُمَّ عَادَ فَأَذْنَبَ، فَقَالَ: أَيْ رَبِّ اغْفِرْ لِي ذَنْبِي، فَقَالَ تَبَارَكَ وَتَعَالَى: أَذْنَبَ عَبْدِي ذَنْبًا، فَعَلِمَ أَنَّ لَهُ رَبًّا يَغْفِرُ الذَّنْبَ، وَيَأْخُذُ بِالذَّنْبِ، اعْمَلْ مَا شِئْتَ فَقَدْ غَفَرْتُ لَكَ».",
+ "title": "أذنب عبد ذنبا، فقال: اللهم اغفر لي ذنبي",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=4817",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:e3b10ff8e9e32e73f8554c8755ca15e8f112895490b23b23d927cc430623034a",
+   "explanation": "এ হাদীসে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাঁর মহান রবের থেকে বর্ণনা করে বলেন, বান্দা যখন পাপ করে, অতপর বলে, হে আমার রব! আমার পাপ মার্জনা করে দাও- তখন আল্লাহ তা‘আলা বলেন: আমার বান্দা পাপ করেছে, অপতর সে জানে যে, তার একজন রব আছেন, যিনি পাপ মোচন করেন, তিনি তার পাপ গোপন রাখেন এবং মার্জনা করেন অথবা পাপের কারণে তাকে শাস্তি দেন। তখন তাকে ক্ষমা করে দেওয়া হয়। অতপর বান্দা আবার পাপ করে। অতপর সে বলে, হে আমার রব! আমার পাপ ক্ষমা করে দাও। তারপর আল্লাহ তা’আলা বলেন: আমার বান্দা পাপ করেছে এবং সে জানে যে, তার একজন রব আছে যিনি পাপ মার্জনা করেন। অতপর তিনি তার পাপ গোপন রাখেন এবং মার্জনা করেন অথবা পাপের কারণে তাকে শাস্তি দেন। তখন আল্লাহ বলেন: আমি আমার বান্দাকে ক্ষমা করে দিয়েছি। তারপর সে পুনরায় পাপ করে বলে: হে আমার রব! আমার পাপ মাফ করে দাও। এ কথা শুনে আল্লাহ তা‘আলা পুনরায় বলেন, আমার বান্দা পাপ করেছে এবং সে জানে যে, তার একজন রব আছে, যিনি বান্দার পাপ মার্জনা করেন। ফলে তিনি তার পাপ গোপন রাখেন এবং মার্জনা করে দেন অথবা পাপের কারণে শাস্তি দেন। এরপর আল্লাহ বলেন: আমি আমার বান্দাকে ক্ষমা করে দিয়েছি। তারপর তার এ ধরনের কর্মে আল্লাহ তা’আলা বলেন, হে বান্দা! তুমি যা ইচ্ছে আমল করো। সে এভাবেই পাপ করতে থাকে, অতপর লজ্জিত হয়ে পাপ ছেড়ে দেয় এবং  পুনরায় পাপে লিপ্ত না হওয়ার দৃঢ় প্রত্যয় ব্যক্ত করে; কিন্তু নফস তার উপর জয়ী হয়ে যায়, অতপর পুনরায় পাপে লিপ্ত হয়ে পড়ে। সে যখনই এভাবে পাপ করতে থাকবে, আবার তাওবা করবে, আল্লাহ তাকে বারবারই ক্ষমা করে দিবেন। কেননা তাওবা পূর্বের সকল গুনাহ নি:শেষ করে দেয়।",
+   "grade": "সহীহ",
+   "hints": [
+    "বান্দার প্রতি মহান আল্লাহর এত প্রশস্ত রহমত, মানুষ যখনই পাপ করে এবং পাপের পরে তাওবা করে আল্লাহর দিকে ফিরে আসে আল্লাহ তখনই তার তাওবা গ্রহণ করেন।\r",
+    "আল্লাহর প্রতি ঈমানদার বান্দা তার রবের ক্ষমা প্রত্যাশী এবং তাঁর শাস্তির ভয় করে। ফলে অপরাধ হলেই দ্রুত তার রবের কাছে তাওবা করে এবং গুনাহের উপর বলবৎ থাকে না।\r",
+    "প্রকৃত তাওবার শর্তসমূহ: গুনাহ পুরাপুরি ত্যাগ করা, অপরাধ করে লজ্জিত হওয়া, পুনরায় গুনাহে ফিরে না যাওয়ার দৃঢ় প্রত্যয় করা। আর তাওবা যদি বান্দার ধন-সম্পদ অথবা মান-সম্মান অথবা  জীবন ইত্যাদির সাথে সম্পৃক্ত যুলুম কেন্দ্রিক হয়ে থাকে তবে অতিরিক্ত আরেকটি শর্ত যুক্ত হবে। আর তা হলো: হকদারের থেকে ক্ষমা চেয়ে ‍মুক্তি লাভ অথবা তার হক ফেরত দেওয়া।\r",
+    "আল্লাহ সম্পর্কে বান্দার জ্ঞানের গুরুত্ব এ হাদীসে বর্ণিত হয়েছে, যা বান্দাকে দ্বীনের গুরুত্বপূর্ণ বিষয় সম্পর্কে আলেম বানায়। বান্দা যখনই ভুল করে, তখনই তাওবা করে। ফলে সে নিরাশ হয় না এবং সীমালঙ্ঘনও করে না।"
+   ],
+   "mapping": "same HadeethEnc record id 4817; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:42+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/4817",
+   "text": "আবূ হুরায়রা রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাঁর মহান রব থেকে বর্ণনা করে বলেছেন:  “জনৈক বান্দা পাপ করে বলল, হে আমার রব! আমার পাপ মার্জনা করে দাও। তারপর আল্লাহ তা‘আলা বললেন: আমার বান্দা পাপ করেছে এবং সে জানে যে, তার একজন রব আছে, যিনি পাপ মার্জনা করেন এবং পাপের কারণে ধরেন। এ কথা বলার পর সে আবার পাপ করে এবং বলে, হে আমার রব ! আমার পাপ ক্ষমা করে দাও। তারপর আল্লাহ তা’আলা বলেন, আমার এক বান্দা পাপ করেছে এবং সে জানে যে, তার একজন রব আছে যিনি পাপ মার্জনা করেন এবং পাপের কারণে তাকে ধরবেন। তারপর সে পুনরায় পাপ করে বলে, হে আমার রব! আমার পাপ মাফ করে দাও। এ কথা শুনে আল্লাহ তা‘আলা পুনরায় বলেন, আমার বান্দা পাপ করেছে এবং সে জানে যে, তার একজন রব আছে, যিনি বান্দার পাপ মার্জনা করেন এবং পাপের কারণে পাকড়াও করেন। তারপর আল্লাহ তা’আলা বলেন, হে বান্দা! এখন যা ইচ্ছা তুমি আমল করো। আমি তোমার গুনাহ মাফ করে দিয়েছি।”",
+   "title": "জনৈক বান্দা পাপ করে বলল, হে আমার রব! আমার পাপ মার্জনা করে দাও",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=4817",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:3413f9933c733a6112d533406810274ca819e2c7b6bb3937a6152cf3c8b6c55c",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) narrates from his Lord that if a servant commits a sin and then says, \"O Allah, forgive my sin\", Allah Almighty says: My servant committed a sin and then realized that he has a Lord Who forgives sins, covers him and pardons him, or punishes for sins. I have forgiven him. Then, the servant again commits a sin and says, \"O Allah, forgive my sin\", and Allah says: My servant committed a sin and then realized that he has a Lord Who forgives sins, covers him and pardons him, or punishes for sins. I have forgiven My servant. Then, again, the servant commits a sin and says, \"O Allah, forgive my sin\", and Allah says: My servant committed a sin and then realises that he has a Lord Who forgives sins, covers him and pardons him, or punishes for sins. I have forgiven My servant. Let him do whatever he wishes, as long as he gives it up every time he sins, feels regretful, and determines not to do it again; yet, his self overcomes him, and he falls into the sin again and again. So, as long as he acts like this, sinning and repenting, I will forgive him. Indeed, repentance abolishes what is before it.",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth shows Allah's vast mercy towards His servants and that no matter how often a person commits sins, if he repents and returns to Allah, He accepts his repentance.\r",
+    "A believer in Allah Almighty hopes for the forgiveness of his Lord and fears His punishment, so he hastens to repent and does not persist in sin.\r",
+    "The conditions of valid repentance: giving up the sin, feeling regretful about it, and determining not to do it again. If the repentance is from wrongful acts towards people, in terms of their property, honor, or life, a fourth condition is added, and that is: asking the wronged person for pardon or giving his right back to him.\r",
+    "The Hadīth highlights the significance of knowing Allah, for such knowledge makes a person aware of the matters of his religion, and so he repents every time he commits a sin, and he does not despair or persist in sins."
+   ],
+   "mapping": "same HadeethEnc record id 4817; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:42+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/4817",
+   "text": "Abu Hurayrah (may Allah be pleased with him) reported: The Prophet (may Allah's peace and blessings be upon him), narrating from his Almighty Lord, said: \"A servant committed a sin and said: 'O Allah, forgive my sin,’ and Allah Almighty said: ‘My servant committed a sin and then realized that he has a Lord Who forgives sins and punishes for sins.' Then, he committed a sin again and said: ‘My Lord, forgive my sin,’ and Allah Almighty said: ‘My servant committed a sin and then realized that he has a Lord Who forgives sins and punishes for sins.’ He again committed a sin and said: ‘My Lord, forgive my sin,’ and Allah Almighty said: ‘My servant committed a sin and then realized that he has a Lord Who forgives sins and punishes for sins. Do whatever you wish, for I have forgiven you.'\"",
+   "title": "A servant committed a sin and said: 'O Allah, forgive my sin",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=4817",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:12467741f8038f6fb88163b7cabb53a9279afc401c0f15908c4d1eb7e2e80a13",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) relate de son Seigneur que lorsque le serviteur commet un péché et dit ensuite : \" Ô Allah ! Pardonne-moi mon péché. \" Allah, Exalté soit-Il, dit : \" Mon serviteur a commis un péché et il sait qu'il a un Seigneur qui pardonne le péché, qui le dissimule et qui passe outre, ou qui le punit pour celui-ci ; Je lui ai certes pardonné. \" Ensuite, le serviteur commet de nouveau un péché, et dit : \" Seigneur ! Pardonne-moi mon péché.\" Allah dit alors : \" Mon serviteur a commis un péché et il sait qu'il a un Seigneur qui pardonne le péché, qui le dissimule et qui passe outre ou qu'Il le punit pour celui-ci ; J'ai certes pardonné à Mon serviteur. \" Puis, le serviteur commet à nouveau un péché et dit : \" Seigneur ! Pardonne-moi mon péché. \" Allah dit alors : \" Mon serviteur a commis un péché et il sait qu'il a un Seigneur qui pardonne le péché, qui le dissimule et qui passe outre, ou qu'Il le punit pour celui-ci ; J'ai certes pardonné à Mon serviteur, qu'il fasse donc ce qu'il veut tant qu'à chaque fois qu'il commet un péché, il le délaisse, regrette et est résolu à ne pas y revenir. Même si son âme finit par le dominer et qu'il retombe à nouveau dans le péché. Ainsi donc, tant qu'il se repent après avoir commis un péché, Je lui pardonnerai ! Le repentir détruit certes ce qui précède. \"",
+   "grade": "Authentique",
+   "hints": [
+    "L'étendue de la miséricorde d'Allah envers Ses serviteurs. Quoi que l'homme commette comme péché et quoi qu'il fasse, dès lors où il se repent à Allah et revient repentant vers Lui, alors Allah accueille son repentir.\r",
+    "Le croyant en Allah, Exalté soit-Il, espère le pardon d'Allah et craint Sa punition. Ainsi donc, il s'empresse de se repentir et ne persiste pas dans la désobéissance.\r",
+    "Les conditions du repentir authentique sont : cesser de commettre ce péché ; regretter de l'avoir commis ; être résolu à ne plus y revenir ; et si le repentir concerne des injustices commises à l'encontre des serviteurs, qu'il s'agisse de biens, d'honneur ou de sang, une quatrième condition est rajoutée et consiste à se défaire de celle-ci à l'égard de l'ayant-droit ou de lui rendre son droit.\r",
+    "L'importance de la connaissance d'Allah. En effet, c'est elle qui rend le serviteur connaisseur des affaires de Sa religion, de sorte qu'il se repente à chaque fois qu'il commet une erreur. Ainsi, ni il ne désespère de la miséricorde d'Allah, ni il ne persiste dans le péché."
+   ],
+   "mapping": "same HadeethEnc record id 4817; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:42+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/4817",
+   "text": "Aboû Hourayrah (qu'Allah l'agrée) relate que le Prophète (qu'Allah le couvre d'éloges et le préserve) a dit, concernant ce qu'il relate de son Seigneur, Exalté soit-Il : \" Un serviteur commit un péché, il dit alors : \" Ô Allah ! Pardonne-moi mon péché ! \" Allah, Béni et Exalté soit-Il, dit : \" Mon serviteur a commis un péché et il sait qu’il a un Seigneur qui pardonne le péché, tout comme il sait qu'Il punit pour celui-ci. \" Puis, le serviteur récidiva, pécha à nouveau et dit : \" Ô Seigneur ! Pardonne-moi mon péché ! \" Allah, Béni et Exalté soit-Il, dit à nouveau : \" Mon serviteur a commis un péché et il sait qu’il a un Seigneur qui pardonne le péché, tout comme il sait qu'Il punit pour celui-ci. \" Après un certain temps, le serviteur récidiva, pécha  encore, et dit : \" Ô Seigneur ! Pardonne-moi mon péché ! \" Allah, Béni et Exalté soit-Il, dit : \" Mon serviteur a commis un péché et il sait qu’il a un Seigneur qui pardonne le péché, tout comme il sait qu'Il punit pour celui-ci. Fais ce que tu veux, je t'ai certes déjà pardonné. \"",
+   "title": "Un serviteur commit un péché, il dit alors : \" Ô Allah ! Pardonne-moi mon péché !",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=4817",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:a731984c8bba0fe8e6054776219bef0b885b21c9a09768d8e070a6be2c403c94",
+   "explanation": "Nabi ﷺ meriwayatkan dari Tuhannya bahwa ketika seorang hamba berbuat dosa lalu mengatakan: Ya Allah, ampunilah dosaku, maka Allah Ta'ala akan berfirman: Hamba-Ku telah melakukan sebuah dosa, tetapi dia tahu bahwa dia memiliki Tuhan yang mengampuni dosa, yakni Dia menutupi dan melewatkannya, atau dapat juga memberikan hukuman atas dosa itu, sungguh Aku telah mengampuninya. Kemudian hamba tersebut kembali melakukan dosa, lalu dia berkata: Tuhanku, berilah aku ampunan pada dosaku. Maka Allah berfirman: Hamba-Ku telah melakukan sebuah dosa, tetapi dia tahu bahwa dia memiliki Tuhan yang mengampuni dosa, yakni Dia menutupi dan melewatkannya, atau dapat juga memberikan hukuman atas dosa itu, sungguh Aku telah memberi ampunan pada hamba-Ku itu. Kemudian hamba tersebut kembali lagi melakukan dosa, lalu dia berkata, \"Tuhanku, berilah aku ampunan pada dosaku.\" Maka Allah berfirman, \"Hamba-Ku telah melakukan sebuah dosa, tetapi dia tahu bahwa dia memiliki Tuhan yang mengampuni dosa, yakni Dia menutupi dan melewatkannya, atau dapat juga memberikan hukuman atas dosa itu, sungguh Aku telah memberi ampunan pada hamba-Ku itu. Silakan dia melakukan semua yang dia mau, selama tiap kali berbuat dosa, ia segera meninggalkan dosa itu, menyesalinya, dan bertekad untuk tidak mengulanginya.\" Akan tetapi karena dia dikuasai oleh hawa nafsunya, sehingga sekali lagi dia jatuh dalam dosa tersebut. Namun, selama dia melakukan seperti itu, yaitu melakukan dosa dan bertobat, Aku akan tetap memberinya ampunan karena tobat menggugurkan semua yang terjadi sebelumnya.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Luasnya rahmat Allah Ta'ala kepada hamba-hamba-Nya dan bahwa manusia itu, seperti apa pun dia berbuat dosa, jika dia bertobat dan kembali kepada Allah, niscaya Allah akan mengabulkan tobatnya.\r",
+    "2- Orang yang beriman kepada Allah Ta'ala akan senantiasa mengharapkan ampunan Tuhannya dan takut terhadap siksa-Nya, sehingga dia segera bertobat dan tidak lanjut di atas kemaksiatan.\r",
+    "3- Syarat tobat yang benar ialah meninggalkan dosa, menyesalinya, dan bertekad untuk tidak kembali pada dosa itu. Jika tobat tersebut terkait perbuatan menzalimi harta, kehormatan, atau jiwa orang lain, maka ditambahkan syarat yang keempat, yaitu: meminta maaf pada pemilik hak tersebut atau mengembalikan haknya.\r",
+    "4- Pentingnya mengenal Allah yang akan menjadikan hamba tersebut mengerti urusan agamanya, sehingga dia akan bertobat setiap kali melakukan kesalahan; dia tidak berputus asa, tetapi juga tidak keterusan."
+   ],
+   "mapping": "same HadeethEnc record id 4817; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:42+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/4817",
+   "text": "Abu Hurairah -raḍiyallāhu 'anhu- meriwayatkan, Dari Nabi ﷺ dalam hadis yang beliau riwayatkan dari Tuhannya ﷻ, beliau bersabda, \"Ada seorang hamba melakukan suatu dosa, lalu ia berkata, \"Ya Allah! Ampunilah dosaku.\" Allah -Tabāraka wa Ta'ālā- pun berfirman, \"Hamba-Ku melakukan dosa sementara ia mengetahui bahwa dia memiliki Tuhan yang dapat mengampuni dosa dan dapat pula memberikan hukuman karena dosa.\" Kemudian hamba tersebut kembali melakukan dosa lalu berkata, \"Ya Tuhanku! Ampunilah dosaku.\" Maka Allah -Tabāraka wa Ta'ālā- berfirman, \"Hamba-Ku melakukan dosa sementara ia mengetahui bahwa dia memiliki Tuhan yang dapat mengampuni dosa dan dapat pula memberi hukuman karena dosa.\" Selanjutnya hamba tersebut kembali melakukan dosa, lalu berkata, \"Ya Tuhanku! Ampunilah dosaku.\" Allah -Tabāraka wa Ta'ālā- berfirman, \"Hamba-Ku berbuat dosa lagi, tetapi dia mengetahui bahwa dia memiliki Tuhan yang dapat mengampuni dosa dan dapat pula memberikan hukuman karena dosa. Lakukanlah sekehendakmu! Aku telah mengampunimu.\"",
+   "title": "Ada seorang hamba melakukan suatu dosa, lalu ia berkata, \"Ya Allah! Ampunilah dosaku",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=4817",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:7663034a256cccadc4293131fa759d1322487bdadea6e32163416d6d4380957f",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم اپنے رب سے روایت کرتے ہوئے کہتے ہيں کہ بندہ جب کوئی گناہ کر بیٹھتا ہے اور اس کے بعد کہتا ہے کہ اے الهي! مجھے بخش دے، تو اللہ کہتا ہے: میرے بندے نے گناہ کیا اور وہ جانتا ہے کہ اس کا رب ہے، جو گناہ معاف کرتا ہے اور اس سے درگزر کرتا ہے یا اس پر سزا دیتا ہے، لہذا میں نے اسے بخش دیا۔ پھر جب بندہ دوبارہ گناہ کرتا ہے اور کہتا ہے کہ اے الهي! مجھے بخش دے، تو اللہ تعالی کہتا ہے کہ میرے بندے نے گناہ کیا اور اس کا یقین ہے کہ اس کا ایک رب ہے، جو گناہ معاف کرتا اور اس سے درگزر کرتا ہے یا اس پر سزا دیتا ہے، لہذا میں نے اسے بخش دیا۔ جب بندہ پھر گناہ کرتا ہے اور کہتا ہے کہ اے الهي! مجھے بخش دے، تو اللہ کہتا ہے کہ میرے بندے نے گناہ کیا اور وہ یہ جانتا ہے کہ اس کا ایک رب ہے، جو گناہ معاف کرتا اور اس سے درگزر کرتا ہے یا اس پر سزا دیتا ہے، لہذا میں نے اپنے بندے کو بخش دیا۔ اب وہ جو چاہے، کرے، جب تک حالت یہ ہو کہ ہر بار گناہ کرنے کے بعد وہ فورا گناہ کرنا چھوڑ دے، شرمندہ ہو اور دوبارہ گناہ نہ کرنے کا ارادہ کر لے، لیکن نفس کے بہکاوے میں آکر پھر گناہ کر بیٹھے۔ جب تک یہ حالت بنی رہے، یعنی گناہ کرے اور توبہ کر لے، تو میں اسے معاف کرتا رہوں گا۔ کیوں کہ توبہ پہلے کیے ہوئے گناہوں کو ختم کر دیتی ہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "بندوں پر اللہ کی وسیع رحمت کہ انسان جو بھی غلطی کرے اور جو بھی کام کرے، جب اللہ کی جانب لوٹتا ہے اور اس کے سامنے توبہ کرتا ہے، تو اللہ اس کی توبہ قبول کرتا ہے۔\r",
+    "اللہ پر ایمان رکھنے والا شخص اس کی بخشش کی امید رکھتا ہے اور اس کی سزا سے ڈرتا ہے، اس لیے وہ فورا توبہ کرتا ہے اور گناہ میں لت پت نہیں رہتا۔\r",
+    "صحیح توبہ کی شرطیں : جو گناہ کر رہا تھا اسے چھوڑ دینا، اس پر شرمندہ ہونا اور دوبارہ اسے نہ کرنے کا پکا ارادہ کر لینا۔ اگر توبہ کا تعلق بندے کے کسی حق، مثلا مال، عزت و آبرو اور جان سے ہو، تو ایک چوتھی شرط بڑھ جاتی ہے۔ وہ شرط ہے، حق والے کو اس کا حق دے دینا یا اس سے معافی تلافی کر لینا۔\r",
+    "اللہ کا علم رکھنے کی اہمیت، جو بندے کو دینی مسائل سے آگاہی عطا کرتا ہے اور جس کے نتیجے میں بندہ ہر بار غلطی کرنے کے بعد توبہ کر لیتا ہے۔ وہ نہ تو اللہ کی رحمت سے مایوس ہوتا ہے اور نہ گناہ میں آگے بڑھتا جاتا ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 4817; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:42+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/4817",
+   "text": "ابو ہریرہ رضی اللہ عنہ سے روایت ہے کہ اللہ کے نبی ﷺ نے اپنے رب تبارک و تعالی سے روایت کرتے ہوئے فرمایا: \"ایک بندے نے گناہ کیا اور پھر بول اٹھا : اے اللہ! میرا گناہ معاف کر دے۔ اس پر اللہ تبارک و تعالی نے فرمایا : میرے بندے نے گناہ کیا اور پھر اس کے اس یقین نے انگڑائی لی کہ اس کا ایک رب ہے، جو گناہ کو معاف بھی کرتا ہے اور گناہ پر گرفت بھی کرتا ہے۔ اس بندے نے پھر دوبارہ گناہ کیا اور بول پڑا کہ اے میرے رب! میرا گناہ معاف کر دے۔ اس پر اللہ تبارک و تعالی نے فرمایا : میرے بندے نے گناہ کیا اور پھر اس کے اس یقین  نے انگڑائی لی کہ اس کا ایک رب ہے، جو گناہ کو بخش بھی دیتا ہے اور گناہ پر گرفت بھی کرتا ہے۔ تم جو چاہے کرو، میں نے تم کو معاف کر دیا۔\"",
+   "title": "ایک بندے نے گناہ کیا اور پھر بول اٹھا : اے اللہ! میرا گناہ معاف کر دے",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=4817",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:03f81e0082b6c2eb13086a7c1ffebef2473ba5c97254a097dbddf0e2d4843dc3",
+   "explanation": "先知（愿主福安之）据他的主的传述：当仆人犯了罪，然后说：‘主啊，求你宽恕我的罪过。’至高的真主说：‘我的仆人犯了罪，他知道他有宽恕罪过的主，将掩盖他的过错并宽恕他，或者对他进行惩罚。我已经宽恕了他。 然后仆人再犯罪，他说：‘我的主啊，求你宽恕我的罪过。’然后真主说：我的仆人又犯了罪，他知道他有宽恕罪过的主，将掩盖他的过错并宽恕他，或者对他进行惩罚。我已经宽恕了我的仆人。 然后仆人再犯罪，他说：‘我的主啊，求你宽恕我的罪过。’然后真主说：‘我的仆人又犯了罪，他知道他有宽恕罪过的主，将掩盖他的过错并宽恕他，或者对他进行惩罚。我已经宽恕了我的仆人，让他做他想做的事。只要他每次犯罪后都停止并悔过，且决心不再重犯。但如果他的欲望战胜了他，他再次犯罪，只要他继续悔过，我将宽恕他，因为忏悔能消除之前的错误。",
+   "grade": "正确的",
+   "hints": [
+    "真主对他的仆人的怜悯是无限的，人不论犯了多大的罪过，只要他悔过并回归真主，真主必定会接纳他的悔过。\r",
+    "信仰伟大真主的人，是希望得到真主的宽恕、并畏惧他的惩罚。因此，趁早悔过，不要执迷不悟。\r",
+    "正确的忏悔条件包括：停止犯罪行为，对所犯之罪感到懊悔，下定决心不再重犯。如果悔过是针对他人的不公之财产、名誉或生命，还有一个额外的条件，即：与受害人和解或归还其应得的权益。\r",
+    "认识真主的重要性。这使仆人明白宗教事务，使其能够在犯错时悔过。他不会感到绝望，也不会过度放纵自己。"
+   ],
+   "mapping": "same HadeethEnc record id 4817; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:42+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/4817",
+   "text": "据艾布·胡莱勒（愿主喜悦之）传述， 先知（愿主福安之）据他的伟大的主说:“一个人犯了一件罪,然后说:‘主啊!求你饶恕我的罪过｡清高伟大的真主说:‘我的仆人犯了罪,他知道有个能恕罪也能治罪的主,我就饶恕了他｡’过了不久,他又犯了一件罪,又祈求说:‘我的主啊!求你饶恕我的罪过吧｡’清高伟大的真主说:‘我的仆人犯了罪,他知道有能恕罪也能治罪的主,我就饶恕他｡’又过了不久,这个人第三次犯罪,又祈求说:‘我的主啊!求你饶恕我的罪过吧｡’清高伟大的安真主说:‘我的仆人犯了罪,他知道有恕罪也能治罪的主,我就饶恕他｡现在你愿干什么就干什么,因为我确已饶恕了你｡”’",
+   "title": "一个人犯了一件罪,然后说:‘主啊!求你饶恕我的罪过｡",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

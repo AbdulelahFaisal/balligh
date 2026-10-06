@@ -1,0 +1,198 @@
+{
+ "attribution": "رواه الترمذي وأحمد",
+ "content_sha256": "sha256:caa75471fd7ac8a9c425ab0adaed0aaac5ee78c4fba74cedf69f46389f5a10aa",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "خَرَجَ رسولُ الله صلى الله عليه وسلم إلى حُنَيْن وهو: وادٍ بين الطائف ومكة، وكان معه بعضُ الصحابة الذين دخلوا في الإسلام قريبًا، \nفمرُّوا بشجرة يقال لها: \"ذات أنواط\"، أي: ذات مُعَلَّقات، كان المشركون يُعَظِّمونها ويعلِّقون عليها أسلحتَهم وغيرَها طلبًا للبركة، \nفطلبوا مِن الرسول صلى الله عليه وسلم أن يَجْعَلَ لهم شجرةً مثلَها، يُعلِّقون عليها أسلحتهم، طلبًا للبركة؛ ظَنًّا منهم أنَّ هذا أمرٌ جائز، \nفسبَّح النبيُّ صلى الله عليه وسلم استنكارًا لهذه المقالة، وتعظيمًا لله، وأخبَر أنّ هذه المقالة تُشْبِهُ مقالةَ قوم موسى له: {اجعل لنا إلهًا كما لهم آلهة}، \nلمَّا رَأَوْا مَن يَعْبُدُ الأصنام فطلبوا أن يكونَ لهم أصنامٌ كما للمشركين أصنامٌ، وأنَّ هذا اتّباعٌ لطريقتِهم، \nثم أخبَر صلى الله عليه وسلم أنَّ هذه الأمة ستَتَّبِع طريقةَ اليهود والنصارى وتفعل فِعلَهم، مُحَذِّرًا من ذلك.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "الإنسانُ قد يَستحسنُ شيئًا يَظُنُّه يُقَرِّبُه إلى الله تعالى، وهو يُبْعِدُه عنه.",
+  "ينبغي للمسلم أن يُسَبِّح ويُكَبِّر إذا سمِع ما لا ينبغي أن يُقَال في الدين، وعند التَّعَجُّب.",
+  "من الشرك التَّبَرُّك بالأشجارِ والأحجارِ وغيرها، والبَرَكة إنما تطلب من الله وحده.",
+  "سبب عبادة الأصنام هو تعظيمها، والعكوف عندها، والتَبَرُّك بها.",
+  "وجوب سَدِّ الأبواب والطُّرُق التي تُوصل إلى الشرك.",
+  "ما جاء من النصوص في ذمِّ اليهود والنصارى هو تحذيرٌ لنا.",
+  "النَّهْيُ عن التَّشَبُّه بأهل الجاهلية واليهود والنصارى، إلا ما دلَّ الدليل على أنه من ديننا."
+ ],
+ "id": "hadeethenc-5927",
+ "language": "ar",
+ "narrator": null,
+ "reference": "سنن الترمذي (4/ 49) (2180).\nمسند أحمد (36/ 225) (21897).\nالجديد في شرح كتاب التوحيد، لمحمد القرعاوي (ص101).\nالملخص في شرح كتاب التوحيد، لصالح الفوزان (ص91).\nالقول المفيد على كتاب التوحيد، لابن عثيمين (1/ 201).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=5927",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:38+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/5927"
+ },
+ "source_categories": [
+  {
+   "id": "73",
+   "label": "توحيد الألوهية"
+  }
+ ],
+ "source_record_id": "5927",
+ "text": "عَنْ أَبِي وَاقِدٍ اللَّيْثِيِّ رضي الله عنه: أَنَّ رَسُولَ اللهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَمَّا خَرَجَ إِلَى حُنَيْنٍ مَرَّ بِشَجَرَةٍ لِلْمُشْرِكِينَ يُقَالُ لَهَا: ذَاتُ أَنْوَاطٍ يُعَلِّقُونَ عَلَيْهَا أَسْلِحَتَهُمْ، فَقَالُوا: يَا رَسُولَ اللهِ، اجْعَلْ لَنَا ذَاتَ أَنْوَاطٍ كَمَا لَهُمْ ذَاتُ أَنْوَاطٍ، فَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «سُبْحَانَ اللهِ! هَذَا كَمَا قَالَ قَوْمُ مُوسَى {اجْعَلْ لَنَا إِلَهًا كَمَا لَهُمْ آلِهَةٌ} [الأعراف: 138] وَالَّذِي نَفْسِي بِيَدِهِ لَتَرْكَبُنَّ سُنَّةَ مَنْ كَانَ قَبْلَكُمْ».",
+ "title": "والذي نفسي بيده لتركبن سنة من كان قبلكم",
+ "topic": "belief",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=5927",
+   "arabic_match": "exact",
+   "attribution": "এটি তিরিমিযী ও আহমাদ বর্ণনা করেছেন।",
+   "content_sha256": "sha256:0fc2b54dfcb4d1d7bedb62d11b83c61339b2f62b4c9bde0e5d643c491875b186",
+   "explanation": "রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম হুনাইনের দিকে রওনা হলেন, যা তায়েফ ও মক্কার মধ্যবর্তী একটি উপত্যকা। তাঁর সাথে কিছু সাহাবীও ছিলেন, যারা সম্প্রতি ইসলাম গ্রহণ করেছিলেন। পথিমধ্যে তারা একটি গাছের পাশ দিয়ে অতিক্রম করলেন, যাকে বলা হত \"যাতু আনওয়াত\" (ঝুলন্ত জিনিস সম্বলিত গাছ)। মুশরিকরা এই গাছকে সম্মান করত এবং তাদের অস্ত্র ও অন্যান্য জিনিস গাছে ঝুলিয়ে রাখত বরকত লাভের আশায়। সাহাবীরা রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামকে অনুরোধ করলেন যে, তিনি যেন তাদের জন্যও এমন একটি গাছ নির্ধারণ করে দেন, যেখানে তারা তাদের অস্ত্র ঝুলিয়ে রাখতে পারবে এবং বরকত লাভ করতে পারবে। তারা মনে করেছিল যে, এটি একটি বৈধ বিষয়। নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাদের এই কথার তীব্র নিন্দা জানালেন এবং আল্লাহর মহত্ত্ব বর্ণনা করে ‘সুবহানাল্লাহ’ বলে উঠলেন। তিনি বললেন , তাদের এই কথাগুলো মূসা আলাইহিস সালামের সম্প্রদায়ের কথার মতো, যারা বলেছিল: \"আমাদের জন্যও একটি উপাস্য নির্ধারণ করুন, যেমন তাদের উপাস্য রয়েছে।\" তারা মুশরিকদের মূর্তি পূজা করতে দেখে চেয়েছিল যে, তাদের জন্যও মূর্তি থাকুক। কাজেই সাহাবীদের এমন আবেদন তাদেরই অনুসরণ। অতঃপর নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম সতর্ক করে দিলেন যে, এই উম্মতও ইহুদি ও নাসারাদের পথ অনুসরণ করবে এবং তাদের মতো কাজ করবে।",
+   "grade": "সহীহ",
+   "hints": [
+    "মানুষ এমন কিছুকে পছন্দ করতে পারে, যাকে সে আল্লাহর নিকটবর্তী করার উপায় মনে করে, কিন্তু তা প্রকৃতপক্ষে তাকে আল্লাহ থেকে দূরে সরিয়ে দেয়।\r",
+    "মুসলিমের উচিত, যখন সে দ্বীনের মধ্যে কোনো অনুচিত কথা শুনে বা কোন কিছুতে বিস্মিত হয় তখন সুবহানাল্লাহ ও আল্লাহু আকবার বলা।\r",
+    "গাছ, পাথর বা অন্য কিছুর মাধ্যমে বরকত খোঁজা শির্কের অন্তর্ভুক্ত। বরকত শুধুমাত্র আল্লাহর কাছেই চাওয়া উচিত।\r",
+    "মূর্তি পূজার মূল কারণ হলো সেগুলোকে সম্মান করা, সেগুলোর কাছে অবস্থান করা এবং সেগুলোর মাধ্যমে বরকত খোঁজা।\r",
+    "শির্কের দিকে ধাবিতকারী সকল পথ ও দরজা বন্ধ করা আবশ্যক।\r",
+    "ইহুদি ও খৃষ্টানদের  নিন্দা সংবলিত দলীলগুলো আমাদের জন্য সতর্কবাণী।\r",
+    "জাহিলিয়্যাত, ইহুদি ও খৃষ্টানদের অনুকরণ করা নিষিদ্ধ, যদি তা কোনো দলীল দ্বারা প্রমাণ না হয় যে, তা আমাদের দ্বীনের অংশ।"
+   ],
+   "mapping": "same HadeethEnc record id 5927; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:36+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/5927",
+   "text": "আবূ ওয়াকিদ আল-লাইসী রাদিয়াল্লাহু ‘আনহু হতে বর্ণিত: রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হুনাইনের উদ্দেশ্যে যখন যাত্রা শুরু করলেন, তখন তিনি মুশরিকদের একটি গাছের পাশ দিয়ে যাচ্ছিলেন। সেই গাছটিকে যাতু আনওয়াত’ বলা হতো। তারা এর মধ্যে তাদের অস্ত্রসমূহ লটকিয়ে রাখত। সাহাবীগণ বললেন, হে আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)। তাদের যাতু আনওয়াতের মতো আমাদের জন্য একটা যাতু আনওয়াতের ব্যবস্থা করুন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন: “সুবহানাল্লাহ! এটা তো মূসা (আঃ)-এর উন্মাতের কথার মতো হলো। তারা বলেছিল, কাফিরদের যেমন অনেক উপাস্য রয়েছে তদ্রুপ আমাদের জন্যও একটি উপাস্য বানিয়ে দিন। [সূরা আল-আরাফ: ১৩৮] সেই সত্তার শপথ যার হাতে আমার প্রাণ! তোমরা অবশ্যই তোমাদের পূর্ববর্তীগণের নীতি অবলম্বন করবে।”",
+   "title": "সেই সত্তার শপথ যার হাতে আমার প্রাণ! তোমরা অবশ্যই তোমাদের পূর্ববর্তীগণের নীতি অবলম্বন করবে।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=5927",
+   "arabic_match": "exact",
+   "attribution": "Narrated by At-Tirmidhi and Ahmad",
+   "content_sha256": "sha256:a308c7f486d952601f369c2b3be97b42c078961d42ab3223b59d67f9d6367841",
+   "explanation": "The Messenger of Allah (may Allah's peace and blessings be upon him) set out for Hunayn, a valley between Tā’if and Makkah, and he was accompanied by some of the Companions who had recently embraced Islam. They passed by a tree called Dhāt Anwāt, i.e., on which things were hung. The polytheists used to revere it and hang their weapons and other things upon it to seek blessing. Thinking it was permissible, they asked the Messenger of Allah (may Allah's peace and blessings be upon him) to make them a tree like this one upon which they could hang their weapons to seek blessing. Thereupon, the Prophet (may Allah's peace and blessings be upon him) exalted Allah by way of disapproval of such a request and by way of extolling Allah. He informed them that their statement was similar to that which the people of Moses had said to him: {Make for us a god just as they have gods} When they saw those who were worshipping idols and asked to have idols like those of the polytheists, he clarified to them that by this, they were indeed following their ways. Then, the Prophet (may Allah's peace and blessings be upon him) informed by way of warning that this Ummah will follow the ways of the Jews and Christians and will copy their acts.",
+   "grade": "Authentic",
+   "hints": [
+    "One may admire something thinking it will bring him closer to Allah Almighty although it keeps him far away from Him.\r",
+    "A Muslim should glorify Allah and proclaim His greatness whenever he hears what should not be said about religion or what is surprising.\r",
+    "Seeking blessing in trees, rocks, and other things is a kind of Shirk (polytheism), as blessing should only be sought from Allah alone.\r",
+    "The reason behind worshiping idols lies in revering them, being devoted to them, and seeking blessing in them.\r",
+    "It is obligatory to block the means and ways that lead to polytheism.\r",
+    "Religious texts that criticize the Jews and Christians are a warning to us.\r",
+    "It is prohibited to imitate the people of Jāhiliyyah (pre-Islamic era of ignorance), the Jews, and the Christians, except in what is proven to be part of our religion."
+   ],
+   "mapping": "same HadeethEnc record id 5927; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:36+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/5927",
+   "text": "Abu Wāqid al-Laythi (may Allah be pleased with him) reported: When the Messenger of Allah (may Allah's peace and blessings be upon him) set out for Hunayn, he passed by a tree of the polytheists called Dhāt Anwāt, upon which they used to hang their weapons. They said: O Messenger of Allah, make for us a Dhāt Anwāt just as they have a Dhāt Anwāt. Thereupon, the Prophet (may Allah's peace and blessings be upon him) said: \"Glory be to Allah! This is like what the Children of Israel said to Mūsa (Moses): {Make for us a god just as they have gods.} [Sūrat al-A'rāf: 138] By the One in Whose Hand my soul is, you will follow the ways of those before you.\"",
+   "title": "By the One in Whose Hand my soul is, you will follow the ways of those before you",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=5927",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par At-Tirmidhî et Ahmad",
+   "content_sha256": "sha256:6ba946256ddf1c917427d8cb62675a353fd4e0cdfa77b84cd7cbaa215d19982a",
+   "explanation": "Le Messager d'Allah ﷺ sortit en direction de Hunayn qui est une vallée entre Taïf et La Mecque. Il y avait avec lui certains Compagnons qui venaient juste d'embrasser l'Islam. Ils passèrent alors près d'un arbre qu'on appelait : \" L'arbre aux objets suspendus. \" C'est-à-dire : un arbre sur lequel on attachait des choses. Les polythéistes vénéraient cet arbre et y attachaient leurs armes ainsi que d'autres choses en guise de recherche de la bénédiction. Ils demandèrent alors au Messager d'Allah ﷺ de leur attribuer un arbre comme celui-ci sur lequel ils y attacheraient leurs armes en guise de recherche de la bénédiction. Ils pensèrent que cette affaire était permise. Alors, le Prophète ﷺ glorifia Allah en guise de réprobation de cette parole et de vénération pour Allah. Il les informa que cette parole était comparable à celle du peuple de Moïse (paix sur lui) lorsqu'ils lui dirent : {\" Attribue-nous un dieu, comme ils ont des divinités. \"} Cela lorsqu'ils virent ceux qui adorèrent les idoles et les statues ; ils demandèrent donc à ce qu'ils aient eux aussi des idoles et des statues comme les polythéistes avaient des idoles et des statues. Et ceci fait partie du suivi de leur voie. Ensuite, en guise de mise en garde contre cela, il ﷺ a informé que cette communauté suivra la voie des Juifs et des Chrétiens et accomplira leurs actes.",
+   "grade": "Authentique",
+   "hints": [
+    "Il se peut que la personne approuve quelque chose dont elle pense que cela la rapprochera d'Allah ﷻ alors qu'en réalité cela l'éloignera de Lui.\r",
+    "Il convient que le musulman glorifie Allah et proclame Sa grandeur lorsqu'il entend ce qui ne sied pas de dire dans la religion ; il en est de même en cas d'étonnement.\r",
+    "Rechercher la bénédiction par les arbres, les pierres, et autres, est du polythéisme. En effet, la bénédiction n'est demandée et recherchée qu'auprès d'Allah, Seul.\r",
+    "La cause de l'adoration des idoles et des statues est due à leur vénération, leur considération et la recherche de la bénédiction auprès d'elles.\r",
+    "L'obligation de fermer les portes et les voies qui mènent au polythéisme.\r",
+    "Les textes qui ont été rapportés concernant la blâme des Juifs et des Chrétiens constituent une mise en garde à notre encontre.\r",
+    "L'interdiction de ressembler aux gens du paganisme préislamique (Al Jâhiliyyah), aux Juifs et aux Chrétiens excepté en cas de preuve que cela fait partie de notre religion."
+   ],
+   "mapping": "same HadeethEnc record id 5927; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:36+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/5927",
+   "text": "D'après Abû Wâqid Al-Laythî (qu'Allah l'agrée) : « Lorsque le Messager d'Allah ﷺ sortit pour Hunayn, il passa près d'un arbre (un jujubier) appartenant aux polythéistes qu'on appelait : l'arbre aux objets suspendus auquel ils accrochaient leurs armes. Ils [certains Compagnons] ont alors dit : \" Ô Messager d'Allah ! Attribue-nous un arbre aux objets suspendus, comme ils en ont un ! \" Alors, le Prophète ﷺ a dit : \" Gloire à Allah ! Ceci est comme ce que le peuple de Moïse a dit ! : {\" Attribue-nous un dieu, comme ils ont des divinités. \"} [Les Murailles, 7 : 138].  Par Celui qui détient mon âme dans Sa Main ! Vous suivrez certainement la tradition de ceux qui vos ont précédés. »",
+   "title": "Par Celui qui détient mon âme dans Sa Main ! Vous suivrez certainement la tradition de ceux qui vos ont précédés.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=5927",
+   "arabic_match": "exact",
+   "attribution": "HR. Tirmizi dan Ahmad",
+   "content_sha256": "sha256:2d224ec6463fafc7f72559936fe821d4d057afd0e090c2f5c410efe68781624f",
+   "explanation": "Rasulullah ﷺ keluar menuju Hunian, yaitu sebuah lembah antara Taif dan Makkah, dan bersama beliau sebagian sahabat yang baru masuk Islam, Lantas mereka melewati sebuah pohon yang disebut żātu anwāṭ, yaitu pohon yang memiliki banyak tempat gantungan. Orang-orang musyrik mengagungkannya serta menggantungkan senjata mereka dan benda lainnya di sana untuk mendapatkan keberkahan. Mereka minta kepada Rasul ﷺ agar beliau membuatkan mereka pohon yang semisal, tempat mereka menggantung senjata untuk mendapatkan keberkahan, karena mengira hal itu diperbolehkan. Maka Nabi ﷺ bertasbih sebagai bentuk pengingkaran terhadap perkataan tersebut dan pengagungan kepada Allah. Dan beliau mengabarkan bahwa perkataan itu menyerupai perkataan kaum Nabi Musa kepadanya, \"Buatlah untuk kami sebuah tuhan (berhala) sebagaimana mereka mempunyai beberapa tuhan (berhala).\" Yaitu, ketika mereka melihat orang-orang menyembah patung, mereka juga minta agar memiliki patung sebagaimana orang-orang musyrik pun memiliki patung. Dan ini bentuk mengikuti jalan mereka. Kemudian beliau ﷺ mengabarkan bahwa umat ini akan mengikuti tradisi orang-orang Yahudi dan Nasrani serta bertindak seperti mereka. Beliau memperingatkan mereka untuk tidak melakukan hal itu.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Seseorang terkadang menganggap sesuatu bagus, dan ia kira akan mendekatkannya kepada Allah Ta'ala, padahal itu menjauhkannya dari Allah.\r",
+    "2- Seorang muslim sebaiknya bertasbih dan bertakbir ketika mendengar sesuatu yang tidak patut diucapkan dalam agama dan ketika kagum.\r",
+    "3- Di antara bentuk kesyirikan ialah tabaruk dengan pohon, batu, dan lainnya, karena keberkahan itu hanya diminta dari Allah semata.\r",
+    "4- Sebab penyembahan berhala ialah mengagungkannya, iktikaf di sana dan tabaruk dengannya.\r",
+    "5- Kewajiban menutup semua pintu dan jalan yang dapat mengantarkan kepada kesyirikan.\r",
+    "6- Semua nas yang mencela orang-orang Yahudi dan Nasrani ialah merupakan peringatan bagi kita.\r",
+    "7- Larangan menyerupai orang-orang jahiliah, Yahudi, dan Nasrani kecuali perkara yang ditunjukkan oleh dalil bahwa itu bagian dari agama kita."
+   ],
+   "mapping": "same HadeethEnc record id 5927; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:36+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/5927",
+   "text": "Abu Wāqid Al-Laiṡi meriwayatkan, Ketika Rasulullah ﷺ keluar menuju Hunain lalu beliau melewati sebuah pohon milik orang-orang musyrik yang disebut żātu anwāṭ; tempat mereka menggantung senjatanya. Para sahabat (yang baru masuk Islam) berkata, \"Wahai Rasulullah, buatkan untuk kami żātu anwāṭ sebagaimana mereka memiliki żātu anwāṭ.\" Nabi ﷺ bersabda, \"Subḥānallāh! Ini seperti yang dikatakan oleh kaum Musa, 'Buatlah untuk kami sebuah tuhan (berhala) sebagaimana mereka mempunyai beberapa tuhan (berhala).' [QS. Al-A'rāf: 138] Demi Tuhan yang jiwaku ada di tangan-Nya, kalian pasti akan mengikuti tradisi orang-orang sebelum kalian.\"",
+   "title": "Demi Tuhan yang jiwaku ada di tangan-Nya, kalian pasti akan mengikuti tradisi orang-orang sebelum kalian",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=5927",
+   "arabic_match": "exact",
+   "attribution": "رواه الترمذي وأحمد",
+   "content_sha256": "sha256:ec22a5d11c72d12f2796db41812fb4bc0418c27615e1cb39c5524f48c4390bac",
+   "explanation": "اللہ کے رسول صلی اللہ علیہ و سلم طائف اور مکہ کے درمیان واقع ایک وادی حنین کی جانب نکلے۔ آپ کے ساتھ کچھ صحابہ ایسے بھی تھے، جو ابھی ابھی مسلمان ہوئے تھے۔ لہذا جب وہ \"ذات انواط\" نامی یعنی لٹکائی ہوئی چیزوں والے ایک پیڑ کے پاس سے گزرے، جس کی مشرکین تعظیم کیا کرتے تھے اور حصول برکت کے لیے اس پر اپنے ہتھیار لٹکایا کرتے تھے، تو اللہ کے رسول صلی اللہ علیہ و سلم سے کہنے لگے کہ ان کے لیے بھی اسی طرح کا ایک پیڑ متعین کر دیں، جس میں وہ حصول برکت کے لیے اپنے ہتھیار لٹکا سکیں۔ دراصل وہ سمجھتے تھے کہ ایسا کرنا جائز ہے۔ چنانچہ اللہ کے نبی صلی اللہ علیہ نے ان کی گزارش کے بارے میں ناپسندیدگی کا اظہار کرتے ہوئے اور اللہ کی عظمت بیان کرتے ہوئے \"سبحان اللہ\" کہا اور بتایا کہ ان کی یہ بات موسی علیہ السلام کی قوم کی اس بات کے مشابہ ہے:  (ہمارے لیے بھی ایک معبود بنا دیجیے جیسا کہ ان (مشرکوں) کے معبودان ہیں)۔ جب انھوں نے کچھ لوگوں کو بتوں کی پوجا کرتے ہوئے دیکھا، تو اس بات کا مطالبہ کیا کہ مشرکوں کی طرح ان کے بھی کچھ بت ہوں۔ آپ نے بتایا کہ آپ کے صحابہ کا یہ مطالبہ بھی دراصل ان کے نقش قدم کی پیروی ہے۔ پھر بتایا کہ یہ امت یہود و نصاری کے نقش قدم پر چلے گی اور ان کے کام کرے گی۔ آپ کا مقصد اس طرح کے کاموں سے خبردار کرنا تھا۔",
+   "grade": "صحيح",
+   "hints": [
+    "انسان کبھی کبھی کسی کام کو اللہ سے قریب کرنے والا کام سمجھ کر اچھا سمجھتا ہے، لیکن وہ حقیقت میں اللہ سے دور کرنے والا کام ہوتا ہے۔\r",
+    "انسان جب کسی کو دین کے بارے میں کوئی نامناسب بات کہتے ہوئے سنے یا کسی بات پر تعجب کرے، تو سبحان اللہ یا اللہ اکبر کہے۔\r",
+    "درختوں اور پتھر وغیرہ سے برکت حاصل کرنا بھی شرک کے زمرے میں آتا ہے۔ برکت صرف اللہ سے طلب کی جائے گی۔\r",
+    "بتوں کی پرستش کی وجہ ان کی تعظیم کرنا، ان کے پاس بیٹھنا اور ان سے برکت حاصل کرنا ہے۔\r",
+    "شرک تک پہنچانے والے دروازوں اور راستوں کو بند کرنے کی ضرورت۔\r",
+    "یہودیوں اور عیسائیوں کی مذمت میں وارد نصوص دراصل ہمارے لیے تنبیہ ہیں۔\r",
+    "اہل جاہلیت اور یہودو نصاریٰ کی مشابہت اختیار کرنا حرام ہے، سوائے اس کے کہ دلیل اس بات پر دلالت کرے کہ یہ ہمارے دین میں سے ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 5927; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:36+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/5927",
+   "text": "ابو واقد لیثی رضی اللہ عنہ سے روایت ہے کہ جب اللہ کے رسول ﷺ حنین کے لیے نکلے، تو آپ کا گزر مشرکین کے ایک درخت سے ہوا، جسے ذات انواط کہا جاتا تھا، اس پر وہ اپنے ہتھیار لٹکاتے تھے۔ چنانچہ آپ کے ساتھ موجود لوگوں نے کہا : اے اللہ کے رسول! ہمارے لیے بھی ایک ذات انواط بنا دیجیے جیسا کہ ان کا ایک ذات انواط ہے۔ لہذا اللہ کے نبیﷺ نے فرمایا : \"سبحان اللہ! یہ تو وہی بات ہے جو موسیٰ کی قوم نے کہا تھا کہ {اجْعَلْ لَنَا إِلَهًا كَمَا لَهُمْ آلِهَةٌ} (ہمارے لیے بھی ایک معبود بنا دیجیے جیسا کہ ان (مشرکوں) کے معبودان ہیں)۔ [سورہ اعراف : 138] اس ذات کی قسم جس کے ہاتھ میں میری جان ہے! تم ضرور اپنے سے پہلے کی امتوں کے نقش قدم پر چلوگے۔\"",
+   "title": "اس ذات کی قسم جس کے ہاتھ میں میری جان ہے! تم ضرور اپنے سے پہلے کی امتوں کے نقش قدم پر چلوگے۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=5927",
+   "arabic_match": "exact",
+   "attribution": "提尔密兹、艾哈迈德辑录",
+   "content_sha256": "sha256:6420956a022d242c82899d8ba854fae445f01057e95159f75b5da4f1ad966559",
+   "explanation": "安拉的使者（愿主福安之）向侯奈尼行军，侯奈尼地处塔伊芙和麦加之间，当时有部分刚皈依伊斯兰教的圣门弟子随他出征。 然后他们经过了一棵树，这棵树名为“扎特·艾奈瓦特”，意为：带挂钩的树。多神教徒尤其尊重这棵树，他们曾在此树上悬挂他们的兵器等物品，以寻求沾吉庆。 然后他们便要求使者（愿主福安之）为他们设立一颗类似的树，他们也可用来悬挂兵器，以沾得吉庆，他们认为这件事是允许的， 然后先知（愿主福安之）赞颂安拉清净，意在否认此类言论，和对安拉表示敬畏。他叙述道此类言论犹如穆萨的民众之言论，他们曾对穆萨说：{请你为我们设置一个神灵，犹如他们有许多神灵一样。} 当他们看到崇拜偶像者的时候，他们便要求为他们也设立一些偶像，犹如多神教徒所拥有的偶像一般，他们这是遵循前人的迷途。 然后先知（愿主福安之）说道，这个民族将遵循犹太人和基督教的道路，将行他们所行之事。先知这样说以便使人们从中提防。",
+   "grade": "正确的",
+   "hints": [
+    "人也许会美化某事，他们猜测可以此来接近安拉，实则是在远离安拉。\r",
+    "听见不适宜教门的言论，或表示惊奇之时，穆斯林应当诵念大赞词和清赞词。\r",
+    "以树木、石头等物沾吉是以物配主，吉庆只能向独一的安拉祈求。\r",
+    "崇拜偶像的因素是尊崇它，在它跟前坐静，用它沾吉庆。\r",
+    "必须堵住一切可能导致以物配主的媒介和途径。\r",
+    "圣训所述是对犹太人和基督教徒的谴责是对我们的警告。\r",
+    "禁止模仿蒙昧时期的人们、犹太教徒和基督教徒。除非有证据表明它是属于我们的宗教。"
+   ],
+   "mapping": "same HadeethEnc record id 5927; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:36+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/5927",
+   "text": "艾布·瓦基德·莱斯（愿主喜悦之）传述： 安拉的使者（愿主福安之）在去侯奈因的途中，经过了多神教徒的一棵树，这棵树名为“扎特·艾奈瓦特”。多神教徒们在此树上悬挂自己的兵器，这时他们（随使者出征者）说：安拉的使者啊！你给我也设立这样一棵树，犹如他们的这棵树一般。先知（愿主福安之）说：“赞颂安拉清净！此话犹如穆萨的民众说：{请你为我们设置一个神灵，犹如他们有许多神灵一样。}【高处章：138】以掌握我生命的主发誓，你们必定步你们前人的后尘。”",
+   "title": "以掌握我生命的主发誓，你们必定步你们前人的后尘。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

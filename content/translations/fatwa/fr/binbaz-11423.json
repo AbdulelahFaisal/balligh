@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-11423",
+ "source_content_sha256": "sha256:9eab42b034464482796fb37e0978f5e88a00436e16cead27ab89b2744e2a4705",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:21:20.210044+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 697,
+  "completion_tokens": 633,
+  "total_tokens": 1330,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 697
+ },
+ "latency_ms": 5849,
+ "units": [
+  {
+   "id": "title",
+   "text": "Clarification du sens de l'islam"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "La questionneuse, qui a indiqué son nom par l'initiale (M), dit : Pourriez-vous clarifier le sens de l'islam ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "L'islam signifie : se soumettre à Allah par le monothéisme, Lui obéir avec humilité et soumission. C'est là le sens de l'islam. On dit : untel s'est islamisé à untel, c'est-à-dire qu'il s'est humilié devant lui, s'est soumis à lui et a satisfait sa demande. L'islam signifie donc : s'humilier devant Allah, se soumettre à Lui en L'unifiant, en Lui vouant un culte exclusif, en obéissant à Ses commandements et en délaissant Ses interdits. C'est cela l'islam. Allah dit : ⟦Q1⟧ [Âl 'Imrân : 19]. Le musulman est appelé ainsi parce qu'il est soumis à Allah, humble et obéissant envers Lui, exalté soit-Il, en accomplissant ce qu'Il a ordonné et en délaissant ce qu'Il a interdit."
+  },
+  {
+   "id": "a2",
+   "text": "Le terme islam s'applique à tout ce qu'Allah et Son Messager ont ordonné, comme la prière, le jeûne, le pèlerinage, la foi, etc. Tout cela est appelé islam, comme Allah a dit : ⟦Q2⟧ [Âl 'Imrân : 19]. Et Il a dit : ⟦Q3⟧ [Al-Mâ'idah : 3]. Et Il a dit : ⟦Q4⟧ [Âl 'Imrân : 85]."
+  },
+  {
+   "id": "a3",
+   "text": "Le musulman est donc celui qui obéit à l'ordre d'Allah en paroles, en actes et en croyance. L'islam est la soumission à l'ordre d'Allah, l'acceptation de Son commandement et l'humilité devant Lui sous tous les aspects. Oui."
+  },
+  {
+   "id": "a4",
+   "text": "Présentateur : Qu'Allah vous récompense, éminent cheikh."
+  }
+ ]
+}

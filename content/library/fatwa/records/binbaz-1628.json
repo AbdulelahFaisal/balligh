@@ -1,0 +1,87 @@
+{
+ "answer": [
+  [
+   {
+    "kind": "strong",
+    "text": "الجواب:"
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "لا حرج فيها، المرأة عورة، مثل ما جاء في الحديث، لكن استثنى النبي ﷺ من ذلك ما يتعلق بالخاطب إذا خطب، وأحب أن ينظر فلا بأس، النبي ﷺ قال: "
+   },
+   {
+    "kind": "hadith",
+    "text": "إذا خطب أحدكم المرأة فإن استطاع أن ينظر منها ما يدعوه إلى نكاحها فليفعل"
+   },
+   {
+    "kind": "text",
+    "text": " إذا استطاع أن ينظر، ولو من بعد من غير علمها، فلا بأس، خطب جابر بن عبدالله الأنصاري  امرأة من الأنصار ولم يرها قال: فجعلت أتتبع النخل لعلي أراها حتى رأى منها ما أعجبه منها فتزوجها."
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "فالمقصود: أنه إذا تيسر له أن يراها ولو من بعيد، ولو من طريق وجوده في بيت أهلها، فتمر وهم راضون بذلك، وما أشبه ذلك، وإذا تيسر أن أباها، أو أخاها يحضرونه عندهم، ويدخلونها عليه، ويراها بغير خلوة بحضرة أبيها، أو أخيها، أو أمها، أو نحو ذلك فلا بأس، هذا أذن فيه النبي ﷺ ورخص. "
+   }
+  ]
+ ],
+ "content_sha256": "sha256:96e8a9251e4c16aedd6c23ee621e686bf80e88242c710dfcf32a82c118e84353",
+ "id": "binbaz-1628",
+ "language": "ar",
+ "notes": [],
+ "question": [
+  [
+   {
+    "kind": "strong",
+    "text": "السؤال:"
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "إذا طلب الزوج مقابلة المرأة دون خلوة، فما هو الدليل على ذلك، والرسول ﷺ يقول: كل المرأة عورة؟ "
+   }
+  ]
+ ],
+ "raw_sha256": "sha256:c4f9dbe429e6436fb7a0ca9d92eb2f243a0fab2724c931417d539065cf678054",
+ "reuse_basis": "user_confirmed_permission",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.fatwa/2",
+ "source": {
+  "edition": null,
+  "publisher": "binbaz.org.sa",
+  "publisher_name": "موقع الشيخ ابن باز",
+  "retrieved_at": "2026-10-06T03:52:46+00:00",
+  "series": "فتاوى الجامع الكبير",
+  "url": "https://binbaz.org.sa/fatwas/1628/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D9%86%D8%B8%D8%B1-%D8%A7%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%AE%D8%B7%D9%88%D8%A8%D8%A9-%D9%88%D8%B6%D9%88%D8%A7%D8%A8%D8%B7-%D8%B0%D9%84%D9%83"
+ },
+ "source_categories": [
+  {
+   "id": "159",
+   "label": "الخِطْبَة والاختيار",
+   "url": "https://binbaz.org.sa/categories/fiqhi/159"
+  },
+  {
+   "id": "169",
+   "label": "النظر والخلوة والاختلاط",
+   "url": "https://binbaz.org.sa/categories/fiqhi/169"
+  },
+  {
+   "id": "252",
+   "label": "قضايا المرأة",
+   "url": "https://binbaz.org.sa/categories/objective/252"
+  },
+  {
+   "id": "228",
+   "label": "الآداب والأخلاق المحمودة",
+   "url": "https://binbaz.org.sa/categories/objective/228"
+  }
+ ],
+ "source_record_id": "1628",
+ "title": "حكم النظر إلى المخطوبة وضوابط ذلك",
+ "topic": "conduct",
+ "translations": {},
+ "type": "fatwa"
+}

@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-10220",
+ "source_content_sha256": "sha256:dce4f55a155bb5c4f05e91a806ba7417d619591a0752fd30b31ae33a29daf7a8",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:26:30.313736+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 382,
+  "completion_tokens": 174,
+  "total_tokens": 556,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 382
+ },
+ "latency_ms": 3097,
+ "units": [
+  {
+   "id": "title",
+   "text": "关于举意封斋但未吃封斋饭的教法判律"
+  },
+  {
+   "id": "q0",
+   "text": "问："
+  },
+  {
+   "id": "q1",
+   "text": "有人在日出前醒来，且举意封斋，他的斋戒是否有效？"
+  },
+  {
+   "id": "a0",
+   "text": "答："
+  },
+  {
+   "id": "a1",
+   "text": "是的，他的斋戒有效，即使他没有吃封斋饭，感赞真主。是的，关键在于举意，一切行为皆凭举意，感赞真主，是的。"
+  }
+ ]
+}

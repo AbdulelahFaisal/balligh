@@ -1,0 +1,200 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:f868dab192b88a21198d7d28ae583636341018baa14f794420192946c2c5cfdc",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "كان معاذ بن جبل رضي الله عنه راكبًا خَلْفَ النبيِّ صلى الله عليه وسلم على دابته، فناداه: يا معاذ؟ وكرر النداء له ثلاث مرات؛ تأكيدًا لأهمية ما سيقوله له.\n\nوكل ذلك يجيبه معاذ رضي الله عنه بقوله: «لبيك يا رسول الله وسعديك»، أي: أُجِيبُك يا رسول الله إجابةً لك بعد إجابة، وطلبتُ السعادةَ لإجابتِك.\n\nفأخبره صلى الله عليه وسلم أنه ما من أحد يشهد أن لا إله إلا الله، أي: لا معبود بحق إلا الله، وأن محمدًا رسول الله، صِدْقًا من قلبه غير كاذب، فإنْ مات على هذه الحال حَرَّمه الله على النار.\n\nفسَألَ معاذٌ رضي الله عنه النبيَّ صلى الله عليه وسلم أنْ يُخبِر الناسَ ليَفرَحوا ويستبشروا خيرًا؟\n\nفخشي النبي صلى الله عليه وسلم أن يَتَّكلوا عليها، ويَقِلَّ عَمَلُهُم.\n\nفلم يُحَدِّثْ بها معاذٌ أحدًا إلا قبل موتِهِ؛ مَخافةَ الوقوع في إثمِ كِتْمَانِ العِلْم.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "تواضع النبي صلى الله عليه وسلم في إردافه معاذًا خلفه على دابته.",
+  "طريقة تعليم النبي صلى الله عليه وسلم، حيث كرر المناداة لمعاذ ليَشُدَّ انتباهَه لِمَا سيقول.",
+  "من شروط شهادة: أن لا إله إلا الله وأن محمدًا رسول الله أنْ يكون قائلها صادقًا متيقنًا غير كاذب أو شاك.",
+  "أهل التوحيد لا يُخلَّدون في نار جهنم، وإن دخلوها بسبب ذنوبهم؛ أخرجوا منها بعد أن يطهروا .",
+  "فضل الشهادتين لمن قالها صادقًا.",
+  "جواز ترك التحديث بحديثٍ في بعض الأحوال إذا ترتب عليه مفسدة."
+ ],
+ "id": "hadeethenc-10098",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (1/ 37) (128).\nصحيح مسلم (1/ 61) (32).\nنزهة المتقين شرح رياض الصالحين (1/ 377).\nبهجة الناظرين شرح رياض الصالحين، لسليم الهلالي (1/ 487).\nكنوز رياض الصالحين، لمجموعة من الباحثين (6/ 496).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=10098",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:33+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/10098"
+ },
+ "source_categories": [
+  {
+   "id": "72",
+   "label": "توحيد الربوبية"
+  },
+  {
+   "id": "271",
+   "label": "فضائل التوحيد"
+  }
+ ],
+ "source_record_id": "10098",
+ "text": "عن أنس بن مالك رضي الله عنه: أَنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَمُعَاذٌ رَدِيفُهُ عَلَى الرَّحْلِ قَالَ: «يَا مُعَاذُ بْنَ جَبَلٍ»، قَالَ: لَبَّيْكَ يَا رَسُولَ اللهِ وَسَعْدَيْكَ، قَالَ: «يَا مُعَاذُ»، قَالَ: لَبَّيْكَ يَا رَسُولَ اللهِ وَسَعْدَيْكَ، ثَلَاثًا، قَالَ: «مَا مِنْ أَحَدٍ يَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللهِ صِدْقًا مِنْ قَلْبِهِ إِلَّا حَرَّمَهُ اللهُ عَلَى النَّارِ»، قَالَ: يَا رَسُولَ اللهِ، أَفَلَا أُخْبِرُ بِهِ النَّاسَ فَيَسْتَبْشِرُوا؟ قَالَ: «إِذًا يَتَّكِلُوا». وَأَخْبَرَ بِهَا مُعَاذٌ عِنْدَ مَوْتِهِ تَأَثُّمًا.",
+ "title": "ما من أحد يشهد أن لا إله إلا الله وأن محمدا رسول الله صدقا من قلبه إلا حرمه الله على النار",
+ "topic": "belief",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=10098",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:91d3d1452d8c65c3c2f12c0a65c3e3f0aba3ecbb703fc30c34f3a24b5502801d",
+   "explanation": "মু‘আয বিন জাবাল রাদিয়াল্লাহু ‘আনহু একবার নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের পিছনে তাঁর সাওয়ারীতে আরোহী ছিলেন। তখন তিনি তাঁকে ডেকে বললেন: হে মু‘আয! এভাবে তিনি তাকে তিনবার ডাকলেন। তিনি যে বিষয়টি অচিরেই মু‘আযকে বলবেন, সেটি অত্যন্ত গুরুত্বপূর্ণ হওয়ায় তিনি এরূপ তিনবার করলেন।\r\n\r\nপ্রতিবারই মু‘আয রাদিয়াল্লাহু ‘আনহু উত্তরে বললেন: আমি হাযির ইয়া রাসূলাল্লাহ্‌ এবং আপনার আদেশ পালনের জন্য প্রস্তুত। অর্থাৎ হে আল্লাহর রাসূল! আমি আপনার ডাকে প্রতিবারই উত্তর দিচ্ছি যথাযত উত্তর এবং আপনার ডাকে সাড়া দিয়ে আমি সৌভাগ্য কামনা করছি।\r\n\r\nঅতপর নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাকে সংবাদ দিলেন: যে ব্যক্তি আন্তরিকতার সাথে, মিথ্যাবাদী না হয়ে সাক্ষ্য দিবে যে, আল্লাহ ছাড়া কোনো সত্য মাবূদ নেই এবং মুহাম্মাদ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম আল্লাহর রাসূল- এ অবস্থায় সে মারা গেলে তার জন্য আল্লাহ তা‘আলা জাহান্নাম হারাম করে দিবেন।\r\n\r\nমু‘আয রাদিয়াল্লাহু ‘আনহু নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামকে এ সংবাদ মানুষের মাঝে প্রচার করতে অনুমতি চাইলেন, যাতে তারা আনন্দিত হয় এবং সুসংবাদপ্রাপ্ত হয়।\r\n\r\nনবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আশংকা করলেন যে, তাহলে তারা এর ওপর ভরসা করে বসে থাকবে এবং আমল কমিয়ে দিবে।\r\n\r\nমু‘আয রাদিয়াল্লাহু ‘আনহু জীবনভর এ হাদীসটি কাউকে বর্ণনা করেন নি। তবে মৃত্যুর সময় এ হাদীসটি বর্ণনা করে গেছেন, যাতে ইলম গোপন রাখার গুনাহ না হয়।",
+   "grade": "সহীহ",
+   "hints": [
+    "মু‘আয রাদিয়াল্লাহু ‘আনহুকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর সাওয়ারীর পিছনে বসানো তাঁর বিনয় ও নম্রতারই বহি:প্রকাশ।\r",
+    "হাদীসে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের শিক্ষাদান পদ্ধতি বর্ণিত হয়েছে; যেহেতু তিনি মু‘আয রাদিয়াল্লাহু ‘আনহুকে বারবার সম্বোধন করেছেন, যাতে তিনি যা বলতে চাচ্ছেন সে ব্যাপারে তাকে অত্যন্ত মনোযোগী করতে পারেন।\r",
+    "আল্লাহ ছাড়া কোন সত্য মাবূদ নেই এবং মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আল্লাহর রাসূল- এ কথার সাক্ষ্য দেয়ার জন্য শর্ত হলো সাক্ষ্যদাতা দৃঢ়তার সাথে সত্যবাদী হতে হবে, মিথ্যাবাদী কিংবা সংশয়কারী হতে পারবে না।\r",
+    "তাওহীদে বিশ্বাসীগণ জাহান্নামে চিরস্থায়ী হবে না। যদিও তারা তাদের গুনাহের কারণে জাহান্নামে প্রবেশ করবেন। তা থেকে পবিত্র হওয়ার পর তাদেরকে জাহান্নাম থেকে বের করা হবে।\r",
+    "শাহাদাতাইন তথা ‘লা ইলাহা ইল্লাল্লাহু মুহাম্মাদুর রাসূলুল্লাহ’ এর ফযীলত তখনই অর্জিত হবে যখন কেউ তা সত্যবাদীতার সাথে বলবে।\r",
+    "কখনো কখনো হাদীস বর্ণনা করা থেকে বিরত থাকা জায়েয, যখন এটি বর্ণনার কারণে ক্ষতির আশংকা থাকে।"
+   ],
+   "mapping": "same HadeethEnc record id 10098; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:20+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/10098",
+   "text": "আনাস ইবনু মালিক রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত: একবার মু‘আয রাদিয়াল্লাহু ‘আনহু, রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের পিছনে সাওয়ারীতে উপবিষ্ট ছিলেন, তখন তিনি তাঁকে ডাকলেন, হে মু‘আয! তিনি উত্তর দিলেন, আমি হাযির ইয়া রাসূলাল্লাহ্‌ এবং আপনার আদেশ পালনের জন্য প্রস্তুত। তিনি ডাকলেন, মু‘আয! তিনি উত্তর দিলেন, আমি হাযির ইয়া রাসূলাল্লাহ্‌ এবং প্রস্তুত। তিনি আবার ডাকলেন, মু‘আয! তিনি উত্তর দিলেন, আমি হাযির ইয়া রাসূলাল্লাহ্‌ এবং প্রস্তুত। এরূপ তিনবার করলেন। এরপর বললেন, “যে কোনো বান্দা আন্তরিকতার সাথে এ সাক্ষ্য দিবে যে, আল্লাহ ছাড়া সত্য কোনো মাবূদ নেই এবং মুহাম্মাদ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম আল্লাহর রাসূল, তার জন্য আল্লাহ তা‘আলা জাহান্নাম হারাম করে দিবেন।” মু‘আয রাদিয়াল্লাহু ‘আনহু  বললেন, ইয়া রাসূলাল্লাহ্‌! আমি কি মানুষকে এ খবর দিবো না, যাতে তারা সুসংবাদ পেতে পারে? তিনি বললেন, তাহলে তারা এর ওপর ভরসা করে বসে থাকবে। মু‘আয রাদিয়াল্লাহু ‘আনহু  (জীবনভর এ হাদীসটি বর্ণনা করেন নি) মৃত্যুর সময় এ হাদীসটি বর্ণনা করে গেছেন, যাতে (ইলম গোপন রাখার) গুনাহ না হয়।",
+   "title": "যে কোনো বান্দা আন্তরিকতার সাথে এ সাক্ষ্য দিবে যে, আল্লাহ ছাড়া সত্য কোনো মাবূদ নেই এবং মুহাম্মাদ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম আল্লাহর রাসূল, তার জন্য আল্লাহ তা‘আলা জাহান্নাম হারাম করে দিবেন।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=10098",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:40a6cddc182466af461b48891a70c186df3fa44565b92bc6aab273bf959e1fc2",
+   "explanation": "Mu‘ādh ibn Jabal (may Allah be pleased with him) was riding on a mount behind the Prophet (may Allah's peace and blessings be upon him), who called him: O Mu‘ādh! He repeated the call three times to show the significance of what he was about to say.\r\n\r\nMeanwhile, Mu‘ādh was replying: \"Here I am at your service, O Messenger of Allah.\" That's I am answering your call, O Messenger of Allah, and seek happiness in answering you.\r\n\r\nThe Prophet (may Allah's peace and blessings be upon him) told him that if anyone bears witness that there is no god but Allah - which means that none is truly worthy of worship except Allah - and that Muhammad is the Messenger of Allah, sincerely from his heart, not lying, and then he dies in this state, Allah will make him forbidden to Hellfire.\r\n\r\nMu‘ādh (may Allah be pleased with him) asked the Prophet (may Allah's peace and blessings be upon him) whether he could tell people about that so that they would rejoice and feel hopeful.\r\n\r\nBut the Prophet (may Allah's peace and blessings be upon him) feared that they might solely rely upon that and their good deeds might decrease.\r\n\r\nSo, Mu‘ādh did not narrate this Hadīth to anyone, except at the time of his death, fearing that he would incur the sin of concealing knowledge.",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth highlights the Prophet's humility, as he made Mu‘ādh ride behind him on his mount.\r",
+    "It shows the Prophet's approach of teaching, as he repeated the call to Mu‘ādh to draw his attention to what he was going to say.\r",
+    "Among the conditions of the testimony that there is no god but Allah and that Muhammad is the Messenger of Allah, is to say it with sincerity and certitude, without lying or doubt.\r",
+    "The people of monotheistic belief will not abide in Hellfire eternally. If they enter it on account of their sins, they will be brought out of it after they are purified.\r",
+    "The Hadīth shows the merit of the two testimonies if one says them with sincerity.\r",
+    "It is permissible to refrain from narrating a certain Hadīth under some circumstances when its narration leads to some evil."
+   ],
+   "mapping": "same HadeethEnc record id 10098; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:20+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/10098",
+   "text": "Anas ibn Mālik (may Allah be pleased with him) reported: As the Prophet (may Allah's peace and blessings be upon him) was riding a mount with Mu‘ādh behind him, he said: \"O Mu‘ādh ibn Jabal!\" He replied: \"Here I am at your service, O Messenger of Allah.\" He again said: \"O Mu‘ādh!\" Mu‘ādh replied: \"Here I am at your service, O Messenger of Allah.\" This was said three times. Then, the Prophet (may Allah's peace and blessings be upon him) said: \"There is no one who bears witness that there is no god but Allah and that Muhammad is His slave and Messenger, sincerely from his heart, except that Allah will make him forbidden to Hellfire.\" He said: \"O Messenger of Allah, should I not inform the people of that so that they may rejoice?\" He replied: \"Then they would rely on this alone.\" Mu‘ādh narrated this Hadīth at the time of his death to avoid the sin of concealing knowledge.",
+   "title": "There is no one who bears witness that there is no god but Allah and that Muhammad is His slave and Messenger, sincerely from his heart, except that Allah will make him forbidden to Hellfire",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=10098",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:ebf7cf4311d13483f6b7aa7021bee7e7e8530c302dfbdcae774951db07d7e388",
+   "explanation": "Mou'âdh ibn Jabal (qu'Allah l'agrée) était assis derrière le Prophète (qu'Allah le couvre d'éloges et le préserve) sur sa monture, il l'a alors appelé : \" Ô Mou'âdh ! \" et lui répéta l'appel à trois reprises, afin d'insister sur l'importance de ce qu'il allait lui dire.\r\n\r\nA chaque fois, Mou'âdh (qu'Allah l'agrée) lui répondait : \" Me voilà, ô Messager d'Allah et je me réjouis d'être à ton service ! \" C'est-à-dire : \" Je te réponds ô Messager d'Allah, réponse après réponse, et je recherche le bonheur en te répondant. \"\r\n\r\nLe Prophète (qu'Allah le couvre d'éloges et le préserve) l'a alors informé que quiconque atteste qu'il n'est de divinité qu'Allah, c'est-à-dire : que rien ni personne ne mérite d'être adoré excepté Allah, et que Mouḥammad est le Messager d'Allah, véridiquement de son cœur, sans mentir, et meurt dans cet état, Allah l'interdit à l'Enfer.\r\n\r\nMou'âdh (qu'Allah l'agrée) demanda alors au Prophète (qu'Allah le couvre d'éloges et le préserve) s'il pouvait en informer les gens afin qu'ils s'en réjouissent et reçoivent la bonne nouvelle d'un bien.\r\n\r\nMais le Prophète (qu'Allah le couvre d'éloges et le préserve) a craint qu'ils ne se reposent sur cela et que, de ce fait, ils œuvrent moins.\r\n\r\nAinsi, Mou'âdh (qu'Allah l'agrée) n'a informé personne de cela jusqu'à avant sa mort par crainte de tomber dans le péché de la dissimulation de la science.",
+   "grade": "Authentique",
+   "hints": [
+    "La modestie du Prophète (qu'Allah le couvre d'éloges et le préserve) dans le fait de laisser Mou'âdh (qu'Allah l'agrée) monter derrière lui sur sa monture.\r",
+    "La manière d'enseigner du Prophète (qu'Allah le couvre d'éloges et le préserve) du fait qu'il ait répété son appel à Mou'âdh (qu'Allah l'agrée) afin de bien attirer son attention sur ce qu'il allait dire.\r",
+    "Parmi les conditions de l'attestation : \" Il n'est de divinité [digne d'adoration] qu'Allah et Mouḥammad est le Messager d'Allah \",  il faut que la personne soit véridique et convaincue, non pas menteuse ou dans le doute.\r",
+    "Les monothéistes ne resteront pas éternellement dans le feu de la Géhenne ; et s'ils y entrent à cause de leurs péchés, ils en sortiront après y avoir été purifiés.\r",
+    "Le mérite de la double attestation pour quiconque la prononce en étant véridique.\r",
+    "La permission de ne pas relater un hadith, dans certaines situations, si cela aboutit à une corruption [due à la mauvaise compréhension de celui-ci]."
+   ],
+   "mapping": "same HadeethEnc record id 10098; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:20+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/10098",
+   "text": "Anas ibn Mâlik (qu'Allah l'agrée) relate : « Le Prophète (qu'Allah le couvre d'éloges et le préserve), alors que Mou'âdh était assis à l'arrière de sa monture, a dit : \" Ô, Mou'âdh ibn Jabal ! \" Il a dit : \" Me voici, Ô Messager d'Allah ! \" Il a dit : \" Ô Mou'âdh ! \" Il a dit : \" Me voici, Ô Messager d'Allah ! \" Il dit : \" Ô Mou'âdh ! \" Et pour la troisième fois, Mou'âdh a dit : \" Me voici, Ô Messager d'Allah ! Je me réjouis d'être à ton service ! \" Il a dit : \"  Personne n'atteste qu'il n'est de divinité [digne d’adoration] qu'Allah et que Mouḥammad est le Messager d'Allah, véridiquement de son cœur, sans qu'Allah ne l'interdise à l'Enfer !  \" Il [Mou'âdh] demanda : \" Ô Messager d'Allah ! N'en informerais je pas les gens afin qu'ils se réjouissent ? \" Il dit : \" Alors, ils s'en contenteront ! \" Mou'âdh n’en informa les gens qu’au moment de mourir, pour se dégager de tout péché. »",
+   "title": "Personne n'atteste qu'il n'est de divinité [digne d’adoration] qu'Allah et que Mouḥammad est le Messager d'Allah, véridiquement de son cœur, sans qu'Allah ne l'interdise à l'Enfer !",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=10098",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:380d7b69532650bcbfb65e60ae7a93ddc57a712b279a603e453008716afd4d65",
+   "explanation": "Mu'āż bin Jabal -raḍiyallāhu 'anhu- dibonceng di belakang Nabi ﷺ di atas hewan kendaraan beliau, lalu beliau memanggilnya: Wahai Mu'āż! Beliau mengulang panggilannya sebanyak tiga kali untuk menegaskan pentingnya apa yang akan beliau sampaikan.\r\n\r\nSetiap kalinya, Mu'āż -raḍiyallāhu 'anhu- menjawab beliau dengan mengatakan: Labbaika wa sa'daik, wahai Rasulullah. Maksudnya, Aku menyambut panggilanmu, wahai Rasulullah; aku sambut terus-menerus dan aku menginginkan kesenangan dengan menyambut panggilanmu.\r\n\r\nLalu beliau ﷺ mengabarinya bahwa tidak ada seorang pun yang bersaksi lā ilāha illallāh, yakni tidak ada sembahan yang benar kecuali Allah, dan bersaksi bahwa muḥammad rasūlullāh, secara jujur dari hatinya dan tidak berdusta, lalu ia meninggal dunia dalam keadaan seperti itu, niscaya Allah haramkan atasnya api neraka.\r\n\r\nKemudian Mu'āż -raḍiyallāhu 'anhu- memohon izin pada Nabi ﷺ untuk mengabari orang-orang agar mereka senang dan berharap yang baik.\r\n\r\nAkan tetapi, Nabi ﷺ khawatir mereka akan berpasrah dan minim beramal.\r\n\r\nSebab itu, Mu'āż tidak pernah menyampaikan hadis itu kepada seorang pun kecuali menjelang kematiannya karena khawatir terjerumus dalam dosa menyembunyikan ilmu.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Ketawadukan Nabi ﷺ dengan membonceng Mu'āż di atas hewan kendaraan beliau.\r",
+    "2- Metode pengajaran Nabi ﷺ, yaitu beliau mengulang-ulang memanggil Mu'āż untuk menarik perhatiannya terhadap apa yang akan beliau sampaikan.\r",
+    "3- Di antara syarat persaksian lā ilāha illallāh muḥammad rasūlullāh ialah orang yang mengucapkannya harus jujur dan yakin, tidak berdusta ataupun ragu.\r",
+    "4- Orang-orang yang bertauhid tidak kekal di dalam neraka Jahanam. Seandainya mereka masuk ke dalam neraka karena dosa mereka, mereka tetap akan dikeluarkan setelah dibersihkan dari dosa.\r",
+    "5- Keutamaan dua kalimat syahadat bagi orang yang mengucapkannya dengan jujur.\r",
+    "6- Boleh tidak menyampaikan sebuah hadis di sebagian keadaan jika akan melahirkan suatu mafsadat."
+   ],
+   "mapping": "same HadeethEnc record id 10098; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:20+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/10098",
+   "text": "Anas bin Mālik -raḍiyallāhu 'anhu- meriwayatkan, Nabi ﷺ pernah membonceng Mu'āż di atas kendaraan seraya bersabda, \"Wahai Mu'āż bin Jabal!\" Dia menjawab, \"Labbaika wa sa'daik (Aku sambut panggilanmu dengan senang hati), wahai Rasulullah!\" Hal itu berulang tiga kali. Beliau bersabda, \"Tidak seorang pun yang bersaksi lā ilāha illallāh dan muḥammad rasūlullāh dengan jujur dari hatinya kecuali Allah haramkan atasnya api neraka.\" Mu'āż berkata, \"Wahai Rasulullah, tidakkah hal ini aku kabarkan kepada orang-orang agar mereka bahagia?!\" Beliau bersabda, \"Jika demikian, mereka akan pasrah.\" Akan tetapi, Mu'āż menyampaikannya menjelang meninggal dunia karena takut dosa.",
+   "title": "Tidak seorang pun yang bersaksi lā ilāha illallāh dan muḥammad rasūlullāh dengan jujur dari hatinya kecuali Allah haramkan atasnya api neraka",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=10098",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:3584589b9892cbd5afe679a42925812653e1b97ae6c980f52201c4f53e978c07",
+   "explanation": "معاذ بن جبل رضی اللہ عنہ اللہ کے نبی صلی اللہ علیہ و سلم کے پیچھے سواری پر بیٹھے ہوئے تھے کہ آپ نے ان کا نام لے کر تین بار کہا : اے معاذ! آپ کے ان کو تین بار پکارنے کا مقصد دراصل آگے کہی جانے والی بات کی اہمیت کو واضح کرنا تھا۔\r\n\r\nچنانچہ ہر بار معاذ رضی اللہ عنہ نے جواب میں کہا کہ اے اللہ کے رسول! میں آپ کی ہر آواز پر کھڑا ہوں اور اسے اپنے لیے سرمايۂ افتخار سمجھتا ہوں۔\r\n\r\nچنانچہ اللہ کے رسول صلی اللہ علیہ و سلم نے بتایا کہ جو بندہ سچے دل سے اس بات کی گواہی دیتا ہے کہ اللہ کے سوا کوئی سچا معبود نہيں ہے اور محمد صلی اللہ علیہ و سلم اللہ کے رسول ہیں اور پھر وہ اسی حالت میں مر جاتا ہے، تو اللہ اسے جہنم پر حرام کر دیتا ہے۔\r\n\r\nیہ سننے کے بعد معاذ رضی اللہ عنہ نے اللہ کے نبی صلی اللہ علیہ و سلم سے اس بات کی اجازت طلب کی کہ وہ یہ حدیث لوگوں کو سنا دیں، تاکہ لوگوں میں مسرت کی لہر دوڑ جائے۔\r\n\r\nلیکن اللہ کے نبی صلی اللہ علیہ و سلم کو اس بات کا اندیشہ ہوا کہ کہیں لوگ اسی پر بھروسہ کرکے بیٹھ نہ جائیں اور عمل کے میدان میں پیچھے رہ جائیں۔\r\n\r\nلہذا معاذ رضی اللہ عنہ نے یہ حدیث کسی کو نہیں بتائی۔ موت سے پہلے  اس ڈر سے بتا دی کہ کہیں علم چھپانے کا گناہ سر پر لد نہ جائے۔",
+   "grade": "صحيح",
+   "hints": [
+    "اللہ کے نبی صلی اللہ علیہ و سلم کا تواضع دیکھیے کہ معاذ رضی اللہ عنہ کو اپنے پیچھے سواری پر بٹھا لیا۔\r",
+    "یہاں اللہ کے نبی صلی اللہ علیہ و سلم کے تعلیم دینے کا ایک طریقہ سامنے آتا ہے کہ آپ نے معاذ بن جبل رضی اللہ عنہ کو ایک سے زیادہ بار پکارا، تاکہ وہ پوری توجہ کے ساتھ آپ کی بات سنیں۔\r",
+    "اللہ کے علاوہ کوئی سچا معبود نہ ہونے اور محمد صلی اللہ علیہ  و سلم کے اللہ کے رسول ہونے کی گواہی دینے کی ایک شرط یہ ہے کہ گواہی دینے والا سچے دل اور پورے یقین کے ساتھ گواہی دے۔ اس میں جھوٹ یا شک و شبہ کا شائبہ نہ ہو۔\r",
+    "اہل توحید جہنم کی آگ میں ہمیشہ نہيں رہيں گے۔ اپنے گناہوں کے سبب اس میں داخل ہو بھی جائیں، تو پاک صاف ہونے کے بعد وہاں سے نکال لیے جائیں گے۔\r",
+    "سچے دل سے مذکورہ دونوں گواہی دینے والے کی فضیلت۔\r",
+    "بعض حالات میں کسی حدیث کو بیان نہ کرنا بھی جائز ہے، جب اسے بیان کرنے کے نتیجے میں کوئی برائی سامنے آئے۔"
+   ],
+   "mapping": "same HadeethEnc record id 10098; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:20+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/10098",
+   "text": "انس رضی اللہ عنہ سے روایت ہے کہ اللہ کے نبی ﷺ نے، جب کہ معاذ رضی اللہ عنہ آپ ﷺ کے پیچھے سواری پر سوار تھے، فرمایا : \"اے معاذ!\" انھوں نے جواب دیا : اے اللہ کے رسول! حاضر ہوں۔ آپ ﷺ نے پھر فرمایا : \"اے معاذ!\" انھوں نے جواب دیا : حاضر ہوں اے اللہ کے رسول! آپ ﷺ نے اس طرح تین بار خطاب کیا۔ پھر فرمایا: ”جو بندہ سچے دل سے یہ گواہی دیتا ہے کہ اللہ کے سوا کوئی معبودِ برحق نہیں اور محمد ﷺ اس کے رسول ہیں، اسے اللہ جہنم پر حرام کر دیتا ہے“۔ معاذ رضی اللہ عنہ نے عرض کیا: اے اللہ کے رسول! کیا میں لوگوں کو اس کی اطلاع نہ دے دوں، تا کہ وہ خوش ہو جائیں؟ آپ ﷺ نے فرمایا: ”تب وہ اسی پر بھروسہ کر لیں گے“۔ چنانچہ معاذ رضی اللہ عنہ نے اپنی وفات کے وقت (کتمانِ علم کے) گناہ سے بچنے کے لیے اس حدیث کو بیان کر دیا۔",
+   "title": "جو بندہ سچے دل سے یہ گواہی دیتا ہے کہ اللہ کے سوا کوئی معبودِ برحق نہیں اور محمد ﷺ اس کے رسول ہیں، اسے اللہ جہنم پر حرام کر دیتا ہے",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=10098",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:825dc197cfa66247e4acaa1361490eb00c36cf5dc353886f5d787d05a4314c97",
+   "explanation": "穆阿兹·本·杰拜勒（愿主喜悦之）曾同先知（愿主福安之）同乘一坐骑，然后先知呼唤他说：“穆阿兹啊！”如此重复了三遍，以肯定他所说的事情之重要。\r\n\r\n每次呼唤，穆阿兹都回答说：“安拉的使者啊！我在，我在听你的命令。”即：安拉的使者啊！我响应你，一次一次的响应你，在响应你中我希望得到幸福。\r\n\r\n先知（愿主福安之）叙述道，凡诚心作证：除安拉外，再无应受崇拜的主，即：没有真应受拜的主，唯有安拉。又作证：穆罕默德是安拉的使者，这样的人如果在这种状态下归真，安拉将使其免受火刑。\r\n\r\n然后穆阿兹询问先知（愿主福安之），他是否可以将此消息告诉人们，以便人们因此而高兴？\r\n\r\n但先知（愿主福安之）担心人们依赖于此而疏于工作。\r\n\r\n所以穆阿兹一直未将此消息告诉任何人，直至他归真前才告诉人们，以免自己因隐藏知识而犯罪。",
+   "grade": "正确的",
+   "hints": [
+    "先知（愿主福安之）为人谦卑，他允许穆阿兹骑在他的坐骑后面。\r",
+    "先知（愿主福安之）的教育方式，他反复呼唤穆阿兹，以引起他对自己所说的话的重视。\r",
+    "诵念作证词：“除安拉外，再无应受崇拜的主，穆罕默德是安拉的使者”之条件是：诵念者要坚信无疑，不可撒谎、怀疑。\r",
+    "认主独一者不会永居火狱，如果他们因罪行而进入火狱，但最终在消除罪行以后还会被放出火狱。\r",
+    "两个见证词对于诚心诵念者来说是贵重的。\r",
+    "如果会产生不良后果，可以在有些情况下放弃讲述部分圣训。"
+   ],
+   "mapping": "same HadeethEnc record id 10098; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:20+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/10098",
+   "text": "据艾奈斯·本·马利克（愿主喜悦之）传述： 先知（愿主福安之）和穆阿兹同骑一峰骆驼，穆阿兹骑在后面，先知说：“穆阿兹·本·杰拜勒啊！”穆阿兹说：“安拉的的使者啊！我在，我在听你的命令！”使者说：“穆阿兹啊！”穆阿兹说：“安拉的使者啊！响应你，我在听你的命令! ”这样说了三遍，使者说：“凡是诚心作证除安拉外，再无应受崇拜的主宰，并作证穆罕默德是安拉的使者的人，安拉必使他免遭火狱之刑。”穆阿兹说：“安拉的使者啊！我是否将此告诉给人们，以让他们高兴？”使者说：“要是告诉他们，他们就会依赖于此。”穆阿兹临归真前，因深恐犯下隐瞒知识之罪，才把这段圣训告诉了人们。",
+   "title": "凡是诚心作证除安拉外，再无应受崇拜的主宰，并作证穆罕默德是安拉的使者的人，安拉必使他免遭火狱之刑。",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [
+  {
+   "meaning": " ما يوضع على ظهر الدابة للركوب.",
+   "word": "الرحل"
+  }
+ ],
+ "words_meanings_language": "ar"
+}

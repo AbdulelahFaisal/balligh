@@ -1,0 +1,167 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:56a980ba9da160e4a10906431287dc1a4aae122de4cca5efc8a7f13a3a7e5807",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يَحْلِفُ النبيُّ صلى الله عليه وسلم بالله أنه لا يَسمعُ به أَحَدٌ مِن هذه الأمة، يَهوديٌّ أو نصرانيٌّ أو غيرُهما تَبْلُغُه دعوةُ النبي صلى الله عليه وسلم ثم يموت ولم يؤمن به إلا كان من أصحاب النار خالدًا فيها أبدًا.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "عموم رسالةِ النبيِّ صلى الله عليه وسلم إلى جميع العالم، ووجوب اتِّباعِه، ونسخ جميع الشرائع بشرعه.",
+  "مَن كَفَرَ بالنبي صلى الله عليه وسلم لم ينفعه زَعْمُه إيمانَه بغيرِه من الأنبياء صلوات الله عليهم أجمعين.",
+  "من لم يَسمع بالنبي صلى الله عليه وسلم، ولم تَبْلغْه دعوةُ الإسلام فهو معذور، وأَمْرُه في الآخرة إلى الله تعالى.",
+  "يتحقق الانتفاع بالإسلام وإن كان قُبيل الموت، ولو في المرض الشديد، ما لم تبلغ الروح الحلقوم.",
+  "تصحيح دين الكفار -ومنهم اليهود والنصارى- كُفْرٌ.",
+  "ذكر اليهودي والنصراني -في الحديث- تنبيهًا على من سواهما؛ وذلك لأن اليهود والنصارى لهم كتاب، فإذا كان هذا شأنهم، فغيرهم ممن لا كتاب له أولى، فكلُّهم يجب عليهم الدخول في دينه وطاعته صلى الله عليه وسلم."
+ ],
+ "id": "hadeethenc-3272",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (1/ 134) (153).\nشرح النووي على مسلم (2/ 186).\nالإفصاح عن معاني الصحاح، لابن هبيرة (8/ 192).\nطرح التثريب في شرح التقريب، لعبد الرحيم العراقي (7/ 159).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3272",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:56:02+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3272"
+ },
+ "source_categories": [
+  {
+   "id": "81",
+   "label": "نبينا محمد صلى الله عليه وسلم"
+  }
+ ],
+ "source_record_id": "3272",
+ "text": "عَنْ أَبِي هُرَيْرَةَ رضي الله عنه عَنْ رَسُولِ اللهِ صلى الله عليه وسلم أنه قال: «وَالَّذِي نَفْسُ مُحَمَّدٍ بِيَدِهِ لَا يَسْمَعُ بِي أَحَدٌ مِنْ هَذِهِ الْأُمَّةِ يَهُودِيٌّ وَلَا نَصْرَانِيٌّ، ثُمَّ يَمُوتُ وَلَمْ يُؤْمِنْ بِالَّذِي أُرْسِلْتُ بِهِ إِلَّا كَانَ مِنْ أَصْحَابِ النَّارِ».",
+ "title": "والذي نفس محمد بيده لا يسمع بي أحد من هذه الأمة يهودي ولا نصراني، ثم يموت ولم يؤمن بالذي أرسلت به إلا كان من أصحاب النار",
+ "topic": "understanding_islam",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3272",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:e1031bd8b544a5384d8bc5f487ef4f94a450249605cdcdbde028a0469c7aab1d",
+   "explanation": "এ হাদীসে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম কসম করে বলেছেন, এ উম্মতের ইয়াহুদি, খৃস্টান বা অন্য যে কোন কারো কাছে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের রিসালাতের দাওয়াত পৌঁছল, অতপর সে তাতে ঈমান না এনে যদি মারা যায়, তবে অবশ্যই সে চিরস্থায়ী জাহান্নামী হবে।",
+   "grade": "সহীহ",
+   "hints": [
+    "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের রিসালাত বিশ্বের সকল মানুষের জন্য প্রযোজ্য এবং তাঁর অনুরসরণ করা সকলের উপর ফরয। তাছাড়া তাঁর আনিত শারী‘আহর মাধ্যমে পূর্ববর্তী সব শারী‘আহ রহিত (বাতিল) হয়ে গেছে।\r",
+    "সুতরাং যে ব্যক্তি নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামকে অস্বীকার করবে, তার অন্যান্য নবী রাসূল ‘আলাইহিমুস সালামের উপর আনিত ঈমান কোন কাজে আসবে না।\r",
+    "পক্ষান্তরে যে ব্যক্তি নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের কথা শুনেনি, তার কাছে ইসলামের দাওয়াত পৌঁছেনি, সে মূলত ওযরগ্রস্ত (ক্ষমাপ্রাপ্ত)।  পরকালে তার বিষয় আল্লাহর উপর ন্যস্ত থাকবে।\r",
+    "কেউ ইসলাম গ্রহণ করলে তার ইসলাম ‍উপকারে আসবে; যদিও সে মৃত্যুর পূর্বমুহুর্তে ইসলাম গ্রহণ করে।এমনকি যদিও সে ভীষণ অসুস্থতার সময় ইসলাম কবুল করে, যদি  তার রূহ কন্ঠে না পৌঁছে।\r",
+    "কাফিরদের ধর্মকে বিশুদ্ধ মনে করা- তন্মধ্যে ইয়াহুদি ও খৃস্টানদের ধর্ম- কুফরী।\r",
+    "হাদীসে ইয়াহুদি ও খৃস্টান ধর্মের কথা উল্লেখ করা হয়েছে মূলত অন্যান্য ধর্ম বাতিল হওয়ার ব্যাপারে সতর্ক করার জন্যে। কেননা ইয়াহুদি ও খৃস্টানদের আসমানী কিতাব থাকা সত্ত্বেও তাদের অবস্থা যেহেতু এমন, সুতরাং যাদের আসমানী কিতাব নেই তারা বাতিল হওয়া আরো অধিক উপযুক্ত। সুতরাং তাদের সকলের উপর ফরয হলো নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের আনিত দ্বীনে প্রবেশ করা এবং তাঁর অনুসরণ করা।"
+   ],
+   "mapping": "same HadeethEnc record id 3272; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:56:04+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3272",
+   "text": "আবূ হুরায়রা রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন: “সে সত্ত্বার কসম, যার হাতে মুহাম্মাদের প্রাণ! ইয়াহুদি হোক আর খৃস্টান, যে ব্যক্তিই আমার এ রিসালাতের খবর শুনেছে; অথচ আমার রিসালাতের উপর ঈমান না এনে মারা যাবে, অবশ্যই সে জাহান্নামী হবে।”",
+   "title": "“সে সত্ত্বার কসম, যার হাতে মুহাম্মাদের প্রাণ! ইয়াহুদি হোক আর খৃস্টান, যে ব্যক্তিই আমার এ রিসালাতের খবর শুনেছে; অথচ আমার রিসালাতের উপর ঈমান না এনে মারা যাবে, অবশ্যই সে জাহান্নামী হবে।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3272",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:1da8517220c88236aa258994a6c22cea3c45c61ef6a8194447c2e255d3f8b960",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) swears by Allah that none of this nation, be he Jewish or Christian or otherwise, who hears of the Prophet (may Allah's peace and blessings be upon him) and of his message then dies without believing in him except that he will be among the dwellers of Hellfire who will reside therein forever.",
+   "grade": "Authentic",
+   "hints": [
+    "It demonstrates the generality of the Prophet's message that addresses the whole world, the obligation of following him, and the fact that his Shariah has abrogated all the previous legislations.\r",
+    "Whoever disbelieves in the Prophet (may Allah's peace and blessings be upon him), his belief in other prophets (peace be upon all of them) will not be of any avail to him.\r",
+    "Those who have not heard about the Prophet (may Allah's peace and blessings be upon him) and the call of Islam has not reached them are excused and their case in the Hereafter is left to Allah Almighty.\r",
+    "A person can embrace Islam even shortly before death, even if he is in severe illness, so long as the soul did not reach the throat (did not witness death).\r",
+    "Belief in the soundness of the disbelievers' religion, including the Jews and the Christians, is disbelief.\r",
+    "The reference in this Hadīth to the Jews and the Christians indicates that the ruling includes the people of other faiths as well. If this is the case with the Jews and the Christians, who received divine scriptures, then it is more emphatic for those who have no scripture, for everyone must embrace Islam and obey its Messenger (may Allah's peace and blessings be upon him)."
+   ],
+   "mapping": "same HadeethEnc record id 3272; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:56:04+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3272",
+   "text": "Abu Hurayrah (may Allah be pleased with him) reported that the Messenger of Allah (may Allah's peace and blessings be upon him) said: \"By the One in Whose Hand Muhammad's soul is, there is nobody of this Ummah (community), whether they be Jewish or Christian, who hears of me and then dies without believing in what I was sent with except that he will be among the people of Hellfire.\"",
+   "title": "By the One in Whose Hand Muhammad's soul is, there is nobody of this Ummah (community), whether they be Jewish or Christian, who hears of me and then dies without believing in what I was sent with except that he will be among the people of Hellfire",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3272",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:de83097b86d698a5a06b3bcf14d077e4e104476c8816c80055aaeb32214ed755",
+   "explanation": "Nabi ﷺ bersumpah dengan nama Allah bahwa tidak ada seorang pun dari umat ini, baik Yahudi, Nasrani atau lainnya, yang sampai kepadanya dakwah Nabi ﷺ kemudian ia meninggal dalam keadaan tidak beriman kepada beliau, melainkan ia termasuk penghuni neraka yang kekal selama-lamanya.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Keumuman risalah Nabi ﷺ untuk semua umat manusia, kewajiban mengikuti beliau dan pembatalan semua syariat dengan syariat beliau.\r",
+    "2- Orang yang kafir kepada Nabi ﷺ tidak berguna pengakuan imannya kepada nabi-nabi yang lain -semoga Allah melimpahkan selawat kepada mereka semua-.\r",
+    "3- Siapa saja yang belum mendengar tentang Nabi ﷺ dan dakwah Islam tidak sampai kepadanya, maka diberikan uzur dan urusannya di akhirat diserahkan kepada Allah Ta'ala.\r",
+    "4- Manfaat masuk Islam akan didapatkan walaupun keislamannya sesaat sebelum kematian dan walaupun ketika sakit keras selama roh belum sampai di kerongkongan.\r",
+    "5- Menganggap benar agama orang kafir, di antaranya orang Yahudi dan Nasrani, adalah kekufuran.\r",
+    "6- Penyebutan orang Yahudi dan Nasrani di dalam hadis ini sebagai isyarat terhadap umat agama lain, yaitu lantaran orang-orang Yahudi dan Nasrani memiliki kitab. Apabila keadaan mereka seperti ini, maka selain mereka yang tidak memiliki kitab lebih pantas untuk masuk Islam, sehingga mereka semuanya wajib masuk Islam dan taat kepada Nabi ﷺ."
+   ],
+   "mapping": "same HadeethEnc record id 3272; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:56:04+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3272",
+   "text": "Abu Hurairah -raḍiyallāhu 'anhu- meriwayatkan bahwa Rasulullah ﷺ bersabda, “Demi (Tuhan) yang jiwa Muhammad berada di tangan-Nya! Tidak ada seorang pun dari umat manusia, baik Yahudi maupun Nasrani, yang mendengar tentang diriku lalu ia meninggal dalam keadaan tidak beriman kepada risalah yang aku bawa, melainkan ia adalah penghuni neraka.”",
+   "title": "“Demi (Tuhan) yang jiwa Muhammad berada di tangan-Nya! Tidak ada seorang pun dari umat manusia, baik Yahudi maupun Nasrani, yang mendengar tentang diriku lalu ia meninggal dalam keadaan tidak beriman kepada risalah yang aku bawa, melainkan ia adalah penghuni neraka.”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3272",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:fa8c8f260b87bdbd5ece2ba1630a49f1167973d58c00856815e1d97f2990d816",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم اللہ کی قسم کھا کر بتا رہے ہیں کہ اس امت کا جو بھی شخص آپ کے بارے میں سنے گا، خواہ یہودی ہو ، عیسائی ہو یا کوئی اور، پھر وہ آپ پر ایمان لائے بغیر ہی مر جائے گا، تو وہ جہنمی ہوگا اور اس میں ہمیشہ رہے گا۔",
+   "grade": "صحيح",
+   "hints": [
+    "اللہ کے نبی صلی اللہ علیہ و سلم کی رسالت سارے عالم کے لیے عام ہے، آپ کی اتباع واجب ہے اور آپ کی شریعت کے ذریعے پچھلی ساری شریعتیں منسوخ ہو چکی ہیں۔\r",
+    "جس نے اللہ کے نبی صلی اللہ علیہ و سلم کا انکار کر دیا، اسے دیگر نبیوں پر ایمان رکھنے کا دعوی کچھ فائدہ نہ دے گا۔\r",
+    "جس نے اللہ کے نبی صلی اللہ علیہ و سلم کے بارے میں نہيں سنا اور اس کے پاس آپ کی دعوت نہیں پہنچی، وہ معذور ہے اور آخرت میں اس کا معاملہ اللہ کے ہاتھ میں ہوگا۔\r",
+    "انسان کو اسلام قبول کرنے کا فائدہ ملے گا، چاہے سخت بیماری میں اور موت سے کچھ دیر پہلے ہی کیوں نہ اسلام قبول کرے، جب کہ روح حلق تک نہ پہنچ جائے۔\r",
+    "کافروں - جن میں یہود ونصاری بھی شامل ہیں- کے دین کو صحیح قرار دینا کفر ہے۔\r",
+    "اس حدیث میں یہودیوں اور عیسائیوں کا ذکر ان کے علاوہ دیگر مذاہب کے ماننے والوں کے بارے میں تنبیہ کرنے کے لیے ہوا ہے۔ کیوں کہ ان دونوں قوموں کے پاس کتابیں موجود تھیں اور اس کے باوجود ان کا یہ حال ہے، تو دیگر ان قوموں کا حال کیا ہوگا، جن کے پاس کتاب نہیں ہے؟ سچائی یہ ہے کہ دنیا کی ساری قوموں پر آپ کے دین کو قبول کرنا اور آپ کی اتباع کرنا واجب ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 3272; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:56:04+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3272",
+   "text": "ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا : \"قسم ہے اس ذات کی جس کے ہاتھ میں محمد کی جان ہے! اس امت کا کوئی بھی انسان جو میرے بارے میں سنے، وہ یہودی ہو یا نصرانی اور وہ اس شریعت پر ایمان نہ لائے، جسے دے کر میں بھیجا گیا ہوں اور اسی حالت میں اس کی موت ہو جائے، تو وہ جہنمی ہوگا\"۔",
+   "title": "قسم ہے اس ذات کی جس کے ہاتھ میں محمد کی جان ہے! اس امت کا کوئی بھی انسان جو میرے بارے میں سنے، وہ یہودی ہو یا نصرانی اور وہ اس شریعت پر ایمان نہ لائے، جسے دے کر میں بھیجا گیا ہوں اور اسی حالت میں اس کی موت ہو جائے، تو وہ جہنمی ہوگا\"۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3272",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:b10902e3ffcf470c5d39fc5bc391a12bd75858f9f35246a43322f50c6fb56b01",
+   "explanation": "先知（愿主福安之）以安拉的名义起誓，不论犹太教徒或基督教徒，凡是听到先知的传达但至死也不信仰他奉命传播的正教者，他们是火狱永久的居民。",
+   "grade": "正确的",
+   "hints": [
+    "先知穆罕默德（愿主福安之）的使命针对众世界，要求所有人遵循之，以及他的法律废除了所有其它法律。\r",
+    "谁不信先知穆罕默德（愿主福安之），那么他所声称的对其他先知的信仰对他毫无益处，愿主祝福众先知。\r",
+    "谁没有听说过先知（愿主福安之），且也没有接受到伊斯兰信息，那么他是无辜的，他的事务将由伟大的安拉在后世处理。\r",
+    "即使在临终时刻，即使在严重的疾病中，只要灵魂尚未到达喉咙，皈依伊斯兰依然有效。\r",
+    "认为否认者们的宗教正确是昧信，其中就包括犹太教和基督教。\r",
+    "在这段圣训中提到犹太人和基督徒是为了提醒其他人；因为犹太人和基督徒拥有经典，所以如果这是他们的情况，那么其他没有经典的人更是如此，故所有人都要皈依先知穆罕默德宗教及服从他（愿主福安之）。"
+   ],
+   "mapping": "same HadeethEnc record id 3272; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:56:04+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3272",
+   "text": "艾布·胡莱勒（愿主喜悦之）传述：安拉的使者（愿主福安之）说： “誓以掌握我生命的主发誓，不论犹太教徒或基督教徒，凡是听到我却不信仰我奉命传播的正教者，皆属火狱居民。”",
+   "title": "“誓以掌握我生命的主发誓，不论犹太教徒或基督教徒，凡是听到我却不信仰我奉命传播的正教者，皆属火狱居民。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

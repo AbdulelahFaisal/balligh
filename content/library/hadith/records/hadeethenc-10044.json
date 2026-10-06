@@ -1,0 +1,193 @@
+{
+ "attribution": "رواه الدارقطني",
+ "content_sha256": "sha256:b073e62a06bd3ab581e0ba439f512d91a10142e17d65813adb711c161b849a84",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يبين لنا النبي صلى الله عليه وسلم في هذا الحديث أحد أسباب عذاب القبر، وهو الأكثر شيوعاً، ألا وهو عدم الاستنزاه والطهارة من البول.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "الحرص على التنزه والابتعاد من البول، بأن لا يصيبه في بدنه ولا ثوبه .",
+  "الأفضل المبادرة بغسله، والطهارة منه بعد إصابته؛ لئلا تصاحبه النجاسة، أما وجوب إزالتها فيكون عند الصلاة.",
+  "أن البول نجس، فإذا أصاب بدناً أو ثوباً أو بقعة، نجسها؛ فلا تصح بذلك الصلاة؛ لأن الطهارة من النجاسة أحد شروطها.",
+  "أن ترك التنزه من البول من كبائر الذنوب.",
+  "ثبوت عذاب القبر، وهو ثابت بالكتاب والسنة والإجماع.",
+  "إثبات الجزاء في الآخرة، فأول مراحل الآخرة هي القبور، فالقبر: إما روضة من رياض الجنة، أو حفرة من حفر النار."
+ ],
+ "id": "hadeethenc-10044",
+ "language": "ar",
+ "narrator": null,
+ "reference": "سنن الدارقطني،أبو الحسن علي بن عمر الدارقطني، تحقيق: شعيب الارنؤوط وآخرون، نشر: مؤسسة الرسالة، بيروت، لبنان، الطبعة: الأولى، 1424هـ، 2004م.\nإرواء الغليل في تخريج أحاديث منار السبيل، محمد ناصر الدين الألباني، إشراف: زهير الشاويش، المكتب الإسلامي، بيروت، الطبعة: الثانية 1405هـ، 1985م.\nتوضيح الأحكام مِن بلوغ المرام، عبد الله بن عبد الرحمن البسام، مكتبة الأسدي، مكة المكرّمة، الطبعة: الخامِسَة 1423هـ، 2003م.\nمنحة العلام في شرح بلوغ المرام، عبد الله صالح الفوزان، دار ابن الجوزي، الطبعة: الأولى 1428هـ، 1432هـ.\nتسهيل الإلمام بفقه الأحاديث من بلوغ المرام، صالح بن فوزان بن عبد الله الفوزان، اعتنى بإخراجه عبدالسلام بن عبد الله السليمان، الرسالة، بيروت، الطبعة: الأولى 1427هـ، 2006م.\nفتح ذي الجلال والإكرام بشرح بلوغ المرام للشيخ ابن عثيمين- المكتبة الإسلامية القاهرة- تحقيق صبحي رمضان وأم إسراء بيومي- الطبعة الأولى 1427ه.",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=10044",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:41+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/10044"
+ },
+ "source_categories": [
+  {
+   "id": "435",
+   "label": "آداب قضاء الحاجة"
+  }
+ ],
+ "source_record_id": "10044",
+ "text": "عن أبي هريرة رضي الله عنه مرفوعًا: «اسْتَنْزِهوا من البول؛ فإنَّ عامَّة عذاب القبر منه».",
+ "title": "استنزهوا من البول؛ فإن عامة عذاب القبر منه",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=10044",
+   "arabic_match": "exact",
+   "attribution": "এটি দারাকুতনী বর্ণনা করেছেন।",
+   "content_sha256": "sha256:cf24e800811e9b04fd5fa5109182c13d43125ccf0b31caf67218fcac20ae7ac4",
+   "explanation": "এ হাদীসটিতে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কবর আযাবের বিভিন্ন কারণসমূহ হতে এমন একটি কারণ বর্ণনা করেন, যেটি সর্বাধিক ব্যাপক। আর তা হলো পেশাব থেকে সতর্ক না হওয়া ও পবিত্রতা অর্জন না করা।",
+   "grade": "সহীহ",
+   "hints": [
+    "পেশাব থেকে দূরে থাকা এবং তা থেকে বেচে থাকার প্রতি গুরুত্বারোপ করা হয়েছে। যাতে দেহে ও কাপড়ে কোন পেশাব না লাগে।",
+    "উত্তম হলো পেশাব লাগার পর খুব তাড়াতাড়ি ধুয়ে ফেলা এবং তা থেকে পবিত্র হওয়া। যাতে নাপাকী তার সঙ্গে না থাকে। আর তা দূর করা ওয়াজিব হলো সালাতের সময়।",
+    "পেশাব অবশ্যই নাপাক। যখন তা শরীর কিংবা কাপড় বা কোনো স্থানে লাগে তখন সেগুলোকে নাপাক করে দেয়। সেগুলোতে সালাত সহীহ হবে না। কারণ, নাপাকী থেকে পাক হওয়া সালাতের একটি অন্যতম শর্ত।",
+    "পেশাব থেকে পবিত্রতা অর্জন না করা কবীরাহ গুনাহ।",
+    "কবরের আযাব প্রমাণিত। এটি আল্লাহর কিতাব, সুন্নাহ ও ইজমা দ্বারা প্রমাণিত।",
+    "আখিরাতে প্রতিদান লাভ প্রমাণিত। আর আখিরাতের প্রথম ঘাটি হলো কবর। কবর হয় জান্নাতের বাগানসমূহের একটি বাগান অথবা জাহান্নামের গর্তসমূহের একটি গর্ত।"
+   ],
+   "mapping": "same HadeethEnc record id 10044; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:52+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/10044",
+   "text": "আবূ হুরায়রাহ রাদিয়াল্লাহু আনহু থেকে মারফূ হিসেবে বর্ণিত: “তোমরা পেশার থেকে সতর্ক থাকো। কারণ, কবরের অধিকাংশ শাস্তি তা হতে”।",
+   "title": "তোমরা পেশার থেকে সতর্ক থাকো। কারণ, কবরের অধিকাংশ শাস্তি তা হতে।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=10044",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Ad-Daraqutny",
+   "content_sha256": "sha256:180907c02a85414ec0272180ab7e4a4d9c16ecaab5f00466d49b4526018272a5",
+   "explanation": "In this Hadīth, the Prophet (may Allah's peace and blessings be upon him) draws our attention to one of the most common causes of punishment in the grave. It is the habit of not keeping away or purifying oneself from urine.",
+   "grade": "Authentic hadith",
+   "hints": [
+    "We should beware of urine and distance ourselves from it, lest it may touch our bodies or clothes.",
+    "It is better to wash off urine and purify ourselves of it if it touches us, so as to avoid impurity. But it is obligatory to remove it prior to prayer.",
+    "Urine is impure. So, if it touches a part of the body, clothing, or a spot, it makes it impure, rendering prayer invalid in this state. One of the requirements of the prayer is the removal of impurity.",
+    "Failure to guard against urine is one of the major sins.",
+    "It establishes the existence of the torment in the grave, which is proved by the Qur’an, the Sunnah, and the consensus.",
+    "It establishes the existence of the recompense in the Hereafter, as the stages of the Hereafter begin with the grave, which is either a garden of Paradise or a pit of Hellfire."
+   ],
+   "mapping": "same HadeethEnc record id 10044; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:51+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/10044",
+   "text": "Abu Hurayrah (may Allah be pleased with him) reported that the Prophet (may Allah's peace and blessings be upon him) said: \"Beware of (smearing yourselves with) urine, because it is the main cause of punishment in the grave.\"",
+   "title": "Beware of (smearing yourselves with) urine, because it is the main cause of punishment in the grave",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=10044",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Ad-Dâraquṭnî",
+   "content_sha256": "sha256:3ba6b489d591f9f5cf96d6b6f1646b05097909539ee8d9e282db4c2dc7b519ec",
+   "explanation": "Le Prophète (sur lui la paix et le salut) nous explique dans ce récit que l'une des causes majeures du châtiment de la tombe, est le fait de ne pas se prémunir de l'urine et de ne pas s'en purifier.",
+   "grade": "Authentique",
+   "hints": [],
+   "mapping": "same HadeethEnc record id 10044; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:52+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/10044",
+   "text": "Abû Hurayrah (qu’Allah l’agrée) relate que le Messager d'Allah (sur lui la paix et le salut) a dit : « Prémunissez-vous contre l'urine, car elle est la cause de la plupart des châtiments de la tombe. »",
+   "title": "Prémunissez-vous contre l'urine, car elle est la cause de la plupart des châtiments de la tombe.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=10044",
+   "arabic_match": "exact",
+   "attribution": "Diriwayatkan oleh Daruquṭni",
+   "content_sha256": "sha256:e90775fcbfa89d093ae7622b57fef1b1d6878b5108bd1f988128293706b4e7b6",
+   "explanation": "Dalam hadis ini, Nabi -ṣallallāhu 'alaihi wa sallam- menjelaskan kepada kita tentang salah satu faktor siksa kubur, bahkan merupakan faktor yang sangat dominan, yaitu tidak membersihkan dan menyucikan diri dari kencing.",
+   "grade": "Hadis sahih",
+   "hints": [
+    "Bersungguh-sungguh membersihkan diri dan menghindari air kencing agar tidak menimpa badan dan pakaian.",
+    "Yang paling afdal agar kencing segera dicuci dan dibersihkan agar dirinya tidak disertai oleh najis. Adapun kewajiban menghilangkannya maka ketika akan salat.",
+    "Air kencing adalah najis. Apabila badan, pakaian, atau sebuah tempat terkena kencing maka ia membuatnya bernajis. Dengan sebab itu salat menjadi tidak sah, karena bersuci dari najis adalah salah satu syaratnya.",
+    "Tidak membersihkan diri dari air kencing termasuk dosa besar.",
+    "Adanya azab kubur, dan ia ditetapkan berdasarkan Al-Qur`ān, As-Sunnah, dan ijmak.",
+    "Menetapkan adanya balasan di akhirat, dan bahwa tahapan akhirat paling pertama adalah kubur. Kondisi kubur boleh jadi salah satu taman di antara taman-taman surga, atau salah satu kubangan di antara kubangan-kubangan neraka."
+   ],
+   "mapping": "same HadeethEnc record id 10044; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:52+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/10044",
+   "text": "Abu Hurairah -raḍiyallāhu 'anhu- meriwayatkan secara marfū': \"Bersucilah dari kencing, karena sesungguhnya kebanyakan siksa kubur disebabkan tidak bersuci darinya.\"",
+   "title": "Bersucilah dari kencing, karena sesungguhnya kebanyakan siksa kubur disebabkan tidak bersuci darinya",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=10044",
+   "arabic_match": "exact",
+   "attribution": "اسے امام دارقطنی نے روایت کیا ہے۔",
+   "content_sha256": "sha256:f9140ba976d999055fb5e9f55feb3f63fd0f7a2a2c92839b3f08a74126cf855d",
+   "explanation": "اس حدیث میں نبی ﷺ عذاب قبر کے اسباب میں سے ایک سبب کو ہمارے لیے بیان فرما رہے ہیں، جو کہ بہت زیادہ پایا جاتا ہے، یعنی پیشاب سے نہ بچنا اور اس سے پاک صاف نہ رہنا۔",
+   "grade": "صحیح",
+   "hints": [
+    "پیشاب سے بچنے اور دوری اختیارکرنے کا خیال رکھنا ،اس طور سے کہ وہ کپڑے اور جسم پر نہ لگے۔",
+    "بہتر ہے کہ اس کے لگنے کے بعد جلد دھو لیا جائے اور اس سے پاکی حاصل کر لی جائے، تاکہ انسان کے نجاست کے ساتھ گھومتا نہ پھرے۔ البتہ نماز کے وقت اسے زائل کرنا واجب ہے۔",
+    "پیشاب نجس ہے۔ جب کسی کے جسم، کپڑا یا کسی جگہ کو لگ جاتا ہے، تو اسے ناپاک کر دیتا ہے۔ لہذا اس کے ہوتے ہوئے نماز درست نہیں ہوتی، کیوں کہ نجاست سے پاک ہونا نماز کے صحیح ہونے کی ایک شرط ہے۔",
+    "پیشاب کے چھینٹوں سے نہ بچنا کبیرہ گناہوں میں سے ہے۔",
+    "عذاب قبر کا ثبوت۔ یہ کتاب و سنت اور اجماع سے ثابت ہے۔",
+    "آخرت میں جزا کا اثبات۔ آخرت کے مراحل میں سے سب سے پہلا مرحلہ قبر کا مرحلہ ہے۔ قبر یا توجنت کی کیاری ہے یا جہنم کے گڑھوں میں سے ایک گڑھا ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 10044; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:51+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/10044",
+   "text": "ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: ”پیشاب (کے چھینٹوں) سے بچو؛ کیوں کہ عمومم قبر کا عذاب اسی وجہ سے ہوتا ہے“۔",
+   "title": "پیشاب (کے چھینٹوں) سے بچو؛ کیوں کہ عموما قبر کا عذاب اسی وجہ سے ہوتا ہے۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=10044",
+   "arabic_match": "exact",
+   "attribution": "德尔古塔尼传述",
+   "content_sha256": "sha256:9a8f6a5a6678764952423276bc50d6588be556b1793d5024f8ecae4520442468",
+   "explanation": "先知--愿主福安之--在这段圣训中阐明，坟墓中受到惩罚的一个原因，它在人们间很普遍，即不注意清洁自己如厕后的尿滴（滴落在衣裤之上）。",
+   "grade": "健全的圣训",
+   "hints": [
+    "注意清洁和远离尿滴，不要让它污染身体和衣服。",
+    "沾上尿滴以后，最好马上洗涤和清洁，不要一直带着污秽，在礼拜时则必须清洁。",
+    "小便是污秽的，如果身体、衣服或者地方上沾上尿滴时，则不可以礼拜，因为从污秽中洁净是礼拜的条件之一。",
+    "放弃清洁小便的污秽，属于大罪。",
+    "确定坟墓的惩罚，它是以经训和集体商议一致明确的。",
+    "确定在后世的回赐，后世的第一阶段就是坟墓，坟墓：要么是天堂中花园的花园；要么是火狱中火坑中的火坑。"
+   ],
+   "mapping": "same HadeethEnc record id 10044; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:52+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/10044",
+   "text": "艾布·胡莱赖--愿主喜悦之--直接传述自先知--愿主福安之--说：“你们要清洁尿滴，墓穴中的大部分惩罚都源于此。”",
+   "title": "你们要清洁尿滴，墓穴中的大部分惩罚都源于此。",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [
+  {
+   "meaning": " اطلبوا النزاهة بابتعادكم عن البول.",
+   "word": "استنزهوا"
+  },
+  {
+   "meaning": " أكثر.",
+   "word": "عامة"
+  }
+ ],
+ "words_meanings_language": "ar"
+}

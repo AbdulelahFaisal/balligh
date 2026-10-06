@@ -1,0 +1,179 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:955f07f62db17b284fdb307d2655190e1c741abd08a2e188dbb360e7a67c202e",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يُخْبِرُنا النبيُّ صلى الله عليه وسلم أنَّ مَن صَرَفَ شيئًا مما يجب أن يكون لله إلى غيره، كدعاء غير الله تعالى، أو الاستغاثة بغيره، ومات على ذلك فإنه من أهل النار. \nوزاد ابن مسعود رضي الله عنه أن من مات وهو لا يشرك بالله شيًا فإنَّ مَصيرَه إلى الجنة.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "الدعاء عبادةٌ لا يُصرف إلا لله تعالى.",
+  "فضل التوحيد، وأنَّ مَن مات عليه دخل الجنة، وإنْ عُذِّبَ على بعض ذنوبه.",
+  "خطر الشرك، وأنَّ مَن مات عليه دخل النار."
+ ],
+ "id": "hadeethenc-3419",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (6/ 23) (4497).\nصحيح مسلم (1/ 94) (92).\nفتح المجيد شرح كتاب التوحيد، لعبد الرحمن التميمي (ص76).\nالقول المفيد على كتاب التوحيد، لابن عثيمين (1/ 120).\nالملخص في شرح كتاب التوحيد، لصالح الفوزان (ص47).\nالجديد في شرح كتاب التوحيد، لمحمد القرعاوي (ص59).\nالتمهيد لشرح كتاب التوحيد، لصالح آل الشيخ (ص42).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3419",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:34+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3419"
+ },
+ "source_categories": [
+  {
+   "id": "73",
+   "label": "توحيد الألوهية"
+  }
+ ],
+ "source_record_id": "3419",
+ "text": "عَنْ عَبْدِ اللهِ بنِ مَسْعُودٍ رضي الله عنه قال: قَالَ النَّبِيُّ صلى الله عليه وسلم كَلِمَةً وَقُلْتُ أُخْرَى، قَالَ النَّبِيُّ صلى الله عليه وسلم: «مَنْ مَاتَ وَهُوَ يَدْعُو مِنْ دُونِ اللهِ نِدًّا دَخَلَ النَّارَ» وَقُلْتُ أَنَا: مَنْ مَاتَ وَهُوَ لَا يَدْعُو لِلهِ نِدًّا دَخَلَ الْجَنَّةَ.",
+ "title": "من مات وهو يدعو من دون الله ندا دخل النار",
+ "topic": "belief",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3419",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:3b296d711d5a2c90e81c92649ab091d2fd4dd67d1544e7141071c2a05f46fa69",
+   "explanation": "নবী সাল্লাল্লাহু ’আলাইহি ওয়াসাল্লাম আমাদেরকে সংবাদ দিয়েছেন, যে ব্যক্তি আল্লাহর জন্যে যা করা ফরজ, তার কোন কিছু অন্যের জন্য করবে,যেমন আল্লাহ ব্যতীত অন্যকে ডাকা, \nতাঁর নিকট ছাড়া অন্যের কাছে সাহায্য চাওয়া এবং এ অবস্থায়  মারা যায়, তবে অবশ্যই সে জাহান্নামের অধিবাসী। আব্দুল্লাহ ইবন মাস‘ঊদ রাদিয়াল্লাহু ‘আনহু সংযোজন করেন:   যে ব্যক্তি আল্লাহর সঙ্গে কাউকে শরীক না করে মারা যায়, তার ঠিকানা জান্নাত।",
+   "grade": "সহীহ",
+   "hints": [
+    "দু‘আ (চাওয়া - ডাকা ) একটি ইবাদত, যা  আল্লাহ ব্যতীত কারো কাছে নিবেদন করা যায় না।\r",
+    "তাওহীদের ফযীলত; যে ব্যক্তি তাওহীদের উপর মারা যাবে, সে জান্নাতে প্রবেশ করবে; যদিও তাকে তার কতিপয় গুনাহের কারণে শাস্তি দেয়া হয়।\r",
+    "শির্কের ভয়াবহতা; যে ব্যক্তি শির্কের ওপর মারা যায়, সে জাহান্নামে প্রবেশ করবে।"
+   ],
+   "mapping": "same HadeethEnc record id 3419; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:31+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3419",
+   "text": "আব্দুল্লাহ \nবিন মাস‘ঊদ রাদিয়াল্লাহু ‘আনহু হতে বর্ণিত, তিনি বলেন: নবী সাল্লাল্লাহু ’আলাইহি ওয়াসাল্লাম একটি কথা বললেন, আর আমি(তার সাথে)আরো একটি বললাম। নবী সাল্লাল্লাহু ’আলাইহি ওয়াসাল্লাম বললেন: “যে ব্যক্তি আল্লাহ ব্যতীত অন্য কোন শরীক(ওলী ইত্যাদি) কে ডাকা অবস্থায় মারা যায়, সে জাহান্নামে যাবে।\" আর আমি বললামঃ যে ব্যক্তি আল্লাহর কোন শরীক(ওলী ইত্যাদি) কে না ডাকা অবস্থায় মারা যায়, সে জান্নাতে যাবে।”(বুখারীঃ4497 ও মুসলিমঃ92)",
+   "title": "“যে ব্যক্তি আল্লাহ ব্যতীত অন্য কোন শরীক(ওলী ইত্যাদি) কে ডাকা অবস্থায় মারা যায়, সে জাহান্নামে যাবে।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3419",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:3dc82fe312aa20f1461c59089e7c1d13d0bee3be228b456bd6076bbcdd2b23b7",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) informs us that whoever devotes anything that must be devoted exclusively to Allah to other than Him, like supplicating other than Allah or seeking relief with other than Him, and dies in this state will be from the dwellers of Hellfire. Ibn Mas‘ūd (may Allah be pleased with him) added that whoever dies while not associating anything with Allah will be eventually admitted to Paradise.",
+   "grade": "Authentic",
+   "hints": [
+    "Du‘ā’ (supplication) is an act of worship that must be exclusively devoted to Allah Almighty.\r",
+    "The merit of Tawhīd and that whoever dies while upon Tawhīd will be admitted to Paradise, even if punished for some of his sins first.\r",
+    "The danger of Shirk (polytheism) and that whoever dies upon Shirk will enter Hellfire."
+   ],
+   "mapping": "same HadeethEnc record id 3419; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:31+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3419",
+   "text": "‘Abdullah ibn Mas‘ūd (may Allah be pleased with him) reported: \"The Prophet (may Allah's peace and blessings be upon him) said something and I said another thing. The Prophet (may Allah's peace and blessings be upon him) said: 'Whoever dies while invoking besides Allah another equal will enter Hellfire.' And I say: 'Whoever dies while not invoking besides Allah another equal will enter Paradise.'\"",
+   "title": "Whoever dies while invoking besides Allah another equal will enter Hellfire",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=3419",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:bf31fcc3a199d97d1d75cc858d75a6f7fe0d06e8b2200915e45bf06cc96af603",
+   "explanation": "Le Prophète ﷺ nous informe que le fait de vouer à autre qu'Allah quoi que ce soit qui normalement devrait Lui être voué, que ce soit une invocation à autre que Lui, ou chercher le secours auprès d'un autre que Lui, puis que la personne meurt dans cet état, alors celle-ci est parmi les habitants de l'Enfer. Et Ibn Mas'ûd (qu'Allah l'agrée) a ajouté que quiconque meurt sans rien associer à Allah, alors son devenir est au Paradis.",
+   "grade": "Authentique",
+   "hints": [
+    "L'invocation est une adoration qui ne doit être consacrée qu'à Allah ﷻ.\r",
+    "Le mérite du monothéisme et le fait que quiconque meurt sur cela, entrera alors au Paradis même s'il doit être châtié pour certains de ses péchés commis.\r",
+    "Le danger du polythéisme et le fait que quiconque meurt sur cela, entrera alors en Enfer."
+   ],
+   "mapping": "same HadeethEnc record id 3419; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:32+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/3419",
+   "text": "D'après 'AbduLlah ibn Masʽûd (qu'Allah l'agrée) qui a dit : Le Prophète ﷺ a dit une parole et j'en ai dite une autre : Le Prophète ﷺ a dit : «  Quiconque meurt en invoquant un autre en dehors d'Allah entrera en Enfer . » Et moi j'ai dit : \" Quiconque meurt en n'invoquant pas d'égal à Allah entrera au Paradis. \"",
+   "title": "Quiconque meurt en invoquant un autre en dehors d'Allah entrera en Enfer",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3419",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:d70d6ec73c7954ea98f047579d66efa50ea73fcaae3598d17782bd4b036f9e06",
+   "explanation": "Nabi ﷺ mengabarkan bahwa orang yang memalingkan sesuatu yang wajib diperuntukkan bagi Allah kepada selain-Nya, seperti berdoa atau beristigasah kepada selain Allah Ta'ala, lalu meninggal di atas kondisi itu, maka ia termasuk penghuni neraka. Ibnu Mas'ūd -raḍiyallāhu 'anhu- menambahkan bahwa orang yang meninggal dunia dalam keadaan tidak menyekutukan Allah dengan sesuatu, maka tempat kembalinya ialah surga.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Doa adalah ibadah yang tidak boleh diberikan kecuali kepada Allah Ta'ala.\r",
+    "2- Keutamaan tauhid. Orang yang meninggal di atas tauhid akan masuk surga, walaupun ia disiksa terlebih dahulu karena sebagian dosanya.\r",
+    "3- Bahaya kesyirikan. Orang yang meninggal di atasnya akan masuk neraka."
+   ],
+   "mapping": "same HadeethEnc record id 3419; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:31+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3419",
+   "text": "Abdullah bin Mas'ūd -raḍiyallāhu 'anhu- meriwayatkan, Nabi ﷺ pernah mengucapkan sebuah kalimat dan aku mengucapkan kalimat yang lain. Nabi ﷺ bersabda, \"Siapa yang meninggal dalam keadaan berdoa kepada selain Allah, niscaya akan masuk neraka.\" Sedangkan aku mengatakan, \"Siapa yang meninggal dalam keadaan tidak berdoa kepada seorang sekutu bagi Allah, niscaya akan surga.\"",
+   "title": "Siapa yang meninggal dalam keadaan berdoa kepada selain Allah, niscaya akan masuk neraka",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3419",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:7f8c63d7bfa9a04c8648123138e7e36c62ec58ec08e6ca6bf2ee1cf4a6905bd0",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم بتا رہے ہیں کہ جس نے ایسا کوئی کام اللہ کے سوا کسی اور کے لیے کیا، جسے صرف اللہ کی رضا جوئی کے لیے کیا جانا ضروری ہے، جیسے اللہ کے علاوہ کسی اور کو پکارا یا مصیبت کے وقت فریاد کی اور اسی حالت میں دنیا سے رخصت ہو گیا، تو وہ جہنم میں جانے والوں میں شامل ہوگا۔ جب کہ عبد اللہ بن مسعود رضی اللہ عنہ  یہ اضافہ کیا کہ جس شخص کی موت اس حالت میں ہوئی کہ اس نے کسی کو اللہ کا شریک نہيں بنایا، تو وہ جنت میں داخل ہوگا۔",
+   "grade": "صحيح",
+   "hints": [
+    "دعا عبادت ہے۔ اللہ کے علاوہ کسی اور سے دعا کرنا جائز نہیں ہے۔\r",
+    "توحید کی فضیلت اور اس بات کی وضاحت کہ جو شخص توحید پر قائم رہتے ہوئے مرا، وہ جنت میں داخل ہوگا۔ حالاں کہ ایسا بھی ہو سکتا ہے کہ اپنے کچھ گناہوں کی وجہ سے اسے کچھ عذاب بھی دیا جائے۔\r",
+    "شرک کی خطرناکی اور اس بات کی وضاحت کہ جو شخص شرک کرتا ہوا مرے گا، وہ جہنم میں جائے گا۔"
+   ],
+   "mapping": "same HadeethEnc record id 3419; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:31+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3419",
+   "text": "عبد اللہ بن مسعود رضی اللہ عنہ سے روایت ہے، وہ کہتے ہیں : اللہ کے نبی صلی اللہ علیہ و سلم  نے ایک بات کہی ہے اور میں نے ایک اور بات کہی ہے۔ اللہ کے نبی صلی اللہ علیہ و سلم نے فرمایا: \"”جو شخص اس حال میں مرے کہ وہ اللہ کے سوا اوروں کو بھی پکارتا رہا (اللہ کا شریک و ہمسر ٹھہراتا رہا) ہو، تو وہ جہنم میں داخل گا“۔ جب کہ میں کہتا ہوں : جو شخص اس حال میں مرے کہ اللہ کے سوا کسی اور کو نہ پکارتا رہا ہو، تو وہ جنت میں داخل ہوگا۔",
+   "title": "”جو شخص اس حال میں مرے کہ وہ اللہ کے سوا اوروں کو بھی پکارتا رہا (اللہ کا شریک و ہمسر ٹھہراتا رہا) ہو، تو وہ جہنم میں داخل گا",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3419",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:a195765589468bc7a7083e84b4eb6801f5c9f347c464d1ba57594c681060675a",
+   "explanation": "先知（愿主福安之）告诉我们，谁把本应属于安拉的事物转向其他人，比如向除安拉以外的事物祈祷，或向其他人求助，然后在这种状态下死去，他将属于火狱的居民。 而且伊本·麦斯欧德（愿主喜悦他）补充说，谁在没有以物配主的情况下死去，他的归宿将是天堂。",
+   "grade": "正确的",
+   "hints": [
+    "祈祷是一种功修，只能为清高伟大的安拉而做。\r",
+    "认主独一之尊贵，凡在认主独一的情况下死去者必入天堂，即使他因某些罪行而受到一些惩罚也罢。\r",
+    "以物配主之危险，凡在以物配主的状态下死去者必入火狱。"
+   ],
+   "mapping": "same HadeethEnc record id 3419; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:31+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3419",
+   "text": "据阿卜杜拉 伊本 麦斯欧德（愿主喜悦之）的传述：他说： 先知（愿主福安之）说了一句话，而我则说了另外一句话。先知（愿主福安之）说的那句话是：“一个崇拜安拉以外的偶像而死的人，必入火狱。”’，我说：“一个只崇拜安拉的人死了，他必入天堂。”",
+   "title": "：“一个崇拜安拉以外的偶像而死的人，必入火狱。",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [
+  {
+   "meaning": " يشمل نوعي الدعاء وهما: دعاء العبادة ودعاء المسألة.",
+   "word": "يدعو"
+  },
+  {
+   "meaning": " الند: هو الشبيه والنظير في الألوهية أو الربوبية أو الأسماء والصفات.",
+   "word": "ندًّا"
+  }
+ ],
+ "words_meanings_language": "ar"
+}

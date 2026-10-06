@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3649",
+ "source_content_sha256": "sha256:4a0771a1fa5229fa55bde6cc248b77e5d519aa9d4f5dff981c90d9c1899f3d24",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:23:38.854690+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 877,
+  "completion_tokens": 951,
+  "total_tokens": 1828,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 877
+ },
+ "latency_ms": 8959,
+ "units": [
+  {
+   "id": "title",
+   "text": "Description des ablutions du Prophète (paix et bénédictions d'Allah sur lui)"
+  },
+  {
+   "id": "q0",
+   "text": "Question : Pourriez-vous expliquer comment faire les ablutions et la prière selon ce qui est authentiquement rapporté du Prophète (paix et bénédictions d'Allah sur lui) ? Car nous en avons grand besoin. Qu'Allah vous récompense par le bien."
+  },
+  {
+   "id": "a0",
+   "text": "Réponse : Louange à Allah, Seigneur de l'univers, et que la prière et le salut soient sur notre Prophète Muhammad, sur sa famille et ses Compagnons. Ceci dit :\n Il est authentiquement rapporté du Prophète (paix et bénédictions d'Allah sur lui) qu'au début des ablutions, il se lavait les paumes trois fois avec l'intention de faire les ablutions, et il prononçait le nom d'Allah, car c'est ce qui est prescrit. Il est rapporté de lui (paix et bénédictions d'Allah sur lui) par de nombreuses voies qu'il a dit : « Pas d'ablutions pour celui qui ne mentionne pas le nom d'Allah dessus. »\n Il est donc prescrit à celui qui fait les ablutions de prononcer le nom d'Allah au début des ablutions. Certains savants ont rendu cela obligatoire lorsqu'on s'en souvient, mais s'il oublie ou ignore, il n'y a pas de mal. Ensuite, il se rince la bouche et aspire de l'eau dans le nez trois fois, lave son visage trois fois, puis lave ses mains jusqu'aux coudes trois fois, en commençant par la droite puis la gauche, puis essuie sa tête et ses oreilles une fois, puis lave ses pieds jusqu'aux chevilles trois fois, en commençant par le pied droit."
+  },
+  {
+   "id": "a1",
+   "text": "S'il se limite à une fois ou deux fois, cela est permis, car le Prophète (paix et bénédictions d'Allah sur lui) a fait les ablutions une fois, deux fois et trois fois, et parfois il lavait certains membres deux fois et d'autres trois fois. Cela montre qu'il y a de la latitude dans la question, et louange à Allah. Mais faire trois fois est meilleur. Ceci est valable s'il n'y a pas eu d'urine ou de selles. S'il y a eu quelque chose de cela, il commence par se nettoyer les parties intimes (istinja), puis fait les ablutions mentionnées.\n Quant au vent, au sommeil, au contact du sexe et à la consommation de viande de chameau, tout cela n'exige pas le nettoyage des parties intimes ; les ablutions légales que nous avons mentionnées suffisent. Après les ablutions, il est prescrit au croyant et à la croyante de dire : « J'atteste qu'il n'y a de divinité digne d'adoration qu'Allah, seul et sans associé, et j'atteste que Muhammad est Son serviteur et Son messager. Ô Allah, fais de moi un de ceux qui se repentent et fais de moi un de ceux qui se purifient », car cela est authentiquement rapporté du Prophète (paix et bénédictions d'Allah sur lui).\n Il est prescrit à celui qui a fait les ablutions d'accomplir deux unités de prière, appelées « prière des ablutions » (sunnat al-wudou). S'il prie après les ablutions la prière surérogatoire régulière (rawatib), cela suffit pour la prière des ablutions ⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Extrait du programme Nour 'ala ad-Darb, cassette n° 844, (Majmu' Fatawa wa Maqalat ash-Shaykh Ibn Baz 10/98)."
+  }
+ ]
+}

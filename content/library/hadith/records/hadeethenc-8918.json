@@ -1,0 +1,187 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:c4a4dcf38d136a7799cd4dfc6fb70092b3bdc6d69ce52b1543fce280b1f1074f",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "سُئِلَ النبيُّ صلى الله عليه وسلم عن الذين يُخبِرون عن المُغيبات في المستقبل، فقال: لا تَعْبَؤُوا بهم، ولا تأخذوا بكلامهم، ولا يَهُمّكم أمرُهم. \n\nفقالوا: إنَّ قولَهم يوافِقُ الواقع في بعض الأحيان، كما لو أخبروا عن وقوعِ أمرٍ غيبيٍّ في شهر كذا في يوم كذا، فإنه يقع على وفق قولهم.\n\nفقال صلى الله عليه وسلم: إنَّ الجنَّ يَخْطَفُون ما يَسمعونه من خبر السماء، فيَنزلون إلى أوليائهم من الكهان فيخبرونهم بما سمعوا، ثم يُضيفُ الكاهِنُ إلى هذا الذي سمعه من السماء مائةَ كذبة.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "النهي عن تصديق الكُهَّان، وأن ما يقولونه كذب واختلاق ،وإنْ صَدق في بعض الأحيان.",
+  "حُفظت السماء من الشياطين ببعثة النبي صلى الله عليه وسلم أن تسمع شيئًا من الوحي أو غيره إلا من استرق السمع وسَلِمَ من الشهب.",
+  "الجِن يَتَّخذون لهم أولياء من الإنس."
+ ],
+ "id": "hadeethenc-8918",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري  (8/ 47) (6213).\nصحيح مسلم (4/ 1750) (2228).\nنزهة المتقين (2/ 1143).\nكنوز رياض الصالحين،  لمجموعة من الباحثين (17/ 557).\nبهجة الناظرين، لسليم الهلالي (3/ 177).\nمرقاة المفاتيح شرح مشكاة المصابيح، لعلي القاري (7/ 2904).\nشرح رياض الصالحين، لابن عثيمين (6/ 404).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=8918",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:36+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/8918"
+ },
+ "source_categories": [
+  {
+   "id": "73",
+   "label": "توحيد الألوهية"
+  },
+  {
+   "id": "90",
+   "label": "مسائل الجاهلية"
+  }
+ ],
+ "source_record_id": "8918",
+ "text": "عن عائشة رضي الله عنها قالت: سَأَلَ أُنَاسٌ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَنِ الْكُهَّانِ، فَقَالَ لَهُمْ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «لَيْسُوا بِشَيْءٍ» قَالُوا: يَا رَسُولَ اللهِ، فَإِنَّهُمْ يُحَدِّثُونَ أَحْيَانًا بِالشَّيْءِ يَكُونُ حَقًّا، فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «تِلْكَ الْكَلِمَةُ مِنَ الْحَقِّ يَخْطَفُهَا الْجِنِّيُّ فَيَقُرُّهَا فِي أُذُنِ وَلِيِّهِ قَرَّ الدَّجَاجَةِ، فَيَخْلِطُونَ فِيهَا أَكْثَرَ مِنْ مِائَةِ كَذْبَةٍ».",
+ "title": "تلك الكلمة من الحق يخطفها الجني فيقرها في أذن وليه قر الدجاجة، فيخلطون فيها أكثر من مائة كذبة",
+ "topic": "belief",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=8918",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:5195e17c10aeca32fe6c045263a4facd343992095734aa971c87f10e745c3404",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামকে সেসব লোকদের ব্যাপারে জিজ্ঞেস করা হয়, যারা ভবিষ্যতের গায়েব সম্পর্কে (জ্যোতিষী) সংবাদ দেয়। রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাদেরকে বললেন: তোমরা তাদের কথাকে পরোয়া করবে না, তাদের কথা গ্রহণ করবে না এবং তাদেরকে গুরুত্ব দিবে না।\r\n\r\nসাহাবীগণ বললেন: হে আল্লাহর রাসূল! তাদের কোন কোন কথা কখনো কখনো সত্য ও সঠিক হয়ে থাকে। যেমন তারা অমুক মাসে অমুক দিনে সংঘটিত হবে বলে কোন কোন গায়েবের সংবাদ দিয়ে থাকে, যা তাদের সংবাদ অনুযায়ী বাস্তবে সংঘটিত হয়ে থাকে।\r\n\r\nতখন রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বললেন: জিনরা ঊর্ধ্বজগতে ওৎ পেতে ত্বরিত কোন কোন সংবাদ শুনে নেয়। ফলে তারা তাদের গণক বন্ধুদের সেসব শোনা সংবাদ পৌঁছে দেয়। অতপর গণকরা শয়তানের আকাশ থেকে শোনা কথার সাথে তাদের নিজেদের পক্ষ থেকে শত শত মিথ্যা মিলিয়ে মানুষের কাছে প্রকাশ করে।",
+   "grade": "সহীহ",
+   "hints": [
+    "গণকের কথা বিশ্বাস করা থেকে নিষেধ করা হয়েছে। আর তারা যা বলে তা মিথ্যা ও বানোয়াট। যদিও মাঝে মধ্যে দু‘ একটি সত্য কথা বলে থাকে।\r",
+    "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের আগমন উপলক্ষে আসমানকে শয়তানদের থেকে সংরক্ষণ করা হয়েছে, যাতে তারা অহীর বা অন্য কোন সংবাদ শুনতে না পারে। কিন্তু কেউ চুরি করে শুনতে চাইলে অগ্নিশিখা তার পশ্চাদ্ধাবন করে।\r",
+    "জিনেরা কতক মানুষকে বন্ধু হিসেবে গ্রহণ করে।"
+   ],
+   "mapping": "same HadeethEnc record id 8918; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:30+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/8918",
+   "text": "‘আয়িশাহ রাদিয়াল্লাহু ‘আনহা হতে বর্ণিত, তিনি বলেছেন: কতিপয় লোক রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামকে গনক-জ্যোতিষীদের সম্পর্কে জিজ্ঞেস করলেন। রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাদেরকে বললেন: “তারা কিছুই নয়।” তারা বলল: হে আল্লাহর রাসূল! তারা কোন কোন সময় এমন কথা বলে, যা সত্য ও সঠিক হয়ে থাকে। তখন রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বললেন: “ঐ কথাটি সত্য যা জিন শয়তান (ঊর্ধ্বজগৎ হতে) ত্বরিত শুনে নেয়। অতঃপর মোরগের করকরানোর মতো শব্দ করে তার বন্ধুর কানে পৌঁছিয়ে দেয়। এরপর সে একশর অধিক মিথ্যা কথা তার সাথে মিলিয়ে দেয়।”",
+   "title": "ঐ কথাটি সত্য যা জিন শয়তান (ঊর্ধ্বজগৎ হতে) ত্বরিত শুনে নেয়। অতঃপর মোরগের করকরানোর মতো শব্দ করে তার বন্ধুর কানে পৌঁছিয়ে দেয়। এরপর সে একশর অধিক মিথ্যা কথা তার সাথে মিলিয়ে দেয়।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=8918",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:14f2fd480d141fd2af87982aa54283a39fb899fde64f2d82b2b1c685dff53505",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) was asked about those who speak about unseen and future things, and he said: Pay no attention to them and do not believe them.\r\n\r\nThey said: Their statements sometimes conform with reality - they say that something will occur in such and such month on such and such day, it actually happens as they stated.\r\n\r\nThereupon, the Prophet (may Allah's peace and blessings be upon him) said: The jinn snatch what they hear from the heavenly information, descend upon their allies from among the diviners, and convey what they heard to them. Then, the diviners add a hundred lies to this piece of information that reached them from heaven.",
+   "grade": "Authentic",
+   "hints": [
+    "It is prohibited to believe soothsayers. What they say is lies and fabrications, even if it happens to be true sometimes.\r",
+    "The heaven was preserved from the devils with the start of the Prophet's mission, lest they may hear something of the revelation or other information, except those who eavesdrop and manage to flee the shooting stars.\r",
+    "Jinns take allies from among human beings."
+   ],
+   "mapping": "same HadeethEnc record id 8918; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:30+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/8918",
+   "text": "‘Ā’ishah (may Allah be pleased with her) reported: Some people asked the Messenger of Allah (may Allah's peace and blessings be upon him) about diviners, and he said to them: \"They are of no account.\" They said: \"O Messenger of Allah, but they sometimes make true predictions.\" Thereupon, the Messenger of Allah (may Allah's peace and blessings be upon him) said: \"That is a word pertaining to the truth which a jinn snatches and whispers into his friend's ears as a hen does. Then, they mix it with more than a hundred lies.\"",
+   "title": "That is a word pertaining to the truth which a jinn snatches and whispers into his friend's ears as a hen does. Then, they mix it with more than a hundred lies",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=8918",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:25b9bd83bbadee19cbfd5581c07b2820b623169e5901e5e4b7f7ed96db40ce4d",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) a été interrogé au sujet de ceux qui informent à propos des choses inconnues et invisibles du futur, il dit alors : Ne vous préoccupez pas d'eux, ne prenez pas leurs paroles et ne vous souciez pas de leur affaire !\r\n\r\nIls répondirent : leur parole concorde parfois avec la réalité, comme s'ils avaient été informés de la venue d'une affaire inconnue durant tel mois, lors de tel jour, et que cela se produit conformément à leur parole.\r\n\r\nIl répondit (qu'Allah le couvre d'éloges et le préserve) : Certes, les djinns interceptent ce qu'ils entendent comme information du ciel, ils les descendent à leurs alliés parmi les devins et les voyants et ils les informent de ce qu'ils ont entendu. Ensuite, le devin ou le voyant ajoute à ce qu'il a entendu du ciel cent mensonges.",
+   "grade": "Authentique",
+   "hints": [
+    "L'interdiction de déclarer véridiques les devins, ce qu'ils disent n'est que mensonge et propos forgés, même s'il  s'avère qu'une vérité puisse s'y glisser.\r",
+    "Par l'envoi du Prophète (qu'Allah le couvre d'éloges et le préserve) le ciel a été protégé de telle sorte que les démons n'en entendent la Révélation, ou autre, à l'exception de ceux qui les dérobent et échappent à la météore [qui les poursuit].\r",
+    "Les djinns prennent des alliés parmi les hommes."
+   ],
+   "mapping": "same HadeethEnc record id 8918; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:30+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/8918",
+   "text": "'Â`ichah (qu'Allah l'agrée) relate : « Des gens interrogèrent le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) au sujet des devins. Le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) leur dit alors : \" Ils ne sont rien ! \" Ils dirent : \" Ô Messager d'Allah ! Il arrive parfois qu'ils nous disent des choses qui s'avèrent vraies ! \" Ce à quoi, le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) répondit : \"  Ces paroles, qui relèvent de la vérité, c'est le djinn qui les intercepte et les répète à l'oreille de son allié, c'est alors qu'ils y mélangent cent mensonges ! \" »",
+   "title": "Ces paroles, qui relèvent de la vérité, c'est le djinn qui les intercepte et les répète à l'oreille de son allié, c'est alors qu'ils y mélangent cent mensonges ! \"",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=8918",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:7e35f0f87ad07717bee9e8dd9bb1b1d2f07e811faf94d4b9f9ff0866ee02bf66",
+   "explanation": "Nabi ﷺ ditanya tentang orang-orang yang menyampaikan perkara gaib di masa akan datang, beliau mengatakan: Jangan hiraukan mereka, jangan terima ucapan mereka, dan jangan pedulikan urusan mereka.\r\n\r\nPara sahabat berkata: Tetapi perkataan mereka sesuai realita di sebagian waktu, seumpama mereka menyebutkan akan terjadi perkara gaib di bulan begini hari begini, lalu ia terjadi sesuai dengan yang mereka katakan.\r\n\r\nMaka Nabi ﷺ bersabda: Jin menyambar berita langit yang mereka dengar lalu dibawa turun ke pasukan mereka dari kalangan dukun dan mengabari mereka apa yang mereka dengar, kemudian si dukun menambah seratus kedustaan pada berita yang didengar dari langit itu.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Larangan mempercayai para dukun (paranormal), dan bahwa apa yang mereka sampaikan adalah dusta dan mengada-ada, meskipun mereka benar di sebagian waktu.\r",
+    "2- Langit dijaga dari setan setelah diutusnya Nabi ﷺ sehingga ia tidak dapat mendengar berita apa pun, baik wahyu atau lainnya, kecuali mereka yang mencuri berita itu selamat dari lemparan meteor.\r",
+    "3- Jin memiliki penolong (pasukan) dari kalangan manusia."
+   ],
+   "mapping": "same HadeethEnc record id 8918; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:30+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/8918",
+   "text": "Aisyah -raḍiyallāhu 'anhā- meriwayatkan, Orang-orang bertanya kepada Rasulullah ﷺ tentang para dukun, maka Rasulullah ﷺ menjawab, \"Mereka itu tidak ada apa-apanya.\" Para sahabat bertanya, \"Wahai Rasulullah! Terkadang mereka menyampaikan sesuatu dan benar terjadi.\" Rasulullah ﷺ bersabda, \"Itu adalah kalimat dari Allah yang disambar jin lalu ia membisikkannya ke telinga pasukannya, lalu mereka mencampurnya dengan lebih dari seratus kedustaan.\"",
+   "title": "Itu adalah kalimat dari Allah yang disambar jin lalu ia membisikkannya ke telinga pasukannya, lalu mereka mencampurnya dengan lebih dari seratus kedustaan",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=8918",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:878fb888b9326b453c09987df4e41dda81a785c0451f4ca2f343246c817d2399",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم سے ایسے لوگوں کے بارے میں پوچھا گیا، جو آنے والے وقت سے متعلق غیب کی باتیں بتایا کرتے ہيں، تو آپ نے کہا کہ ان پر دھیان مت دو، ان کی بات پر عمل نہ کرو اور ان کی پرواہ مت کرو۔\r\n\r\nلوگوں نے کہا کہ کبھی کبھی ان کی کہی ہوئی کوئی بات اصل صورت حال کے مطابق نکل آتی ہے۔ مثلا وہ کسی مہینے کے کسی دن کوئی واقعہ پیش آنے کی بات کہتے ہیں اور وہ واقعہ پیش آ بھی جاتا ہے۔\r\n\r\nچنانچہ اللہ کے رسول صلی اللہ علیہ و سلم نے فرمایا : دراصل ہوتا یہ ہے کہ جن آسمان کی جو خبر سنتے ہيں، اسے اچک لیتے ہیں اور اپنے کاہن دوستوں کے پاس آکر بتا دیتے ہيں اور پھر جن سے سنی ہوئی اس ایک بات میں کاہن سو جھوٹ ملا لیتے ہیں۔",
+   "grade": "صحيح",
+   "hints": [
+    "کاہنوں کی بات کو سچ ماننے کی ممانعت اور اس بات کی نشان دہی کہ ان کی باتیں جھوٹی اور گھڑی ہوئی ہوتی ہیں۔ چاہے ان کی ایک آدھ بات صحیح بھی نکل آئے۔\r",
+    "اللہ کے نبی صلی اللہ علیہ و سلم کی بعثت کے بعد آسمان کو شیطانوں سے محفوظ کر دیا گیا۔ اس کے بعد ان کے لیے وحی اور دوسری خبروں کو سننا ممکن نہ رہا۔ ہاں، کوئی چوری چھپے سن لے اور شہابوں سے محفوظ رہ جائے تو بات الگ ہے۔\r",
+    "جن بعض انسانوں کو اپنا دوست بنا لیتے ہیں۔"
+   ],
+   "mapping": "same HadeethEnc record id 8918; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:30+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/8918",
+   "text": "عائشہ رضی اللہ عنہا سے روایت ہے، وہ کہتی ہیں : کچھ لوگوں نے اللہ کے رسول صلی اللہ علیہ و سلم سے کاہنوں کے بارے میں پوچھا، تو اللہ کے رسول صلی اللہ علیہ و سلم  نے ان سے فرمایا : \"وہ کچھ نہيں ہیں۔\" ان لوگوں نے عرض کیا کہ: اے اللہ کے رسول! وہ کبھی کبھی کوئی بات کہہ جاتے ہیں، جو صحیح نکل آتی ہے۔ اس پر اللہ کے رسول صلی اللہ علیہ و سلم نے فرمایا : \"اس ایک صحیح بات کو جِن اچک لیتا ہے اور اپنے دوست کے کان میں ایسی آواز میں ڈالتا ہے، جو مرغی کے کڑکڑانے جیسی ہوتی ہے اور یہ کاہن اس میں سو سے زیادہ جھوٹ ملا لیتے ہیں۔\"",
+   "title": "اس ایک صحیح بات کو جِن اچک لیتا ہے اور اپنے دوست کے کان میں ایسی آواز میں ڈالتا ہے، جو مرغی کے کڑکڑانے جیسی ہوتی ہے اور یہ کاہن اس میں سو سے زیادہ جھوٹ ملا لیتے ہیں۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=8918",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:fc36f4910794668fae06c83114b2ebd24ec0cd3626047cb5e440161670332937",
+   "explanation": "有人问先知（愿主福安之）关于那些告知未来之事的人，使者回答说：不必理会他们，更不要采纳他们所言，不要把他们当回事情。\r\n\r\n然后他们说：但有时候他们确实所言属实，比如他们说某月某日会发生如此之事，然后正如他们所言而发生。\r\n\r\n安拉的使者（愿主福安之）便告诉他们，精灵们自天上窃听来一些信息，然后他们将这些信息告诉他们的卦师朋友，然后这些卦师们在窃听来的信息里面又掺和了一百句谎言。",
+   "grade": "正确的",
+   "hints": [
+    "禁止相信占卜者的话语，他们所言均是歪曲的谎言，即使有时候他们说的实话也罢！\r",
+    "自先知（愿主福安之）派遣为圣以后，启示或其他的天启消息便受到保护免遭窃听，除非有精灵窃听后侥幸逃过了流星的追击。\r",
+    "精灵会从人类当中结交一些朋友。"
+   ],
+   "mapping": "same HadeethEnc record id 8918; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:30+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/8918",
+   "text": "据阿伊莎（愿主喜悦之）传述说： 一些人向安拉的使者（愿主福安之）询问有关算卦的事情，安拉的使者（愿主福安之）告诉他们：“他们不值一提”，他们说：安拉的使者啊！有时候的确如他们所说，安拉的使者（愿主福安之）说：“那一句真话是精灵窃听而来，然后如同母鸡般咬着耳朵告诉他们在地上的朋友，然后他们又往其中掺和一百多句谎言。”",
+   "title": "那一句真话是精灵窃听而来，然后如同母鸡般咬着耳朵告诉他们在地上的朋友，然后他们又往其中掺和一百多句谎言。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [
+  {
+   "meaning": " يأخذها بسرعة.",
+   "word": "يخْطفُها"
+  },
+  {
+   "meaning": " يلْقِيهَا على مسَامِع.",
+   "word": "فَيَقُرُّهَا في أُذُنِ"
+  },
+  {
+   "meaning": " صوتها عند مخاطبة دجاجة أخرى.",
+   "word": "قرَّ الدجاج"
+  }
+ ],
+ "words_meanings_language": "ar"
+}

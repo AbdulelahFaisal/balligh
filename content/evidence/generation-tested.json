@@ -1,0 +1,86 @@
+{
+  "meaning": "A live DeepSeek draft in this locale passed the app's structural and provenance checks. This is not a content or language review.",
+  "locales": {
+    "bn": {
+      "first_passed_at": "2026-10-05T23:01:33.602871+00:00",
+      "levels": [
+        "foundational"
+      ],
+      "sources": [
+        "src-g1-local-note-ar"
+      ],
+      "request_ids": [
+        "96ac5268-f82e-458c-9721-62ea43f975e7"
+      ]
+    },
+    "en": {
+      "first_passed_at": "2026-10-05T22:58:11.799582+00:00",
+      "levels": [
+        "foundational",
+        "detailed"
+      ],
+      "sources": [
+        "src-g1-local-note-ar",
+        "src-g2-condition-ar",
+        "src-g2-negation-ar",
+        "src-g2-exception-ar"
+      ],
+      "request_ids": [
+        "0b3d6eb8-de1d-43d8-9d13-30ff241d16e0",
+        "02545570-8625-4c7b-b112-33753781c737",
+        "9b011545-a884-490d-9a70-07e4be7a5765",
+        "280bbb02-5d12-44e4-989d-e0bd5ff22c91",
+        "2dcf85c1-6952-40c2-8982-75bbbb197052",
+        "f034a415-5c22-4c4a-b814-4423b6a7814a"
+      ]
+    },
+    "fr": {
+      "first_passed_at": "2026-10-05T23:02:00.669773+00:00",
+      "levels": [
+        "foundational"
+      ],
+      "sources": [
+        "src-g1-local-note-ar"
+      ],
+      "request_ids": [
+        "73f9d308-1646-40ae-a744-7d57fcb0001f"
+      ]
+    },
+    "id": {
+      "first_passed_at": "2026-10-05T23:01:27.642665+00:00",
+      "levels": [
+        "foundational"
+      ],
+      "sources": [
+        "src-g1-local-note-ar"
+      ],
+      "request_ids": [
+        "f4a49ed1-d6a1-4d75-9dae-2f88287e5ab5"
+      ]
+    },
+    "ur": {
+      "first_passed_at": "2026-10-05T23:00:32.925558+00:00",
+      "levels": [
+        "foundational"
+      ],
+      "sources": [
+        "src-g1-local-note-ar"
+      ],
+      "request_ids": [
+        "ea90aa67-998d-4b6e-808b-0cd5a256b9e9"
+      ]
+    },
+    "zh-Hans": {
+      "first_passed_at": "2026-10-05T23:00:33.225265+00:00",
+      "levels": [
+        "foundational"
+      ],
+      "sources": [
+        "src-g1-local-note-ar"
+      ],
+      "request_ids": [
+        "1baaa42f-7fd0-4e58-985d-d39d10a626a4"
+      ]
+    }
+  }
+}

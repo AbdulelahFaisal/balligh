@@ -1,0 +1,689 @@
+{
+ "ayah_count": 20,
+ "ayahs": [
+  {
+   "arabic": "يَٰٓأَيُّهَا ٱلۡمُزَّمِّلُ",
+   "aya": 1,
+   "id": 5476,
+   "tafsir": {
+    "arabic_moyassar": "يا أيها المتغطي بثيابه، قم للصلاة في الليل إلا يسيرًا منه. قم نصف الليل أو انقص من النصف قليلا حتى تَصِلَ إلى الثلث، أو زد على النصف حتى تصل إلى الثلثين، واقرأ القرآن بتُؤَدَة وتمهُّلٍ مبيِّنًا الحروف والوقوف."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "হে বস্ত্রাবৃত নবী!"
+    },
+    "en": {
+     "footnotes": "[1] Allah is addressing the Messenger (ﷺ), who was wrapped in his garments.",
+     "text": "O you the enwrapped one[1],"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Toi qui t’enveloppes dans tes habits !"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Wahai orang yang berselimut (Muhammad)!"
+    },
+    "ur": {
+     "footnotes": "[1] جس وقت یہ آیت نازل ہوئی نبی کریم (صلى الله عليه وسلم) چادر اوڑھے ہوئے تھے اللہ نے آپ کی اسی کیفیت کو بیان کرتے ہوئے فرمایا مطلب یہ ہے کہ اب چادر چھوڑ دیں اور رات کو تھوڑا قیام کریں یعنی نماز تہجد پڑھیں کہا جاتا ہے کہ اس حکم کی بناء پر تہجد آپ کے لیے واجب تھی۔ (ابن کثیر)",
+     "text": "اے کپڑے میں لپٹنے والے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "披衣的人啊！"
+    }
+   }
+  },
+  {
+   "arabic": "قُمِ ٱلَّيۡلَ إِلَّا قَلِيلٗا",
+   "aya": 2,
+   "id": 5477,
+   "tafsir": {
+    "arabic_moyassar": "يا أيها المتغطي بثيابه، قم للصلاة في الليل إلا يسيرًا منه. قم نصف الليل أو انقص من النصف قليلا حتى تَصِلَ إلى الثلث، أو زد على النصف حتى تصل إلى الثلثين، واقرأ القرآن بتُؤَدَة وتمهُّلٍ مبيِّنًا الحروف والوقوف."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "রাতে (তাহাজ্জুদের) সালাতে দাঁড়াও, তবে রাতের অল্প অংশ বাদে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Stand up in prayer at night except a little,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Lève-toi pour prier la plus grande partie de la nuit,"
+    },
+    "id": {
+     "footnotes": "[875] Salat malam ini mula-mulanya wajib, sebelum turun ayat ke 20 dalam surah ini. Setelah turunnya ayat ke 20 ini hukumnya menjadi sunah.",
+     "text": "Bangunlah (untuk salat) pada malam hari, kecuali[875] sebagian kecil."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "رات (کے وقت نماز) میں کھڑے ہوجاؤ مگر کم."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你应当在夜间礼拜，除开不多的时间，"
+    }
+   }
+  },
+  {
+   "arabic": "نِّصۡفَهُۥٓ أَوِ ٱنقُصۡ مِنۡهُ قَلِيلًا",
+   "aya": 3,
+   "id": 5478,
+   "tafsir": {
+    "arabic_moyassar": "يا أيها المتغطي بثيابه، قم للصلاة في الليل إلا يسيرًا منه. قم نصف الليل أو انقص من النصف قليلا حتى تَصِلَ إلى الثلث، أو زد على النصف حتى تصل إلى الثلثين، واقرأ القرآن بتُؤَدَة وتمهُّلٍ مبيِّنًا الحروف والوقوف."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "রাতের অর্ধেক কিংবা তার চেয়ে কিছুটা কম (এক তৃতীয়াংশ)।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "half of it, or a little less,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "la moitié, ou un peu moins que celle-ci,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(Yaitu) separuhnya atau kurang sedikit dari itu,"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "آدھی رات یا اس سے بھی کچھ کم کرلے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "半夜或少一点，"
+    }
+   }
+  },
+  {
+   "arabic": "أَوۡ زِدۡ عَلَيۡهِ وَرَتِّلِ ٱلۡقُرۡءَانَ تَرۡتِيلًا",
+   "aya": 4,
+   "id": 5479,
+   "tafsir": {
+    "arabic_moyassar": "يا أيها المتغطي بثيابه، قم للصلاة في الليل إلا يسيرًا منه. قم نصف الليل أو انقص من النصف قليلا حتى تَصِلَ إلى الثلث، أو زد على النصف حتى تصل إلى الثلثين، واقرأ القرآن بتُؤَدَة وتمهُّلٍ مبيِّنًا الحروف والوقوف."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "অথবা তার চেয়ে আরো কিছু বাড়াও (দুই তৃতীয়াংশ)। আর স্পষ্টভাবে ধীরে ধীরে আল-কুরআন তিলাওয়াত করো।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "or a little more, and recite the Qur’an at a measured pace."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "ou un peu plus, en récitant le Coran posément."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "atau lebih dari (seperdua) itu, dan bacalah Al-Qur`an itu dengan perlahan-lahan."
+    },
+    "ur": {
+     "footnotes": "[1] یہ قلیلا سے بدل ہے، یعنی یہ قیام نصف رات سے کچھ کم (ثلث) یا کچھ زیادہ (دو ثلث) ہو تو کوئی حرج نہیں ہے۔\n[2] چنانچہ احادیث میں آتا ہے کہ آپ کی قرأت ترتیل کے ساتھ ہی تھی اور آپ نے اپنی امت کو بھی ترتیل کے ساتھ، یعنی ٹھہر ٹھہر پڑھنے کی تلقین کی ہے۔",
+     "text": "یا اس پر بڑھا دے[1] اور قرآن کو ٹھہر ٹھہر کر (صاف) پڑھا کر.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "或多一点。你应当讽诵《古兰经》，"
+    }
+   }
+  },
+  {
+   "arabic": "إِنَّا سَنُلۡقِي عَلَيۡكَ قَوۡلٗا ثَقِيلًا",
+   "aya": 5,
+   "id": 5480,
+   "tafsir": {
+    "arabic_moyassar": "إنا سننزل عليك -أيها النبي- قرآنًا عظيمًا مشتملا على الأوامر والنواهي والأحكام الشرعية."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "নিশ্চয়ই আমি তোমার প্রতি এক ভারী বাণী (আল-কুরআন) নাযিল করব।"
+    },
+    "en": {
+     "footnotes": "[2] i.e., the revelation, which the Prophet (ﷺ) would feel its great weight when descending upon him. Also, it is heavy for its ordinances, rulings, punishments, ethics, etc.",
+     "text": "We will send down upon you a heavy Word[2]."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Nous allons te révéler des paroles lourdes de sens."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sesungguhnya Kami akan menurunkan perkataan yang berat kepadamu."
+    },
+    "ur": {
+     "footnotes": "[1] رات کا قیام چونکہ نفس انسانی کے لئے بالعموم گراں ہے، اس لئے یہ جملہ خاص طور پر فرمایا کہ ہم اس سے بھی بھاری بات تجھ پر نازل کریں گے، یعنی، قرآن، جس کے احکام و فرائض پر عمل، اس کی حدود کی پابندی اور اس کی تبلیغ اور دعوت، ایک بھاری جانفسانی کا عمل ہے۔ بعض نے ثقالت سے وہ بوجھ مراد لیا ہے جو وحی کے وقت نبی (صلى الله عليه وسلم) پر پڑتا تھا جس سے سخت سردی میں بھی آپ پسینے سے شرابور ہو جاتے تھے۔(ابن کثیر)",
+     "text": "یقیناً ہم تجھ پر بہت بھاری بات عنقریب نازل کریں گے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我必定以庄严的言辞授予你，"
+    }
+   }
+  },
+  {
+   "arabic": "إِنَّ نَاشِئَةَ ٱلَّيۡلِ هِيَ أَشَدُّ وَطۡـٔٗا وَأَقۡوَمُ قِيلًا",
+   "aya": 6,
+   "id": 5481,
+   "tafsir": {
+    "arabic_moyassar": "إن العبادة التي تنشأ في جوف الليل هي أشد تأثيرًا في القلب، وأبين قولا لفراغ القلب مِن مشاغل الدنيا."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "নিশ্চয় রাতের সময়গুলো আত্মসংযমের জন্য অধিক কার্যকর এবং (আল-কুরআন) স্পষ্টভাবে পাঠ করার জন্য অধিকতর উপযোগী।"
+    },
+    "en": {
+     "footnotes": "[3] Or \"getting up at night is more difficult...,\" meaning that it can only be done by sincere believers.\n [4] i.e., for reciting, hearing, and understanding of the Qur’an.",
+     "text": "Indeed, worship at night is more effective[3] and more conducive to proper recitation[4]."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Les heures de la nuit sont plus propices au recueillement."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sungguh, bangun malam itu lebih kuat (mengisi jiwa); dan (bacaan di waktu itu) lebih berkesan."
+    },
+    "ur": {
+     "footnotes": "[1] اس کا دوسرا مفہوم ہے کہ رات کی تنہائیوں میں کان معانی قرآن کے فہم میں دل کے ساتھ زیادہ موافقت کرتے ہیں جو ایک نمازی تہجد میں پڑھتا ہے۔\n[2] دوسرا مفہوم یہ ہے کہ دن کے مقابلے میں رات کو قرآن زیادہ واضح اور حضور قلب کے لئے زیادہ موثر ہے، اس لئے کہ اس وقت دوسری آوازیں خاموش ہوتی ہیں۔ فضا میں سکون غالب ہوتا ہے اس وقت نمازی جو پڑھتا ہے وہ آوازوں کے شور اور دنیا کے ہنگاموں کے نذر نہیں ہوتا بلکہ نمازی اس سے خوب محفوظ ہوتا اور اس کی اثر آفرینی کو محسوس کرتا ہے۔",
+     "text": "بیشک رات کا اٹھنا دل جمعی کے لیے انتہائی مناسب ہے[1] اور بات کو بہت درست کر دینے واﻻ ہے.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "夜间的功修确是更获心间的；夜间的讽诵确是更正确的。"
+    }
+   }
+  },
+  {
+   "arabic": "إِنَّ لَكَ فِي ٱلنَّهَارِ سَبۡحٗا طَوِيلٗا",
+   "aya": 7,
+   "id": 5482,
+   "tafsir": {
+    "arabic_moyassar": "إن لك في النهار تصرفًا وتقلبًا في مصالحك، واشتغالا واسعًا بأمور الرسالة، ففرِّغْ نفسك ليلا لعبادة ربك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "নিশ্চয় দিনের বেলায় তোমার জন্য রয়েছে দীর্ঘ কর্মব্যস্ততা।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "In the daytime, you have plenty of time for your worldly matters."
+    },
+    "fr": {
+     "footnotes": "[1] Autre sens : tu as suffisamment de temps libre dans la journée pour tes occupations.",
+     "text": "Tu es tenu, dans la journée, par une foule d’occupations[1]."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sesungguhnya pada siang hari engkau sangat sibuk dengan urusan-urusan yang panjang."
+    },
+    "ur": {
+     "footnotes": "[1] سَبْحٌ کے معنی ہیں الْجَرْيُ وَالدَّوَرَان (چلنا اور پھرنا)یعنی دن کے وقت دنیاوی مصروفیتوں کا ہجوم رہتا ہے ۔یہ پہلی بات ہی کی تائید ہے ۔یعنی رات کو نماز اور تلاوت زیادہ مفید اور موثر ہے ۔یعنی اس پر مداومت کر دن ہو یا رات اللہ کی تسبیح و تحمید اور تکبر و تحلیل کرتا رہ۔",
+     "text": "یقیناً تجھے دن میں بہت شغل رہتا ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你在白天忙于事务，"
+    }
+   }
+  },
+  {
+   "arabic": "وَٱذۡكُرِ ٱسۡمَ رَبِّكَ وَتَبَتَّلۡ إِلَيۡهِ تَبۡتِيلٗا",
+   "aya": 8,
+   "id": 5483,
+   "tafsir": {
+    "arabic_moyassar": "واذكر -أيها النبي- اسم ربك، فادعه به، وانقطع إليه انقطاعًا تامًا في عبادتك، وتوكل عليه. هو مالك المشرق والمغرب لا معبود بحق إلا هو، فاعتمد عليه، وفوِّض أمورك إليه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর তুমি তোমার রবের নাম স্মরণ করো এবং একনিষ্ঠভাবে তাঁরই প্রতি মনোনিবেশ করো।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "And remember the Name of your Lord, and devote yourself completely to Him."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Invoque le nom de ton Seigneur et voue-toi exclusivement à Son adoration."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan sebutlah nama Tuhanmu, dan beribadahlah kepada-Nya dengan sepenuh hati."
+    },
+    "ur": {
+     "footnotes": "[1] تَبَتُّلٌ کے معنی انْقِطَاعٌ اور علیحد گی کے ہیں،یعنی اللہ کی عبادت اور اس سے دعا و مناجات کے لیے یکسو اور ہمہ تن اس کی طرف متوجہ ہو جانا، یہ رہبانیت سے مختلف چیز ہے رہبانیت تو تجرد اور ترک دنیا ہے جو اسلام میں ناپسندیدہ ہےچیز ہے۔ اور تبث کا مطلب ہے امور دنیاوی کی ادائیگی کے ساتھ عبادت میں اشتغال ،خشوع،خضوع اور اللہ کی طرف یکسوئی یہ محمود و مطلوب ہے۔",
+     "text": "تو اپنے رب کے نام کا ذکر کیا کر اور تمام خلائق سے کٹ کر اس کی طرف متوجہ ہوجا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "故你应当记念你的养主的尊名，你应当专心致志地敬事他。"
+    }
+   }
+  },
+  {
+   "arabic": "رَّبُّ ٱلۡمَشۡرِقِ وَٱلۡمَغۡرِبِ لَآ إِلَٰهَ إِلَّا هُوَ فَٱتَّخِذۡهُ وَكِيلٗا",
+   "aya": 9,
+   "id": 5484,
+   "tafsir": {
+    "arabic_moyassar": "واذكر -أيها النبي- اسم ربك، فادعه به، وانقطع إليه انقطاعًا تامًا في عبادتك، وتوكل عليه. هو مالك المشرق والمغرب لا معبود بحق إلا هو، فاعتمد عليه، وفوِّض أمورك إليه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তিনি পূর্ব ও পশ্চিমের রব, তিনি ছাড়া কোন (সত্য) ইলাহ নেই। সুতরাং তাঁকেই তুমি কার্য সম্পাদনকারীরূপে গ্রহণ করো।"
+    },
+    "en": {
+     "footnotes": "[5] i.e., trust in Allah and rely upon Him in all your matters.",
+     "text": "[He is] Lord of the east and the west; none has the right to be worshiped except Him, so take Him as the Disposer of your affairs[5]."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Il est le Seigneur du levant et du couchant. Il n’est de divinité digne d’être adorée que Lui. Place donc ta confiance en Lui, car Il se charge de ta protection !"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(Dialah) Tuhan timur dan barat, tidak ada tuhan selain Dia, maka jadikanlah Dia sebagai pelindung."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "مشرق ومغرب کا پروردگار جس کے سوا کوئی معبود نہیں، تو اسی کو اپنا کار ساز بنالے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "〔他是〕东方和西方的主宰，除他之外，绝无应受崇拜的，故你应当以他为监护者。"
+    }
+   }
+  },
+  {
+   "arabic": "وَٱصۡبِرۡ عَلَىٰ مَا يَقُولُونَ وَٱهۡجُرۡهُمۡ هَجۡرٗا جَمِيلٗا",
+   "aya": 10,
+   "id": 5485,
+   "tafsir": {
+    "arabic_moyassar": "واصبر على ما يقوله المشركون فيك وفي دينك، وخالفهم في أفعالهم الباطلة، مع الإعراض عنهم، وترك الانتقام منهم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর (মিথ্যারোপকারী) লোকেরা (কটূক্তি ও গালমন্দ) যা-ই বলে, তাতে তুমি ধৈর্যধারণ করো এবং সৌজন্য সহকারে তাদেরকে পরিহার করে চলো।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Bear patiently what they say, and avoid them in a gracious manner."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Supporte patiemment leurs paroles et éloigne-toi d’eux dignement."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan bersabarlah (Muhammad) terhadap apa yang mereka katakan dan tinggalkanlah mereka dengan cara yang baik."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "اور جو کچھ وه کہیں تو سہتا ره اور وضعداری کے ساتھ ان سے الگ تھلگ ره."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你应当忍受他们所说的〔谰言〕，而温和地退避他们。"
+    }
+   }
+  },
+  {
+   "arabic": "وَذَرۡنِي وَٱلۡمُكَذِّبِينَ أُوْلِي ٱلنَّعۡمَةِ وَمَهِّلۡهُمۡ قَلِيلًا",
+   "aya": 11,
+   "id": 5486,
+   "tafsir": {
+    "arabic_moyassar": "دعني -أيها الرسول- وهؤلاء المكذبين بآياتي أصحاب النعيم والترف في الدنيا، ومهِّلهم زمنًا قليلا بتأخير العذاب عنهم حتى يبلغ الكتاب أجله بعذابهم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর (ফয়সালার জন্যে) ছেড়ে দাও আমাকে এবং বিলাস সামগ্রীর অধিকারী মিথ্যারোপকারীদেরকে। আর তাদেরকে (মৃত্যু আসা পর্যন্ত) কিছুকাল অবকাশ দাও।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Leave to Me the deniers who are having a life of luxury, and bear with them for a little while."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Laisse-Moi avec les négateurs qui jouissent sans retenue de cette vie. Accorde-leur quelque temps."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan biarkanlah Aku (yang bertindak) terhadap orang-orang yang mendustakan, yang memiliki segala kenikmatan hidup, dan berilah mereka penangguhan sebentar."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "اور مجھے اور ان جھٹلانے والے آسوده حال لوگوں کو چھوڑ دے اور انہیں ذرا سی مہلت دے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你让我处治享受安乐而否认〔真理〕的人们吧！你稍稍地宽待他们吧！"
+    }
+   }
+  },
+  {
+   "arabic": "إِنَّ لَدَيۡنَآ أَنكَالٗا وَجَحِيمٗا",
+   "aya": 12,
+   "id": 5487,
+   "tafsir": {
+    "arabic_moyassar": "إن لهم عندنا في الآخرة قيودًا ثقيلة ونارًا مستعرة يُحرقون بها، وطعامًا كريهًا ينشَب في الحلوق لا يستساغ، وعذابًا موجعًا."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "নিশ্চয় আমার নিকট রয়েছে ভারী শিকলসমূহ ও প্রজ্বলিত আগুন।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Indeed, We have heavy shackles and a Blazing Fire,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Nous leur réservons en vérité de lourdes chaînes et un brasier ardent,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sungguh, di sisi Kami ada belenggu-belenggu (yang berat) dan neraka yang menyala-nyala,"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "یقیناً ہمارے ہاں سخت بیڑیاں ہیں اور سلگتی ہوئی جہنم ہے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我那里确有沉重的镣和强烈的火，"
+    }
+   }
+  },
+  {
+   "arabic": "وَطَعَامٗا ذَا غُصَّةٖ وَعَذَابًا أَلِيمٗا",
+   "aya": 13,
+   "id": 5488,
+   "tafsir": {
+    "arabic_moyassar": "إن لهم عندنا في الآخرة قيودًا ثقيلة ونارًا مستعرة يُحرقون بها، وطعامًا كريهًا ينشَب في الحلوق لا يستساغ، وعذابًا موجعًا."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর কাঁটাযুক্ত খাদ্য, যা গলায় আটকে যায় এবং যন্ত্রণাদায়ক শাস্তি।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and food that chokes, and a painful punishment,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "des aliments qui leur resteront en travers de la gorge et un douloureux châtiment,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan (ada) makanan yang menyumbat di kerongkongan dan azab yang pedih."
+    },
+    "ur": {
+     "footnotes": "[1] انکال ،نکل کی جمع ہے قیود (بیڑیاں) اور بعض نے اغلال کے معنی میں لیا ہے ۔یعنی طوق، جحیما 'بھڑکتی آگ ذَا غُصَّةٍ حلق میں اٹک جانے والا، نہ حلق سے نیچے اترے اور نہ باہر نکلے۔ یہ زَ قُّوْم کا کھانا ہوگا۔ ضَرِیْع ایک کانٹے دار جھاڑی ہے جو سخت بدبو دار اور زہریلی ہوتی ہے۔",
+     "text": "اور حلق میں اٹکنے واﻻ کھانا ہے اور درد دینے واﻻ عذاب ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "有噎人的食物，和痛苦的刑罚。"
+    }
+   }
+  },
+  {
+   "arabic": "يَوۡمَ تَرۡجُفُ ٱلۡأَرۡضُ وَٱلۡجِبَالُ وَكَانَتِ ٱلۡجِبَالُ كَثِيبٗا مَّهِيلًا",
+   "aya": 14,
+   "id": 5489,
+   "tafsir": {
+    "arabic_moyassar": "يوم تضطرب الأرض والجبال وتتزلزل حتى تصير الجبال تَلا من الرمل سائلا متناثرًا، بعد أن كانت صُلبة جامدة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "যেদিন জমিন ও পাহাড়সমূহ প্রকম্পিত হবে এবং পাহাড়গুলো চলমান উড়ন্ত বালুকারাশিতে পরিণত হবে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "on the Day when the earth and the mountains will convulse, and the mountains will be like dunes of loose sand."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "le Jour où la terre et les montagnes trembleront et que ces dernières ne seront plus que dunes de sable mouvant."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(Ingatlah) pada hari (ketika) bumi dan gunung-gunung berguncang keras, dan jadilah gunung-gunung itu seperti onggokan pasir yang dicurahkan."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی یہ عذاب اس دن ہوگا جس دن زمین پہاڑ بھونچال سے تہ وبالا ہو جائیں گے اور بڑے بڑے پر ہیبت پہاڑ ریت کے ٹیلوں کی طرح بےحثییت ہو جائیں گے۔ کثیب ریت کا ٹیلا، مھیلا کا معنی بھربھری پیروں کے نچیے سے نکل جانے والی ریت۔",
+     "text": "جس دن زمین اور پہاڑ تھرتھرا جائیں گے اور پہاڑ مثل بھربھری ریت کے ٹیلوں کے ہوجائیں گے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "在那日，天地和山峦都要震动，而山峦将要变成一堆散沙。"
+    }
+   }
+  },
+  {
+   "arabic": "إِنَّآ أَرۡسَلۡنَآ إِلَيۡكُمۡ رَسُولٗا شَٰهِدًا عَلَيۡكُمۡ كَمَآ أَرۡسَلۡنَآ إِلَىٰ فِرۡعَوۡنَ رَسُولٗا",
+   "aya": 15,
+   "id": 5490,
+   "tafsir": {
+    "arabic_moyassar": "إنا أرسلنا إليكم -يا أهل «مكة» - محمدًا رسولا شاهدًا عليكم بما صدر منكم من الكفر والعصيان، كما أرسلنا موسى رسولا إلى الطاغية فرعون، فكذَّب فرعون بموسى، ولم يؤمن برسالته، وعصى أمره، فأهلكناه إهلاكًا شديدًا. وفي هذا تحذير من معصية الرسول محمد صلى الله عليه وسلم؛ خشية أن يصيب العاصي مثل ما أصاب فرعون وقومه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১) অর্থাৎ যিনি কিয়ামত দিবসে তোমাদের আমলের উপর সাক্ষী হবেন।",
+     "text": "নিশ্চয়ই আমি তোমাদের কাছে এমন এক রাসূল (মুহাম্মাদকে) পাঠিয়েছি, যিনি তোমাদের ওপর সাক্ষী হবেন; যেমন আমি ফির‘আউনের কাছে এক রাসূল (মূসাকে) পাঠিয়েছিলাম।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Indeed, We have sent to you a Messenger to be a witness over you, just as We sent to Pharaoh a messenger."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Nous vous avons envoyé un Messager qui témoignera contre vous, de même que Nous avons envoyé un Messager à Pharaon"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sesungguhnya Kami telah mengutus seorang Rasul (Muhammad) kepada kamu, yang menjadi saksi terhadapmu, sebagaimana Kami telah mengutus seorang Rasul kepada Fir'aun."
+    },
+    "ur": {
+     "footnotes": "[1] جو قیامت والے دن تمہارے اعمال کی گواہی دے گا۔",
+     "text": "بیشک ہم نے تمہاری طرف بھی تم پر گواہی دینے واﻻ[1] رسول بھیج دیا ہے جیسے کہ ہم نے فرعون کے پاس رسول بھیجا تھا."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我确已派遣一个使者来你们，作为对你们的证人，犹如我曾派遣一个使者去见法老一样。"
+    }
+   }
+  },
+  {
+   "arabic": "فَعَصَىٰ فِرۡعَوۡنُ ٱلرَّسُولَ فَأَخَذۡنَٰهُ أَخۡذٗا وَبِيلٗا",
+   "aya": 16,
+   "id": 5491,
+   "tafsir": {
+    "arabic_moyassar": "إنا أرسلنا إليكم- يا أهل \"مكة\"- محمدًا رسولا شاهدًا عليكم بما صدر منكم من الكفر والعصيان، كما أرسلنا موسى رسولا إلى الطاغية فرعون، فكذَّب فرعون بموسى، ولم يؤمن برسالته، وعصى أمره، فأهلكناه إهلاكًا شديدًا. وفي هذا تحذير من معصية الرسول محمد، صلى الله عليه وسلم؛ خشية أن يصيب العاصي مثل ما أصاب فرعون وقومه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "কিন্তু ফির‘আউন রাসূলকে অমান্য করলো। তাই আমি তাকে অত্যন্ত শক্তভাবে (শাস্তি দিয়ে) পাকড়াও করলাম।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "But Pharaoh disobeyed the messenger, so We seized him with a severe punishment."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "qui, pour avoir désobéi à Notre Messager, fut violemment saisi par Notre châtiment."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Namun Fir'aun mendurhakai Rasul itu, maka Kami siksa dia dengan siksaan yang berat."
+    },
+    "ur": {
+     "footnotes": "[1] اس میں اہل مکہ کو تنبیہ ہے کہ تمہارا حشر بھی وہی ہو سکتا ہے۔ جو فرعون کا موسیٰ (عليه السلام) کی تکذیب کی وجہ سے ہوا۔",
+     "text": "تو فرعون نے اس رسول کی نافرمانی کی تو ہم نے اسے سخت (وبال کی) پکڑ میں پکڑ لیا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "但法老违抗了那个使者，故我严厉地惩治了他。"
+    }
+   }
+  },
+  {
+   "arabic": "فَكَيۡفَ تَتَّقُونَ إِن كَفَرۡتُمۡ يَوۡمٗا يَجۡعَلُ ٱلۡوِلۡدَٰنَ شِيبًا",
+   "aya": 17,
+   "id": 5492,
+   "tafsir": {
+    "arabic_moyassar": "فكيف تَقُون أنفسكم -إن كفرتم- عذاب يوم القيامة الذي يشيب فيه الولدان الصغار; مِن شدة هوله وكربه؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "অতএব তোমরা যদি কুফরী করো, তাহলে তোমরা (কিয়ামতের) সেদিন কীভাবে আত্মরক্ষা করবে, যেদিন কিশোরদেরকে বৃদ্ধে পরিণত করে দিবে?"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "If you disbelieve, then how will you protect yourselves against a Day that will turn children’s hair gray?"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Comment, si vous rejetez la foi, pourrez-vous échapper au châtiment d’un jour si terrible qu’il donnera des cheveux blancs aux enfants"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Lalu bagaimanakah kamu akan dapat menjaga dirimu jika kamu tetap kafir kepada hari yang menjadikan anak-anak beruban."
+    },
+    "ur": {
+     "footnotes": "[1] شیب، أشیب کی جمع ہے قیامت والے دن کی ہولناکی بیان کی کہ واقع اس دن بچے بوڑھے ہوجائیں گے یا تمثیل کے طور پر کہا گیا۔حدیث میں بھی آتا ہے کہ قیامت والے دن اللہ آدم (عليه السلام) کو کہے گا اپنی اولاد میں سے 999۔اس وقت حمل والی عورتوں کا حمل گر جائے گا اور بچے بوڑھے ہو جائیں گے ،یہ بات صحابہ کرام (رضي الله عنهم) کو بہت شاق گزری اور ان کے چہرے فق ہو گئے۔تو نبی کریم (صلى الله عليه وسلم) نے فرمایا کہ قوم یاجوج وماجوج میں 999 ہوں گے اور تم سے ایک اللہ کی رحمت سےمجھے امید ہے کہ تمام جنتیوں میں سے آدھا تم ہم لوگ ہوں گے۔(الحدیث البخاري، تفسير سورة الحج)",
+     "text": "تم اگر کافر رہے تو اس دن کیسے پناه پاؤ گے جو دن بچوں کو بوڑھا کردے گا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "如果你们不归信，那么，你们怎么防备那将使儿童白发苍苍的日子呢？"
+    }
+   }
+  },
+  {
+   "arabic": "ٱلسَّمَآءُ مُنفَطِرُۢ بِهِۦۚ كَانَ وَعۡدُهُۥ مَفۡعُولًا",
+   "aya": 18,
+   "id": 5493,
+   "tafsir": {
+    "arabic_moyassar": "السماء متصدعة في ذلك اليوم; لشدة هوله، كان وعد الله تعالى بمجيء ذلك اليوم واقعًا لا محالة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "সেদিন আসমান হবে বিদীর্ণ, আল্লাহর প্রতিশ্রুতি বাস্তবায়িত হবে।"
+    },
+    "en": {
+     "footnotes": "[6] Out of the terror of that Day.",
+     "text": "It will cause the sky to break asunder[6]. His promise will certainly be fulfilled."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "et qu’il verra le ciel s’entrouvrir. Sa menace devra s’accomplir."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Langit terbelah pada hari itu. Janji Allah pasti terlaksana."
+    },
+    "ur": {
+     "footnotes": "[1] یہ یوم کی دوسری صفت ہے اس دن ہولناکی سے آسمان پھٹ جائے گا۔\n[2] یعنی اللہ نے جو بعث بعد الموت، حساب کتاب اور جنت دوزخ کا وعدہ کیا ہوا ہے یہ یقینا لامحالہ ہو کر رہنا ہے۔",
+     "text": "جس دن آسمان پھٹ جائے گا[1] اللہ تعالیٰ کا یہ وعده ہو کر ہی رہنے واﻻ ہے.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "天将为那日而破裂，他〔安拉〕的应许是要实现的。"
+    }
+   }
+  },
+  {
+   "arabic": "إِنَّ هَٰذِهِۦ تَذۡكِرَةٞۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلًا",
+   "aya": 19,
+   "id": 5494,
+   "tafsir": {
+    "arabic_moyassar": "إن هذه الآيات المخوفة التي فيها القوارع والزواجر عظة وعبرة للناس، فمن أراد الاتعاظ والانتفاع بها اتخذ الطاعة والتقوى طريقًا توصله إلى رضوان ربه الذي خلقه وربَّاه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "নিশ্চয় এ এক উপদেশ। সুতরাং যে তার রবের সান্নিধ্যে পৌঁছার পথ অবলম্বন করতে চায়, সে তা অবলম্বন করুক।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Indeed, this is a reminder; so whoever wills may take a way to his Lord."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Voici une exhortation. Que celui qui le veut suive donc la voie de son Seigneur !"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sungguh, ini adalah peringatan. Barangsiapa menghendaki, niscaya dia mengambil jalan (yang lurus) kepada Tuhannya."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "بیشک یہ نصیحت ہے پس جو چاہے اپنے رب کی طرف راه اختیار کرے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "这确是一种教训。谁愿意〔觉悟〕，谁可以选择一条通达他的养主的道路。"
+    }
+   }
+  },
+  {
+   "arabic": "۞ إِنَّ رَبَّكَ يَعۡلَمُ أَنَّكَ تَقُومُ أَدۡنَىٰ مِن ثُلُثَيِ ٱلَّيۡلِ وَنِصۡفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٞ مِّنَ ٱلَّذِينَ مَعَكَۚ وَٱللَّهُ يُقَدِّرُ ٱلَّيۡلَ وَٱلنَّهَارَۚ عَلِمَ أَن لَّن تُحۡصُوهُ فَتَابَ عَلَيۡكُمۡۖ فَٱقۡرَءُواْ مَا تَيَسَّرَ مِنَ ٱلۡقُرۡءَانِۚ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرۡضَىٰ وَءَاخَرُونَ يَضۡرِبُونَ فِي ٱلۡأَرۡضِ يَبۡتَغُونَ مِن فَضۡلِ ٱللَّهِ وَءَاخَرُونَ يُقَٰتِلُونَ فِي سَبِيلِ ٱللَّهِۖ فَٱقۡرَءُواْ مَا تَيَسَّرَ مِنۡهُۚ وَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ وَأَقۡرِضُواْ ٱللَّهَ قَرۡضًا حَسَنٗاۚ وَمَا تُقَدِّمُواْ لِأَنفُسِكُم مِّنۡ خَيۡرٖ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيۡرٗا وَأَعۡظَمَ أَجۡرٗاۚ وَٱسۡتَغۡفِرُواْ ٱللَّهَۖ إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمُۢ",
+   "aya": 20,
+   "id": 5495,
+   "tafsir": {
+    "arabic_moyassar": "إن ربك -أيها النبي- يعلم أنك تقوم للتهجد من الليل أقل من ثلثيه حينًا، وتقوم نصفه حينًا، وتقوم ثلثه حينًا آخر، ويقوم معك طائفة من أصحابك. والله وحده هو الذي يقدِّر الليل والنهار، ويعلم مقاديرهما، وما يمضي ويبقى منهما، علم الله أنه لا يمكنكم قيام الليل كله، فخفَّف عليكم، فاقرؤوا في الصلاة بالليل ما تيسر لكم قراءته من القرآن، علم الله أنه سيوجد فيكم مَن يُعجزه المرض عن قيام الليل، ويوجد قوم آخرون يتنقَّلون في الأرض للتجارة والعمل يطلبون من رزق الله الحلال، وقوم آخرون يجاهدون في سبيل الله؛ لإعلاء كلمته ونشر دينه، فاقرؤوا في صلاتكم ما تيسَّر لكم من القرآن، وواظبوا على فرائض الصلاة، وأعطوا الزكاة الواجبة عليكم، وتصدَّقوا في وجوه البر والإحسان مِن أموالكم؛ ابتغاء وجه الله، وما تفعلوا مِن وجوه البر والخير وعمل الطاعات، تلقَوا أجره وثوابه عند الله يوم القيامة خيرًا مما قدَّمتم في الدنيا، وأعظم منه ثوابًا، واطلبوا مغفرة الله في جميع أحوالكم، إن الله غفور لكم، رحيم بكم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "হে রাসূল! নিশ্চয় তোমার রব জানেন যে, তুমি কখনো রাতের দুই তৃতীয়াংশের কিছু কম, অথবা কখনো অর্ধরাত অথবা কখনো রাতের এক তৃতীয়াংশ সালাতে দাঁড়িয়ে থাকো এবং তোমার সাথে (মু’মিনদের) যারা আছে তাদের মধ্য থেকে একটি দলও। আর আল্লাহ রাত ও দিন নিরূপণ করেন। তিনি জানেন যে, তোমরা তা (নিরূপণ ও আয়ত্ত) করতে সক্ষম হবে না। তাই তিনি তোমাদেরকে ক্ষমা করলেন। অতএব তোমরা (সালাতে) আল-কুরআন থেকে যতটুকু সহজ ততটুকু তিলাওয়াত করো। তিনি জানেন তোমাদের মধ্যে কেউ কেউ অসুস্থ হয়ে পড়বে। আর কেউ কেউ আল্লাহর অনুগ্রহ (জীবিকার) সন্ধানে পৃথিবীতে ভ্রমণ করবে, আর কেউ কেউ আল্লাহর পথে লড়াই করবে। অতএব তোমরা (সালাতে) আল-কুরআন থেকে যতটুকু সহজ ততটুকু তিলাওয়াত করো। আর সালাত কায়িম করো, যাকাত দাও এবং আল্লাহকে কার্যে হাসান (উত্তম ঋণ) দাও। আর তোমরা নিজেদের জন্য কল্যাণমূলক যা কিছু অগ্রে পাঠাবে তোমরা তা আল্লাহর কাছে উৎকৃষ্টতর ও বড় প্রতিদান হিসেবে পাবে। আর তোমরা আল্লাহর কাছে ক্ষমা চাও। নিশ্চয় আল্লাহ অতীব ক্ষমাশীল, পরম দয়ালু।"
+    },
+    "en": {
+     "footnotes": "[7] The ruling mentioned at the beginning of this surah is lightened here. So from now on, the believers do not have to stick to any of the portions specified there; rather, they can pray whatever they can at night. It is out of the mercy of Allah upon His servants that He does not want hardship for them.\n [8] i.e., giving in charity and for His causes.\n [9] It will be rewarded tenfold, or 700-fold, and Allah gives even more to whoever He wills. See 2:261.",
+     "text": "Indeed, your Lord knows that you [O Prophet] stand up in prayer for nearly two-thirds of the night, or half of it, or one-third of it, as do others among your companions. Allah determines the night and the day; He knows that you [Muslims] cannot keep an accurate count of it, so He pardoned you[7]. Recite then as much of the Qur’an as is easy for you [in the night prayers]. He knows that there are some among you who will be ill, and others traveling in the land, seeking the grace of Allah, and others fighting in Allah’s way. So recite as much of it as is easy for you; establish prayer and give zakah; and lend to Allah a goodly loan[8]. Whatever good you send forth for yourselves, you will find it with Allah, much better in condition and much greater in reward[9]. And seek forgiveness of Allah, for indeed Allah is All-Forgiving, Most-Merciful."
+    },
+    "fr": {
+     "footnotes": "[2] Au cours de vos prières nocturnes.",
+     "text": "Ton Seigneur sait parfaitement que tu pries parfois moins des deux tiers de la nuit, parfois la moitié et parfois à peine le tiers, à l’image d’une partie de tes compagnons. Allah détermine la durée de la nuit et du jour. Il sait que vous ne pourrez jamais estimer précisément le temps de prière et vous conformer à cette obligation qu’Il a donc allégée pour vous. Par conséquent, récitez[2] ce que vous pourrez du Coran. Il sait que certains d’entre vous tomberont malades, que d’autres parcourront le monde en quête de Ses faveurs, tandis que d’autres lutteront pour Sa cause. Récitez-en donc ce que vous pourrez ! Accomplissez la prière, acquittez-vous de l’aumône et faites à Allah un prêt sincère. Et sachez que, quelque bien que vous accomplissiez sur terre en vue de votre salut, vous le retrouverez démultiplié auprès de votre Seigneur. Implorez le pardon d’Allah qui, en vérité, est Très Clément et Très Miséricordieux."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sesungguhnya Tuhanmu mengetahui bahwa engkau (Muhammad) berdiri (salat) kurang dari dua pertiga malam, atau seperdua malam atau sepertiganya dan (demikian pula) segolongan dari orang-orang yang bersamamu. Allah menetapkan ukuran malam dan siang. Allah mengetahui bahwa kamu tidak dapat menentukan batas-batas waktu itu, maka Dia memberi keringanan kepadamu, karena itu bacalah apa yang mudah (bagimu) dari Al-Qur`an; Dia mengetahui bahwa akan ada di antara kamu orang-orang yang sakit, dan yang lain berjalan di bumi mencari sebagian karunia Allah; dan yang lain berperang di jalan Allah, maka bacalah apa yang mudah (bagimu) dari Al-Qur`an dan laksanakanlah salat, tunaikanlah zakat dan berikanlah pinjaman kepada Allah pinjaman yang baik. Kebaikan apa saja yang kamu perbuat untuk dirimu niscaya kamu memperoleh (balasan)nya di sisi Allah sebagai balasan yang paling baik dan yang paling besar pahalanya. Dan mohonlah ampunan kepada Allah; sungguh, Allah Maha Pengampun, Maha Penyayang."
+    },
+    "ur": {
+     "footnotes": "[1] جب سورت کے آغاز میں نصف رات یا اس سے کم یا زیادہ قیام کا حکم دیا گیا تو نبی (صلى الله عليه وسلم) اور آپ کے ساتھ صحابہ کی ایک جماعت رات کو قیام کرتی کبھی دو تہائی سے کم یا زیادہ کبھی نصف رات کبھی ثلث رات جیسا کہ یہاں ذکر ہے۔ لیکن ایک تو رات کا یہ قیام نہایت گراں تھا دوسرے وقت کا اندازہ لگانا مشکل تھا کہ یہ نصف رات ہوئی یا ثلث اس لیے اللہ نے اس آیت میں تخفیف کا حکم نازل فرمایا جس میں فرمایا کہ بعض کے نزدیک ترک قیام کی اجازت ہے۔ اور بعض کے نزدیک یہ ہے کہ اس کے فرض کو استحباب میں بدل دیا گیا ۔اب یہ نہ امت کے لئے فرض ہے نہ نبی (صلى الله عليه وسلم)کے لئے اور بعض کہتے ہیں کہ یہ تخفیف صرف امت کے لئے ہے نبی (صلى الله عليه وسلم)کے لئے اس کا پڑھنا ضروری تھا۔\n[2] یعنی اللہ تورات کی گھڑیاں گن سکتا ہے کتنی گزر گئی ہیں اور کتنی باقی ہیں تمہارے لیے یہ اندازہ لگانا ناممکن ہے۔\n[3] جب تمہارے لئے رات کے گزرنے کا صحیح اندازہ ممکن ہی نہیں، تو تم مقررہ اوقات تک نماز تہجد میں مشغول بھی کس طرح رہ سکتے ہو؟\n[4] یعنی اللہ نے قیام الیل کا حکم منسوخ کر دیا اور اب صرف اس کا استحباب باقی رہ گیا ہے اور وہ بھی وقت کی پابندی کے بغیر ،نصف شب یا ثلث شب یا دو ثلث کی پابندی بھی ضتوتی نہیں ۔اگر تم تھوڑا سا وقت صرف کر کے دو رکعت بھی ہڑھ لو گے تو عنداللہ قیام الیل کے اجر کے مستحق قرار پاؤگے ،تاہم اگر کوئی شحص آٹھ رکعات تہجد کا اہتمام کرے گا جیسا کہ نبی کریم (صلى الله عليه وسلم) کا معمول تھا ،تو زیادہ بہتر ہو گا اور نبی (صلى الله عليه وسلم) کا تبع قرار پائے گا۔\n[5] فَاقْرَءُوا کا مطلب ہے فصلو 'اور اور قرآن سے مراد الصلوۃ ہے ، قیام الیل میں چوں کہ قیام لمبا ہوتا ہے اور قرآن زیادہ پڑھا جاتا ہے اس لئے نماز تہجد کو ہی قرآن سے تعبیر کر دیا گیا ہے جیسے نماز میں سور فاتحہ نہایت ضروری ہے 'اس لئے اللہ تعالیٰ نے حدیث قدسی میں 'جو سورہ فاتحہ میں گزر چکی ہے 'سورہ فاتحہ کو نماز سے تعبیر فرمایا ہے «قَسَمْتُ الصَّلاةَ بَيْنِي وَبَيْنَ عَبْدِي» (الحدیث) اس لئے ”جتنا قرآن پڑھنا آسان ہو پڑھ لو“ کا مطلب ہے رات کو جتنی نماز پڑھ سکتے ہو 'پڑھ لو۔ اس کے لئے نہ وقت کی پابندی ہے اور نہ رکعات کی ۔اس آیت سے بعض لوگ اسدلال کرتے ہوئے کہتے ہیں کہ نماز میں سورۃ فاتحہ پڑھنی ضروری نہیں ہے جتنا کسی کے لئے آسان ہو'پڑھ لے اگر کوئی ایک آیت بھی کہیں سے پڑھ لے گا تو نماز ہو جائے گی ۔لیکن اول تو یہاں قراءت بمعنی نماز ہے 'جیسا کہ ہم نے بیان کیا ۔اس لئےآیت کا تعلق اس بات سے نہیں ہے کہ نماز میں کتنی قراءت ضروری ہے ؟دوسرے اگر اس کا تعلق قراءت سے ہی مان لیا جائے تب بھی یہ استدلال اپنی اندر کوئی قوت نہیں رکھتا ۔کیوں کہ ما تیسر کی تفسیر خود نبی (صلى الله عليه وسلم) نے فرمادی ہے کہ وہ کم سے کم قراءت ،جس کے بغیر نماز نہیں ہو گی وہ سورۃ ھاتحہ ہے اس لئے آپ (صلى الله عليه وسلم) نے فرمایا ہے کہ یہ ضروری پڑھو جیسا کہ صحیح اور نہایت قوی اور واضح احادیث میں یہ حکم ہے اس تفسیر نبوی (صلى الله عليه وسلم)کے خلاف یہ کہنا کہ نماز میں سورۃ فاتحہ ضروری نہیں بلکہ کوئی سی بھی ایک آیت پڑھ لو نماز ہو جائے گی ۔بڑی جسارت اور نبی(صلى الله عليه وسلم) کی احادیث سے بے اعتناعی اکا مظاہرہ ہے ۔نیزائمی کے اقوال کے بھی خلاف ہے جو انہوں نے اصول فقیہ کی کتابوں میں لکھا ہے کہ اس آیت سے ترک فاتحہ خلف امام پر استدلال جائز نہیں ' اس لئے کہ وہ آیتیں متعارض ہیں ۔البتہ اگر کوئی شخص جہری نماز میں امام کے پیچھے سورہ فاتحہ نہ پڑھے تو بعض احادیث کی رو سے بعض ائمہ نے اسے جائز کہا ہے اور بعض نے نہ پڑھنے ہی کو ترجیح دی ہے ۔(تفصیل کے لئے فرضیت فاتحہ خلف امام پر تحریر کردہ کتب ملاحظہ فرمائیں )\n[6] یعنی تجارت اور کاروبار کے لئے سفر کرنا اور ایک شہر سے دوسرے شہر میں یا ایک ملک سے دوسرے ملک میں جانا پڑے گا۔\n[7] اسی طرح جہاد میں بھی پُر مشقت سفر اور مشقتیں کرنی پڑتی ہیں، اور یہ تینوں چیزیں، بیماری، سفر اور جہاد نوبت بہ نوبت ہر ایک کو لاحق ہوتی ہیں اس لیے اللہ نے قیام اللیل کے حکم میں تخفیف کردی ہے کیونکہ تینوں حالتوں میں یہ نہایت مشکل اور بڑا صبر آزما کام ہے۔\n[8] اسباب تخفیف کے ساتھ تخفیف کا یہ حکم دوبارہ بطور تاکید بیان کر دیا گیا۔\n[9] یعنی پانچوں نمازوں کی جو فرض ہیں۔\n[10] یعنی اللہ کی راہ میں حسب ضرورت و توفیق خرچ کرو، اسے قرض حسنہ سے اس لئے تعبیر فرمایا کہ اللہ تعالٰی اس کے بدلے میں سات سو گنا بلکہ اس سے زیادہ تک اجر و ثواب عطا فرمائے گا۔\n11- یعنی نفلی نمازیں، صدقات و خیرات اور دیگر نیکیاں جو بھی کرو گے اللہ کے ہاں ان کا بہترین اجر پاؤ گے اکثر مفسرین کے نزدیک یہ آیت مدینہ میں نازل ہوئی اس لیے کہتے ہیں کہ اس کا نصف حصہ مکی اور نصف حصہ مدنی ہے۔(ایسر التفاسیر)",
+     "text": "آپ کا رب بخوبی جانتا ہے کہ آپ اور آپ کے ساتھ کے لوگوں کی ایک جماعت قریب دو تہائی رات کے اور آدھی رات کے اور ایک تہائی رات کے تہجد پڑھتی ہے[1] اور رات دن کا پورا اندازه اللہ تعالیٰ کو ہی ہے[2]، وه (خوب) جانتا ہے کہ تم اسے ہرگز نہ نبھا سکو گے[3] پس اس نے تم پر مہربانی کی لہٰذا جتنا قرآن پڑھنا تمہارے لیے آسان ہو اتنا ہی پڑھو[4]، وه جانتا ہے کہ تم میں بعض بیمار بھی ہوں گے، بعض دوسرے زمین میں چل پھر کر اللہ تعالیٰ کا فضل (یعنی روزی بھی) تلاش کریں گے[5] اور کچھ لوگ اللہ تعالیٰ کی راه میں جہاد بھی کریں گے[6]، سو تم بہ آسانی جتنا قرآن پڑھ سکو پڑھو[7] اور نماز کی پابندی رکھو[8] اور زکوٰة دیتے رہا کرو اور اللہ تعالیٰ کو اچھا قرض دو[9]۔ اور جو نیکی تم اپنے لیے آگے بھیجو گے اسے اللہ تعالیٰ کے ہاں بہتر سے بہتر اور ﺛواب میں بہت زیاده پاؤ گے[10] اللہ تعالیٰ سے معافی مانگتے رہو۔ یقیناً اللہ تعالیٰ بخشنے واﻻ. مہربان ہے"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你的养主的确知道你礼拜的时间，不到全夜的三分之二，或二分之一，或三分之一。你的同道中，有一群人也是那样做的。安拉预定黑夜和白昼的长度，他知道你们不能计算它，故赦宥你们。你们应当诵《古兰经》中简易的〔章节〕。他知道你们中将有一些病人，和别的许多人旅行四方，寻求安拉的恩惠；或又有许多人，为主道而作战，故你们应当讽诵其中简易的〔章节〕。你们应当谨守拜功，完纳天课，并以善债借给安拉。你们为自己做什么善事，都将在安拉那里得到更好更大的报酬。你们应当向安拉求饶，安拉是至赦的，是至慈的。"
+    }
+   }
+  }
+ ],
+ "content_sha256": "sha256:fdbdd008d63c91a899bdf82e0a096e742e6bfaca63ffd8ffb10da42379ffd3f2",
+ "name_ar": "المزمل",
+ "number": 73,
+ "schema": "balligh.library.quran.surah/1"
+}

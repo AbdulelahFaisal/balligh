@@ -1,0 +1,186 @@
+{
+ "attribution": "رواه أحمد",
+ "content_sha256": "sha256:b50929c56bce007d409e92ded52c6a84908de3c8c4400ff8a8aaa006f87cb114",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "دعا النبيُّ صلى الله عليه وسلم ربَّه أن لا يجعَلْ قَبْره مثلَ الصَّنمِ الذي يَعبُدُه النَّاسُ بتَعظيمِه واستِقبالِه في السُّجودِ، ثم أخبر صلى الله عليه وسلم بأنَّ اللهَ أَبْعَدَ وطَرَدَ من رحمتِه مَن اتخذَ  قبورَ الأنبياءِ مساجد؛ لأنَّ اتخاذَها مساجدَ ذريعةٌ إلى عِبادَتِها والاعتِقادِ فيها.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "مجاوزة الحد الشرعي في قبور الأنبياء والصالحين يجعلُها تُعبد من دون الله، فيَجِبُ الحَذرُ من وسائل الشرك.",
+  "لا يجوز قَصْدُ القبور لتعظيمِها والعبادةِ عندها مهما كان قُرْبُ صاحبِها من الله تعالى.",
+  "تحريم بناء المساجد على القبور.",
+  "تحريم الصلاة عند القبور ولو لم يُبْنَ مسجدٌ إلا صلاة الجنازة التي لم يُصلّ عليها."
+ ],
+ "id": "hadeethenc-3336",
+ "language": "ar",
+ "narrator": null,
+ "reference": "مسند أحمد (12/ 314) (7358).\nفتح المجيد شرح كتاب التوحيد، لعبد الرحمن التميمي (1/ 434).\nالقول المفيد على كتاب التوحيد، لمحمد بن عثيمين (1/ 434).\nالملخص في شرح كتاب التوحيد، لصالح الفوزان (ص178).\nالجديد في شرح كتاب التوحيد، لمحمد القرعاوي (ص194).\nالتمهيد لشرح كتاب التوحيد، لصالح آل الشيخ (ص51).\nمشكاة المصابيح، للتبريزي (1/ 234).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3336",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:40+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3336"
+ },
+ "source_categories": [
+  {
+   "id": "97",
+   "label": "الشرك"
+  },
+  {
+   "id": "725",
+   "label": "أحكام المساجد"
+  }
+ ],
+ "source_record_id": "3336",
+ "text": "عن أبي هريرة رضي الله عنه عن النبي صلى الله عليه وسلم: «اللهُمَّ لَا تَجْعَلْ قَبْرِي وَثَنًا، لَعَنَ اللهُ قَوْمًا اتَّخَذُوا قُبُورَ أَنْبِيَائِهِمْ مَسَاجِدَ».",
+ "title": "اللهم لا تجعل قبري وثنا",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3336",
+   "arabic_match": "exact",
+   "attribution": "এটি আহমাদ বর্ণনা করেছেন।",
+   "content_sha256": "sha256:c6a29dd6a600dadc4669e2aeef9728ece827873519b701fcf2b5f845689bf1a4",
+   "explanation": "নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম তাঁর রবের কাছে দু‘আ করেছেন , তিনি যেন তার কবরকে মূর্তির মত না বানান, যাকে সম্মান করে মানুষ ইবাদাত করে এবং একে কিবলা বানিয়ে সিজদা করে। অতপর তিনি (নবী) সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম সংবাদ দিয়েছেন যে, আল্লাহ তা‘আলা তাঁর রহমত থেকে তাদেরকে বিতাড়িত ও দূরে সরিয়ে দিয়েছেন যারা তাদের নবীদের কবরসমূহকে মসজিদ তথা সিজদার জায়গা বানিয়েছে। কেননা নবীদের কবরসমূহকে মসজিদ বানানো এগুলোর ইবাদাত করা ও তাতে দৃঢ় বিশ্বাস রাখার প্রতি ধাবিত করে।",
+   "grade": "সহীহ",
+   "hints": [
+    "নবী ও সালেহীনদের কবরের ব্যাপারে শরী‘আতের সীমা অতিক্রম করলে, তা আল্লাহ ব্যতীত অন্যের  ইবাদাতে পরিণত হয়। সুতরাং শিরকের এসব উপায় থেকে মানুষকে সতর্ক করা ওয়াজিব।\r",
+    "কবরকে সম্মান ও এর নিকটে ইবাদাত করার উদ্দেশ্যে কবর যিয়ারত করা জায়েয নেই; কবরবাসী যতই আল্লাহ তা‘আলার নিকটবর্তী হোক না কেন।\r",
+    "কবরের উপরে মসজিদ বানানো হারাম।\r",
+    "কবরের কাছে সালাত আদায় করা হারাম; যদিও সেখানে মসজিদ না বানায়; তবে সালাতুল জানাযার ব্যাপার ভিন্ন,  যদি আগে সালাতুল জানাযা পড়া না হয় তবে কবরের পাশে তা আদায় করা যাবে।"
+   ],
+   "mapping": "same HadeethEnc record id 3336; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:47+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3336",
+   "text": "আবূ হুরায়রা রদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, নবী সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম বলেছেন: “হে আল্লাহ! আমার কবরকে পূজনীয় মূর্তি বানিয়ে দিওনা। সেই সম্প্রদায়ের উপর আল্লাহ লা‘নত বর্ষণ করেছেন, যে সম্প্রদায় তাদের নবীগণের কবরকে মসজিদ তথা সিজদার জায়গায় পরিণত করেছে।”",
+   "title": "“হে আল্লাহ! আমার কবরকে পূজনীয় মূর্তি বানিয়ে দিওনা।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3336",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Ahmad",
+   "content_sha256": "sha256:f0d1d20b89b515fc5be7bad47f92c90c5a657d79fe5c63eef9409a760fbe5815",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) supplicated to his Lord to not make his grave like an idol that people worship by extolling it and facing it in prostration. Then, he (may Allah's peace and blessings be upon him) mentioned that Allah Almighty banished and expelled from His mercy those who took the graves of their prophets as places of worship, for taking them as places of worship is conducive to worshiping and having faith in them.",
+   "grade": "Authentic",
+   "hints": [
+    "Exceeding the limits set by the Shariah with regard to the graves of the prophets and the righteous people turns them into idols worshiped apart from Allah. So, we should beware of the means leading to Shirk (polytheism).\r",
+    "It is not permissible to visit the graves to show reverence to them and perform worship there, regardless of the closeness of those buried to Allah.\r",
+    "It is prohibited to build mosques over the graves.\r",
+    "It is prohibited to perform prayer at the graves, even if no mosque is built there, except for prayer for a dead person upon whom the funeral prayer has not been offered."
+   ],
+   "mapping": "same HadeethEnc record id 3336; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:46+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3336",
+   "text": "Abu Hurayrah (may Allah be pleased with him) reported: The Prophet (may Allah’s peace and blessings be upon him) said: \"O Allah, do not make my grave an idol that is worshiped. Allah cursed the people who took the graves of their prophets as places of worship.\"",
+   "title": "O Allah, do not make my grave an idol that is worshiped",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=3336",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Ahmad",
+   "content_sha256": "sha256:4679ab0f0a547acb243c3e9d3d5fd8c1de7ebba69bcc745562395025fe347b54",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) a invoqué son Seigneur afin qu'il ne soit pas fait de sa tombe une statue adorée par les gens par considération pour lui, ni une direction vers laquelle ils se tournent pour la prosternation. Ensuite, il a informé (qu'Allah le couvre d'éloges et le préserve) qu'Allah a éloigné et banni de Sa miséricorde quiconque prends les tombes des Prophètes comme lieux de culte ; Ceci, car les prendre comme lieux de culte conduit à les adorer et à croire en elles.",
+   "grade": "Authentique",
+   "hints": [
+    "Le dépassement de la limite légale concernant les tombes des Prophètes et des vertueux conduit à ce qu'elles soient adorées en dehors d'Allah. On doit donc avertir et mettre en garde contre tout moyen menant au polythéisme.\r",
+    "Il n'est pas permis de se diriger vers les tombes par vénération pour elles, ni de pratiquer d'adoration auprès d'elles, quelle que soit la proximité d'Allah, Exalté soit-Il, qu'ait pu atteindre la personne qui s'y trouve.\r",
+    "L'interdiction de construire des lieux de culte sur les tombes.\r",
+    "L'interdiction de prier auprès des tombes, même si une mosquée n'y a pas été construite, excepté pour accomplir la prière funéraire sur un mort pour qui elle n'a pas été effectuée."
+   ],
+   "mapping": "same HadeethEnc record id 3336; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:47+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/3336",
+   "text": "Aboû Hourayrah (qu'Allah l'agrée) relate que Prophète (qu'Allah le couvre d'éloges et le préserve) a dit : \" Ô Allah ! Ne fais pas de ma tombe une idole ! Allah a maudit des gens qui ont pris les tombes de leurs Prophètes comme mosquées !\"",
+   "title": "Ô Allah ! Ne fais pas de ma tombe une idole !",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3336",
+   "arabic_match": "exact",
+   "attribution": "HR. Ahmad",
+   "content_sha256": "sha256:4ee0d100191e1290ca96b4ae98dc5d770b48edbd69bd7b53a9f5909b1a129aee",
+   "explanation": "Nabi ﷺ berdoa kepada Tuhannya agar tidak menjadikan kuburnya seperti berhala yang disembah oleh manusia dengan diagungkan dan dijadikan kiblat dalam sujud. Kemudian beliau ﷺ mengabarkan bahwa Allah telah menjauhkan rahmat-Nya dari orang-orang yang menjadikan kubur para Nabi sebagai tempat beribadah, karena menjadikan kubur-kubur itu sebagai tempat beribadah adalah pengantar menuju penyembahannya serta meyakini hal itu.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Sikap melampaui batas syariat terkait makam para nabi dan orang-orang saleh akan mengantarkan kepada penyembahannya selain Allah; hal ini wajib diwapadai karena termasuk sarana-sarana kesyirikan.\r",
+    "2- Seseorang tidak boleh pergi ke kuburan untuk mengagungkannya dan beribadah di sana, walaupun sosok di dalam kuburan tersebut dikenal sangat taat kepada Allah Ta'ala.\r",
+    "3- Membangun masjid di atas kuburan hukumnya haram.\r",
+    "4- Salat di kuburan hukumnya haram, meski tidak dibangun dalam wujud masjid, kecuali menyalati jenazah yang belum disalati."
+   ],
+   "mapping": "same HadeethEnc record id 3336; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:46+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3336",
+   "text": "Abu Hurairah -raḍiyallāhu 'anhu- meriwayatkan dari Nabi ﷺ, beliau bersabda, \"Ya Allah, janganlah Engkau jadikan kuburanku sebagai berhala (waṡan). Allah melaknat orang-orang yang menjadikan kuburan para Nabi mereka sebagai tempat ibadah.\"",
+   "title": "Ya Allah, janganlah Engkau jadikan kuburanku sebagai berhala (waṡan)",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3336",
+   "arabic_match": "exact",
+   "attribution": "رواه أحمد",
+   "content_sha256": "sha256:da2dc6670e376c983d81b37a88aee03bcb307c865be7b1c1c9325cc9974de9fc",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم نے اپنے رب سے دعا کی ہے کہ وہ آپ کی قبر کو اس بت کی طرح بننے نہ دے، لوگ جس کی عبادت کرتے ہيں۔ مثلا اس کی غلو آمیز تعظیم کرتے ہیں اور اس کی جانب منہ کرکے سجدہ کرتے ہیں۔ پھر اللہ کے نبی صلی اللہ علیہ و سلم نے بتایا کہ اللہ نے ان لوگوں کو اپنی رحمت سے دور کر دیا، جنھوں نے اپنے نبیوں کی قبروں کو مسجد بنا لیا، کیوں کو ان کو مسجد بنانا ان کی عبادت اور ان کے بارے میں غلو آمیز عقیدے کا ذریعہ ہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "نبیوں اور نیک لوگوں کے بارے میں شرعی حد سے آگے بڑھنے کا نتیجہ یہ ہوتا ہے کہ اللہ کے علاوہ ان کی عبادت ہونے لگتی ہے۔ اس لیے شرک کے وسائل سے بچنا ضروری ہے۔\r",
+    "قبروں کی تعظیم اور ان کے پاس عبادت کرنے کے لیے ان کا رخ کرنا جائز نہيں ہے، چاہے قبر میں مدفون شخص اللہ سے جتنا بھی قریب ہو۔\r",
+    "قبروں پر مسجد بنانا حرام ہے۔\r",
+    "قبروں کے پاس نماز پڑھنا حرام ہے، چاہے وہاں مسجد نہ بھی بنائی گئی ہو۔ البتہ ایسے جنازے کی نماز اس سے مستثنی ہے، جس پر نماز نہ پڑھی گئی ہو۔"
+   ],
+   "mapping": "same HadeethEnc record id 3336; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:46+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3336",
+   "text": "ابو ہریرہ رضی اللہ عنہ سے روایت ہے کہ اللہ کے نبی صلی اللہ علیہ و سلم  نے فرمایا: ”اے اللہ! میری قبر کو بت نہ بنانا۔ ان لوگوں پر اللہ کا شدید غضب نازل ہو، جنھوں نے اپنے نبیوں کی قبروں کو سجدہ گاہ بنا لیا“۔",
+   "title": "”اے اللہ! میری قبر کو بت نہ بنانا",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3336",
+   "arabic_match": "exact",
+   "attribution": "艾哈迈德辑录",
+   "content_sha256": "sha256:ca4c8826b9deab8bd4d253abaa6702067965172eac49323067b7fda279cc5d91",
+   "explanation": "先知（愿主福安之）祈祷他的养主，不要让他的坟墓成为人们所崇拜的偶像，受到尊崇并为之叩首。接着先知（愿主福安之）说道，安拉确已驱使一些民众远离自己的仁慈，因为他们将先知的坟墓当做清真寺，将坟墓当做清真寺是导致偶像崇拜的因素。",
+   "grade": "正确的",
+   "hints": [
+    "舍弃安拉而崇拜众先知和廉洁者的坟墓，已严重逾越伊斯兰教律之界限，故务必要警惕以物配主之媒介。\r",
+    "不允许出于尊重或做功修而接近坟墓，无论坟墓之人多么临近安拉。\r",
+    "禁止在坟墓之上建造清真寺。\r",
+    "禁止在坟墓旁边礼拜，即使坟墓旁没有建寺也罢。除非是给没有站殡礼的亡者站殡礼。"
+   ],
+   "mapping": "same HadeethEnc record id 3336; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:46+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3336",
+   "text": "据艾布·胡莱勒（愿主喜悦之）传述自先知（愿主福安之）说： “主啊！不要使我的坟墓成为偶像。安拉诅咒了一些民众，他们将他们先知的坟墓当做清真寺。”",
+   "title": "“主啊！不要使我的坟墓成为偶像",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [
+  {
+   "meaning": " والوثن كل ما عُبد من دون الله كالقبور والأشجار والحيطان والأحجار ونحوِها.",
+   "word": "وثنًا"
+  }
+ ],
+ "words_meanings_language": "ar"
+}

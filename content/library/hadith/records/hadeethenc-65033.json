@@ -1,0 +1,181 @@
+{
+ "attribution": "رواه الترمذي وابن ماجه",
+ "content_sha256": "sha256:cc61c9a4366bcc6722dfe436c5f6dc3967776be888bb6e7ba3942419d95c12a7",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "أخبر النبي صلى الله عليه وسلم إن الله يختار رجلًا من أمته على رؤوس الخلائق يوم القيامة يُنادَى به ليُحاسَب، فيَعرِضُ عليه تسعةً وتسعين سِجِلًّا وهي صحائف أعماله السيئة التي كان يعمل بها في الدنيا، وطول كل سجل مثل مد البصر، \nثم يقول الله عز وجل لهذا الرجل: أتنكر شيئًا من المكتوب في هذه السِّجِلّات؟ \nأظلمك ملائكتي الحفظة الكتبة؟ \nفيقول الرجل: لا يا رب. \nفيقول الله عز وجل: ألك عُذرٌ تُعذَر به مما قدمت من أعمال في الدنيا؟ من كونه سهوًا أو خطأً أو جهلًا، \nفيقول الرجل: لا يا رب ليس لي عذر. \nفيقول الله عز وجل: بلى، إن لك عندنا حسنة، وإنه لا ظلم عليك اليوم. \nقال: فيخرج بطاقة مكتوب فيها: أشهد أن لا إله إلا الله، وأشهد أن محمدًا عبده ورسوله. \nفيقول الله عز وجل: لهذا الرجل، أحضر ميزانك. \nفيقول الرجل متعجِّبًا: يا رب! ما وزن هذه البطاقة مع هذه السجلات؟! \nفقال الله عز وجل: لن يقع عليك ظلم. \nقال: فتوضع السجلات في كفة، والبطاقة في كفة؛ فخَفَّت الكفة التي بها السجلات، ورَجَحَت وثَقُلت الكفة التي بها البطاقة، فغفر الله له.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "عِظم كلمة التوحيد: شهادة ألا إله إلا الله،  وثقلها في الميزان.",
+  "لا يكفي قول: لا إله إلا الله، باللسان فقط، بل لا بد من العلم بمعناها والعمل بمقتضاها.",
+  "الإخلاص وقوة التوحيد سبب لتكفير الذنوب.",
+  "الإيمان يتفاضل بتفاضل ما في القلوب من الإخلاص، فبعض الناس قد يقول هذه الكلمة لكن يُعذَّب بقدر ذنوبه."
+ ],
+ "id": "hadeethenc-65033",
+ "language": "ar",
+ "narrator": null,
+ "reference": "سنن الترمذي (4/ 379) (2639)، سنن ابن ماجه (5/ 356) (4300)، شرح المصابيح (6/49)، مرقاة المفاتيح (8/3531)، تحفة الأحوذي (7/ 330).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=65033",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:34+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/65033"
+ },
+ "source_categories": [
+  {
+   "id": "63",
+   "label": "الإيمان باليوم الآخر"
+  },
+  {
+   "id": "271",
+   "label": "فضائل التوحيد"
+  }
+ ],
+ "source_record_id": "65033",
+ "text": "عَنْ عَبْدِ اللهِ بْنِ عَمْرِو بْنِ العَاصِ رضي الله عنهما قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِنَّ اللهَ سَيُخَلِّصُ رَجُلًا مِنْ أُمَّتِي عَلَى رُءُوسِ الْخَلَائِقِ يَوْمَ الْقِيَامَةِ، فَيَنْشُرُ عَلَيْهِ تِسْعَةً وَتِسْعِينَ سِجِلًّا، كُلُّ سِجِلٍّ مِثْلُ مَدِّ الْبَصَرِ، ثُمَّ يَقُولُ: أَتُنْكِرُ مِنْ هَذَا شَيْئًا؟ أَظَلَمَكَ كَتَبَتِي الْحَافِظُونَ؟ فَيَقُولُ: لَا يَا رَبِّ، فَيَقُولُ: أَفَلَكَ عُذْرٌ؟ فَيَقُولُ: لَا يَا رَبِّ، فَيَقُولُ: بَلَى إِنَّ لَكَ عِنْدَنَا حَسَنَةً، فَإِنَّهُ لَا ظُلْمَ عَلَيْكَ الْيَوْمَ، فَتُخْرَجُ بِطَاقَةٌ فِيهَا: أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ، فَيَقُولُ: احْضُرْ وَزْنَكَ، فَيَقُولُ: يَا رَبِّ مَا هَذِهِ الْبِطَاقَةُ مَعَ هَذِهِ السِّجِلَّاتِ؟ فَقَالَ: إِنَّكَ لَا تُظْلَمُ، قَالَ: فَتُوضَعُ السِّجِلَّاتُ فِي كِفَّةٍ، وَالْبِطَاقَةُ فِي كِفَّةٍ، فَطَاشَتِ السِّجِلَّاتُ، وَثَقُلَتِ الْبِطَاقَةُ، فَلَا يَثْقُلُ مَعَ اسْمِ اللهِ شَيْءٌ».",
+ "title": "إن الله سيخلص رجلا من أمتي على رءوس الخلائق يوم القيامة",
+ "topic": "belief",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=65033",
+   "arabic_match": "exact",
+   "attribution": "এটি তিরমিযী ও ইবনে মাজাহ বর্ণনা করেছেন।",
+   "content_sha256": "sha256:65e3e9a5d7cadb3d7f3a8f17e0382f26c5bc97aa7899d71f410d7acc764bc890",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম সংবাদ দিয়েছেন , আল্লাহ তা‘আলা তাঁর নবীর উম্মাতের মধ্য হতে এক ব্যক্তিকে বাছাই করে সমগ্র সৃষ্টির সামনে তাকে হিসাবের জন্য ডেকে নিবেন। তারপরে তার সামনে নিরানব্বইটি খাতা খুলবেন। এ খাতাগুলো হচ্ছে: দুনিয়াতে করা তার মন্দ কাজসমূহ। আর প্রতিটি খাতাই দৃষ্টির শেষ সীমা পর্যন্ত বিস্তৃত হবে। তারপরে আল্লাহ তা‘আলা এ লোকটিকে উদ্দেশ্য করে জিজ্ঞাসা করবেন: তুমি এ খাতাগুলোতে লেখা কোন অপরাধ অস্বীকার করতে পারবে? তোমার উপরে কী আমার সংরক্ষণকারী ও লিপিকার ফিরিশতারা কোন জুলুম করেছে? লোকটি তখন বলবে: হে আমার রব, না। তখন আল্লাহ তা‘আলা বলবেন: তোমার দুনিয়াতে এসব কাজ করার পেছনে এমন কোন ওযর আছে, যা দ্বারা ওযর পেশ করা যায়? যেমন: ভুলে যাওয়া, ভুল করা অথবা অজ্ঞতা। তখন সে বলবে: হে আমার রব, না। আমার এমন কোন ওযর নেই। তখন আল্লাহ তা‘আলা বলবেন: হ্যাঁ, নিশ্চয় আমাদের কাছে তোমার একটি ভালো কাজ সংরক্ষিত আছে। আর আজকে তোমার উপরে জুলুম করা হবে না। রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন: তখন আল্লাহ তা‘আলা একটি কার্ড বের করবেন, যেখানে লেখা থাকবে: أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ “আমি সাক্ষ্য দিচ্ছি যে, আল্লাহ ছাড়া কোন প্রকৃত মাবূদ নেই এবং আমি আরো সাক্ষ্য দিচ্ছি যে, মুহাম্মদ তাঁর বান্দা ও রাসূল।” তখন আল্লাহ তা‘আলা ঐ ব্যক্তিকে বলবেন: তোমার মীযানের কাছে উপস্থিত হও। তখন লোকটি আশ্চর্য হয়ে বলবে: হে আমার রব! এতগুলো খাতার তুলনায় এ কার্ডটির ওযন আর কতটুকু হবে? তখন আল্লাহ তা‘আলা বলবেন: তোমার উপরে কখনোই জুলুম করা হবে না। রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন: তারপরে মীযানের একটি পাল্লায় তার খাতাসমূহ রাখা হবে। আর কার্ডটি অপর পাল্লায় রাখা হবে। তখন যে পাল্লাতে উক্ত খাতাসমূহ থাকবে তা হালকা হয়ে যাবে। আর যে পাল্লাতে উক্ত কার্ডটি রাখা হবে, সেটি ভারী হয়ে যাবে। তখন আল্লাহ তাকে ক্ষমা করে দেবেন।",
+   "grade": "সহীহ",
+   "hints": [
+    "হাদীসে কালিমাতুত তাওহীদ “লা ইলাহা ইল্লাল্লাহ” তথা ‘আল্লাহ ছাড়া কোন প্রকৃত মাবূদ নেই’ এ কথার সাক্ষ্য দেওয়ার গুরুত্ব এবং মীযানের পাল্লায় এর ভারী হওয়ার বর্ণনার কথা বলা হয়েছে।\r",
+    "“লা ইলাহা ইল্লাল্লাহ”(আল্লাহ ছাড়া কোন প্রকৃত মাবূদ নেই) শুধুমাত্র মুখে এ  কালেমা বলা যথেষ্ট নয়; বরং আবশ্যক হচ্ছে, এর অর্থ সম্পর্কে জানা এবং তার দাবী অনুযায়ী আমল করা।\r",
+    "ইখলাস (একনিষ্ঠতা) ও তাওহীদের শক্তি গুনাহসমূহ ক্ষমা হওয়ার কারণ।\r",
+    "অন্তরে থাকা ইখলাসের ভিত্তিতে (মানুষের) ঈমানের তারতম্য হয়ে থাকে। সুতরাং কতিপয় মানুষ এ কালিমা মুখে বলবে; কিন্তু তাদের গুনাহের পরিমাণ অনুযায়ি তাদেরকে শাস্তি দেওয়া হবে।"
+   ],
+   "mapping": "same HadeethEnc record id 65033; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:29+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/65033",
+   "text": "আব্দুল্লাহ ইবনু ‘আমর ইবনুল ‘আস রাদিয়াল্লাহু ‘আনহুমা হতে বর্ণিত, তিনি বলেছেন: রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন: “আল্লাহ আমার উম্মাতের মধ্য হতে একজনকে কিয়ামাতের দিন সমগ্র সৃষ্টিজগতের সামনে উপস্থিত করবেন। তারপরে তার সামনে নিরানব্বইটি খাতা উপস্থাপন করবেন, প্রতিটি খাতা দৃষ্টির শেষ সীমা পর্যন্ত বিস্তৃত। তারপরে তিনি তাকে জিজ্ঞাসা করবেন: তুমি এ থেকে কোন একটিও কী অস্বীকার করবে? আমার সংরক্ষক ফিরিশতাগণ কী তোমার সাথে কোন জুলুম করেছে? ঐ ব্যক্তি বলবে: না, হে আমার রব! তখন আল্লাহ তা‘আলা জিজ্ঞাসা করবেন: তোমার কাছে কোন ওযর আছে? সে বলবে: না, হে আমার রব! তখন আল্লাহ বলবেন: আমাদের নিকটে তোমার একটি বিশেষ ভালো কাজ রয়েছে, সুতরাং তোমার উপরে আজকে একটুও জুলুম করা হবে না। তারপরে তিনি একটি কার্ড বের করবেন, যাতে থাকবে: أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ “আমি সাক্ষ্য দিচ্ছি যে, আল্লাহ ছাড়া কোন প্রকৃত মাবূদ নেই এবং আমি আরো সাক্ষ্য দিচ্ছি যে, মুহাম্মদ তাঁর বান্দা ও রাসূল।” অতপর বলা হবে: তোমার ওযন তথা পরিমাপকের কাছে উপস্থিত হও! তখন সে ব্যক্তি বলবে: এত বড় বড় খাতার সামনে এ কার্ডটি কী করতে পারবে? তখন তাকে বলা হবে: আজকে তোমার উপরে জুলুম করা হবে না। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন: তারপরে ঐ কার্ডটি এক পাল্লাতে রাখা হবে এবং ঐ সমস্ত খাতা আরেকটি পাল্লায় রাখা হবে। তখন সমস্ত খাতা হালকা হয়ে যাবে আর উক্ত কার্ডটি ভারী হয়ে যাবে। কারণ আল্লাহর নামের থেকে কোন কিছু ভারী হতে পারে না।”",
+   "title": "“আল্লাহ আমার উম্মাতের মধ্য হতে একজনকে কিয়ামাতের দিন সমগ্র সৃষ্টিজগতের সামনে উপস্থিত করবেন।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=65033",
+   "arabic_match": "exact",
+   "attribution": "Narrated by At-Tirmidhi and Ibn Mājah",
+   "content_sha256": "sha256:cb773f64a2013745c2825f31191e0553e1e8f22ac5d3f587cb1764aca543f809",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) reported that Allah will select a man from his Ummah before all the creation on the Day of Judgment. He will be summoned for reckoning. Ninety-nine scrolls, the records of his bad deeds which he did in worldly life will be presented to him, with each scroll being as long as the eye can see. Then, Allah Almighty will say to this the person: Do you deny any of what is written in these scrolls? Have My scribe angels wronged you? The person will say: No, O Lord. Then, Allah Almighty will say: Do you have an excuse that may be accepted regarding the deeds you did in worldly life, like doing them out of forgetfulness or ignorance or by mistake? The man will say: No, Lord, I have no excuse. Allah Almighty will say: Rather, you have a good deed with us, and you will not be wronged today. He said: He will bring out a card, in which it is written, I testify that there is no god but Allah and I testify that Muhammad is His servant and Messenger. Then, Allah Almighty will say to this man: Bring your scale. The man will say in wonder: O Lord, what weight can this card have next to these scrolls?! Allah Almighty will say: You will not be subject to injustice. He said: The scrolls will be put on one pan, and the card on the other pan. The pan of the scrolls will be light, and the pan of the card will be heavier, so Allah will forgive him.",
+   "grade": "Authentic",
+   "hints": [
+    "It shows the immense value of the testimony of faith \"there is no god but Allah\" and how it is heavy on the Scale.\r",
+    "It is not sufficient to merely say \"There is no god but Allah\" by the tongue; rather, one should know its meaning and act according to it.\r",
+    "Sincerity and strong monotheistic belief are a means for expiating sins.\r",
+    "Faith varies in level in accordance with the varying degrees of sincerity in people's hearts. Some people may utter this testimony, yet they will be punished in proportion to their sins."
+   ],
+   "mapping": "same HadeethEnc record id 65033; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:29+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/65033",
+   "text": "‘Abdullāh ibn ‘Amr ibn al-‘Ās (may Allah be pleased with him) reported: The Messenger of Allah (may Allah’s peace and blessings be upon him) said: \"Indeed, Allah will distinguish a man from my Ummah before all of creation on the Day of Judgment. Ninety-nine scrolls will be laid out for him; each scroll will be as far as the eye can see. Then, He will say: 'Do you deny any of this? Have those who recorded this wronged you?' He will say: 'No, O Lord!' He will say: 'Do you have an excuse?' He will say: 'No, O Lord!' So, He will say: 'Rather you have a good deed with us; so, you will not be wronged today.' Then, He will bring out a card, in which it is written: 'I testify that there is no god but Allah and I testify that Muhammad is His servant and Messenger.' He will say: 'Bring your scale.' He will say: 'O Lord, what good is this card next to these scrolls?' He will say: 'You will not be wronged.' The scrolls will be put on a pan (of the scale), and the card on (the other) pan. The scrolls will be light, and the card will be heavy, for nothing is heavier than the name of Allah.\"",
+   "title": "Indeed, Allah will distinguish a man from my Ummah before all of creation on the Day of Judgment",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=65033",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par At-Tirmidhî et Ibn Mâjah",
+   "content_sha256": "sha256:450edff79bdbe24ba4c9f5160bb0897dd8da4e83de0f38688650f271d1bb71a2",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve)  nous informe qu'au Jour de la Résurrection Allah choisira un homme de sa communauté devant l'ensemble des créatures. Il l'appellera afin de le juger. On lui présentera alors quatre-vingt-dix-neuf registres qui seront les feuillets de ses mauvaises actions commises ici-bas. La longueur de chaque registre s'étendra à perte de vue. Ensuite, Allah, à Lui la Puissance et la Grandeur, demandera à cet homme : \"Nies-tu quoi que ce soit que tu trouves d'écrit dans ces registres ? Mes Anges, les gardiens scribes, ont-ils été injustes envers toi ?\" L'homme répondra alors : \"Non, Ô Seigneur !\" Allah, à Lui la Puissance et la Grandeur, demandera alors : \"As-tu une excuse que tu puisses présenter concernant ce que tu as avancé comme œuvres ici-bas ? Qu'il s'agisse d'un oubli, d'une erreur, ou d'une chose que tu ignorais ?\" L'homme répondra : \"Non, ô Seigneur ! Je n'ai aucune excuse.\" Allah, à Lui la Puissance et la Grandeur, dira : \"Plutôt si ! Tu as certes une bonne action auprès de Nous. Et aujourd'hui, aucune injustice ne te sera faite !\" [Celui qui rapporte le récit] a dit : « On sortira alors une carte sur laquelle il sera écrit : \"J’atteste qu’il n’est de divinité [digne d’adoration] qu'Allah et j’atteste que Mouḥammad est Son serviteur et Son Messager\". Allah, à Lui la Puissance et la Grandeur, dira alors à cet homme : \"Présente-toi à ta Balance !\" L'homme dira, étonné : \"Ô Seigneur ! Que peut peser cette carte vis-à-vis de ces registres !?\" Mais Allah, à Lui la Puissance et la Grandeur, dira : \"Tu ne subiras aucune injustice !\" [Celui qui rapporte le récit] a dit : « On posera alors les registres sur l'un des plateaux de la Balance et la carte sur l'autre. Le plateau des registres se soulèvera ; puis, celui de la carte aussi, le plateau de la carte deviendra alors plus lourd, et Allah lui pardonnera. »",
+   "grade": "Authentique",
+   "hints": [
+    "La grandeur de la parole de l'Unicité : l'attestation qu'il n'est de divinité [digne d'adoration] qu'Allah, et sa lourdeur dans la Balance.\r",
+    "Il ne suffit pas de dire : \"Il n'est de divinité [digne d'adoration] qu'Allah\" en se contentant de le formuler avec la langue, il faut plutôt en connaitre sa signification et œuvrer en fonction de ce qu'elle implique.\r",
+    "La sincérité et la force de l'Unicité sont des causes d'expiation des péchés.\r",
+    "La foi est différente en fonction de la différence de sincérité des cœurs. Certaines personnes peuvent dire cette parole mais aussi être châtiées à la hauteur de leurs péchés."
+   ],
+   "mapping": "same HadeethEnc record id 65033; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:30+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/65033",
+   "text": "'Abdoullah ibn 'Amr ibn Al-'Âṣ (qu'Allah l'agrée, lui et son père) relate que le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) a dit : « Allah sauvera certes un homme devant l'ensemble des créatures au Jour de la Résurrection, Il déploiera devant lui quatre-vingt-dix-neuf registres, chaque registre s’étendant à perte de vue, puis, Il lui demandera : \"Nies-tu quoi que ce soit de cela ? Mes scribes gardiens ont-ils été injustes envers toi ? - Il répondra : Non, ô Seigneur ! - Allah lui demandera alors : As-tu une excuse [ou une bonne action] ? - La personne répondra : Non, ô Seigneur ! - Allah dira alors : - Plutôt si ! Certes, auprès de Nous, tu as une bonne action ! Et aujourd’hui, aucune injustice ne te sera faite !\" On sortira alors une carte sur laquelle se trouvera : \"J’atteste qu’il n’est de divinité [digne d’adoration] qu'Allah et j’atteste que Mouḥammad est Son serviteur et Son Messager.\" Allah dira : \"Amenez-la et pesez-la ! - L’homme dira : Ô Seigneur ! Que représente cette carte face à tous ces registres ? - Allah dira alors : Certes, tu ne subiras aucune injustice !\" On posera alors les registres sur l'un des plateaux [de la Balance] et la carte sur l’autre plateau. Les registres se soulèveront, mais la carte pèsera plus lourd. Car rien ne pèse plus lourd que le Nom d’Allah. »",
+   "title": "Allah sauvera certes un homme devant l'ensemble des créatures au Jour de la Résurrection",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=65033",
+   "arabic_match": "exact",
+   "attribution": "HR. Tirmizi dan Ibnu Majah",
+   "content_sha256": "sha256:5d328d533e21dd7387c4f840ed89cbe7014ea8497d09ff5c90772dd9227245b8",
+   "explanation": "Nabi ﷺ mengabarkan, bahwa Allah memilih satu orang di antara umat beliau di hadapan semua makhluk pada hari kiamat; dia dipanggil untuk dihisab. Maka dipaparkan padanya 99 buku catatan yang merupakan catatan amal buruk yang dikerjakannya di dunia, panjang setiap catatan sama seperti sejauh mata memandang. Kemudian Allah ﷻ bertanya kepada laki-laki tersebut: Adakah yang engkau ingkari di antara yang tertulis di catatan-catatan ini? Apakah engkau dizalimi oleh malaikat-malaikat-Ku yang ditugaskan menjaga dan mencatat? Laki-laki tersebut menjawab: Tidak, ya Tuhanku. Lalu Allah ﷻ bertanya lagi: Apakah kamu memiliki uzur untuk dimaafkan terkait amal perbuatan yang telah kamu lakukan di dunia? Berupa lupa, tidak sengaja, atau tidak tahu. Laki-laki tersebut menjawab: Tidak, ya Tuhanku; aku tidak memiliki uzur. Allah ﷻ berfirman: Tetapi, sebaliknya engkau memiliki satu kebaikan di sisi Kami, dan engkau tidak akan dizalimi pada hari ini. Nabi melanjutkan, lalu dikeluarkan sebuah kartu berisi tulisan \"asyhadu allā ilāha illallāh wa asyhadu anna Muḥammadan 'abduhū wa rasūluh\" (Aku bersaksi tidak ada Tuhan yang berhak disembah kecuali Allah, dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya). Kemudian Allah ﷻ berfirman kepada laki-laki itu: Hadirkanlah timbanganmu. Laki-laki tersebut berkata penuh heran: Ya Tuhanku, apalah arti kartu ini bersama catatan-catatan itu?! Allah ﷻ berfirman: Engkau tidak akan dizalimi. Nabi ﷺ menjelaskan: Lalu catatan-catatan itu diletakkan di satu sisi timbangan, sedangkan kartu di sisi timbangan lainnya. Ternyata sisi timbangan yang berisi catatan-catatan menjadi ringan, sedangkan sisi timbangan yang berisi kartu menjadi berat. Maka Allah mengampuninya.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Agung dan beratnya kalimat tauhid di timbangan, yaitu syahadat lā ilāha illallāh (Tidak ada Tuhan yang berhak disembah kecuali Allah).\r",
+    "2- Tidak cukup seseorang hanya mengucapkan lā ilāha illallāh di lisan saja, tetapi dia harus mengetahui maknanya dan mengamalkan kewajibannya.\r",
+    "3- Keikhlasan dan kekuatan tauhid menjadi sebab pengampunan dosa.\r",
+    "4- Iman bertingkat-tingkat mengikuti tingkatan ikhlas dalam hati, sehingga sebagian orang mungkin mengucapkan kata ini, namun dia tetap disiksa sesuai kadar dosanya."
+   ],
+   "mapping": "same HadeethEnc record id 65033; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:29+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/65033",
+   "text": "Abdullah bin 'Amr bin Al-'Āṣ -raḍiyallāhu 'anhumā- meriwayatkan, Rasulullah ﷺ bersabda, \"Sesungguhnya Allah akan mengeluarkan seorang laki-laki dari umatku di hadapan seluruh makhluk kelak hari kiamat, lalu Allah menebarkan 99 buku catatan, setiap catatan sejauh mata memandang, kemudian Allah bertanya, 'Adakah yang engkau ingkari sedikit pun? Apakah malaikat-malaikat-Ku yang bertugas mencatat dan menjaga telah menzalimimu?' Dia menjawab, 'Tidak, wahai Tuhanku.' Allah bertanya lagi, 'Apakah engkau memiliki uzur?' Dia menjawab, 'Tidak, wahai Tuhanku.'  Allah berfirman, 'Sebaliknya, di sisi Kami engkau memiliki satu kebaikan. Sungguh, tidak ada kezaliman atasmu hari ini.' Maka dikeluarkanlah satu kartu berisikan \"asyhadu allā ilāha illallāh wa asyhadu anna Muḥammadan 'abduhū wa rasūluh\". Allah berfiman, 'Hadirkanlah timbanganmu.' Dia berkata, 'Wahai Tuhanku, apalah arti kartu itu bersama catatan-catatan tersebut.' Allah berfirman, 'Engkau tidak akan dizalimi.' Lantas catatan-catatan itu diletakkan di satu sisi timbangan dan kartu itu di sisi timbangan lainnya. Ternyata catatan-catatan tersebut naik dan kartu itu yang berat. Tidak ada sesuatu yang lebih berat dari nama Allah.\"",
+   "title": "Sesungguhnya Allah akan mengeluarkan seorang laki-laki dari umatku di hadapan seluruh makhluk kelak hari kiamat",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=65033",
+   "arabic_match": "exact",
+   "attribution": "رواه الترمذي وابن ماجه",
+   "content_sha256": "sha256:bd2c847cf359c0a0bdc0bad3d10d43b5f6c5bb12dc01380b842408089cc123ca",
+   "explanation": "نبی صلی اللہ علیہ وسلم نے یہ بتایا ہے کہ اللہ تعالی قیامت کے دن ایک شخص کو منتخب کرکے تمام مخلوقات کے سامنے لائے گا۔ اسے دراصل حساب و کتاب کے لیے پکارا جائے گا۔ چناں چہ اللہ تعالی اس کے سامنے ننانوے دفتر پھیلا دے گا، جوکہ اس کی ان بد اعمالیوں کے صحیفے ہوں گے، جو وہ دنیا میں کیا کرتا تھا۔ ہر دفتر تا حد نگاہ پھیلا ہوگا۔ پھر اللہ عز وجل اس شخص سے کہے گا: کیا تم ان دفتروں میں تحریر کردہ کسی چیز کا انکار کرتے ہو؟ کیا میرے محافظ اور کاتب فرشتوں نے تمہارے اوپر ظلم کیا ہے؟ وہ شخص جواب دے گا: نہیں، اے میرے رب! ایسا نہیں ہے۔ اللہ عز وجل عرض فرمائے گا: کیا تمہارے پاس کوئی عذر ہے، جسے تم دنیا میں کیے ہوئے اپنے ان برے کاموں کے بدلے میں پیش کر سکو؟ مثلا یہ کہ یہ گناہ بھول چوک میں یا غلطی سے یا جہالت کی بنا پر انجام پاگئے۔ وہ شخص کہے گا: نہیں، اے میرے رب! میرے پاس کوئی عذر نہیں ہے۔ اللہ عز وجل فرمائے گا: (کوئی بات نہیں) ہمارے پاس تمہاری ایک نیکی ہے۔ آج کے دن تجھ پر کوئی ظلم و زیادتی نہیں ہوگی۔ اللہ کے نبی صلی اللہ علیہ و سلم نے فرمایا : پھر ایک پرچہ نکالا جائے گا جس میں لکھا ہوگا : میں گواہی دیتا ہوں کہ اللہ کے سوا کوئی معبود برحق نہیں اور یہ گواہی دیتا ہوں کہ محمد صلی اللہ علیہ و سلم اللہ کے بندے اور اس کے رسول ہیں۔ اس کے بعد اللہ عز وجل اس شخص سے کہے گا : جاؤ اپنے اعمال کے وزن کی جگہ پر حاضر ہو جاؤ۔ وہ شخص فرط تعجب سے کہے گا: اے میرے پروردگار! ان دفتروں کے سامنے اس پرچہ کی کیا حیثیت؟! اللہ عز وجل فرمائے گا: آج تمہارے اوپر کوئی ظلم وزیادتی نہیں ہوگی۔ اللہ کے نبی صلی اللہ علیہ و سلم نے فرمایا: چنانچہ تمام دفتروں کو ایک پلڑے میں رکھ دیا جائے گا اور اس پرچی کو دوسرے پلڑے میں۔ بالآخر وہ پلڑا اوپر اٹھ جائے گا، جس میں سارے دفتر ہوں گے اور وہ پلڑا جھک جائے گا، جس میں وہ پرچی رکھی ہوگی۔ اس طرح اللہ تعالی اس شخص کو اپنی مغفرت سے نوازے گا۔",
+   "grade": "صحيح",
+   "hints": [
+    "اس حدیث سے کلمۂ توحید (شہادۃ إلا إلہ إلا اللہ) کی عظمت معلوم ہوتی ہے اور پتہ چلتا ہے کہ ترازو میں وہ کس قدر وزنی ہوگا۔\r",
+    "صرف زبان سے لا الہ الا اللہ کہنا کافی نہیں ہے، بلکہ اس کے معانی کو جاننا اور اس کے تقاضوں پر عمل کرنا بھی ضروری ہے۔\r",
+    "اخلاص اور توحید کی قوت گناہوں کی معافی کا ذریعہ ہے۔\r",
+    "دلوں میں جس قدر اخلاص ہوتا ہے، اسی کے مطابق ایمان میں کمی اور بیشی ہوتی رہتی ہے۔ چنانچہ کچھ لوگ اس کلمہ کا اقرار تو کرتے ہیں، لیکن ان کے گناہوں کے بقدر انہیں عذاب بھی دیا جائے گا۔"
+   ],
+   "mapping": "same HadeethEnc record id 65033; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:29+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/65033",
+   "text": "عبد اللہ بن عمرو بن العاص رضی اللہ عنہما سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: \"اللہ تعالیٰ قیامت کے دن میری امت کے ایک شخص کو چھانٹ کر نکالے گا اور سارے لوگوں کے سامنے لائے گا  اور اس کے سامنے (اس کے گناہوں کے) ننانوے دفتر پھیلا دیے جائیں گے۔ ہر دفتر حد نگاہ تک ہوگا۔ پھر اللہ عزوجل پوچھے گا: کیا تو اس میں سے کسی چیز کا انکار کرتا ہے؟ کیا تم پر میرے محافظ کاتبوں  نے ظلم کیا ہے؟ وہ کہے گا: نہیں اے میرے رب! پھر اللہ کہے گا: کیا تیرے پاس کوئی عذر ہے؟ وہ کہے گا: نہیں، اے میرے رب! اللہ کہے گا (کوئی بات نہیں) تیری ایک نیکی ہمارے پاس ہے۔ آج کے دن تجھ پرکوئی ظلم نہ ہوگا۔ پھر ایک پرچہ نکالا جائے گا جس پر \"أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ\" لکھا ہوگا۔ اللہ فرمائے گا: جاؤ اپنے اعمال کے وزن کے موقع پر موجود رہو۔ وہ کہے گا: اے میرے رب! ان دفتروں کے سامنے یہ پرچہ کیا حیثیت رکھتا ہے؟ اللہ فرمائے گا: تمہارے ساتھ زیادتی نہ ہوگی۔ آپ صلی اللہ علیہ وسلم نے فرمایا: پھر وہ تمام دفتر (رجسٹر) ایک پلڑے میں رکھ دیے جائیں گے اور وہ پرچہ دوسرے پلڑے میں۔ پھر وہ سارے دفتر ہلکے ثابت ہوں گے اور پرچہ بھاری۔ اللہ کے نام کے ساتھ (یعنی اس کے مقابلہ میں) جب کوئی چیز تولی جائے گی، تو وہ چیز اس سے بھاری ثابت نہیں ہوسکتی\"۔",
+   "title": "اللہ تعالیٰ قیامت کے دن میری امت کے ایک شخص کو چھانٹ کر نکالے گا اور سارے لوگوں کے سامنے لائے گا",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=65033",
+   "arabic_match": "exact",
+   "attribution": "提尔米兹和伊本·马哲辑录",
+   "content_sha256": "sha256:fc965e2c8a91ea551975b4af0abed62b05bcef2b96eaf7e2cebd9dbb7aa7f051",
+   "explanation": "先知（愿主福安之）告诉我们，在复生日，安拉将他的民族中的一人带离了众生，他被带去清算，然后有九十九本册子被呈现在他面前，这些都是他的罪行录，每个册本的大小是目之所及的地方， 然后崇高荣耀的安拉对他说，这些册本所记录的罪行你可有否认？ 我的记录员可有亏枉你？ 此人说：“主啊！没有”。 崇高荣耀的安拉说：对于你在今世所犯的这些罪行，你可有辩解？比如：疏忽、错犯或无知而为。 此人说：“主啊！没有任何辩解”。 崇高荣耀的安拉说：不，我这里有你的一件善功，今天你不会受到亏待。 他（使者）说：然后有人拿出一张卡片，上面写着：我作证：没有真应受拜的主，唯有安拉，我作证：穆罕默德是安拉的仆人和使者。 崇高荣耀的安拉对此人说：拿取称量吧！ 此人惊奇的说道：仅一张卡片之重量如何抵得过如此之多的罪行册本？！ 崇高荣耀的安拉说：你绝不会受到亏待。 他（使者）说：这些罪行册本被放进一个秤盘，该卡片被放进一个秤盘，该卡片之重量远超过那些册本，然后安拉便饶恕了他。",
+   "grade": "正确的",
+   "hints": [
+    "认主独一言词之重大：作证没有真应受拜的主，唯有安拉。其重量超过万物。\r",
+    "仅口诵“没有真应受拜的主，唯有安拉”这句话是不够的，还务必要知晓它的意义，遵行它的要求。\r",
+    "虔诚和认主独一之重量是罚赎罪行的因素。\r",
+    "信仰因人们内心虔诚之程度而互有高低，有些人也许尽管说过该句话，但他还是受到相应的罪行之惩罚。"
+   ],
+   "mapping": "same HadeethEnc record id 65033; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:29+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/65033",
+   "text": "据阿卜杜拉·本·阿穆尔·本·阿遂（愿主喜悦他俩）传述说：安拉的使者（愿主福安之）说： 复生日，安拉将我族中的一人带离众生，然后给了他九十九本册子，每个册子之大小是目之所及的地方，随后安拉问道：“你可认罪？我的记录员可有亏枉你？”他说：“主啊！没有亏枉我。”安拉说：“你可有辩解？”他说：“主啊！没有。”安拉说：“不，我这里有你的一件善功，今天你不会受到亏待。”随后有人拿出一张卡片，上面写着：“我作证，没有真应受拜的主，唯有安拉；我作证，穆罕默德是他的仆人和使者。”安拉说：“拿去称量吧！”他说：“主啊！仅一张卡片怎能与如此多的罪行册本相比？”安拉说：“你不会受到亏待的。”他（使者）说：“这些罪行册本被放进一个秤盘，该卡片被放进一个秤盘，瞬间这些罪行册本被该卡片压了下去，因为任何物都不会重于安拉之尊名。”",
+   "title": "复生日，安拉将我族中的一人带离众生",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

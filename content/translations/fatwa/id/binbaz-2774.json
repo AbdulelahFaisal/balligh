@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2774",
+ "source_content_sha256": "sha256:1090ab0e4652540b7dd325e02f61896872db697b6a5bdbfc2a126cc3279fc8fa",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:23:57.206870+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 520,
+  "completion_tokens": 389,
+  "total_tokens": 909,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 520
+ },
+ "latency_ms": 4317,
+ "units": [
+  {
+   "id": "title",
+   "text": "Hukum orang yang tertidur dari shalat Subuh hingga keluar waktunya"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Saya tertidur dari shalat Subuh dan tidak bangun kecuali pada waktu dhuha. Apakah boleh saya mengerjakannya ketika bangun, atau saya kerjakan pada waktunya?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Apabila seseorang tertidur dari suatu shalat, kemudian bangun, maka ia mengerjakannya saat ia bangun beserta shalat sunnahnya, berdasarkan sabda Nabi ﷺ: \"Barangsiapa tertidur dari shalat atau lupa, maka hendaklah ia shalat ketika ingat, tidak ada tebusan baginya kecuali itu.\""
+  },
+  {
+   "id": "a2",
+   "text": "Dan ketika Nabi ﷺ tertidur dalam sebagian peperangannya dan sebagian perjalanannya dari shalat Subuh, mereka tidak bangun kecuali setelah matahari terbit; beliau -'alaihi ash-shalatu was-salam- bangun, memerintahkan Bilal lalu ia mengumandangkan azan, mereka berwudhu untuk shalat, lalu shalat sunnahnya, kemudian iqamah, dan beliau mengerjakannya sebagaimana beliau mengerjakannya pada waktunya -'alaihi ash-shalatu was-salam-."
+  }
+ ]
+}

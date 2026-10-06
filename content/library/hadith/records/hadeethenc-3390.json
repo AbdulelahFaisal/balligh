@@ -1,0 +1,184 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:3034c6e5416a151b75e001e82081c7f7d06112fd6fd2f1a8ffe4a8a03c07db21",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "لما أَرسلَ النبيُّ صلى الله عليه وسلم معاذَ بن جبل رضي الله عنه إلى بلاد اليمن داعيًا إلى الله ومُعلِّمًا، بَيَّنَ له أنه سيواجه قومًا من النصارى؛ ليكون على استعداد لهم، ثم ليبدأ في دعوتهم بالأهم فالأهم، فيدعوهم إلى إصلاح العقيدة أولًا؛ بأن يشهدوا أن لا إله إلا الله، وأن محمدا رسول الله؛ لأنهم بها يدخلون الإسلام، فإذا انقادوا لذلك أمرهم بإقام الصلاة؛ لأنها أعظم الواجبات بعد التوحيد، فإذا أقاموها أمر أغنياءهم بدفع زكاة أموالهم إلى فقرائهم.\n\nثم حذّره من أخذ أفضل المال؛ لأن الواجب الوسط.\n\nثم أوصاه باجتناب الظلم؛ لئلا يدعو عليه المظلوم، فإن دعوته مستجابة.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "معنى شهادة أن لا إله إلا الله هو إفراد الله بالعبادة، وترك عبادة ما سواه.",
+  "معنى شهادة أن محمدًا رسول الله هو الإيمان به وبما جاء به وتصديقه وأنه آخر رسل الله إلى البشرية.",
+  "مخاطبة العالِم ومَن لديه شُبهات ليست كمخاطبة الجاهل؛ لذا نَبَّه معاذًا بقوله: \"إنك تأتي قومًا أهل كتاب\".",
+  "أهمية أن يكون المسلم على بصيرة من دينه؛ ليَتَخلَّص من شُبهات المشبِّهين، وذلك بطلب العلم.",
+  "بطلان دين اليهود والنصارى بعد بعثة الرسول صلى الله عليه وسلم، وأنهم ليسوا من أهل النجاة يوم القيامة حتى يدخلوا في دين الإسلام، ويؤمنوا بالنبي صلى الله عليه وسلم."
+ ],
+ "id": "hadeethenc-3390",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (2/ 119) (1458)، (2/ 128) (1496)، (9/ 114) (7372).\nصحيح مسلم (1/ 50) (19).\nفتح الباري لابن حجر (13/ 349).\nالملخص في شرح كتاب التوحيد، لصالح فوزان (ص54).\nالجديد في شرح كتاب التوحيد، لمحمد القرعاوي (ص64).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3390",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:29+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3390"
+ },
+ "source_categories": [
+  {
+   "id": "88",
+   "label": "الإسلام"
+  }
+ ],
+ "source_record_id": "3390",
+ "text": "عَنِ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ لِمُعَاذِ بْنِ جَبَلٍ، حِينَ بَعَثَهُ إِلَى الْيَمَنِ: «إِنَّكَ سَتَأْتِي قَوْمًا أَهْلَ كِتَابٍ، فَإِذَا جِئْتَهُمْ فَادْعُهُمْ إِلَى أَنْ يَشْهَدُوا أَنْ لَا إِلَهَ إِلَّا اللهُ، وَأَنَّ مُحَمَّدًا رَسُولُ اللهِ، فَإِنْ هُمْ أَطَاعُوا لَكَ بِذَلِكَ، فَأَخْبِرْهُمْ أَنَّ اللهَ قَدْ فَرَضَ عَلَيْهِمْ خَمْسَ صَلَوَاتٍ فِي كُلِّ يَوْمٍ وَلَيْلَةٍ، فَإِنْ هُمْ أَطَاعُوا لَكَ بِذَلِكَ، فَأَخْبِرْهُمْ أَنَّ اللهَ قَدْ فَرَضَ عَلَيْهِمْ صَدَقَةً تُؤْخَذُ مِنْ أَغْنِيَائِهِمْ فَتُرَدُّ عَلَى فُقَرَائِهِمْ، فَإِنْ هُمْ أَطَاعُوا لَكَ بِذَلِكَ، فَإِيَّاكَ وَكَرَائِمَ أَمْوَالِهِمْ، وَاتَّقِ دَعْوَةَ الْمَظْلُومِ، فَإِنَّهُ لَيْسَ بَيْنَهُ وَبَيْنَ اللهِ حِجَابٌ».",
+ "title": "إنك ستأتي قوما أهل كتاب، فإذا جئتهم فادعهم إلى أن يشهدوا أن لا إله إلا الله، وأن محمدا رسول الله",
+ "topic": "understanding_islam",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3390",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:5bef3b4df463f8af60ed3e00a2c00b1657e18ac5d28e965f4f7031ccc24f4c53",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম যখন মু‘আয ইবনু জাবাল রাদিয়াল্লাহু ‘আনহুকে ইয়ামেনে আল্লাহর পথে একজন দাওয়াত দানকারী ও শিক্ষক হিসেবে প্রেরণ করেন তখন তিনি তাকে বর্ণনা দেন যে, তিনি অচিরেই সেখানকার খৃস্টান সম্প্রদায়ের  সম্মুখীন হবেন। যাতে তিনি তাদের ব্যাপারে প্রস্তুতি নিতে পারেন। অতপর তিনি সর্বাধিক গুরুত্বপূর্ণ বিষয়গুলো শ্রেণীক্রমে বর্ণনা করেন। তিনি সর্বপ্রথম তাদের কে  আক্বীদা সংশোধনের দাওয়াত দিবেন। তারা এ কথার সাক্ষ্য দিবে যে, আল্লাহ ব্যতীত প্রকৃত কোন মাবূদ নেই এবং মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আল্লাহর রাসূল। কেননা তারা এ কথার সাক্ষ্য দিয়ে ইসলামে প্রবেশ করবে। তারা যখন এ সাক্ষ্য মেনে নিবে তখন তাদেরকে সালাত কায়েমের আদেশ দিবে। কেননা তাওহীদের পরে সালাত হলো সর্বাধিক গুরুত্বপূর্ণ আবশ্যকীয় ইবাদত। তারা যদি সালাত কায়েম করে তবে তাদেরকে তাদের সম্পদের যাকাত তাদের মধ্যকার দরিদ্র মানুষেকে দেওয়ার আদেশ দিবে। অতপর তিনি তাকে তাদের সর্বোত্তম সম্পদ যাকাত হিসেবে গ্রহণ করতে সতর্ক করেন। কেননা ওয়াজিব হলো মধ্যম মানের সম্পদ যাকাত দিবে। অতপর তিনি তাকে যুলুম থেকে বিরত থাকতে অসিয়াত করেন। যাতে মাযলুম ব্যক্তি তার বিরুদ্ধে বদদু‘আ না করে। কেননা, তার (বদদু‘আ) আল্লাহর কাছে গ্রহণযোগ্য।",
+   "grade": "সহীহ",
+   "hints": [
+    "“আল্লাহ ব্যতীত প্রকৃত কোন মাবূদ নেই’ এ কথার সাক্ষ্য দেওয়ার অর্থ  হলো আল্লাহকে ইবাদতের ক্ষেত্রে এক ও অদ্বিতীয় হিসেবে মানা এবং তিনি ব্যতীত অন্য সকলের ইবাদত ত্যাগ করা।\r",
+    "‘এবং মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আল্লাহর রাসূল’ এ কথার সাক্ষ্য দেওয়ার অর্থ হলো তাঁর প্রতি এবং তিনি যা কিছু নিয়ে এসেছেন সেগুলোর প্রতি ঈমান আনা। তাকে সত্য বলে স্বীকার করা। তিনি মানব জাতির কাছে আল্লাহর প্রেরিত সর্বশেষ নবী এ কথা বিশ্নাস করা।\r",
+    "আলেম এবং আলেমের  সমতুল্যদের সাথে   সম্বোধন  জাহেলের সম্বোধনের মতো নয়; এ কারণে রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম মু‘আয রাদিয়াল্লাহু ‘আনহুকে বলেছেন: “তুমি আহলে কিতাবের কাছে যাচ্ছ।”\r",
+    "মুসলিম তার দ্বীনের ব্যাপারে সদা বিচক্ষণ থাকার গুরুত্ব দেওয়া হয়েছে; যাতে সন্দেহ পোষণকারীদের সন্দেহ থেকে মুক্ত থাকতে পারে। আর তা অর্জিত হয় ইলেম অন্বেষণের মাধ্যমে।\r",
+    "রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের নবুয়াত প্রাপ্তির পরে ইয়াহুদি ও খৃস্টানদের ধর্ম বাতিল হওয়া প্রমাণিত। তারা কিয়ামতের দিন নাজাতপ্রাপ্ত নন; যতক্ষণ না তারা ইসলামে প্রবেশ করবে এবং নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের উপর ঈমান আনায়ন করবে।"
+   ],
+   "mapping": "same HadeethEnc record id 3390; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:03+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3390",
+   "text": "ইবনু ’আব্বাস রাদিয়াল্লাহু ‘আনহুমা থেকে বর্ণিত, তিনি বলেন: মু‘আয ইবনু জাবাল রাদিয়াল্লাহু ‘আনহুকে ইয়ামানের (শাসক নিয়োগ করে) পাঠানোর সময় রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাঁকে বলেছিলেনঃ “তুমি আহলে কিতাবের কাছে যাচ্ছ। কাজেই তাদের কাছে যখন পৌঁছবে তখন তাদেরকে এ কথার দিকে দাওয়াত দিবে- তারা যেন সাক্ষ্য দেয়, আল্লাহ ব্যতীত প্রকৃত কোন মাবূদ নেই এবং মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আল্লাহর রাসূল। যদি তারা তোমার এ কথা মেনে নেয় তবে তাদের বলবে, আল্লাহ তাদের উপর দিনে ও রাতে পাঁচ ওয়াক্ত সালাত ফরজ করেছেন। যদি তারা এ কথাও মেনে নেয় তবে তাদের বলবে, আল্লাহ তাদের উপর সাদাকা (যাকাত) ফরজ করেছেন- যা তাদের ধনীদের নিকট হতে গ্রহণ করা হবে এবং তাদের ফকীরদের মধ্যে বিতরণ করা হবে। তোমার এ কথা যদি তারা মেনে নেয়, তবে  তাদের উত্তম মাল গ্রহণ হতে বিরত থাকবে এবং মযলুমের বদদু‘আকে ভয় করবে। কেননা, তার (বদদু‘আ) এবং আল্লাহর মাঝে কোন পর্দা থাকে না।”",
+   "title": "তুমি আহলে কিতাবের কাছে যাচ্ছ। কাজেই তাদের কাছে যখন পৌঁছবে তখন তাদেরকে এ কথার দিকে দাওয়াত দিবে- তারা যেন সাক্ষ্য দেয়, আল্লাহ ব্যতীত প্রকৃত কোন মাবূদ নেই এবং মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আল্লাহর রাসূল",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3390",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:56d9bafd7c7fb0be1d7bc8ef06b20d8db35ca5a52d1f038dc5d8cbf8162bc6d0",
+   "explanation": "When the Prophet (may Allah's peace and blessings be upon him) sent Mu‘ādh ibn Jabal (may Allah be pleased with him) to Yemen to call its people to Allah and teach them, he clarified to him that he would meet Christian people and that he should first call them to what is more important and then to what is less important, and so on. He should first call them to reform their creed by testifying that none is worthy of worship except Allah and that Muhammad is the Messenger of Allah. This is because they enter Islam with this testimony. If they complied with that, he should then enjoin them to establish the prayer, for it is the most important obligation after the testimony of Tawhīd (monotheistic belief). If they established the prayer, he should then order the rich amongst them to pay Zakah on their property to the poor amongst them. Thereafter, the Prophet (may Allah's peace and blessings be upon him) warned him not to take their best property; instead, it is required to adopt a moderate approach in this regard. Then, he (may Allah's peace and blessings be upon him) instructed him to avoid oppression, lest an oppressed person might supplicate to Allah against him, as his supplication is readily answered.",
+   "grade": "Authentic",
+   "hints": [
+    "The testimony that none is worthy of worship except Allah means that we should devote worship to Allah Almighty alone and shun the worship of all other things.\r",
+    "The testimony that Muhammad is the Messenger of Allah means to have faith in him and what he came with, to believe in him, and to believe that he is the last Messenger sent by Allah to all humankind.\r",
+    "Speaking to a knowledgeable person or someone with certain misconceptions differs from speaking to an ignorant one. Hence, the Prophet (may Allah's peace and blessings be upon him) alerted Mu‘ādh with his words: \"You will come to a people of the Scripture.\"\r",
+    "It is important for a Muslim to have proper knowledge of his religion to get rid of the misconceptions of those who raise them.\r",
+    "It demonstrates the invalidity of the religion of the Jews and the Christians after the mission of Prophet Muhammad (may Allah's peace and blessings be upon him) and that they are not among the people who will attain salvation on the Day of Judgment unless they enter the religion of Islam and believe in the Prophet (may Allah's peace and blessings be upon him)."
+   ],
+   "mapping": "same HadeethEnc record id 3390; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:03+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3390",
+   "text": "Ibn ‘Abbās (may Allah be pleased with him) reported: The Messenger of Allah (may Allah’s peace and blessings be upon him) said to Mu‘ādh ibn Jabal as he was sending him to Yemen: \"You will come to a people of the Scripture. When you reach them, invite them to testify that none is worthy of worship except Allah and that Muhammad is the Messenger of Allah. If they obey you in that, tell them that Allah has enjoined on them five prayers every day and night. If they obey you in that, tell them that Allah has enjoined Zakah on them, to be taken from the rich amongst them and given to the poor amongst them. If they obey you in that, beware of taking their best properties; and fear the invocation of an oppressed person, for there is no barrier between his invocation and Allah.”",
+   "title": "You will come to a people of the Scripture. When you reach them, invite them to testify that none is worthy of worship except Allah and that Muhammad is the Messenger of Allah",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=3390",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:f0f0a6e3aacc7cec6e5f056d8ac7df8606dd1feba2757a3b58208ce55bbf9d52",
+   "explanation": "Lorsque le Prophète (qu'Allah le couvre d'éloges et le préserve) envoya Mou'âdh ibn Jabal (qu'Allah l'agrée) au Yémen afin qu'il invite les gens à Allah et leur enseigne [l'Islam], il lui a expliqué qu'il allait être confronté à des chrétiens, afin qu'il soit prêt vis-à-vis d'eux, puis qu'il devrait commencer [sa prédication] par le plus important, Il doit avant tout les inviter à réformer leur croyance ; ceci, par le fait qu'ils attestent qu'il n'est de divinité [digne d'adoration] qu'Allah et que Mouḥammad est le Messager d'Allah, car c'est par cette attestation qu'ils entrent dans l'Islam. Une fois qu'ils ont accepté cela, il leur ordonne d'accomplir la prière car c'est la plus grande des obligations après le monothéisme. puis une fois qu'ils ont accompli la prière, il ordonne à leurs riches de s'acquitter d'un impôt légal purificateur de leurs biens en faveur de leurs pauvres. Ensuite, il l'a mis en garde contre le fait de prendre le meilleur de leurs biens, car l'obligation est le juste milieu. Enfin, il lui a recommandé de s'éloigner de l'injustice afin qu'un opprimé n'invoque pas contre lui ; en effet, son invocation est exaucée.",
+   "grade": "Authentique",
+   "hints": [
+    "Le sens de l'attestation : \"Il n'est de divinité [digne d'adoration] qu'Allah\" c'est de ne consacrer l'adoration qu'à Allah, Seul, et de délaisser l'adoration de qui ou quoi que ce soit d'autre que Lui.\r",
+    "Le sens de l'attestation : \"Mouḥammad est le Messager d'Allah\", c'est d'avoir foi en lui, en ce qu'il a apporté et de le déclarer véridique. En outre, c'est de déclarer qu'il est le dernier des Messagers d'Allah, envoyé à l'Humanité.\r",
+    "Le fait de s'adresser à celui qui sait et à celui qui a des ambiguïtés [dans la croyance] n'est pas comme s'adresser à l'ignorant ; c'est pourquoi, il a alerté Mou'âdh en lui disant : \"Tu vas certes te rendre chez des gens du Livre.\"\r",
+    "L'importance du fait que le musulman soit clairvoyant dans sa religion ; ceci, afin qu'il se débarrasse des ambiguïtés de quiconque lui en présente ; et cette aptitude s'acquiert par la recherche de la science.\r",
+    "La fausseté de la religion des juifs et des chrétiens après l'envoi du Messager (qu'Allah le couvre d'éloges et le préserve) et qu'ils ne feront pas partie des gens du salut au Jour de la Résurrection, jusqu'à ce qu'ils entrent dans la religion de l'Islam et qu'ils croient au Prophète (qu'Allah le couvre d'éloges et le préserve)."
+   ],
+   "mapping": "same HadeethEnc record id 3390; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:03+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/3390",
+   "text": "Ibn 'Abbâs (qu'Allah l'agrée, lui et son père) relate : Le Messager d’Allah (qu'Allah le couvre d'éloges et le préserve) a dit à Mou'âdh ibn Jabal (qu'Allah l'agrée), lorsqu'il l'a envoyé au Yémen : « Tu vas certes te rendre chez des gens du Livre, lorsque tu arriveras auprès d'eux, invite-les à attester qu’il n’est de divinité [digne d'adoration] qu'Allah, et que Mouḥammad est le Messager d'Allah ; s’ils t'obéissent en cela, informe les qu’Allah leur a rendu obligatoire d'accomplir cinq prières, chaque jour et nuit ; s’ils t'obéissent en cela, informe les qu’Allah leur a rendu obligatoire une aumône prise de leurs riches et redistribuée à leurs pauvres ; s’ils t'obéissent en cela, garde toi de prendre leurs biens les plus précieux ; et redoute l’invocation de l’opprimé, car il n’y a pas de voile entre elle et Allah.",
+   "title": "Tu vas certes te rendre chez des gens du Livre, lorsque tu arriveras auprès d'eux, invite-les à attester qu’il n’est de divinité [digne d'adoration] qu'Allah, et que Mouḥammad est le Messager d'Allah",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3390",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:a335ed178a0f70be633d06c1ba8b91711e9b4583a0fa0e9427f2c9c6afe7c41b",
+   "explanation": "Ketika Nabi ﷺ mengutus Mu'āż bin Jabal -raḍiyallāhu 'anhu- ke negeri Yaman untuk berdakwah dan mengajarkan agama Allah, beliau menjelaskan kepadanya bahwa dia akan menghadapi kaum Nasrani, supaya dia benar-benar siap menghadapi mereka dan memulai dakwahnya kepada mereka secara bertahap dari yang paling penting. Pertama kali agar dia mendakwahi mereka memperbaiki akidah, yaitu bersaksi bahwa tidak ada Tuhan yang hak kecuali Allah, dan Muhammad adalah utusan Allah, karena dengan kesaksian tersebut mereka telah masuk Islam. Kemudian, jika sudah mematuhinya dalam hal itu, mereka diperintahkan untuk menegakkan salat; karena ia merupakan kewajiban yang paling besar setelah tauhid. Apabila mereka telah menegakkan salat, maka orang-orang yang kaya di antara mereka diperintahkan untuk membayar zakat harta kepada orang-orang miskin. Kemudian beliau mengingatkannya jangan sampai mengambil harta yang paling bagus, karena yang diwajibkan ialah yang pertengahan. Kemudian beliau berpesan agar dia menjauhi perbuatan zalim; supaya terhindar dari doa buruk orang yang terzalimi, karena doanya mustajab.",
+   "grade": "Sahih",
+   "hints": [
+    "1. Makna syahadat lā ilāha illallāh yaitu mengesakan Allah dalam ibadah dan meninggalkan peribadatan kepada selain-Nya.\r",
+    "2. Makna syahadat Muḥammad rasūlullāh yaitu mengimani dan membenarkan beliau serta semua yang beliau bawa, dan meyakini bahwa beliau adalah utusan Allah yang paling terakhir kepada umat manusia.\r",
+    "3. Berbicara kepada orang berilmu dan orang yang memiliki syubhat tidak sama seperti berbicara kepada orang jahil, oleh karena itu Nabi ﷺ mengingatkan Mu'āż dalam sabda beliau, \"Sesungguhnya engkau akan mendatangi suatu kaum ahli kitab.\"\r",
+    "4. Urgensi seorang muslim memahami agamanya agar selamat dari syubhat para pengusung syubhat, yaitu dengan menimba ilmu.\r",
+    "5- Batalnya agama orang-orang Yahudi dan Nasrani setelah diutusnya Rasulullah ﷺ. Mereka tidak termasuk orang yang akan mendapatkan keselamatan kelak pada hari kiamat kecuali mereka masuk ke dalam agama Islam dan beriman kepada Nabi ﷺ."
+   ],
+   "mapping": "same HadeethEnc record id 3390; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:03+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3390",
+   "text": "Ibnu 'Abbās -raḍiyallāhu 'anhumā- meriwayatkan, ia berkata, Rasulullah ﷺ bersabda kepada Mu'āż bin Jabal ketika beliau mengutusnya ke Yaman, \"Sesungguhnya engkau akan mendatangi suatu kaum ahli kitab. Jika engkau telah sampai, maka ajaklah mereka agar bersyahadat (bersaksi) bahwa tiada Tuhan yang berhak diibadahi selain Allah, dan Muhammad adalah utusan Allah. Jika mereka menaatimu dalam hal itu, beritahukan kepada mereka bahwa Allah mewajibkan mereka untuk melakukan salat lima waktu sehari semalam. Jika mereka menaatimu dalam hal itu, beritahukan kepada mereka bahwa Allah mewajibkan mereka membayar zakat, yang diambil dari orang-orang kaya di antara mereka lalu dibagikan kepada orang-orang fakir mereka. Dan jika mereka menaatimu dalam hal itu, maka hindarilah harta-harta berharga mereka saat menarik zakat! Dan takutlah terhadap doa buruk (kutukan) orang-orang yang terzalimi, karena sesungguhnya tiada penghalang antara doa tersebut dan Allah.\"",
+   "title": "Sesungguhnya engkau akan mendatangi suatu kaum ahli kitab. Jika engkau telah sampai, maka ajaklah mereka agar bersyahadat (bersaksi) bahwa tiada Tuhan yang berhak diibadahi selain Allah, dan Muhammad adalah utusan Allah",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3390",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:14ea4b3b3245623ebb4c6bdf187673994128f36c67eabf5648387a7e5d0af539",
+   "explanation": "جب اللہ کے نبی صلی اللہ علیہ و سلم  نے معاذ بن جبل رضی اللہ عنہ کو داعی اور معلم کی حیثیت سے یمن کی جانب بھیجا، تو ان سے کہا کہ ان کو ایک عیسائی قوم کا سامنا کرنا ہے، تاکہ وہ اس کے لیے تیار رہيں اور اس کے بعد بتایا کہ ان کو دعوت کے کام کا آغاز کرتے وقت اہم ترین سے اہم کی طرف رخ کرنے کے قاعدے کا دھیان رکھنا چاہیے۔ چنانچہ سب سے پہلے عقیدے کی اصلاح کی دعوت دینی چاہیے یعنی اس بات کی گواہی کہ اللہ کے علاوہ کوئی سچا معبود نہيں ہے اور محمد صلی اللہ علیہ و سلم اللہ کے رسول ہیں۔ اسی گواہی کے ذریعے وہ اسلام میں داخل ہو سکتے ہیں۔ جب وہ یہ گواہی دے دیں، تو ان کو نماز قائم کرنے کا حکم دیں، کیوں کہ نماز توحید کے بعد سب سے بڑا فریضہ ہے۔ جب نماز قائم کر لیں، تو اس قوم کے مال داروں کو حکم دیں کہ اپنے فقیروں کو اپنے اموال کی زکاۃ دیں۔ اس کے بعد ان کو افضل ترین مال لینے سے منع کیا، کیوں کہ (زکاۃ میں) درمیانے قسم کا مال لینا ہی واجب ہوتا ہے۔ پھر ان کو ظلم سے بچنے کی وصیت کی، تاکہ مظلوم کی بد دعا کا شکار نہ ہونا پڑے، کیوں کہ مظلوم کی بد دعا قبولیت سے سرفراز ہو جاتی ہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "اللہ کے علاوہ کسی کے سچے معبود نہ ہونے کی گواہی دینے کے معنی ہیں: ہر قسم کی عبادت کو صرف اللہ کے لیے خاص کرنا اور اس کے علاوہ دوسروں کی عبادت کو مکمل چھوڑ دینا۔\r",
+    "محمد صلی اللہ علیہ و سلم کے اللہ کے رسول ہونے کی گواہی دینے کے معنی ہیں، ان پر اور ان کے لائے ہوئے پیغام پر ایمان لانا، ان کی تصدیق کرنا اور اس بات کو ماننا کہ وہ انسانوں کی جانب بھیجے جانے والے آخری رسول ہیں۔\r",
+    "علم رکھنے والے اور شبہات کے شکار شخص کو دعوت دینا جاہل کو دعوت دینے کی طرح نہیں ہے۔ یہی وجہ ہے کہ اللہ کے نبی صلی اللہ علیہ و سلم نے معاذ رضی اللہ عنہ کو تنبیہ کرتے ہوئے فرمایا : \"تم اہل کتاب کی ایک قوم کے پاس جا رہے ہو۔\"\r",
+    "اس بات کی اہمیت کہ ایک مسلمان کو اپنے دین کے سلسلے میں بصیرت کا حامل ہونا چاہیے، تاکہ شبہات پیدا کرنے والوں کے شبہات سے بچ سکے۔ اس کے لیے علم طلب کرنا ضروری ہے۔\r",
+    "اللہ کے رسول صلی اللہ علیہ و سلم کی بعثت کے بعد یہودیوں اور عیسائیوں کا دین باطل ہو گیا اور اپنے دین پر قائم رہتے ہوئے ان کو قیامت کے دن نجات نہیں مل سکتی۔ نجات پانے کے لیے اسلام میں داخل ہونا اور آخری نبی محمد صلی اللہ علیہ و سلم پر ایمان لانا ضروری ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 3390; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:03+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3390",
+   "text": "عبداللہ بن عباس رضی اللہ عنہما سے روایت ہے، وہ کہتے ہيں : رسول اللہ ﷺ نے جب معاذ رضی اللہ عنہ کو یمن کی طرف بھیجا تو ان سے فرمایا: \"تم اہلِ کتاب کی ایک قوم کے پاس جارہے ہو۔ تم انہیں سب سے پہلے اس بات کی طرف دعوت دینا کہ وہ گواہی دیں کہ اللہ کے سوا کوئی معبودِ برحق نہیں ہے اور محمد صلی اللہ علیہ و سلم اللہ کے رسول ہیں۔ اگر وہ تمہاری یہ بات مان لیں تو انہیں بتلانا کہ اللہ تعالی نے ان پر دن اور رات میں پانچ نمازیں فرض کی ہیں۔ اگر وہ تمہاری یہ بات بھی مان جائیں تو پھر انہیں بتلانا کہ اللہ تعالی نے ان پر زکوۃ فرض کی ہے، جو ان کے مال دار لوگوں سے لے کر انہی میں سے فقیر لوگوں میں تقسیم کی جائے گی۔ اگر وہ تمہاری یہ بات بھی مان جائیں تو ان کے عمدہ اور قیمتی اموال لینے سے پرہیز کرنا اور مظلوم کی بد دعا سے بچنا، کیوں کہ اس کے اور اللہ تعالی کے درمیان کوئی حجاب نہیں ہوتا\"۔",
+   "title": "تم اہلِ کتاب کی ایک قوم کے پاس جارہے ہو۔ تم انہیں سب سے پہلے اس بات کی طرف دعوت دینا کہ وہ گواہی دیں کہ اللہ کے سوا کوئی معبودِ برحق نہیں ہے اور محمد صلی اللہ علیہ و سلم اللہ کے رسول ہیں",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3390",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:4f2fd63c947461af150309c386b297a884cd480f1c338166187e3b696f17d1a0",
+   "explanation": "当先知（愿主福安之）派遣穆阿兹·本·哲百里前往也门，作为宣教员和导师时，他为其阐明他即将面临的是一些基督教徒，要为他们而有所准备。在向他们宣教时，当以最重要的是开始，然后依次进行宣传。 首先要宣讲改良他们的信仰，让他们见证：没有真应受拜的主，唯有安拉，穆罕默德是安拉的使者； 因为他们将以此进入伊斯兰，当他们对此表示服从时，便命令他们礼拜，因为它是认主独一之后最大的主命。 如果立行了拜功，便命令他们的富人，将他们财产的天课交付给他们的穷人，使者特别警告他不要拿取人们最喜爱的财物，因为义务就是取中。 然后嘱咐他不要压迫他人，以免受压迫者为他做不好的祈祷，因为这些人的祈祷是受到应答的。",
+   "grade": "正确的",
+   "hints": [
+    "见证词：“没有真应受拜的主”，其意义便是：崇拜独一的安拉，放弃崇拜其他任何物。\r",
+    "见证词：“穆罕默德是安拉的使者”，其意义是：归信他，并归信他所带来的一切，归信他是安拉派遣给人类的最后一位使者。\r",
+    "与学者或有学问的人对话，不像与无知的人对话。因此，使者提醒穆阿兹说：“的确你将去一伙有经之人”。\r",
+    "穆斯林明白自己的教门的重要性，如此可以摆脱蛊惑之人的蛊惑，这就要通过求学来实现。\r",
+    "当使者（愿主福安之）被派遣以后，基督教和犹太教均已被废止，复生日他们不属于获救之人，除非信仰伊斯兰，归信先知（愿主福安之）。"
+   ],
+   "mapping": "same HadeethEnc record id 3390; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:03+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3390",
+   "text": "据伊本·阿巴斯（愿主喜悦他俩）传述说： 安拉的使者（愿主福安之）派遣穆阿兹·本·哲百里去也门时对他说：“的确你即将到一伙有经之人那里，当你到了他们那里的时，就号召他们见证：没有真应受拜的主，唯有安拉，穆罕默德是安拉的使者。如果他们服从你时，你当告诉他们，安拉确已为他们制定了一天五时的拜功。如果他们服从时，你当告诉他们，安拉确已为他们制定了天课，取于他们中的富人，用于他们中的穷人。如果他们服从你时，你当谨记不要拿取他们最喜爱财物，当敬畏受压迫者的祈祷，因为它与安拉之间没有任何遮挡。”",
+   "title": "的确你即将到一伙有经之人那里，当你到了他们那里的时，就号召他们见证：没有真应受拜的主，唯有安拉，穆罕默德是安拉的使者",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

@@ -1,0 +1,2831 @@
+{
+ "ayah_count": 83,
+ "ayahs": [
+  {
+   "arabic": "يسٓ",
+   "aya": 1,
+   "id": 3706,
+   "tafsir": {
+    "arabic_moyassar": "{يس} سبق الكلام على الحروف المقطَّعة في أول سورة البقرة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "ইয়াসীন"
+    },
+    "en": {
+     "footnotes": "[1] See footnote 2:1.",
+     "text": "Yā Sīn[1]"
+    },
+    "fr": {
+     "footnotes": "[1] Voir note verset 1, sourate 2.",
+     "text": "Yâ-Sîn.[1]"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Yā Sīn"
+    },
+    "ur": {
+     "footnotes": "[1] بعض نے اس کے معنی یا رجل یا انسان کے کئے ہیں۔ بعض نے اسے نبی (صلى الله عليه وسلم) کے نام اور بعض نے اسے اللہ کے اسمائے حسنیٰ میں سے بتلایا ہے۔ لیکن یہ سب اقوال بلا دلیل ہیں۔ یہ بھی ان حروف مقطعات میں سے ہی ہے۔ جن کا معنی ومفہوم اللہ کے سوا کوئی نہیں جانتا۔",
+     "text": "یٰس.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "雅辛。"
+    }
+   }
+  },
+  {
+   "arabic": "وَٱلۡقُرۡءَانِ ٱلۡحَكِيمِ",
+   "aya": 2,
+   "id": 3707,
+   "tafsir": {
+    "arabic_moyassar": "يقسم الله تعالى بالقرآن المحكم بما فيه من الأحكام والحكم والحجج، إنك -أيها الرسول- لمن المرسلين بوحي الله إلى عباده، على طريق مستقيم معتدل، وهو الإسلام."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "প্রজ্ঞাময় কুরআনের শপথ।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "By the Qur’an, full of wisdom,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Par le Coran aux enseignements pleins de sagesse !"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Demi Al-Qur`an yang penuh hikmah,"
+    },
+    "ur": {
+     "footnotes": "[1] یا قرآن محکم کی، جو نظم ومعنی کے لحاظ سے محکم یعنی پختہ ہے۔ واو قسم کے لئے ہے۔ آگے جواب قسم ہے۔",
+     "text": "قسم ہے قرآن باحکمت کی.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "以智慧的《古兰经》发誓，"
+    }
+   }
+  },
+  {
+   "arabic": "إِنَّكَ لَمِنَ ٱلۡمُرۡسَلِينَ",
+   "aya": 3,
+   "id": 3708,
+   "tafsir": {
+    "arabic_moyassar": "يقسم الله تعالى بالقرآن المحكم بما فيه من الأحكام والحكم والحجج، إنك -أيها الرسول- لمن المرسلين بوحي الله إلى عباده، على طريق مستقيم معتدل، وهو الإسلام."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "হে রাসূল! নিশ্চয় তুমি রাসূলদের অন্তর্ভুক্ত।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "You [O Muhammad] are indeed one of the messengers,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Tu es assurément du nombre des Messagers,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "sungguh, engkau (Muhammad) adalah salah seorang dari rasul-rasul,"
+    },
+    "ur": {
+     "footnotes": "[1] مشرکین نبی کریم (صلى الله عليه وسلم) کی رسالت میں شک کرتے تھے، اس لئے آپ (صلى الله عليه وسلم) کی رسالت کا انکار کرتے اور کہتے تھے، لَسْتَ مُرْسَلا (الرعد: 43) ”تو تو پیغمبر ہی نہیں ہے“۔ اللہ نے ان کے جواب میں قرآن حکیم کی قسم کھا کر کہا کہ آپ (صلى الله عليه وسلم) یقیناً اس کے پیغمبروں میں سے ہیں۔ اس میں آپ (صلى الله عليه وسلم) کے شرف وفضل کا اظہار ہے۔ اللہ تعالیٰ نے کسی رسول کی رسالت کے لئے قسم نہیں کھائی یہ بھی آپ (صلى الله عليه وسلم) کے امتیازات اور خصائص میں سے ہے کہ اللہ تعالیٰ نے آپ (صلى الله عليه وسلم) کی رسالت کے اثبات کے لئے قسم کھائی۔",
+     "text": "کہ بے شک آپ پیغمبروں میں سے ہیں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你确是众使者之一，"
+    }
+   }
+  },
+  {
+   "arabic": "عَلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
+   "aya": 4,
+   "id": 3709,
+   "tafsir": {
+    "arabic_moyassar": "يقسم الله تعالى بالقرآن المحكم بما فيه من الأحكام والحكم والحجج، إنك -أيها الرسول- لمن المرسلين بوحي الله إلى عباده، على طريق مستقيم معتدل، وهو الإسلام."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "সরল-সঠিক পথের ওপর প্রতিষ্ঠিত।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "on a straight path,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "engagé sur une voie parfaitement droite,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(yang berada) di atas jalan yang lurus,"
+    },
+    "ur": {
+     "footnotes": "[1] یہ إِنَّكَ کی دوسری خبر ہے۔ یعنی آپ (صلى الله عليه وسلم) ان پیغمبروں کے راستے پر ہیں جو پہلے گزرچکے ہیں۔ یا ایسے راستے پر ہیں جو سیدھا اور مطلوب منزل (جنت) تک پہنچانے والا ہے۔",
+     "text": "سیدھے راستے پر ہیں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "〔你的确是〕在正路上〔被派遣的使者之一〕。"
+    }
+   }
+  },
+  {
+   "arabic": "تَنزِيلَ ٱلۡعَزِيزِ ٱلرَّحِيمِ",
+   "aya": 5,
+   "id": 3710,
+   "tafsir": {
+    "arabic_moyassar": "نزل الله هذا القرآن تنزيل العزيز في انتقامه من أهل الكفر والمعاصي، الرحيم بمن تاب من عباده وعمل صالحًا."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "এটি (আল কুরআন) প্রবল পরাক্রমশালী, পরম দয়ালু আল্লাহর পক্ষ থেকে অবতীর্ণ।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "[This is] a revelation from the All-Mighty, Most Merciful,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "qui t’est révélée par le Tout-Puissant, le Très Miséricordieux,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(sebagai wahyu) yang diturunkan oleh (Allah) Yang Mahaperkasa, Maha Penyayang,"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی اس اللہ کی طرف سے نازل کردہ ہے جو عزیز ہے یعنی اس کا انکار اور اس کے رسول کی تکذیب کرنے والے سے انتقام لینے پر قادر ہے رحیم ہے یعنی جو اس پر ایمان لائے گا اور اس کا بندہ بن کر رہے گا، اس کے لئے نہایت مہربان ہے۔",
+     "text": "یہ قرآن اللہ زبردست مہربان کی طرف سے نازل کیا گیا ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "万能至慈的主降示的，"
+    }
+   }
+  },
+  {
+   "arabic": "لِتُنذِرَ قَوۡمٗا مَّآ أُنذِرَ ءَابَآؤُهُمۡ فَهُمۡ غَٰفِلُونَ",
+   "aya": 6,
+   "id": 3711,
+   "tafsir": {
+    "arabic_moyassar": "أنزلناه عليك -أيها الرسول- لتحذر به قومًا لم يُنْذَرْ آباؤهم من قبلك، وهم العرب، فهؤلاء القوم ساهون عن الإيمان والاستقامة على العمل الصالح. وكل أمة ينقطع عنها الإنذار تقع في الغفلة، وفي هذا دليل على وجوب الدعوة والتذكير على العلماء بالله وشرعه; لإيقاظ المسلمين من غفلتهم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১) যাদেরকে সতর্ক করার জন্য কোন রাসূল আগমন করেনি। তাই তারা ঈমান ও একত্ববাদ থেকে উদাসীন।",
+     "text": "যাতে তুমি এমন এক জাতিকে সতর্ক কর, যাদের পিতৃপুরুষদেরকে সতর্ক করা হয়নি।(১) কাজেই তারা (ঈমান ও একত্ববাদ থেকে) উদাসীন।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "so that you warn a people whose forefathers were not warned, so they are heedless."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "afin que tu avertisses un peuple dont les ancêtres n’ont pas été avertis, si bien qu’ils vivent dans l’insouciance."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "agar engkau memberi peringatan kepada suatu kaum yang nenek moyangnya belum pernah diberi peringatan, karena itu mereka lalai."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی آپ (صلى الله عليه وسلم) کو رسول اس لئے بنایا ہے اور یہ کتاب اس لئے نازل کی ہے تاکہ آپ (صلى الله عليه وسلم) اس قوم کو ڈرائیں جن میں آپ (صلى الله عليه وسلم) سے پہلے کوئی ڈرانے والانہیں آیا، اس لئے ایک مدت سے یہ لوگ دین حق سے بےخبر ہیں۔ یہ مضمون پہلے بھی کئی جگہ گزرچکا ہے کہ عربوں میں حضرت اسماعیل (عليه السلام) کے بعد، نبی کریم (صلى الله عليه وسلم) سے پہلے براہ راست کوئی نبی نہیں آیا۔ یہاں بھی اسی چیز کو بیان کیا گیا ہے۔",
+     "text": "تاکہ آپ ایسے لوگوں کو ڈرائیں جن کے باپ دادے نہیں ڈرائے گئے تھے، سو (اسی وجہ سے) یہ غافل ہیں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "以便你警告一族人，他们的祖先未被警告过，所以他们是疏忽大意的。"
+    }
+   }
+  },
+  {
+   "arabic": "لَقَدۡ حَقَّ ٱلۡقَوۡلُ عَلَىٰٓ أَكۡثَرِهِمۡ فَهُمۡ لَا يُؤۡمِنُونَ",
+   "aya": 7,
+   "id": 3712,
+   "tafsir": {
+    "arabic_moyassar": "لقد وجب العذاب على أكثر هؤلاء الكافرين، بعد أن عُرِض عليهم الحق فرفضوه، فهم لا يصدقون بالله ولا برسوله، ولا يعملون بشرعه. إنا جعلنا هؤلاء الكفار الذين عُرض عليهم الحق فردُّوه، وأصرُّوا على الكفر وعدم الإيمان، كمن جُعِل في أعناقهم أغلال، فجمعت أيديهم مع أعناقهم تحت أذقانهم، فاضطروا إلى رفع رؤوسهم إلى السماء، فهم مغلولون عن كل خير، لا يبصرون الحق ولا يهتدون إليه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "অবশ্যই তাদের অধিকাংশের ওপর আল্লাহর বাণী (শাস্তি) অবধারিত হয়েছে, ফলে তারা ঈমান আনবে না।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "The decree [of punishment] has been passed against most of them, for they will not believe."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Ma sentence a déjà été prononcée contre la plupart d’entre eux : ils ne croiront pas."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sungguh, pasti berlaku perkataan (hukuman) terhadap kebanyakan mereka, karena mereka tidak beriman."
+    },
+    "ur": {
+     "footnotes": "[1] جیسے ابوجہل، عتبہ، شیبہ وغیرہ۔ بات ثابت ہونے کا مطلب، اللہ تعالیٰ کا یہ فرمان ہے کہ ”میں جہنم کو جنوں اور انسانوں سے بھر دوں گا“۔ (الم السجدۃ: 13) شیطان سے بھی خطاب کرتے ہوئے اللہ نے فرمایا تھا ”میں جہنم کو تجھ سے اور تیرے پیروکاروں سے بھر دوں گا“۔ (ص: 84) یعنی ان لوگوں نے شیطان کے پیچھے لگ کر اپنےآپ کو جہنم کا مستحق قرار دے لیا، کیونکہ اللہ نے تو ان کو اختیار وحریت ارادہ سے نوازا تھا، لیکن انہوں نے اس کا استعمال غلط کیا اور یوں جہنم کا ایندھن بن گئے۔ یہ نہیں کہ اللہ نے جبراً ان کو ایمان سے محروم رکھا، کیونکہ جبر کی صورت میں تو وہ عذاب کے مستحق ہی قرار نہ پاتے۔",
+     "text": "ان میں سے اکثر لوگوں پر بات ﺛابت ہوچکی ہے سو یہ لوگ ایمان نہ ﻻئیں گے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们中大多数人确已应当受判决，所以他们不归信。"
+    }
+   }
+  },
+  {
+   "arabic": "إِنَّا جَعَلۡنَا فِيٓ أَعۡنَٰقِهِمۡ أَغۡلَٰلٗا فَهِيَ إِلَى ٱلۡأَذۡقَانِ فَهُم مُّقۡمَحُونَ",
+   "aya": 8,
+   "id": 3713,
+   "tafsir": {
+    "arabic_moyassar": "إنا جعلنا هؤلاء الكفار الذين عُرض عليهم الحق فردُّوه، وأصرُّوا على الكفر وعدم الإيمان، كمن جُعِل في أعناقهم أغلال، فجمعت أيديهم مع أعناقهم تحت أذقانهم، فاضطروا إلى رفع رؤوسهم إلى السماء، فهم مغلولون عن كل خير، لا يبصرون الحق ولا يهتدون إليه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(২) ফলে এরা ঈমান আনয়নের পথে শিকলাবদ্ধ।",
+     "text": "নিশ্চয় আমি তাদের গলায় শিকল পরিয়ে দিয়েছি এবং তা চিবুক পর্যন্ত (ঢেকে দিয়েছে)। ফলে তারা ঊর্ধ্বমুখী হয়ে আছে।(২)"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "[It is as if] We have placed shackles around their necks up to their chins, so their heads are forced to remain up,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "C’est comme si Nous avions enserré leurs cous dans des carcans leur arrivant jusqu’aux mentons et les obligeant à marcher têtes dressées,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sungguh, Kami telah memasang belenggu di leher mereka, lalu tangan mereka (diangkat) ke dagu, karena itu mereka tertengadah."
+    },
+    "ur": {
+     "footnotes": "[1] جس کی وجہ سے وہ ادھر ادھر دیکھ سکتے ہیں، نہ سر جھکا سکتے ہیں، بلکہ وہ سر اوپر اٹھائے اور نگاہیں نیچی کئے ہوئے ہیں۔ یہ ان کے عدم قبول حق کی اور عدم انفاق کی تمثیل ہے۔ یہ بھی ممکن ہے کہ یہ ان کی سزائے جہنم کی کیفیت کا بیان ہو۔ (ایسرالتفاسیر)۔",
+     "text": "ہم نے ان کی گردنوں میں طوق ڈال دیئے ہیں پھر وه ٹھوڑیوں تک ہیں، جس سے ان کے سر اوپر کو الٹ گئے ہیں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我确已把枷锁放在他们的脖子上，那些枷锁达到下巴，所以他们不能低头。"
+    }
+   }
+  },
+  {
+   "arabic": "وَجَعَلۡنَا مِنۢ بَيۡنِ أَيۡدِيهِمۡ سَدّٗا وَمِنۡ خَلۡفِهِمۡ سَدّٗا فَأَغۡشَيۡنَٰهُمۡ فَهُمۡ لَا يُبۡصِرُونَ",
+   "aya": 9,
+   "id": 3714,
+   "tafsir": {
+    "arabic_moyassar": "وجعلنا من أمام الكافرين سدًّا ومن ورائهم سدًّا، فهم بمنزلة من سُدَّ طريقه من بين يديه ومن خلفه، فأعمينا أبصارهم; بسبب كفرهم واستكبارهم، فهم لا يبصرون رشدًا، ولا يهتدون. وكل من قابل دعوة الإسلام بالإعراض والعناد، فهو حقيق بهذا العقاب."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর আমি তাদের (সত্য গ্রহণের পথে) সামনে একটি প্রাচীর ও তাদের পিছনে একটি প্রাচীর স্থাপন করেছি। অতঃপর আমি তাদের (৩) ঢেকে দিয়েছি, ফলে তারা (হিদায়াত) দেখতে পায় না।\n  (৩) দৃষ্টিকে সত্য দেখা থেকে ঢেকে দিয়েছি, তাই তারা হিদায়াতের পথ দেখতে পায় না।"
+    },
+    "en": {
+     "footnotes": "[2] Because of their obstinacy and persistence in disbelief.",
+     "text": "and We have placed a barrier before them and a barrier behind them, and have blocked their vision so they cannot see[2]."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "ou comme si Nous avions placé une barrière devant eux et une autre derrière eux, les rendant aveugles à la vérité."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan Kami jadikan di hadapan mereka sekat (dinding) dan di belakang mereka juga sekat, dan Kami tutup (mata) mereka sehingga mereka tidak dapat melihat."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی دنیا کی زندگی ان کے لئے مزین کر دی گئی، یہ گویا ان کے سامنے کی آڑ ہے، جس کی وجہ سے وہ لذائذ دنیا کے علاوہ کچھ نہیں دیکھتے اور یہی چیز ان کے اور ایمان کے درمیان مانع اور حجاب ہے اور آخر کا تصور ان کے ذہنوں میں ناممکن الوقوع کردیا گیا، یہ گویا ان کے پیچھے کی آڑ ہے جس کی وجہ سے وہ توبہ کرتے ہیں نہ نصیحت حاصل کرتے ہیں، کیونکہ آخرت کا کوئی خوف ہی ان کے دلوں میں نہیں ہے۔\n[2] یا ان کی آنکھوں کو ڈھانک دیا یعنی رسول (صلى الله عليه وسلم) سے عداوت اور اس کی دعوت حق سے نفرت نے ان کی آنکھوں پر پٹی باندھ دی، یا انہیں اندھا کردیا ہے جس سے وہ دیکھ نہیں سکتے۔ یہ ان کے حال کی دوسری تمثیل ہے۔",
+     "text": "اور ہم نے ایک آڑ ان کے سامنے کردی اورایک آڑ ان کے پیچھے کردی[1] ، جس سے ہم نے ان کو ڈھانک دیا سو وه نہیں دیکھ سکتے.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我在他们的前面安置一个障碍，在他们的后面安置一个障碍，故我蒙蔽了他们，所以他们看不见。"
+    }
+   }
+  },
+  {
+   "arabic": "وَسَوَآءٌ عَلَيۡهِمۡ ءَأَنذَرۡتَهُمۡ أَمۡ لَمۡ تُنذِرۡهُمۡ لَا يُؤۡمِنُونَ",
+   "aya": 10,
+   "id": 3715,
+   "tafsir": {
+    "arabic_moyassar": "يستوي عند هؤلاء الكفار المعاندين تحذيرك لهم -أيها الرسول- وعدم تحذيرك، فهم لا يصدِّقون ولا يعملون."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "হে নবী! তুমি তাদেরকে সতর্ক কর অথবা না কর, তাদের কাছে উভয়ই সমান; তারা ঈমান আনবে না।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "It is the same to them whether you warn them or not, they will not believe."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Que tu les mettes en garde ou non, ils ne croiront pas."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan sama saja bagi mereka, apakah engkau memberi peringatan kepada mereka atau engkau tidak memberi peringatan kepada mereka, mereka tidak akan beriman juga."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی جو اپنے کرتوتوں کی وجہ سے گمراہی کے اس مقام پر پہنچ جائیں، ان کے لئے انذار بےفائدہ رہتا ہے۔",
+     "text": "اور آپ ان کو ڈرائیں یا نہ ڈرائیں دونوں برابر ہیں، یہ ایمان نہیں ﻻئیں گے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你对他们加以警告与否，这在他们是一样的，他们毕竟不归信。"
+    }
+   }
+  },
+  {
+   "arabic": "إِنَّمَا تُنذِرُ مَنِ ٱتَّبَعَ ٱلذِّكۡرَ وَخَشِيَ ٱلرَّحۡمَٰنَ بِٱلۡغَيۡبِۖ فَبَشِّرۡهُ بِمَغۡفِرَةٖ وَأَجۡرٖ كَرِيمٍ",
+   "aya": 11,
+   "id": 3716,
+   "tafsir": {
+    "arabic_moyassar": "إنما ينفع تحذيرك مَن آمن بالقرآن، واتبع ما فيه من أحكام الله، وخاف الرحمن، حيث لا يراه أحد إلا الله، فبشِّره بمغفرة من الله لذنوبه، وثواب منه في الآخرة على أعماله الصالحة، وهو دخوله الجنة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তুমি তো কেবল তাকেই সতর্ক করবে যে উপদেশ মেনে চলে এবং না দেখেও পরম করুণাময় আল্লাহকে ভয় করে। অতএব তাকে তুমি ক্ষমা ও সম্মানজনক পুরস্কারের সুসংবাদ দাও।"
+    },
+    "en": {
+     "footnotes": "[3] i.e., the Qur’an.",
+     "text": "You can only warn one who follows the Reminder[3] and fears the Most Compassionate unseen. So give him glad tidings of forgiveness and a generous reward."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Seul entend tes avertissements celui qui suit les enseignements du Coran et qui, loin des regards, craint le Tout Miséricordieux. A celui-là, tu peux annoncer le pardon de ses péchés et une généreuse rétribution."
+    },
+    "id": {
+     "footnotes": "[717] Peringatan yang diberikan oleh Nabi Muhammad -'alaihiṣ ṣalātu was salām- hanyalah berguna bagi orang yang mau mengikutinya.",
+     "text": "Sesungguhnya engkau hanya memberi peringatan kepada orang-orang yang mau mengikuti peringatan[717] dan yang takut kepada Tuhan Yang Maha Pengasih, walaupun mereka tidak melihat-Nya. Maka berilah mereka kabar gembira dengan ampunan dan pahala yang mulia."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی انذار سے صرف اس کو فائدہ پہنچتا ہے۔",
+     "text": "بس آپ تو صرف ایسے شخص کو ڈرا سکتے ہیں[1] جو نصیحت پر چلے اور رحمٰن سے بےدیکھے ڈرے، سو آپ اس کو مغفرت اور باوقار اجر کی خوش خبریاں سنا دیجیئے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你只能警告那遵守教诲，而且在秘密中敬畏至仁主者，你要以赦宥和优厚的报酬向他报喜。"
+    }
+   }
+  },
+  {
+   "arabic": "إِنَّا نَحۡنُ نُحۡيِ ٱلۡمَوۡتَىٰ وَنَكۡتُبُ مَا قَدَّمُواْ وَءَاثَٰرَهُمۡۚ وَكُلَّ شَيۡءٍ أَحۡصَيۡنَٰهُ فِيٓ إِمَامٖ مُّبِينٖ",
+   "aya": 12,
+   "id": 3717,
+   "tafsir": {
+    "arabic_moyassar": "إنا نحن نحيي الأموات جميعًا ببعثهم يوم القيامة، ونكتب ما عملوا من الخير والشر، وآثارهم التي كانوا سببًا فيها في حياتهم وبعد مماتهم من خير، كالولد الصالح، والعلم النافع، والصدقة الجارية، ومن شر، كالشرك والعصيان، وكلَّ شيء أحصيناه في كتاب واضح هو أمُّ الكتب، وإليه مرجعها، وهو اللوح المحفوظ. فعلى العاقل محاسبة نفسه; ليكون قدوة في الخير في حياته وبعد مماته."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৪) অর্থাৎ যে আমল তারা জীবিত অবস্থায় করে এবং যা তাদের মরণের পর অবশিষ্ট থাকে। যেমন: হয় সাদকায়ে জারিয়া না হয় কুফরী।",
+     "text": "নিশ্চয় আমিই মৃতদেরকে জীবিত করি, আর লিখে রাখি, যা তারা অগ্রে প্রেরণ করে এবং যা পিছনে রেখে যায়।(৪) আর প্রতিটি বস্তুকেই আমি সুস্পষ্ট কিতাবে সংরক্ষণ করে রেখেছি।"
+    },
+    "en": {
+     "footnotes": "[4] See footnote 35:11.",
+     "text": "It is We Who give life to the dead, and record what they send forth and what they leave behind, and We keep an account of everything in a clear Record[4]."
+    },
+    "fr": {
+     "footnotes": "[2] Les conséquences, bonnes ou mauvaises, de leurs actes accomplis de leur vivant sont enregistrées même après leur mort.",
+     "text": "C’est Nous qui allons ressusciter les morts dont Nous avons consigné les œuvres et les traces laissées par eux sur terre[2]. Tout a été minutieusement recensé dans un livre d’une grande clarté."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sungguh, Kamilah yang menghidupkan orang-orang yang mati, dan Kamilah yang mencatat apa yang telah mereka kerjakan dan bekas-bekas yang mereka (tinggalkan). Dan segala sesuatu Kami kumpulkan dalam Kitab yang jelas (Lauḥ Maḥfūẓ)."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی قیامت والے دن۔ یہاں احیائے موتی کے ذکر سے یہ اشارہ کرنا بھی مقصود ہے کہ اللہ تعالیٰ کافروں میں سے جس کا دل چاہتا ہے، زندہ کردیتا ہے جو کفروضلالت کی وجہ سے مردہ ہوچکے ہوتے ہیں۔ پس وہ ہدایت اور ایمان کو اپنا لیتے ہیں۔\n[2] مَا قَدَّمُوا سے وہ اعمال مراد ہیں جو انسان خود اپنی زندگی میں کرتا ہے اور آثَارَهُمْ سے وہ اعمال جن کے عملی نمونے (اچھے یا برے) وہ دنیا میں چھوڑ جاتا ہے اور اس کے مرنے کے بعد اس کی اقتدا میں لوگ وہ اعمال بجا لاتے ہیں۔ جس طرح حدیث میں ہے ”جس نےاسلام میں کوئی نیک طریقہ جاری کیا، اس کے لئے اس کا اجر بھی ہے اور اس کا بھی ہے جو اس کے بعد اس پر عمل کرے گا۔ بغیر اس کے کہ ان میں سے کسی کے اجر میں کمی ہو اور جس نے کوئی برا طریقہ جاری کیا، اس پر اس کے اپنے گناہ کا بھی بوجھ ہوگا اور اس کا بھی جو اس کے بعد اس پر عمل کرے گا، بغیر اس کے کہ ان میں کسی کے بوجھ میں کمی ہو“۔ (صحيح مسلم، كتاب الزكاة ، باب الحث على الصدقة ولو بشق تمرة) اسی طرح یہ حدیث ہے ”جب انسان مر جاتا ہے تو اس کے عمل کا سلسلہ ختم ہوجاتا ہے۔ سوائے تین چیزوں کے۔ ایک علم، جس سے لوگ فائدہ اٹھائیں (2) نیک اولاد جو مرنے والے کے لئے دعا کرے (3) یا صدقہ جاریہ، جس سے اس کے مرنے کے بعد بھی لوگ فیض یاب ہوں“۔ (صحيح مسلم، كتاب الوصية، باب ما يلحق الإنسان من الثواب بعد وفاته) دوسرا مطلب آثَارَهُمْ کا نشانات قدم ہے۔ یعنی انسان نیکی یا بدی کے لئے جو سفر کرتا اور ایک جگہ سے دوسری جگہ جاتا ہے تو قدموں کے یہ نشانات بھی لکھے جاتے ہیں۔ جیسے عہد رسالت میں مسجد نبوی کے قریب کچھ جگہ خالی تھی تو بنوسلمہ نے ادھر منتقل ہونے کا ارادہ کیا، جب نبی کریم (صلى الله عليه وسلم) کے علم میں یہ بات آئی تو آپ (صلى الله عليه وسلم) نے انہیں مسجد کے قریب منتقل ہونے سے روک دیا اور فرمایا : «دَيَاركُمْ تُكْتَبْ آثَارُكُمْ» (دو مرتبہ فرمایا) یعنی تمہارے گھر اگرچہ دور ہیں، لیکن وہیں رہو، جتنے قدم تم چل کر آتے ہو، وہ لکھے جاتے ہیں۔ (صحيح مسلم، كتاب المساجد، باب فضل كثرة الخطى إلى المساجد) امام ابن کثیر فرماتے ہیں۔ دونوں مفہوم اپنی جگہ صحیح ہیں، ان کے درمیان منافات نہیں ہے۔ بلکہ اس دوسرے مفہوم میں سخت تنبیہ ہے، اس لئے کہ جب قدموں کے نشانات تک لکھے جاتے ہیں، تو انسان جو اچھا یا برا نمونہ چھوڑ جائے جس کی لوگ بعد میں پیروی کریں تو وہ بطریق ادنیٰ لکھے جائیں گے۔\n[3] اس سے مراد لوح محفوظ ہے اور بعض نے صحائف اعمال مراد لئے ہیں۔",
+     "text": "بےشک ہم مُردوں کو زنده کریں گے[1] ، اور ہم لکھتے جاتے ہیں وه اعمال بھی جن کو لوگ آگے بھیجتے ہیں[2] اور ان کے وه اعمال بھی جن کو پیچھے چھوڑ جاتے ہیں، اور ہم نے ہر چیز کو ایک واضح کتاب میں ضبط کر رکھا ہے.[3]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我必定要使死人复活，我必定要记录他们所作的善恶，和他们的事迹，我将一切事物，详明地记录在一册明白的范本中。"
+    }
+   }
+  },
+  {
+   "arabic": "وَٱضۡرِبۡ لَهُم مَّثَلًا أَصۡحَٰبَ ٱلۡقَرۡيَةِ إِذۡ جَآءَهَا ٱلۡمُرۡسَلُونَ",
+   "aya": 13,
+   "id": 3718,
+   "tafsir": {
+    "arabic_moyassar": "واضرب -أيها الرسول- لمشركي قومك الرادِّين لدعوتك مثلا يعتبرون به، وهو قصة أهل القرية، حين ذهب إليهم المرسلون، إذ أرسلنا إليهم رسولين لدعوتهم إلى الإيمان بالله وترك عبادة غيره، فكذَّب أهل القرية الرسولين، فقويناهما برسول ثالث، فقال الثلاثة لأهل القرية: إنا إليكم -أيها القوم- مرسلون."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৫) জনপদটির নাম ছিল আন্তাকিয়া, যা বর্তমানে তুরষ্কের হাতাই \n  এলাকা নামে পরিচিত।\n (৬) যাতে তারা এ ঘটনা থেকে উপদেশ গ্রহণ করতে পারে।",
+     "text": "হে রাসূল! তুমি তাদের কাছে এক জনপদের(৫) অধিবাসীদের উপমা বর্ণনা কর, যখন তাদের কাছে রাসূলগণ এসেছিল।(৬)"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Give them an example of the People of the Town when the messengers came to it."
+    },
+    "fr": {
+     "footnotes": "[3] Antioche à laquelle se sont présentés les apôtres envoyés par Jésus, selon la majorité des exégètes.",
+     "text": "Propose-leur l’exemple des habitants de la cité à laquelle les messagers se sont présentés[3]."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan buatlah suatu perumpamaan bagi mereka, yaitu penduduk suatu negeri, ketika utusan-utusan datang kepada mereka;"
+    },
+    "ur": {
+     "footnotes": "[1] تاکہ اہل مکہ یہ سمجھ لیں کہ آپ کوئی انوکھے رسول نہیں ہیں، بلکہ رسالت ونبوت کا یہ سلسلہ قدیم سے چلا آرہا ہے۔",
+     "text": "اور آپ ان کے سامنے ایک مثال (یعنی ایک) بستی والوں کی مثال (اس وقت کا) بیان کیجیئے جب کہ اس بستی میں (کئی) رسول آئے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你当以城市的居民为他们设一个譬喻。当时，使者们来临那些居民。"
+    }
+   }
+  },
+  {
+   "arabic": "إِذۡ أَرۡسَلۡنَآ إِلَيۡهِمُ ٱثۡنَيۡنِ فَكَذَّبُوهُمَا فَعَزَّزۡنَا بِثَالِثٖ فَقَالُوٓاْ إِنَّآ إِلَيۡكُم مُّرۡسَلُونَ",
+   "aya": 14,
+   "id": 3719,
+   "tafsir": {
+    "arabic_moyassar": "واضرب -أيها الرسول- لمشركي قومك الرادِّين لدعوتك مثلا يعتبرون به، وهو قصة أهل القرية، حين ذهب إليهم المرسلون، إذ أرسلنا إليهم رسولين لدعوتهم إلى الإيمان بالله وترك عبادة غيره، فكذَّب أهل القرية الرسولين، فعزَّزناهما وقويناهما برسول ثالث، فقال الثلاثة لأهل القرية: إنا إليكم -أيها القوم- مرسلون."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "যখন আমি তাদের কাছে দু’জন রাসূল পাঠিয়েছিলাম, তখন তারা তাদেরকে মিথ্যাবাদী বলেছিল। তারপর আমি তাদেরকে তৃতীয় একজন রাসূলের দ্বারা শক্তিশালী করেছিলাম। অতঃপর তারা বলেছিল: ‘নিশ্চয় আমরা তোমাদের প্রতি প্রেরিত রাসূল।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "When We sent them two [messengers], but they rejected them, so We strengthened them with a third, and they said, “We are sent to you as messengers.”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Nous leur avons tout d’abord envoyé deux messagers qui furent traités d’imposteurs et que Nous avons donc assistés d’un troisième messager. Ils leur dirent : « Nous avons été envoyés à votre cité. »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(yaitu) ketika Kami mengutus kepada mereka dua orang utusan, lalu mereka mendustakan keduanya; kemudian Kami kuatkan dengan (utusan) yang ketiga, maka ketiga (utusan itu) berkata, \"Sungguh, kami adalah orang-orang yang diutus kepadamu.\""
+    },
+    "ur": {
+     "footnotes": "[1] یہ تین رسول کون تھے؟ مفسرین نے ان کے مختلف نام بیان کئے ہیں، لیکن نام مستند ذریعے سے ثابت نہیں ہیں۔ بعض مفسرین کا خیال ہے کہ یہ حضرت عیسیٰ (عليه السلام) کے فرستادہ تھے، جو انہوں نے اللہ کے حکم سے ایک بستی میں تبلیغ ودعوت کے لئے بھیجے تھے۔ بستی کا نام انطاکیہ تھا۔",
+     "text": "جب ہم نے ان کے پاس دو کو بھیجا سو ان لوگوں نے (اول) دونوں کو جھٹلایا پھر ہم نے تیسرے سے تائید کی سو ان تینوں نے کہا کہ ہم تمہارے پاس بھیجے گئے ہیں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "当时，我曾给他们派遣了两个使者去，但他们否认了他们俩，我就以第三个使者去援助他们俩。他们说：“我们的确是给你们被派遣来的。”"
+    }
+   }
+  },
+  {
+   "arabic": "قَالُواْ مَآ أَنتُمۡ إِلَّا بَشَرٞ مِّثۡلُنَا وَمَآ أَنزَلَ ٱلرَّحۡمَٰنُ مِن شَيۡءٍ إِنۡ أَنتُمۡ إِلَّا تَكۡذِبُونَ",
+   "aya": 15,
+   "id": 3720,
+   "tafsir": {
+    "arabic_moyassar": "قال أهل القرية للمرسلين: ما أنتم إلا أناس مثلنا، وما أنزل الرحمن شيئًا من الوحي، وما أنتم -أيها الرسل- إلا تكذبون."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৭) তোমরা যেহেতু মানুষ, কাজেই তোমরা আল্লাহ প্রেরিত রাসূল হতে পারো না। অতএব, আমাদের ওপর তোমাদের কোন বিশেষত্ব নেই।",
+     "text": "তারা বলল: ‘তোমরা তো আমাদের মতই মানুষ।(৭) আর পরম করুণাময় তো কিছুই নাযিল করেননি। তোমরা শুধু মিথ্যাই বলছ।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "They said, “You are no more than human beings like us, and the Most Compassionate has not sent down anything. You are simply lying.”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Les habitants répliquèrent : « Vous n’êtes que des hommes comme nous qui ne faites que mentir. Le Tout Miséricordieux n’a absolument rien révélé ! »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Mereka (penduduk negeri) menjawab, \"Kamu ini hanyalah manusia seperti kami, dan (Allah) Yang Maha Pengasih tidak menurunkan sesuatu apa pun; kamu hanyalah pendusta belaka.\""
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "ان لوگوں نے کہا کہ تم تو ہماری طرح معمولی آدمی ہو اور رحمٰن نے کوئی چیز نازل نہیں کی۔ تم نرا جھوٹ بولتے ہو."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们说：“你们只是像我们一样的凡人。至仁主没有降示任何物，你们只是说谎的。”"
+    }
+   }
+  },
+  {
+   "arabic": "قَالُواْ رَبُّنَا يَعۡلَمُ إِنَّآ إِلَيۡكُمۡ لَمُرۡسَلُونَ",
+   "aya": 16,
+   "id": 3721,
+   "tafsir": {
+    "arabic_moyassar": "قال المرسلون مؤكدين: ربُّنا الذي أرسلنا يعلم إنا إليكم لمرسلون، وما علينا إلا تبليغ الرسالة بوضوح، ولا نملك هدايتكم، فالهداية بيد الله وحده."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তারা (রাসূলগণ) বলল: ‘আমাদের রব জানেন, অবশ্যই আমরা তোমাদের কাছে প্রেরিত রাসূল।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "They said, “Our Lord knows that we are sent to you as messengers."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Les messagers répondirent : « Notre Seigneur sait parfaitement que nous sommes envoyés à votre cité."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Mereka berkata, \"Tuhan kami mengetahui sesungguhnya kami adalah utusan-utusan (-Nya) kepada kamu."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "ان (رسولوں) نے کہا ہمارا پروردگار جانتا ہے کہ بےشک ہم تمہارے پاس بھیجے گئے ہیں."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们说：“我们的养主知道，我们的确是给你们被派遣来的，"
+    }
+   }
+  },
+  {
+   "arabic": "وَمَا عَلَيۡنَآ إِلَّا ٱلۡبَلَٰغُ ٱلۡمُبِينُ",
+   "aya": 17,
+   "id": 3722,
+   "tafsir": {
+    "arabic_moyassar": "قال المرسلون مؤكدين: ربُّنا الذي أرسلنا يعلم إنا إليكم لمرسلون، وما علينا إلا تبليغ الرسالة بوضوح، ولا نملك هدايتكم، فالهداية بيد الله وحده."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "‘আর সুস্পষ্টভাবে (আল্লাহর বাণী) পৌঁছিয়ে দেয়াই আমাদের দায়িত্ব।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Our duty is only to convey the message clearly.”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Notre mission consiste uniquement à vous transmettre le message en toute clarté. »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan kewajiban kami hanyalah meyampaikan (perintah Allah) dengan jelas.\""
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "اور ہمارے ذمہ تو صرف واضح طور پر پہنچا دینا ہے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我们只负明白的传达的责任。”"
+    }
+   }
+  },
+  {
+   "arabic": "قَالُوٓاْ إِنَّا تَطَيَّرۡنَا بِكُمۡۖ لَئِن لَّمۡ تَنتَهُواْ لَنَرۡجُمَنَّكُمۡ وَلَيَمَسَّنَّكُم مِّنَّا عَذَابٌ أَلِيمٞ",
+   "aya": 18,
+   "id": 3723,
+   "tafsir": {
+    "arabic_moyassar": "قال أهل القرية: إنا تَشَاءَمْنا بكم، لئن لم تكُفُّوا عن دعوتكم لنا لنقتلنكم رميًا بالحجارة، وليصيبنكم منَّا عذاب أليم موجع."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৭) অর্থাৎ গ্রামবাসীদের অবাধ্যতা ও রাসূলদের কথা অমান্য করার কারণে জনপদে দুর্ভিক্ষ শুরু হয়ে যায়। ফলে তারা তাদেরকে অলক্ষুণে মনে করা শুরু করল।",
+     "text": "তারা (গ্রামবাসীরা রাসূলগণকে) বলল: ‘আমরা তো তোমাদেরকে অমঙ্গলের কারণ মনে করি।(৭) তোমরা যদি (একত্ববাদের দাওয়াত থেকে) বিরত না হও, তাহলে আমরা অবশ্যই তোমাদেরকে পাথর মেরে হত্যা করব এবং আমাদের পক্ষ থেকে তোমাদেরকে যন্ত্রণাদায়ক শাস্তি স্পর্শ করবে।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "The people said, “We consider you as an evil omen. If you do not desist, we will surely stone you, and we will inflict upon you a painful punishment.”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Les habitants dirent : « Nous voyons en vous des oiseaux de malheur. Si vous ne cessez pas, nous vous lapiderons. Un douloureux châtiment vous sera infligé. »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Mereka menjawab, \"Sesungguhnya kami bernasib malang karena kamu. Sungguh, jika kamu tidak berhenti (menyeru kami), niscaya kami rajam kamu dan kamu pasti akan merasakan siksaan yang pedih dari kami.\""
+    },
+    "ur": {
+     "footnotes": "[1] ممکن ہے کچھ لوگ ایمان لے آئے ہوں اور ان کی وجہ سے قوم دو گروہوں میں بٹ گئی ہو، جس کو انہوں نے رسولوں کی نَعُوذُ بِالله ِ نحوست قرار دیا۔ یا بارش کا سلسلہ موقوف رہا، تو وہ سمجھے ہوں کہ یہ ان رسولوں کی نحوست ہے۔ نَعُوذُ بِالله ِ مِنْ ذَلِكَ، جیسے آج کل بھی بد نہاد اور دین و شریعت سے بےبہرہ لوگ، اہل ایمان وتقویٰ کو ہی (منحوس) سمجھتے ہیں۔",
+     "text": "انہوں نے کہا کہ ہم تو تم کو منحوس سمجھتے ہیں[1] ۔ اگر تم باز نہ آئے تو ہم پتھروں سے تمہارا کام تمام کردیں گے اور تم کو ہماری طرف سے سخت تکلیف پہنچے گی."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们说：“我们确已为你们而遭厄运，如果你们不停止〔宣传〕，我们誓必用乱石击死你们，并以痛苦的刑罚加于你们。”"
+    }
+   }
+  },
+  {
+   "arabic": "قَالُواْ طَٰٓئِرُكُم مَّعَكُمۡ أَئِن ذُكِّرۡتُمۚ بَلۡ أَنتُمۡ قَوۡمٞ مُّسۡرِفُونَ",
+   "aya": 19,
+   "id": 3724,
+   "tafsir": {
+    "arabic_moyassar": "قال المرسلون: شؤمكم وأعمالكم من الشرك والشر معكم ومردودة عليكم، أإن وُعظتم بما فيه خيركم تشاءمتم وتوعدتمونا بالرجم والتعذيب؟ بل أنتم قوم عادتكم الإسراف في العصيان والتكذيب."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৮) কারণ, তোমরা আল্লাহর সাথে কুফরী ও তাঁর রাসূলগণের আনুগত্যকে বর্জন করেছ।",
+     "text": "তারা বলল, ‘তোমাদের অমঙ্গল (বা দুর্ভাগ্য) তোমাদের সঙ্গেই রয়েছে।(৮) তোমাদেরকে উপদেশ দেওয়া হয়েছে বলেই কি (তোমরা আমাদের অশুভ মনে করছ)? (না,) বরং তোমরাই সীমালঙ্ঘনকারী জাতি।’"
+    },
+    "en": {
+     "footnotes": "[5] i.e., this threat.",
+     "text": "The messengers said, “Your evil omen is with yourselves [because of your disbelief]. Is it[5] because you are admonished? Rather, you are a people who transgress all bounds.”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Les messagers répondirent : « Vous êtes les seuls responsables de votre malheur. Réagissez-vous ainsi simplement parce que vous êtes exhortés à suivre la vérité ? Vous avez, en réalité, dépassé toutes les limites de l’impiété ! »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Mereka (utusan-utusan) itu berkata, \"Kemalangan kamu itu adalah karena kamu sendiri. Apakah kamu diberi peringatan? Sebenarnya kamu adalah kaum yang melampaui batas.\""
+    },
+    "ur": {
+     "footnotes": "[1] یعنی وہ تو تمہارے اپنے اعمال بد کا نتیجہ ہے جو تمہارے ساتھ ہی ہے نہ کہ ہمارے ساتھ۔",
+     "text": "ان رسولوں نے کہا کہ تمہاری نحوست تمہارے ساتھ ہی لگی ہوئی[1] ہے، کیا اس کو نحوست سمجھتے ہو کہ تم کو نصیحت کی جائے بلکہ تم حد سے نکل جانے والے لوگ ہو."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们说：“你们的厄运是伴随着你们的。难道有人教诲你们，〔你们才为他而遭厄运么？〕不然！你们是过分的民众。”"
+    }
+   }
+  },
+  {
+   "arabic": "وَجَآءَ مِنۡ أَقۡصَا ٱلۡمَدِينَةِ رَجُلٞ يَسۡعَىٰ قَالَ يَٰقَوۡمِ ٱتَّبِعُواْ ٱلۡمُرۡسَلِينَ",
+   "aya": 20,
+   "id": 3725,
+   "tafsir": {
+    "arabic_moyassar": "وجاء من مكان بعيد في المدينة رجل مسرع (وذلك حين علم أن أهل القرية هَمُّوا بقتل الرسل أو تعذيبهم) ، قال: يا قوم اتبعوا المرسلين إليكم من الله، اتبعوا الذين لا يطلبون منكم أموالا على إبلاغ الرسالة، وهم مهتدون فيما يدعونكم إليه من عبادة الله وحده. وفي هذا بيان فضل مَن سعى إلى الأمر بالمعروف والنهي عن المنكر."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৯) লোকটি নাম হাবীব ইবন মারী, সে পেশায় কাঠমিস্ত্রি ছিল।",
+     "text": "আর শহরের দূরপ্রান্ত থেকে এক ব্যক্তি(৯) দৌঁড়ে এসে বলল: ‘হে আমার জাতি! তোমরা রাসূলদের অনুসরণ কর।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "A man came from the farthest end of the city, rushing, and said, “O my people, follow the messengers."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Accourant du bout de la ville, un homme vint leur dire : « Mon peuple ! Suivez les messagers !"
+    },
+    "id": {
+     "footnotes": "[718] Menurut mufasir, laki-laki tersebut bernama Habib An-Najjār.",
+     "text": "Dan datanglah dari ujung kota, seorang laki-laki[718] dengan bergegas dia berkata, \"Wahai kaumku! Ikutilah utusan-utusan itu."
+    },
+    "ur": {
+     "footnotes": "[1] یہ شخص مسلمان تھا، جب اسے پتہ چلا کہ قوم پیغمبروں کی دعوت کو نہیں اپنا رہی ہے، تو اس نے آکر رسولوں کی حمایت اور ان کے اتباع کی ترغیب دی۔",
+     "text": "اور ایک شخص (اس) شہر کے آخری حصے سے دوڑتا ہوا آیا کہنے لگا کہ اے میری قوم! ان رسولوں کی راه پر چلو.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "有一个人从城中最远的地方跑来说：“我的宗族呀！你们应当顺从使者们，"
+    }
+   }
+  },
+  {
+   "arabic": "ٱتَّبِعُواْ مَن لَّا يَسۡـَٔلُكُمۡ أَجۡرٗا وَهُم مُّهۡتَدُونَ",
+   "aya": 21,
+   "id": 3726,
+   "tafsir": {
+    "arabic_moyassar": "وجاء من مكان بعيد في المدينة رجل مسرع (وذلك حين علم أن أهل القرية هَمُّوا بقتل الرسل أو تعذيبهم)، قال: يا قوم اتبعوا المرسلين إليكم من الله، اتبعوا الذين لا يطلبون منكم أموالا على إبلاغ الرسالة، وهم مهتدون فيما يدعونكم إليه من عبادة الله وحده. وفي هذا بيان فضل مَن سعى إلى الأمر بالمعروف والنهي عن المنكر."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "হে আমার জাতি! তোমরা তাদের অনুসরণ করো, যারা তোমাদের কাছে (দাওয়াতের বিনিময়ে) কোন প্রতিদান চায় না। আর তারা হিদায়াতপ্রাপ্ত।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Follow those who ask no recompense of you, and who are guided."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Suivez ces hommes qui ne vous réclament aucun salaire et qui sont bien guidés."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Ikutilah orang yang tidak meminta imbalan kepadamu; dan mereka adalah orang-orang yang mendapat petunjuk."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "ایسے لوگوں کی راه پر چلو جو تم سے کوئی معاوضہ نہیں مانگتے اور وه راه راست پر ہیں."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你们应当顺从那些遵循正道，而不向你们索取报酬的人们。”"
+    }
+   }
+  },
+  {
+   "arabic": "وَمَالِيَ لَآ أَعۡبُدُ ٱلَّذِي فَطَرَنِي وَإِلَيۡهِ تُرۡجَعُونَ",
+   "aya": 22,
+   "id": 3727,
+   "tafsir": {
+    "arabic_moyassar": "وأيُّ شيء يمنعني مِن أن أعبد الله الذي خلقني، وإليه تصيرون جميعًا؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "‘আর আমি কেন তাঁর ইবাদাত করব না, যিনি আমাকে সৃষ্টি করেছেন? আর তাঁর কাছেই তোমাদেরকে ফিরিয়ে নেয়া হবে।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Why should I not worship the One Who created me and to Whom you will all be brought back?"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Qu’aurais-je à ne pas adorer Celui qui m’a créé et à qui vous serez tous ramenés ?"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan tidak ada alasan bagiku untuk tidak menyembah (Allah) yang telah menciptakanku dan hanya kepada-Nyalah kamu akan dikembalikan."
+    },
+    "ur": {
+     "footnotes": "[1] اپنے مسلک توحید کی وضاحت کی، جس سے مقصد اپنی قوم کی خیر خواہی اور ان کی صحیح رہنمائی ہے۔ یہ بھی ممکن ہے کہ اس کی قوم نے اس سے کہا ہو کہ کیا تو بھی اس معبود کی عبادت کرتا ہے، جس کی طرف یہ مرسلین ہمیں بلا رہےہیں اور ہمارے معبودوں کو تو بھی چھوڑ بیٹھا ہے؟ جس کے جواب میں اس نے یہ کہا۔ مفسرین نے اس شخص کانام حبیب نجار بتلایا ہے، واللہ اعلم۔",
+     "text": "اور مجھے کیا ہو گیا ہے کہ میں اس کی عبادت نہ کروں جس نے مجھے پیدا کیا اور تم سب اسی کی طرف لوٹائے جاؤگے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "〔又说：〕“我怎能不崇拜那创造了我，而你们将被召归于他的主宰呢？"
+    }
+   }
+  },
+  {
+   "arabic": "ءَأَتَّخِذُ مِن دُونِهِۦٓ ءَالِهَةً إِن يُرِدۡنِ ٱلرَّحۡمَٰنُ بِضُرّٖ لَّا تُغۡنِ عَنِّي شَفَٰعَتُهُمۡ شَيۡـٔٗا وَلَا يُنقِذُونِ",
+   "aya": 23,
+   "id": 3728,
+   "tafsir": {
+    "arabic_moyassar": "أأعبد من دون الله آلهة أخرى لا تملك من الأمر شيئًا، إن يردني الرحمن بسوء فهذه الآلهة لا تملك دفع ذلك ولا منعه، ولا تستطيع إنقاذي مما أنا فيه؟ إني إن فعلت ذلك لفي خطأ واضح ظاهر. إني آمنت بربكم فاستمعوا إلى ما قُلْته لكم، وأطيعوني بالإيمان. فلما قال ذلك وثب إليه قومه وقتلوه، فأدخله الله الجنة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১০) অথচ তিনি আমাকে সৃষ্টি করেছেন।",
+     "text": "আমি কি আল্লাহর পরিবর্তে অন্য কোন ইলাহ গ্রহণ করব?(১০) যদি পরম করুণাময় আমার কোন ক্ষতি করার ইচ্ছা করেন, তাহলে তাদের সুপারিশ আমার কোন কাজে আসবে না এবং তারা আমাকে উদ্ধারও করতে পারবে না ।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Should I take besides Him other gods whose intercession cannot avail me in the least, nor can they come to my rescue, if the Most Compassionate wills to harm me?"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Adopterais-je, en dehors de Lui, des divinités qui, si le Tout Miséricordieux me destinait un malheur, ne sauraient en rien le repousser, ni m’en délivrer ?"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Mengapa aku akan menyembah tuhan-tuhan selain-Nya? Jika (Allah) Yang Maha Pengasih menghendaki bencana terhadapku, pasti pertolongan mereka tidak berguna sama sekali bagi diriku dan mereka (juga) tidak dapat menyelamatkanku."
+    },
+    "ur": {
+     "footnotes": "[1] یہ ان معبودان باطلہ کی بے بسی کی وضاحت ہے جن کی عبادت اس کی قوم کرتی تھی اور شرک کی اس گمراہی سے نکالنے کے لئے رسول ان کی طرف بھیجے گئے تھے۔ نہ بچا سکیں کا مطلب ہے کہ اللہ اگر مجھے کوئی نقصان پہنچانا چاہے تو یہ بچا نہیں سکتے۔",
+     "text": "کیا میں اسے چھوڑ کر ایسوں کو معبود بناؤں کہ اگر (اللہ) رحمٰن مجھے کوئی نقصان پہنچانا چاہے تو ان کی سفارش مجھے کچھ بھی نفع نہ پہنچا سکے اور نہ وه مجھے بچا سکیں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "难道我能舍他而敬事一些神灵吗？如果至仁主欲降灾于我，则他们的说情，对于我毫无裨益，他们也不能拯救我。"
+    }
+   }
+  },
+  {
+   "arabic": "إِنِّيٓ إِذٗا لَّفِي ضَلَٰلٖ مُّبِينٍ",
+   "aya": 24,
+   "id": 3729,
+   "tafsir": {
+    "arabic_moyassar": "أأعبد من دون الله آلهة أخرى لا تملك من الأمر شيئًا، إن يردني الرحمن بسوء فهذه الآلهة لا تملك دفع ذلك ولا منعه، ولا تستطيع إنقاذي مما أنا فيه؟ إني إن فعلت ذلك لفي خطأ واضح ظاهر. إني آمنت بربكم فاستمعوا إلى ما قُلْته لكم، وأطيعوني بالإيمان. فلما قال ذلك وثب إليه قومه وقتلوه، فأدخله الله الجنة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১১) অর্থাৎ আল্লাহর পরিবর্তে অন্যদেরকে মাবূদ হিসাবে গ্রহণ করলে।",
+     "text": "‘এরূপ করলে(১১) নিশ্চয় আমি স্পষ্ট বিভ্রান্তিতে পতিত হব।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Surely I would then be clearly misguided."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Je serais alors manifestement égaré."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sesungguhnya jika aku (berbuat) begitu, pasti aku berada dalam kesesatan yang nyata."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی اگر میں بھی تمہاری طرح، اللہ کو چھوڑ کر ایسے بے اختیار اور بےبس معبودوں کی عبادت شروع کردوں، تو میں بھی کھلی گمراہی میں جا گروں گا۔ یا ضلال، یہاں خسران کےمعنی میں ہے، یعنی یہ تو نہایت واضح خسارے کا سودا ہے۔",
+     "text": "پھر تو میں یقیناً کھلی گمراہی میں ہوں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "如果那样，我确是在明显的迷误中。"
+    }
+   }
+  },
+  {
+   "arabic": "إِنِّيٓ ءَامَنتُ بِرَبِّكُمۡ فَٱسۡمَعُونِ",
+   "aya": 25,
+   "id": 3730,
+   "tafsir": {
+    "arabic_moyassar": "أأعبد من دون الله آلهة أخرى لا تملك من الأمر شيئًا، إن يردني الرحمن بسوء فهذه الآلهة لا تملك دفع ذلك ولا منعه، ولا تستطيع إنقاذي مما أنا فيه؟ إني إن فعلت ذلك لفي خطأ واضح ظاهر. إني آمنت بربكم فاستمعوا إلى ما قُلْته لكم، وأطيعوني بالإيمان. فلما قال ذلك وثب إليه قومه وقتلوه، فأدخله الله الجنة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "‘নিশ্চয় আমি (আমার ও) তোমাদের রবের প্রতি ঈমান এনেছি। অতএব তোমরা আমার কথা শোন।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "I believe in your Lord, so listen to me.”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Je crois en votre Seigneur, alors écoutez. »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sesungguhnya aku telah beriman kepada Tuhanmu; maka dengarkanlah (pengakuan keimanan)ku.\""
+    },
+    "ur": {
+     "footnotes": "[1] اس کی دعوت توحید اور اقرار توحید کے جواب میں قوم نے اسے قتل کرنا چاہا تو اس نے پیغمبروں سے خطاب کرکے یہ کہا، مقصد اپنے ایمان پر ان پیغمبروں کو گواہ بنانا تھا۔ یا اپنی قوم سے خطاب کرکے کہا جس سے مقصود دین حق پر اپنی صلابت اور استقامت کا اظہار تھا کہ تم جو چاہو کر لو، لیکن اچھی طرح سن لو کہ میرا ایمان اسی رب پر ہے، جو تمہارا بھی رب ہے۔ کہتے ہیں کہ انہوں نے اس کو مار ڈالا اور کسی نے ان کو اس سے نہیں روکا۔ رَحِمَهُ اللهُ تَعَالَى۔",
+     "text": "میری سنو! میں تو (سچے دل سے) تم سب کے رب پر ایمان ﻻ چکا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我确已归信你们的养主，故你们应当听从我。”"
+    }
+   }
+  },
+  {
+   "arabic": "قِيلَ ٱدۡخُلِ ٱلۡجَنَّةَۖ قَالَ يَٰلَيۡتَ قَوۡمِي يَعۡلَمُونَ",
+   "aya": 26,
+   "id": 3731,
+   "tafsir": {
+    "arabic_moyassar": "قيل له بعد قتله: ادخل الجنة، إكرامًا له."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১২) জান্নাতের নি‘আমতসমূহ দেখে সে আকাঙ্ক্ষাভরে তাকে পুরস্কৃত করার কথা।",
+     "text": "(জাতির লোকেরা তাকে হত্যা করলে) তাকে বলা হল: ‘তুমি জান্নাতে প্রবেশ কর।’ সে (১২)বলল: ‘হায়! আমার জাতি যদি জানতে পারত,"
+    },
+    "en": {
+     "footnotes": "[6] After he was martyred for the sake of Allah. [7] He said so after Allah admitted him into paradise and he saw the pleasures therein.",
+     "text": "[But they killed him], so he was told[6], “Enter Paradise.” He said, “If only my people knew[7]"
+    },
+    "fr": {
+     "footnotes": "[4] Après sa mort, tué par son peuple.",
+     "text": "Il lui fut dit[4] : « Entre au Paradis ! » Il dit : « Si seulement mon peuple pouvait savoir"
+    },
+    "id": {
+     "footnotes": "[719] Menurut riwayat, laki-laki itu dibunuh oleh kaumnya setelah ia mengucapkan kata-katanya sebagai nasihat kepada kaumnya seperti tersebut dalam ayat 20 s/d 25. Ketika dia akan meninggal; malaikat turun memberitahukan bahwa Allah telah mengampuni dosanya dan dia akan masuk surga.",
+     "text": "Dikatakan (kepadanya), \"Masuklah ke surga.\"[719] Dia (laki-laki itu) berkata, \"Alangkah baiknya sekiranya kaumku mengetahui,"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "(اس سے) کہا گیا کہ جنت میں چلا جا، کہنے لگا کاش! میری قوم کو بھی علم ہو جاتا."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "有声音对他说：“你入乐园吧！”他说：“但愿我的宗族知道，"
+    }
+   }
+  },
+  {
+   "arabic": "بِمَا غَفَرَ لِي رَبِّي وَجَعَلَنِي مِنَ ٱلۡمُكۡرَمِينَ",
+   "aya": 27,
+   "id": 3732,
+   "tafsir": {
+    "arabic_moyassar": "قال وهو في النعيم والكرامة: يا ليت قومي يعلمون بغفران ربي لي وإكرامه إياي; بسبب إيماني بالله وصبري على طاعته، واتباع رسله حتى قُتِلت، فيؤمنوا بالله فيدخلوا الجنة مثلي."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "‘আমার রব আমাকে কীসের বিনিময়ে ক্ষমা করে দিয়েছেন এবং আমাকে সম্মানিত (জান্নাতি)-দের দলে অন্তর্ভুক্ত করেছেন।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "of how my Lord has forgiven me, and made me among the honored ones.”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "que mon Seigneur m’a pardonné et placé au nombre des hôtes honorés du Paradis ! »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "apa yang menyebabkan Tuhanku memberi ampun kepadaku dan menjadikan aku termasuk orang-orang yang telah dimuliakan.\""
+    },
+    "ur": {
+     "footnotes": "[1] یعنی جس ایمان اور توحید کی وجہ سے مجھے رب نے بخش دیا، کاش میری قوم اس بات کو جان لے تاکہ وہ بھی ایمان وتوحید کو اپنا کر اللہ کی مغفرت اور اس کی نعمتوں کی مستحق ہو جائے۔ اس طرح اس شخص نے مرنے کے بعد بھی اپنی قوم کی خیر خواہی کی۔ ایک مومن صادق کو ایسا ہی ہونا چاہئے کہ وہ ہر وقت لوگوں کی خیر خواہی ہی کرے، بدخواہی نہ کرے۔ ان کی صحیح رہنمائی کرے، گمراہ نہ کرے، بیشک لوگ اسے جو چاہے کہیں اور جس قسم کا سلوک چاہیں کریں، حتیٰ کہ اسے مار ڈالیں۔",
+     "text": "کہ مجھے میرے رب نے بخش دیا اور مجھے باعزت لوگوں میں سے کر دیا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我的养主已赦宥我，并使我成为受优待者！”"
+    }
+   }
+  },
+  {
+   "arabic": "۞ وَمَآ أَنزَلۡنَا عَلَىٰ قَوۡمِهِۦ مِنۢ بَعۡدِهِۦ مِن جُندٖ مِّنَ ٱلسَّمَآءِ وَمَا كُنَّا مُنزِلِينَ",
+   "aya": 28,
+   "id": 3733,
+   "tafsir": {
+    "arabic_moyassar": "وما احتاج الأمر إلى إنزال جند من السماء لعذابهم بعد قتلهم الرجل الناصح لهم وتكذيبهم رسلهم، فهم أضعف من ذلك وأهون، وما كنا منزلين الملائكة على الأمم إذا أهلكناهم، بل نبعث عليهم عذابًا يدمرهم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১৩) আসমান থেকে একটি বিকট শব্দের মাধ্যমে তাদের ধ্বংস করা হয়েছে । তাতে শাস্তির ফিরিশতা অবতরণের কোন প্রয়োজন পড়েনি।",
+     "text": "আর আমি তার (মৃত্যুর) পর তার জাতির বিরুদ্ধে আসমান থেকে কোন সৈন্য (ফিরিশতা) পাঠাইনি। আর তা পাঠানোর কোন দরকারও আমার ছিল না।(১৩)"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "After his death, We did not send down any soldiers from heaven against his people, nor would We have done so."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Après sa mort, Nous n’avons pas eu besoin de faire descendre sur son peuple une armée venant du ciel."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan setelah dia (meninggal), Kami tidak menurunkan suatu pasukan pun dari langit kepada kaumnya, dan Kami tidak perlu menurunkannya."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی حبیب نجار کےقتل کے بعد ہم نے ان کی ہلاکت کے لئے آسمان سے فرشتوں کا کوئی لشکر نہیں اتارا۔ یہ اس قوم کی تحقیر شان کی طرف اشارہ ہے۔\n[2] یعنی جس قوم کی ہلاکت کسی دوسرے طریقے سے لکھی جاتی ہے تو وہاں ہم فرشتے نازل بھی نہیں کرتے۔",
+     "text": "اس کے بعد ہم نے اس کی قوم پر آسمان سے کوئی لشکر نہ اتارا[1] ، اور نہ اس طرح ہم اتارا کرتے ہیں.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "在他之后，我没有降天使去惩治他的宗族，我也不常常降天使。"
+    }
+   }
+  },
+  {
+   "arabic": "إِن كَانَتۡ إِلَّا صَيۡحَةٗ وَٰحِدَةٗ فَإِذَا هُمۡ خَٰمِدُونَ",
+   "aya": 29,
+   "id": 3734,
+   "tafsir": {
+    "arabic_moyassar": "ما كان هلاكهم إلا بصيحة واحدة، فإذا هم ميتون لم تَبْقَ منهم باقية."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১৪) তার জাতিকে ধ্বংস করার উপলক্ষ্য।",
+     "text": "তা (১৪) কেবল একটি বিকট আওয়াজ ছিল, ফলে তারা নিথর-নিস্তব্ধ হয়ে পড়ল।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "It was no more than a single blast, and immediately they were extinguished."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Il a suffi d’un seul Cri qui en fit des corps sans vie."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Tidak ada siksaan terhadap mereka melainkan dengan satu teriakan saja; maka seketika itu mereka mati."
+    },
+    "ur": {
+     "footnotes": "[1] کہتے ہیں کہ جبرائیل (عليه السلام) نے ایک چیخ ماری، جس سے سب کے جسموں سے روحیں نکل گئیں اور وہ بجھی آگ کی طرح ہوگئے۔ گویا زندگی، شعلۂ فروزاں ہے اور موت، اس کا بجھ کر راکھ کا ڈھیر ہو جانا۔",
+     "text": "وه تو صرف ایک زور کی چیﺦ تھی کہ یکایک وه سب کے سب بجھ بجھا گئے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "才听见一声吶喊，他们就灭亡了。"
+    }
+   }
+  },
+  {
+   "arabic": "يَٰحَسۡرَةً عَلَى ٱلۡعِبَادِۚ مَا يَأۡتِيهِم مِّن رَّسُولٍ إِلَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ",
+   "aya": 30,
+   "id": 3735,
+   "tafsir": {
+    "arabic_moyassar": "يا حسرة العباد وندامتهم يوم القيامة إذا عاينوا العذاب، ما يأتيهم من رسول من الله تعالى إلا كانوا به يستهزئون ويسخرون."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১৫) কিয়ামতের দিন যখন তারা শাস্তি দেখতে পাবে।",
+     "text": "হায় আফসোস বান্দাদের জন্য!(১৫) যখনই তাদের কাছে কোন রাসূল এসেছে তখনই তারা তাকে নিয়ে ঠাট্টা-বিদ্রুপ করেছে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Alas for the humans! No messenger ever comes to them but they ridicule him."
+    },
+    "fr": {
+     "footnotes": "[5] Autre sens : quelle tristesse pour les hommes !",
+     "text": "Malheur aux hommes[5] ! Nul messager ne leur est envoyé sans qu’ils ne l’accablent de moqueries."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Alangkah besar penyesalan terhadap hamba-hamba itu, setiap datang seorang rasul kepada mereka, mereka selalu memperolok-olokkannya."
+    },
+    "ur": {
+     "footnotes": "[1] حسرت وندامت کا یہ اظہار خود اپنے نفسوں پر، قیامت والے دن، عذاب دیکھنے کے بعد کریں گے کہ کاش انہوں نے اللہ کے بارے میں کوتاہی نہ کی ہوتی یا اللہ تعالیٰ بندوں کے رویے پر افسوس کر رہا ہے کہ ان کے پاس جب بھی کوئی رسول آیا انہوں نے اس کے ساتھ استہزا ہی کیا۔",
+     "text": "(ایسے) بندوں پر افسوس[1] ! کبھی بھی کوئی رسول ان کے پاس نہیں آیا جس کی ہنسی انہوں نے نہ اڑائی ہو."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "哀哉众仆！只要有使者来临他们，他们便加以愚弄。"
+    }
+   }
+  },
+  {
+   "arabic": "أَلَمۡ يَرَوۡاْ كَمۡ أَهۡلَكۡنَا قَبۡلَهُم مِّنَ ٱلۡقُرُونِ أَنَّهُمۡ إِلَيۡهِمۡ لَا يَرۡجِعُونَ",
+   "aya": 31,
+   "id": 3736,
+   "tafsir": {
+    "arabic_moyassar": "ألم ير هؤلاء المستهزئون ويعتبروا بمن قبلهم من القرون التي أهلكناها أنهم لا يرجعون إلى هذه الدنيا؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১৬) দুনিয়াতে দ্বিতীয়বারের মত।",
+     "text": "তারা কি লক্ষ্য করেনি যে, আমি তাদের পূর্বে কত প্রজন্মকে ধ্বংস করেছি। নিশ্চয় তারা(১৬) তাদের কাছে ফিরে আসবে না।"
+    },
+    "en": {
+     "footnotes": "[8] i.e., to the life of this world.",
+     "text": "Do they not see how many generations We destroyed before them who will never come back to them[8]?"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "N’ont-ils pas appris combien Nous avons anéanti avant eux de nations qu’ils ne verront plus jamais réapparaître"
+    },
+    "id": {
+     "footnotes": "[720] Mereka itu tidak kembali ke dunia.",
+     "text": "Tidakkah mereka mengetahui berapa banyak umat-umat sebelum mereka yang telah Kami binasakan. Orang-orang (yang telah Kami binasakan) itu tidak ada yang kembali kepada mereka.[720]"
+    },
+    "ur": {
+     "footnotes": "[1] اس میں اہل مکہ کے لئے تنبیہ ہے کہ تکذیب رسالت کی وجہ سے جس طرح پچھلی قومیں تباہ ہوئیں یہ بھی تباہ ہو سکتے ہیں۔",
+     "text": "کیا انہوں نے نہیں دیکھا کہ ان کے پہلے بہت سی قوموں کو ہم نے غارت کر دیا کہ وه ان[1] کی طرف لوٹ کر نہیں آئیں گے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "难道他们不知道吗？在他们之前，我曾毁灭了许多世代，那些被毁灭的世代永不转回尘世。"
+    }
+   }
+  },
+  {
+   "arabic": "وَإِن كُلّٞ لَّمَّا جَمِيعٞ لَّدَيۡنَا مُحۡضَرُونَ",
+   "aya": 32,
+   "id": 3737,
+   "tafsir": {
+    "arabic_moyassar": "وما كل هذه القرون التي أهلكناها وغيرهم، إلا محضرون جميعًا عندنا يوم القيامة للحساب والجزاء."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর তাদের সকলকে একত্রে আমার কাছে উপস্থিত করা হবে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Yet all of them will be brought before Us."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "et qui, toutes sans exception, seront devant Nous appelées à comparaître ?"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan setiap (umat), semuanya akan dihadapkan kepada Kami."
+    },
+    "ur": {
+     "footnotes": "[1] اس میں إِنْ نافیہ ہے اور لَمَّا، إِلا کے معنی میں۔ مطلب یہ ہے کہ تمام لوگ گزشتہ بھی اور آئندہ آنے والے بھی، سب اللہ کی بارگاہ میں حاضر ہوں گے جہاں ان کا حساب کتاب ہوگا۔",
+     "text": "اور نہیں ہے کوئی جماعت مگر یہ کہ وه جمع ہو کر ہمارے سامنے حاضر کی جائے گی.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们将统统被拘禁在我这里。"
+    }
+   }
+  },
+  {
+   "arabic": "وَءَايَةٞ لَّهُمُ ٱلۡأَرۡضُ ٱلۡمَيۡتَةُ أَحۡيَيۡنَٰهَا وَأَخۡرَجۡنَا مِنۡهَا حَبّٗا فَمِنۡهُ يَأۡكُلُونَ",
+   "aya": 33,
+   "id": 3738,
+   "tafsir": {
+    "arabic_moyassar": "ودلالة لهؤلاء المشركين على قدرة الله على البعث والنشور: هذه الأرض الميتة التي لا نبات فيها، أحييناها بإنزال الماء، وأخرجنا منها أنواع النبات مما يأكل الناس والأنعام، ومن أحيا الأرض بالنبات أحيا الخلق بعد الممات."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১৭) অর্থাৎ যিনি এই জমিনকে মৃত্যুর পর বৃষ্টি বর্ষানো ও উদ্ভিদ ফলানোর মাধ্যমে জীবিত করলেন, তিনি মৃতদেরকেও জীবিত ও পুনরুত্থান করতে সক্ষম।",
+     "text": "আর মৃত জমিন তাদের জন্য একটি নিদর্শন, আমি এটিকে (বৃষ্টি বর্ষণ করে) জীবিত করেছি এবং তা থেকে শস্যদানা উৎপন্ন করেছি। অতঃপর তা থেকেই তারা আহার করে।(১৭)"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "There is a sign for them in the dead land: We give it life and produce from it grain for them to eat."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Il est un signe pour les hommes dans la terre morte que Nous faisons revivre et de laquelle Nous tirons des céréales dont ils se nourrissent,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan suatu tanda (kebesaran Allah) bagi mereka adalah bumi yang mati (tandus). Kami hidupkan bumi itu dan Kami keluarkan darinya biji-bijian, maka dari (biji-bijian) itu mereka makan."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی اللہ تعالیٰ کے وجود، اس کی قدرت تامہ اور مردوں کو دوبارہ زندہ کرنےپر نشانی۔",
+     "text": "اور ان کے لئے ایک نشانی[1] (خشک) زمین ہے جس کو ہم نے زنده کر دیا اور اس سے غلہ نکالا جس میں سے وه کھاتے ہیں."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们有一种迹象：已死的大地，我使它复活，我使它生长粮食，以作他们的食品。"
+    }
+   }
+  },
+  {
+   "arabic": "وَجَعَلۡنَا فِيهَا جَنَّٰتٖ مِّن نَّخِيلٖ وَأَعۡنَٰبٖ وَفَجَّرۡنَا فِيهَا مِنَ ٱلۡعُيُونِ",
+   "aya": 34,
+   "id": 3739,
+   "tafsir": {
+    "arabic_moyassar": "وجعلنا في هذه الأرض بساتين من نخيل وأعناب، وفجَّرنا فيها من عيون المياه ما يسقيها."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর আমি তার মাঝে খেজুর ও আঙ্গুরের বাগান সৃষ্টি করেছি এবং সেখানে প্রবাহিত করেছি কিছু ঝর্ণাধারা।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "And We have made therein gardens of palm trees and grapevines, and caused springs to gush forth,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "dans laquelle Nous disposons des palmeraies et des vignes, et faisons jaillir des sources,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan Kami jadikan padanya di bumi itu kebun-kebun kurma dan anggur dan Kami pancarkan padanya beberapa mata air,"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی مردہ زمین کو زندہ کر کے ہم اس سے ان کی خوراک کے لئے صرف غلہ ہی نہیں اگاتے، بلکہ ان کے کام ودہن کی لذت کے لئے انواع واقسام کے پھل بھی کثرت سے پیدا کرتے ہیں، یہاں صرف دو پھلوں کا ذکر اس لئے کیا ہے کہ یہ کثیر المنافع بھی ہیں اور عربوں کو مرغوب بھی، نیز ان کی پیداوار بھی عرب میں زیادہ ہے۔ پھر غلے کا ذکر پہلے کیا کیونکہ اس کی پیداوار بھی زیادہ ہے اور خوراک کی حیثیت سے اس کی اہمیت بھی مسلمہ۔ جب تک انسان روٹی یا چاول وغیرہ خوراک سے اپنا پیٹ نہیں بھرتا، محض پھل فروٹ سےاس کی غذائی ضرورت پوری نہیں ہوتی۔",
+     "text": "اور ہم نے اس میں کھجوروں کے اور انگور کے باغات پیدا کر دیئے[1] ، اور جن میں ہم نے چشمے بھی جاری کر دیئے ہیں."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我在大地上创造许多椰枣园、葡萄园，我使许多源泉，从地中涌出，"
+    }
+   }
+  },
+  {
+   "arabic": "لِيَأۡكُلُواْ مِن ثَمَرِهِۦ وَمَا عَمِلَتۡهُ أَيۡدِيهِمۡۚ أَفَلَا يَشۡكُرُونَ",
+   "aya": 35,
+   "id": 3740,
+   "tafsir": {
+    "arabic_moyassar": "كل ذلك; ليأكل العباد من ثمره، وما ذلك إلا من رحمة الله بهم لا بسعيهم ولا بكدِّهم، ولا بحولهم وبقوتهم، أفلا يشكرون الله على ما أنعم به عليهم من هذه النعم التي لا تعدُّ ولا تحصى؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১৮) আল্লাহ ও তাঁর রাসূলের প্রতি ঈমান এনে।",
+     "text": "যাতে তারা তার ফল খেতে পারে; অথচ তাদের হাত তা বানায়নি। তবুও কি তারা (১৮) কৃতজ্ঞতা প্রকাশ করবে না!"
+    },
+    "en": {
+     "footnotes": "[9] i.e., that which Allah has produced for them without labor on their part.",
+     "text": "so that they may eat of its fruit that was not made by their hands[9]. Will they not then give thanks?"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "afin qu’ils consomment de leurs fruits qui ne sont point l’œuvre de leurs mains. Ne vont-ils pas faire preuve de reconnaissance ?"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "agar mereka dapat makan dari buahnya, dan dari hasil usaha tangan mereka. Maka mengapa mereka tidak bersyukur?"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی بعض جگہ بھی چشمے جاری کرتے ہیں، جس کے پانی سے پیداہونے والے پھل لوگ کھائیں۔\n[2] امام ابن جریر کے نزدیک یہاں ما نافیہ ہے یعنی غلوں اور پھلوں کی یہ پیداوار، اللہ تعالیٰ کی خاص رحمت ہے جو وہ اپنے بندوں پر کرتا ہے۔ اس میں ان کی سعی ومحنت، کدوکاوش اور تصرف کا دخل نہیں ہے۔ پھر بھی یہ اللہ کی ان نعمتوں پر اس کا شکر کیوں نہیں کرتے؟ اور بعض کے نزدیک (مَا) موصولہ ہےجو الَّذِي کے معنی میں ہے یعنی تاکہ وہ اس کا پھل کھائیں اور ان چیزوں کو جن کو ان کے ہاتھوں نے بنایا۔ ہاتھوں کا عمل ہے، زمین کو ہموار کرکے بیج بونا، اسی طرح پھلوں کے کھانے کے مختلف طریقے ہیں، مثلاً انہیں نچوڑ کر ان کا رس پینا، مختلف فروٹوں کو ملاکر چاٹ بنانا، وغیرہ۔",
+     "text": "تاکہ (لوگ) اس کے پھل کھائیں[1] ، اور اس کو ان کے ہاتھوں نے نہیں بنایا[2]۔ پھر کیوں شکر گزاری نہیں کرتے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "以便他们食其果实。这些果实不是他们的手造出来的，难道他们不感谢么？"
+    }
+   }
+  },
+  {
+   "arabic": "سُبۡحَٰنَ ٱلَّذِي خَلَقَ ٱلۡأَزۡوَٰجَ كُلَّهَا مِمَّا تُنۢبِتُ ٱلۡأَرۡضُ وَمِنۡ أَنفُسِهِمۡ وَمِمَّا لَا يَعۡلَمُونَ",
+   "aya": 36,
+   "id": 3741,
+   "tafsir": {
+    "arabic_moyassar": "تنزَّه الله العظيم الذي خلق الأصناف جميعها من أنواع نبات الأرض، ومن أنفسهم ذكورًا وإناثًا، ومما لا يعلمون من مخلوقات الله الأخرى. قد انفرد سبحانه بالخلق، فلا ينبغي أن يُشْرَك به غيره."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "পবিত্র ও মহান সে সত্তা, যিনি সবকিছু জোড়ায় জোড়ায় সৃষ্টি করেছেন, জমিনের উৎপন্ন উদ্ভিদের মধ্যে হোক, কিংবা মানুষের নিজেদের মধ্যে বা এমন সৃষ্টির মধ্যে হোক, যাদের সম্পর্কে তারা (এখনও) জানে না ।"
+    },
+    "en": {
+     "footnotes": "[10] i.e., all species, all things in pairs.",
+     "text": "Glory be to the One Who created all types of things[10] that the earth produces, and of themselves, and of things that they have no knowledge about."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Gloire à Celui qui a créé les différentes variétés d’arbres et de plantes, les hommes et les femmes, et diverses espèces de créatures dont ils ignorent jusqu’à l’existence !"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Mahasuci (Allah) yang telah menciptakan semuanya berpasang-pasangan, baik dari apa yang ditumbuhkan oleh bumi dan dari diri mereka sendiri, maupun dari apa yang tidak mereka ketahui."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی انسانوں کی طرح زمین کی ہر پیداوار میں بھی ہم نے نر اور مادہ دونوں پیدا کیے ہیں۔ علاوہ ازیں آسمانوں میں اور زمین کی گہرائیوں میں بھی جو چیزیں تم سے غائب ہیں، جن کا علم تم نہیں رکھتے، ان میں بھی زوجیت (نر اور مادہ) کا یہ نظام ہم نے رکھا ہے، پس تمام مخلوق جوڑا جوڑا ہے، نباتات میں بھی نر اور مادے کا یہی نظام ہے۔ حتیٰ کہ آخرت کی زندگی، دنیا کی زندگی کے لئے بمنزلۂ زوج ہے اور یہ حیات آخرت کے لئے ایک عقلی دلیل بھی ہے۔ صرف ایک اللہ کی ذات ہے جو مخلوق کی اس صفت سے اور دیگر تمام کوتاہیوں سے پاک ہے۔ وہ وتر (فرد) ہے، زوج نہیں۔",
+     "text": "وه پاک ذات ہے جس نے ہر چیز کے جوڑے پیدا کیے خواه وه زمین کی اگائی ہوئی چیزیں ہوں، خواه خود ان کے نفوس ہوں خواه وه (چیزیں) ہوں جنہیں یہ جانتے بھی نہیں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "赞颂安拉，超绝万物！他创造一切配偶，有从地面所生产的，有出自他们自身的，以及他们所不知道的。"
+    }
+   }
+  },
+  {
+   "arabic": "وَءَايَةٞ لَّهُمُ ٱلَّيۡلُ نَسۡلَخُ مِنۡهُ ٱلنَّهَارَ فَإِذَا هُم مُّظۡلِمُونَ",
+   "aya": 37,
+   "id": 3742,
+   "tafsir": {
+    "arabic_moyassar": "وعلامة لهم دالة على توحيد الله وكمال قدرته: هذا الليل ننزع منه النهار، فإذا الناس مظلمون."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর রাত তাদের জন্য একটি নিদর্শন; আমি তা থেকে দিনকে সরিয়ে নেই, ফলে তখনই তারা অন্ধকারাচ্ছন্ন হয়ে যায়।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "There is another sign for them in the night: We strip from it the daylight, and they are left in darkness."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Il est un autre signe pour les hommes dans l’obscurité de la nuit par laquelle Nous dépouillons le jour de sa lumière, si bien qu’ils se retrouvent plongés dans le noir."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan suatu tanda (kebesaran Allah) bagi mereka adalah malam; Kami tanggalkan siang dari (malam) itu, maka seketika itu mereka (berada dalam) kegelapan,"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی اللہ کی قدرت کی ایک دلیل یہ بھی ہے کہ وہ دن کو رات سے الگ کر دیتا ہے، جس سے فوراً اندھیرا چھا جاتا ہے۔ سلخ کےمعنی ہوتے ہیں جانور کی کھال کا اس کے جسم سے علیحدہ کرنا، جس سے اس کا گوشت ظاہر ہوجاتا ہے۔ اسی طرح اللہ دن کو رات سے الگ کر دیتا ہے۔ أَظْلَمَ کے معنی ہیں، اندھیرے میں داخل ہونا۔ جیسے أَصْبحَ اور أَمْسَى ٰ اور أَظْهَر َ کے معنی ہیں، صبح، شام اور ظہر کے وقت میں داخل ہونا۔",
+     "text": "اور ان کے لئے ایک نشانی رات ہے جس سے ہم دن کو کھینچ دیتے ہیں تو وه یکایک اندھیرے میں ره جاتے ہیں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们有一种迹象，我使白昼脱离黑夜，他们便忽然在黑暗中。"
+    }
+   }
+  },
+  {
+   "arabic": "وَٱلشَّمۡسُ تَجۡرِي لِمُسۡتَقَرّٖ لَّهَاۚ ذَٰلِكَ تَقۡدِيرُ ٱلۡعَزِيزِ ٱلۡعَلِيمِ",
+   "aya": 38,
+   "id": 3743,
+   "tafsir": {
+    "arabic_moyassar": "وآية لهم الشمس تجري لمستقر لها، قدَّره الله لها لا تتعداه ولا تقصر عنه، ذلك تقدير العزيز الذي لا يغالَب، العليم الذي لا يغيب عن علمه شيء."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর (আল্লাহর তাওহীদের আরেকটি নিদর্শন হলো) সূর্য ভ্রমণ করে তার নির্দিষ্ট কক্ষপথে, এটা মহাপরাক্রমশালী সর্বজ্ঞ (আল্লাহ) কর্তৃক নির্ধারণ।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "The sun is running to its determined course. That is the design of the All-Mighty, All-Knowing."
+    },
+    "fr": {
+     "footnotes": "[6] Ou : un lieu.",
+     "text": "Il est un signe également dans le soleil qui, soumis à la loi du Seigneur Tout-Puissant et Omniscient, poursuit sa course jusqu’à un terme[6] déjà fixé,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan matahari berjalan di tempat peredarannya. Demikianlah ketetapan (Allah) Yang Mahaperkasa, Maha Mengetahui."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی اپنے اس مدار (فلک) پر چلتا رہتاہے، جو اللہ نے اس کے لئے مقرر کر دیا ہے، اسی سے اپنی سیر کا آغاز کرتا ہے اور وہیں پر ختم کرتا ہے۔ علاوہ ازیں اس سے ذرا ادھر ادھر نہیں ہوتا، کہ کسی دوسرے سیارے سے ٹکرا جائے۔ دوسرے معنی ہیں (اپنے ٹھہرنے کی جگہ تک) اور اس کا یہ مقام قرار عرش کے نیچے ہے، جیسا کہ حدیث میں ہے جو صفحہ 916 (سورۃ الحج، آیت 18 کا حاشیہ) پر گزر چکی ہے کہ سورج روزانہ غروب کے بعد عرش کے نیچے جا کر سجدہ کرتا ہے اور پھر وہاں سے طلوع ہونے کی اجازت طلب کرتا ہے (صحیح بخاری، تفسیر سورۂ یسں) دونوں مفہوم کے اعتبار سے لِمُسْتقَرٍّ میں لام، علت کے لئے ہے۔ أي: لأجل مُسْتقَرٍّ لَّهَا بعض کہتے ہیں کہ لام، الٰی کے معنی میں ہے، پھر مستقر یوم قیامت ہوگا۔ یعنی سورج کا یہ چلنا قیامت کے دن تک ہے، قیامت والے دن اس کی حرکت ختم ہو جائے گی۔ یہ تینوں مفہوم اپنی اپنی جگہ صحیح ہیں۔",
+     "text": "اور سورج کے لئے جو مقرره راه ہے وه اسی پر چلتا رہتا ہے[1] ۔ یہ ہے مقرر کرده غالب، باعلم اللہ تعالیٰ کا."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "太阳疾行，至一定所，那是万能的、全知的主所预定的。"
+    }
+   }
+  },
+  {
+   "arabic": "وَٱلۡقَمَرَ قَدَّرۡنَٰهُ مَنَازِلَ حَتَّىٰ عَادَ كَٱلۡعُرۡجُونِ ٱلۡقَدِيمِ",
+   "aya": 39,
+   "id": 3744,
+   "tafsir": {
+    "arabic_moyassar": "والقمرَ آية في خلقه، قدَّرناه منازل كل ليلة، يبدأ هلالا ضئيلا حتى يكمل قمرًا مستديرًا، ثم يرجع ضئيلا مثل عِذْق النخلة المتقوس في الرقة والانحناء والصفرة؛ لقدمه ويُبْسه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১৯) অর্থাৎ আল্লাহর একত্ববাদের আরেকটি প্রমাণ হচ্ছেঃ চাঁদের জন্যে আমি প্রতি রাতে একেকটি কক্ষ নির্ধারণ করেছি। এটি ছোট আকারে প্রথমে উদিত হয়। অতঃপর ক্রমশ বড় হতে থাকে । অস্তে আস্তে আবার ছোট আকৃতি ধারণ করে। অবশেষে তা শুষ্ক বাঁকা, পুরোনো খেজুর শাখার আকারে ফিরে যায়।",
+     "text": "আর চাঁদের জন্য আমি নির্ধারণ করেছি মানযিলসমূহ(১৯), অবশেষে সেটি খেজুরের শুষ্ক পুরাতন শাখার মত হয়ে যায়।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "As for the moon, We have determined phases for it, until it becomes like an old palm stalk."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "et dans la lune à laquelle Nous avons assigné des mansions, si bien qu’elle finit par ressembler à la tige desséchée et courbée de la branche d’un palmier."
+    },
+    "id": {
+     "footnotes": "[721] Bulan itu pada awalnya kecil berbentuk sabit, kemudian setelah menempati tempat peredaran, ia menjadi purnama, kemudian pada tempat peredaran terakhir kelihatan seperti tandan kering yang melengkung.",
+     "text": "Dan telah Kami tetapkan tempat peredaran bagi bulan, sehingga (setelah ia sampai ke tempat peredaran yang terakhir) kembalilah ia seperti bentuk tandan yang tua.[721]"
+    },
+    "ur": {
+     "footnotes": "[1] چاند کی 28 منزلیں ہیں، روزانہ ایک منزل طے کرتا ہے، پھر دو راتیں غائب رہ کر تیسری رات کو نکل آتا ہے۔\n[2] یعنی جب آخری منزل پر پہنچتا ہے تو بالکل باریک اور چھوٹا ہو جاتا ہے جیسے کھجور کی پرانی ٹہنی ہو، جو سوکھ کر ٹیڑھی ہو جاتی ہے۔چاند کی انہی گردشوں سے سکان ارض اپنے دنوں، مہینوں اور سالوں کا حساب اور اپنے اوقات عبادات کا تعین کرتے ہیں۔",
+     "text": "اور چاند کی ہم نے منزلیں مقررکر رکھی ہیں[1] ، یہاں تک کہ وه لوٹ کر پرانی ٹہنی کی طرح ہو جاتا ہے.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "月亮，我为它预定星宿，直到它再变成像干枯的椰枣枝一样。"
+    }
+   }
+  },
+  {
+   "arabic": "لَا ٱلشَّمۡسُ يَنۢبَغِي لَهَآ أَن تُدۡرِكَ ٱلۡقَمَرَ وَلَا ٱلَّيۡلُ سَابِقُ ٱلنَّهَارِۚ وَكُلّٞ فِي فَلَكٖ يَسۡبَحُونَ",
+   "aya": 40,
+   "id": 3745,
+   "tafsir": {
+    "arabic_moyassar": "لكل من الشمس والقمر والليل والنهار وقت قدَّره الله له لا يتعدَّاه، فلا يمكن للشمس أن تلحق القمر فتمحو نوره، أو تغير مجراه، ولا يمكن للَّيل أن يسبق النهار، فيدخل عليه قبل انقضاء وقته، وكل من الشمس والقمر والكواكب في فلك يَجْرون."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "সূর্যের জন্য সম্ভব নয় চাঁদের নাগাল পাওয়া, আর রাতের জন্য সম্ভব নয় দিনকে অতিক্রম করা। আর প্রত্যেকেই নিজ নিজ কক্ষপথে ভেসে বেড়ায়।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "It is not for the sun to catch up with the moon, nor for the night to outstrip the day. Each is floating in its own orbit."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Le soleil ne saurait rattraper la lune, ni la nuit devancer le jour. Chaque astre décrit une orbite bien déterminée."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Tidaklah mungkin bagi matahari mengejar bulan dan malam pun tidak dapat mendahului siang. Masing-masing beredar pada garis edarnya."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی سورج کے لئے یہ ممکن نہیں ہے کہ وہ چاند کو جا پکڑے جس سے اس کی روشنی ختم ہو جائے بلکہ دونوں کا اپنا اپنا راستہ اور الگ الگ حد ہے۔ سورج دن ہی کو اور چاند رات ہی کو طلوع ہوتا ہے اس کے برعکس کبھی نہیں ہوا، جو ایک مدبر کائنات کے وجود پر ایک بہت بڑی دلیل ہے۔\n[2] بلکہ یہ بھی ایک نظام میں بندھےہوئے ہیں اور ایک، دوسرے کے بعد آتے ہیں۔\n[3] كُلٌّ سے سورج، چاند یا اس کےدوسرے کواکب مراد ہیں، سب اپنے اپنے مدار پر گھومتے ہیں، ان کا باہمی ٹکراؤ نہیں ہوتا۔",
+     "text": "نہ آفتاب کی یہ مجال ہے کہ چاند کو پکڑے[1] اور نہ رات دن پرآگے بڑھ جانے والی ہے[2]، اور سب کے سب آسمان میں تیرتے پھرتے ہیں.[3]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "太阳不得追及月亮，黑夜也不得超越白昼，各在一个轨道上浮游着。"
+    }
+   }
+  },
+  {
+   "arabic": "وَءَايَةٞ لَّهُمۡ أَنَّا حَمَلۡنَا ذُرِّيَّتَهُمۡ فِي ٱلۡفُلۡكِ ٱلۡمَشۡحُونِ",
+   "aya": 41,
+   "id": 3746,
+   "tafsir": {
+    "arabic_moyassar": "ودليل لهم وبرهان على أن الله وحده المستحق للعبادة، المنعم بالنعم، أنَّا حملنا مَن نجا مِن ولد آدم في سفينة نوح المملوءة بأجناس المخلوقات; لاستمرار الحياة بعد الطوفان."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর তাদের জন্য একটি নিদর্শন হল, (নূহ নবীর যুগে) অবশ্যই আমি তাদের বংশধরদেরকে ভরপুর নৌযানে আরোহণ করিয়েছিলাম।"
+    },
+    "en": {
+     "footnotes": "[11] \"Dhurriyyah\" (lit., offspring); however, it is used here to denote ancestors (being the offspring of Noah) who were saved from the flood.",
+     "text": "Another sign for them is that We carried their offspring[11] in the loaded Ark,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Il est un autre signe pour eux dans l’Arche bondée, à bord de laquelle Nous avons transporté ceux qui devaient assurer la pérennité de l’humanité."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan suatu tanda (kebesaran Allah) bagi mereka adalah bahwa Kami angkut keturunan mereka dalam kapal yang penuh muatan,"
+    },
+    "ur": {
+     "footnotes": "[1] اس میں اللہ تعالیٰ اپنے اس احسان کا تذکرہ فرما رہا ہے کہ اس نے تمہارے لئے سمندر میں کشتیوں کا چلنا آسان فرما دیا، حتیٰ کہ تم اپنے ساتھ بھری ہوئی کشتیوں میں اپنے بچوں کو بھی لے جاتے ہو۔ دوسرے معنی یہ کیے گئے ہیں کہ ذُرِّيَّةٌ سے مقصود آبائے ذریت ہیں۔ اور کشتی سے مراد کشتی ﺀ نوح (عليه السلام) ہے۔ یعنی سفینۂ نوح (عليه السلام) میں ان لوگوں کو بٹھایا جن سے بعد میں نسل انسانی چلی۔ گویا نسل انسانی کے آبا اس میں سوار تھے۔",
+     "text": "اور ان کے لئے ایک نشانی (یہ بھی) ہے کہ ہم نے ان کی نسل کو بھری ہوئی کشتی میں سوار کیا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们有一种迹象：我使他们的子孙，乘坐满载的船舶。"
+    }
+   }
+  },
+  {
+   "arabic": "وَخَلَقۡنَا لَهُم مِّن مِّثۡلِهِۦ مَا يَرۡكَبُونَ",
+   "aya": 42,
+   "id": 3747,
+   "tafsir": {
+    "arabic_moyassar": "وخلقنا لهؤلاء المشركين وغيرهم مثل سفينة نوح من السفن وغيرها من المراكب التي يركبونها وتبلِّغهم أوطانهم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(২০) নূহ নবীর নৌযানের মত যানবাহন।",
+     "text": "আর তাদের জন্য তার অনুরূপ (২০) সৃষ্টি করেছি, যাতে তারা আরোহণ করে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and We created for them similar things on which they ride."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Et Nous avons créé pour eux des vaisseaux identiques dans lesquels ils peuvent embarquer."
+    },
+    "id": {
+     "footnotes": "[722] Hewan-hewan tunggangan dan alat-alat pengangkutan umumnya.",
+     "text": "dan Kami ciptakan (juga) untuk mereka (angkutan lain) seperti apa yang mereka kendarai.[722]"
+    },
+    "ur": {
+     "footnotes": "[1] اس سے مراد ایسی سواریاں ہیں جو کشتی کی طرح انسانوں اور سامان تجارت کو ایک جگہ سے دوسری جگہ لے جاتی ہیں، اس میں قیامت تک پیدا ہونے والی چیزیں آگئیں۔ جیسے ہوائی جہاز، بحری جہاز، ریلیں، بسیں، کاریں اور دیگر نقل وحمل کی اشیا۔",
+     "text": "اور ان کے لئے اسی جیسی اور چیزیں پیدا کیں جن پر یہ سوار ہوتے ہیں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我为他们而创造像船舶那样可供骑乘的东西。"
+    }
+   }
+  },
+  {
+   "arabic": "وَإِن نَّشَأۡ نُغۡرِقۡهُمۡ فَلَا صَرِيخَ لَهُمۡ وَلَا هُمۡ يُنقَذُونَ",
+   "aya": 43,
+   "id": 3748,
+   "tafsir": {
+    "arabic_moyassar": "وإن نشأ نغرقهم، فلا يجدون مغيثًا لهم مِن غرقهم، ولا هم يخلصون من الغرق."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর আমি তাদেরকে ডুবাতে চাইলে তা করতে পারি, তখন তাদের জন্য কোন সাহায্যকারী থাকে না এবং তাদেরকে উদ্ধারও করা হয় না।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "If We willed, We could drown them, then there would be no one to respond to their cry, nor could they be rescued,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Si Nous le voulions, Nous les engloutirions sous les eaux. Nul ne saurait alors les secourir et ils ne pourraient être sauvés."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan jika Kami menghendaki, Kami tenggelamkan mereka. Maka tidak ada penolong bagi mereka dan tidak (pula) mereka diselamatkan,"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "اور اگر ہم چاہتے تو انہیں ڈبو دیتے۔ پھر نہ تو کوئی ان کا فریاد رس ہوتا نہ وه بچائے جائیں."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "如果我意欲，我就把他们淹死，而他们没有任何援助者，他们将不获拯救，"
+    }
+   }
+  },
+  {
+   "arabic": "إِلَّا رَحۡمَةٗ مِّنَّا وَمَتَٰعًا إِلَىٰ حِينٖ",
+   "aya": 44,
+   "id": 3749,
+   "tafsir": {
+    "arabic_moyassar": "إلا أن نرحمهم فننجيهم ونمتعهم إلى أجل؛ لعلهم يرجعون ويستدركون ما فرَّطوا فيه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(২১) তাহলে তাদেরকে ডুবে যাওয়া থেকে রক্ষা করা হয়। \n (২২) যেন তারা উপদেশ গ্রহণ করে ঈমান গ্রহণ করতে পারে।",
+     "text": "হ্যাঁ, যদি আমার পক্ষ থেকে রহমত হয় (২১) এবং কিছু সময়ের জন্য (দুনিয়াকে) উপভোগের সুযোগ দেয়া হয়।(২২)"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "except by a mercy from Us, leaving them to enjoy for a while."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "A moins que, par miséricorde pour eux, Nous les laissions jouir quelque temps de cette vie."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "melainkan (Kami selamatkan mereka) karena rahmat yang besar dari Kami dan untuk memberikan kesenangan hidup sampai waktu tertentu."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "لیکن ہم اپنی طرف سے رحمت کرتے ہیں اور ایک مدت تک کے لئے انہیں فائدے دے رہے ہیں."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "除非是因为我的恩惠，因为我要使他们享乐至某时。"
+    }
+   }
+  },
+  {
+   "arabic": "وَإِذَا قِيلَ لَهُمُ ٱتَّقُواْ مَا بَيۡنَ أَيۡدِيكُمۡ وَمَا خَلۡفَكُمۡ لَعَلَّكُمۡ تُرۡحَمُونَ",
+   "aya": 45,
+   "id": 3750,
+   "tafsir": {
+    "arabic_moyassar": "وإذا قيل للمشركين: احذروا أمر الآخرة وأهوالها وأحوال الدنيا وعقابها; رجاء رحمة الله لكم، أعرضوا، ولم يجيبوا إلى ذلك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর যখন তাদেরকে বলা হয়, তোমাদের সামনে যা আছে (পরকাল) এবং তোমাদের পিছনে যা আছে (ইহকাল) সে বিষয়ে ভয় করো, যাতে তোমাদের প্রতি অনুগ্রহ করা যায়।"
+    },
+    "en": {
+     "footnotes": "[12] Of what awaits you in this life and in the Hereafter, or of the sins of the past and the future.\n [13] But they ignored the warning.",
+     "text": "When it is said to them, “Beware of what is ahead of you and what is behind you[12], so that you may be shown mercy[13].”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Lorsqu’il leur est dit : « Redoutez, afin d’être touchés par la miséricorde d’Allah, le châtiment qui pourrait vous frapper ici-bas et dans l’au-delà », ils tournent le dos."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan apabila dikatakan kepada mereka, \"Takutlah kamu akan siksa yang dihadapanmu (di dunia) dan azab yang akan datang (akhirat) agar kamu mendapat rahmat.\""
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "اور ان سے جب (کبھی) کہا جاتا ہے کہ اگلے پچھلے (گناہوں) سے بچو تاکہ تم پر رحم کیا جائے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "如果有人对他们说：“你们当畏惧在你们之前的，和在你们之后的，以便你们蒙主的怜悯。”"
+    }
+   }
+  },
+  {
+   "arabic": "وَمَا تَأۡتِيهِم مِّنۡ ءَايَةٖ مِّنۡ ءَايَٰتِ رَبِّهِمۡ إِلَّا كَانُواْ عَنۡهَا مُعۡرِضِينَ",
+   "aya": 46,
+   "id": 3751,
+   "tafsir": {
+    "arabic_moyassar": "وما تجيء هؤلاء المشركين من علامة واضحة من عند ربهم؛ لتهديهم للحق، وتبيِّن لهم صدق الرسول، إلا أعرضوا عنها، ولم ينتفعوا بها."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর তাদের রবের (একত্ববাদের) নিদর্শনসমূহ থেকে তাদের কাছে কোন নিদর্শন আসলেই তারা তা থেকে মুখ ফিরিয়ে নেয়।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "No sign ever comes to them from their Lord except that they turn away from it."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Nul signe ne leur parvient de leur Seigneur sans qu’ils ne s’en détournent."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan setiap kali suatu tanda dari tanda-tanda (kebesaran) Tuhan datang kepada mereka, mereka selalu berpaling darinya."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی توحید اور صداقت رسول کی جو نشانی بھی ان کے سامنے آتی ہے، اس میں یہ غور ہی نہیں کرتے کہ جس سے ان کوفائدہ ہو، ہر نشانی سے اعراض ان کاشیوہ ہے۔",
+     "text": "اور ان کے پاس تو ان کے رب کی نشانیوں میں سے کوئی نشانی ایسی نہیں آئی جس سے یہ بے رخی نہ برتتے ہوں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "每逢他们的养主的一种迹象来临他们，他们便背弃它。"
+    }
+   }
+  },
+  {
+   "arabic": "وَإِذَا قِيلَ لَهُمۡ أَنفِقُواْ مِمَّا رَزَقَكُمُ ٱللَّهُ قَالَ ٱلَّذِينَ كَفَرُواْ لِلَّذِينَ ءَامَنُوٓاْ أَنُطۡعِمُ مَن لَّوۡ يَشَآءُ ٱللَّهُ أَطۡعَمَهُۥٓ إِنۡ أَنتُمۡ إِلَّا فِي ضَلَٰلٖ مُّبِينٖ",
+   "aya": 47,
+   "id": 3752,
+   "tafsir": {
+    "arabic_moyassar": "وإذا قيل للكافرين: أنفقوا من الرزق الذي مَنَّ به الله عليكم، قالوا للمؤمنين مُحْتجِّين: أنطعم من لو شاء الله أطعمه؟ ما أنتم -أيها المؤمنون- إلا في بُعْدٍ واضح عن الحق، إذ تأمروننا بذلك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(২৩) গরিব-অসহায়দের জন্যে।",
+     "text": "আর যখন তাদেরকে বলা হয়: ‘আল্লাহ তোমাদেরকে যে রিযক দিয়েছেন, তা থেকে তোমরা (২৩) ব্যয় কর।’ তখন কাফিররা মু’মিনদেরকে বলে: ‘আমরা কি তাদেরকে খাওয়াবো, যাদেরকে আল্লাহ চাইলে নিজেই খাওয়াতে পারেন। ওহে মু’মিনগণ! তোমরা তো স্পষ্ট পথভ্রষ্টতায় রয়েছ।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "And when it is said to them, “Spend of what Allah has provided you with”, the disbelievers say to the believers, “Should we feed those whom Allah could feed if He willed? You are clearly misguided!”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Et lorsqu’il leur est dit : « Offrez par charité une partie de ce qu’Allah vous a accordé », les mécréants lancent aux croyants : « Allons-nous nourrir ceux qu’Allah, s’Il le voulait, pourrait Lui-même nourrir ? Vous êtes manifestement dans l’erreur ! »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan apabila dikatakan kepada mereka, \"Infakkanlah sebagian rezeki yang diberikan Allah kepadamu,\" orang-orang yang kafir itu berkata kepada orang-orang yang beriman, \"Apakah pantas kami memberi makan kepada orang-orang yang jika Allah menghendaki Dia akan memberinya makan? Kamu benar-benar dalam kesesatan yang nyata.\""
+    },
+    "ur": {
+     "footnotes": "[1] یعنی غربا ومساکین اور ضرورت مندوں کو دو۔\n[2] یعنی اللہ چاہتا تو ان کو غریب ہی نہ کرتا، ہم ان کو دے کر اللہ کی مشیت کے خلاف کیوں کریں۔\n[3] یعنی یہ کہہ کر کہ، غربا کی مدد کرو، کھلی غلطی کا مظاہرہ کر رہے ہو۔ یہ بات تو ان کی صحیح تھی کہ غربت وناداری اللہ کی مشیت ہی سے تھی، لیکن اس کو اللہ کے حکم سے اعراض کا جواز بنا لینا غلط تھا، آخر ان کی امداد کرنےکا حکم دینے والا بھی تو اللہ ہی تھا، اس لئے اس کی رضا تو اسی میں ہے کہ غربا ومساکین کی امداد کی جائے۔ اس لئے کہ مشیت اور چیز ہے اور رضا اور چیز۔ مشیت کا تعلق امور تکوینی سے ہے جس کے تحت جو کچھ بھی ہوتاہے، اس کی حکمت ومصلحت اللہ کے سوا کوئی نہیں جانتا، اور رضا کا تعلق امور تشریعی سے ہے، جن کو بجا لانے کا ہمیں حکم دیا گیا ہے تاکہ ہمیں اس کی رضا حاصل ہو۔",
+     "text": "اور ان سے جب کہا جاتا ہے کہ اللہ تعالیٰ کے دیئے ہوئے میں سے کچھ خرچ کرو[1] ، تو یہ کفار ایمان والوں کو جواب دیتے ہیں کہ ہم انہیں کیوں کھلائیں؟ جنہیں اگر اللہ تعالیٰ چاہتا تو خود کھلا پلا دیتا[2]، تم تو ہو ہی کھلی گمراہی میں.[3]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "如果有人对他们说：“你们应当分舍安拉所赐予你们的。”那么，不归信者将对归信者说：“安拉欲供养谁就供养谁，我们何必供养他呢？你们只是在明显的迷误中。”"
+    }
+   }
+  },
+  {
+   "arabic": "وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلۡوَعۡدُ إِن كُنتُمۡ صَٰدِقِينَ",
+   "aya": 48,
+   "id": 3753,
+   "tafsir": {
+    "arabic_moyassar": "ويقول هؤلاء الكفار على وجه التكذيب والاستعجال: متى يكون البعث إن كنتم صادقين فيما تقولونه عنه؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর তারা বলে: ‘তোমরা যদি সত্যবাদী হও তবে বলো (কিয়ামত সংঘটিত হওয়ার) এ প্রতিশ্রুতি কখন বাস্তবায়িত হবে?"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "They say, “When will this promise come to pass, if you are truthful?”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Ils disent : « Quand donc se réalisera cette menace, si vous dites la vérité ? »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan mereka (orang-orang kafir) berkata, \"Kapan janji (hari berbangkit) itu (terjadi) jika kamu orang-orang yang benar?\""
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "وه کہتے ہیں کہ یہ وعده کب ہوگا، سچے ہو تو بتلاؤ."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们说：“这个警告什么时候实现呢？如果你们是说实话的。”"
+    }
+   }
+  },
+  {
+   "arabic": "مَا يَنظُرُونَ إِلَّا صَيۡحَةٗ وَٰحِدَةٗ تَأۡخُذُهُمۡ وَهُمۡ يَخِصِّمُونَ",
+   "aya": 49,
+   "id": 3754,
+   "tafsir": {
+    "arabic_moyassar": "ما ينتظر هؤلاء المشركون الذين يستعجلون بوعيد الله إياهم إلا نفخة الفَزَع عند قيام الساعة، تأخذهم فجأة، وهم يختصمون في شؤون حياتهم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তারা তো কেবল এক বিকট আওয়াজের (শিঙ্গায় প্রথম ফুৎকারের) অপেক্ষা করছে, যা তাদেরকে বাক-বিতণ্ডায় লিপ্ত অবস্থায় পাকড়াও করবে।"
+    },
+    "en": {
+     "footnotes": "[14] The first blast (lit., a cry or a shriek) of the Trumpet will take them by surprise on the Day of Judgment while they will be disputing in their worldly affairs.",
+     "text": "They are not awaiting but a single Blast that will seize them while they are still disputing[14]."
+    },
+    "fr": {
+     "footnotes": "[7] Le soufflement dans la Corne, annonçant la Résurrection, qui surprendra et foudroiera tous les vivants.",
+     "text": "Ils n’attendront pour cela qu’un seul Cri qui les surprendra en pleine dispute[7],"
+    },
+    "id": {
+     "footnotes": "[723] Suara tiupan sangkakala pertama yang menghancurkan bumi ini.",
+     "text": "Mereka hanya menunggu satu teriakan,[723] yang akan membinasakan mereka ketika mereka sedang bertengkar."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی لوگ بازاروں میں خریدوفروخت اور حسب عادت بحث وتکرار میں مصروف ہوں گے کہ اچانک صور پھونک دیا جائے گا اور قیامت برپا ہوجائے گی یہ نفخۂ اولیٰ ہوگا جسے نفخۂ فزع بھی کہتے ہیں کہا جاتا ہے کہ اس کے بعد دوسرا نفخہ ہوگا۔ نَفْخَةُ الصَّعْقِ جس سے اللہ تعالیٰ کے سوا، سب موت کی آغوش میں چلے جائیں گے۔",
+     "text": "انہیں صرف ایک سخت چیﺦ کاانتظار ہے جو انہیں آپکڑے گی اور یہ باہم لڑائی جھگڑے میں ہی ہوں گے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们只等待着一声吶喊，在他们纷争的时候，袭击他们，"
+    }
+   }
+  },
+  {
+   "arabic": "فَلَا يَسۡتَطِيعُونَ تَوۡصِيَةٗ وَلَآ إِلَىٰٓ أَهۡلِهِمۡ يَرۡجِعُونَ",
+   "aya": 50,
+   "id": 3755,
+   "tafsir": {
+    "arabic_moyassar": "فلا يستطيع هؤلاء المشركون عند النفخ في «القرن» أن يوصوا أحدًا بشيء، ولا يستطيعون الرجوع إلى أهلهم، بل يموتون في أسواقهم ومواضعهم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(২৪) আকস্মিকভাবে এই বিকট ফুৎকারে আঘাত হানার কারণে।\n (২৫) বরং তারা তাদের কর্মস্থলেই মারা পড়বে।",
+     "text": "সুতরাং তারা কোনো (শেষ) ওসিয়ত করারও সুযোগ পাবে না(২৪) এবং নিজেদের পরিবার-পরিজনের কাছেও আর ফিরে যেতে পারবে না।(২৫)"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Then they will not be able to make a will, nor will they be able to return to their households."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "leur ôtant toute possibilité de laisser des recommandations ou de regagner leurs foyers."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sehingga mereka tidak mampu membuat suatu wasiat dan mereka (juga) tidak dapat kembali kepada keluarganya."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "اس وقت نہ تو یہ وصیت کر سکیں گے اور نہ اپنے اہل کی طرف لوٹ سکیں گے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们将来不能立遗嘱，也不能回家去。"
+    }
+   }
+  },
+  {
+   "arabic": "وَنُفِخَ فِي ٱلصُّورِ فَإِذَا هُم مِّنَ ٱلۡأَجۡدَاثِ إِلَىٰ رَبِّهِمۡ يَنسِلُونَ",
+   "aya": 51,
+   "id": 3756,
+   "tafsir": {
+    "arabic_moyassar": "ونُفِخ في «القرن» النفخةُ الثانية، فتُرَدُّ أرواحهم إلى أجسادهم، فإذا هم من قبورهم يخرجون إلى ربهم سراعًا."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর যখন (দ্বিতীয়বার) শিঙ্গায় ফুৎকার দেয়া হবে, তৎক্ষণাৎ তারা কবর থেকে তাদের রবের দিকে ছুটে আসবে।"
+    },
+    "en": {
+     "footnotes": "[15] i.e., the second blast or blow.",
+     "text": "The Trumpet will be blown[15] [again], and at once they will rush from their graves to their Lord."
+    },
+    "fr": {
+     "footnotes": "[8] Une seconde fois.",
+     "text": "Il sera alors soufflé[8] dans la Corne, et voilà que, de leurs tombes, ils se précipiteront vers leur Seigneur,"
+    },
+    "id": {
+     "footnotes": "[724] Tiupan ini adalah tiupan sangkakala kedua yang membangkitkan orang-orang dalam kubur.",
+     "text": "Lalu ditiuplah sangkakala,[724] maka seketika itu mereka keluar dari kuburnya (dalam keadaan hidup), menuju kepada Tuhannya."
+    },
+    "ur": {
+     "footnotes": "[1] پہلے قول کی بنا پر یہ نفخۂ ثانیہ اور دوسرےقول کی بنا پر یہ نفخۂ ثالثہ ہوگا، جسے نَفْخَةُ الْبَعْثِ وَالنُّشُورِ کہتے ہیں، اس سے لوگ قبروں سےزندہ ہو کر اٹھ کھڑے ہوں گے۔ (ابن کثیر)۔",
+     "text": "تو صور کے پھونکے جاتے ہی سب[1] کے سب اپنی قبروں سے اپنے پروردگار کی طرف (تیز تیز) چلنے لگیں گے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "号角一响，他们就从坟墓出来，奔向他们的养主。"
+    }
+   }
+  },
+  {
+   "arabic": "قَالُواْ يَٰوَيۡلَنَا مَنۢ بَعَثَنَا مِن مَّرۡقَدِنَاۜۗ هَٰذَا مَا وَعَدَ ٱلرَّحۡمَٰنُ وَصَدَقَ ٱلۡمُرۡسَلُونَ",
+   "aya": 52,
+   "id": 3757,
+   "tafsir": {
+    "arabic_moyassar": "قال المكذبون بالبعث نادمين: يا هلاكنا مَن أخرجنا مِن قبورنا؟ فيجابون ويقال لهم: هذا ما وعد به الرحمن، وأخبر عنه المرسلون الصادقون."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তারা বলবে, ‘হায় আমাদের সর্বনাশ! কে আমাদেরকে আমাদের নিদ্রাস্থল (কবর) থেকে জাগিয়ে তুলল?’ (তখন তাদেরকে বলা হবে,) ‘এটাই তো সেই প্রতিশ্রুতি, যা পরম করুণাময় (আল্লাহ) দিয়েছিলেন; আর রাসূলগণ সত্যই বলেছিলেন।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "They will say, “Woe to us! Who has resurrected us from our resting place?” [They will be told,] “This is what the Most Compassionate promised, and the messengers told the truth.”"
+    },
+    "fr": {
+     "footnotes": "[9] Cette dernière phrase sera, selon certains commentateurs, prononcée par les croyants ou les anges.",
+     "text": "s’exclamant : « Malheur à nous ! Qui nous a arrachés à notre sommeil ? Voici que s’accomplit la menace du Tout Miséricordieux, les Messagers disaient donc la vérité. »[9]"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Mereka berkata, \"Celakalah kami! Siapakah yang membangkitkan kami dari tempat tidur kami (kubur)?\" Inilah yang dijanjikan (Allah) Yang Maha Pengasih dan benarlah rasul-rasul(-Nya)."
+    },
+    "ur": {
+     "footnotes": "[1] قبر کو خواب گاہ سے تعبیر کرنے کا مطلب یہ نہیں ہے کہ قبر میں ان کو عذاب نہیں ہوگا، بلکہ بعد میں جو ہولناک مناظر اور عذاب کی شدت دیکھیں گے، اس کے مقابلے میں انہیں قبر کی زندگی ایک خواب ہی محسوس ہوگی۔",
+     "text": "کہیں گے ہائے ہائے! ہمیں ہماری خواب گاہوں سے کس نے اٹھا دیا[1] ۔ یہی ہے جس کا وعده رحمٰن نے دیا تھا اور رسولوں نے سچ سچ کہہ دیا تھا."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们将说：“伤哉我们！谁将我们从我们的卧处唤醒？这是至仁主所应许我们的，使者们已说实话了。”"
+    }
+   }
+  },
+  {
+   "arabic": "إِن كَانَتۡ إِلَّا صَيۡحَةٗ وَٰحِدَةٗ فَإِذَا هُمۡ جَمِيعٞ لَّدَيۡنَا مُحۡضَرُونَ",
+   "aya": 53,
+   "id": 3758,
+   "tafsir": {
+    "arabic_moyassar": "ما كان البعث من القبور إلا نتيجة نفخة واحدة في «القرن» ، فإذا جميع الخلق لدينا ماثلون للحساب والجزاء."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "এটা হবে শুধু এক বিকট আওয়াজ; তখনই তাদের সকলকে আমার সামনে উপস্থিত করা হবে ।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "It will only be a single Blast, and at once they will all be brought before Us."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Il suffira d’un seul Cri, et voilà que tous sans exception comparaîtront devant Nous."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Teriakan itu hanya sekali saja, maka seketika itu mereka semua dihadapkan kepada Kami (untuk dihisab)."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "یہ نہیں ہے مگر ایک چیﺦ کہ یکایک سارے کے سارے ہمارے سامنے حاضر کر دیئے جائیں گے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "才听见一声吶喊，他们就统统被拘禁在我这里。"
+    }
+   }
+  },
+  {
+   "arabic": "فَٱلۡيَوۡمَ لَا تُظۡلَمُ نَفۡسٞ شَيۡـٔٗا وَلَا تُجۡزَوۡنَ إِلَّا مَا كُنتُمۡ تَعۡمَلُونَ",
+   "aya": 54,
+   "id": 3759,
+   "tafsir": {
+    "arabic_moyassar": "في ذلك اليوم يتم الحساب بالعدل، فلا تُظْلم نفس شيئًا بنقص حسناتها أو زيادة سيئاتها، ولا تُجْزون إلا بما كنتم تعملونه في الدنيا."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(২৬) পুণ্য কমিয়ে কিংবা পাপ বৃদ্ধি করে।",
+     "text": "সুতরাং, হে বান্দারা! আজ কাউকেই (২৬) কোন যুলম করা হবে না এবং তোমরা (দুনিয়ার জীবনে) যা আমল করছিলে, শুধু তারই প্রতিদান তোমাদেরকে দেওয়া হবে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "On that Day no soul will be wronged in the least, nor will you be recompensed except for what you used to do."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Ce Jour-là, nul ne sera lésé en rien. Vous ne recevrez que la rétribution méritée de vos œuvres."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Maka pada hari itu seseorang tidak akan dirugikan sedikit pun dan kamu tidak akan diberi balasan, kecuali sesuai dengan apa yang telah kamu kerjakan."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "پس آج کسی شخص پر کچھ بھی ﻇلم نہ کیا جائے گا اور تمہیں نہیں بدلہ دیا جائے گا، مگر صرف ان ہی کاموں کا جو تم کیا کرتے تھے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "在那日，任何人不受丝毫枉曲，你们只依自己的行为而受报酬。"
+    }
+   }
+  },
+  {
+   "arabic": "إِنَّ أَصۡحَٰبَ ٱلۡجَنَّةِ ٱلۡيَوۡمَ فِي شُغُلٖ فَٰكِهُونَ",
+   "aya": 55,
+   "id": 3760,
+   "tafsir": {
+    "arabic_moyassar": "إن أهل الجنة في ذلك اليوم مشغولون عن غيرهم بأنواع النعيم التي يتفكهون بها."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "নিশ্চয় (কিয়ামতের) এ দিনে জান্নাতবাসীরা আনন্দে মশগুল থাকবে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Indeed, on that Day the people of Paradise will be busy enjoying themselves,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Les élus du Paradis seront, ce Jour-là, entièrement absorbés par les délices dont ils jouiront"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sesungguhnya penghuni surga pada hari itu bersenang-senang dalam kesibukan (mereka)."
+    },
+    "ur": {
+     "footnotes": "[1] فَاكِهُونَ کے معنی ہیں فَرِحُونَ خوش ، مسرت بکنار۔",
+     "text": "جنتی لوگ آج کے دن اپنے (دلچسﭗ) مشغلوں میں ہشاش بشاش ہیں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "乐园的居民在那日确是从事于愉乐的。"
+    }
+   }
+  },
+  {
+   "arabic": "هُمۡ وَأَزۡوَٰجُهُمۡ فِي ظِلَٰلٍ عَلَى ٱلۡأَرَآئِكِ مُتَّكِـُٔونَ",
+   "aya": 56,
+   "id": 3761,
+   "tafsir": {
+    "arabic_moyassar": "هم وأزواجهم متنعمون بالجلوس على الأسرَّة المزيَّنة، تحت الظلال الوارفة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তারা ও তাদের স্ত্রীগণ (জান্নাতের) সুশীতল ছায়ার মধ্যে সুসজ্জিত আসনে হেলান দিয়ে বসে থাকবে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "they and their spouses will be reclining on couches in the shade."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "eux et leurs épouses, accoudés à l’ombre sur des lits somptueux."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Mereka dan pasangan-pasangannya berada dalam tempat yang teduh, bersandar di atas dipan-dipan."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "وه اور ان کی بیویاں سایوں میں مسہریوں پر تکیہ لگائے بیٹھے ہوں گے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们和自己的配偶，在树荫下，靠在床上。"
+    }
+   }
+  },
+  {
+   "arabic": "لَهُمۡ فِيهَا فَٰكِهَةٞ وَلَهُم مَّا يَدَّعُونَ",
+   "aya": 57,
+   "id": 3762,
+   "tafsir": {
+    "arabic_moyassar": "لهم في الجنة أنواع الفواكه اللذيذة، ولهم كل ما يطلبون من أنواع النعيم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "সেখানে তাদের জন্য থাকবে ফল-ফলাদি এবং থাকবে তারা যা চাইবে তাও।"
+    },
+    "en": {
+     "footnotes": "[16] i.e., wish or desire.",
+     "text": "They will have therein fruits and all what they ask for[16]."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Là, ils verront tous leurs désirs exaucés et se délecteront des fruits les plus délicieux."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Di surga itu mereka memperoleh buah-buahan dan memperoleh apa saja yang mereka inginkan."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "ان کے لئے جنت میں ہر قسم کے میوے ہوں گے اور بھی جو کچھ وه طلب کریں."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们在乐园中，将有水果，并有他们所要求的恩典。"
+    }
+   }
+  },
+  {
+   "arabic": "سَلَٰمٞ قَوۡلٗا مِّن رَّبّٖ رَّحِيمٖ",
+   "aya": 58,
+   "id": 3763,
+   "tafsir": {
+    "arabic_moyassar": "ولهم نعيم آخر أكبر حين يكلمهم ربهم، الرحيم بهم بالسلام عليهم. وعند ذلك تحصل لهم السلامة التامة من جميع الوجوه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(২৭) তোমাদের ওপর শান্তি ও নিরাপত্তা।",
+     "text": "পরম দয়ালু রবের পক্ষ থেকে তাদেরকে বলা হবে ’সালাম’ ।(২৭)"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "“Peace”: a word from a Most Merciful Lord."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "« Que la paix soit avec vous ! » Tels sont les mots qui leur seront adressés par le Seigneur, Très Miséricordieux."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(Kepada mereka dikatakan), \"Salām,\" sebagai ucapan selamat dari Tuhan Yang Maha Penyayang."
+    },
+    "ur": {
+     "footnotes": "[1] اللہ کا یہ سلام، فرشتے اہل جنت کو پہنچائیں گے۔ بعض کہتے ہیں کہ اللہ تعالیٰ خود سلام سے نوازے گا۔",
+     "text": "مہربان پروردگار کی طرف سے انہیں سلام کہا جائے گا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "“平安！”这是从至慈主发出的祝辞。"
+    }
+   }
+  },
+  {
+   "arabic": "وَٱمۡتَٰزُواْ ٱلۡيَوۡمَ أَيُّهَا ٱلۡمُجۡرِمُونَ",
+   "aya": 59,
+   "id": 3764,
+   "tafsir": {
+    "arabic_moyassar": "ويقال للكفار في ذلك اليوم: تميَّزوا عن المؤمنين، وانفصلوا عنهم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "‘হে অপরাধীরা! আজ তোমরা (মু’মিনদের থেকে) পৃথক হয়ে যাও।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "“Stand apart [from the believers] this Day, O wicked ones!"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "« Quant à vous criminels ! Tenez-vous aujourd’hui à l’écart."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan (dikatakan kepada orang-orang kafir), \"Berpisahlah kamu (dari orang-orang mukmin) pada hari ini, wahai orang-orang yang berdosa!"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی اہل ایمان سے الگ ہو کر کھڑے ہو۔ یعنی میدان محشر میں اہل ایمان واطاعت اور اہل کفر ومعصیت الگ الگ کر دیئے جائیں گے۔ جیسے دوسرے مقام پر فرمایا «وَيَوْمَ تَقُومُ السَّاعَةُ يَوْمَئِذٍ يَتَفَرَّقُونَ» (الروم: 14) «يَوْمَئِذٍ يَصَّدَّعُونَ» (الروم: 43) أي: يَصِيرُونَ صِدْعَينِ فِرْقَتَيْنِ (اس دن لوگ دو گروہوں میں بٹ جائیں گے)۔ دوسرا مطلب ہے کہ مجرمین ہی کو مختلف گروہوں میں الگ الگ کر دیا جائے گا۔ مثلاً یہودیوں کا گروہ، عیسائیوں کا گروہ، صابئین اور مجوسیوں کا گروہ، زانیوں کا، شرابیوں کا گروہ وغیرہ وغیرہ۔",
+     "text": "اے گناهگارو! آج تم الگ ہو جاؤ.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "“犯罪的人们呀！今日你们当退避到一边去。"
+    }
+   }
+  },
+  {
+   "arabic": "۞ أَلَمۡ أَعۡهَدۡ إِلَيۡكُمۡ يَٰبَنِيٓ ءَادَمَ أَن لَّا تَعۡبُدُواْ ٱلشَّيۡطَٰنَۖ إِنَّهُۥ لَكُمۡ عَدُوّٞ مُّبِينٞ",
+   "aya": 60,
+   "id": 3765,
+   "tafsir": {
+    "arabic_moyassar": "ويقول الله لهم توبيخًا وتذكيرًا: ألم أوصكم على ألسنة رسلي أن لا تعبدوا الشيطان ولا تطيعوه؟ إنه لكم عدو ظاهر العداوة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(২৮) কুফরীও পাপাচারে লিপ্ত হওয়ার মাধ্যমে।",
+     "text": "হে বানূ আদম! আমি কি তোমাদেরকে এ মর্মে নির্দেশ দেইনি যে, ‘তোমরা (২৮)শয়তানের ইবাদাত করো না? নিঃসন্দেহে সে তোমাদের প্রকাশ্য শত্রু।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Did I not command you, O children of Adam, not to worship Satan, for he is your sworn enemy,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Ne vous ai-Je pas ordonné, descendants d’Adam, de ne pas adorer Satan, votre ennemi déclaré,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Bukankah Aku telah memerintahkan kepadamu wahai anak cucu Adam agar kamu tidak menyembah setan? Sungguh, setan itu musuh yang nyata bagi kamu,"
+    },
+    "ur": {
+     "footnotes": "[1] اس سے مراد عہد الست ہے جو حضرت آدم (عليه السلام) کی پشت سے نکالنے کے وقت لیا گیا تھا یا وہ وصیت ہے جو پیغمبروں کی زبان لوگوں کو کی جاتی رہی۔ اور بعض کے نزدیک وہ دلائل عقلیہ ہیں جو آسمان وزمین میں اللہ نےقائم کیے ہیں۔ (فتح القدیر)۔\n[2] یہ اس کی علت ہے کہ تمہیں شیطان کی عبادت اور اس کے وسوسے قبول کرنے سے اس لئے روکا گیا تھا کہ وہ تمہارا کھلا دشمن ہے اور اس نے تمہیں ہر طرح گمراہ کرنے کی قسم کھا رکھی ہے۔",
+     "text": "اے اوﻻد آدم! کیا میں نے تم سے قول قرار نہیں لیا تھا کہ تم شیطان کی عبادت نہ کرنا[1] ، وه تو تمہارا کھلا دشمن ہے.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "阿丹的后裔呀！难道我没有嘱咐过你们吗？你们不要崇拜恶魔，他确是你们的仇敌。"
+    }
+   }
+  },
+  {
+   "arabic": "وَأَنِ ٱعۡبُدُونِيۚ هَٰذَا صِرَٰطٞ مُّسۡتَقِيمٞ",
+   "aya": 61,
+   "id": 3766,
+   "tafsir": {
+    "arabic_moyassar": "وأمرتكم بعبادتي وحدي، فعبادتي وطاعتي ومعصية الشيطان هي الدين القويم الموصل لمرضاتي وجنَّاتي."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর আমারই ইবাদাত কর, এটাই সরল-সঠিক পথ।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "but to worship Me? This is a straight path."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "et de Me vouer un culte exclusif et sincère, la seule voie du salut ?"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan hendaklah kamu menyembah-Ku. Inilah jalan yang lurus.\""
+    },
+    "ur": {
+     "footnotes": "[1] یعنی یہ بھی عہد لیا تھا کہ تمہیں صرف میری ہی عبادت کرنی ہے، میری عبادت میں کسی کو شریک نہیں کرنا۔\n[2] یعنی صرف ایک اللہ کی عبادت کرنا، یہی وہ سیدھا راستہ ہے، جس کی طرف تمام انبیا لوگوں کو بلاتے رہے اور یہی منزل مقصود یعنی جنت تک پہنچانے والا ہے۔",
+     "text": "اور میری ہی عبادت کرنا[1] ۔ سیدھی راه یہی ہے.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你们应当崇拜我，这是正路。"
+    }
+   }
+  },
+  {
+   "arabic": "وَلَقَدۡ أَضَلَّ مِنكُمۡ جِبِلّٗا كَثِيرًاۖ أَفَلَمۡ تَكُونُواْ تَعۡقِلُونَ",
+   "aya": 62,
+   "id": 3767,
+   "tafsir": {
+    "arabic_moyassar": "ولقد أضلَّ الشيطان عن الحق منكم خلقًا كثيرًا، أفما كان لكم عقل -أيها المشركون- ينهاكم عن اتباعه؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর অবশ্যই শয়তান তোমাদের বহু দলকে পথভ্রষ্ট করেছে। তবুও কি তোমরা বোঝনি?"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "He had already misled great multitudes of you. Did you not then have sense?"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Il a, en vérité, égaré un grand nombre d’entre vous. Etiez-vous donc dépourvus de toute raison ?"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan sungguh, ia (setan itu) telah menyesatkan sebagian besar di antara kamu. Maka apakah kamu tidak mengerti?"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی اتنی عقل بھی تمہارے اندر نہیں کہ شیطان تمہارا دشمن ہے، اس کی اطاعت نہیں کرنی چاہئے۔ اور میں تمہارا رب ہوں، میں ہی تمہیں روزی دیتا ہوں اور میں ہی تمہاری رات دن حفاظت کرتا ہوں لہٰذا تمہیں میری نافرمانی نہیں کرنی چاہئے۔ تم شیطان کی عداوت کو اور میرے حق عبادت کو نہ سمجھ کر نہایت بےعقلی اور نادانی کا مظاہرہ کر رہے ہو۔",
+     "text": "شیطان نے تو تم میں سے بہت ساری مخلوق کو بہکا دیا۔ کیا تم عقل نہیں رکھتے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他确使你们中的许多人迷误，难道你们不明白吗？"
+    }
+   }
+  },
+  {
+   "arabic": "هَٰذِهِۦ جَهَنَّمُ ٱلَّتِي كُنتُمۡ تُوعَدُونَ",
+   "aya": 63,
+   "id": 3768,
+   "tafsir": {
+    "arabic_moyassar": "هذه جهنم التي كنتم توعدون بها في الدنيا على كفركم بالله وتكذيبكم رسله."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "এটি সেই জাহান্নাম, যার প্রতিশ্রুতি তোমাদেরকে (বারবার) দেওয়া হয়েছিল।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "This is the Hell that you were promised."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Voici la Géhenne dont vous étiez menacés."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Inilah (neraka) Jahanam yang dahulu telah diperingatkan kepadamu."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "یہی وه دوزخ ہے جس کا تمہیں وعده دیا جاتا تھا."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "这是从前常常用来恐吓你们的火狱。"
+    }
+   }
+  },
+  {
+   "arabic": "ٱصۡلَوۡهَا ٱلۡيَوۡمَ بِمَا كُنتُمۡ تَكۡفُرُونَ",
+   "aya": 64,
+   "id": 3769,
+   "tafsir": {
+    "arabic_moyassar": "ادخلوها اليوم وقاسوا حرَّها; بسبب كفركم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তোমরা যে কুফরী করতে, সে কারণে আজ তোমরা এখানে প্রবেশ কর (এবং দগ্ধ হও)।"
+    },
+    "en": {
+     "footnotes": "[17] i.e., because you used to disbelieve.",
+     "text": "Burn in it Today for your disbelief[17].”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Entrez-y aujourd’hui pour prix de votre impiété. »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Masuklah ke dalamnya pada hari ini karena dahulu kamu mengingkarinya."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی اب اس بے عقلی کا نتیجہ بھگتو اور اپنے کفر کے سبب سے جہنم کی سختیوں کا مزہ چکھو۔",
+     "text": "اپنے کفر کا بدلہ پانے کے لئے آج اس میں داخل ہوجاؤ.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你们生前不肯归信，所以今日你们当入火狱。”"
+    }
+   }
+  },
+  {
+   "arabic": "ٱلۡيَوۡمَ نَخۡتِمُ عَلَىٰٓ أَفۡوَٰهِهِمۡ وَتُكَلِّمُنَآ أَيۡدِيهِمۡ وَتَشۡهَدُ أَرۡجُلُهُم بِمَا كَانُواْ يَكۡسِبُونَ",
+   "aya": 65,
+   "id": 3770,
+   "tafsir": {
+    "arabic_moyassar": "اليوم نطبع على أفواه المشركين فلا ينطقون، وتُكلِّمنا أيديهم بما بطشت به، وتشهد أرجلهم بما سعت إليه في الدنيا، وكسبت من الآثام."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(২৯) ফলে তারা দুনিয়ার জীবনের কুফরী ও পাপাচারের কথা অস্বীকার করতে গেলে কথা বলতে পারবে না। উপরন্ত তাদের অঙ্গ-প্রত্যঙ্গ এ ব্যাপারে সাক্ষ্য দিবে।",
+     "text": "আজ আমি তাদের মুখে মোহর মেরে দিবো এবং তাদের হাত আমার সাথে কথা বলবে ও তাদের পা সে সম্পর্কে সাক্ষ্য দিবে, যা তারা অর্জন করত।(২৯)"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Today We will seal up their mouths, and their hands will speak to Us, and their feet will testify to all what they used to do."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Ce Jour-là, Nous scellerons leurs bouches, donnant la parole à leurs mains et leurs pieds qui dénonceront tous les péchés qu’ils auront perpétrés."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Pada hari ini Kami tutup mulut mereka; tangan mereka akan berkata kepada Kami dan kaki mereka akan memberi kesaksian terhadap apa yang dahulu mereka kerjakan."
+    },
+    "ur": {
+     "footnotes": "[1] یہ مہر لگانے کی ضرورت اس لئے پیش آئے گی کہ ابتداﺀً مشرکین قیامت والے دن بھی جھوٹ بولیں گے اور کہیں گے «وَاللَّهِ رَبِّنَا مَا كُنَّا مُشْرِكِينَ» (الأنعام: 23) ”اللہ کی قسم، جو ہمارا رب ہے، ہم مشرک نہیں تھے“۔ چنانچہ اللہ تعالیٰ ان کے مونہوں پر مہر لگا دے گا، جس سے وہ خود توبولنے کی طاقت سے محروم ہو جائیں گے، البتہ اللہ تعالیٰ اعضائے انسانی کو قوت گویائی عطا فرمائے گا، ہاتھ بولیں گے کہ ہم سے اس نے فلاں فلاں کام کیا تھا اور پاؤں اس پر گواہی دیں گے۔ یوں گویا اقرار اور شہادت، دونوں مرحلے طے ہو جائیں گے۔ علاوہ ازیں ناطق کے مقابلے میں غیر ناطق چیزوں کا بول کر گواہی دینا، حجت واستدلال میں زیادہ بلیغ ہے کہ اس میں ایک اعجازی شان پائی جاتی ہے۔ (فتح القدیر) اس مضمون کو احادیث میں بھی بیان کیا گیا ہے۔ (ملاحظہ ہو صحیح مسلم، کتاب الزھد)۔",
+     "text": "ہم آج کے دن ان کے منھ پر مہریں لگا دیں گے اور ان کے ہاتھ ہم سے باتیں کریں گے اور ان کے پاؤں گواہیاں دیں گے، ان کاموں کی جو وه کرتے[1] تھے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "在那日，我将封闭他们的口，他们的手将对我说话，他们的脚将作证他们所行的善恶。"
+    }
+   }
+  },
+  {
+   "arabic": "وَلَوۡ نَشَآءُ لَطَمَسۡنَا عَلَىٰٓ أَعۡيُنِهِمۡ فَٱسۡتَبَقُواْ ٱلصِّرَٰطَ فَأَنَّىٰ يُبۡصِرُونَ",
+   "aya": 66,
+   "id": 3771,
+   "tafsir": {
+    "arabic_moyassar": "ولو نشاء لطمسنا على أعينهم بأن نُذْهب أبصارهم، كما ختمنا على أفواههم، فبادَروا إلى الصراط ليجوزوه، فكيف يتحقق لهم ذلك وقد طُمِست أبصارهم؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৩০) অথবা আয়াতের অর্থ: আমি যদি তাদেরকে সৎপথ থেকে অন্ধ করে দেই, তাহলে তারা কিভাবে সৎপথ পাবে?",
+     "text": "আর আমি চাইলে তাদের দৃষ্টিশক্তি বিলুপ্ত করে দিতে পারতাম। তখন তারা (জান্নাতের) পথ খুঁজে পাওয়ার জন্য এগিয়ে যেত, কিন্তু তারা দেখবে কীভাবে (তাদের দৃষ্টিশক্তি তো কেড়ে নেওয়া হয়েছে)?(৩০)"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "If We willed, We could have taken away their sight, so they would rush to find their way, but then how could they see?"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Si Nous le voulions, Nous pourrions les frapper de cécité. Ils se précipiteraient alors à la recherche de leur chemin. Mais comment pourraient-ils le retrouver ?"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan jika Kami menghendaki, pastilah Kami hapuskan penglihatan mata mereka; sehingga mereka berlomba-lomba (mencari) jalan. Maka bagaimana mungkin mereka dapat melihat?"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی بینائی سے محرومی کے بعد انہیں راستہ کس طرح دکھائی دیتا؟ لیکن یہ تو ہمارا حلم وکرم ہے کہ ہم نے ایسا نہیں کیا۔",
+     "text": "اگر ہم چاہتے تو ان کی آنکھیں بے نور کر دیتے پھر یہ رستے کی طرف دوڑتے پھرتے لیکن انہیں کیسے دکھائی دیتا؟[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "假若我意欲，我必毁灭他们的眼睛，然后他们忙着走路，但他们怎能看见呢？"
+    }
+   }
+  },
+  {
+   "arabic": "وَلَوۡ نَشَآءُ لَمَسَخۡنَٰهُمۡ عَلَىٰ مَكَانَتِهِمۡ فَمَا ٱسۡتَطَٰعُواْ مُضِيّٗا وَلَا يَرۡجِعُونَ",
+   "aya": 67,
+   "id": 3772,
+   "tafsir": {
+    "arabic_moyassar": "ولو شئنا لَغَيَّرنا خلقهم وأقعدناهم في أماكنهم، فلا يستطيعون أن يَمْضوا أمامهم، ولا يرجعوا وراءهم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর আমি যদি চাইতাম তবে তাদের নিজ নিজ স্থানে তাদের আকৃতি বিকৃত করে (পায়ের ওপর বসিয়ে) দিতাম। ফলে তারা সামনেও এগিয়ে যেতে পারত না এবং পিছনেও ফিরে আসতে পারত না।"
+    },
+    "en": {
+     "footnotes": "[18] i.e., We could turn them into inanimate objects.",
+     "text": "And if We willed, We could have paralyzed them in their places[18], so they could neither move forward nor backward."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Si Nous le voulions, Nous pourrions les pétrifier, les empêchant d’avancer ou de reculer."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan jika Kami menghendaki, pastilah Kami ubah bentuk mereka di tempat mereka berada; sehingga mereka tidak sanggup berjalan lagi dan juga tidak sanggup kembali."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی نہ آگے جا سکتے، نہ پیچھے لوٹ سکتے، بلکہ پتھر کی طرح ایک جگہ پڑے رہتے۔ مسخ کے معنی پیدائش میں تبدیلی کے ہیں، یعنی انسان سے پتھر یا جانور کی شکل میں تبدیل کر دینا۔",
+     "text": "اور اگر ہم چاہتے تو ان کی جگہ ہی پر ان کی صورتیں مسﺦ کر دیتے پھر نہ وه چل پھر سکتے اور نہ لوٹ سکتے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "假若我意欲，我必使他们在自己的家中变形，然后他们既不能前进，又不能后退。"
+    }
+   }
+  },
+  {
+   "arabic": "وَمَن نُّعَمِّرۡهُ نُنَكِّسۡهُ فِي ٱلۡخَلۡقِۚ أَفَلَا يَعۡقِلُونَ",
+   "aya": 68,
+   "id": 3773,
+   "tafsir": {
+    "arabic_moyassar": "ومن نُطِلْ عمره حتى يهرم نُعِدْه إلى الحالة التي ابتدأ منها حالة ضعف العقل وضعف الجسد، أفلا يعقلون أنَّ مَن فعل مثل هذا بهم قادر على بعثهم؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৩১) অর্থাৎ শিশুকালে যেভাবে সৃষ্টি করেছি, বৃদ্ধকালেও তারা ঠিক ছোট বাচ্চাদের মতই দুর্বল শরীর, স্বল্প বিবেক ও জ্ঞানহীন হয়ে যায়।",
+     "text": "আর আমি যাকে দীর্ঘ জীবন দান করি, সৃষ্টি-অবয়বে আমি তার পরিবর্তন ঘটাই।(৩১) তবুও কি তারা বুঝবে না?"
+    },
+    "en": {
+     "footnotes": "[19] Humans are born weak, then they reach their prime when they are young, then they grow physically and mentally weak when they are old.",
+     "text": "Whomsoever We give a long life, We cause his strength to decline[19]. Do they not then understand?"
+    },
+    "fr": {
+     "footnotes": "[10] Si bien qu’il retrouve l’état de faiblesse qui était le sien à sa naissance.",
+     "text": "A celui dont Nous prolongeons la vie, Nous retirons peu à peu ses facultés[10]. Sont-ils donc dépourvus de toute raison ?"
+    },
+    "id": {
+     "footnotes": "[725] Kembali menjadi lemah dan kurang akal, seperti anak kecil.",
+     "text": "Dan barang siapa Kami panjangkan umurnya niscaya Kami kembalikan dia kepada awal kejadian(nya).[725] Maka mengapa mereka tidak mengerti?"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی جس کو ہم لمبی عمر دیتے ہیں، اس کی پیدائش کو بدل کر برعکس حالت میں کر دیتے ہیں۔ یعنی جب وہ بچہ ہوتا ہے تو اس کی نشوونما جاری رہتی ہے اور اس کی عقلی اور بدنی قوتوں میں اضافہ ہوتا رہتا ہے حتیٰ کہ وہ جوانی اور کہولت کو پہنچ جاتا ہے۔ اس کے بعد اس کے برعکس اس کے قوائے عقلیہ وبدنیہ میں ضعف وانحطاط کا عمل شروع ہو جاتا ہے، حتیٰ کہ وہ ایک بچے کی طرح ہو جاتا ہے۔\n[2] کہ جو اللہ اس طرح کر سکتا ہے، کیا وہ دوبارہ انسانوں کو زندہ کرنے پر قادر نہیں؟",
+     "text": "اور جسے ہم بوڑھا کرتے ہیں اسے پیدائشی حالت کی طرف پھر الٹ دیتے[1] ہیں کیا پھر بھی وه نہیں سمجھتے.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我使谁长寿，我降低谁的体质。难道他们不明理么？"
+    }
+   }
+  },
+  {
+   "arabic": "وَمَا عَلَّمۡنَٰهُ ٱلشِّعۡرَ وَمَا يَنۢبَغِي لَهُۥٓۚ إِنۡ هُوَ إِلَّا ذِكۡرٞ وَقُرۡءَانٞ مُّبِينٞ",
+   "aya": 69,
+   "id": 3774,
+   "tafsir": {
+    "arabic_moyassar": "وما علَّمنا رسولنا محمدًا الشعر، وما ينبغي له أن يكون شاعرًا، ما هذا الذي جاء به إلا ذكر يتذكر به أولو الألباب، وقرآن بيِّن الدلالة على الحق والباطل، واضحة أحكامه وحِكَمه ومواعظه; لينذر مَن كان حيَّ القلب مستنير البصيرة، ويحق العذاب على الكافرين بالله; لأنهم قامت عليهم بالقرآن حجة الله البالغة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আমি রাসূলকে কবিতা শিক্ষা দেইনি এবং এটি তার জন্য শোভনীয়ও নয়। এ তো শুধু এক উপদেশ ও সুস্পষ্ট আল কুরআন মাত্র।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "We have not taught him poetry, nor is it fitting for him. This is only a Reminder and a clear Qur’an"
+    },
+    "fr": {
+     "footnotes": "[11] Réponse évidente aux païens de la Mecque qui prétendaient que le Prophète était un poète.",
+     "text": "Nous ne lui avons nullement enseigné la poésie[11] qui ne saurait d’ailleurs lui convenir. Le Coran n’est qu’une sage exhortation et une récitation parfaitement claire,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan Kami tidak mengajarkan syair kepadanya (Muhammad) dan bersyair itu tidaklah pantas baginya. Al-Qur`an itu tidak lain hanyalah pelajaran dan Kitab yang jelas."
+    },
+    "ur": {
+     "footnotes": "[1] مشرکین مکہ نبی (صلى الله عليه وسلم) کی تکذیب کے لئے مختلف قسم کی باتیں کہتے رہتے تھے، ان میں ایک بات یہ بھی تھی کہ آپ شاعر ہیں اور یہ قرآن پاک آپ کی شاعرانہ تک بندی ہی ہے۔ اللہ تعالیٰ نے اس کی نفی فرمائی۔ کہ آپ شاعر ہیں اور نہ قرآن شعری کلام کا مجموعہ ہے بلکہ یہ تو صرف نصیحت اور موعظت ہے۔ شاعری میں بالعموم مبالغہ، افراط وتفریط اور محض تخیلات کی ندرت کاری ہوتی ہے، یوں گویا اس کی بنیاد جھوٹ پر ہوتی ہے۔ علاوہ ازیں شاعر محض گفتار کے غازی ہوتے ہیں، کردار کے نہیں۔ اس لئے اللہ تعالیٰ نے فرمایا کہ ہم نے نہ صرف یہ کہ اپنے پیغمبر کو شعر نہیں سکھلائے، نہ اشعار کی اس پر وحی کی، بلکہ اس کے مزاج وطبیعت کو ایسا بنایا کہ شعر سے اس کو کوئی مناسبت ہی نہیں ہے۔ یہی وجہ ہے کہ آپ (صلى الله عليه وسلم) کبھی کسی کا شعر پڑھتے تو اکثر صحیح نہ پڑھ پاتے اور اس کا وزن ٹوٹ جاتا۔ جس کی مثالیں احادیث میں موجود ہیں۔ یہ احتیاط اس لئے کی گئی کہ منکرین پر اتمام حجت اور ان کے شبہات کا خاتمہ کر دیا جائے۔ اور وہ یہ نہ کہہ سکیں کہ یہ قرآن اس کی شاعرانہ تک بندی کا نتیجہ ہے، جس طرح آپ کی امیت بھی قطع شبہات کے لئے تھی تاکہ لوگ قرآن کی بابت یہ نہ کہہ سکیں کہ یہ تو اس نےفلاں سے سیکھ پڑھ کر اس کو مرتب کر لیا ہے۔ البتہ بعض مواقع پر آپ کی زبان مبارک سے ایسے الفاظ کا نکل جانا، جو دو مصرعوں کی طرح ہوتے اور شعری اوزان وبحور کے بھی مطابق ہوتے، آپ کے شاعر ہونے کی دلیل نہیں بن سکتے۔ کیونکہ ایسا آپ کے قصد وارادہ کے بغیر ہوا اور ان کا شعری قالب میں ڈھل جانا ایک اتفاق تھا، جس طرح حنین والے دن آپ کی زبان پر بے اختیار یہ رجز جاری ہوگیا:\nأَنَا النَّبِيَّ لا كَذِبْ\nأَنَا ابْنُ عَبْدِ الْمُطَّلِب\nایک اور موقع پر آپ (صلى الله عليه وسلم) کی انگلی زخمی ہوگئی تو آپ (صلى الله عليه وسلم) نے فرمایا: هَلْ أَنْتِ إِلا إِصْبَعٌ دَمِيتِ\nوَفِي سَبِيلِ اللهِ مَا لَقِيتِ (صحيح بخاري ومسلم ، كتاب الجهاد)",
+     "text": "نہ تو ہم نے اس پیغمبر کو شعر سکھائے اور نہ یہ اس کے ﻻئق ہے۔ وه تو صرف نصیحت اور واضح قرآن ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我没有教他诗歌，诗歌对于他是不相宜的。这个只是教诲和明白的《古兰经》，"
+    }
+   }
+  },
+  {
+   "arabic": "لِّيُنذِرَ مَن كَانَ حَيّٗا وَيَحِقَّ ٱلۡقَوۡلُ عَلَى ٱلۡكَٰفِرِينَ",
+   "aya": 70,
+   "id": 3775,
+   "tafsir": {
+    "arabic_moyassar": "وما علَّمنا رسولنا محمدًا الشعر، وما ينبغي له أن يكون شاعرًا، ما هذا الذي جاء به إلا ذكر يتذكر به أولو الألباب، وقرآن بيِّن الدلالة على الحق والباطل، واضحة أحكامه وحِكَمه ومواعظه؛ لينذر مَن كان حيَّ القلب مستنير البصيرة، ويحق العذاب على الكافرين بالله؛ لأنهم قامت عليهم بالقرآن حجة الله البالغة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "যাতে তা সতর্ক করতে পারে ঐ ব্যক্তিকে, যে জীবিত এবং যাতে কাফিরদের জন্য শাস্তির কথা অবধারিত হয়।"
+    },
+    "en": {
+     "footnotes": "[20] In heart and mind, i.e., those who have faith.",
+     "text": "so that he may warn those who are truly alive[20] and establish the argument against the disbelievers."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "afin que soit averti par lui tout être dont le cœur est encore vivant et que Notre sentence soit prononcée à l’encontre des mécréants."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "agar dia (Muhammad) memberi peringatan kepada orang-orang yang hidup (hatinya) dan agar pasti ketetapan (azab) terhadap orang-orang kafir."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی جس کا دل صحیح ہے، حق کو قبول کرتا اور باطل سے انکار کرتا ہے۔\n[2] یعنی جو کفر پر مصر ہو، اس پر عذاب والی بات ثابت ہو جائے۔ لِيُنْذِرَ میں ضمیر کا مرجع قرآن ہے۔",
+     "text": "تاکہ وه ہر اس شخص کو آگاه کر دے جو زنده ہے، [1] اور کافروں پر حجت ﺛابت ہو جائے.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "以便他警告活人，以便不归信的人们当受刑罚的判决。"
+    }
+   }
+  },
+  {
+   "arabic": "أَوَلَمۡ يَرَوۡاْ أَنَّا خَلَقۡنَا لَهُم مِّمَّا عَمِلَتۡ أَيۡدِينَآ أَنۡعَٰمٗا فَهُمۡ لَهَا مَٰلِكُونَ",
+   "aya": 71,
+   "id": 3776,
+   "tafsir": {
+    "arabic_moyassar": "أو لم ير الخلق أنا خلقنا لأجلهم أنعامًا ذللناها لهم، فهم مالكون أمرها؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তারা কি লক্ষ্য করে না যে, আমার হাতের তৈরি বস্তুসমূহের মধ্যে আমি তাদের জন্য চতুষ্পদ জন্তু সৃষ্টি করেছি। অতঃপর তারা হল এগুলোর মালিক।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Do they not see that We have created for them livestock made by Our Hands, and then they are their owners?"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Ne voient-ils pas que Nous avons créé pour eux, parmi tout ce que Nous avons créé à leur intention, des bestiaux dont ils sont les maîtres,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan tidakkah mereka melihat bahwa Kami telah meciptakan hewan ternak untuk mereka, yaitu sebagian dari apa yang telah Kami ciptakan dengan kekuasaan Kami, lalu mereka menguasainya ?"
+    },
+    "ur": {
+     "footnotes": "[1] اس سے غیروں کی شرکت کی نفی ہے، ان کو ہم نے اپنےہاتھوں سے بنایا ہے، کسی اور کا ان کے بنانے میں حصہ نہیں ہے۔\n[2] أَنْعَامٌ، نَعَمٌ کی جمع ہے۔ اس سےمراد چوپائے یعنی اونٹ، گائے، بکری (اور بھیڑ، دنبہ) ہیں۔\n[3] یعنی جس طرح چاہتے ہیں ان میں تصرف کرتے ہیں، اگر ہم ان کے اندر وحشی پن رکھ دیتے (جیسا کہ بعض جانوروں میں ہے) تو یہ چوپائے ان سے دور بھاگتے اور وہ ان کی ملکیت اور قبضے میں ہی نہ آسکتے۔",
+     "text": "کیا وه نہیں دیکھتے کہ ہم نے اپنے ہاتھوں سے بنائی[1] ہوئی چیزوں میں سے ان کے لئے چوپائے[2] (بھی) پیدا کر دیئے، جن کے یہ مالک ہوگئے ہیں.[3]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "难道他们没看见吗? 唯我所为者中，我为他们造了许多牲畜，任由他们管控 。"
+    }
+   }
+  },
+  {
+   "arabic": "وَذَلَّلۡنَٰهَا لَهُمۡ فَمِنۡهَا رَكُوبُهُمۡ وَمِنۡهَا يَأۡكُلُونَ",
+   "aya": 72,
+   "id": 3777,
+   "tafsir": {
+    "arabic_moyassar": "وسخَّرناها لهم، فمنها ما يركبون في الأسفار، ويحملون عليها الأثقال، ومنها ما يأكلون."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর আমি এগুলোকে তাদের বশীভূত করে দিয়েছি। ফলে এদের কতক তাদের বাহন এবং কতক তারা ভক্ষণ করে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "And We have made them subservient to them; some they ride, and from others they eat,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "que Nous leur avons soumis si bien que des uns ils font leurs montures et des autres ils tirent nourritures,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan Kami menundukkannya (hewan-hewan itu) untuk mereka; lalu sebagiannya untuk menjadi tunggangan mereka dan sebagian untuk mereka makan."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی ان جانوروں سے وہ جس طرح کا بھی فائدہ اٹھانا چاہتے ہیں، وہ انکار نہیں کرتے، حتیٰ کہ وہ انہیں ذبح بھی کر دیتے ہیں اور چھوٹے بچے بھی انہیں کھینچے پھرتے ہیں۔",
+     "text": "اور ان مویشیوں کو ہم نے ان کا تابع فرمان بنا دیا ہے[1] جن میں سے بعض تو ان کی سواریاں ہیں اور بعض کا گوشت کھاتے ہیں."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我为他们而制服牲畜，以一部分供他们骑，一部分供他们吃。"
+    }
+   }
+  },
+  {
+   "arabic": "وَلَهُمۡ فِيهَا مَنَٰفِعُ وَمَشَارِبُۚ أَفَلَا يَشۡكُرُونَ",
+   "aya": 73,
+   "id": 3778,
+   "tafsir": {
+    "arabic_moyassar": "ولهم فيها منافع أخرى ينتفعون بها، كالانتفاع بأصوافها وأوبارها وأشعارها أثاثًا ولباسًا، وغير ذلك، ويشربون ألبانها، أفلا يشكرون الله الذي أنعم عليهم بهذه النعم، ويخلصون له العبادة؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৩২) যেমন: সেগুলোর লোম, পশম, চুল ও এগুলোর বিক্রয় মূল্য ইত্যাদি, যা দ্বারা তারা বিছানা ও পোষাক তৈরি করে এবং অন্যান্য কাজে লাগায়। তাছাড়া তারা এর দুধ পান করে।",
+     "text": "আর তাদের জন্য এগুলোতে রয়েছে আরও বহু উপকারিতা ও পানীয় উপাদান।(৩২) তবুও কি তারা আল্লাহর শুকরিয়া আদায় করবে না?"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and there are other benefits and drinks therein for them. Will they not then give thanks?"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "breuvages et bien d’autres avantages. Ne feront-ils pas preuve de reconnaissance ?"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan mereka memperoleh berbagai manfaat dan minuman darinya. Maka mengapa mereka tidak bersyukur?"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی سواری اور کھانے کے علاوہ بھی ان سے بہت سے فوائد حاصل کیے جاتے ہیں مثلاً ان کی اون اور بالوں سے کئی چیزیں بنتی ہیں، ان کی چربی سے تیل حاصل ہوتا ہے اور یہ بار برداری اور کھیتی باڑی کے بھی کام آتے ہیں۔",
+     "text": "انہیں ان سے اور بھی بہت سے فائدے ہیں[1] ، اور پینے کی چیزیں۔ کیا پھر (بھی) یہ شکر ادا نہیں کریں گے؟"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们可由它们获得许多利益和饮料。他们怎么还不感谢呢？"
+    }
+   }
+  },
+  {
+   "arabic": "وَٱتَّخَذُواْ مِن دُونِ ٱللَّهِ ءَالِهَةٗ لَّعَلَّهُمۡ يُنصَرُونَ",
+   "aya": 74,
+   "id": 3779,
+   "tafsir": {
+    "arabic_moyassar": "واتخذ المشركون من دون الله آلهة يعبدونها; طمعًا في نصرها لهم وإنقاذهم من عذاب الله."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "অথচ তারা (মুশরিকরা) আল্লাহর পরিবর্তে অন্য সব ইলাহ গ্রহণ করেছে এই প্রত্যাশায় যে, তারা সাহায্যপ্রাপ্ত হবে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Yet they have taken other gods besides Allah, hoping that they may be helped."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Ils ont adopté, en dehors d’Allah, des divinités dans l’espoir d’obtenir leur assistance."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan mereka mengangkat sesembahan selain Allah agar mereka mendapat pertolongan."
+    },
+    "ur": {
+     "footnotes": "[1] یہ ان کے کفران نعمت کا اظہار ہے کہ مذکورہ نعمتیں، جن سے یہ فائدہ اٹھاتے ہیں، سب اللہ کی پیدا کردہ ہیں۔ لیکن یہ بجائے اس کے کہ یہ اللہ کی ان نعمتوں پر اس کا شکر ادا کریں یعنی ان کی عبادت واطاعت کریں، یہ غیروں سے امیدیں وابستہ کرتے اور انہیں معبود بناتے ہیں۔",
+     "text": "اور وه اللہ کے سوا دوسروں کو معبود بناتے ہیں تاکہ وه مدد کئے جائیں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们舍安拉而敬事许多神灵，希望自己获得援助。"
+    }
+   }
+  },
+  {
+   "arabic": "لَا يَسۡتَطِيعُونَ نَصۡرَهُمۡ وَهُمۡ لَهُمۡ جُندٞ مُّحۡضَرُونَ",
+   "aya": 75,
+   "id": 3780,
+   "tafsir": {
+    "arabic_moyassar": "لا تستطيع تلك الآلهة نصر عابديها ولا أنفسهم ينصرون، والمشركون وآلهتهم جميعًا محضرون في العذاب، متبرئ بعضهم من بعض."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "কিন্তু এরা তাদের কোন সাহায্য করতে সক্ষম হবে না; বরং (কিয়ামতের দিন) এগুলোকে তাদের বিরুদ্ধে বাহিনীরূপে উপস্থিত করা হবে।"
+    },
+    "en": {
+     "footnotes": "[21] Or their idols or so-called gods will be assembled to witness the punishment of their worshipers on the Day of Judgment.",
+     "text": "They cannot help them, yet they serve them as their dedicated guards[21]."
+    },
+    "fr": {
+     "footnotes": "[12] Autre sens : mais celles-ci ne pourront secourir leurs adorateurs, alors même qu’elles assisteront à leur jugement (ou : à leur supplice).",
+     "text": "Mais celles-ci ne pourront secourir leurs adorateurs qui pourtant prenaient sur terre leur défense[12]."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Mereka (sesembahan) itu tidak dapat menolong mereka; padahal mereka itu menjadi tentara yang disiapkan untuk menjaga (sesembahan) itu."
+    },
+    "ur": {
+     "footnotes": "[1] جُنْدٌ سےمراد بتوں کےحمایتی اور ان کی طرف سے مدافعت کرنے والے، مُحْضَرُونَ دنیا میں ان کے پاس حاضرہونے والے۔ مطلب یہ ہے کہ یہ جن بتوں کو معبود سمجھتے ہیں، وہ ان کی مدد کیا کریں گے؟ وہ تو خود اپنی مدد کرنے سے بھی قاصر ہیں۔ انہیں کوئی برا کہے، ان کی مذمت کرے، تو یہی ان کی حمایت ومدافعت میں سرگرم ہوتے ہیں، نہ کہ خود ان کے وہ معبود۔",
+     "text": "(حاﻻنکہ) ان میں ان کی مدد کی طاقت ہی نہیں، (لیکن) پھر بھی (مشرکین) ان کے لئے حاضر باش لشکری ہیں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "那些神灵不能援助他们，他们却是为那些神灵而被集合的军队。"
+    }
+   }
+  },
+  {
+   "arabic": "فَلَا يَحۡزُنكَ قَوۡلُهُمۡۘ إِنَّا نَعۡلَمُ مَا يُسِرُّونَ وَمَا يُعۡلِنُونَ",
+   "aya": 76,
+   "id": 3781,
+   "tafsir": {
+    "arabic_moyassar": "فلا يَحْزُنك -أيها الرسول- كفرهم بالله وتكذيبهم لك واستهزاؤهم بك; إنا نعلم ما يخفون، وما يظهرون، وسنجازيهم على ذلك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "অতএব, হে রাসূল! তাদের (অপবাদের) কথা তোমাকে যেন চিন্তিত না করে। নিশ্চয় আমি জানি, তারা যা গোপন করে এবং যা প্রকাশ করে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Do not let their words grieve you. Surely We know what they conceal and what they reveal."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Que leurs paroles ne t’affligent pas. Nous savons aussi bien ce qu’ils gardent secret que ce qu’ils laissent paraître."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Maka jangan sampai ucapan mereka membuat engkau (Muhammad) bersedih hati. Sungguhnya, Kami mengetahui apa yang mereka rahasiakan dan apa yang mereka tampakkan."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "پس آپ کو ان کی بات غمناک نہ کرے، ہم ان کی پوشیده اور علانیہ سب باتوں کو (بخوبی) جانتے ہیں."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "所以不要让他们的妄言使你忧愁。我的确知道他们所隐匿的，和他们所表现的。"
+    }
+   }
+  },
+  {
+   "arabic": "أَوَلَمۡ يَرَ ٱلۡإِنسَٰنُ أَنَّا خَلَقۡنَٰهُ مِن نُّطۡفَةٖ فَإِذَا هُوَ خَصِيمٞ مُّبِينٞ",
+   "aya": 77,
+   "id": 3782,
+   "tafsir": {
+    "arabic_moyassar": "أو لم ير الإنسان المنكر للبعث ابتداء خلقه فيستدل به على معاده، أنا خلقناه من نطفة مرَّت بأطوار حتى كَبِر، فإذا هو كثير الخصام واضح الجدال؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৩৩) ক্ষুদ্র কীটটি আমার সৃষ্টির ও পুনরুত্থানের বিষয়ে বিতণ্ডাকারী হয়ে উঠে।",
+     "text": "(আচ্ছা, পুনরুত্থানকে অস্বীকারকারী) মানুষ কি লক্ষ্য করে না যে আমি তাকে এক ফোঁটা শুক্র থেকে সৃষ্টি করেছি? অথচ এরপরই সে (৩৩) প্রকাশ্য এক বিতণ্ডাকারী হয়ে যায়।"
+    },
+    "en": {
+     "footnotes": "[22] i.e., as soon as he becomes a self-sufficient being.",
+     "text": "Does man not see that We have created him from a sperm-drop, then[22] he becomes a clear adversary,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "L’homme ne sait-il pas que Nous l’avons créé d’un liquide insignifiant ? Le voilà pourtant qui se transforme en disputeur acharné."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan tidakkah manusia memperhatikan bahwa Kami menciptakannya dari setetes mani, ternyata dia menjadi musuh yang nyata!"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "کیا انسان کو اتنا بھی معلوم نہیں کہ ہم نے اسے نطفے سے پیدا کیا ہے؟ پھر یکایک وہ صریح جھگڑالو بن بیٹھا."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "难道人还不知道吗？我曾用精液创造他，而他忽然变成坦白的抗辩者。"
+    }
+   }
+  },
+  {
+   "arabic": "وَضَرَبَ لَنَا مَثَلٗا وَنَسِيَ خَلۡقَهُۥۖ قَالَ مَن يُحۡيِ ٱلۡعِظَٰمَ وَهِيَ رَمِيمٞ",
+   "aya": 78,
+   "id": 3783,
+   "tafsir": {
+    "arabic_moyassar": "وضرب لنا المنكر للبعث مثلا لا ينبغي ضربه، وهو قياس قدرة الخالق بقدرة المخلوق، ونسي ابتداء خلقه، قال: مَن يحيي العظام البالية المتفتتة؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর সে আমার উদ্দেশ্যে উপমা পেশ করে; অথচ সে তার নিজের সৃষ্টি ভুলে যায়। সে বলে, ‘হাড়গুলো জরাজীর্ণ হওয়া অবস্থায় কে সেগুলো জীবিত করবে?’"
+    },
+    "en": {
+     "footnotes": "[23] Trying to prove that there is no life after death.\n [24] That we created him from dead matter to such an extent that he became now a clear disputant before Us.",
+     "text": "producing arguments[23] against Us while forgetting his own creation[24]. He says, “Who can give life to the bones after they have crumbled to dust?”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Oubliant sa propre création, il dit : « Qui redonnera vie aux os devenus poussière ? »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan dia membuat perumpamaan bagi Kami dan melupakan asal kejadiannya; dia berkata, \"Siapakah yang dapat menghidupkan tulang-belulang, yang telah hancur luluh?"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "اور اس نے ہمارے لئے مثال بیان کی اور اپنی (اصل) پیدائش کو بھول گیا، کہنے لگا ان گلی سڑی ہڈیوں کو کون زنده کر سکتا ہے؟"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他为我设了一个譬喻，而他忘却了我曾创造他。他说：“谁能使朽骨复活呢？”"
+    }
+   }
+  },
+  {
+   "arabic": "قُلۡ يُحۡيِيهَا ٱلَّذِيٓ أَنشَأَهَآ أَوَّلَ مَرَّةٖۖ وَهُوَ بِكُلِّ خَلۡقٍ عَلِيمٌ",
+   "aya": 79,
+   "id": 3784,
+   "tafsir": {
+    "arabic_moyassar": "قل له: يحييها الذي خلقها أول مرة، وهو بجميع خلقه عليم، لا يخفى عليه شيء."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৩৪) পুনরুত্থান অস্বীকারকারীদেরকে।",
+     "text": "হে রাসূল! তুমি (৩৪) বল: ‘যিনি প্রথমবার এগুলোকে সৃষ্টি করেছেন, তিনিই সেগুলো পুনরায় জীবিত করবেন। আর তিনি সকল সৃষ্টি সম্পর্কেই সম্যক পরিজ্ঞাত।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Say, “The One Who created them in the first place will give life to them, for He has full knowledge of every created being;"
+    },
+    "fr": {
+     "footnotes": "[13] Autre sens : et dont le pouvoir de création est sans limite.",
+     "text": "Réponds : « Celui qui les a créés la première fois et qui connaît parfaitement tous les éléments de Sa création[13],"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Katakanlah (Muhammad), \"Yang akan menghidupkannya ialah (Allah) yang menciptakannya pertama kali. Dan Dia Maha Mengetahui tentang segala makhluk,"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی جو اللہ تعالیٰ انسان کو ایک حقیر نطفے سے پیدا کرتا ہے، وہ دوبارہ اس کو زندہ کرنے پر قادر نہیں ہے؟ اس کی قدرت احیائے موتی کا ایک واقعہ حدیث میں بیان کیا گیا ہے کہ ایک شخص نے مرتے وقت وصیت کی کہ مرنے کے بعد اسے جلا کر اس کی آدھی راکھ سمندر میں اور آدھی راکھ تیز ہوا والے دن خشکی میں اڑا دی جائے۔ اللہ تعالیٰ نے ساری راکھ جمع کرکے اسےزندہ فرمایا اور اس سے پوچھا تو نے ایسا کیوں کیا؟ اس نے کہا، تیرےخوف سے، چنانچہ اللہ نے اسے معاف فرما دیا۔ (صحيح بخاري ، الأنبياء والرقاق باب الخوف من الله)۔",
+     "text": "آپ جواب دیجئے! کہ انہیں وه زنده کرے گا جس نے انہیں اول مرتبہ پیدا کیا ہے[1] ، جو سب طرح کی پیدائش کا بخوبی جاننے واﻻ ہے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你说：“最初创造它的，他将使它复活；他是全知一切众生的。"
+    }
+   }
+  },
+  {
+   "arabic": "ٱلَّذِي جَعَلَ لَكُم مِّنَ ٱلشَّجَرِ ٱلۡأَخۡضَرِ نَارٗا فَإِذَآ أَنتُم مِّنۡهُ تُوقِدُونَ",
+   "aya": 80,
+   "id": 3785,
+   "tafsir": {
+    "arabic_moyassar": "الذي أخرج لكم من الشجر الأخضر الرطب نارًا محرقة، فإذا أنتم من الشجر توقدون النار، فهو القادر على إخراج الضد من الضد. وفي ذلك دليل على وحدانية الله وكمال قدرته، ومن ذلك إخراج الموتى من قبورهم أحياء."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৩৫) অর্থাৎ যিনি দু’টি বিপরীত বস্তুর মধ্যে সমন্বয় সৃষ্টি করতে সক্ষম হলেন যথা সবুজ বৃক্ষের সজিবতা এবং লেলিহান শিখাবিশিষ্ট অগ্নি; তিনি নিঃসন্দেহে অবশ্যই মৃতকে জীবিত করতে সক্ষম হবেন।",
+     "text": "যিনি সবুজ বৃক্ষ থেকে তোমাদের জন্য আগুন সৃষ্টি করেছেন। ফলে তা থেকে তোমরা আগুন জ্বালাও।(৩৫)"
+    },
+    "en": {
+     "footnotes": "[25] It alludes to the \"markh\" and \"‘afār\" trees in Arabia, whose green branches if struck against each other, it produces sparks.",
+     "text": "the One Who made for you fire out of the green tree, with which you kindle your fires[25].”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Celui qui, pour vous, fait jaillir du bois vert une étincelle qui vous sert à allumer vos feux. »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "yaitu (Allah) yang menjadikan api untukmu dari kayu yang hijau, maka seketika itu kamu nyalakan (api) dari kayu itu.\""
+    },
+    "ur": {
+     "footnotes": "[1] کہتے ہیں عرب میں دو درخت ہیں مرخ اور عفار۔ ان کی دو لکڑیاں آپس میں رگڑی جائیں تو آگ پیدا ہوتی ہے، سبز درخت سے آگ پیدا کرنے کے حوالے سے اسی طرف اشارہ مقصود ہے۔",
+     "text": "وہی جس نے تمہارے لئے سبز درخت سے آگ پیدا کر دی جس سے تم یکایک آگ سلگاتے ہو.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他为你们从绿树中创造火，你们便以它生火。”"
+    }
+   }
+  },
+  {
+   "arabic": "أَوَلَيۡسَ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ بِقَٰدِرٍ عَلَىٰٓ أَن يَخۡلُقَ مِثۡلَهُمۚ بَلَىٰ وَهُوَ ٱلۡخَلَّٰقُ ٱلۡعَلِيمُ",
+   "aya": 81,
+   "id": 3786,
+   "tafsir": {
+    "arabic_moyassar": "أو ليس الذي خلق السموات والأرض وما فيهما بقادر على أن يخلق مثلهم، فيعيدهم كما بدأهم؟ بلى، إنه قادر على ذلك، وهو الخلاق لجميع المخلوقات، العليم بكل ما خلق ويَخْلُقُ، لا يخفى عليه شيء."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "যিনি আসমানসমূহ ও জমিন সৃষ্টি করেছেন, তিনি কি তাদের অনুরূপ সৃষ্টি করতে সক্ষম নন? হ্যাঁ, তিনিই মহাস্রষ্টা, সর্বজ্ঞানী।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Is not the One Who created the heavens and earth able to create the like of these [people]? Yes indeed, for He is the Creator of all, the All-Knowing."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Celui qui a créé les cieux et la terre n’est-Il pas capable de créer d’autres hommes comme eux ? Si, car Il est le Créateur de toute chose, l’Omniscient !"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan bukankah (Allah) yang menciptakan langit dan bumi, mampu menciptakan kembali yang serupa itu (jasad mereka yang sudah hancur)? Benar, dan Dia Maha Pencipta, Maha Mengetahui."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی انسانوں جیسے۔ مطلب، انسانوں کا دوبارہ پیدا کرنا ہے جس طرح انہیں پہلی مرتبہ پیدا کیا۔ آسمان وزمین کی پیدائش سے انسانوں کو دوبارہ پیدا کرنے پر استدلال کیا ہے۔ جس طرح دوسرے مقام پر فرمایا «لَخَلْقُ السَّمَاوَاتِ وَالأَرْضِ أَكْبَرُ مِنْ خَلْقِ النَّاسِ» (المؤمن:57) ”آسمان وزمین کی پیدائش (لوگوں کے نزدیک) انسانوں کی پیدائش سےزیادہ مشکل کام ہے“۔ سورۂ احقاف 33 میں بھی یہ مضمون بیان کیا گیا ہے۔",
+     "text": "جس نے آسمانوں اور زمین کو پیدا کیا ہے کیا وه ان جیسوں[1] کے پیدا کرنے پرقادر نہیں، بےشک قادر ہے۔ اور وہی تو پیدا کرنے واﻻ دانا (بینا) ہے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "难道能造天地的，不能造像他们那样的人吗？不然！他确是善造的，确是全知的。"
+    }
+   }
+  },
+  {
+   "arabic": "إِنَّمَآ أَمۡرُهُۥٓ إِذَآ أَرَادَ شَيۡـًٔا أَن يَقُولَ لَهُۥ كُن فَيَكُونُ",
+   "aya": 82,
+   "id": 3787,
+   "tafsir": {
+    "arabic_moyassar": "إنما أمره سبحانه وتعالى إذا أراد شيئًا أن يقول له: «كن» فيكون، ومن ذلك الإماتة والإحياء، والبعث والنشور."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "নিশ্চয়ই তাঁর (আল্লাহর) কাজ হলো, যখন তিনি কোনো কিছু ইচ্ছা করেন, তখন তিনি শুধু বলেন, ‘হও’, আর তা হয়ে যায়।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Whenever He wills something to be, He only says to it, “Be”, and it is."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Il Lui suffit, lorsqu’Il veut une chose, de dire : « Sois ! » et celle-ci s’accomplit."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sesungguhnya urusan-Nya apabila Dia menghendaki sesuatu Dia hanya berkata kepadanya, \"Jadilah!\" Maka jadilah sesuatu itu."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی اس کی شان تو یہ ہے، پھر اس کے لئے سب انسانوں کا زندہ کر دینا کون سا مشکل معاملہ ہے؟",
+     "text": "وه جب کبھی کسی چیز کا اراده کرتا ہے اسے اتنا فرما دینا (کافی ہے) کہ ہو جا، وه اسی وقت ہو جاتی ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "当他欲造化任何事物的时候，他的事情只是说声：“有”，它就有了。"
+    }
+   }
+  },
+  {
+   "arabic": "فَسُبۡحَٰنَ ٱلَّذِي بِيَدِهِۦ مَلَكُوتُ كُلِّ شَيۡءٖ وَإِلَيۡهِ تُرۡجَعُونَ",
+   "aya": 83,
+   "id": 3788,
+   "tafsir": {
+    "arabic_moyassar": "فتنزه الله تعالى وتقدس عن العجز والشرك، فهو المالك لكل شيء، المتصرف في شؤون خلقه بلا منازع أو ممانع، وقد ظهرت دلائل قدرته، وتمام نعمته، وإليه تُرجعون للحساب والجزاء."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৩৬) অর্থাৎ সব কিছুর আধিপত্য ও মালিকানা তাঁরই। তিনি ইচ্ছামত সেগুলোকে পরিচালনা করেন। তাঁর হাতে রয়েছে, সকল কিছুর চাবি।",
+     "text": "অতএব, পবিত্র মহান তিনি, যার হাতে রয়েছে সকল কিছুর রাজত্ব(৩৬) এবং তাঁরই দিকে তোমরা প্রত্যাবর্তিত হবে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "So glory be to the One in Whose Hand is the dominion of everything, and to Him you will all be returned."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Gloire à Celui qui règne en Maître absolu sur toute la Création et à qui vous serez tous ramenés !"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Maka Mahasuci (Allah) yang ditangan-Nya kekuasaan atas segala sesuatu dan kepada-Nya kamu dikembalikan."
+    },
+    "ur": {
+     "footnotes": "[1] ملک اور ملکوت دونوں کے ایک ہی معنی ہیں، بادشاہی، جیسے رَحْمَةٌ اور رَحَمُوتٌ رَهْبَةٌ اور رَهَبُوتٌ، جَبْرٌ اور جَبَرُوتٌ وغیرہ ہیں۔ (ابن کثیر) بعض اس کو مبالغے کا صیغہ قرار دیتے ہیں۔ (فتح القدیر) یعنی مَلَكُوتٌ مُلْكٌ کا مبالغہ ہے۔\n[2] یعنی یہ نہیں ہوگا کہ مٹی میں رل مل کر تمہارا وجود ہمیشہ کے لئے ختم ہوجائے، نہیں، بلکہ اسے دوبارہ وجود عطا کیا جائے گا۔ یہ بھی نہیں ہوگا کہ تم بھاگ کر کسی اور کے پاس پناہ طلب کر لو۔ تمہیں بہرحال اللہ ہی کی بارگاہ میں حاضر ہونا ہوگا، جہاں وہ عملوں کے مطابق اچھی یا بری جزا دے گا۔",
+     "text": "پس پاک ہے وه اللہ جس کے ہاتھ میں ہر چیز کی بادشاہت ہے اور[1] جس کی طرف تم سب لوٹائے جاؤ گے.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "赞颂安拉，超绝万物！一切事物的主权都在他的手中，你们只被召归于他。"
+    }
+   }
+  }
+ ],
+ "content_sha256": "sha256:dc454a8b2617be04409efafde8be9da6c077d5cb2168e7148ecfda2a39d35b0a",
+ "name_ar": "يس",
+ "number": 36,
+ "schema": "balligh.library.quran.surah/1"
+}

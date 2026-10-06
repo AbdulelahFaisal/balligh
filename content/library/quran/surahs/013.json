@@ -1,0 +1,1471 @@
+{
+ "ayah_count": 43,
+ "ayahs": [
+  {
+   "arabic": "الٓمٓرۚ تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِۗ وَٱلَّذِيٓ أُنزِلَ إِلَيۡكَ مِن رَّبِّكَ ٱلۡحَقُّ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يُؤۡمِنُونَ",
+   "aya": 1,
+   "id": 1708,
+   "tafsir": {
+    "arabic_moyassar": "(المر) سبق الكلام على الحروف المقطَّعة في أول سورة البقرة. هذه آيات القرآن الرفيعة القدر، وهذا القرآن المنزل عليك -أيها الرسول- هو الحق، لا كما يقول المشركون: إنك تأتي به مِن عند نفسك، ومع هذا فأكثر الناس لا يصدِّقون به ولا يعملون."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১) এই অক্ষরগুলো এবং এর অনুরূপ অন্যান্য অক্ষরসমূহ, যা কুরআনের কিছু সূরার শুরুতে এসেছে, এগুলোকে হুরূফে মুকাত্তা‘আত তথা কতগুলো বিচ্ছিন্ন বর্ণ দ্বারা গঠিত এক-একটা বাক্য বলে। এগুলো আল-কুরআনের অলৌকিকতার প্রতি ইঙ্গিত করে। মুশরিকরা এর দ্বারা চ্যালেঞ্জের সম্মুখীন হয়েছিল এবং তারা এর মোকাবিলা করতে অক্ষম ছিল; যদিও এগুলো আরবী ভাষার কতগুলো অক্ষর দিয়েই গঠিত। আরবদের – তারা সর্বাধিক বিশুদ্ধ বাগ্মী হওয়া সত্ত্বেও - এর অনুরূপ কিছু রচনা করতে অক্ষমতাই প্রমাণ করে যে কুরআন আল্লাহর পক্ষ থেকে নাযিলকৃত।",
+     "text": "আলিফ-লাম-মীম-রা।(১) এগুলো কিতাবের (আল-কুরআনের) আয়াত। আর তোমার রবের পক্ষ থেকে তোমার ওপর যা কিছু নাযিল হয়েছে তা সত্য; কিন্তু অধিকাংশ মানুষই (তার ওপর) ঈমান আনে না।"
+    },
+    "en": {
+     "footnotes": "[1] See footnote 2:1.",
+     "text": "Alif Lām Mīm Ra[1]. These are the verses of the Book. That which has been sent down to you [O Prophet] from your Lord is the truth, but most people do not believe."
+    },
+    "fr": {
+     "footnotes": "[1] Voir note verset 1, sourate 2.",
+     "text": "Alif-Lâm-Mîm-Râ.[1] Voici les versets du Livre. Ce qui t’est révélé de la part de ton Seigneur est bien la vérité, mais la plupart des hommes n’y croient pas."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Alif Lām Mīm Rā`. Ini adalah ayat-ayat Kitab (Al-Qur`an). Dan (Kitab) yang diturunkan kepadamu (Muhammad) dari Tuhanmu itu adalah benar; tetapi kebanyakan manusia tidak beriman (kepadanya)."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "ا ل م رٰ۔ یہ قرآن کی آیتیں ہیں، اور جو کچھ آپ کی طرف آپ کے رب کی جانب سے اتارا جاتا ہے، سب حق ہے لیکن اکثر لوگ ایمان نہیں ﻻتے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "艾列弗，俩目，米目，拉仪。这些是天经的节文。从你的养主降示于你的经典，确是真实的，但众人大半不信。"
+    }
+   }
+  },
+  {
+   "arabic": "ٱللَّهُ ٱلَّذِي رَفَعَ ٱلسَّمَٰوَٰتِ بِغَيۡرِ عَمَدٖ تَرَوۡنَهَاۖ ثُمَّ ٱسۡتَوَىٰ عَلَى ٱلۡعَرۡشِۖ وَسَخَّرَ ٱلشَّمۡسَ وَٱلۡقَمَرَۖ كُلّٞ يَجۡرِي لِأَجَلٖ مُّسَمّٗىۚ يُدَبِّرُ ٱلۡأَمۡرَ يُفَصِّلُ ٱلۡأٓيَٰتِ لَعَلَّكُم بِلِقَآءِ رَبِّكُمۡ تُوقِنُونَ",
+   "aya": 2,
+   "id": 1709,
+   "tafsir": {
+    "arabic_moyassar": "الله تعالى هو الذي رفع السموات السبع بقدرته من غير عمد كما ترونها، ثم استوى -أي علا وارتفع- على العرش استواء يليق بجلاله وعظمته، وذلَّل الشمس والقمر لمنافع العباد، كلٌّ منهما يدور في فلكه إلى يوم القيامة. يدبِّر سبحانه أمور الدنيا والآخرة، يوضح لكم الآيات الدالة على قدرته وأنه لا إله إلا هو; لتوقنوا بالله والمعاد إليه، فتصدقوا بوعده ووعيده وتُخْلصوا العبادة له وحده."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আল্লাহই সেই সত্তা, যিনি আকাশসমূহকে স্তম্ভ ছাড়াই উত্তোলন করেছেন, যেমনটি তোমরা দেখছ। তারপর তিনি আরশের ওপর উঠেছেন। আর তিনি সূর্য ও চন্দ্রকে (তাঁর সৃষ্টির উপকারের জন্য নির্দিষ্ট বিধানের) অনুগত করেছেন। এর প্রত্যেকটি নির্দিষ্ট সময় পর্যন্ত চলবে। তিনি সবকিছু পরিচালনা করেন। তিনি (তাঁর ক্ষমতার প্রমাণ বহনকারী) নিদর্শনসমূহ বিস্তারিতভাবে বর্ণনা করেন, যাতে তোমাদের রবের সাক্ষাতের ব্যাপারে তোমরা দৃঢ়বিশ্বাসী হতে পার।"
+    },
+    "en": {
+     "footnotes": "[2] See footnote 7:54.",
+     "text": "It is Allah Who raised the heavens without any pillars that you can see, and then He rose over the Throne[2]. He subjected the sun and the moon, each running its course for an appointed term. He governs all affairs, and explains the signs in detail, so that you may be certain of the meeting with your Lord."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "C’est Allah qui a élevé les cieux, sans piliers que vous puissiez observer, avant de s’installer sur le Trône. Il a soumis le soleil et la lune à des lois, l’un et l’autre poursuivant leur course jusqu’à un terme fixé. Il règle la marche de l’univers et expose clairement les signes afin que vous croyiez avec certitude en la rencontre de votre Seigneur."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Allah yang meninggikan langit tanpa tiang (sebagaimana) yang kamu lihat, kemudian Dia bersemayam di atas Arasy. Dia menundukkan matahari dan bulan; masing-masing beredar menurut waktu yang telah ditentukan. Dia mengatur urusan (makhluk-Nya), dan menjelaskan tanda-tanda (kebesaran-Nya), agar kamu yakin akan pertemuan dengan Tuhanmu."
+    },
+    "ur": {
+     "footnotes": "[1] ”اسْتَوَىٰ عَلَى الْعَرْشِ“ کا مفہوم اس سے قبل بیان ہو چکا ہے کہ اس سے مراد اللہ تعالٰی کا عرش پر قرار پکڑنا ہے۔ محدثین کا یہی مسلک ہے وہ اس کی تاویل نہیں کرتے، جیسے بعض دوسرے گروہ اس میں اور دیگر صفات الٰہی میں تاویل کرتے ہیں۔ تاہم محدثین کہتے ہیں کہ اس کی کیفیت نہ بیان کی جاسکتی ہے اور نہ اسے کسی چیز سے تشبیہ دی جاسکتی ہے۔ «لَيْسَ كَمِثْلِهِ شَيْءٌ وَهُوَ السَّمِيعُ الْبَصِيرُ»(الشورى: 11)\n[2] اس کے ایک معنی یہ ہیں کہ یہ ایک وقت مقرر تک یعنی قیامت تک اللہ کے حکم سے چلتے رہیں گے جیسا کہ فرمایا «وَالشَّمْسُ تَجْرِي لِمُسْتَقَرٍّ لَهَا ذَلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ» (يٰس: 38)۔ ”اور سورج اپنے ٹھہرنے کے وقت تک چل رہا ہے“۔ دوسرے معنی یہ ہیں کہ چاند اور سورج دونوں اپنی اپنی منزلوں پر رواں دواں رہتے ہیں سورج اپنا دورہ ایک سال میں اور چاند ایک ماہ میں مکمل کر لیتا ہے جس طرح فرمایا «وَالْقَمَرَ قَدَّرْنَاهُ مَنَازِلَ» (يٰس: 39)۔ ”ہم نے چاند کی منزلیں مقرر کر دی ہیں“ سات بڑے بڑے سیارے ہیں جن میں سے دو چاند اور سورج ہیں یہاں صرف ان دو کا ذکر کیا ہے کیونکہ یہی دو سب سے زیادہ بڑے اور اہم ہیں جب یہ دونوں بھی اللہ کے حکم کے تابع ہیں تو دوسرے سیارے تو بطریق اولی اس کے تابع ہونگے اور جب یہ اللہ کے حکم کے تابع ہیں تو یہ معبود نہیں ہو سکتے معبود تو وہی ہے جس نے ان کو مسخر کیا ہوا ہے اس لیے فرمایا «لَا تَسْجُدُوْا لِلشَّمْسِ وَلَا لِلْقَمَرِ وَاسْجُدُوْا لِلّٰهِ الَّذِيْ خَلَقَهُنَّ اِنْ كُنْتُمْ اِيَّاهُ تَعْبُدُوْنَ» (فصلت: 37) ”سورج اور چاند کو سجدہ نہ کرو اس اللہ کو سجدہ کرو جس نے انہیں پیدا کیا اگر تم صرف اس کی عبادت کرنا چاہتے ہو“۔ «وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ مُسَخَّرَاتٍ بِأَمْرِهِ» (الأعراف: 54) ”سورج چاند اور تارے سب اس کے حکم کے تابع ہیں“۔",
+     "text": "اللہ وه ہے جس نے آسمانوں کو بغیر ستونوں کے بلند کر رکھا ہے کہ تم اسے دیکھ رہے ہو۔ پھر وه عرش پر قرار پکڑے ہوئے ہے[1] ، اسی نے سورج اور چاند کو ماتحتی میں لگا رکھا ہے۔ ہر ایک میعاد معین پر گشت کر رہا ہے[2]، وہی کام کی تدبیر کرتا ہے وه اپنے نشانات کھول کھول کر بیان کر رہا ہے کہ تم اپنے رب کی ملاقات کا یقین کر لو."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "安拉建立诸天，而不用你们所能看见的支柱。随后他升上宝座，他制服日月，各自为一个定期而运行。他处理万事，他详解一切经文，以便你们确信将与你们的养主相会。"
+    }
+   }
+  },
+  {
+   "arabic": "وَهُوَ ٱلَّذِي مَدَّ ٱلۡأَرۡضَ وَجَعَلَ فِيهَا رَوَٰسِيَ وَأَنۡهَٰرٗاۖ وَمِن كُلِّ ٱلثَّمَرَٰتِ جَعَلَ فِيهَا زَوۡجَيۡنِ ٱثۡنَيۡنِۖ يُغۡشِي ٱلَّيۡلَ ٱلنَّهَارَۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يَتَفَكَّرُونَ",
+   "aya": 3,
+   "id": 1710,
+   "tafsir": {
+    "arabic_moyassar": "وهو سبحانه الذي جعل الأرض متسعة ممتدة، وهيأها لمعاشكم، وجعل فيها جبالا تُثبِّتُها وأنهارًا لشربكم ومنافعكم، وجعل فيها من كل الثمرات صنفين اثنين، فكان منها الأبيض والأسود والحلو والحامض، وجعل الليل يغطي النهار بظلمته، إن في ذلك كله لَعظات لقوم يتفكرون فيها، فيتعظون."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর তিনিই জমিনকে (তোমাদের জন্য) বিস্তৃত করেছেন এবং তাতে সৃষ্টি করেছেন সুদৃঢ় পর্বতমালা ও নদ-নদী। আর প্রত্যেক প্রকারের ফল তিনি জোড়ায় জোড়ায় করে সৃষ্টি করেছেন। তিনি দিনকে ঢেকে দেন রাত দিয়ে। নিশ্চয় এসবের (সৃষ্টিজগতের বিভিন্ন বৈচিত্র্যের ) মাঝে রয়েছে চিন্তাশীল সম্প্রদায়ের জন্য নিদর্শনাবলি ।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "It is He Who spread out the earth and placed therein firm mountains and rivers, and created therein fruits of every kind in pairs. He causes the night to cover the day. Indeed, there are signs in this for people who reflect."
+    },
+    "fr": {
+     "footnotes": "[2] Qui en assurent la stabilité.\n[3] Les organes mâles et femelles. Voici, au sujet de ce verset, le commentaire du docteur Maurice Bucaille dans son fameux ouvrage intitulé : La Bible, le Coran et la science : « On sait que le fruit est le terme du processus de reproduction des végétaux supérieurs qui ont l’organisation la plus élaborée, la plus complexe. Le stade qui précède le fruit est celui de la fleur avec ses organes mâles (étamines) et femelles (ovules). Ces derniers, après apport du pollen, donnent des fruits qui, après maturation, libèrent les graines. Tout fruit implique donc l’existence d’organes mâles et d’organes femelles. »",
+     "text": "C’est Lui qui a fait de la terre une vaste étendue où Il a solidement fixé des montagnes[2], où Il a fait couler des rivières et où Il fait pousser chaque fruit à partir d’un couple d’éléments[3]. Il couvre le jour de l’obscurité de la nuit et celle-ci de la lumière du jour. Voilà des signes suffisamment clairs pour des hommes capables de les méditer."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan Dia yang menghamparkan bumi dan menjadikan gunung-gunung dan sungai-sungai di atasnya. Dan padanya Dia menjadikan semua buah-buahan berpasang-pasangan; Dia menutupkan malam kepada siang. Sungguh, pada yang demikian itu terdapat tanda-tanda (kebesaran Allah) bagi orang-orang yang berpikir."
+    },
+    "ur": {
+     "footnotes": "[1] زمین میں طول و عرض کا اندازہ بھی عام لوگوں کے لئے مشکل ہے اور بلند و بالا پہاڑوں کے ذریعے سے زمین میں گویا میخیں گاڑی ہیں، نہروں دریاؤں اور چشموں کا ایسا سلسلہ قائم کیا کہ جس سے انسان خود بھی سیراب ہوتے ہیں اور اپنے کھیتوں کو بھی سیراب کرتے ہیں جن سے انواع و اقسام کے غلے اور پھل پیدا ہوتے ہیں، جن کی شکلیں بھی ایک دوسرے سے مختلف اور ذائقے بھی جداگانہ ہوتے ہیں۔\n[2] اس کا ایک مطلب تو یہ ہے کہ نر مادہ دونوں بنائے، جیسا کہ موجودہ تحقیقات نے بھی اس کی تصدیق کر دی ہے۔ دوسرا مطلب (جوڑے جوڑے کا) یہ ہے میٹھا اور کھٹا، سرد اور گرم، سیاہ اور سفید اور ذائقہ، اس طرح ایک دوسرے سے مختلف اور متضاد قسمیں پیدا کیں۔",
+     "text": "اسی نے زمین پھیلا کر بچھا دی ہے اور اس میں پہاڑ اور نہریں پیدا کردی ہیں[1] ۔ اور اس میں ہر قسم کے پھلوں کے جوڑے دوہرے دوہرے پیدا کردیئے ہیں[2]، وه رات کو دن سے چھپا دیتا ہے۔ یقیناً غور وفکر کرنے والوں کے لئے اس میں بہت سی نشانیاں ہیں."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他展开大地，并在大地上安置许多山岳和河流，他把每种果实造成两性的，他以黑夜覆盖白昼。对于能思维的民众，此中确有许多迹象。"
+    }
+   }
+  },
+  {
+   "arabic": "وَفِي ٱلۡأَرۡضِ قِطَعٞ مُّتَجَٰوِرَٰتٞ وَجَنَّٰتٞ مِّنۡ أَعۡنَٰبٖ وَزَرۡعٞ وَنَخِيلٞ صِنۡوَانٞ وَغَيۡرُ صِنۡوَانٖ يُسۡقَىٰ بِمَآءٖ وَٰحِدٖ وَنُفَضِّلُ بَعۡضَهَا عَلَىٰ بَعۡضٖ فِي ٱلۡأُكُلِۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يَعۡقِلُونَ",
+   "aya": 4,
+   "id": 1711,
+   "tafsir": {
+    "arabic_moyassar": "وفي الأرض قطع يجاور بعضها بعضًا، منها ما هو طيِّب يُنبتُ ما ينفع الناس، ومنها سَبِخة مِلْحة لا تُنبت شيئًا، وفي الأرض الطيبة بساتين من أعناب، وجعل فيها زروعًا مختلفة ونخيلا مجتمعًا في منبت واحد، وغير مجتمع فيه، كل ذلك في تربة واحدة، ويشرب من ماء واحد، ولكنه يختلف في الثمار والحجم والطعم وغير ذلك، فهذا حلو وهذا حامض، وبعضها أفضل من بعض في الأكل، إن في ذلك لَعلامات لمن كان له قلب يعقل عن الله تعالى أمره ونهيه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর জমিনে রয়েছে পরস্পর সংলগ্ন বিভিন্ন ভূখণ্ড, আঙ্গুর-বাগান, শস্যক্ষেত, একই মূল থেকে উদ্‌গত বা ভিন্ন ভিন্ন মূল থেকে উদ্‌গত খেজুর গাছ, যেগুলো একই পানি দ্বারা সিক্ত হয়, আর স্বাদ ও অন্যান্য উপকারের ক্ষেত্রে আমরা একটিকে অপরটির ওপর শ্রেষ্ঠত্ব দিয়ে থাকি। বুদ্ধিমান সম্প্রদায়ের জন্য এর মধ্যে নিদর্শনাবলি রয়েছে ।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "And on the earth there are neighboring [yet different] tracts of land, and gardens of grapevines, grains and palm trees – some growing in clusters from one root or standing alone. They are all irrigated with the same water, yet We cause some of them to excel others in taste. Indeed, there are signs in this for people of understanding."
+    },
+    "fr": {
+     "footnotes": "[4] Provenant d’une même racine.",
+     "text": "Il est sur terre des parcelles voisines, des plantations de vignes, de céréales ou de dattiers à troncs multiples[4] ou uniques. Bien que la même eau les arrose, Nous rendons les unes supérieures aux autres par la qualité de leurs fruits. Voilà des signes suffisamment clairs pour des hommes capables de raisonner."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan di bumi terdapat bagian-bagian yang berdampingan, kebun-kebun anggur, tanaman-tanaman, pohon kurma yang bercabang, dan yang tidak bercabang; disirami dengan air yang sama, tetapi Kami lebihkan tanaman yang satu dari yang lainnya dalam hal rasanya. Sungguh, pada yang demikian itu terdapat tanda-tanda (kebesaran Allah) bagi orang-orang yang berakal."
+    },
+    "ur": {
+     "footnotes": "[1] ”مُتَجَٰوِرَاتٌ“ ایک دوسرے کے قریب اور متصل یعنی زمین کا ایک حصہ شاداب اور زرخیز ہے۔ خوب پیداوار دیتا ہے اس کے ساتھ ہی زمین شور ہے، جس میں کسی قسم کی بھی پیدا نہیں ہوتی۔\n[2] ”صِنْوانٌ“ کے ایک معنی ملے ہوئے اور ”غَيْرُ صِنْوانٍ۔“ کے جدا جدا کیے گئے ہیں دوسرا معنی صِنْوانٌ ایک درخت، جس کی کئی شاخیں اور تنے ہوں، جیسے انار، انجیر اور بعض کھجوریں۔ اور غَيْرُ صِنْوانٍ جو اس طرح نہ ہو بلکہ ایک ہی تنے والا ہو۔\n[3] یعنی زمین بھی ایک، پانی، ہوا بھی ایک۔ لیکن پھل اور غلہ مختلف قسم اور ان کے ذائقے اور شکلیں بھی ایک دوسرے سے مختلف۔",
+     "text": "اور زمین میں مختلف ٹکڑے ایک دوسرے سے لگتے لگاتے ہیں[1] اور انگوروں کے باغات ہیں اور کھیت ہیں اور کھجوروں کے درخت ہیں، شاخ دار اور بعض ایسے ہیں[2] جو بے شاخ ہیں سب ایک ہی پانی پلائے جاتے ہیں۔ پھر بھی ہم ایک کو ایک پر پھلوں میں برتری دیتے ہیں[3] اس میں عقل مندوں کے لئے بہت سی نشانیاں ہیں."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "大地上有许多邻近的区域，有葡萄园，有庄稼，有椰枣树，其中有二株同根生的，二株异根生的，〔这些都是〕用同样的水灌溉的，我却使这一部分果实比那一部分佳美。对于能理解的民众，此中确有许多迹象。"
+    }
+   }
+  },
+  {
+   "arabic": "۞ وَإِن تَعۡجَبۡ فَعَجَبٞ قَوۡلُهُمۡ أَءِذَا كُنَّا تُرَٰبًا أَءِنَّا لَفِي خَلۡقٖ جَدِيدٍۗ أُوْلَٰٓئِكَ ٱلَّذِينَ كَفَرُواْ بِرَبِّهِمۡۖ وَأُوْلَٰٓئِكَ ٱلۡأَغۡلَٰلُ فِيٓ أَعۡنَاقِهِمۡۖ وَأُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلنَّارِۖ هُمۡ فِيهَا خَٰلِدُونَ",
+   "aya": 5,
+   "id": 1712,
+   "tafsir": {
+    "arabic_moyassar": "وإن تعجب -أيها الرسول- من عدم إيمانهم بعد هذه الأدلة فالعجب الأشدُّ من قولهم: أإذا متنا وكنا ترابا نُبعث من جديد؟ أولئك هم الجاحدون بربهم الذي أوجدهم من العدم، وأولئك تكون السلاسل من النار في أعناقهم يوم القيامة، وأولئك يدخلون النار، ولا يخرجون منها أبدًا."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর (হে রাসূল!) তুমি যদি কোন কিছুতে আশ্চর্যবোধ করো, তবে বেশি আশ্চর্যজনক হলো তাদের এ কথা: ‘(মৃত্যুর পরে) আমরা যখন মাটি হয়ে যাব, তখন কি আমরা নতুন সৃষ্টিতে পরিণত হব!’ এরাই তারা, যারা (মৃত্যুর পর পুনরুত্থানকে অস্বীকার করে) তাদের রবের সাথে কুফরী করেছে, আর (কিয়ামতের দিন) ওদের গলায় থাকবে শিকল এবং তারা হবে জাহান্নামের অধিবাসী, সেখানে তারা স্থায়ী হবে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "If you wonder, then wondrous is their saying, “What! When we become dust, will we be created anew?” They are the ones who disbelieve in their Lord, and they are the ones who will have shackles around their necks. Such are the people of the Fire; they will abide therein forever."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Si tu dois t’étonner, c’est bien de leurs paroles : « Serons-nous, une fois réduits en poussière, rendus à la vie ? » Ceux qui prononcent de telles paroles sont, pour avoir renié leur Seigneur, voués au feu de l’Enfer où, des carcans aux cous, ils demeureront pour l’éternité."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan jika engkau merasa heran, maka yang mengherankan adalah ucapan mereka, \" Apabila kami telah menjadi tanah, apakah kami akan (dikembalikan) menjadi makhluk yang baru?\" Mereka itulah yang ingkar kepada Tuhannya; dan mereka itulah (yang dilekatkan) belenggu di lehernya. Mereka adalah penghuni neraka, mereka kekal di dalamnya."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی جس ذات نے پہلی مرتبہ پیدا کیا، اس کے لئے دوبارہ اس چیز کا بنانا کوئی مشکل کام نہیں۔ لیکن کفار یہ عجیب بات کہتے ہیں کہ دوبارہ ہم کیسے پیدا کئے جائیں گے؟۔",
+     "text": "اگر تجھے تعجب ہو تو واقعی ان کا یہ کہنا عجیب ہے کہ کیا جب ہم مٹی ہو جائیں گے۔ تو کیا ہم نئی پیدائش میں ہوں گے[1] ؟ یہی وه لوگ ہیں جنہوں نے اپنے پروردگار سے کفر کیا۔ یہی ہیں جن کی گردنوں میں طوق ہوں گے اور یہی ہیں جو جہنم کے رہنے والے ہیں جو اس میں ہمیشہ ہمیشہ رہیں گے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "如果你感到惊讶，那么，他们的这句话才是奇怪的：“当我们变成为尘土的时候，我们必定要重新受造吗？”这等人是不信他们的养主的，这等人是要带枷锁的，这等人是居住火狱的，他们将永居其中。"
+    }
+   }
+  },
+  {
+   "arabic": "وَيَسۡتَعۡجِلُونَكَ بِٱلسَّيِّئَةِ قَبۡلَ ٱلۡحَسَنَةِ وَقَدۡ خَلَتۡ مِن قَبۡلِهِمُ ٱلۡمَثُلَٰتُۗ وَإِنَّ رَبَّكَ لَذُو مَغۡفِرَةٖ لِّلنَّاسِ عَلَىٰ ظُلۡمِهِمۡۖ وَإِنَّ رَبَّكَ لَشَدِيدُ ٱلۡعِقَابِ",
+   "aya": 6,
+   "id": 1713,
+   "tafsir": {
+    "arabic_moyassar": "ويستعجلك المكذِّبون بالعقوبة التي لم أعاجلهم بها قبل الإيمان الذي يرجى به الأمان والحسنات، وقد مضت عقوبات المكذبين مِن قبلهم، فكيف لا يعتبرون بهم؟ وإن ربك -أيها الرسول- لَذو مغفرة لذنوبِ مَن تاب مِن ذنوبه من الناس على ظلمهم، يفتح لهم باب المغفرة، ويدعوهم إليها، وهم يظلمون أنفسهم بعصيانهم ربهم، وإن ربك لشديد العقاب على مَن أصرَّ على الكفر والضلال ومعصية الله."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর তারা (মুশরিকরা) তোমার কাছে কল্যাণ আসার আগেই অকল্যাণের (শাস্তির) জন্য তাড়াহুড়া করে; অথচ তাদের পূর্বে (অনুরূপ মিথ্যারোপকারী লোকদের) বহু শাস্তির দৃষ্টান্ত গত হয়েছে। আর নিশ্চয় তোমার রব মানুষের প্রতি তাদের যুলম-সীমালঙ্ঘন সত্ত্বেও ক্ষমাশীল এবং নিশ্চয় তোমার রব কঠিন শাস্তিদাতা।"
+    },
+    "en": {
+     "footnotes": "[3] This shows the utter disregard towards the Message.",
+     "text": "They ask you [O Prophet] to hasten the punishment before the good[3], even though there have already been similar punishments before them. But your Lord is indeed forgiving to people despite their wrongdoing, and your Lord is indeed severe in punishment."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Oubliant le supplice exemplaire infligé aux peuples du passé, ils te pressent par défi de hâter le châtiment dont ils sont menacés, alors qu’ils feraient mieux de demander à en être préservés. Car, si ton Seigneur est toute clémence envers les hommes, malgré leurs iniquités, Il est aussi terrible lorsqu’Il décide de châtier."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan mereka meminta kepadamu agar dipercepat (datangnya) siksaan, sebelum (mereka meminta) kebaikan, padahal telah terjadi bermacam-macam contoh siksaan sebelum mereka. Sungguh, Tuhanmu benar-benar memiliki ampunan bagi manusia atas kezaliman mereka, dan sungguh, Tuhanmu sangat keras siksaan-Nya."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی عذاب الٰہی سے قوموں اور بستیوں کی تباہی کی کئی مثالیں پہلے گزر چکی ہیں، اس کے باوجود یہ عذاب جلدی مانگتے ہیں؟ یہ کفار کے جواب میں کہا گیا جو کہتے تھے کہ اے پیغمبر! اگر تو سچا ہے تو عذاب ہم پر لے آ۔ جس سے تو ہمیں ڈراتا رہتا ہے۔\n[2] یعنی لوگوں کے ظلم و معصیت کے باوجود وہ عذاب میں جلدی نہیں کرتا بلکہ مہلت دیتا ہے اور بعض دفعہ تو اتنی تاخیر کرتا ہے کہ معاملہ قیامت پر چھوڑ دیتا ہے، یہ اس کے حلم و کرم اور عفو و درگزر کا نتیجہ ہے ورنہ وہ فوراً مواخذہ کرنے اور عذاب دینے پر آجائے تو روئے زمین پر کوئی انسان ہی باقی نہ رہے۔ «وَلَوْ يُؤَاخِذُ اللّٰهُ النَّاسَ بِمَا كَسَبُوْا مَا تَرَكَ عَلٰي ظَهْرِهَا مِنْ دَاۗبَّةٍ» (فاطر:45) ”اور اگر اللہ تعالٰی لوگوں پر ان کے اعمال کے سبب پکڑ دھکڑ فرمانے لگتا تو روئے زمین پر ایک تنفس کو نہ چھوڑتا“۔\n[3] یہ اللہ کی دوسری صفت کا بیان ہے تاکہ انسان صرف ایک ہی پہلو پر نظر نہ رکھے اس کے دوسرے پہلو کو بھی دیکھتا رہے کیونکہ ایک ہی رخ اور ایک ہی پہلو کو مسلسل دیکھنے رہنے سے بہت سی چیزیں اوجھل رہ جاتی ہیں اسی لیے قرآن کریم میں جہاں اللہ کی صفت رحیمی وغفوری کا بیان ہوتا ہے تو اس کے ساتھ ہی اس کی دوسری صفت قہاری و جباری کا بیان بھی ملتا ہے جیسا کہ یہاں بھی ہے تاکہ رجاء امید اور خوف دونوں پہلو سامنے رہیں کیونکہ اگر امید ہی امید سامنے رہے تو انسان معصیت الہی پر دلیر ہو جاتا ہے اور اگر خوف ہی خوف ہر وقت دل ودماغ پر مسلط رہے تو اللہ کی رحمت سے مایوسی ہو جاتی ہے اور دونوں ہی باتیں غلط اور انسان کے لیے تباہ کن ہیں اسی لیے کہا جاتا ہے«الإِيمَانُ بَيْنَ الْخَوْفِ وَالرَّجَاءِ» ”ایمان خوف اور امید کے درمیان ہے“ یعنی دونوں باتوں کے درمیان اعتدال وتوازن کا نام ایمان ہے انسان اللہ کے عذاب کے خوف سے بےپروا ہو اور نہ اس کی رحمت سے مایوس۔ اس مضمون کے ملاحظہ کے لیے دیکھئے (سورۃ الانعام:47، سورۃ الاعراف:167، سورۃ الحجر:49، 50)",
+     "text": "اور جو تجھ سے (سزا کی طلبی میں) جلد کر رہے ہیں راحت سے پہلے ہی، یقیناً ان سے پہلے سزائیں (بطور مثال) گزر چکی ہیں[1] ، اور بیشک تیرا رب البتہ بخشنے واﻻ ہے لوگوں کے بے جا ﻇلم پر بھی[2]۔ اور یہ بھی یقینی بات ہے کہ تیرا رب بڑی سخت سزا دینے واﻻ بھی ہے.[3]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "在恩惠降临之前，他们要求你早日昭示惩罚。许多惩戒处罚在他们之前确已逝去了。众人虽然不义，但你的养主对于他们确是饶恕的。你的养主的惩罚确是严厉的。"
+    }
+   }
+  },
+  {
+   "arabic": "وَيَقُولُ ٱلَّذِينَ كَفَرُواْ لَوۡلَآ أُنزِلَ عَلَيۡهِ ءَايَةٞ مِّن رَّبِّهِۦٓۗ إِنَّمَآ أَنتَ مُنذِرٞۖ وَلِكُلِّ قَوۡمٍ هَادٍ",
+   "aya": 7,
+   "id": 1714,
+   "tafsir": {
+    "arabic_moyassar": "ويقول كفار «مكة» : هلا جاءته معجزة محسوسة كعصا موسى وناقة صالح، وليس ذلك بيدك -أيها الرسول- فما أنت إلا مبلِّغ لهم، ومخوِّف مِن بأس الله. ولكل أمة رسول يرشدهم إلى الله تعالى."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর কাফিররা (হঠকারিতা করে) বলে: (সে যদি সত্যিই নবী হয়ে থাকে) ‘তার ওপর তার রবের পক্ষ থেকে কোনো নিদর্শন নাযিল হয় না কেনো?’ (হে রাসূল!) তুমি তো কেবল (আল্লাহর শাস্তির) ভীতি প্রদর্শনকারী। আর প্রত্যেক জাতির জন্য একজন হিদায়াতকারী (নবী) রয়েছে ।"
+    },
+    "en": {
+     "footnotes": "[4] i.e., a miracle.",
+     "text": "The disbelievers say, “Why has no sign[4] been sent down to him from his Lord?” You are only a warner, and for every people there is a guide."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Les impies disent : « Si seulement son Seigneur lui permettait de produire des miracles. » Or, tu ne fus envoyé aux hommes que pour les avertir, de même qu’à chaque peuple fut suscité un prophète chargé de le guider."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan orang-orang kafir berkata, \"Mengapa tidak diturunkan kepadanya (Muhammad) suatu tanda (mukjizat) dari Tuhannya?\" Sesungguhnya engkau hanyalah seorang pemberi peringatan; dan bagi setiap kaum ada orang yang memberi petunjuk."
+    },
+    "ur": {
+     "footnotes": "[1] ہر نبی کو اللہ نے حالات و ضروریات اور اپنی مشیت و مصلحت کے مطابق کچھ نشانیاں اور معجزات عطا فرمائے لیکن کافر اپنے حسب منشا معجزات کے طالب ہوتے رہے ہیں۔ جیسے کفار مکہ نبی (صلى الله عليه وسلم) کو کہتے کہ کوہ صفا کو سونے کا بنا دیا جائے یا پہاڑوں کی جگہ نہریں اور چشمے جاری ہوجائیں، وغیرہ وغیرہ جب ان کی خواہش کے مطابق معجزہ صادر کر کے نہ دکھایا جاتا تو کہتے کہ اس پر کوئی نشان (معجزہ) نازل کیوں نہیں کیا گیا؟ اللہ تعالٰی نے فرمایا، اے پیغمبر! تیرا کام صرف تبلیغ ہے۔ وہ تو کرتا رہ کوئی مانے نہ مانے، اس سے تجھے کوئی غرض نہیں، اس لئے کہ ہدایت دینا یہ ہمارا کام ہے۔ تیرا کام راستہ دکھانا ہے، اس راستے پر چلا دینا، یہ تیرا کام نہیں، ہمارا کام ہے۔\n[2] یعنی ہر قوم کی ہدایت و رہنمائی کے لئے اللہ تعالٰی نے ہادی ضرور بھیجا ہے۔ یہ الگ بات ہے کہ قوموں نے ہدایت کا راستہ اپنایا یا نہیں اپنایا۔ لیکن سیدھے راستے کی نشان دہی کرنے کے لئے پیغمبر ہر قوم کے اندر ضرور آیا۔ «وَإِنْ مِنْ أُمَّةٍ إِلا خَلا فِيهَا نَذِيرٌ» ( فاطر:24)۔ ”ہر امت میں ایک نذیر ضرور آیا ہے“۔",
+     "text": "اور کافر کہتے ہیں کہ اس پر اس کے رب کی طرف سے کوئی نشانی (معجزه) کیوں نہیں اتاری گئی۔ بات یہ ہے کہ آپ تو صرف آگاه کرنے والے ہیں.[1] ۔ اور ہر قوم کے لئے ہادی ہے.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "不归信者说：“为什么没有一种迹象，从他的养主降临他呢？”你只是一个警告者，每个民族都有一个引导者。"
+    }
+   }
+  },
+  {
+   "arabic": "ٱللَّهُ يَعۡلَمُ مَا تَحۡمِلُ كُلُّ أُنثَىٰ وَمَا تَغِيضُ ٱلۡأَرۡحَامُ وَمَا تَزۡدَادُۚ وَكُلُّ شَيۡءٍ عِندَهُۥ بِمِقۡدَارٍ",
+   "aya": 8,
+   "id": 1715,
+   "tafsir": {
+    "arabic_moyassar": "الله تعالى يعلم ما تحمل كلُّ أنثى في بطنها، أذكر هو أم أنثى؟ وشقي هو أم سعيد؟ ويعلم ما تنقصه الأرحام، فيسقط أو يولد قبل تسعة أشهر، وما يزيد حمله عليها. وكل شيء مقدَّر عند الله بمقدار من النقصان أو الزيادة لا يتجاوزه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আল্লাহ জানেন প্রত্যেক নারী তার গর্ভে যা ধারণ করে এবং গর্ভাশয়ে যা কমে ও বাড়ে। আর তাঁর নিকট প্রতিটি বস্তুরই এক নির্দিষ্ট পরিমাণ আছে।"
+    },
+    "en": {
+     "footnotes": "[5] Human and otherwise, during pregnancy.\n [6] Decrease and increase in the duration of pregnancy and/or the number of fetuses therein.",
+     "text": "Allah knows what every female bears[5], and what the wombs may fall short or increase[6]. With Him everything is precisely measured."
+    },
+    "fr": {
+     "footnotes": "[5] Par une fausse couche.",
+     "text": "Allah sait ce que porte chaque femelle, et si la grossesse s’interrompra[5] ou se prolongera. A toute chose, Il a assigné une mesure et un terme."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Allah mengetahui apa yang dikandung oleh setiap perempuan, apa yang kurang sempurna dan apa yang bertambah dalam rahim. Dan segala sesuatu ada ukuran di sisi-Nya."
+    },
+    "ur": {
+     "footnotes": "[1] رحم مادر میں کیا ہے، نر یا مادہ، خوبصورت یا بد صورت، نیک ہے یا بد، طویل العمر ہے یا قصیر العمر؟ یہ سب باتیں صرف اللہ تعالٰی ہی جانتا ہے۔\n[2] اس سے مراد حمل مدت ہے جو عام طور پر ٩ مہینے ہوتی ہے لیکن گھٹتی بڑھتی بھی ہے، کسی وقت یہ مدت 10مہینے اور کسی وقت 7،8 مہینے ہو جاتی ہے، اس کا علم بھی اللہ کے سوا کسی کو نہیں۔\n[3] یعنی کسی کی زندگی کتنی ہے؟ اسے رزق سے کتنا حصہ ملے گا؟ اس کا پورا اندازہ اللہ کو ہے۔",
+     "text": "ماده اپنے شکم میں جو کچھ رکھتی ہے اسے اللہ بخوبی جانتا ہے[1] اور پیٹ کا گھٹنا بڑھنا بھی[2]، ہر چیز اس کے پاس اندازے سے ہے.[3]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "安拉知道每个女性的怀孕，和子宫的收缩和膨胀。在他〔安拉〕那里，万物是各有定量的。"
+    }
+   }
+  },
+  {
+   "arabic": "عَٰلِمُ ٱلۡغَيۡبِ وَٱلشَّهَٰدَةِ ٱلۡكَبِيرُ ٱلۡمُتَعَالِ",
+   "aya": 9,
+   "id": 1716,
+   "tafsir": {
+    "arabic_moyassar": "الله عالم بما خفي عن الأبصار، وبما هو مشاهَد، الكبير في ذاته وأسمائه وصفاته، المتعالي على جميع خلقه بذاته وقدرته وقهره."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "(কেননা,) তিনি গায়িব (অদৃশ্য) ও প্রকাশ্যের জ্ঞানী, (তাঁর নামসমূহ, গুণাবলি ও কর্মসমূহে) সুমহান, (সত্তা ও গুণাবলিতে) সকল সৃষ্টির ঊর্ধ্বে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "He is the Knower of the unseen and the seen, the All-Great, the Most Exalted."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Il connaît le monde visible comme le monde invisible. Il est le Très Grand, le Transcendant."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(Allah) Yang mengetahui semua yang gaib dan yang nyata; Yang Mahabesar, Mahatinggi."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "ﻇاہر وپوشیده کا وه عالم ہے (سب سے) بڑا اور (سب سے) بلند وباﻻ."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "〔他〕是全知幽明的，是伟大的，是崇高的。"
+    }
+   }
+  },
+  {
+   "arabic": "سَوَآءٞ مِّنكُم مَّنۡ أَسَرَّ ٱلۡقَوۡلَ وَمَن جَهَرَ بِهِۦ وَمَنۡ هُوَ مُسۡتَخۡفِۭ بِٱلَّيۡلِ وَسَارِبُۢ بِٱلنَّهَارِ",
+   "aya": 10,
+   "id": 1717,
+   "tafsir": {
+    "arabic_moyassar": "يستوي في علمه تعالى مَن أخفى القول منكم ومَن جهر به، ويستوي عنده مَن استتر بأعماله في ظلمة الليل، ومن جهر بها في وضح النهار."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তোমাদের মধ্যে কেউ কথা গোপন রাখুক বা প্রকাশ করুক, আর রাতে লুকিয়ে করুক বা দিনে প্রকাশ্যে করুক, সবই তাঁর নিকট সমান (তিনি সবার সকল অবস্থা সম্পর্কে অবগত আছেন )।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "It is the same [to Him] whether one of you speaks secretly or in public, and whether one is hidden in the darkness of the night or walks about openly in the daylight."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Nulle différence pour Lui entre celui parmi vous qui parle tout bas et celui qui s’exprime à haute voix, entre celui qui se dissimule à la faveur de la nuit et celui qui agit au grand jour."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sama saja (bagi Allah), siapa di antaramu yang merahasiakan ucapannya dan siapa yang berterus terang dengannya; dan siapa yang bersembunyi pada malam hari dan yang berjalan pada siang hari."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "تم میں سے کسی کا اپنی بات کو چھپا کر کہنا اور بﺂواز بلند اسے کہنا اور جو رات کو چھپا ہوا ہو اور جو دن میں چل رہا ہو، سب اللہ پر برابر ویکساں ہیں."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你们中窃窃私语的，高谈阔论的，隐藏在黑夜的，出现在白昼的，〔在他〕看来都是一样的。"
+    }
+   }
+  },
+  {
+   "arabic": "لَهُۥ مُعَقِّبَٰتٞ مِّنۢ بَيۡنِ يَدَيۡهِ وَمِنۡ خَلۡفِهِۦ يَحۡفَظُونَهُۥ مِنۡ أَمۡرِ ٱللَّهِۗ إِنَّ ٱللَّهَ لَا يُغَيِّرُ مَا بِقَوۡمٍ حَتَّىٰ يُغَيِّرُواْ مَا بِأَنفُسِهِمۡۗ وَإِذَآ أَرَادَ ٱللَّهُ بِقَوۡمٖ سُوٓءٗا فَلَا مَرَدَّ لَهُۥۚ وَمَا لَهُم مِّن دُونِهِۦ مِن وَالٍ",
+   "aya": 11,
+   "id": 1718,
+   "tafsir": {
+    "arabic_moyassar": "لله تعالى ملائكة يتعاقبون على الإنسان من بين يديه ومن خلفه، يحفظونه بأمر الله ويحصون ما يصدر عنه من خير أو شر. إن الله سبحانه وتعالى لا يغيِّر نعمة أنعمها على قوم إلا إذا غيَّروا ما أمرهم به فعصوه. وإذا أراد الله بجماعةٍ بلاءً فلا مفرَّ منه، وليس لهم مِن دون الله مِن وال يتولى أمورهم، فيجلب لهم المحبوب، ويدفع عنهم المكروه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "(তাঁর পক্ষ থেকে) মানুষের জন্য রয়েছে তার সামনে ও পেছনে, একের পর এক আগমনকারী প্রহরী (ফিরিশতা), যারা আল্লাহর আদেশে তাকে হিফাযত করে। নিশ্চয় আল্লাহ কোন জাতির অবস্থা ততক্ষণ পরিবর্তন করেন না; যতক্ষণ না তারা নিজেদের অবস্থা নিজেরা পরিবর্তন করে। আর আল্লাহ যখন কোন জাতির মন্দ (ধ্বংস) চান, তখন তাঁর ইচ্ছার প্রতিরোধ কেউ করতে পারে না এবং তাদের জন্য তিনি ছাড়া আর কোনো অভিভাবকও নেই।"
+    },
+    "en": {
+     "footnotes": "[7] Angels tasked with each human; they alternate and take day and night shifts.\n [8] As long as people acknowledge Allah’s grace on them and are grateful to Him, He will not show them other than mercy, and vice versa. If they persist in disobedience, then let them not be fooled by the respite they are given, for Allah’s command can come at any moment.\n [9] Because of their sins.",
+     "text": "For each person there are successive angels[7] in front of him and behind him, guarding him by the command of Allah. Allah does not change the condition of a people until they change their own attitude and conduct[8]. But if Allah intends punishment for a people[9], then it cannot be averted, nor will there be any protector for them besides Him."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Des anges gardiens, chargés par Allah de votre protection et de consigner vos œuvres, se relayent nuit et jour devant et derrière chacun d’entre vous. En vérité, Allah ne saurait modifier Ses faveurs envers Ses serviteurs tant que ces derniers n’ont pas modifié leur comportement. Et lorsque Allah décide de punir certains d’entre eux, rien ni personne ne peut écarter Son châtiment. Nul n’est en mesure de les protéger de Ses rigueurs."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Baginya (manusia) ada malaikat-malaikat yang selalu menjaganya bergiliran, dari depan dan belakangnya. Mereka menjaganya atas perintah Allah. Sesungguhnya Allah tidak mengubah keadaan suatu kaum sebelum mereka mengubah keadaan diri mereka sendiri. Dan apabila Allah menghendaki keburukan terhadap suatu kaum, maka tak ada yang dapat menolaknya dan tidak ada pelindung bagi mereka selain Dia."
+    },
+    "ur": {
+     "footnotes": "[1] مُعَقِّبَاتٌ، مُعَقِّبَةٌ۔ کی جمع ہے ایک دوسرے کے پیچھے آنے والے، مراد فرشتے ہیں جو باری باری ایک دوسرے کے بعد آتے ہیں۔ دن کے فرشتے جاتے ہیں تو شام کے آجاتے ہیں شام کے جاتے ہیں تو دن کے آجاتے ہیں۔\n[2] اس کی تشریح کے لئے دیکھئے سورہ انفال آیت 53 کا حاشیہ۔",
+     "text": "اس کے پہرے دار[1] انسان کے آگے پیچھے مقرر ہیں، جو اللہ کے حکم سے اس کی نگہبانی کرتے ہیں۔ کسی قوم کی حالت اللہ تعالیٰ نہیں بدلتا جب تک کہ وه خود اسے نہ بدلیں جو ان کے دلوں میں ہے[2]۔ اللہ تعالیٰ جب کسی قوم کی سزا کا اراده کر لیتا ہے تو وه بدﻻ نہیں کرتا اور سوائے اس کے کوئی بھی ان کا کارساز نہیں."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "每个人的前面和后面，都有许多接踵而来的天使，他们奉安拉的命令来监护他。安拉必定不变更任何民众的情况，直到他们变更自己的情况。当安拉欲降灾害于任何民众的时候，那灾害是不可抗拒的。除他外，他们绝无保佑者。"
+    }
+   }
+  },
+  {
+   "arabic": "هُوَ ٱلَّذِي يُرِيكُمُ ٱلۡبَرۡقَ خَوۡفٗا وَطَمَعٗا وَيُنشِئُ ٱلسَّحَابَ ٱلثِّقَالَ",
+   "aya": 12,
+   "id": 1719,
+   "tafsir": {
+    "arabic_moyassar": "هو الذي يريكم من آياته البرق -وهو النور اللامع من خلال السحاب- فتخافون أن تنزل عليكم منه الصواعق المحرقة، وتطمعون أن ينزل معه المطر، وبقدرته سبحانه يوجد السحاب المحمَّل بالماء الكثير لمنافعكم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তিনিই (বজ্রপাতের) ভয় ও (বৃষ্টির) আশা সঞ্চার করার জন্য তোমাদেরকে (আসমানের) বিদ্যুৎ দেখান এবং তিনি সৃষ্টি করেন ভারী মেঘমালা।"
+    },
+    "en": {
+     "footnotes": "[10] “Fear” of being hit by thunderbolt and “hope” for getting rain.\n [11] The fluffy clouds floating above our heads like balloons are in fact extremely heavy.",
+     "text": "It is He Who shows you lightening [causing] fear and hope[10] and forms heavy clouds[11]."
+    },
+    "fr": {
+     "footnotes": "[6] Crainte d’être foudroyés et espoir de voir la pluie tomber.",
+     "text": "C’est Lui qui vous fait voir l’éclair, suscitant en vous crainte et espoir[6], et qui fait naître des nuages lourdement chargés de pluie."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dialah yang memperlihatkan kilat kepadamu yang menimbulkan ketakutan dan harapan, dan Dia menjadikan awan mendung."
+    },
+    "ur": {
+     "footnotes": "[1] جس سے راہ گیر مسافر ڈرتے ہیں اور گھروں میں مقیم کسان اور کاشت کار اس کی برکت و منفعت کی امید رکھتے ہیں۔\n[2] بھاری بادلوں سے مراد، وہ بادل ہیں جس میں بارش کا پانی ہوتا ہے۔",
+     "text": "وه اللہ ہی ہے جو تمہیں بجلی کی چمک ڈرانے اور امید دﻻنے کے لئے دکھاتا ہے[1] اور بھاری بادلوں کو پیدا کرتا ہے.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他是以电光昭示你们，以引起你们的恐惧和希望，并兴起密云。"
+    }
+   }
+  },
+  {
+   "arabic": "وَيُسَبِّحُ ٱلرَّعۡدُ بِحَمۡدِهِۦ وَٱلۡمَلَٰٓئِكَةُ مِنۡ خِيفَتِهِۦ وَيُرۡسِلُ ٱلصَّوَٰعِقَ فَيُصِيبُ بِهَا مَن يَشَآءُ وَهُمۡ يُجَٰدِلُونَ فِي ٱللَّهِ وَهُوَ شَدِيدُ ٱلۡمِحَالِ",
+   "aya": 13,
+   "id": 1720,
+   "tafsir": {
+    "arabic_moyassar": "ويسبِّح الرعد بحمد الله تسبيحًا يدل على خضوعه لربه، وتنزِّه الملائكة ربها مِن خوفها من الله، ويرسل الله الصواعق المهلكة فيهلك بها مَن يشاء من خلقه، والكفار يجادلون في وحدانية الله وقدرته على البعث، وهو شديد الحول والقوة والبطش بمن عصاه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর বজ্রধ্বনি আল্লাহর সপ্রশংস তাসবীহ পাঠ করে এবং ফিরিশতারাও তাঁর ভয়ে (তাঁর পবিত্রতা বর্ণনা করে।) আর তিনি (আসমান থেকে) গর্জনকারী বজ্র পাঠান। অতঃপর তা দ্বারা যাকে ইচ্ছা আঘাত করেন। (এত কিছুর পরও) তারা (কাফিররা) আল্লাহ সম্পর্কে বিতর্ক করে; অথচ তিনি (বিরুদ্ধাচরণকারীর জন্য) শক্তিতে প্রবল, শাস্তিতে কঠোর।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "The thunder glorifies His praise, and so do the angels in awe of Him. He sends thunderbolts, striking therewith whom He wills, yet they dispute about Allah, Who is severe in might."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Le tonnerre, par les louanges, célèbre Sa gloire, de même que les anges qui Le glorifient par crainte. Il lance la foudre avec laquelle Il atteint qui Il veut. Ils persistent, malgré cela, à douter de l’unicité et de la toute-puissance d’Allah dont le châtiment est pourtant terrible."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan guruh bertasbih memuji-Nya, (demikian pula) para malaikat karena takut kepada-Nya, dan Allah melepaskan halilintar, lalu menimpakannya kepada siapa yang Dia kehendaki, sementara mereka berbantah-bantahan tentang Allah, dan Dia Mahakeras siksaan-Nya."
+    },
+    "ur": {
+     "footnotes": "[1] جیسے دوسرے مقام پر فرمایا «وَإِنْ مِنْ شَيْءٍ إِلا يُسَبِّحُ بِحَمْدِهِ» ( بني إسرائيل:44) ”ہر چیز اللہ کی تسبیح بیان کرتی ہے“۔\n[2] یعنی اس کے ذریعے جس کو چاہتا ہے، ہلاک کر ڈالتا ہے۔\n[3] مِحَالٌ ۔ کے معنی قوت مواخذہ اور تدبیر وغیرہ کے کیے گئے ہیں یعنی وہ بڑی قوت والا، نہایت مواخذہ کرنے والا اور تدبیر کرنے والا ہے۔",
+     "text": "گرج اس کی تسبیح وتعریف کرتی ہے اور فرشتے بھی، اس کے خوف سے[1] ۔ وہی آسمان سے بجلیاں گراتا ہے اور جس پر چاہتا ہے اس پر ڈالتا ہے[2] کفار اللہ کی بابت لڑ جھگڑ رہے ہیں اور اللہ سخت قوت والا ہے.[3]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "雷霆在赞颂他超绝万物，众天使因为畏惧他而赞颂他。他发出霹雳以击杀他所意欲者。他们就安拉而发生争论，而他是谋略强大的。"
+    }
+   }
+  },
+  {
+   "arabic": "لَهُۥ دَعۡوَةُ ٱلۡحَقِّۚ وَٱلَّذِينَ يَدۡعُونَ مِن دُونِهِۦ لَا يَسۡتَجِيبُونَ لَهُم بِشَيۡءٍ إِلَّا كَبَٰسِطِ كَفَّيۡهِ إِلَى ٱلۡمَآءِ لِيَبۡلُغَ فَاهُ وَمَا هُوَ بِبَٰلِغِهِۦۚ وَمَا دُعَآءُ ٱلۡكَٰفِرِينَ إِلَّا فِي ضَلَٰلٖ",
+   "aya": 14,
+   "id": 1721,
+   "tafsir": {
+    "arabic_moyassar": "لله سبحانه وتعالى وحده دعوة التوحيد (لا إله إلا الله) ، فلا يُعبد ولا يُدعى إلا هو، والآلهة التي يعبدونها من دون الله لا تجيب دعاء مَن دعاها، وحالهم معها كحال عطشان يمد يده إلى الماء من بعيد; ليصل إلى فمه فلا يصل إليه، وما سؤال الكافرين لها إلا غاية في البعد عن الصواب لإشراكهم بالله غيره."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(২) অর্থাৎ তাঁকে ছাড়া আর কাউকে ইলাহ হিসেবে ডাকা যাবে না।\n (৩) অর্থাৎ মূর্তিগুলোর প্রতি কাফিরদের ডাক বৃথা যা সত্য পথ থেকে অনেক দূরে। কারণ, সেগুলো তাদের কোন উপকার বা ক্ষতি কিছু্ই করতে পারে না।",
+     "text": "সত্যের দাওয়াত তাঁরই জন্যে(২)। আর যারা তাঁকে ছাড়া অন্যদেরকে ডাকে, তারা তাদের ডাকে সামান্যও সাড়া দিতে পারে না; বরং (তাদের দৃষ্টান্ত) ঐ তৃষ্ণার্ত ব্যক্তির মতো, যে পানির দিকে তার দু’হাত প্রসারিত করে যেন তা তার মুখে পৌঁছে যায়; অথচ তা এভাবে কখনো তার কাছে পৌঁছার নয়। আর (মূর্তিগুলোর প্রতি) কাফিরদের ডাক তো কেবল ভ্রষ্টতায় নিপতিত হয়ে থাকে।(৩)"
+    },
+    "en": {
+     "footnotes": "[12] i.e., the testimony of faith (There is no true god but Allah).\n [13] The analogy indicates that false deities will never respond to them.",
+     "text": "To Him alone should all supplication be addressed[12]. But those whom they supplicate besides Him do not respond to them in any way, except like one who stretches out his hands for water to reach his mouth, but it will never reach it[13]. The supplication of the disbelievers is all in vain."
+    },
+    "fr": {
+     "footnotes": "[7] Les mains grandes ouvertes, précisent certains exégètes. Il est certain que nul n’est capable de puiser de l’eau et de la porter à sa bouche de cette manière.",
+     "text": "Lui seul est digne d’être invoqué. Car celui qui adresse ses prières à de fausses divinités incapables de les exaucer est à l’image de celui qui, en vain, tend les mains vers de l’eau pour la porter à sa bouche[7]. C’est en pure perte que les impies invoquent leurs dieux."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Hanya kepada Allah doa yang benar. Berhala-berhala yang mereka sembah selain Allah tidak dapat mengabulkan apa pun bagi mereka, tidak ubahnya seperti orang yang membukakan kedua telapak tangannya ke dalam air agar (air) sampai ke mulutnya. Padahal air itu tidak akan sampai ke mulutnya. Dan doa orang-orang kafir itu, hanyalah sia-sia belaka."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی خوف اور امید کے وقت اسی ایک اللہ کو پکارنا صحیح ہے کیونکہ وہی ہر ایک کی پکار سنتا ہے اور قبول فرماتا ہے یا دعوت۔ عبادت کے معنی میں ہے یعنی، اسی کی عبادت حق اور صحیح ہے اس کے سوا کوئی عبادت کا مستحق نہیں، کیونکہ کائنات کا خالق، مالک اور مدبر صرف وہی ہے اس لئے عبادت صرف اسی کا حق ہے۔\n[2] یعنی جو اللہ کو چھوڑ کر دوسروں کو مدد کے لئے پکارتے ہیں۔ ان کی مثال ایسی ہے جیسے کوئی شخص دور سے پانی کی طرف اپنی دونوں ہتھلیاں پھیلا کر پانی سے کہے کہ میرے منہ تک آجا، ظاہر بات ہے کہ پانی جامد چیز ہے، اسے پتہ ہی نہیں کہ ہتھیلیاں پھیلانے والے کی حاجت کیا ہے، اور نہ اسے پتہ ہے کہ وہ مجھ سے اپنے منہ تک پہنچنے کا مطالبہ کر رہا ہے۔ اور نہ اس میں یہ قدرت ہے کہ اپنی جگہ سے حرکت کر کے اس کے ہاتھ یا منہ تک پہنچ جائے اسی طرح یہ مشرک اللہ کے سوا جن کو پکارتے ہیں انہیں نہ یہ پتہ ہے کہ کوئی انہیں پکار رہا ہے اور اس کی فلاں حاجت ہے اور نہ اس حاجت روائی کی ان میں قدرت ہی ہے۔\n[3] اور بےفائدہ بھی ہے، کیونکہ اس سے ان کو کئی نفع نہیں ہوگا۔",
+     "text": "اسی کو پکارنا حق ہے[1] ۔ جو لوگ اوروں کو اس کے سوا پکارتے ہیں وه ان (کی پکار) کا کچھ بھی جواب نہیں دیتے مگر جیسے کوئی شخص اپنے دونوں ہاتھ پانی کی طرف پھیلائے ہوئے ہو کہ اس کے منھ میں پڑ جائے حاﻻنکہ وه پانی اس کے منھ میں پہنچنے واﻻ نہیں[2]، ان منکروں کی جتنی پکار ہے سب گمراہی میں ہے.[3]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "真实的祈祷只归于他，他们舍他而祈祷的〔偶像〕，一点也不能答应他们的祈求。但他们好像一个人，把两只手掌伸向水中，以便水达到他的口，其实，水绝不会达到他的口的。不归信者的祈祷，只在迷误中。"
+    }
+   }
+  },
+  {
+   "arabic": "وَلِلَّهِۤ يَسۡجُدُۤ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ طَوۡعٗا وَكَرۡهٗا وَظِلَٰلُهُم بِٱلۡغُدُوِّ وَٱلۡأٓصَالِ۩",
+   "aya": 15,
+   "id": 1722,
+   "tafsir": {
+    "arabic_moyassar": "ولله وحده يسجد خاضعًا منقادًا كُلُّ مَن في السموات والأرض، فيسجد ويخضع له المؤمنون طوعًا واختيارًا، ويخضع له الكافرون رغمًا عنهم; لأنهم يستكبرون عن عبادته، وحالهم وفطرتهم تكذِّبهم في ذلك، وتنقاد لعظمة الله ظلال المخلوقات، فتتحرك بإرادته أول النهار وآخره."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আসমানসমূহ ও জমিনে যা কিছু আছে সবাই ইচ্ছায় ও অনিচ্ছায় আল্লাহর প্রতিই সাজদায় অবনত এবং তাদের ছায়াগুলো সকাল ও সন্ধ্যায় (তাঁর সামনেই সাজদায় অবনত হয়)।"
+    },
+    "en": {
+     "footnotes": "[14] There are two types of prostrations: sujūd shar‘i (Intentional prostration) and sujūd qadari (Unintentional prostration). See also 3:83.",
+     "text": "To Allah prostrates[14] whoever is in the heavens and on earth, willingly or unwillingly, and so do their shadows in the morning and evening."
+    },
+    "fr": {
+     "footnotes": "[8] Littéralement : devant Allah seul se prosternent…Les anges, au ciel, et les croyants, sur terre, se prosternent volontairement. Les mécréants, pour leur part, se « prosternent », qu’ils le veuillent ou non, dans la mesure où ils sont eux aussi soumis à la volonté du Seigneur dont ils sont les créatures, la « prosternation » étant la forme la plus accomplie de soumission au Créateur. Le Très Haut dit au verset 58 de la sourate 2 : « franchissez la porte en vous prosternant », autrement dit, selon les exégètes : « en toute humilité », c’est dire le lien étroit entre la notion de prosternation et celle de soumission. En outre, si les mécréants refusent de poser leur front au sol en signe de soumission à leur Seigneur - auquel ils sont de toute manière soumis - leurs ombres, elles, se prosternent immanquablement en s’inclinant matin et soir.",
+     "text": "A Allah seul sont soumis, bon gré mal gré, tous les êtres qui peuplent les cieux et la terre, ainsi que leurs ombres, soumises à Ses lois matin et soir[8]."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan semua sujud kepada Allah, baik yang di langit maupun yang di bumi, baik dengan kemauan sendiri maupun terpaksa, dan (sujud pula) bayang-bayang mereka, pada waktu pagi dan petang hari."
+    },
+    "ur": {
+     "footnotes": "[1] اس میں اللہ تعالٰی کی عظمت و قدرت کا بیان ہے کہ ہرچیز پر اس کا غلبہ ہے اور ہرچیز اس کے ما تحت اور اس کے سامنے سجدہ ریز ہے، چاہے مومنوں کی طرح خوشی سے کریں یا مشرکوں کی طرح ناخوشی سے۔ اور ان کے سائے بھی صبح و شام سجدہ کرتے ہیں۔ جیسے دوسرے مقام پر فرمایا۔ «اَوَلَمْ يَرَوْا اِلٰى مَا خَلَقَ اللّٰهُ مِنْ شَيْءٍ يَّتَفَيَّؤُا ظِلٰلُهٗ عَنِ الْيَمِيْنِ وَالشَّمَاۗىِٕلِ سُجَّدًا لِّلّٰهِ وَهُمْ دٰخِرُوْنَ» (النحل:48) ”کیا انہوں نے نہیں دیکھا کہ اللہ نے جو چیز بھی پیدا کی ہے ان کے سائے داہنے اور بائیں سے اللہ کو سجدہ کرتے ہوئے ڈھلتے ہیں اور وہ عاجزی کرتے ہیں“۔ اس سجدے کی کیفیت کیا ہے؟ یہ اللہ تعالٰی بہتر جانتا ہے یا دوسرا مفہوم اس کا یہ ہے کہ کافر سمیت تمام مخلوق اللہ کے حکم کے تابع ہے کسی میں اسی سے سرتابی کی مجال نہیں اللہ تعالٰی کسی کو صحت دے بیمار کرے غنی کر دے یا فقیر بنا دے زندگی دے یا موت سے ہمکنار کرے ان تکوینی احکام میں کسی کافر کو بھی مجال انکار نہیں۔",
+     "text": "اللہ ہی کے لئے زمین اور آسمانوں کی سب مخلوق خوشی اور ناخوشی سے سجده کرتی ہے اور ان کے سائے بھی صبح وشام.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "凡在天地间的万物，都顺服地或勉强地为安拉而叩头，他们的阴影也朝夕为他而叩头。۩"
+    }
+   }
+  },
+  {
+   "arabic": "قُلۡ مَن رَّبُّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ قُلِ ٱللَّهُۚ قُلۡ أَفَٱتَّخَذۡتُم مِّن دُونِهِۦٓ أَوۡلِيَآءَ لَا يَمۡلِكُونَ لِأَنفُسِهِمۡ نَفۡعٗا وَلَا ضَرّٗاۚ قُلۡ هَلۡ يَسۡتَوِي ٱلۡأَعۡمَىٰ وَٱلۡبَصِيرُ أَمۡ هَلۡ تَسۡتَوِي ٱلظُّلُمَٰتُ وَٱلنُّورُۗ أَمۡ جَعَلُواْ لِلَّهِ شُرَكَآءَ خَلَقُواْ كَخَلۡقِهِۦ فَتَشَٰبَهَ ٱلۡخَلۡقُ عَلَيۡهِمۡۚ قُلِ ٱللَّهُ خَٰلِقُ كُلِّ شَيۡءٖ وَهُوَ ٱلۡوَٰحِدُ ٱلۡقَهَّٰرُ",
+   "aya": 16,
+   "id": 1723,
+   "tafsir": {
+    "arabic_moyassar": "قل -أيها الرسول- للمشركين: مَن خالق السَّموات والأرض ومدبِّرهما؟ قل: الله هو الخالق المدبر لهما، وأنتم تقرون بذلك، ثم قل لهم ملزمًا بالحجة: أجعلتم غيره معبودين لكم، وهم لا يَقْدرون على نفع أنفسهم أو ضرها فضلا عن نفعكم أو ضركم، وتركتم عبادة مالكها؟ قل لهم -أيها الرسول-: هل يستوي عندكم الكافر -وهو كالأعمى- والمؤمن وهو كالبصير؟ أم هل يستوي عندكم الكفر -وهو كالظلمات- والإيمان -وهو كالنور؟ أم أن أولياءهم الذين جعلوهم شركاء لله يخلقون مثل خَلْقه، فتشابه عليهم خَلْق الشركاء بخلق الله، فاعتقدوا استحقاقهم للعبادة؟ قل لهم -أيها الرسول-: الله تعالى خالق كل كائن من العدم، وهو المستحق للعبادة وحده، وهو الواحد القهار الذي يستحق الألوهية والعبادة، لا الأصنام والأوثان التي لا تضرُّ ولا تنفع."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "(হে রাসূল! তুমি কাফিরদেরকে) বলো: ‘আসমানসমূহ ও জমিনের রব কে?’ বলো: ‘আল্লাহ’। তুমি বলো: ‘তোমরা কি তাঁকে ছাড়া এমন (অক্ষম) কিছুকে অভিভাবক হিসেবে গ্রহণ করেছ, যারা তাদের নিজেদের কোনো উপকার অথবা ক্ষতি করতে সক্ষম নয়?’ বলো: ‘অন্ধ (কাফির) ও দৃষ্টিমান (মু’মিন) ব্যক্তি কি সমান হতে পারে? নাকি অন্ধকার (কুফরি) ও আলো (ঈমান) সমান হতে পারে? নাকি তারা আল্লাহর জন্য এমন কতগুলো শরীক নির্ধারণ করেছে, যারা তাঁর সৃষ্টির তুল্য কিছু সৃষ্টি করেছে, ফলে তাদের নিকট (আল্লাহর ও তাদের শরীকদের) সৃষ্টির বিষয়টি এক রকম মনে হয়েছে?; (হে রাসূল! তুমি তাদেরকে) বলো: ‘আল্লাহ একাই সবকিছুর স্রষ্টা এবং তিনি এক, মহা প্রতাপশালী।’"
+    },
+    "en": {
+     "footnotes": "[15] The claimed partners cannot be compared to Allah in any way.\n [16] Disbelievers are ‘blind’ to the Truth and the believers can see the Truth plainly as it is.\n [17] Their so-called ‘gods’ could not answer their prayers or do them good or harm, let alone perform such a great act as that of creation.",
+     "text": "Say, “Who is the Lord of the heavens and earth?” Say, “Allah.” Say, “Have you taken besides Him protectors, those who have no power to benefit or harm themselves[15]?” Say, “Can the blind person be equal to the seeing[16], or can the darkness be equal to the light?” Or do they ascribe to Allah partners who created the like of His creation[17], so they are confused between two creations? Say, “Allah is the Creator of all things, and He is the One, the Subjugator.”"
+    },
+    "fr": {
+     "footnotes": "[9] Ou : capables d’imiter Sa création.",
+     "text": "Demande-leur : « Qui est le Seigneur des cieux et de la terre ? » Réponds : « C’est Allah. » Demande-leur alors : « Avez-vous, malgré cela, pris pour maîtres, en dehors de Lui, des dieux incapables d’obtenir un bien pour eux-mêmes ou de repousser un mal ? » Demande-leur : « L’aveugle est-il comparable à celui qui voit ? Les ténèbres sont-elles comparables à la lumière ? » Ou bien ont-ils associé à Allah de fausses divinités capables, comme Lui, de créer[9], au point que leur création se confondrait à leurs yeux avec celle d’Allah ? Dis : « Allah est bien le Créateur de toute chose, et Il est le Dieu unique qui a soumis l’ensemble de la Création à Son pouvoir. »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Katakanlah (Muhammad), \"Siapakah Tuhan langit dan bumi?\" katakanlah, \"Allah.\" Katakanlah, \"Pantaskah kamu mengambil pelindung-pelindung selain Allah, padahal mereka tidak kuasa mendatangkan manfaat maupun menolak mudarat bagi dirinya sendiri?\" Katakanlah, \"Samakah orang yang buta dengan yang dapat melihat? Atau samakah yang gelap dengan yang terang? Apakah mereka menjadikan sekutu-sekutu bagi Allah yang dapat menciptakan seperti ciptaan-Nya sehingga kedua ciptaan itu serupa menurut pandangan mereka?\" Katakanlah, \"Allah adalah Pencipta segala sesuatu dan Dia Tuhan Yang Maha Esa, Mahaperkasa.\""
+    },
+    "ur": {
+     "footnotes": "[1] یہاں تو پیغمبر کی زبان سے اقرار ہے۔ لیکن قرآن کے دوسرے مقامات سے واضح ہے کہ مشرکین کا جواب بھی یہی ہوتا تھا۔\n[2] یعنی جب تمہیں اقرار و اعتراف ہے کہ آسمان و زمین کا رب اللہ ہے جو تمام اختیارات کا بلا شرکت غیر مالک ہے پھر تم اسے چھوڑ کر ایسوں کو کیوں دوست اور حمائتی سمجھتے ہو جو اپنی بابت بھی نفع نقصان کا اختیار نہیں رکھتے۔\n[3] یعنی جس طرح اندھا اور بینا برابر نہیں ہو سکتے اسی طرح موحد اور مشرک برابر نہیں ہو سکتے اس لئے کہ موحد توحید کی بصیرت سے معمور ہے جب کہ مشرک اس سے محروم ہے۔ موحد کی آنکھیں ہیں، وہ توحید کا نور دیکھتا ہے اور مشرک کو یہ نور توحید نظر نہیں آتا، اس لئے وہ اندھا ہے۔ اسی طرح، جس طرح اندھیریاں اور روشنی برابر نہیں ہو سکتی۔ ایک اللہ کا پجاری، جس کا دل نورانیت سے بھرا ہوا ہے، اور ایک مشرک، جو جہالت و توہمات کے اندھیروں میں بھٹک رہا ہے، برابر نہیں ہو سکتے۔\n[4] یعنی ایسی بات نہیں ہے کہ یہ کسی شبے کا شکار ہوگئے ہوں بلکہ یہ مانتے ہیں کہ ہرچیز کا خالق صرف اور صرف اللہ ہی ہے۔",
+     "text": "آپ پوچھئے کہ آسمانوں اور زمین کا پروردگار کون ہے؟ کہہ دیجئے! اللہ[1] ۔ کہہ دیجئے! کیا تم پھر بھی اس کے سوا اوروں کو حمایتی بنا رہے ہو جو خود اپنی جان کے بھی بھلے برے کا اختیار نہیں رکھتے[2]۔ کہہ دیجئے کہ کیا اندھا اور بینا برابر ہو سکتا ہے؟ یا کیا اندھیریاں اور روشنی برابر ہو سکتی ہے[3]۔ کیا جنہیں یہ اللہ کے شریک ٹھہرا رہے ہیں انہوں نے بھی اللہ کی طرح مخلوق پیدا کی ہے کہ ان کی نظر میں پیدائش مشتبہ ہوگئی ہو، کہہ دیجئے کہ صرف اللہ ہی تمام چیزوں کا خالق ہے وه اکیلا ہے[4] اور زبردست غالب ہے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你说：“谁是天地的主宰？”你说：“安拉。”你说：“难道你们舍他而把那些不能自祸福者当作保佑者吗？”你说：“盲人与非盲人是一样的吗？黑暗与光明是一样的吗？”他们为安拉树立了许多伙伴，难道那些伙伴能像他那样创造万物，以致他们分辨不出两种创造吗？你说：“安拉是万物的创造者，他是独一的，是统管的。”"
+    }
+   }
+  },
+  {
+   "arabic": "أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَسَالَتۡ أَوۡدِيَةُۢ بِقَدَرِهَا فَٱحۡتَمَلَ ٱلسَّيۡلُ زَبَدٗا رَّابِيٗاۖ وَمِمَّا يُوقِدُونَ عَلَيۡهِ فِي ٱلنَّارِ ٱبۡتِغَآءَ حِلۡيَةٍ أَوۡ مَتَٰعٖ زَبَدٞ مِّثۡلُهُۥۚ كَذَٰلِكَ يَضۡرِبُ ٱللَّهُ ٱلۡحَقَّ وَٱلۡبَٰطِلَۚ فَأَمَّا ٱلزَّبَدُ فَيَذۡهَبُ جُفَآءٗۖ وَأَمَّا مَا يَنفَعُ ٱلنَّاسَ فَيَمۡكُثُ فِي ٱلۡأَرۡضِۚ كَذَٰلِكَ يَضۡرِبُ ٱللَّهُ ٱلۡأَمۡثَالَ",
+   "aya": 17,
+   "id": 1724,
+   "tafsir": {
+    "arabic_moyassar": "ثم ضرب الله سبحانه مثلا للحق والباطل بماء أنزله من السماء، فجَرَت به أودية الأرض بقدر صغرها وكبرها، فحمل السيل غثاء طافيًا فوقه لا نفع فيه. وضرب مثلا آخر: هو المعادن يوقِدون عليها النار لصهرها طلبًا للزينة كما في الذهب والفضة، أو طلبًا لمنافع ينتفعون بها كما في النحاس، فيخرج منها خبثها مما لا فائدة فيه كالذي كان مع الماء، بمثل هذا يضرب الله المثل للحق والباطل: فالباطل كغثاء الماء يتلاشى أو يُرْمى إذ لا فائدة منه، والحق كالماء الصافي، والمعادن النقية تبقى في الأرض للانتفاع بها، كما بيَّن لكم هذه الأمثال، كذلك يضربها للناس; ليتضح الحق من الباطل والهدى من الضلال."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৪) মানুষ ধাতু গলানোর পরে মরিচাগুলো সরে যায় এবং মূল্যবান ও ব্যবহার উপযোগী অংশ অবশিষ্ট থাকে।",
+     "text": "তিনি আসমান থেকে বৃষ্টি বর্ষণ করেন, ফলে উপত্যকাগুলো তাদের পরিমাণ (ও ধারণক্ষমতা) অনুসারে প্লাবিত হয়। আর প্লাবন পানির ওপরের আবর্জনা বহন করে নিয়ে যায়। এরূপে অলংকার ও তৈজসপত্র তৈরির উদ্দেশ্যে তারা আগুনে যা কিছু উত্তপ্ত করে তাতেও অনুরূপ আবর্জনা (দূরীভূত) হয়।(৪) এমনিভাবে আল্লাহ হক ও বাতিলের দৃষ্টান্ত দেন। অতঃপর (প্লাবনের সাথের বা উত্তপ্ত ধাতুর ওপরের) আবর্জনা নিঃশেষ হয়ে যায়, আর যা মানুষের উপকার করে, তা জমিনে থেকে যায়। এমনিভাবেই আল্লাহ দৃষ্টান্তসমূহ পেশ করে থাকেন।"
+    },
+    "en": {
+     "footnotes": "[18] Truth is the water that stays and people benefit from it, whereas falsehood is the scum that soon dissolves and disappears; likewise is the slag of minerals.",
+     "text": "He sends down rain from the sky, causing the valleys to flow, each according to its capacity, and the torrent carries along rising foam, similar to the slag produced from metal that people melt in the fire to make ornaments or tools. This is how Allah compares truth to falsehood: as for the residue, it is then cast away, but that which benefits people remains on the earth[18]. This is how Allah sets forth comparisons."
+    },
+    "fr": {
+     "footnotes": "[10] L’eau et les métaux.",
+     "text": "Allah fait descendre du ciel une pluie à laquelle les vallées servent de lit, chacune selon sa capacité, et dont le flot charrie une écume au-dessus de l’eau, identique à celle qui flotte à la surface des métaux en fusion servant à la fabrication de vos joyaux et de vos ustensiles. Allah propose ainsi la parabole du vrai et du faux. L’écume disparaît après avoir été rejetée, tandis que ce qui est utile aux hommes[10] demeure sur terre. C’est ainsi qu’Allah propose des paraboles aux hommes."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Allah telah menurunkan air (hujan) dari langit, maka mengalirlah ia (air) di lembah-lembah menurut ukurannya, maka arus itu membawa buih yang mengambang. Dan dari apa (logam) yang mereka lebur dalam api untuk membuat perhiasan atau alat-alat, ada (pula) buihnya seperti (buih arus) itu. Demikianlah Allah membuat perumpamaan (tentang) yang benar dan yang batil. Adapun buih, akan hilang sebagai sesuatu yang tidak ada gunanya; tetapi yang bermanfaat bagi manusia, akan tetap ada di bumi. Demikianlah Allah membuat perumpamaan."
+    },
+    "ur": {
+     "footnotes": "[1] بِقَدَرِهَا (وسعت کے مطابق) کا مطلب ہے نالے یعنی وادی (دو پہاڑوں کے درمیان کی جگہ) تنگ ہو تو کم پانی کشادہ ہو تو زیادہ پانی اٹھاتی ہے یعنی نزول قرآن کو جو ہدایت اور بیان کا جاع ہے بارش کے نزول سے تشبیہ دی ہے اس لیے کہ قرآن کا نفع بھی بارش کے نفع کی طرح عام ہے اور وادیوں کو تشبیہ دی ہے دلوں کے ساتھ اس لیے کہ وادیوں نالوں میں پانی جا کر ٹھہرتا ہے جس طرح قرآن قرآن کا اور ایمان مومنوں کے دلوں میں قرار پکڑتا ہے۔\n[2] اس جھاگ سے جب پانی اوپر آجاتا ہے اور جو ناکارہ ہو ختم ہو جاتا ہے اور ہوائیں جسے اڑا لے جاتی ہیں کفر مراد ہے، جو جھاگ ہی کی طرح اڑ جانے والا اور ختم ہو جانے والا ہے۔\n[3] یہ دوسری شکل ہے کہ تانبے پیتل، سیسے یا سونے چاندی کو زیور یا سامان وغیرہ بنانے کے لئے آگ میں تپایا جاتا ہے تو اس پر بھی جھاگ کی شکل میں اوپر آجاتا ہے۔ پھر یہ جھاگ دیکھتے دیکھتے ختم ہو جاتا ہے اور دھات اصلی شکل میں باقی رہ جاتی ہے۔\n[4] یعنی جب حق اور باطل کا آپس میں اجتماع اور ٹکراؤ ہوتا ہے تو باطل کو اسی طرح اثبات اور دوام نہیں ہوتا، جس طرح سیلابی ریلے کا جھاگ پانی کے ساتھ، دھاتوں کا جھاگ، جن کو آگ میں تپایا جاتا ہے دھاتوں کے ساتھ باقی نہیں رہتا بلکہ مضمحل اور ختم ہو جاتا ہے۔\n[5] یعنی اس سے کوئی نفع نہیں ہوتا، کیونکہ جھاگ پانی یا دھات کے باقی رہتا ہی نہیں بلکہ آہستہ آہستہ بیٹھ جاتا ہے یا ہوائیں اسے اڑا لے جاتی ہیں۔ باطل کی مثال بھی جھاگ ہی کی طرح ہے۔\n[6] یعنی پانی اور سونا، چاندی، تانبا، پیتل وغیرۃ یہ چیزیں باقی رہتی ہیں جن سے لوگ فائدہ اٹھاتے اور فیض یاب ہوتے ہیں، اسی طرح حق باقی رہتا ہے جس کے وجود کو بھی زوال نہیں اور جس کا نفع بھی دائمی ہے۔\n[7] یعنی بات کو سمجھانے اور ذہن نشین کرانے کے لئے مثالیں بیان فرماتا ہے، جیسے یہیں دو مثالیں بیان فرمائیں اور اسی طرح سورہ بقرہ کے آغاز میں منافقین کے لئے مثالیں بیان فرمائیں۔ اسی طرح سورہ نور، آیات 39،40 میں کافروں کے لئے دو مثالیں بیان فرمائیں۔ اور احادیث میں بھی نبی (صلى الله عليه وسلم) نے مثالوں کے ذریعے سے لوگوں کو بہت سی باتیں سمجھائیں۔ (تفصیل کے لیے دیکھئے تفسیر ابن کثیر)",
+     "text": "اسی نے آسمان سے پانی برسایا پھر اپنی اپنی وسعت کے مطابق نالے بہہ نکلے[1] ۔ پھر پانی کے ریلے نے اوپر چڑھے جھاگ کو اٹھا لیا[2]، اور اس چیز میں بھی جس کو آگ میں ڈال کر تپاتے ہیں زیور یا ساز وسامان کے لئے اسی طرح کے جھاگ ہیں[3]، اسی طرح اللہ تعالیٰ حق وباطل کی مثال بیان فرماتا ہے[4]، اب جھاگ تو ناکاره ہو کر چلا جاتا ہے[5] لیکن جو لوگوں کو نفع دینے والی چیز ہے وه زمین میں ٹھہری رہتی ہے[6]، اللہ تعالیٰ اسی طرح مثالیں بیان فرماتا ہے.[7]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他从天上降下雨水，一切沟壑就尽量流行。山洪载着浮渣——他们为制造首饰和器皿而熔化的金属，也有同样的浮渣。安拉如此阐明真伪——至于渣滓则被冲走，至于有益于人的东西则留存在地面上。安拉如此阐明许多比喻。"
+    }
+   }
+  },
+  {
+   "arabic": "لِلَّذِينَ ٱسۡتَجَابُواْ لِرَبِّهِمُ ٱلۡحُسۡنَىٰۚ وَٱلَّذِينَ لَمۡ يَسۡتَجِيبُواْ لَهُۥ لَوۡ أَنَّ لَهُم مَّا فِي ٱلۡأَرۡضِ جَمِيعٗا وَمِثۡلَهُۥ مَعَهُۥ لَٱفۡتَدَوۡاْ بِهِۦٓۚ أُوْلَٰٓئِكَ لَهُمۡ سُوٓءُ ٱلۡحِسَابِ وَمَأۡوَىٰهُمۡ جَهَنَّمُۖ وَبِئۡسَ ٱلۡمِهَادُ",
+   "aya": 18,
+   "id": 1725,
+   "tafsir": {
+    "arabic_moyassar": "للمؤمنين الذين أطاعوا الله ورسوله الجنة، والذين لم يطيعوا وكفروا به لهم النار، ولو كانوا يملكون كل ما في الأرض وضِعْفه معه لبذلوه فداء لأنفسهم من عذاب الله يوم القيامة، ولن يُتَقبل منهم، أولئك يحاسَبون على كل ما أسلفوه من عمل سيِّئ، ومسكنهم ومقامهم جهنم تكون لهم فراشًا، وبئس الفراش الذي مهدوه لأنفسهم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "যারা তাদের রবের ডাকে সাড়া দেয়, তাদের জন্য রয়েছে উত্তম প্রতিদান (জান্নাত)। আর যারা তাঁর ডাকে সাড়া দেয়নি, (যখন তারা শাস্তির সন্মুখীন হবে, তখন) যদি তারা জমিনে যা আছে তার সবকিছু এবং এর সমপরিমাণের মালিক হয়ে যেত, তাহলে তারা তা (আল্লাহর শাস্তি থেকে বাঁচার জন্যে) মুক্তিপণস্বরূপ অবশ্যই দিয়ে দিত। তাদের জন্য রয়েছে (সকল গুনাহের) নিকৃষ্ট হিসাব এবং তাদের আবাস জাহান্নাম, আর তা নিকৃষ্টতম বিশ্রামস্থল!"
+    },
+    "en": {
+     "footnotes": "[19] al-Husnā (lit. the best reward) is a good reward in this life and Paradise in the Hereafter.\n [20] Their good deeds will not be accepted from them and they will be asked about their minute misdeeds.",
+     "text": "Those who respond to their Lord will have the best reward[19]. As for those who do not respond to Him, even if they were to possess all that is on earth and the likes thereof, they would surely offer it to ransom themselves; they will have the worst reckoning[20], and their abode will be Hell. What a terrible resting place!"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "A ceux qui répondent à l’appel de leur Seigneur est promise la plus belle récompense. Quant à ceux qui s’y refusent, s’ils disposaient de tous les trésors de la terre, et autant encore, ils l’offriraient en rançon pour se racheter. Mais ils seront soumis à un jugement impitoyable, puis voués à l’Enfer. Et quelle horrible demeure !"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Bagi orang-orang yang memenuhi seruan Tuhan, mereka (disediakan) balasan yang baik. Dan orang-orang yang tidak memenuhi seruan-Nya, sekiranya mereka memiliki semua yang ada di bumi dan (ditambah) sebanyak itu lagi, niscaya mereka akan menebus dirinya dengan itu. Orang-orang itu mendapat hisab (perhitungan) yang buruk dan tempat kediaman mereka Jahanam, dan itulah seburuk-buruk tempat kediaman."
+    },
+    "ur": {
+     "footnotes": "[1] یہ مضمون اس سے قبل بھی دو تین جگہ گزر چکا ہے۔\n[2] کیونکہ ان سے ہر چھوٹے بڑے عمل کا حساب لیا جائے گا اور ان کا معاملہ ”مَنْ نُوقِشَ الحِسَابَ عُذِّبَ“ (جس سے حساب میں جرح کی گئی اس کا بچنا مشکل ہوگا، وہ عذاب سے دو چار ہو کر ہی رہے گا) کا آئینہ دار ہوگا۔ اسی لئے آگے فرمایا اور ان کا ٹھکانا جہنم ہے۔",
+     "text": "جن لوگوں نے اپنے رب کے حکم کی بجا آوری کی ان کے لئے بھلائی ہے اور جن لوگوں نے اس کی حکم برداری نہ کی اگر ان کے لئے زمین میں جو کچھ ہے سب کچھ ہو اور اسی کے ساتھ ویسا ہی اور بھی ہو تو وه سب کچھ اپنے بدلے میں دے دیں[1] ۔ یہی ہیں جن کے لئے برا حساب ہے[2] اور جن کا ٹھکانہ جہنم ہے جو بہت بری جگہ ہے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "已经答应他们的养主的人，将受极美的报酬；没有答应他的人，假若大地上的一切都归他们所有，再加上一倍，他们必定都用来做赎金。这等人将受严厉的清算，他们的归宿是火狱，那床铺真糟糕！"
+    }
+   }
+  },
+  {
+   "arabic": "۞ أَفَمَن يَعۡلَمُ أَنَّمَآ أُنزِلَ إِلَيۡكَ مِن رَّبِّكَ ٱلۡحَقُّ كَمَنۡ هُوَ أَعۡمَىٰٓۚ إِنَّمَا يَتَذَكَّرُ أُوْلُواْ ٱلۡأَلۡبَٰبِ",
+   "aya": 19,
+   "id": 1726,
+   "tafsir": {
+    "arabic_moyassar": "هل الذي يعلم أن ما جاءك -أيها الرسول- من عند الله هو الحق فيؤمن به، كالأعمى عن الحق الذي لم يؤمن؟ إنما يتعظ أصحاب العقول السليمة الذين يوفون بعهد الله الذي أمرهم به، ولا ينكثون العهد المؤكد الذي عاهدوا الله عليه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৫) অর্থাৎ যে আল-কুরআনকে সত্য বলে জানে সে মু’মিন, আর যে আল-কুরআনের ব্যাপারে অন্ধ, সে কাফির। তারা উভয়ে কখনো সমান হতে পারে না।",
+     "text": "যে ব্যক্তি এ কথা জানে যে, তোমার রবের পক্ষ থেকে তোমার প্রতি যা নাযিল হয়েছে, তা সত্য, সে কি তার মতো, যে (এ ব্যাপারে) অন্ধ?(৫) বুদ্ধিমানরাই শুধু উপদেশ গ্রহণ করে।"
+    },
+    "en": {
+     "footnotes": "[21] i.e., a believer and a disbeliever.",
+     "text": "Is the one who knows that what has been sent down from your Lord is the truth like the one who is blind[21]? None will take heed except the people of understanding,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Celui qui sait que ce qui t’est révélé de la part de ton Seigneur est la vérité est-il comparable à celui qui est aveugle ? Mais seuls en tirent des leçons les hommes doués de raison."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Maka apakah orang yang mengetahui bahwa apa yang diturunkan Tuhan kepadamu adalah kebenaran, sama dengan orang yang buta? Hanya orang berakal saja yang dapat mengambil pelajaran,"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی ایک وہ شخص جو قرآن کی حقانیت و صداقت پر یقین رکھتا ہو اور دوسرا اندھا ہو یعنی اسے قرآن کی صداقت میں شک ہوگیا یہ دونوں برابر ہو سکتے ہیں؟ استفہام انکار کے لیے ہے یعنی یہ دونوں اسی طرح برابر نہیں ہو سکتے جس طرح جھاگ اور پانی یا سونا تانبا اور اس کی میل کچیل برابر نہیں ہو سکتے۔\n[2] یعنی جن کے پاس قلب سلیم اور عقل صحیح نہ ہو اور جنہوں نے اپنے دلوں کو گناہوں کے زنگ سے آلودہ اور اپنی عقلوں کو خراب کر لیا ہو، وہ اس قرآن سے نصیحت حاصل نہیں کر سکتے۔",
+     "text": "کیا وه ایک شخص جو یہ علم رکھتا ہو کہ آپ کی طرف آپ کے رب کی جانب سے جو اتارا گیا ہے وه حق ہے، اس شخص جیسا ہو سکتا ہے جو اندھا ہو[1] نصیحت تو وہی قبول کرتے ہیں جو عقلمند ہوں.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "从你的养主降示你的，正是真理，难道认识这个道理者跟盲人是一样的吗？唯有理智者才能记住。"
+    }
+   }
+  },
+  {
+   "arabic": "ٱلَّذِينَ يُوفُونَ بِعَهۡدِ ٱللَّهِ وَلَا يَنقُضُونَ ٱلۡمِيثَٰقَ",
+   "aya": 20,
+   "id": 1727,
+   "tafsir": {
+    "arabic_moyassar": "هل الذي يعلم أن ما جاءك -أيها الرسول- من عند الله هو الحق فيؤمن به، كالأعمى عن الحق الذي لم يؤمن؟ إنما يتعظ أصحاب العقول السليمة الذين يوفون بعهد الله الذي أمرهم به، ولا ينكثون العهد المؤكد الذي عاهدوا الله عليه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "যারা আল্লাহর সাথে কৃত অঙ্গীকার পূর্ণ করে এবং প্রতিজ্ঞা ভঙ্গ করে না।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "those who fulfill the covenant of Allah and do not break the pledge,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Ceux qui honorent leurs engagements pris envers Allah, se gardant de rompre les pactes qu’ils ont solennellement contractés,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(yaitu) orang yang memenuhi janji Allah dan tidak melanggar perjanjian,"
+    },
+    "ur": {
+     "footnotes": "[1] یہ اہل دانش کی صفات بیان کی جا رہی ہیں، اللہ کے عہد سے مراد، اس کے احکام (اوامر و نواہی) ہیں جنہیں بجا لاتے ہیں۔ یا وہ عہد ہے، جو عَھْدِ الَسْت کہلاتا ہے، جس کی تفصیل سورہ اعراف میں گزر چکی ہے۔\n[2] اس سے مراد وہ باہمی معاہدے اور وعدے ہیں جو وہ آپس میں ایک دوسرے سے کرتے ہیں یا وہ جو ان کے اور ان کے رب کے درمیان ہیں۔",
+     "text": "جو اللہ کے عہد (وپیمان) کو پورا کرتے ہیں [1] اور قول وقرار کو توڑتے نہیں.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们是实践安拉的誓约而且不破坏盟约的。"
+    }
+   }
+  },
+  {
+   "arabic": "وَٱلَّذِينَ يَصِلُونَ مَآ أَمَرَ ٱللَّهُ بِهِۦٓ أَن يُوصَلَ وَيَخۡشَوۡنَ رَبَّهُمۡ وَيَخَافُونَ سُوٓءَ ٱلۡحِسَابِ",
+   "aya": 21,
+   "id": 1728,
+   "tafsir": {
+    "arabic_moyassar": "وهم الذين يَصِلون ما أمرهم الله بوصله كالأرحام والمحتاجين، ويراقبون ربهم، ويخشون أن يحاسبهم على كل ذنوبهم، ولا يغفر لهم منها شيئًا."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর আল্লাহ (আত্মীয় ও অন্যদের সাথে) যে সম্পর্ক অটুট রাখার নির্দেশ দিয়েছেন, যারা তা অটুট রাখে এবং তাদের রবকে ভয় করে আর তারা (নিজেদের গুনাহের) কঠিন হিসাবকে ভয় করে।"
+    },
+    "en": {
+     "footnotes": "[22] i.e., the ties of kinship.",
+     "text": "and those who maintain [the ties] which Allah has ordered to be maintained[22], and fear their Lord, and are afraid of a terrible reckoning,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "qui maintiennent les liens qu’Allah a ordonné de respecter, craignent leur Seigneur et redoutent d’être soumis à un jugement impitoyable,"
+    },
+    "id": {
+     "footnotes": "[419] Mengadakan hubungan silaturahmi dan tali persaudaraan.",
+     "text": "dan orang-orang yang menghubungkan apa yang diperintahkan Allah agar dihubungkan,[419] dan mereka takut kepada Tuhannya dan takut kepada hisab yang buruk."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی رشتوں اور قرابتوں کو توڑتے نہیں ہیں، بلکہ ان کو جوڑتے اور صلہ رحمی کرتے ہیں۔",
+     "text": "اور اللہ نے جن چیزوں کے جوڑنے کا حکم دیا ہے وه اسے جوڑتے ہیں[1] اور وه اپنے پروردگار سے ڈرتے ہیں اور حساب کی سختی کا اندیشہ رکھتے ہیں."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们是连接安拉命人连接者的，是敬畏他们的养主的，畏惧严厉的清算的。"
+    }
+   }
+  },
+  {
+   "arabic": "وَٱلَّذِينَ صَبَرُواْ ٱبۡتِغَآءَ وَجۡهِ رَبِّهِمۡ وَأَقَامُواْ ٱلصَّلَوٰةَ وَأَنفَقُواْ مِمَّا رَزَقۡنَٰهُمۡ سِرّٗا وَعَلَانِيَةٗ وَيَدۡرَءُونَ بِٱلۡحَسَنَةِ ٱلسَّيِّئَةَ أُوْلَٰٓئِكَ لَهُمۡ عُقۡبَى ٱلدَّارِ",
+   "aya": 22,
+   "id": 1729,
+   "tafsir": {
+    "arabic_moyassar": "وهم الذين صبروا على الأذى وعلى الطاعة، وعن المعصية طلبًا لرضا ربهم، وأدَّوا الصلاة على أتمِّ وجوهها، وأدَّوا من أموالهم زكاتهم المفروضة، والنفقات المستحبة في الخفاء والعلن، ويدفعون بالحسنة السيئة فتمحوها، أولئك الموصوفون بهذه الصفات لهم العاقبة المحمودة في الآخرة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর যারা তাদের রবের সন্তুষ্টি লাভের উদ্দেশ্যে (তাঁর আনুগত্য এবং সুখ-দুঃখের ফায়সালার ওপর) ধৈর্যধারণ করে, সালাত কায়িম করে, আমি তাদের যে রিযক প্রদান করেছি, তা থেকে গোপনে ও প্রকাশ্যে ব্যয় করে এবং ভালো কাজের মাধ্যমে মন্দ কাজকে দূর করে, তাদের জন্যই রয়েছে, আখিরাতের শুভ পরিণাম।"
+    },
+    "en": {
+     "footnotes": "[23] i.e., Paradise.",
+     "text": "and those who observe patience, seeking the pleasure of their Lord, and establish prayer, and spend from what We have provided for them, secretly and in public, and repel evil with good – it is they who will have the final abode[23],"
+    },
+    "fr": {
+     "footnotes": "[11] Autre sens : effacent leurs mauvaises actions par de bonnes œuvres.",
+     "text": "qui se plient patiemment à Ses commandements dans l’espoir de satisfaire leur Seigneur, accomplissent la prière, offrent par charité, discrètement ou publiquement, une partie de ce que Nous leur avons accordé et rendent le bien pour le mal[11], ceux-là connaîtront une fin heureuse dans l’au-delà."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan orang yang sabar karena mengharap keridaan Tuhannya, melaksanakan salat, dan menginfakkan sebagian rezeki yang Kami berikan kepada mereka, secara sembunyi atau terang-terangan serta, menolak kejahatan dengan kebaikan; orang itulah yang mendapat tempat kesudahan (yang baik),"
+    },
+    "ur": {
+     "footnotes": "[1] اللہ کی نافرمانی اور گناہوں سے بچتے ہیں۔ یہ صبر کی ایک قسم ہے۔ تکلیفوں اور آزمائشوں پر صبر کرتے ہیں، یہ دوسری قسم ہے۔ اہل دانش دونوں قسم کا صبر کرتے ہیں۔\n[2] ان کی حدود و مواقیت، خشوع و خضوع اور اعتدال ارکان کے ساتھ۔ نہ کہ اپنے من مانے طریقے سے۔\n[3] یعنی جہاں جہاں اور جب بھی، خرچ کرنے کی ضرورت پیش آتی ہے، اپنوں اور بیگانوں میں اور خفیہ اور اعلانیہ خرچ کرتے ہیں۔\n[4] یعنی ان کے ساتھ کوئی برائی سے پیش آتا ہے تو وہ اس کا جواب اچھائی سے دیتے ہیں، یا عفو و درگزر اور صبر جمیل سے کام لیتے ہیں۔ جس طرح دوسرے مقام پر اللہ تعالٰی نے فرمایا :«اِدْفَعْ بِالَّتِيْ هِىَ اَحْسَنُ فَاِذَا الَّذِيْ بَيْنَكَ وَبَيْنَهٗ عَدَاوَةٌ كَاَنَّهٗ وَلِيٌّ حَمِيْمٌ» (حم السجدۃ:34) ”برائی کا جواب ایسے طریقے سے دو جو اچھا ہو (اگر تم ایسا کرو گے) تو وہ شخص جو تمہارا دشمن ہے، ایسا ہو جائے گا گویا وہ تمہارا گہرا دوست ہے“۔\n[5] یعنی جو اعلٰی اخلاق کے حامل اور مزکورہ خوبیوں سے متصف ہوں گے، ان کے لئے عاقبت کا گھر ہے۔",
+     "text": "اور وه اپنے رب کی رضا مندی کی طلب کے لئے صبر کرتے ہیں[1] ، اور نمازوں کو برابر قائم رکھتے ہیں [2]اور جو کچھ ہم نے انہیں دے رکھا ہے اسے چھپے کھلے خرچ کرتے ہیں[3] اور برائی کو بھی بھلائی سے ٹالتے ہیں[4]، ان ہی کے لئے عاقبت کا گھر ہے.[5]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们是为求得他们养主的喜悦而坚忍的，是谨守拜功的，是秘密地和公开地分舍我所赐给他们的财物的，是以德报怨的。这等人将得后世的善果——"
+    }
+   }
+  },
+  {
+   "arabic": "جَنَّٰتُ عَدۡنٖ يَدۡخُلُونَهَا وَمَن صَلَحَ مِنۡ ءَابَآئِهِمۡ وَأَزۡوَٰجِهِمۡ وَذُرِّيَّٰتِهِمۡۖ وَٱلۡمَلَٰٓئِكَةُ يَدۡخُلُونَ عَلَيۡهِم مِّن كُلِّ بَابٖ",
+   "aya": 23,
+   "id": 1730,
+   "tafsir": {
+    "arabic_moyassar": "تلك العاقبة هي جنات عدن يقيمون فيها لا يزولون عنها، ومعهم الصالحون من الآباء والزوجات والذريات من الذكور والإناث، وتدخل الملائكة عليهم من كل باب; لتهنئتهم بدخول الجنة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "(তাদের শুভ পরিণাম হলো) স্থায়ী জান্নাতসমূহ, সেখানে তারা এবং তাদের পিতৃপুরুষগণ, তাদের স্ত্রীগণ ও তাদের সন্তানগণের মধ্যে যারা সৎ কাজ করেছে তারা প্রবেশ করবে। আর ফিরিশতাগণ (সম্ভাষণ জানাতে জানাতে) প্রতিটি দরজা দিয়ে তাদের নিকট প্রবেশ করবে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Gardens of Eternity, which they will enter together with their righteous parents, their spouses and their offspring. Angels will enter upon them from every gate,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Ils seront admis, en compagnie de ceux de leurs pères et mères, de leurs épouses et de leurs descendants qui auront été vertueux, dans les jardins d’Eden où les anges s’introduiront auprès d’eux par toutes les portes"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(yaitu) surga-surga 'Ādn, mereka masuk ke dalamnya bersama dengan orang yang saleh dari nenek moyangnya, pasangan-pasangannya dan anak cucunya, sedangkan para malaikat masuk ke tempat-tempat mereka dari semua pintu;"
+    },
+    "ur": {
+     "footnotes": "[1] عدن کے معنی ہیں اقامت۔ یعنی ہمیشہ رہنے والے باغات۔\n[2] یعنی اس طرح نیک قرابت داروں کو آپس میں جمع کر دے گا تاکہ ایک دوسرے کو دیکھ کر ان کی آنکھیں ٹھنڈی ہوں حتٰی کہ ادنٰی درجے کے جنتی کو اعلٰی درجہ عطا فرما دے گا تاکہ وہ اپنے قرابت دار کے ساتھ جمع ہو جائے۔ فرمایا :\n«وَالَّذِينَ آمَنُوا وَاتَّبَعَتْهُمْ ذُرِّيَّتُهُمْ بِإِيمَانٍ أَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ وَمَا أَلَتْنَاهُمْ مِنْ عَمَلِهِمْ مِنْ شَيْءٍ» (الطور:21) ”اور وہ لوگ جو ایمان لائے اور ان کی اولاد نے ایمان کے ساتھ ان کی پیروی کی تو ہم ملا دیں گے ان کے ساتھ ان کی اولاد کو اور ان کے عملوں سے ہم کچھ گھٹائیں گے نہیں“۔ اس سے جہاں یہ معلوم ہوا کہ نیک رشتے داروں کو اللہ تعالٰی جنت میں جمع فرما دے گا، وہیں یہ بھی معلوم ہوا کہ اگر کسی کے پاس ایمان اور عمل صالح کی پونجی نہیں ہوگی، تو وہ جنت میں نہیں جائے گا، چاہے اس کے دوسرے نہایت قریبی رشتے دار جنت میں چلے گئے ہوں۔ کیونکہ جنت میں داخلہ حسب نسب کی بنیاد پر نہیں، ایمان و عمل کی بنیاد پر ہوگا۔«مَنْ بَطَّأَ بِهِ عَمَلُهُ لَمْ يُسْرِعْ بِهِ نَسَبُهُ»، (صحيح مسلم، كتاب الذكر والدعاء، باب فضل الاجتماع على تلاوة القرآن)۔ جسے اس کا عمل پیچھے چھوڑ گیا اس کا نسب اسے آگے نہیں بڑھائے گا۔",
+     "text": "ہمیشہ رہنے کے باغات[1] جہاں یہ خود جائیں گے اور ان کے باپ دادوں اور بیویوں اور اوﻻدوں میں سے بھی جو نیکو کار ہوں گے[2]، ان کے پاس فرشتے ہر ہر دروازے سے آئیں گے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "常住的乐园，他们将进入它。他们的祖先、妻子和后裔中的善良者，都将进入它。众天使从每道门进去见他们，"
+    }
+   }
+  },
+  {
+   "arabic": "سَلَٰمٌ عَلَيۡكُم بِمَا صَبَرۡتُمۡۚ فَنِعۡمَ عُقۡبَى ٱلدَّارِ",
+   "aya": 24,
+   "id": 1731,
+   "tafsir": {
+    "arabic_moyassar": "تقول الملائكة لهم: سلام عليكم، تحية خاصة لكم، سَلِمْتم من كل سوء بسبب صبركم على طاعة الله، فنِعْمَ عاقبة الدار الجنة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "(ফিরিশতাগণ সম্ভাষণ জানিয়ে বলবে:) ‘শান্তি তোমাদের ওপর, কারণ তোমরা (আল্লাহর আনুগত্য ও তাঁর ফায়সালার ওপর) ধৈর্যধারণ করেছ। আর আখিরাতের এ পরিণাম কতই না উত্তম!’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "“Peace be on you, for what you have patiently endured. How excellent is the final abode!”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "et les accueilleront par ces mots : « La paix soit avec vous ! Recevez ici le prix de votre constance. Heureux séjour que celui du Paradis ! »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(sambil mengucapkan), \"Selamat sejahtera atasmu karena kesabaranmu.\" Maka alangkah nikmatnya tempat kesudahan itu."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "کہیں گے کہ تم پر سلامتی ہو، صبر کے بدلے، کیا ہی اچھا (بدلہ) ہے اس دار آخرت کا."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "〔说：〕“祝你们平安！这是你们因坚忍而得的报酬，后世的善果真优美。”"
+    }
+   }
+  },
+  {
+   "arabic": "وَٱلَّذِينَ يَنقُضُونَ عَهۡدَ ٱللَّهِ مِنۢ بَعۡدِ مِيثَٰقِهِۦ وَيَقۡطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِۦٓ أَن يُوصَلَ وَيُفۡسِدُونَ فِي ٱلۡأَرۡضِ أُوْلَٰٓئِكَ لَهُمُ ٱللَّعۡنَةُ وَلَهُمۡ سُوٓءُ ٱلدَّارِ",
+   "aya": 25,
+   "id": 1732,
+   "tafsir": {
+    "arabic_moyassar": "أما الأشقياء فقد وُصِفوا بضد صفات المؤمنين، فهم الذين لا يوفون بعهد الله بإفراده سبحانه بالعبادة بعد أن أكدوه على أنفسهم، وهم الذين يقطعون ما أمرهم الله بوصله مِن صلة الأرحام وغيرها، ويفسدون في الأرض بعمل المعاصي، أولئك الموصوفون بهذه الصفات القبيحة لهم الطرد من رحمة الله، ولهم ما يسوءهم من العذاب الشديد في الدار الآخرة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "পক্ষান্তরে যারা আল্লাহর সাথে দৃঢ়ভাবে অঙ্গীকার করার পর তা ভঙ্গ করে এবং আল্লাহ (আত্মীয় ও অন্যদের সাথে) যে সম্পর্ক অটুট রাখার নির্দেশ দিয়েছেন তা ছিন্ন করে এবং জমিনে ফ্যাসাদ সৃষ্টি করে বেড়ায়, তাদের জন্যই অভিসম্পাত, আর তাদের জন্যই রয়েছ আখিরাতের নিকৃষ্ট আবাস (জাহান্নাম)।"
+    },
+    "en": {
+     "footnotes": "[24] i.e., Hell.",
+     "text": "As for those who break the covenant of Allah after it has been ratified, and sever the ties that Allah has commanded to be maintained, and spread corruption in the land – it is they who are cursed, and for them there will be the worst abode[24]."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Quant à ceux qui violent leurs engagements solennellement contractés envers Allah, rompent les liens qu’Il a ordonné de respecter et répandent sur terre le mal et le péché, ils seront poursuivis par la malédiction et connaîtront une fin misérable dans l’au-delà."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan orang-orang yang melanggar janji Allah setelah diikrarkannya, dan memutuskan apa yang Allah perintahkan agar disambung dan berbuat kerusakan di bumi; mereka itu memperoleh kutukan dan tempat kediaman yang buruk (Jahanam)."
+    },
+    "ur": {
+     "footnotes": "[1] یہ نیکوں کے ساتھ بروں کا حشر بیان فرما دیا تاکہ انسان اس حشر سے بچنے کی کوشش کرے۔",
+     "text": "اور جو اللہ کے عہد کو اس کی مضبوطی کے بعد توڑ دیتے ہیں اور جن چیزوں کےجوڑنے کا اللہ نے حکم دیا ہے انہیں توڑتے ہیں اور زمین میں فساد پھیلاتے ہیں، ان کے لئے لعنتیں ہیں اور ان کے لئے برا گھر ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "与安拉缔约，然后加以破坏的，断绝安拉命人连结者的，在地方上进行破坏的，这等人将被诅咒，他们将得后世的恶果。"
+    }
+   }
+  },
+  {
+   "arabic": "ٱللَّهُ يَبۡسُطُ ٱلرِّزۡقَ لِمَن يَشَآءُ وَيَقۡدِرُۚ وَفَرِحُواْ بِٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَمَا ٱلۡحَيَوٰةُ ٱلدُّنۡيَا فِي ٱلۡأٓخِرَةِ إِلَّا مَتَٰعٞ",
+   "aya": 26,
+   "id": 1733,
+   "tafsir": {
+    "arabic_moyassar": "الله وحده يوسِّع الرزق لمن يشاء من عباده، ويضيِّق على مَن يشاء منهم، وفرح الكفار بالسَّعة في الحياة الدنيا، وما هذه الحياة الدنيا بالنسبة للآخرة إلا شيء قليل يتمتع به، سُرعان ما يزول."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৬) তবে রিযকের প্রশস্ততা সৌভাগ্য ও আল্লাহর ভালোবাসার চিহ্ন নয় এবং রিযকের সংকীর্ণতা দুর্ভাগ্যের চিহ্ন নয়।",
+     "text": "আল্লাহ যাকে ইচ্ছা তার রিযক বাড়িয়ে দেন এবং সংকুচিত করেন।(৬) আর তারা (কাফিররা) দুনিয়ার জীবন নিয়ে উৎফুল্লতায় আছে; অথচ আখিরাতের তুলনায় দুনিয়ার জীবন ক্ষণস্থায়ী ভোগের সামগ্রী মাত্র।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Allah extends provision to whom He wills or restricts it. They rejoice in the life of this world, although the life of this world, compared to the Hereafter, is nothing but a fleeting pleasure."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Allah dispense Ses faveurs à qui Il veut, comblant certaines de Ses créatures, accordant aux autres avec mesure. Or, les impies jouissent avec insolence de cette vie sans savoir que les plaisirs éphémères de ce bas monde représentent bien peu de chose par rapport à ceux, éternels, de l’au-delà."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Allah melapangkan rezeki bagi siapa yang Dia kehendaki dan membatasi (bagi siapa yang Dia kehendaki). Mereka bergembira dengan kehidupan dunia, padahal kehidupan dunia hanyalah kesenangan (yang sedikit) dibanding kehidupan akhirat."
+    },
+    "ur": {
+     "footnotes": "[1] جب کافروں اور مشرکوں کے لئے یہ کہا کہ ان کے لئے برا گھر ہے، تو ذہن میں یہ اشکال آ سکتا ہے کہ دنیا میں تو انہیں ہر طرح کی آسائشیں اور سہولتیں مہیا ہیں۔ اس کے ازالے کے لئے فرمایا کہ دنیاوی اسباب اور رزق کی کمی بیشی یہ اللہ کے اختیار میں ہے وہ اپنی حکمت و مشیت، جس کو صرف وہی جانتا ہے، کے مطابق کسی کو زیادہ دیتا ہے کسی کو کم رزق کی فروانی، اس بات کی دلیل؛ نہیں کہ اللہ تعالٰی اس سے خوش ہے اور کمی کا مطلب یہ نہیں کہ اللہ تعالٰی اس پر ناراض ہے۔\n[2] کسی کو اگر دنیا کا مال زیادہ مل رہا ہے، باوجودیکہ وہ اللہ کا نافرمان ہے تو یہ مقام فرحت و مسرت نہیں، کیونکہ یہ استدراج ہے، مہلت ہے پتہ نہیں کب یہ مہلت ختم ہو جائے اور اللہ کی پکڑ کے شکنجے میں آجائے۔\n[3] حدیث میں آتا ہے کہ دنیا کی حیثیت، آخرت کے مقابلے میں اس طرح ہے جیسے کوئی شخص اپنی انگلی سمندر میں ڈال کر نکالے، تو دیکھے سمندر کے پانی کے مقابلے میں اس کی انگلی میں کتنا پانی آیا ہے؟ (صحيح مسلم، كتاب الجنة ، باب فناء الدنيا وبيان الحسر يوم القيامة) ایک دوسری حدیث میں ہے کہ رسول اللہ (صلى الله عليه وسلم) کا گزر بکری کے ایک مردہ بچے کے پاس سے ہوا، تو اسے دیکھ کر آپ نے فرمایا، اللہ کی قسم دنیا، اللہ کے نزدیک اس سے بھی زیادہ حقیر ہے جتنا یہ مردہ، اپنے مالکوں کے نزدیک اس وقت حقیر تھا جب انہوں نے اسے پھینکا (صحيح مسلم، كتاب الزهد والرقاق)",
+     "text": "اللہ تعالیٰ جس کی روزی چاہتا ہے بڑھاتا ہے اور گھٹاتا ہے[1] یہ تو دنیا کی زندگی میں مست ہو گئے[2]۔ حاﻻنکہ دنیا آخرت کے مقابلے میں نہایت (حقیر) پونجی ہے.[3]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "安拉使他所意欲者享受宽裕的给养或窘迫的给养。他们因今世的生活而欢喜，然而今世的生活比起后世的生活来，只是一种〔暂时〕的享受。"
+    }
+   }
+  },
+  {
+   "arabic": "وَيَقُولُ ٱلَّذِينَ كَفَرُواْ لَوۡلَآ أُنزِلَ عَلَيۡهِ ءَايَةٞ مِّن رَّبِّهِۦۚ قُلۡ إِنَّ ٱللَّهَ يُضِلُّ مَن يَشَآءُ وَيَهۡدِيٓ إِلَيۡهِ مَنۡ أَنَابَ",
+   "aya": 27,
+   "id": 1734,
+   "tafsir": {
+    "arabic_moyassar": "ويقول الكفار عنادًا: هلا أُنزل على محمد معجزة محسوسة كمعجزة موسى وعيسى. قل لهم: إن الله يضل مَن يشاء من المعاندين عن الهداية ولا تنفعه المعجزات، ويهدي إلى دينه الحق مَن رجع إليه وطلب رضوانه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৭) অর্থাৎ হিদায়াত তাদের ইচ্ছার ওপর নির্ভরশীল নয় যে, তারা সেটিকে নিদর্শনসমূহ নাযিলের সাথে সম্পৃক্ত করবে।",
+     "text": "আর যারা কুফরী করেছে তারা বলে: ‘(মুহাম্মাদ যদি নবীই হয় তাহলে) তার নিকট তার রবের পক্ষ থেকে কোনো নিদর্শন কেন নাযিল হয় না। ‘ (হে রাসূল! তুমি তাদেরকে) বলো: ‘নিশ্চয় আল্লাহ যাকে ইচ্ছা পথভ্রষ্ট করেন এবং (তাওবার মাধ্যমে) যে তাঁর অভিমুখী হয়, তাকে তিনি তাঁর পথ দেখান।’(৭)"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Those who disbelieve say, “Why has no sign been sent down to him from his Lord?” Say, “Allah causes to stray whom He wills and guides to Himself who turns to Him,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Les impies disent : « Si seulement son Seigneur lui permettait de réaliser des miracles. » Réponds-leur : « Allah laisse s’égarer qui Il veut et guide vers Lui ceux qui se repentent,"
+    },
+    "id": {
+     "footnotes": "[420] Allah menyesatkan berarti bahwa orang itu sesat karena keingkarannya dan tidak mau memahami petunjuk-petunjuk.",
+     "text": "Dan orang-orang kafir berkata, \"Mengapa tidak diturunkan kepadanya (Muhammad) tanda (mukjizat) dari Tuhannya?\" Katakanlah (Muhammad), \"Sesungguhnya Allah menyesatkan[420] siapa yang Dia kehendaki dan memberi petunjuk orang yang bertobat kepada-Nya,\""
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "کافر کہتے ہیں کہ اس پر کوئی نشانی (معجزه) کیوں نازل نہیں کیا گیا؟ جواب دے دیجئے کہ جسے اللہ گمراه کرنا چاہے کر دیتا ہے اور جو اس کی طرف جھکے اسے راستہ دکھا دیتا ہے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "不归信的人们说：“怎么没有一种迹象从他的养主降临他呢？”你说：“安拉必定使他所意欲者误入迷途，必定使归依他的人走上正路。”"
+    }
+   }
+  },
+  {
+   "arabic": "ٱلَّذِينَ ءَامَنُواْ وَتَطۡمَئِنُّ قُلُوبُهُم بِذِكۡرِ ٱللَّهِۗ أَلَا بِذِكۡرِ ٱللَّهِ تَطۡمَئِنُّ ٱلۡقُلُوبُ",
+   "aya": 28,
+   "id": 1735,
+   "tafsir": {
+    "arabic_moyassar": "ويهدي الذين تسكن قلوبهم بتوحيد الله وذكره فتطمئن، ألا بطاعة الله وذكره وثوابه تسكن القلوب وتستأنس."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "‘যারা ঈমান আনে এবং আল্লাহর স্মরণে যাদের অন্তর প্রশান্ত হয়। জেনে রাখো, আল্লাহর স্মরণ দ্বারাই অন্তরসমূহ প্রশান্ত হয়।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "those who believe and whose hearts find tranquility in the remembrance of Allah, for indeed in the remembrance of Allah do hearts find tranquility."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "ceux qui ont la foi et dont les cœurs s’apaisent à l’évocation d’Allah. C’est en effet dans l’évocation d’Allah que les cœurs trouvent véritablement la paix."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(yaitu) orang-orang yang beriman dan hati mereka menjadi tenteram dengan mengingat Allah. Ingatlah, hanya dengan mengingat Allah hati menjadi tenteram."
+    },
+    "ur": {
+     "footnotes": "[1] اللہ کا ذکر سے مراد، اس کی توحید کا بیان ہے، جس سے مشرکوں کے دلوں میں وسوسہ پیدا ہو جاتا ہے، یا اس کی عبادت، تلاوت قرآن، نوافل اور دعا و مناجات ہے جو اہل ایمان کے دلوں کی خوراک ہے یا اس کے احکام و فرامین کی اطاعت و بجا آوری ہے، جس کے بغیر اہل ایمان و تقویٰ بےقرار رہتے ہیں۔",
+     "text": "جو لوگ ایمان ﻻئے ان کے دل اللہ کے ذکر سے اطمینان حاصل کرتے ہیں۔ یاد رکھو اللہ کے ذکر سے ہی دلوں کو تسلی حاصل ہوتی ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们归信，他们的心境因记忆安拉而安静，真的，一切心境因记忆安拉而安静。"
+    }
+   }
+  },
+  {
+   "arabic": "ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ طُوبَىٰ لَهُمۡ وَحُسۡنُ مَـَٔابٖ",
+   "aya": 29,
+   "id": 1736,
+   "tafsir": {
+    "arabic_moyassar": "الذين صدَّقوا بالله ورسوله، وعملوا الأعمال الصالحات لهم فرح وقرة عين، وحال طيبة، ومرجع حسن إلى جنة الله ورضوانه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "‘যারা ঈমান আনে এবং সৎকাজ করে, (আখিরাতে) তাদের জন্য রয়েছে স্বাচ্ছন্দ্য ও সুন্দর প্রত্যাবর্তনস্থল (জান্নাত)।’"
+    },
+    "en": {
+     "footnotes": "[25] Tūbā: all that is good and comely in Paradise.",
+     "text": "Those who believe and do righteous deeds, for them there will be bliss[25] and a good return.”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "A ceux qui croient et accomplissent de bonnes œuvres sont réservées la plus grande félicité et la plus heureuse des retraites."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Orang-orang yang beriman dan mengerjakan kebajikan, mereka mendapat kebahagiaan dan tempat kembali yang baik."
+    },
+    "ur": {
+     "footnotes": "[1] طُوْبٰی کے مختلف معانی بیان کئے گئے ہیں مثلاً خیر، حسنٰی، کرامت، رشک، جنت میں مخصوص درخت یا مخصوص مقام وغیرہ مفہوم سب کا ایک ہی ہے یعنی جنت میں اچھا مقام اور اس کی نعمتیں اور لذتیں۔",
+     "text": "جو لوگ ایمان ﻻئے اور جنہوں نے نیک کام بھی کئے ان کے لئے خوشحالی ہے[1] اور بہترین ٹھکانا."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "归信而且行善者，得享幸福和优美的归宿。"
+    }
+   }
+  },
+  {
+   "arabic": "كَذَٰلِكَ أَرۡسَلۡنَٰكَ فِيٓ أُمَّةٖ قَدۡ خَلَتۡ مِن قَبۡلِهَآ أُمَمٞ لِّتَتۡلُوَاْ عَلَيۡهِمُ ٱلَّذِيٓ أَوۡحَيۡنَآ إِلَيۡكَ وَهُمۡ يَكۡفُرُونَ بِٱلرَّحۡمَٰنِۚ قُلۡ هُوَ رَبِّي لَآ إِلَٰهَ إِلَّا هُوَ عَلَيۡهِ تَوَكَّلۡتُ وَإِلَيۡهِ مَتَابِ",
+   "aya": 30,
+   "id": 1737,
+   "tafsir": {
+    "arabic_moyassar": "كما أرسلنا المرسلين قبلك أرسلناك -أيها الرسول- في أمة قد مضت مِن قبلها أمم المرسلين; لتتلو على هذه الأمة القرآن المنزل عليك، وحال قومك الجحود بوحدانية الرحمن، قل لهم -أيها الرسول-: الرحمن الذي لم تتخذوه إلهًا واحدًا هو ربي وحده لا معبود بحق سواه، عليه اعتمدت ووثقت، وإليه مرجعي وإنابتي."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "(হে রাসূল!) এভাবেই আমি তোমাকে পাঠিয়েছি এমন এক জাতির কাছে, যার পূর্বে অনেক জাতি গত হয়েছে, যেন আমি তোমার প্রতি যে অহী (আল-কুরআন) প্রেরণ করেছি, তা তাদের নিকট তিলাওয়াত করো। অথচ তারা রহমানকে অস্বীকার করে। (হে রাসূল!) বলো: ‘তিনিই (এ রহমানই) আমার রব, তিনি ছাড়া আর কোনো (সত্য) ইলাহ নেই, আমি তাঁরই ওপর তাওয়াক্কুল করছি এবং তাঁরই দিকেই আমার প্রত্যাবর্তন।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Thus did We send you to a community before which other communities had passed away, so that you may recite to them what We have revealed to you, yet they disbelieve in the Most Compassionate. Say, “He is my Lord; none has the right to be worshiped except Him. In Him I put my trust, and to Him is my return.”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "C’est ainsi que Nous t’avons suscité à un peuple que d’autres ont précédé, afin de lui réciter ce que Nous t’avons révélé. Les mécréants s’obstinent pourtant à renier le Tout Miséricordieux. Dis : « Il est mon Seigneur. Il n’est de divinité digne d’être adorée que Lui. C’est à Lui que je m’en remets entièrement et à Lui que je reviens repentant. »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Demikianlah, Kami telah mengutus engkau (Muhammad) kepada suatu umat yang sungguh sebelumnya telah berlalu beberapa umat, agar engkau bacakan kepada mereka (Al-Qur`an) yang Kami wahyukan kepadamu, padahal mereka ingkar kepada Tuhan Yang Maha Pengasih. Katakanlah, \"Dia Tuhanku, tidak ada tuhan selain Dia; hanya kepada-Nya aku bertawakal dan hanya kepada-Nya aku bertobat.\""
+    },
+    "ur": {
+     "footnotes": "[1] جس طرح ہم نے آپ کو تبلیغ رسالت کے لئے بھیجا ہے، اسی طرح آپ سے پہلی امتوں میں بھی رسول بھیجے تھے، ان کی بھی اسی طرح تکذیب کی گئی جس طرح آپ کی کی گئی اور جس طرح تکذیب کے نتیجے میں وہ قومیں عذاب الٰہی سے دو چار ہوئیں، انہیں بھی اس انجام سے بےفکر نہیں رہنا چاہیے۔\n[2] مشرکین مکہ رحمٰن کے لفظ سے بڑا بدکتے تھے، صلح حدیبیہ کے موقع پر بھی جب بسم اللہ الرحمٰن الرحیم کے الفاظ لکھے گئے تو انہوں نے کہا یہ رحمٰن رحیم کیا ہے؟ ہم نہیں جانتے۔ (ابن کثیر)\n[3] یعنی رحمٰن، میرا وہ رب ہے جس کے سوا کوئی معبود نہیں۔",
+     "text": "اسی طرح ہم نے آپ کو اس امت میں بھیجا ہے[1] جس سے پہلے بہت سی امتیں گزر چکی ہیں کہ آپ انہیں ہماری طرف سے جو وحی آپ پر اتری ہے پڑھ کر سنایئے یہ اللہ رحمٰن کے منکر ہیں[2]، آپ کہہ دیجئے کہ میرا پالنے واﻻ تو وہی ہے اس کے سوا درحقیقت کوئی بھی ﻻئق عبادت نہیں[3]، اسی کے اوپر میرا بھروسہ ہے اور اسی کی جانب میرا رجوع ہے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我就这样派遣你去一个民族，在它之前有许多民族确已逝去了，以便你对他们宣读我所启示你的经典，他们是不信至仁主的。你说：“他是我的养主，除他之外，绝无应受崇拜的。我只信托他，我只以他为依归。”"
+    }
+   }
+  },
+  {
+   "arabic": "وَلَوۡ أَنَّ قُرۡءَانٗا سُيِّرَتۡ بِهِ ٱلۡجِبَالُ أَوۡ قُطِّعَتۡ بِهِ ٱلۡأَرۡضُ أَوۡ كُلِّمَ بِهِ ٱلۡمَوۡتَىٰۗ بَل لِّلَّهِ ٱلۡأَمۡرُ جَمِيعًاۗ أَفَلَمۡ يَاْيۡـَٔسِ ٱلَّذِينَ ءَامَنُوٓاْ أَن لَّوۡ يَشَآءُ ٱللَّهُ لَهَدَى ٱلنَّاسَ جَمِيعٗاۗ وَلَا يَزَالُ ٱلَّذِينَ كَفَرُواْ تُصِيبُهُم بِمَا صَنَعُواْ قَارِعَةٌ أَوۡ تَحُلُّ قَرِيبٗا مِّن دَارِهِمۡ حَتَّىٰ يَأۡتِيَ وَعۡدُ ٱللَّهِۚ إِنَّ ٱللَّهَ لَا يُخۡلِفُ ٱلۡمِيعَادَ",
+   "aya": 31,
+   "id": 1738,
+   "tafsir": {
+    "arabic_moyassar": "يردُّ الله -تعالى- على الكافرين الذين طلبوا إنزال معجزات محسوسة على النبي صلى الله عليه وسلم فيقول لهم: ولو أن ثمة قرآنًا يقرأ، فتزول به الجبال عن أماكنها، أو تتشقق به الأرض أنهارًا، أو يحيا به الموتى وتُكَلَّم -كما طلبوا منك- لكان هذا القرآن هو المتصف بذلك دون غيره، ولما آمنوا به. بل لله وحده الأمر كله في المعجزات وغيرها. أفلم يعلم المؤمنون أن الله لو يشاء لآمن أهل الأرض كلهم من غير معجزة؟ ولا يزال الكفار تنزل بهم مصيبة بسبب كفرهم كالقتل والأسر في غزوات المسلمين، أو تنزل تلك المصيبة قريبًا من دارهم، حتى يأتي وعد الله بالنصر عليهم، إن الله لا يخلف الميعاد."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "নিশ্চয়ই যদি এমন কোনো কুরআন (নাযিল করা) হতো, যার দ্বারা পাহাড়সমূহ চলমান হয়ে যেত, অথবা ভূমি খণ্ড-বিখণ্ড হয়ে যেত, অথবা মৃতদের সঙ্গে কথা বলা যেত, (তাহলে এটিই তার জন্য বেশী উপযুক্ত ছিল); বরং সমস্ত কর্তৃত্বই আল্লাহর হাতে (যখন যা চান নাযিল করবেন)। তবে কি ঈমানদাররা এখনও এ বিষয়ে নিরাশ হয়নি যে, আল্লাহ যদি চাইতেন, তবে অবশ্যই তিনি সকল মানুষকে একযোগে সৎপথে পরিচালিত করতেন? আর যারা কুফর করেছে, তারা যা করেছে তার ফলস্বরূপ তাদের ওপর একের পর এক কঠিন বিপর্যয় আসতেই থাকবে, অথবা তা তাদের ঘরের কাছাকাছি আপতিত হবে, যতক্ষণ না আল্লাহর প্রতিশ্রুতি (বিপদ) এসে পৌঁছে। নিশ্চয়ই আল্লাহ প্রতিশ্রুতি ভঙ্গ করেন না।"
+    },
+    "en": {
+     "footnotes": "[26] “Had We sent down this Qur’an upon a mountain, you would have seen it humbled and break asunder out of awe of Allah!” See 59:21.",
+     "text": "Even if there were a Qur’an that could cause mountains to move[26], or split the earth, or cause the dead to speak, [they would still not believe]. To Allah belongs all matters. Do the believers not know that if Allah had willed, He could have guided all humans? Calamities will continue to befall the disbelievers or strike close to their homes because of their deeds, until the promise of Allah comes to pass, for Allah does not fail in His promise."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Si un livre pouvait déplacer les montagnes, fendre la terre ou faire parler les morts, ce serait bien celui-ci. Toute décision cependant appartient à Allah. Les croyants ne savent-ils pas que, s’Il le voulait, Allah guiderait tous les hommes ? Pour prix de leurs iniquités, les impies ne cesseront d’être frappés de malheurs, qui pourront aussi s’abattre autour d’eux, jusqu’à ce que la menace d’Allah soit mise à exécution. Allah, en vérité, exécute toujours Ses menaces."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan sekiranya ada suatu bacaan (Kitab Suci) yang dengan itu gunung-gunung dapat digoncangkan, atau bumi jadi terbelah, atau orang yang sudah mati dapat berbicara, (itulah Al-Qur`an). Sebenarnya segala urusan itu milik Allah. Maka tidakkah orang-orang yang beriman mengetahui bahwa sekiranya Allah menghendaki (semua manusia beriman), tentu Allah memberi petunjuk kepada manusia semuanya. Dan orang-orang kafir senantiasa ditimpa bencana disebabkan perbuatan mereka sendiri atau bencana itu terjadi dekat tempat kediaman mereka, sampai datang janji Allah (penaklukan Mekkah). Sungguh, Allah tidak menyalahi janji."
+    },
+    "ur": {
+     "footnotes": "[1] امام ابن کثیر فرماتے ہیں کہ ہر آسمانی کتاب کو قرآن کہا جاتا ہے، جس طرح ایک حدیث میں آتا ہے کہ \"حضرت داؤد علیہ السلام، جانور کو تیار کرنے کا حکم دیتے اور اتنی دیر میں ایک مرتبہ قرآن کا ورد کر لیتے \"۔ (صحيح بخاري كتاب الأنبياء، باب قول الله تعالى: وآتينا داود زبورا) یہاں ظاہر بات ہے قرآن سے مراد زبور ہے۔ مطلب آیت کا یہ ہے کہ اگر پہلے کوئی آسمانی کتاب ایسی نازل ہوئی ہوتی کہ جسے سن کر پہاڑ رواں دواں ہو جاتے یا زمین کی مسافت طے ہو جاتی یا مردے بول اٹھتے تو قرآن کریم کے اندر یہ خصوصیت بدرجہ اولیٰ موجود ہوتی، کیونکہ یہ اعجاز و بلاغت میں پچھلی کتابوں سے فائق ہے۔ اور بعض نے اس کا مطلب یہ بیان کیا ہے کہ اگر اس قرآن کے ذریعے سے معجزات ظاہر ہوتے، تب بھی کفار ایمان نہ لاتے، کیونکہ ایمان لانا نہ لانا یہ اللہ کی مشیت پر موقوف ہے، معجزوں پر نہیں۔ اسی لئے فرمایا، سب کام اللہ کے ہاتھ میں ہیں۔\n[2] جو ان کے مشاہدے یا علم میں ضرور آئے گا تاکہ وہ عبرت پکڑ سکیں۔\n[3] یعنی قیامت واقعہ ہو جائے، یا اہل اسلام کو قطعی فتح و غلبہ حاصل ہو جائے۔",
+     "text": "اگر (بالفرض) کسی قرآن (آسمانی کتاب) کے ذریعے پہاڑ چلا دیئے جاتے یا زمین ٹکڑے ٹکڑے کر دی جاتی یا مردوں سے باتیں کرا دی جاتیں (پھر بھی وه ایمان نہ ﻻتے)، بات یہ ہے کہ سب کام اللہ کے ہاتھ میں ہے[1] ، تو کیا ایمان والوں کو اس بات پر دل جمعی نہیں کہ اگر اللہ تعالیٰ چاہے تو تمام لوگوں کو ہدایت دے دے۔ کفار کو تو ان کے کفر کے بدلے ہمیشہ ہی کوئی نہ کوئی سخت سزا پہنچتی رہے گی یا ان کے مکانوں کے قریب نازل ہوتی رہے گی[2] تاوقتیکہ وعدہٴ الٰہی آپہنچے[3]۔ یقیناً اللہ تعالیٰ وعده خلافی نہیں کرتا."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "假若有一部《古兰经》，可用来移动山岳，或破裂大地，或使死人说话，〔他们必不信它。〕不然，一切事情只归安拉，难道归信的人们不知道吗？假若安拉意欲，他必引导全人类。不归信的人们还要因自己的行为而遭受灾殃，或他们住宅的附近遭受灾殃，直到安拉的应许到来。安拉确是不爽约的。"
+    }
+   }
+  },
+  {
+   "arabic": "وَلَقَدِ ٱسۡتُهۡزِئَ بِرُسُلٖ مِّن قَبۡلِكَ فَأَمۡلَيۡتُ لِلَّذِينَ كَفَرُواْ ثُمَّ أَخَذۡتُهُمۡۖ فَكَيۡفَ كَانَ عِقَابِ",
+   "aya": 32,
+   "id": 1739,
+   "tafsir": {
+    "arabic_moyassar": "وإذا كانوا قد سخروا من دعوتك -أيها الرسول- فلقد سَخِرَتْ أمم من قبلك برسلهم، فلا تحزن فقد أمهلتُ الذين كفروا، ثم أخذتُهم بعقابي، وكان عقابًا شديدًا."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর (হে রাসূল!) অবশ্যই তোমার পূর্বে (এভাবেই) বহু রাসূলের নিয়ে ঠাট্টা-বিদ্রুপ করা হয়েছে। অতঃপর যারা কুফরী করেছে, আমি তাদেরকে কিছুটা অবকাশ দিয়েছি, তারপর আমি তাদেরকে (শাস্তি দ্বারা) পাকড়াও করেছি। অতএব, দেখো, কেমন ছিল আমার শাস্তি !"
+    },
+    "en": {
+     "footnotes": "[27] This is a comforting note to the Prophet (ﷺ).",
+     "text": "There were messengers before you who were ridiculed, but I gave respite to those who disbelieved, then I seized them[27]. How [terrible] was My chastisement!"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Des Messagers ont, avant toi, fait l’objet de moqueries. J’ai alors accordé un sursis aux impies dont Je me suis finalement saisi. Quel fut alors Mon châtiment !"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan sesungguhnya beberapa rasul sebelum engkau (Muhammad) telah diperolok-olokan, maka Aku beri tenggang waktu kepada orang-orang kafir itu, kemudian Aku binasakan mereka. Maka alangkah hebatnya siksaan-Ku itu!"
+    },
+    "ur": {
+     "footnotes": "[1] حدیث میں آتا ہے «إِنَّ اللهَ لَيُمْلِي لِلظَّالِمِ حَتَّى إِذَا أَخَذَهُ لَمْ يُفْلِتْهُ»، ”اللہ ظالم کو مہلت دیئے جاتا ہے حتٰی کہ جب اسے پکڑتا ہے تو پھر چھوڑتا نہیں“۔اس کے بعد نبی (صلى الله عليه وسلم) نے یہ آیت تلاوت فرمائی: «وَكَذَلِكَ أَخْذُ رَبِّكَ إِذَا أَخَذَ الْقُرَى وَهِيَ ظَالِمَةٌ إِنَّ أَخْذَهُ أَلِيمٌ شَدِيدٌ» (سورۂ ھود:102) ”اسی طرح تیرے رب کی پکڑ ہے جب وہ ظلم کی مرتکب بستیوں کو پکڑتا ہے۔ یقینا اس کی پکڑ بہت ہی الم ناک اور سخت ہے“۔ (صحيح بخاري تفسير سورة هود ومسلم، كتاب البر، باب تحريم الظلم)۔",
+     "text": "یقیناً آپ سے پہلے کے پیغمبروں کا مذاق اڑایا گیا تھا اور میں نے بھی کافروں کو ڈھیل دی تھی پھر انہیں پکڑ لیا تھا، پس میرا عذاب کیسا رہا؟[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "在你之前，有许多使者确已被人嘲弄了，但我对不归信者缓刑。随后，我惩治他们。我的惩罚是怎样的呢？"
+    }
+   }
+  },
+  {
+   "arabic": "أَفَمَنۡ هُوَ قَآئِمٌ عَلَىٰ كُلِّ نَفۡسِۭ بِمَا كَسَبَتۡۗ وَجَعَلُواْ لِلَّهِ شُرَكَآءَ قُلۡ سَمُّوهُمۡۚ أَمۡ تُنَبِّـُٔونَهُۥ بِمَا لَا يَعۡلَمُ فِي ٱلۡأَرۡضِ أَم بِظَٰهِرٖ مِّنَ ٱلۡقَوۡلِۗ بَلۡ زُيِّنَ لِلَّذِينَ كَفَرُواْ مَكۡرُهُمۡ وَصُدُّواْ عَنِ ٱلسَّبِيلِۗ وَمَن يُضۡلِلِ ٱللَّهُ فَمَا لَهُۥ مِنۡ هَادٖ",
+   "aya": 33,
+   "id": 1740,
+   "tafsir": {
+    "arabic_moyassar": "أفمن هو قائم على كل نفس يُحصي عليها ما تعمل، أحق أن يعبد، أم هذه المخلوقات العاجزة؟ وهم -من جهلهم- جعلوا لله شركاء مِن خَلْقه يعبدونهم، قل لهم -أيها الرسول-: اذكروا أسماءهم وصفاتهم، ولن يجدوا من صفاتهم ما يجعلهم أهلا للعبادة، أم تخبرون الله بشركاء في أرضه لا يعلمهم، أم تسمونهم شركاء بظاهر من اللفظ من غير أن يكون لهم حقيقة. بل حسَّن الشيطان للكفار قولهم الباطل وصدَّهم عن سبيل الله. ومَن لم يوفِّقه الله لهدايته فليس له أحد يهديه، ويوفقه إلى الحق والرشاد."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "নিশ্চয়ই (কি তাঁর সঙ্গে তুলনা করা যায়,) যিনি প্রত্যেক মানুষ যা উপার্জন করেছে তা-সহ তার ওপর সদা পর্যবেক্ষক, (এমন কাউকে যে এসব গুণের কোনোটি রাখে না?! কখনোই না)। অথচ তারা আল্লাহর জন্য (তাঁরই সৃষ্টির মধ্য থেকে) শরিক স্থির করেছে, (যাদের তারা তাঁর সঙ্গে উপাসনা করে)। অতএব (হে মুহাম্মদ, তাদের) বলো: তোমরা এই (তথাকথিত) শরিকদের (এমন) নাম (ও পরিচয়) দাও, (যা তারা সত্যিই পাওয়ার যোগ্য)। নাকি তোমরা আল্লাহকে পৃথিবীতে তাঁর কোনো শরিক আছে, এমন সংবাদ দিচ্ছ, অথচ তিনি নিজেই তা জানেন না? না কি (তোমরা কেবল) কথার বাহ্যিক চাকচিক্যের মাধ্যমে (আল্লাহর জন্য) শরিক বানিয়ে নিয়েছ, (যার কোনো বাস্তব ভিত্তি নেই, বরং তা নিছক ধারণামাত্র?) বরং তাদের কাছে তাদের মিথ্যা বিশ্বাসকে শোভন করে দেখানো হয়েছে, আর (আল্লাহর প্রতি কুফরির কারণে) তাদের সত্য পথ থেকে ফিরিয়ে রাখা হয়েছে। আর যাকে আল্লাহ পথভ্রষ্ট করেন, তাকে সৎপথে পরিচালিত করার কেউই নেই।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Is He Who watches every soul in whatever it does [like others]? Yet they ascribe partners to Allah. Say, “Name them! Or do you presume to inform Him of something that He does not know on earth, or it is just a show of words?” No, but the falsehood of the disbelievers is made appealing to them, and they are hindered from the [straight] path. Whoever Allah causes to stray, he will have none to guide."
+    },
+    "fr": {
+     "footnotes": "[12] Autre sens : appelez-les divinités (si vous le voulez, cela ne fait pas pour autant de ces idoles de vrais dieux).",
+     "text": "Celui qui observe chaque être, tenant le compte précis de ses œuvres, est-Il comparable aux fausses divinités qu’ils associent à Allah ? Dis-leur : « Indiquez-nous quelles sont ces divinités[12] » ! Auriez-vous la prétention d’apprendre à Allah ce dont Il ignorerait jusqu’ici l’existence sur terre ? Ou bien s’agit-il de simples noms ne correspondant à aucune réalité ? En vérité, les pratiques des impies ont été embellies à leurs yeux, si bien qu’ils ont été détournés du droit chemin. Or, nul ne saurait guider celui qu’Allah laisse s’égarer."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Maka apakah Tuhan yang menjaga setiap jiwa terhadap apa yang diperbuatnya (sama dengan yang lain)? Mereka menjadikan sekutu-sekutu bagi Allah. Katakanlah, \"Sebutkanlah sifat-sifat mereka itu!\" Atau apakah kamu hendak memberitahukan kepada Allah apa yang tidak diketahui-Nya di bumi, atau (mengatakan tentang hal itu) sekedar perkataan pada lahirnya saja. Sebenarnya bagi orang kafir, tipu daya mereka itu dijadikan terasa indah, dan mereka dihalangi dari jalan (yang benar). Dan barang siapa disesatkan Allah, maka tidak ada seorang pun yang memberi petunjuk baginya."
+    },
+    "ur": {
+     "footnotes": "[1] یہاں اس کا جواب محذوف ہے یعنی کیا رب العزت اور وہ معبودان باطل برابر ہو سکتے ہیں جن کی یہ عبادت کرتے ہیں، جو کسی کو نفع پہنچانے پرقادر ہیں نہ نقصان پہنچانے پر، نہ وہ دیکھتے ہیں اور نہ عقل وشعور سے بہرہ ور ہیں۔\n[2] یعنی ہمیں بھی تو بتاؤ تاکہ انہیں پہچان سکیں اس لئے کہ ان کی کوئی حقیقت ہی نہیں ہے۔ اس لئے آگے فرمایا، کیا تم اللہ کو وہ باتیں بتاتے ہو جو وہ زمین میں جانتا ہی نہیں، یعنی ان کا وجود ہی نہیں۔ اس لئے کہ اگر زمین میں ان کا وجود ہوتا تو اللہ تعالٰی کے علم میں ضرور ہوتا، اس پر تو کوئی چیز مخفی نہیں ہے۔\n[3] یہاں ظاہر ظن کے معنی میں ہے یعنی یا یہ صرف ان کی ظنی باتیں ہیں، مطلب یہ ہے کہ تم ان بتوں کی عبادت اس گمان پر کرتے ہو کہ یہ نفع نقصان پہنچا سکتے ہیں اور تم ان کے نام بھی معبود رکھے ہوئے ہیں، حالانکہ، \"یہ تمہارے اور تمہارے باپوں کے رکھے ہوئے نام ہیں، جن کی کوئی دلیل اللہ نے نہیں اتاری۔ یہ صرف گمان اور خواہش نفس کی پیروی کرتے ہیں\"۔ (النجم۔23)\n[4] مکر سے مراد، ان کے وہ غلط عقائد و اعمال ہیں جن میں شیطان نے ان کو پھنسا رکھا ہے، شیطان نے گمراہیوں پر بھی حسین غلاف چڑھا رکھے ہیں۔\n[5] جس طرح دوسرے مقام پر فرمایا، «وَمَنْ يُرِدِ اللَّهُ فِتْنَتَهُ فَلَنْ تَمْلِكَ لَهُ مِنَ اللَّهِ شَيْئًا»(المائدہ:41)۔ ”جس کو اللہ گمراہ کرنے کا ارادہ کر لے تو اللہ اس کے لئے کچھ اختیار نہیں رکھتا“، اور فرمایا۔ «اِنْ تَحْرِصْ عَلٰي هُدٰىهُمْ فَاِنَّ اللّٰهَ لَا يَهْدِيْ مَنْ يُّضِلُّ وَمَا لَهُمْ مِّنْ نّٰصِرِيْنَ» ( النحل:37)۔ ”اگر تم ان کی ہدایت کی خواہش رکھتے ہو تو (یاد رکھو) اللہ تعالٰی اسے ہدایت نہیں دیتا جسے وہ گمراہ کرتا ہے اور ان کا کوئی مددگار نہیں ہوگا“۔",
+     "text": "آیا وه اللہ جو نگہبانی کرنے واﻻ ہے ہر شخص کی، اس کے کئے ہوئے اعمال پر[1] ، ان لوگوں نے اللہ کے شریک ٹھہرائے ہیں کہہ دیجئے ذرا ان کے نام تو لو[2]، کیا تم اللہ کو وه باتیں بتاتے ہو جو وه زمین میں جانتا ہی نہیں، یا صرف اوپری اوپری باتیں بتا رہے[3] ہو، بات اصل یہ ہے کہ کفر کرنے والوں کے لئے ان کے مکر سجا دیئے گئے ہیں[4]، اور وه صحیح راه سے روک دیئے گئے ہیں، اور جس کو اللہ گمراه کر دے اس کو راه دکھانے واﻻ کوئی نہیں.[5]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "难道监视每个人的所作所为者，〔与那不能监视者一样吗？〕他们为安拉树立了许多伙伴，你说：“你们指出他们的名称吧。难道你们把他在大地上所不知道的告诉他吗？不然，你们据浮辞〔而称他们为安拉的伙伴〕。”不然，不归信者，已为自己的计谋所迷惑了。他们被阻挠而不能入正道。安拉使谁迷误，谁就没有向导。"
+    }
+   }
+  },
+  {
+   "arabic": "لَّهُمۡ عَذَابٞ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۖ وَلَعَذَابُ ٱلۡأٓخِرَةِ أَشَقُّۖ وَمَا لَهُم مِّنَ ٱللَّهِ مِن وَاقٖ",
+   "aya": 34,
+   "id": 1741,
+   "tafsir": {
+    "arabic_moyassar": "لهؤلاء الكفار الصادين عن سبيل الله عذاب شاق في الحياة الدنيا بالقتل والأسر والخزي، ولَعذابهم في الآخرة أثقل وأشد، وليس لهم مانع يمنعهم من عذاب الله."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তাদের জন্যই রয়েছে দুনিয়ার জীবনে শাস্তি, আর আখিরাতের শাস্তি তো আরো কঠিন। আল্লাহর শাস্তি থেকে তাদের কোন রক্ষাকারী নেই।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "They will be punished in this life, but the punishment of the Hereafter is more severe, and they will have no protector against Allah."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Ils seront durement châtiés ici-bas, mais les tourments de l’au-delà seront bien plus terribles. Nul ne pourra les protéger du châtiment d’Allah."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Mereka mendapat siksaan dalam kehidupan dunia, dan azab akhirat pasti lebih keras. Tidak ada seorang pun yang melindungi mereka dari (azab) Allah."
+    },
+    "ur": {
+     "footnotes": "[1] اس سے مراد قتل اور اسیری ہے جو مسلمانوں کے ساتھ جنگ میں ان کافروں کے حصے آتی ہے۔\n[2] جس طرح نبی (صلى الله عليه وسلم) نے بھی لعنت ملامت کرنے والے جوڑے سے فرمایا تھا «إِنَّ عَذَابَ الدُّنْيَا أَهْوَنُ مِنْ عَذَابِ الآخِرَةِ»۔ (صحيح مسلم كتاب اللعان) «دنیا کا عذاب، آخرت سے بہت ہلکا ہے » علاوہ ازیں دنیا کا عذاب (جیسا کچھ اور جتنا کچھ بھی ہو) عارضی اور فانی ہے اور آخرت کا عذاب دائمی ہے، اسے زوال و فنا نہیں، مزید برآں جہنم کی آگ، دنیا کی آگ کی نسبت 69 گنا تیز ہے، اور اس طرح دوسری چیزیں ہیں۔ اس لئے عذاب کے سخت ہونے میں کیا شبہ ہو سکتا ہے۔",
+     "text": "ان کے لئے دنیا کی زندگی میں بھی عذاب ہے[1] ، اور آخرت کا عذاب تو بہت ہی زیاده سخت ہے[2]، انہیں اللہ کے غضب سے بچانے واﻻ کوئی بھی نہیں."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们在今世将受惩罚，后世的惩罚确是更严厉的。他们绝无任何保卫者以抗拒安拉。"
+    }
+   }
+  },
+  {
+   "arabic": "۞ مَّثَلُ ٱلۡجَنَّةِ ٱلَّتِي وُعِدَ ٱلۡمُتَّقُونَۖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُۖ أُكُلُهَا دَآئِمٞ وَظِلُّهَاۚ تِلۡكَ عُقۡبَى ٱلَّذِينَ ٱتَّقَواْۚ وَّعُقۡبَى ٱلۡكَٰفِرِينَ ٱلنَّارُ",
+   "aya": 35,
+   "id": 1742,
+   "tafsir": {
+    "arabic_moyassar": "صفة الجنة التي وعد الله بها الذين يخشونه أنها تجري من تحت أشجارها وقصورها الأنهار، ثمرها لا ينقطع، وظلها لا يزول ولا ينقص، تلك المثوبة بالجنة عاقبة الذين خافوا الله، فاجتنبوا معاصيه وأدَّوا فرائضه، وعاقبة الكافرين بالله النار."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "মুত্তাকীদেরকে যে জান্নাতের প্রতিশ্রুতি দেয়া হয়েছে, সেটির দৃষ্টান্ত এরূপ, তার তলদেশে নদীসমূহ প্রবাহিত, তার খাদ্যসামগ্রী অফুরন্ত ও ছায়া সার্বক্ষণিক। যারা আল্লাহকে (তাঁর আদেশ-নিষেধ মেনে) ভয় করেছে, এটি তাদের শুভ পরিণাম। আর কাফিরদের পরিণাম হলো জাহান্নাম।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "The likeness of Paradise, which is promised to the righteous is that under it rivers flow; its fruit is eternal, so is its shade. Such is the end of those who fear Allah, but the end of the disbelievers is Fire!"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Tel est le Paradis promis à ceux qui craignent le Seigneur : des jardins traversés de rivières aux fruits et aux ombrages éternels. Voici les délices réservés aux pieux croyants, tandis que les mécréants sont voués au feu de l’Enfer."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Perumpamaan surga yang dijanjikan kepada orang yang bertakwa (ialah seperti taman), mengalir di bawahnya sungai-sungai; senantiasa berbuah dan teduh. Itulah tempat kesudahan bagi orang yang bertakwa; sedangkan tempat kesudahan bagi orang yang ingkar kepada Tuhan ialah neraka."
+    },
+    "ur": {
+     "footnotes": "[1] اہل کفار کے انجام بد کے ساتھ اہل ایمان کا حسن انجام بیان فرما دیا تاکہ جنت کے حصول میں رغبت اور شوق پیدا ہو، اس مقام پر امام ابن کثیر نے جنت کی نعمتوں، لذتوں اور ان کی خصوصی کیفیات پر مشتمل احادیث بیان فرمائی ہیں۔ جنہیں وہاں ملاحظہ کر لیا جائے۔",
+     "text": "اس جنت کی صفت، جس کا وعده پرہیزگاروں کو دیا گیا ہے یہ ہے کہ اس کے نیچے سے نہریں بہہ رہی ہیں۔ اس کا میوه ہمیشگی واﻻ ہے اور اس کا سایہ بھی۔ یہ ہے انجام پرہیزگاروں کا[1] ، اور کافروں کا انجام کار دوزخ ہے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "已应许敬畏者的乐园的情景是：诸河从其下临，其果实永恒，荫影亦然。这是那些敬畏者的果报；不归信者的果报是火狱。"
+    }
+   }
+  },
+  {
+   "arabic": "وَٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ يَفۡرَحُونَ بِمَآ أُنزِلَ إِلَيۡكَۖ وَمِنَ ٱلۡأَحۡزَابِ مَن يُنكِرُ بَعۡضَهُۥۚ قُلۡ إِنَّمَآ أُمِرۡتُ أَنۡ أَعۡبُدَ ٱللَّهَ وَلَآ أُشۡرِكَ بِهِۦٓۚ إِلَيۡهِ أَدۡعُواْ وَإِلَيۡهِ مَـَٔابِ",
+   "aya": 36,
+   "id": 1743,
+   "tafsir": {
+    "arabic_moyassar": "والذين أعطيناهم الكتاب من اليهود والنصارى مَن آمن منهم بك كعبد الله بن سلام والنجاشي، يستبشرون بالقرآن المنزل عليك لموافقته ما عندهم، ومن المتحزبين على الكفر ضدك، كالسَّيد والعاقب، أُسْقفَي «نجران» ، وكعب بن الأشرف، مَن ينكر بعض المنزل عليك، قل لهم: إنما أمرني الله أن أعبده وحده، ولا أشرك به شيئًا، إلى عبادته أدعو الناس، وإليه مرجعي ومآبي."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৮) কারণ, তা তাদের ওপর নাযিলকৃত কিতাবের কিছু বিধান অনুযায়ী হয়েছে। \n (৯) কারণ, তা তাদের মন মতো হয়নি অথবা তা তাদের পরিবর্তন ও বিকৃতির চিত্র তুলে ধরেছে।",
+     "text": "আর (আপনার পূর্বে) আমি যাদেরকে কিতাব দিয়েছি, তোমার ওপর (আল-কুরআনের) যা নাযিল হয়, তাতে তারা আনন্দিত হয়।(৮) আর (ইয়াহহূদী ও খ্রিস্টানদের) গোত্রসমূহের কেউ কেউ আল-কুরআনের কিছু অংশকে অস্বীকার করে।(৯) (হে রাসূল! তুমি তাদেরকে) বলো: ‘আমাকে কেবল আদেশ দেয়া হয়েছে, যেন আমি আল্লাহর ইবাদাত করি এবং তাঁর সাথে (অন্য কাউকে) শরীক না করি। আমি তাঁরই দিকে দা‘ওয়াত দেই এবং তাঁরই নিকট আমার প্রত্যাবর্তনস্থল।’"
+    },
+    "en": {
+     "footnotes": "[28] From the Jews and the Christians.",
+     "text": "Those whom We gave the Scripture[28] rejoice at that which is sent down to you [O Prophet], but there are some factions who deny part of it. Say, “I have only been commanded to worship Allah, and associate none with Him. To Him I call and to Him is my return.”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Ceux auxquels Nous avons confié les Ecritures se réjouissent de ce qui t’a été révélé, tandis que certains, parmi les impies qui se sont ligués contre toi, en renient une partie. Dis : « Il m’est seulement ordonné d’adorer Allah sans rien Lui associer. C’est à Son adoration que j’appelle les hommes et à Lui que je ferai retour. »"
+    },
+    "id": {
+     "footnotes": "[421] Orang Yahudi dan Nasrani yang telah masuk Islam.",
+     "text": "Dan orang yang telah Kami berikan kitab kepada mereka[421] bergembira dengan apa (Kitab) yang diturunkan kepadamu (Muhammad), dan ada di antara golongan (Yahudi dan Nasrani), yang mengingkari sebagiannya. Katakanlah, \"Aku hanya diperintah untuk menyembah Allah dan tidak mempersekutukan-Nya. Hanya kepada-Nya aku seru (manusia) dan hanya kepada-Nya aku kembali.\""
+    },
+    "ur": {
+     "footnotes": "[1] اس سے مراد مسلمان ہیں اور مطلب ہے جو قرآن کے احکام پر عمل کرتے ہیں۔\n[2] یعنی قرآن کے صدق کے دلائل و شواہد دیکھ کر مزید خوش ہوتے ہیں۔\n[3] اس سے مراد یہود و نصاریٰ اور کفار و مشرکین ہیں۔ بعض کے نزدیک کتاب سے مراد تورات وانجیل ہے، ان میں سے جو مسلمان ہوئے، وہ خوش ہوتے ہیں اور انکار کرنے والے وہ یہود و انصاریٰ ہیں جو مسلمان نہیں ہوئے۔",
+     "text": "جنہیں ہم نے کتاب دی ہے[1] وه تو جو کچھ آپ پر اتارا جاتا ہے اس سے خوش ہوتے ہیں[2] اور دوسرے فرقے اس کی بعض باتوں کے منکر ہیں[3]۔ آپ اعلان کر دیجئے کہ مجھے تو صرف یہی حکم دیا گیا ہے کہ میں اللہ کی عبادت کروں اور اس کے ساتھ شریک نہ کروں، میں اسی کی طرف بلا رہا ہوں اور اسی کی جانب میرا لوٹنا ہے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "蒙我赏赐经典的人喜欢降示给你的经典，同盟者当中，有人否认这经典的一部分。你说：“我只奉命崇拜安拉，而不以物配他，我只号召人崇拜他，我只归依他。”"
+    }
+   }
+  },
+  {
+   "arabic": "وَكَذَٰلِكَ أَنزَلۡنَٰهُ حُكۡمًا عَرَبِيّٗاۚ وَلَئِنِ ٱتَّبَعۡتَ أَهۡوَآءَهُم بَعۡدَ مَا جَآءَكَ مِنَ ٱلۡعِلۡمِ مَا لَكَ مِنَ ٱللَّهِ مِن وَلِيّٖ وَلَا وَاقٖ",
+   "aya": 37,
+   "id": 1744,
+   "tafsir": {
+    "arabic_moyassar": "وكما أنزلنا الكتب على الأنبياء بلسانهم أنزلنا إليك -أيها الرسول- القرآن بلغة العرب; لتحكم به، ولئن اتبعت أهواء المشركين في عبادة غير الله -بعد الحق الذي جاءك من الله- ليس لك ناصر ينصرك ويمنعك من عذابه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর (যেভাবে আমি পূর্ববর্তী কিতাবগুলো তাদের জাতির ভাষায় নাযিল করেছি) এভাবেই আমি আল-কুরআনকে আরবী ভাষায় বিধানস্বরূপ নাযিল করেছি। (হে রাসূল!) তোমার নিকট (অহীর) জ্ঞান আসার পরেও যদি তুমি তাদের (আহলে কিতাবের) খেয়াল খুশির অনুসরণ করো, তবে আল্লাহর পক্ষ থেকে তোমার কোনো অভিভাবক ও রক্ষাকারী থাকবে না।"
+    },
+    "en": {
+     "footnotes": "[29] i.e., the People of the Book.",
+     "text": "Thus We have sent it down as a commandment in Arabic. If you were to follow their[29] desires after the knowledge that has come to you, you would have no supporter or protector against Allah."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "C’est ainsi que Nous avons révélé le Coran, livre en langue arabe d’une sagesse infinie, afin que tu en appliques les préceptes. Si donc tu te pliais à leurs désirs après avoir reçu la Révélation, nul ne pourrait te soutenir ou te protéger contre Allah."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan demikianlah Kami telah menurunkannya (Al-Qur`an) sebagai peraturan (yang benar) dalam bahasa Arab. Sekiranya engkau mengikuti keinginan mereka setelah datang pengetahuan kepadamu, maka tidak ada yang melindungi dan yang menolong engkau dari (siksaan) Allah."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی جس طرح آپ سے پہلے رسولوں پر کتابیں مقامی زبانوں میں نازل کیں، اسی طرح آپ پر قرآن ہم نے عربی زبان میں اتارا، اس لئے کہ آپ کے مخاطب اولین اہل عرب ہیں، جو صرف عربی زبان ہی جانتے ہیں۔ اگر قرآن کسی اور زبان میں نازل ہوتا تو ان کی سمجھ سے بالا ہوتا اور قبول ہدایت میں ان کے لئے عذر بن جاتا۔ ہم نے قرآن کو عربی میں اتار کر یہ عذر بھی دور کر دیا۔\n[2] اس سے مراد اہل کتاب کی بعض وہ خواہشیں ہیں جو وہ چاہتے تھے کہ پیغمبر آخر الزماں انہیں اختیار کریں۔ مثلاً بیت المقدس کو ہمیشہ کے لئے قبلہ بنائے رکھنا اور ان کے معتقدات کی مخالفت نہ کرنا وغیرہ۔\n[3] اس سے مراد علم ہے جو وحی کے ذریعے سے آپ کو عطا کیا گیا، جس میں اہل کتاب کے معتقدات کی حقیقت بھی آپ پر واضح کر دی گئی۔\n[4] یہ دراصل امت کے اہل علم کو تنبیہ ہے کہ وہ دنیا کے عارضی مفادات کی خاطر قرآن و حدیث کے واضح احکام کے مقابلے میں لوگوں کی خواہشات کے پیچھے نہ لگیں، اگر وہ ایسا کریں گے تو انہیں اللہ کے عذاب سے بچانے والا کوئی نہیں ہوگا۔",
+     "text": "اسی طرح ہم نے اس قرآن کو عربی زبان کا فرمان اتارا ہے[1] ۔ اگر آپ نے ان کی خواہشوں[2] کی پیروی کر لی اس کے بعد کہ آپ کے پاس علم آچکا ہے[3] تو اللہ (کے عذابوں) سے آپ کو کوئی حمایتی ملے گا اور نہ بچانے واﻻ.[4]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我这样把它降示为阿拉伯文的智慧。在知识降临你之后，如果你顺从他们的欲望，那么，你对安拉的〔惩罚〕绝无任何保护者，也绝无任何保卫者。"
+    }
+   }
+  },
+  {
+   "arabic": "وَلَقَدۡ أَرۡسَلۡنَا رُسُلٗا مِّن قَبۡلِكَ وَجَعَلۡنَا لَهُمۡ أَزۡوَٰجٗا وَذُرِّيَّةٗۚ وَمَا كَانَ لِرَسُولٍ أَن يَأۡتِيَ بِـَٔايَةٍ إِلَّا بِإِذۡنِ ٱللَّهِۗ لِكُلِّ أَجَلٖ كِتَابٞ",
+   "aya": 38,
+   "id": 1745,
+   "tafsir": {
+    "arabic_moyassar": "وإذا قالوا: ما لك -أيها الرسول- تتزوج النساء؟ فلقد بعثنا قبلك رسلا من البشر وجعلنا لهم أزواجًا وذرية، وإذا قالوا: لو كان رسولا لأتى بما طلبنا من المعجزات، فليس في وُسْع رسولٍ أن يأتي بمعجزةٍ أرادها قومه إلا بإذن الله. لكل أمر قضاه الله كتاب وأجل قد كتبه الله عنده، لا يتقدم ولا يتأخر."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১০) তারপরেও মুশরিকরা কেন তোমাকে তাদের মতো হতে দেখে আশ্চর্য বোধ করে?",
+     "text": "আর (হে রাসূল!) অবশ্যই তোমার পূর্বে আমি (তোমারই মতো মানুষ থেকে) বহু রাসূল প্রেরণ করেছি এবং (তোমার মত ) তাদেরকে দিয়েছি স্ত্রী ও সন্তান-সন্ততি।(১০) আর কোনো রাসূলের জন্য এটা সম্ভব নয় যে, আল্লাহর অনুমতি ছাড়া কোন নিদর্শন নিয়ে আসবে। প্রত্যেক বিষয়ের ব্যাপারেই নির্ধারিত সময় নির্দিষ্ট কিতাবে লিপিবদ্ধ আছে।"
+    },
+    "en": {
+     "footnotes": "[30] These are the basic human needs, for Messengers are human beings, not angelic beings.",
+     "text": "We have sent messengers before you and gave them wives and offspring[30]. It was not for any messenger to bring a sign except with Allah’s permission. Every matter has a destined time."
+    },
+    "fr": {
+     "footnotes": "[13] Dans le Livre archétype, où sont inscrits les décrets divins, et qui sera justement mentionné au verset suivant.",
+     "text": "Nous avons, avant toi, envoyé des Messagers auxquels Nous avons fait don d’épouses et d’enfants. Il n’appartient aucunement à un Messager de produire un miracle si ce n’est par la volonté d’Allah. A toute chose un terme est fixé[13]."
+    },
+    "id": {
+     "footnotes": "[422] Pada setiap masa ada hukum yang diberlakukan oleh Allah atas hamba-hamba-Nya sesuai dengan garis kebijakan-Nya.",
+     "text": "Dan sungguh, Kami telah mengutus beberapa rasul sebelum engkau (Muhammad) dan Kami berikan kepada mereka istri-istri dan keturunan. Tidak ada hak bagi seorang rasul mendatangkan sesuatu bukti (mukjizat) melainkan dengan izin Allah. Untuk setiap masa ada Kitab (tertentu).[422]"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی آپ سمیت جتنے بھی رسول اور نبی آئے، سب بشر ہی تھے، جن کا اپنا خاندان اور قبیلہ تھا اور بیوی بچے تھے وہ فرشتے تھے نہ انسانی شکل میں کوئی نوری مخلوق بلکہ جنس بشر ہی میں سے تھے کیونکہ اگر وہ فرشتے ہوتے تو انسانوں کے لیے ان سے مانوس ہونا اور ان کے قریب ہونا ناممکن تھا جس سے ان کو بھیجنے کا اصل مقصد ہی فوت ہو جاتا اور اگر وہ فرشتے بشری جامے میں آتے تو دنیا میں نہ ان کا خاندان اور قبیلہ ہوتا اور نہ ان کے بیوی بچے ہوتے جس سے یہ معلوم ہوا کہ تمام انبیاء بحثییت جنس کے بشر ہی تھے بشری شکل میں فرشتے یا کوئی نوری مخلوق نہیں تھے مزکورہ آیت میں ازواجا سے رہبانیت کی تردید اور ذریۃ سے خاندانی منصوبہ بندی کی تردید بھی ہوتی ہے کیونکہ ذریۃ جمع ہے کم از کم تین ہوں گے۔\n[2] یعنی معجزات کا صدور، رسولوں کے اختیار میں نہیں کہ جب ان سے مطالبہ کیا جائے تو وہ صادر کر کے دکھا دیں بلکہ یہ اللہ کے اختیار میں ہے وہ اپنی حکمت و مشیت کے مطابق فیصلہ کرتا ہے کہ معجزے کی ضرورت ہے یا نہیں؟ اگر ہے تو کس طرح اور کب دکھایا جائے۔\n[3] یعنی اللہ نے جس چیز کا وعدہ کیا، اس کا ایک وقت مقرر ہے، اس وقت موعود پر یہ واقع ہو کر رہے گا اس لئے کہ اللہ کا وعدہ خلاف نہیں ہوتا۔اور بعض کہتے ہیں کہ کلام میں تقدیم و تاخیر ہے۔ اصل عبارت ہر وہ امر، جسے اللہ نے لکھ رکھا ہے، اس کا ایک وقت مقرر ہے، یعنی معاملہ، کفار کے ارادے اور منشاء پر نہیں بلکہ صرف اور صرف اللہ کی مشیت پر موقوف ہے۔",
+     "text": "ہم آپ سے پہلے بھی بہت سے رسول بھیج چکے ہیں اور ہم نے ان سب کو بیوی بچوں واﻻ بنایا تھا[1] ، کسی رسول سے نہیں ہو سکتا کہ کوئی نشانی بغیر اللہ کی اجازت کے لے آئے[2]۔ ہر مقرره وعدے کی ایک لکھت ہے.[3]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "在你之前，我确已派遣了许多使者，并赏赐他们妻子和儿女。除非奉安拉的命令，任何使者不能昭示迹象。每个期限，各有判定。"
+    }
+   }
+  },
+  {
+   "arabic": "يَمۡحُواْ ٱللَّهُ مَا يَشَآءُ وَيُثۡبِتُۖ وَعِندَهُۥٓ أُمُّ ٱلۡكِتَٰبِ",
+   "aya": 39,
+   "id": 1746,
+   "tafsir": {
+    "arabic_moyassar": "يمحو الله ما يشاء من الأحكام وغيرها، ويُبْقي ما يشاء منها لحكمة يعلمها، وعنده أمُّ الكتاب، وهو اللوح المحفوظ."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আল্লাহ (কল্যাণ ও অকল্যাণ এবং সৌভাগ্য ও দুর্ভাগ্য ইত্যাদির) যা ইচ্ছা করেন মুছে দেন এবং যা ইচ্ছা করেন স্থির রাখেন। আর তাঁর কাছেই রয়েছে মূল কিতাব (লাওহে মাহফূয)।"
+    },
+    "en": {
+     "footnotes": "[31] Although everything is set in the Record, He decrees whatever He wishes and the angels erase or affirm in the scrolls whatever He dictates.\n [32] The Preserved Tablet.",
+     "text": "Allah eliminates what He wills or affirms it[31], and with Him is the Master Book[32]."
+    },
+    "fr": {
+     "footnotes": "[14] Ou : abroge ou maintient Ses lois.",
+     "text": "Allah infirme ou confirme Ses arrêts[14] comme Il l’entend. Auprès de Lui se trouve le Livre archétype."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Allah menghapus dan menetapkan apa yang Dia kehendaki. Dan di sisi-Nya terdapat Ummul-Kitāb (Lauḥ Maḥfūẓ)."
+    },
+    "ur": {
+     "footnotes": "[1] اس کے ایک معنی تو یہ ہیں وہ جس حکم کو چاہے منسوخ کردے اور جسے چاہے باقی رکھے۔ دوسرے معنی یہ ہیں اس نے جو تقدیر لکھ رکھی ہے، اس میں محو و اثبات کرتا رہتا ہے، اس کے پاس لوح محفوط ہے۔ اس کی تائید بعض احادیث و آثار سے ہوتی ہے۔ مثلاً ایک حدیث میں آتا ہے کہ ”آدمی گناہوں کی وجہ سے رزق سے محروم کر دیا جاتا ہے، دعا سے تقدیر بدل جاتی ہے اور صلہ رحمی سے عمر میں اضافہ ہوتا ہے“ (مسند احمد جلد۔5 ص۔277) بعض صحابہ سے یہ دعا منقول ہے «اللَّهُمَّ إِنْ كُنْتَ كَتَبْتَنَا أَشْقِيَاءَ فَامْحُنَا وَاكْتُبْنَا سُعَدَاءَ، وَإِنْ كُنْتَ كَتَبْتَنَا سُعَدَاءَ فَأَثْبِتْنَا، فَإِنَّكَ تَمْحُو مَا تَشَاءُ وَتُثْبِتُ وَعِنْدَكَ أُمُّ الْكِتَابِ» حضرت عمر (رضي الله عنه) سے منقول ہے کہ وہ دوران طواف روتے ہوئے یہ دعا پڑھتے ـ«اللَّهُمَّ إِنْ كُنْتَ كَتَبْتَ عَلَيّ شِقْوَةً أَوْ ذَنْبًا فَامْحُهُ، فَإِنَّكَ تَمْحُو مَا تَشَاءُ وَتُثْبِتُ وَعِنْدَكَ أُمُّ الْكِتَابِ فَاجْعَلْهُ سَعَادَةً وَمَغْفِرَةً»۔( ابن کثیر)۔ ”اے اللہ اگر تو نے مجھ پر بدبختی اور گناہ لکھا ہے تو اسے مٹا دے، اس لئے کہ تو جو چاہے مٹائے اور جو چاہے باقی رکھے، تیرے پاس ہی لوح محفوظ ہے، پس تو بدبختی کو سعادت اور مغفرت سے بدل دے“۔ اس مفہوم پر یہ اعتراض ہو سکتا ہے کہ حدیث میں تو آتا ہے «جَفَّ الْقَلَمُ بِمَا هُوَ كَائِنٌ»۔ (صحیح بخاری نمبر 5076)۔ ”جو کچھ ہونے والا ہے قلم اسے لکھ کر خشک ہو چکا ہے“ اس کا جواب یہ دیا گیا کہ یہ محو واثبات بھی منجملہ قضاء وتقدیر ہی کے ہے۔( فتح القدیر)۔",
+     "text": "اللہ جو چاہے مٹا دے اور جو چاہے ﺛابت رکھے، لوح محفوظ اسی کے پاس ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "安拉任意勾销和确定〔经典的明文〕，在他那里有天经的原本。"
+    }
+   }
+  },
+  {
+   "arabic": "وَإِن مَّا نُرِيَنَّكَ بَعۡضَ ٱلَّذِي نَعِدُهُمۡ أَوۡ نَتَوَفَّيَنَّكَ فَإِنَّمَا عَلَيۡكَ ٱلۡبَلَٰغُ وَعَلَيۡنَا ٱلۡحِسَابُ",
+   "aya": 40,
+   "id": 1747,
+   "tafsir": {
+    "arabic_moyassar": "وإن أريناك -أيها الرسول- بعض العقاب الذي توعَّدْنا به أعداءك من الخزي والنَّكال في الدنيا فذلك المعجَّل لهم، وإن توفيناك قبل أن ترى ذلك، فما عليك إلا تبليغ الدعوة، وعلينا الحساب والجزاء."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর (হে নবী!) আমি তাদেরকে যে শাস্তির প্রতিশ্রুতি দিচ্ছি, তার কিছু যদি আমি তোমাকে (তোমার মৃত্যুর আগেই) দেখাই অথবা এর আগে যদি তোমার মৃত্যু ঘটাই (সেটা আমারই ব্যাপার)। তোমার কর্তব্য শুধু (দীনের দাওয়াত) প্রচার করা, আর আমার দায়িত্ব হিসাব-নিকাশ নেওয়া।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Whether We show you [O Prophet] part of what We warn them or cause you to die [before that], your duty is only to convey the message, and the reckoning is for Us."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Que Nous leur infligions, de ton vivant, une partie du châtiment dont Nous les menaçons ou que Nous reprenions ton âme avant cela, tu es uniquement chargé de transmettre Notre message et c’est à Nous de leur demander des comptes."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan sungguh jika Kami perlihatkan kepadamu (Muhammad) sebagian (siksaan) yang Kami ancamkan kepada mereka atau Kami wafatkan engkau, maka sesungguhnya tugasmu hanya menyampaikan saja, dan Kamilah yang memperhitungkan (amal mereka)."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "ان سے کیے ہوئے وعدوں میں سے کوئی اگر ہم آپ کو دکھا دیں یا آپ کو ہم فوت کر لیں تو آپ پر تو صرف پہنچا دینا ہی ہے۔ حساب تو ہمارے ذمہ ہی ہے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "如果我把我用来恫吓他们的刑罚昭示你一点，或我使你寿终，那么，你只负传达的责任，我自负清算的责任。"
+    }
+   }
+  },
+  {
+   "arabic": "أَوَلَمۡ يَرَوۡاْ أَنَّا نَأۡتِي ٱلۡأَرۡضَ نَنقُصُهَا مِنۡ أَطۡرَافِهَاۚ وَٱللَّهُ يَحۡكُمُ لَا مُعَقِّبَ لِحُكۡمِهِۦۚ وَهُوَ سَرِيعُ ٱلۡحِسَابِ",
+   "aya": 41,
+   "id": 1748,
+   "tafsir": {
+    "arabic_moyassar": "أو لم يبصر هؤلاء الكفار أنا نأتي الأرض ننقصها من أطرافها، وذلك بفتح المسلمين بلاد المشركين وإلحاقها ببلاد المسلمين؟ والله سبحانه يحكم لا معقِّب لحكمه وقضائه، وهو سريع الحساب، فلا يستعجلوا بالعذاب; فإن كل آت قريب."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১১) অর্থাৎ আল্লাহ কুফরীর এলাকাগুলোকে ইসলাম প্রচার ও মুসলিম কর্তৃক সেটির বিজয়ের মাধ্যমে চতুর্দিক থেকে সংকুচিত করে এনেছেন।",
+     "text": "তারা (এ কাফিররা) কি দেখে না, আমি (তাদের জন্য ) জমিনকে চতুর্দিক থেকে সংকীর্ণ করে এনেছি।(১১) আর (বান্দাদের মাঝে) বিচার-ফায়সালা করেন আল্লাহই এবং তাঁর হুকুম প্রত্যাখ্যান করার কেউ নেই। আর তিনিই দ্রুত হিসাব গ্রহণকারী।"
+    },
+    "en": {
+     "footnotes": "[33] Referring to the spread of Islam by diminishing the lands controlled by the disbelievers.",
+     "text": "Do they not see that We advance to the land, diminishing it from its sides[33]? It is Allah Who decrees; there is none to reverse His decree, and He is swift in reckoning."
+    },
+    "fr": {
+     "footnotes": "[15] Par les conquêtes musulmanes, selon la majorité des exégètes musulmans.",
+     "text": "Les mécréants ne voient-ils pas que Nous reculons inéluctablement les limites de leur territoire[15] ? Allah prononce souverainement Ses arrêts, qui sont sans appel, et Il est prompt dans Ses comptes."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan apakah mereka tidak melihat bahwa Kami mendatangi daerah-daerah (orang yang ingkar kepada Allah), lalu Kami kurangi (daerah-daerah) itu (sedikit demi sedikit) dari tepi-tepinya? Dan Allah menetapkan hukum (menurut kehendak-Nya), tidak ada yang dapat menolak ketetapan-Nya; Dia Mahacepat perhitungan-Nya."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی عرب کی سرزمین مشرکین پر بتدریج تنگ ہو رہی ہے اور اسلام کو غلبہ عروج حاصل ہو رہا ہے۔\n[2] یعنی کوئی اللہ کے حکموں کو رد نہیں کر سکتا۔",
+     "text": "کیا وه نہیں دیکھتے؟ کہ ہم زمین کو اس کے کناروں سے گھٹاتے چلے آرہے ہیں[1] ، اللہ حکم کرتا ہے کوئی اس کے احکام پیچھے ڈالنے واﻻ نہیں[2]، وه جلد حساب لینے واﻻ ہے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "难道他们不知道吗？我到他们的地方来缩小他们的边境。安拉自由判决，任何人不能反抗其判决。他是清算神速的。"
+    }
+   }
+  },
+  {
+   "arabic": "وَقَدۡ مَكَرَ ٱلَّذِينَ مِن قَبۡلِهِمۡ فَلِلَّهِ ٱلۡمَكۡرُ جَمِيعٗاۖ يَعۡلَمُ مَا تَكۡسِبُ كُلُّ نَفۡسٖۗ وَسَيَعۡلَمُ ٱلۡكُفَّٰرُ لِمَنۡ عُقۡبَى ٱلدَّارِ",
+   "aya": 42,
+   "id": 1749,
+   "tafsir": {
+    "arabic_moyassar": "ولقد دبَّر الذين من قبلهم المكايد لرسلهم، كما فعل هؤلاء معك، فلله المكر جميعًا، فيبطل مكرهم، ويعيده عليهم بالخيبة والندم، يعلم سبحانه ما تكسب كل نفس من خير أو شر فتجازى عليه. وسيعلم الكفار -إذا قدموا على ربهم- لمن تكون العاقبة المحمودة بعد هذه الدنيا؟ إنها لأتباع الرسل. وفي هذا تهديد ووعيد للكافرين."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১২) তিনি সে অনুযায়ী তাদের প্রতিদান দিবেন।",
+     "text": "আর তাদের পূর্ববর্তীরাও (নবীদেরকে ধোঁকা দিয়েছিল ও তাদের বিরুদ্ধে) ষড়যন্ত্র করেছিল; অথচ সকল কৌশলই আল্লাহর নিয়ন্ত্রণে। প্রতিটি ব্যক্তি যা অর্জন করে, তিনি তা জানেন।(১২) আর কাফিররা শীঘ্রই জানবে আখিরাতের শুভ পরিণতি (জান্নাত) কাদের জন্য।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Those who came before them did devise plans, but Allah has the ultimate plan. He knows what every soul does, and the disbelievers will come to know who will have the final abode."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Les peuples du passé se sont livrés aux pires manœuvres contre leurs Messagers, qui toutes sont restées sans effet. Car seule est exécutée la volonté d’Allah qui sait ce que chaque être entreprend. Les mécréants sauront à qui est réservée une fin heureuse."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan sungguh orang sebelum mereka (kafir Mekkah) telah mengadakan tipu daya, tetapi semua tipu daya itu dalam kekuasaan Allah. Dia mengetahui apa yang diusahakan oleh setiap orang, dan orang yang ingkar kepada Tuhan akan mengetahui untuk siapa tempat kesudahan (yang baik)."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی مشرکین مکہ سے قبل بھی لوگ رسولوں کے مقابلے میں مکر کرتے رہے ہیں، لیکن اللہ کی تدبیر کے مقابلے میں ان کی کوئی تدبیر اور حیلہ کارگر نہیں ہوا، اسی طرح آئندہ بھی ان کا کوئی مکر اللہ کی مشیت کے سامنے نہیں ٹھر سکے گا۔\n[2] وہ اس کے مطابق جزا اور سزا دے گا، نیک کو اس کی نیکی کی جزا اور بد کو اس کی بد کی سزا ۔",
+     "text": "ان سے پہلے لوگوں نے بھی اپنی مکاری میں کمی نہ کی تھی[1] ، لیکن تمام تدبیریں اللہ ہی کی ہیں، جو شخص جو کچھ کر رہا ہے اللہ کے علم میں ہے[2]۔عنقريب کافروں کو معلوم ہو جائے گا کہ (اس) جہان کی جزا کس کے لئے ہے؟"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "在他们之前的人，确已使用计谋，但一切计谋，只归安拉，他知道每个人的谋求。不归信者将要知道，后世的善果将归谁所有。"
+    }
+   }
+  },
+  {
+   "arabic": "وَيَقُولُ ٱلَّذِينَ كَفَرُواْ لَسۡتَ مُرۡسَلٗاۚ قُلۡ كَفَىٰ بِٱللَّهِ شَهِيدَۢا بَيۡنِي وَبَيۡنَكُمۡ وَمَنۡ عِندَهُۥ عِلۡمُ ٱلۡكِتَٰبِ",
+   "aya": 43,
+   "id": 1750,
+   "tafsir": {
+    "arabic_moyassar": "ويقول الذين كفروا لنبي الله: -يا محمد- ما أرسلك الله، قل لهم: كفى بالله شهيدًا بصدقي وكذبكم، وكَفَتْ شهادة مَن عنده علم الكتاب من اليهود والنصارى ممن آمن برسالتي، وما جئتُ به من عند الله، واتبع الحق فصرَّح بتلك الشهادة، ولم يكتمها."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর কাফিররা বলে: ‘(হে মুহাম্মাদ!) তুমি রাসূল নও।’ (হে রাসূল! তুমি তাদেরকে) বলো: ‘(আমার রাসূল হিসেবে প্রেরিত হওয়ার ব্যাপারে) আল্লাহ এবং যাদের কাছে (পূর্ববর্তী আসমানী) কিতাবের জ্ঞান আছে, তারা আমার ও তোমাদের মধ্যে সাক্ষী হিসেবে যথেষ্ট।"
+    },
+    "en": {
+     "footnotes": "[34] As he is clearly mentioned in their Scripture.",
+     "text": "Those who disbelieve say, “You are not a messenger.” Say, “Allah is sufficient as a Witness between me and you, as well as those who have knowledge of the Scripture[34].”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Ceux qui ont rejeté la foi affirment que tu n’es pas envoyé par Allah. Réponds-leur : « Allah suffit pour témoigner de ma sincérité et de vos mensonges, de même que ceux qui ont la connaissance des Ecritures. »"
+    },
+    "id": {
+     "footnotes": "[423] Ulama-ulama Ahli Kitab yang memeluk Islam.",
+     "text": "Dan orang-orang kafir berkata, \"Engkau (Muhammad) bukanlah seorang Rasul.\" Katakanlah, \"Cukuplah Allah dan orang yang menguasai ilmu Al-Kitab[423] menjadi saksi antara aku dan kamu.\""
+    },
+    "ur": {
+     "footnotes": "[1] پس وہ جانتا ہے کہ میں اس کا سچا رسول اور اس کے پیغام کا داعی ہوں اور تم جھوٹے ہو۔\n[2] کتاب سے مراد جنس کتاب ہے اور مراد تورات اور انجیل کا علم ہے۔ یعنی اہل کتاب میں سے وہ لوگ جو مسلمان ہوگئے ہیں، جیسے عبد اللہ بن اسلام، سلمان فارسی اور تمیم داری وغیرہم (رضي الله عنه) م یعنی یہ بھی جانتے ہیں کہ میں اللہ کا رسول ہوں۔ عرب کے مشرکین اہم معاملات میں اہل کتاب کی طرف رجوع کرتے اور ان سے پوچھتے تھے، اللہ تعالٰی نے ان کی رہنمائی فرمائی کہ اہل کتاب جانتے ہیں، ان سے تم پوچھ لو۔ بعض کہتے ہیں کہ کتاب سے مراد قرآن ہے اور حاملین علم کتاب، مسلمان ہیں۔ اور بعض نے کتاب سے مراد لوح محفوظ لی ہے۔ یعنی جس کے پاس لوح محفوظ کا علم ہے یعنی اللہ تبارک و تعالیٰ، مگر پہلا مفہوم زیادہ درست ہے۔",
+     "text": "یہ کافر کہتے ہیں کہ آپ اللہ کے رسول نہیں۔ آپ جواب دیجئے کہ مجھ میں اور تم میں اللہ گواہی دینے واﻻ کافی ہے[1] اور وه جس کے پاس کتاب کا علم ہے.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "不归信的人们说：“你不是使者。”你说：“安拉足以为我和你们之间的见证，认识天经的人也足以为我和你们之间的见证。”"
+    }
+   }
+  }
+ ],
+ "content_sha256": "sha256:1791d64fa281f526329d6f4ada6bb8ddf653fb6fe1817c6ab10f19eb63fefb36",
+ "name_ar": "الرعد",
+ "number": 13,
+ "schema": "balligh.library.quran.surah/1"
+}

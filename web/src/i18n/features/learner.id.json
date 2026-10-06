@@ -1,0 +1,7 @@
+{
+  "prevCard": "Kartu sebelumnya",
+  "nextCard": "Kartu berikutnya",
+  "cardOf": "Kartu {{n}} dari {{total}}",
+  "cards": "Kartu pelajaran",
+  "fromSource": "Dari sumber"
+}

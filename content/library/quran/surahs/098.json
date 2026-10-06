@@ -1,0 +1,281 @@
+{
+ "ayah_count": 8,
+ "ayahs": [
+  {
+   "arabic": "لَمۡ يَكُنِ ٱلَّذِينَ كَفَرُواْ مِنۡ أَهۡلِ ٱلۡكِتَٰبِ وَٱلۡمُشۡرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأۡتِيَهُمُ ٱلۡبَيِّنَةُ",
+   "aya": 1,
+   "id": 6131,
+   "tafsir": {
+    "arabic_moyassar": "لم يكن الذين كفروا من اليهود والنصارى والمشركين تاركين كفرهم حتى تأتيهم العلامة التي وُعِدوا بها في الكتب السابقة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আহলে কিতাব ও মুশরিকদের মধ্যে যারা কুফরী করেছে, তাদের কাছে সুস্পষ্ট দলিল-প্রমাণ না আসা পর্যন্ত তারা কিছুতেই সে কুফরী থেকে ফিরে আসতো না।"
+    },
+    "en": {
+     "footnotes": "[1] i.e., and from deviant ways.",
+     "text": "Those who disbelieve from the People of the Book and the polytheists were not going to desist [from disbelief][1] until there came to them clear proof,"
+    },
+    "fr": {
+     "footnotes": "[1] Selon leurs prétentions, précisent certains commentateurs.",
+     "text": "Les mécréants, parmi les gens du Livre et les idolâtres, ne pouvaient[1] renoncer à leurs croyances avant d’avoir reçu une preuve d’une grande clarté :"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Orang-orang yang kafir dari golongan Ahli Kitab dan orang-orang musyrik tidak akan meninggalkan (agama mereka) sampai datang kepada mereka bukti yang nyata,"
+    },
+    "ur": {
+     "footnotes": "[1] اس سے مراد یہود ونصاریٰ ہیں۔\n[2] مشرک سے مراد عرب وعجم کے وہ لوگ ہیں جو بتوں اور آگ کے پجاری تھے۔ مُنْفَكِّينَ باز آنے والے، بَيِّنَةٌ ( دلیل ) سے مراد نبی کریم (صلى الله عليه وسلم) ہیں۔ یعنی یہود ونصاریٰ اور عرب وعجم کے مشرکین اپنے کفر وشرک سے باز آنے والے نہیں ہیں یہاں تک کہ ان کے پاس محمد (صلى الله عليه وسلم) قرآن لے کر آجائیں اور وہ ان کی ضلالت وجہالت بیان کریں اور انہیں ایمان کی دعوت دیں۔",
+     "text": "اہل کتاب کے کافر[1] اور مشرک[2] لوگ جب تک کہ ان کے پاس ظاہر دلیل نہ آجائے باز رہنے والے نہ تھے (وه دلیل یہ تھی کہ)."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "有经典的人和以物配主的人们中不归信的人没有离开〔自己原有的信仰〕，直到明证来临他们。"
+    }
+   }
+  },
+  {
+   "arabic": "رَسُولٞ مِّنَ ٱللَّهِ يَتۡلُواْ صُحُفٗا مُّطَهَّرَةٗ",
+   "aya": 2,
+   "id": 6132,
+   "tafsir": {
+    "arabic_moyassar": "وهي رسول الله محمد صلى الله عليه وسلم، يتلو قرآنًا في صحف مطهرة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "(এ সুস্পষ্ট দলীল ও প্রমাণ হলো) আল্লাহর পক্ষ থেকে একজন রাসূল (মুহাম্মাদ), যে পবিত্র কিতাবসমূহ তিলাওয়াত করে শোনায়।"
+    },
+    "en": {
+     "footnotes": "[2] i.e., that contains no falsehood.",
+     "text": "a messenger from Allah, reciting pure pages[2]"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "l’avènement d’un Messager envoyé par Allah leur récitant des feuillets d’une grande pureté,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(yaitu) seorang Rasul dari Allah (Muhammad) yang membacakan lembaran-lembaran yang suci (Al-Qur`an),"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی حضرت محمد (صلى الله عليه وسلم) ۔\n[2] یعنی قرآن مجید جو لوح محفوظ میں پاک صحیفوں میں درج ہے۔",
+     "text": "اللہ تعالیٰ کا ایک رسول[1] جو پاک صحیفے پڑھے.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "〔那个明证是〕安拉所派遣的一个使者，他诵读纯洁的册页，"
+    }
+   }
+  },
+  {
+   "arabic": "فِيهَا كُتُبٞ قَيِّمَةٞ",
+   "aya": 3,
+   "id": 6133,
+   "tafsir": {
+    "arabic_moyassar": "في تلك الصحف أخبار صادقة وأوامر عادلة، تهدي إلى الحق وإلى صراط مستقيم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "যাতে (লিপিবদ্ধ) আছে সুদৃঢ়-সঠিক বিধানসমূহ।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "containing upright commandments."
+    },
+    "fr": {
+     "footnotes": "[2] Or, ils n’ont pas renoncé à leur impiété, malgré l’avènement de ce Messager annoncé par leurs Ecritures.",
+     "text": "renfermant des enseignements d’une parfaite justice, d’une infinie sagesse et d’une indéniable authenticité[2]."
+    },
+    "id": {
+     "footnotes": "[920] Isi kitab-kitab yang diturunkan kepada nabi-nabi seperti Taurat, Zabur dan Injil yang murni.",
+     "text": "di dalamnya terdapat (isi) kitab-kitab yang lurus (benar).[920]"
+    },
+    "ur": {
+     "footnotes": "[1] یہاں كُتُبٌ سے مراد احکام دینیہ اور قَيِّمَةٌ، معتدل اورسیدھے۔",
+     "text": "جن میں صحیح اور درست احکام ہوں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "其中有许多端正的经文。"
+    }
+   }
+  },
+  {
+   "arabic": "وَمَا تَفَرَّقَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ إِلَّا مِنۢ بَعۡدِ مَا جَآءَتۡهُمُ ٱلۡبَيِّنَةُ",
+   "aya": 4,
+   "id": 6134,
+   "tafsir": {
+    "arabic_moyassar": "وما اختلف الذين أوتوا الكتاب من اليهود والنصارى في كون محمد صلى الله عليه وسلم رسولا حقًا؛ لما يجدونه من نعته في كتابهم، إلا مِن بعد ما تبينوا أنه النبي الذي وُعِدوا به في التوراة والإنجيل، فكانوا مجتمعين على صحة نبوته، فلما بُعِث تفرقوا: فمنهم من آمن به، ومنهم من جحد نبوته بغياً وحسداً."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১) তাওরাত ও ইঞ্জীল।\n (২) রাসূল ও আল-কুরআন।",
+     "text": "আর যাদেরকে (১) কিতাব দেয়া হয়েছিল তারা তো তাদের কাছে সুস্পষ্ট প্রমাণ (২) আসার পরই মতানৈক্যে জড়িয়ে পড়েছে।"
+    },
+    "en": {
+     "footnotes": "[3] Into different sects and denominations.",
+     "text": "Yet those who were given the Scripture did not disagree[3] except after the clear proof came to them,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Or, ceux qui ont reçu les Ecritures ne se sont divisés qu’après avoir reçu une preuve d’une grande clarté,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan tidaklah terpecah belah orang-orang Ahli Kitab melainkan setelah datang kepada mereka bukti yang nyata."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی اہل کتاب، حضرت نبی کریم (صلى الله عليه وسلم) کی آمد سے قبل مجتمع تھے، یہاں تک کہ آپ (صلى الله عليه وسلم) کی بعثت ہوگئی، اس کے بعد یہ متفرق ہوگئے، ان میں سے کچھ مومن ہوگئے، لیکن اکثریت ایمان سے محروم ہی رہی۔ نبی (صلى الله عليه وسلم) کی بعثت ورسالت کو دلیل سے تعبیر کرنے میں یہی نکتہ ہے کہ آپ (صلى الله عليه وسلم) کی صداقت واضح تھی جس میں مجال انکار نہیں تھی۔ لیکن ان لوگوں نے آپ (صلى الله عليه وسلم) کی تکذیب محض حسد اور عناد کی وجہ سے کی۔ یہی وجہ ہے کہ، یہاں تفرق کا ارتکاب کرنے والوں میں صرف اہل کتاب کا نام لیا ہے، حالاں کہ دوسروں نے بھی اس کا ارتکاب کیا تھا، کیوں کہ یہ بہرحال علم والے تھے اور آپ (صلى الله عليه وسلم) کی آمد اور صفات کا تذکرہ ان کی کتابوں میں موجود تھا۔",
+     "text": "اہل کتاب اپنے پاس ظاہر دلیل آجانے کے بعد ہی (اختلاف میں پڑ کر) متفرق ہوگئے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "信奉天经者，没有分离，直到明证来临他们。"
+    }
+   }
+  },
+  {
+   "arabic": "وَمَآ أُمِرُوٓاْ إِلَّا لِيَعۡبُدُواْ ٱللَّهَ مُخۡلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُواْ ٱلصَّلَوٰةَ وَيُؤۡتُواْ ٱلزَّكَوٰةَۚ وَذَٰلِكَ دِينُ ٱلۡقَيِّمَةِ",
+   "aya": 5,
+   "id": 6135,
+   "tafsir": {
+    "arabic_moyassar": "وما أمروا في سائر الشرائع إلا ليعبدوا الله وحده قاصدين بعبادتهم وجهه، مائلين عن الشرك إلى الإيمان، ويقيموا الصلاة، ويُؤَدُّوا الزكاة، وذلك هو دين الاستقامة، وهو الإسلام."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১) অর্থাৎ শিরক থেকে বিরত থাকে।",
+     "text": "অথচ তাদেরকে কেবল (আল-কুরআনে) এই নির্দেশ দেয়া হয়েছিল যে, তারা যেন আল্লাহর ‘ইবাদাত করে তাঁরই জন্য দ্বীনকে একনিষ্ঠ করে, সালাত কায়িম করে এবং যাকাত দেয়। আর এটিই হলো সঠিক দ্বীন।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "although they were commanded only to worship Allah with sincere devotion to Him, being inclined to the true faith, and to establish prayer and give zakah; that is the true religion."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "un livre leur ordonnant simplement d’adorer Allah en Lui vouant un culte exclusif et sincère, d’accomplir la prière et de faire la charité, professant ainsi la religion de vérité."
+    },
+    "id": {
+     "footnotes": "[921] Lurus, berarti jauh dari syirik dan jauh dari kesesatan.",
+     "text": "Padahal mereka hanya diperintah menyembah Allah dengan ikhlas menaati-Nya semata-mata karena (menjalankan) agama, dan juga agar melaksanakan salat dan menunaikan zakat; dan yang demikian itulah agama yang lurus (benar).[921]"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی ان کی کتابوں میں انہیں حکم تو یہ دیا گیا تھا کہ۔۔۔\n[2] حَنِيفٌ کے معنی ہیں، مائل ہونا، کسی ایک طرف یکسو ہونا، حُنَفَاءَ جمع ہے۔ یعنی شرک سے توحید کی طرف اور تمام ادیان سے منقطع ہو کر صرف دین اسلام کی طرف مائل اور یکسو ہوتے ہوئے۔ جیسے حضرت ابراہیم (عليه السلام) نے کیا۔\n[3] الْقَيِّمَةُ محذوف موصوف کی صفت ہے۔ دِينُ الْمِلَّةِ الْقَيِّمَةِ أَيْ: الْمُسْتَقِيمَةِ یا الأُمَّةُ الْمُسْتَقِيمَةُ الْمُعْتَدِلَةُ، یہی اس ملت یا امت کا دین ہے جو سیدھی اور متعدل ہے۔ اکثر ائمہ نے اس آیت سے اس بات پر استدلال کیا ہے کہ اعمال، ایمان میں داخل ہیں۔ (ابن کثیر) ۔",
+     "text": "انہیں اس کے سوا کوئی حکم نہیں دیا گیا[1] کہ صرف اللہ کی عبادت کریں اسی کے لئے دین کو خالص رکھیں۔ ابراہیم حنیف[2] کے دین پر اور نماز کو قائم رکھیں اور زکوٰة دیتے رہیں یہی ہے دین سیدھی ملت کا.[3]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们只奉命崇拜安拉，虔诚敬意，恪遵正教，谨守拜功，完纳天课，这是正教。"
+    }
+   }
+  },
+  {
+   "arabic": "إِنَّ ٱلَّذِينَ كَفَرُواْ مِنۡ أَهۡلِ ٱلۡكِتَٰبِ وَٱلۡمُشۡرِكِينَ فِي نَارِ جَهَنَّمَ خَٰلِدِينَ فِيهَآۚ أُوْلَٰٓئِكَ هُمۡ شَرُّ ٱلۡبَرِيَّةِ",
+   "aya": 6,
+   "id": 6136,
+   "tafsir": {
+    "arabic_moyassar": "إن الذين كفروا من اليهود والنصارى والمشركين عقابهم نار جهنم خالدين فيها، أولئك هم أشد الخليقة شرا."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "নিশ্চয় আহলে কিতাব ও মুশরিকদের মধ্যে যারা কুফরী করেছে, তারা জাহান্নামের আগুনে চিরস্থায়ীভাবে থাকবে। তারাই হলো নিকৃষ্ট সৃষ্টি।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Those who disbelieve from the People of the Book and the polytheists will be in the fire of Hell, abiding therein forever. It is they who are the worst of creatures."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Les mécréants, parmi les gens du Livre et les idolâtres, sont donc voués au feu de la Géhenne où ils demeureront pour l’éternité. Voilà les êtres les plus abjects de l’humanité."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sungguh, orang-orang yang kafir dari golongan Ahli Kitab dan orang-orang musyrik (akan masuk) ke neraka Jahanam; mereka kekal di dalamnya selama-lamanya. Mereka itu adalah sejahat-jahat makhluk."
+    },
+    "ur": {
+     "footnotes": "[1] یہ اللہ کے رسولوں اور اس کی کتابون کا انکار کرنے والوں کا انجام ہے۔ نیز انہیں تمام مخلوقات میں بدترین قرار دیا گیا۔",
+     "text": "بیشک جو لوگ اہل کتاب میں کافر ہوئے اور مشرکین سب دوزخ کی آگ میں (جائیں گے) جہاں وه ہمیشہ (ہمیشہ) رہیں گے۔ یہ لوگ بدترین خلائق ہیں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "有经典的人和以物配主者，他们中不归信的人，必入火狱，而永居其中。这等人，他们是最恶的人。"
+    }
+   }
+  },
+  {
+   "arabic": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ أُوْلَٰٓئِكَ هُمۡ خَيۡرُ ٱلۡبَرِيَّةِ",
+   "aya": 7,
+   "id": 6137,
+   "tafsir": {
+    "arabic_moyassar": "إن الذين صَدَّقوا الله واتبعوا رسوله وعملوا الصالحات، أولئك هم خير الخلق."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "(পক্ষান্তরে) নিশ্চয় যারা ঈমান এনেছে ও সৎকাজ করেছে তারাই সৃষ্টির সর্বোৎকৃষ্ট।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "As for those who believe and do righteous deeds – it is they who are the best of creatures."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Quant à ceux qui croient et accomplissent de bonnes œuvres, ce sont les êtres les plus nobles de l’humanité."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sungguh, orang-orang yang beriman dan mengerjakan kebajikan, mereka itulah sebaik-baik makhluk."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی جو دل کے ساتھ ایمان لائے اور جنہوں نے اعضا کے ساتھ عمل کیے، وہ تمام مخلوقات سے بہتر اور افضل ہیں۔ جو اہل علم اس بات کے قائل ہیں کہ مومن بندے ملائکہ سے شرف وفضل میں بہترین ہیں ۔ ان کی ایک دلیل یہ آیت بھی ہے۔ الْبَرِيَّةُ، بَرَأَ ( خلق) سے ہے۔ اسی سے اللہ کی صفت البارئ ہے۔ اس لئے بَرِيَّةٌ، اصل میں بَرِيئَةٌ ہے،ہمزہ کو یا سے بدل کر یا کایا میں ادغام کردیاگیا۔",
+     "text": "بیشک جو لوگ ایمان ﻻئےاور نیک عمل کیے یہ لوگ بہترین خلائق ہیں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "归信而行善的人，这等人，他们是最善的人，"
+    }
+   }
+  },
+  {
+   "arabic": "جَزَآؤُهُمۡ عِندَ رَبِّهِمۡ جَنَّٰتُ عَدۡنٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدٗاۖ رَّضِيَ ٱللَّهُ عَنۡهُمۡ وَرَضُواْ عَنۡهُۚ ذَٰلِكَ لِمَنۡ خَشِيَ رَبَّهُۥ",
+   "aya": 8,
+   "id": 6138,
+   "tafsir": {
+    "arabic_moyassar": "جزاؤهم عند ربهم يوم القيامة جنات إقامة واستقرار في منتهى الحسن، تجري من تحت قصورها الأنهار، خالدين فيها أبدًا، رضي الله عنهم فقبل أعمالهم الصالحة، ورضوا عنه بما أعدَّ لهم من أنواع الكرامات، ذلك الجزاء الحسن لمن خاف الله واجتنب معاصيه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তাদের রবের কাছে তাদের পুরস্কার হলো চিরস্থায়ী জান্নাত, যার পাদদেশে ঝর্ণাধারা প্রবাহিত থাকবে, সেখানে তারা থাকবে চিরস্থায়ীভাবে। আল্লাহ তাদের ওপর সন্তুষ্ট হয়েছেন এবং তারাও আল্লাহর ওপর সন্তুষ্ট হয়েছে। এটি তার জন্য, যে স্বীয় রবকে ভয় করে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Their reward with their Lord is Gardens of Eternity under which rivers flow, abiding therein forever. Allah is pleased with them and they are pleased with Him. This is for those who fear their Lord."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "En récompense de leur foi, ils seront admis auprès de leur Seigneur dans les jardins d’Eden traversés de rivières, entièrement satisfaits d’Allah qui sera Lui-même satisfait d’eux. Voilà comment ceux qui craignent leur Seigneur seront récompensés pour l’éternité."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Balasan mereka di sisi Tuhan mereka ialah surga 'Adn yang mengalir di bawahnya sungai-sungai; mereka kekal di dalamnya selama-lamanya. Allah rida terhadap mereka dan mereka pun rida kepada-Nya. Yang demikian itu adalah (balasan) bagi orang yang takut kepada Tuhannya."
+    },
+    "ur": {
+     "footnotes": "[1] ان کے ایمان اور طاعت اور اعمال صالحہ کے سبب۔ اور اللہ کی رضا مندی سب سے بڑی چیز ہے۔ «وَرِضْوَانٌ مِنَ اللَّهِ أَكْبَرُ» (التوبة:72) ۔\n[2] اس لئے کہ اللہ نے انہیں ایسی نعمتوں سے نواز دیا، جن میں ان کی روح اور بدن دونوں کی سعادتیں ہیں۔\n[3] یعنی یہ جززا اور اضا مندی ان لوگوں کے لئے ہے جو دنیا میں اللہ سے درتے رہے اور اس ڈر کی وجہ سے اللہ کینافرمانی کے ارتکاب سے بچتے رہے ۔اگر کسی وقت بہ تقا ضائےشریعت نا فرمانی ہو گئی تو فور توبہ کر لی اور آئندہ کے لئےاپنی اصلاحکر لی ،حتیٰ کہ ان کی موت اسی اطاعت پر ہوئی نہ کہ مصیبت پر ،اس کا مطلب ہے کہ اللہ سے ڈرنے والا مصیبت پر اصرار اور دوام نیئں کر سکتا اور جو ایسا کرتا ہے ، حقیقت میں اس کا دل اللہ ک خوف سے خالی ہے",
+     "text": "ان کا بدلہ ان کے رب کے پاس ہمیشگی والی جنتیں ہیں جن کے نیچے نہریں بہہ رہی ہیں جن میں وه ہمیشہ ہمیشہ رہیں گے۔ اللہ تعالیٰ ان سے راضی ہوا[1] اور یہ اس سے راضی ہوئے[2]۔ یہ ہے اس کے لئے جو اپنے پروردگار سے ڈرے.[3]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们在他们的养主那里的报酬是下临诸河的常住的乐园，他们将永居其中，安拉喜悦他们，他们也喜悦他。这是畏惧他的养主的人所有的。"
+    }
+   }
+  }
+ ],
+ "content_sha256": "sha256:b50ec10148731a60adfc385f9694318b851b2cd67e86926e02f49cb83aca92bf",
+ "name_ar": "البينة",
+ "number": 98,
+ "schema": "balligh.library.quran.surah/1"
+}

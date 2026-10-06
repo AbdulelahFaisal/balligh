@@ -1,0 +1,182 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:253140a27fbdae486684c5fb20f8b072386c624bfd9005aa60ea509b1fad73c3",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "أَخْبَرَ النبيُّ صلى الله عليه وسلم أنه ما مِن نبيٍّ بعثَه الله في أمة قَبلَه إلا كان له مِن أمته أصفياء وأنصار ومجاهدون مخلصون، يَصْلحون للخِلافة بعده؛ يأخذون بِسنّته، ويقتدون بأمره، ثم يجيء بعد أولئك السلف الصالح أُناسٌ لا خيرَ فيهم؛ يقولون ما لا يفعلون، ويفعلون ما لا يؤمرون؛ فمَن جاهدَهم بيده فهو مؤمن، ومن جاهدهم بلسانه فهو مؤمن، ومن جاهدهم بقلبه فهو مؤمن، وليس وراء ذلك من الإيمان حَبَّةُ خَرْدَلٍ.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "الحث على مجاهدة المخالفين للشرع بأقوالهم وأفعالهم.",
+  "عدم إنكار القلب للمنكر دليلٌ على ضَعْفِ الإيمان أو ذَهابِه.",
+  "تيسير الله سبحانه وتعالى للأنبياء مَن يَحمِلُ رسالتَهم مِن بعدِهم.",
+  "مَن أراد النجاة فعليه باتباع منهج الأنبياء؛ لأنَّ كل طريق سوى طريقهم هلاك وغواية.",
+  "كلَّما بَعُد العهدُ مِن النبي صلى الله عليه وسلم وأصحابه رضي الله عنهم تَرَكَ الناس السُّنَنَ واتبعوا الأهواءَ وأَحَدَثُوا البِدَع.",
+  "بيان مراتب الجهاد، وأنه باليد لمن يستطيع التغيير، كأولياء الأمور والحكَّام والأمراء، وبالقول يكون ببيان الحق والدعوة إليه، وبالقلب يكون بإنكار المنكر وعدم حُبِّه أو الرضا به.",
+  "وجوب الأمر بالمعروف والنهي عن المنكر."
+ ],
+ "id": "hadeethenc-3480",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (1/ 69) (50).\nبهجة الناظرين شرح رياض الصالحين، لسليم الهلالي (1/ 276).\nتطريز رياض الصالحين، لفيصل آل مبارك (ص148).\nكنوز رياض الصالحين، لمجموعة من الباحثين (4/ 16).\nنزهة المتقين شرح رياض الصالحين، لمجموعة من الباحثين (1/ 209).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3480",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:56:02+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3480"
+ },
+ "source_categories": [
+  {
+   "id": "92",
+   "label": "زيادة الإيمان ونقصانه"
+  },
+  {
+   "id": "557",
+   "label": "أقسام الجهاد"
+  }
+ ],
+ "source_record_id": "3480",
+ "text": "عَنْ عَبْدِ اللهِ بْنِ مَسْعُودٍ رضي الله عنه أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَا مِنْ نَبِيٍّ بَعَثَهُ اللهُ فِي أُمَّةٍ قَبْلِي إِلَّا كَانَ لَهُ مِنْ أُمَّتِهِ حَوَارِيُّونَ، وَأَصْحَابٌ يَأْخُذُونَ بِسُنَّتِهِ وَيَقْتَدُونَ بِأَمْرِهِ، ثُمَّ إِنَّهَا تَخْلُفُ مِنْ بَعْدِهِمْ خُلُوفٌ يَقُولُونَ مَا لَا يَفْعَلُونَ، وَيَفْعَلُونَ مَا لَا يُؤْمَرُونَ، فَمَنْ جَاهَدَهُمْ بِيَدِهِ فَهُوَ مُؤْمِنٌ، وَمَنْ جَاهَدَهُمْ بِلِسَانِهِ فَهُوَ مُؤْمِنٌ، وَمَنْ جَاهَدَهُمْ بِقَلْبِهِ فَهُوَ مُؤْمِنٌ، وَلَيْسَ وَرَاءَ ذَلِكَ مِنَ الْإِيمَانِ حَبَّةُ خَرْدَلٍ».",
+ "title": "ما من نبي بعثه الله في أمة قبلي إلا كان له من أمته حواريون، وأصحاب يأخذون بسنته ويقتدون بأمره",
+ "topic": "understanding_islam",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3480",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:bfd6d119c4e36452b4f10bac9a5559066879d28c833a1dc619ee0ece634a3725",
+   "explanation": "নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, তাঁর পূর্বে প্রেরিত প্রতিটি নবীর উম্মতের মধ্যে এমন বিশিষ্ট অনুসারী, সাহায্যকারী এবং নিবেদিতপ্রাণ মুজাহিদ ছিলেন যারা তাঁর পরে খিলাফতের যোগ্য ছিলেন, যারা তাঁর সুন্নাহ অনুসরণ করতেন এবং তাঁর আদেশ মানতেন। তারপর সেই নেককার পূর্বসূরিদের পরে এমন লোক আসে যাদের মধ্যে কোন কল্যাণ নেই। তারা যা বলে তা করে না এবং তারা তাই করে যা তাদের আদেশ করা হয়নি। কাজেই যে তাদের বিরুদ্ধে হাত দিয়ে জিহাদ করে সে মুমিন, যে জিহ্বা দিয়ে তাদের বিরুদ্ধে জিহাদ করে সে মুমিন এবং যে অন্তর দিয়ে তাদের বিরুদ্ধে জিহাদ করে সে মুমিন এবং এর বাইরে সরিষা দানার পরিমাণও ঈমান নেই।",
+   "grade": "সহীহ",
+   "hints": [
+    "এতে যারা শরীয়ত লঙ্ঘন করে তাদের কথা ও কাজের মাধ্যমে তাদের বিরুদ্ধে লড়াই করার জন্য উদ্বুদ্ধ করা হয়েছে।\r",
+    "যদি কারও অন্তর কোনো অন্যায় বা গুনাহকে খারাপ মনে না করে, তবে তা প্রমাণ করে যে তার ঈমান দুর্বল হয়ে গেছে অথবা একেবারেই চলে গেছে।\r",
+    "আল্লাহ তা‘আলা নবীদের জন্য তাদের পরে তাদের বাণী বহনকারী সহজ করে দেন।\r",
+    "যে নাজাত পেতে চায় তাকে নবীদের পথ অনুসরণ করতে হবে। কারণ তাদের পথ ছাড়া অন্য সব পথই ধ্বংস ও ফিতনা।\r",
+    "যখনই নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এবং সাহাবীগণ রাদিয়াল্লাহু আনহুমদের যুগ থেকে দূরত্ব বাড়বে তখনই লোকেরা সুন্নত ত্যাগ করবে, প্রবৃত্তির অনুসরণ করবে এবং বিদআত উদ্ঘাটন করবে।\r",
+    "জিহাদের পর্যায়গুলির বিবরণ: এটি হাত দ্বারা হবে যারা এটি পরিবর্তন করার সক্ষমতা রাখেন, যেমন অভিভাবক, শাসক এবং কর্তাব্যক্তিগণ। এটি কথার দ্বারা হবে সত্য প্রকাশ করে এবং তার প্রতি আহ্বান করে। আর এটি হৃদয় দিয়ে হবে; পাপকে অস্বীকার করে এবং তাকে না ভালোবাসে বা তাতে সন্তুষ্ট না হয়ে।\r",
+    "সৎ কাজের আদেশ ও অসৎ কাজে নিষেধ করা ওয়াজিব।"
+   ],
+   "mapping": "same HadeethEnc record id 3480; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:56:05+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3480",
+   "text": "আবদুল্লাহ ইবনু মাসউদ রাদিয়াল্লাহু আনহু থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেন, “আমার পূর্বে আল্লাহ তা’আলা যে নবীকেই কোন উম্মতের মধ্যে পাঠিয়েছেন, তাদের মধ্যে তাঁর জন্য একদল অনুসারী ও সাহাবা ছিল। তারা তাঁর সুন্নাতকে গ্রহণ করত এবং তাঁর নির্দেশের অনুসরণ করত। অতঃপর তাদের পরবর্তিতে কতগুলো মন্দ লোক স্থলাভিষিক্ত হয়। তারা মুখে যা বলে নিজেরা তা করে না। আর যা করে তার জন্য তাদেরকে নির্দেশ করা হয়নি। অতএব যে ব্যক্তি তাদের হাত (শক্তি) দ্বারা মুকাবিলা করবে, সে মু’মিন। যে ব্যাক্তি জিহ্বা (মুখ) দ্বারা মুকাবিলা করবে সে মু’মিন এবং যে ব্যাক্তি অন্তর দ্বারা মুকাবিলা করবে সেও মু’মিন এরপর আর সরিষার দানা পরিমাণও ঈমানের স্তর নেই”।",
+   "title": "“আমার পূর্বে আল্লাহ তা’আলা যে নবীকেই কোন উম্মতের মধ্যে পাঠিয়েছেন, তাদের মধ্যে তাঁর জন্য একদল অনুসারী ও সাহাবা ছিল। তারা তাঁর সুন্নাতকে গ্রহণ করত এবং তাঁর নির্দেশের অনুসরণ করত",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3480",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:c6f7a16dc1c087cb235c0704bc63ae3a9faea574387f09320f31bffad6d40a17",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) informed that no prophet had been sent by Allah to a nation before him except that he had close friends, supporters, and sincere fighters from among his nation who were qualified to succeed him, adopting his way and following his command. These righteous predecessors would, then, be succeeded by people who were void of goodness; claiming what they did not practice and practicing what they were not commanded to do. Whoever strives against them with his hand is a believer, whoever strives against them with his tongue is a believer, and whoever strives against them with his heart is a believer, but beyond that, there is no mustard seed's weight of faith.",
+   "grade": "Authentic",
+   "hints": [
+    "Encouraging the struggle against those who violate the Shariah with their words and deeds.\r",
+    "The heart's failure to disapprove of evil indicates the weakness or loss of faith.\r",
+    "Allah Almighty facilitates for the prophets those who convey their message after them.\r",
+    "Whoever seeks salvation must follow the prophets' methodology because every way other than theirs leads to destruction and misguidance.\r",
+    "As the time gap separating people from the time of the Prophet (may Allah's peace and blessings be upon him) and that of his Companions (may Allah be pleased with them) grows bigger, people become more liable to abandoning the Sunnah, following their whims, and introducing religious innovations.\r",
+    "Clarifying the levels of Jihad and how it should be carried out with the hand for whoever is capable of change, like the guardians, rulers, and leaders; with the words through demonstrating and advocating the right; and with the heart through disapproving evil, refraining from loving it or being content with it.\r",
+    "It is obligatory to enjoin good and forbid evil."
+   ],
+   "mapping": "same HadeethEnc record id 3480; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:56:05+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3480",
+   "text": "‘Abdullah ibn Mas‘ūd (may Allah be pleased with him) reported that the Messenger of Allah (may Allah's peace and blessings be upon him) said: \"No prophet had been sent before me by Allah except that he had disciples and companions from his nation who adhered to his way and followed his command. They were, then, succeeded by successors who would say what they did not do and do what they were not commanded to do. Whoever strives against them with his hand is a believer; whoever strives against them with his tongue is a believer; whoever strives against them with his heart is a believer; and beyond that, there is no mustard seed's weight of faith.\"",
+   "title": "No prophet had been sent before me by Allah except that he had disciples and companions from his nation who adhered to his way and followed his command",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3480",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:6b69b6b12f03c2050230d902a3df08e6c72031b00cd189a57a040de27c832039",
+   "explanation": "Nabi ﷺ mengabarkan bahwa tidak ada seorang nabi yang diutus oleh Allah pada suatu umat sebelumnya kecuali ia memiliki pengikut-pengikut pilihan serta pejuang-pejuang yang ikhlas di antara umatnya, yang pantas menjadi generasi pengganti setelahnya; mereka mengikuti sunnahnya dan menaati perintahnya. Kemudian sepeninggal para pendahulu yang saleh itu, datanglah generasi yang tidak memiliki kebaikan; mereka mengatakan apa yang tidak mereka lakukan dan melakukan apa yang tidak diperintahkan. Oleh sebab itu, siapa yang berjuang melawan mereka dengan tangannya, maka ia seorang mukmin. Siapa yang berjuang melawan mereka dengan lisannya, maka ia seorang mukmin. Siapa yang berjuang melawan mereka dengan hatinya, ia adalah seorang mukmin. Tidak ada keimanan di balik itu meskipun sekecil biji sawi.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Motivasi untuk melawan orang-orang yang menyelisihi syariat dalam perkataan dan perbuatan mereka.\r",
+    "2- Tidak mengingkari kemungkaran dengan hati menunjukkan kelemahan atau kehilangan iman.\r",
+    "3- Allah Ta'ala memberi kemudahan kepada para nabi dengan memunculkan generasi yang akan mengemban tugas mereka sepeninggal mereka.\r",
+    "4- Orang yang menginginkan keselamatan harus mengikuti jalan para nabi karena semua jalan selain jalan mereka adalah kebinasaan dan kesesatan.\r",
+    "5- Semakin jauh dari masa Nabi ﷺ dan sahabat-sahabatnya, manusia semakin meninggalkan Sunnah, mengikuti hawa nafsu, dan mengadakan bidah.\r",
+    "6- Menjelaskan tingkatan-tingkatan jihad, yaitu:  - Jihad dengan tangan bagi orang yang memiliki kemampuan mengubahnya, seperti jajaran pemerintah, hakim, dan penguasa. - Jihad dengan perkataan, yaitu dengan menerangkan kebenaran dan berdakwah kepadanya.  - Jihad dengan hati, yaitu dengan mengingkari kemungkaran dalam hati, tidak menyukai ataupun menerimanya.\r",
+    "7- Kewajiban amar makruf dan nahi mungkar."
+   ],
+   "mapping": "same HadeethEnc record id 3480; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:56:05+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3480",
+   "text": "Abdullah bin Mas'ūd -raḍiyallāhu 'anhu- meriwayatkan bahwa Rasulullah ﷺ bersabda, \"Tidaklah ada seorang nabi yang Allah utus pada suatu umat sebelumku kecuali ia memiliki para pengikut setia dan sahabat-sahabat yang mengamalkan sunnahnya dan mengikuti perintahnya. Kemudian datang generasi pengganti setelah mereka yang mengatakan apa yang tidak mereka lakukan dan melakukan apa yang tidak diperintahkan. Siapa yang berjuang melawan mereka dengan tangannya, maka ia seorang mukmin. Siapa yang berjuang melawan mereka dengan lisannya, maka ia seorang mukmin. Siapa yang berjuang melawan mereka dengan hatinya, maka ia seorang mukmin. Tidak ada keimanan pada selain itu meskipun sekecil biji sawi.\"",
+   "title": "Tidaklah ada seorang nabi yang Allah utus pada suatu umat sebelumku kecuali ia memiliki para pengikut setia dan sahabat-sahabat yang mengamalkan sunnahnya dan mengikuti perintahnya",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3480",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:bc1bb8bdd2b0e47bd69cf6c90f11d2fafa20cf03186fcea82924fb4e10d61f75",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم نے بتایا کہ اللہ نے آپ صلی اللہ علیہ وسلم سے پہلے کسی بھی امت کے اندر جو بھی رسول بھیجا، اس کے حق میں امت کے کچھ منتخب، مدگار اور مخلص مجاہد ہوا کرتھے تھے، جو اس کے بعد اس کی بہتر جا نشینی کے حقدار ہوا کرتے تھے، اس کی سنت پر کار بند رہتے اور اس کے احکام کی تعمیل کرتے تھے۔ لیکن ان سلف صالحین کے بعد پھر ایسے بے سود لوگ آ جاتے تھے، جو کہتے وہ تھے، جس پر خود عمل نہیں کرتے تھے اور کرتے وہ تھے، جس کا حکم ان کو دیا نہيں گیا تھا۔ لہذا جس نے ایسے لوگوں سے اپنے ہاتھ سے جہاد کیا، وہ مومن ہے۔ جس نے ان سے اپنے دل سے جہاد کیا‘ وہ مومن ہے۔ جس نے ان سے اپنی زبان سے جہاد کیا وہ مومن ہے۔ اس سے پرے ایک رائی کے دانے کے برابر بھی ایمان نہيں ہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "اقوال وافعال کے ساتھ شریعت کی خلاف ورزی کرنے والوں سے جہاد کرنے کی ترغیب۔\r",
+    "برائی (منکر) کو دل سے برا نہ جاننا ایمان کی کمزوری یا ختم ہو جانے کی دلیل ہے۔\r",
+    "اللہ پاک اپنے انبیائے کرام کے لیے ایسے لوگ فراہم کر دیتا ہے، جو ان کے بعد ان کا پیغام دنیا والوں تک پہنچاتے ہیں۔\r",
+    "جسے نجات چاہیے، وہ انبیا کے منہج کی اتباع کرے۔ کیوں کہ ان کے راستے کے علاوہ ہر راستہ گمراہی و ہلاکت کا راستہ ہے۔\r",
+    "نبی صلی اللہ علیہ وسلم اور آپ کے صحابہ رضی اللہ عنہم کا زمانہ جس قدر دور ہوتا جائے گا، اسی قدر لوگ سنتوں کو ترک کرتے چلے جائیں گے، خواہشات نفس کے پیروکار بنتے جائیں گے اور بدعتیں ایجاد کرنے لگیں گے۔\r",
+    "جہاد کے مراتب کا بیان۔ ساتھ ہی یہ کہ اگر حالات بدلنے کی طاقت ہو، تو جہاد ہاتھ سے ہونا چاہیے۔ اس ضمن میں اولیاء الامور، حکام اور امرا آتے ہیں۔ قول کے ذریعے جہاد سے مراد حق بیانی سے کام لینا اور اس کی دعوت دینا ہے۔ جبکہ قلبی جہاد سے مراد غلط کو غلط سمجھنا، اسے پسند نہ کرنا اور اس سے راضی نہ رہنا ہے۔\r",
+    "بھلائی (معروف) کا حکم دینے اور برائی (منکر) سے روکنے کا وجوب۔"
+   ],
+   "mapping": "same HadeethEnc record id 3480; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:56:05+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3480",
+   "text": "عبداللہ بن مسعود رضی اللہ عنہ سے روایت ہے کہ اللہ کے رسول صلی اللہ علیہ و سلم نے فرمایا : \"مجھ سے پہلے اللہ نے جتنے نبی بھیجے، ان کے لیے ان کی امت میں سے کچھ حواری اور ساتھی ہوتے تھے، جو ان کی سنت پر عمل اور ان کے حکم کی اقتدا کرتے تھے۔ پھر ان کے بعد ایسے ناخلف لوگ پیدا ہوئے، جو ایسی باتیں کہتے، جو وہ کرتے نہیں تھے اور کرتے وہ کام تھے جن کا انھیں حکم نہیں دیا جاتا تھا۔ لہذا جس نے ان سے ہاتھ سے جہاد کیا، وہ مؤمن ہے، جس نے ان سے دل سے جہاد کیا، وہ مؤمن ہے اور جس نے ان سے اپنی زبان سے جہاد کیا، وہ مؤمن ہے اور ان کے علاوہ باقی لوگوں کے اندر رائی کے دانے کے برابر بھی ایمان نہیں ہے۔\"",
+   "title": "مجھ سے پہلے اللہ نے جتنے نبی بھیجے، ان کے لیے ان کی امت میں سے کچھ حواری اور ساتھی ہوتے تھے، جو ان کی سنت پر عمل اور ان کے حکم کی اقتدا کرتے تھے۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3480",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:63aab89f2a069e17983bca08e497d60e21c2dc428b8ad9924243f37e3e5fe98a",
+   "explanation": "先知（愿主福安之）告知，在他之前，凡是安拉派遣到某一民族中的先知，必定都有一些来自其民族的精诚之士、援助者和真诚奋斗者，他们遵循他的圣行、效法他的命令，并具备在其后继任的资格。随后，在这些正直的前辈之后，会出现一些毫无善可言的人；说自己不去做的事，做未被命令的事。因此，以手与他们抗争的是信士；以言辞与他们抗争的是信士，以内心与他们抗争的也是信士，而在此之外，连一粒芥子的信仰也不存在。",
+   "grade": "正确的",
+   "hints": [
+    "劝勉人们以言语与行为对违背教法者进行斗争与纠正。\r",
+    "内心不否认邪恶，是信仰软弱甚至消失的标志。\r",
+    "安拉（清净超绝的主）使众先知之后，有人得以承载并传递他们的使命。\r",
+    "凡欲获得拯救者，必须遵循众先知的道路；因为除他们的道路之外，一切道路都是毁灭与迷误。\r",
+    "离先知（愿主福安之）及其圣门弟子（愿主喜悦他们）的时代越远，人们越会抛弃圣行，追随私欲，并制造异端。\r",
+    "阐明为主道而奋斗的层级，能够进行改变者，应以行动来进行；如监护者、统治者与执政者。以言辞则是阐明真理并号召人们归向真理；以内心则是对恶行予以否认，不喜爱它，也不认可它。\r",
+    "劝善戒恶的义务。"
+   ],
+   "mapping": "same HadeethEnc record id 3480; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:56:05+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3480",
+   "text": "阿卜杜拉·本·麦斯欧德（愿主喜悦他）传述，安拉的使者（愿主福安之）说： “在我之前，凡是安拉派遣到某一民族中的先知，都有一些来自其民族的忠诚追随者和同伴，他们遵循他的圣行，效法他的命令。随后在他们之后，会出现一些继任者，他们说自己不做的事，做自己未被命令的事。凡是以手与他们抗争的人，是信士；以言辞与他们抗争的人，是信士；以内心与他们抗争的人，也是信士；在此之后，便连一粒芥子的信仰也没有了。”",
+   "title": "“在我之前，凡是安拉派遣到某一民族中的先知，都有一些来自其民族的忠诚追随者和同伴，他们遵循他的圣行，效法他的命令",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [
+  {
+   "meaning": " أي زِنَة حبَّة الخردل، والخردل نبات بري يساوي وزن حبته سدس وزن حبة الشعير.",
+   "word": "حَبَّةُ خَرْدلٍ"
+  }
+ ],
+ "words_meanings_language": "ar"
+}

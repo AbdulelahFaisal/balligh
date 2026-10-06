@@ -1,0 +1,52 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-11287",
+ "source_content_sha256": "sha256:b26bb5b0eaade453d702a608ce15da4f0389daac93fedfea64aafe8d6a21340b",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:30:16.985366+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 614,
+  "completion_tokens": 472,
+  "total_tokens": 1086,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 614
+ },
+ "latency_ms": 6195,
+ "units": [
+  {
+   "id": "title",
+   "text": "Apa makna: \"Di surga ada pintu yang dinamakan ar-Rayyan\"?"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Penanya dalam pertanyaan ini berkata: Apa yang diriwayatkan dalam hadis: \"Bahwa di surga ada pintu yang dinamakan ar-Rayyan, tidak ada yang memasukinya kecuali orang-orang yang berpuasa\", apakah maknanya: apakah yang dimaksud orang-orang yang berpuasa adalah mereka yang berpuasa pada bulan Ramadan saja, ataukah mereka yang berpuasa sunah seperti Senin, Kamis, dan ayyamul bidh? Berilah kami faedah, semoga kalian diberi pahala."
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Yang dimaksud dengan itu adalah: orang-orang yang berpuasa puasa wajib, yang menjaga puasa wajib, Ramadan, dan juga apa yang Allah wajibkan atas mereka berupa puasa kafarat dan nazar. Mereka ini memiliki pintu; pintu ar-Rayyan, mereka masuk bersamanya, maka apabila mereka telah masuk; pintu itu ditutup."
+  },
+  {
+   "id": "a2",
+   "text": "Apabila mereka memiliki amal-amal lain, mereka akan dipanggil dari banyak pintu, tetapi mereka masuk dari pintu ini, pintu puasa. Seorang mukmin yang mendirikan salat, menunaikan zakat, berpuasa Ramadan, dan bertakwa kepada Allah; ia akan dipanggil dari semua pintu, tetapi pintu ini tidak ada yang masuk bersamanya kecuali orang-orang yang berpuasa yang menjaga pelaksanaan puasa wajib. Ya."
+  },
+  {
+   "id": "a3",
+   "text": "Pembawa acara: Semoga Allah membalas Anda dengan kebaikan."
+  }
+ ]
+}

@@ -1,0 +1,205 @@
+{
+  "schema": "balligh.learn.v1",
+  "version": "2026-10-06.1",
+  "basis": "Editorial first-step routing from the model-assisted full-text audience review (ALL_100_FATWA_AUDIENCE_REVIEW.json). Not a curriculum, not scholarly approval, not human-reviewed.",
+  "first_steps": [
+    {
+      "order": 1,
+      "collection": "quran",
+      "source_id": "1",
+      "level": "foundation",
+      "topic": "opening_prayer",
+      "languages": ["ar", "en", "ur", "zh-Hans", "id", "bn", "fr"],
+      "caution": null,
+      "reason": "Al-Fatihah, recited in every prayer. Arabic text with the six named published QuranEnc translations of meanings."
+    },
+    {
+      "order": 2,
+      "collection": "fatwa",
+      "source_id": "binbaz-11423",
+      "level": "foundation",
+      "topic": "what_islam_means",
+      "languages": ["ar"],
+      "caution": null,
+      "reason": "Audience review: a direct and coherent definition of Islam with Quranic references. Arabic-only published record; its Arabic terms need a faithful explanation for non-Arabic readers."
+    },
+    {
+      "order": 3,
+      "collection": "fatwa",
+      "source_id": "binbaz-18975",
+      "level": "foundation",
+      "topic": "testimonies",
+      "languages": ["ar"],
+      "caution": null,
+      "reason": "Audience review: a short direct explanation of each testimony; the primary entry among the overlapping shahada records."
+    },
+    {
+      "order": 4,
+      "collection": "quran",
+      "source_id": "112",
+      "level": "foundation",
+      "topic": "oneness",
+      "languages": ["ar", "en", "ur", "zh-Hans", "id", "bn", "fr"],
+      "caution": null,
+      "reason": "Al-Ikhlas, a short surah on the oneness of God, with the six named published translations of meanings."
+    },
+    {
+      "order": 5,
+      "collection": "hadith",
+      "source_id": "hadeethenc-65000",
+      "level": "foundation",
+      "topic": "pillars",
+      "languages": ["ar", "en", "ur", "zh-Hans", "id", "bn", "fr"],
+      "caution": null,
+      "reason": "Islam is built on five. HadeethEnc record with published translations in six languages; the supplied Dorar register records wording and attribution as corresponding."
+    },
+    {
+      "order": 6,
+      "collection": "fatwa",
+      "source_id": "binbaz-3649",
+      "level": "practical_beginner",
+      "topic": "wudu_steps",
+      "languages": ["ar"],
+      "caution": null,
+      "reason": "Audience review: a full practical wudu sequence. It gives wudu and a two-rakah recommendation, not a complete how-to-pray sequence."
+    },
+    {
+      "order": 7,
+      "collection": "fatwa",
+      "source_id": "binbaz-2774",
+      "level": "practical_beginner",
+      "topic": "missed_prayer_sleep",
+      "languages": ["ar"],
+      "caution": null,
+      "reason": "Audience review: directly says to pray on waking and gives the supporting prophetic event. Its scope is genuine sleep or forgetfulness."
+    },
+    {
+      "order": 8,
+      "collection": "fatwa",
+      "source_id": "binbaz-3982",
+      "level": "practical_beginner",
+      "topic": "obligations_first",
+      "languages": ["ar"],
+      "caution": null,
+      "reason": "Audience review: the minimum of obligations and avoiding prohibitions is plainly stated."
+    },
+    {
+      "order": 9,
+      "collection": "hadith",
+      "source_id": "hadeethenc-4717",
+      "level": "practical_beginner",
+      "topic": "good_conduct",
+      "languages": ["ar", "en", "ur", "zh-Hans", "id", "bn", "fr"],
+      "caution": null,
+      "reason": "Loving for others what one loves for oneself. HadeethEnc record with published translations in six languages; the supplied Dorar register records wording and attribution as corresponding."
+    },
+    {
+      "order": 10,
+      "collection": "fatwa",
+      "source_id": "binbaz-854",
+      "level": "practical_beginner",
+      "topic": "names_after_islam",
+      "languages": ["ar"],
+      "caution": "obligation_vs_preference",
+      "reason": "Audience review: a strong convert-specific fit. The answer also recommends some otherwise permissible name changes; keep obligation and preference distinct."
+    }
+  ],
+  "teacher_context": [
+    {
+      "collection": "fatwa",
+      "source_id": "binbaz-1157",
+      "classification": "teacher_context",
+      "reason": "The full answer includes corporal punishments, execution for apostasy and sectarian disputes; the short curation reason mentions only remaining Muslim despite sin."
+    },
+    {
+      "collection": "fatwa",
+      "source_id": "binbaz-1263",
+      "classification": "teacher_context",
+      "reason": "It opens on entering Islam but ends with state penalties for leaving prayer; a simpler entry suits a first reading."
+    },
+    {
+      "collection": "fatwa",
+      "source_id": "binbaz-1998",
+      "classification": "teacher_context",
+      "reason": "Includes execution for leaving prayer, fighting over zakat refusal and apostasy categories, and directs students to study the apostasy chapter."
+    },
+    {
+      "collection": "fatwa",
+      "source_id": "binbaz-2171",
+      "classification": "teacher_context",
+      "reason": "Teacher material: the whole answer includes fighting, corporal and capital penalties and enforcement."
+    },
+    {
+      "collection": "fatwa",
+      "source_id": "binbaz-2554",
+      "classification": "teacher_context",
+      "reason": "Both testimonies are explained, but the answer includes a substantial legal-consequence passage the curation reason omits."
+    },
+    {
+      "collection": "fatwa",
+      "source_id": "binbaz-5629",
+      "classification": "teacher_context",
+      "reason": "The opening supports the curation reason, but most of the answer covers apostasy cases and a concluding judicial killing discussion."
+    },
+    {
+      "collection": "fatwa",
+      "source_id": "binbaz-11643",
+      "classification": "teacher_context",
+      "reason": "Most of a long answer concerns punishment, doctrinal schools and declaring disbelief, beyond its title and curation reason."
+    },
+    {
+      "collection": "fatwa",
+      "source_id": "binbaz-1655",
+      "classification": "teacher_context",
+      "reason": "Teacher-oriented: a long doctrinal taxonomy with competing terminology and polemical references."
+    },
+    {
+      "collection": "fatwa",
+      "source_id": "binbaz-2460",
+      "classification": "teacher_context",
+      "reason": "Distinguishes types of affection and their legal classification; it does not give the permission about dealings that the curation reason describes."
+    },
+    {
+      "collection": "fatwa",
+      "source_id": "binbaz-2994",
+      "classification": "teacher_context",
+      "reason": "Secondary teacher-level topic: national loyalty and religious allegiance."
+    },
+    {
+      "collection": "fatwa",
+      "source_id": "binbaz-2089",
+      "classification": "advanced_reference",
+      "reason": "Presents differing readings and views on Harut and Marut; optional background, not a first step."
+    },
+    {
+      "collection": "fatwa",
+      "source_id": "binbaz-1524",
+      "classification": "adult_situational_reference",
+      "reason": "Disturbing-dream material with explicit sexual examples that duplicates binbaz-1391; kept as optional exact-question reference outside the default sequence."
+    },
+    {
+      "collection": "fatwa",
+      "source_id": "binbaz-1363",
+      "classification": "family_specific",
+      "reason": "After kindness despite a worldly quarrel, it endorses potentially prolonged religious boycott and discusses concealed visits; needs context before use as family advice."
+    },
+    {
+      "collection": "fatwa",
+      "source_id": "binbaz-1587",
+      "classification": "family_specific",
+      "reason": "Conditional family guidance about parents, companions and travel in a stated scenario, not a blanket instruction; needs context for young or dependent converts."
+    },
+    {
+      "collection": "fatwa",
+      "source_id": "binbaz-2978",
+      "classification": "family_specific",
+      "reason": "A family case about a brother who does not pray, including withholding marriage help and boycotting despite family objections."
+    },
+    {
+      "collection": "fatwa",
+      "source_id": "binbaz-9279",
+      "classification": "family_specific",
+      "reason": "The worldly-grudge advice is only part of an answer that also covers religious boycott and its duration."
+    }
+  ]
+}

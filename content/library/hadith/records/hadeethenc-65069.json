@@ -1,0 +1,185 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:859d1dd56b607426a1a2f17fddbd4b2e9d73c7a1671e01b56a8bc7f6a09ddf69",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "طَلَبَ النبيُّ صلى الله عليه وسلم مِن عمِّه أبي طالب وهو في سكرات الموت أن ينطق بلا إله إلا الله ليشْفَع له بها يوم القيامة، ويشهد له بالإسلام، \nفأبى أن ينطق بالشَّهادة خوفًا مِن أن تَسُبَّه قريش وتقول عنه: إنَّه أسلَم بسبب الخوف مِن الموت والضَّعْف! \nفقال للنبي صلى الله عليه وسلم: لولا ذلك لَأدخلت السّرور على قلبك بقول الشَّهادة، وأبلغتك أُمنيتك حتى ترضى! \nفأنزل الله تعالى الآية التي تدل على أن النبي صلى الله عليه وسلم لا يملك هداية التوفيق للإسلام، بل الله عز وجل وحده يُوفِّق من يشاء. \nوأن النبي عليه الصلاة والسلام يهدي الخلق بالدلالة والبيان والإرشاد والدعوة إلى الصراط المستقيم.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "الحق لا يُترك خوفًا من كلام الناس.",
+  "النبي صلى الله عليه وسلم إنما يملك هداية الدلالة والإرشاد لا هداية التوفيق.",
+  "مشروعية زيارة الكافر المريض لدعوته إلى الإسلام.",
+  "حرص النبي صلى الله عليه وسلم على الدعوة إلى الله تعالى في كل الأحوال."
+ ],
+ "id": "hadeethenc-65069",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (1/ 55) (25)، البحر المحيط الثجاج في شرح صحيح الإمام مسلم بن الحجاج (1/ 539)، النهاية في غريب الحديث والأثر (ص 742).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=65069",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:32+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/65069"
+ },
+ "source_categories": [
+  {
+   "id": "64",
+   "label": "الإيمان بالقضاء والقدر"
+  },
+  {
+   "id": "88",
+   "label": "الإسلام"
+  },
+  {
+   "id": "271",
+   "label": "فضائل التوحيد"
+  }
+ ],
+ "source_record_id": "65069",
+ "text": "عَنْ ‌أَبِي هُرَيْرَةَ رضي الله عنه قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ لِعَمِّهِ: «قُلْ: لَا إِلَهَ إِلَّا اللهُ، أَشْهَدُ لَكَ بِهَا يَوْمَ الْقِيَامَةِ»، قَالَ: لَوْلَا أَنْ تُعَيِّرَنِي قُرَيْشٌ، يَقُولُونَ: إِنَّمَا حَمَلَهُ عَلَى ذَلِكَ الْجَزَعُ لَأَقْرَرْتُ بِهَا عَيْنَكَ. فَأَنْزَلَ اللهُ: {إِنَّكَ لا تَهْدِي مَنْ أَحْبَبْتَ وَلَكِنَّ اللهَ يَهْدِي مَنْ يَشَاءُ } [القصص: 56].",
+ "title": "قل: لا إله إلا الله، أشهد لك بها يوم القيامة",
+ "topic": "understanding_islam",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=65069",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:0b2f523b1a25c44132504f182eeda6de14a1e0d3a66d73761114e4bcb1194bdc",
+   "explanation": "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম স্বীয় চাচা আবু তালিবের মৃত্যু শয্যায় তার কাছ থেকে প্রত্যাশা করেছিলেন যেন সে ‘আল্লাহ ছাড়া কোন প্রকৃত মাবূদ নেই’ একথাটি উচ্চারণ করেন। যাতে করে তিনি তার জন্য কিয়ামাতের দিনে সুপারিশ করতে পারেন এবং তার ইসলাম গ্রহণের সাক্ষ্য দিতে পারেন। আবু তালিব তা বলতে অস্বীকার করেছিল, এ ভয়ে যে, কুরাইশরা তাকে গালি-গালাজ করবে একথা বলে- সে দূর্বল হওয়ার কারণে ও মৃত্যুর ভয়ে ইসলাম গ্রহণ করেছিল। তারপরে তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বললেন: যদি এমনটি না হত, তবে আমি তোমার অন্তরকে খুশি করে দিতে পারতাম শাহাদাত উচ্চারণের মাধ্যমে এবং তোমার সন্তুষ্ট হওয়া পর্যন্ত তোমার আকাঙ্খাকে পূরণ করে দিতাম! তখন আল্লাহ তা‘আলা এ আয়াতটি নাযিল করলেন, যা স্পষ্ট করে যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইসলামের তাওফিক প্রাপ্তির ক্ষেত্রে হিদায়াত প্রদানের মালিক নন, বরং একমাত্র আল্লাহ তা‘আলাই যাকে ইচ্ছা হিদায়াতের তাওফীক দেন। আর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সৃষ্টিজগতকে পথ দেখানো, বর্ণনা করা, পরামর্শ প্রদান এবং সরল-সুদৃঢ় পথের দিকে আহবানের মাধ্যমে হিদায়াতের পথ দেখান।",
+   "grade": "সহীহ",
+   "hints": [
+    "মানুষের কথার ভয়ে হক বা সত্যকে পরিত্যাগ না করা উচিত।\r",
+    "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পথ প্রদর্শন এবং নসীহত করার মাধ্যমে হিদায়াত দিতে পারেন, তবে তিনি হিদায়াতের তাওফীকদাতা নন।\r",
+    "ইসলামের দিকে আহবান করার উদ্দেশ্যে অসুস্থ কাফির ব্যক্তিকে দেখতে যাওয়ার বৈধতা।\r",
+    "প্রতিটি অবস্থায় আল্লাহ তা‘আলার দিকে আহবান করার ক্ষেত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের আগ্রহের প্রকাশ।"
+   ],
+   "mapping": "same HadeethEnc record id 65069; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:27+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/65069",
+   "text": "আবু হুরাইরা রদিয়াল্লাহু আনহু থেকে বর্ণিত, তিনি বলেছেন: রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার চাচাকে বলেছিলেন: “আপনি বলুন: لَا إِلَهَ إِلَّا اللهُ তথা: আল্লাহ ছাড়া কোন সত্য মাবূদ নেই, তাহলে আমি আপনার জন্য কিয়ামাতের দিন সাক্ষ্য দেব।” তিনি বলেছিলেন: যদি কুরাইশরা আমাকে এ কথা বলে তিরস্কার না করত, তাকে একাজ করতে ভয় তাড়িত করেছে, তাহলে আমি তোমার চোখকে শীতল করতাম। তখন আল্লাহ তা‘আলা নাযিল করলেন: إِنَّكَ لا تَهْدِي مَنْ أَحْبَبْتَ وَلَكِنَّ اللهَ يَهْدِي مَنْ يَشَاءُ যার অর্থ: “নিশ্চয় তুমি যাকে চাও, তাকে হিদায়াত দিতে পারবে না, বরং আল্লাহ যাকে খুশি হিদায়াত দেন।” [সূরা আল-কাসাস: ৫৬]।",
+   "title": "আপনি বলুন: لَا إِلَهَ إِلَّا اللهُ তথা: আল্লাহ ছাড়া কোন সত্য মাবূদ নেই, তাহলে আমি আপনার জন্য কিয়ামাতের দিন সাক্ষ্য দেব।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=65069",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:4910a559ec41a8139bd889cd150acbca6653eaa5b06a3347374b5d60601e239a",
+   "explanation": "The Prophet (may Allah’s peace and blessings be upon him) asked his uncle Abu Tālib, while in the throes of death, to utter the testimony of faith, so that he could intercede for him with it on the Day of Judgment and testify that he was a Muslim. But he refused to utter it, fearing that the Quraysh would revile him and say that he embraced Islam out of fear of death and weakness! He said to the Prophet (may Allah’s peace and blessings be upon him): Were it not for that, I would have made you joyful by saying the testimony, fulfilling your wish and making you pleased. So, Allah Almighty revealed a verse indicating that the Prophet (may Allah’s peace and blessings be upon him) cannot guide people in the sense of inspiring them to accept Islam, but it is Allah Almighty alone Who grants such guidance to whomever He wills; and that the Prophet (may Allah's peace and blessings be upon him) guided them by clarifying, showing, and calling them to the straight path.",
+   "grade": "Authentic",
+   "hints": [
+    "The truth should not be renounced out of fear of what people say.\r",
+    "The Prophet (may Allah's peace and blessings be upon him) can only guide people by leading and showing them the right way, not by inspiring them to accept guidance.\r",
+    "It is permissible to visit a sick disbeliever to invite him to Islam.\r",
+    "The Prophet (may Allah's peace and blessings be upon him) was keen on calling people to Allah Almighty in all circumstances."
+   ],
+   "mapping": "same HadeethEnc record id 65069; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:27+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/65069",
+   "text": "Abu Hurayrah (may Allah be pleased with him) reported: The Messenger of Allah (may Allah's peace and blessings be upon him) said to his uncle: \"Say 'there is no god but Allah', and I will testify for you by it on the Day of Judgment.\" He said: \"Were it not for the fear that the Quraysh may blame me and say that it was the fear (from imminent death) that induced me to do so, I would have certainly delighted your eyes with it.\" So, Allah revealed: {You cannot guide whoever you like, but Allah guides whom He wills.} [Surat al-Qasas: 56]",
+   "title": "Say 'there is no god but Allah', and I will testify for you by it on the Day of Judgment",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=65069",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:1ccf97413cec892f2142594e5286d2cf81d35d97418e228371a9c0dd734a7896",
+   "explanation": "Le Prophète (qu’Allah le couvre d’éloges et le préserve) a demandé à son oncle Aboû Ṭâlib, alors qu'il était en proie aux affres de la mort, de prononcer : \"Il n'est de divinité [digne d'adoration] qu'Allah\" afin qu'il puisse intercéder en sa faveur au Jour de la Résurrection et témoigner de son Islam. Mais, il a refusé de prononcer l'attestation par peur que Qouraych ne l'insulte et dise de lui : \"Il a accepté l'Islam par peur de la mort et par faiblesse !\" Il a alors dit au Prophète (qu’Allah le couvre d’éloges et le préserve) : \"Sans cela, j'aurais certes fait entrer la joie dans ton cœur en prononçant l'attestation, et je t'aurais fait atteindre ton souhait au point que tu en sois satisfait !\" Alors Allah, Exalté soit-Il, révéla le verset qui indique que le Prophète (qu’Allah le couvre d’éloges et le préserve) ne détient pas la guidée qui fait que l'on accepte l'Islam, mais c'est Allah Seul, à Lui la Puissance et la Grandeur, qui accorde la réussite à qui Il veut. Quant au Prophète (qu’Allah le couvre d’éloges et le préserve), il guide les créatures du fait qu'il leur indique, leur explique, les oriente et invite vers le droit chemin.",
+   "grade": "Authentique",
+   "hints": [
+    "On ne délaisse pas la vérité par peur de ce que vont dire les gens.\r",
+    "Le Prophète (qu’Allah le couvre d’éloges et le préserve) détient la guidée dans le sens où elle est ce qu'il indique et ce vers quoi il oriente, mais pas celle liée à la réussite [dans le sens où les gens acceptent ou non l'Islam].\r",
+    "La prescription de la visite du mécréant malade pour l'appeler à l'Islam.\r",
+    "Le préoccupation qu'avait le Prophète (qu’Allah le couvre d’éloges et le préserve) à appeler les gens à Allah, Exalté soit-Il, en toute circonstance et dans toutes les situations."
+   ],
+   "mapping": "same HadeethEnc record id 65069; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:27+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/65069",
+   "text": "Aboû Hourayrah (qu'Allah l'agrée) relate : Le Messager d'Allah (qu’Allah le couvre d’éloges et le préserve) dit à son oncle paternel : « Dis : \"Il n'est de divinité [digne d'adoration] qu'Allah !\", j'en témoignerai en ta faveur au Jour de la Résurrection. - Il a répondu : Si ce n'était le fait que Qouraych me critique en disant : 'Ce n'est rien d'autre que l'inquiétude qui l'a poussé à dire ça !', je l'aurais attesté devant tes yeux !\" Allah révéla alors : { Tu ne guides pas qui tu aimes, mais c'est Allah qui guide qui Il veut ! Et Il sait mieux que quiconque qui sont les bien-guidés. } [Sourate Al-Qaṣaṣ (Le Récit) : 28/56].»",
+   "title": "Dis : \"Il n'est de divinité [digne d'adoration] qu'Allah !\", j'en témoignerai en ta faveur au Jour de la Résurrection",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=65069",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:9f93c1c1b48040b6aa4d6978c389b32755181777bfe666cd8029a9569838824f",
+   "explanation": "Nabi ﷺ meminta pamannya, Abu Ṭālib, di saat dia sedang sekarat agar mengucapkan kalimat lā ilāha illallāh sebagai alasan beliau untuk memberinya syafaat kelak di hari kiamat, serta memberinya kesaksian Islam. Akan tetapi dia enggan untuk mengucapkan kalimat syahadat, karena khawatir orang-orang Quraisy akan mencacinya dan mengatakan bahwa dia masuk Islam karena takut kematian dan kelemahan! Lantas dia berkata kepada Nabi ﷺ: Kalau bukan karena hal tersebut, aku akan memasukkan kebahagiaan pada hatimu dengan mengucapkan kalimat syahadat dan aku akan mewujudkan harapanmu hingga kamu rida! Lantas Allah Ta'ala menurunkan ayat yang menunjukkan bahwa Nabi ﷺ tidak memiliki hidayah taufik kepada Islam, namun Allah -'Azza wa Jalla- semata yang memberi taufik kepada siapa yang Dia kehendaki. Dan tugas Nabi ﷺ hanya memberi hidayah kepada orang berupa: arahan, penjelasan, bimbingan, dan ajakan kepada jalan yang lurus.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Kebenaran tidak boleh ditinggalkan lantaran takut terhadap ucapan manusia.\r",
+    "2- Nabi ﷺ hanya mampu memberi hidayah berupa arahan dan bimbingan, bukan hidayah taufik.\r",
+    "3- Disyariatkan menjenguk orang kafir yang sakit untuk mengajaknya masuk Islam.\r",
+    "4- Kegigihan Nabi ﷺ dalam berdakwah kepada Allah Ta'ala di semua keadaan."
+   ],
+   "mapping": "same HadeethEnc record id 65069; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:27+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/65069",
+   "text": "Abu Hurairah -raḍiyallāhu 'anhu- meriwayatkan, ia berkata, Rasulullah ﷺ berkata kepada pamannya, \"Ucapkanlah \"lā ilāha illallāh\" yang bisa aku jadikan sebagai persaksian untuk membelamu pada hari kiamat.\" Dia menjawab, \"Kalaulah bukan karena kekhawatiranku terhadap orang-orang Quraisy yang akan mencelaku; mereka akan mengatakan, 'Penyebab ia melakukan hal itu tidak lain adalah rasa takut', niscaya aku akan membahagiakanmu dengan mengucapkannya.\" Maka Allah menurunkan, \"Sungguh, engkau (Muhammad) tidak dapat memberi petunjuk kepada orang yang engkau kasihi, tetapi Allah memberi petunjuk kepada orang yang Dia kehendaki.\" [QS. Al-Qaṣaṣ: 56].",
+   "title": "Ucapkanlah \"lā ilāha illallāh\" yang bisa aku jadikan sebagai persaksian untuk membelamu pada hari kiamat",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=65069",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:ca51dbdc67a5e8a4f784e9460b51e5d95b79feb28308c98e4d9b4d5c422bae44",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ وسلم نے اپنے چچا سے، جب کہ وہ مرض الموت میں تھے، یہ مطالبہ کیا کہ وہ لا الہ الا اللہ کا اقرار کر لیں، تاکہ آپ اس کی بدولت قیامت کے دن ان کے حق میں سفارش کر سکیں اور ان کے اسلام لانے کی گواہی دے سکیں، لیکن انہوں نے اس خوف سے کلمۂ شہادت پڑھنے سے انکار کر دیا کہ قریش کے لوگ انہیں سب وشتم کریں گے اور کہیں گے کہ انہوں نے موت کے خوف سے کمزور پڑ کر اسلام قبول کر لیا! انہوں نے نبی صلی اللہ علیہ وسلم سے کہا کہ اگر ایسی بات نہ ہوتی، تو وہ کلمۂ شہادت پڑھ کر آپ کے دل کو خوش کر دیتے اور آپ کی آرزو پوری کردیتے۔ اسی موقع پر اللہ نے وہ آیت نازل فرمائی، جو اس بات پر دلالت کرتی ہے کہ اللہ کے نبی صلی اللہ علیہ وسلم اس بات پر قادر نہیں کہ اسلام قبول کرنے کی ہدایت دے سکیں، بلکہ صرف اللہ عز وجل ہی جسے چاہتا ہے اس کی توفیق دیتا ہے، جب کہ نبی صلی اللہ علیہ وسلم مخلوق کی رہنمائی کرتے، ان کے سامنے حق بیان کرتے اور انہیں راہ مستقیم کی دعوت دیتے ہیں۔",
+   "grade": "صحيح",
+   "hints": [
+    "لوگوں کے تبصرے کے خوف سے حق کو چھوڑنا درست نہیں۔\r",
+    "اللہ کے نبی صلی اللہ علیہ وسلم صرف اس بات پر قادر تھے کہ لوگوں کی رہنمائی کر سکیں، ہدایت قبول کرنے کی توفیق دینا اللہ کا کام ہے۔\r",
+    "اسلام کی دعوت دینے کے لیے کافر کی زیارت کرنا مشروع ہے۔\r",
+    "اللہ کے نبی صلی اللہ علیہ وسلم ہر حال میں اللہ تعالی کی طرف دعوت دینے کا خوب سے خوب اہتمام کرتے تھے۔"
+   ],
+   "mapping": "same HadeethEnc record id 65069; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:27+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/65069",
+   "text": "ابو ہریرہ رضی اللہ عنہ سے مروی ہے، وہ کہتے ہیں: رسول اللہ ﷺ نے اپنے چچا سے فرمایا: \"لَا إِلَهَ إِلَّا اللهُ\"  کہہ دیجیے، میں قیامت کے دن آپ کے لیے اس کےبارے میں گواہ بن جاؤں گا۔‘‘ انہوں نے (جواب میں) کہا: اگر مجھے یہ ڈر نہ ہوتا کہ قریش مجھے عار دلائیں گے، کہیں گے کہ اسے (موت کی) گھبراہٹ نےاس بات پر آمادہ کیا ہے، تو میں یہ کلمہ پڑھ کر تمہاری آنکھیں ٹھنڈی کر دیتا۔ اس پر اللہ تعالیٰ نے یہ آیت نازل فرمائی: \"آپ جسے چاہتے ہوں اسے راہ راست پر نہیں لا سکتے، لیکن اللہ تعالیٰ جسے  چاہے راہ راست پر لے آتا ہے۔\" [القصص: 56].",
+   "title": "لَا إِلَهَ إِلَّا اللهُ\"  کہہ دیجیے، میں قیامت کے دن آپ کے لیے اس کےبارے میں گواہ بن جاؤں گا",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=65069",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:567a4dd1d41b2aa5830047f1b6499d21f644a62ba12a21bb27bf5a28a43179f4",
+   "explanation": "先知（愿主福安之）的叔父艾布·塔里布在弥留之际，先知要求其诵念：“万物非主，唯有安拉”，以便他以此在复生日为其说情，并见证他已皈依伊斯兰。但因害怕古莱什辱骂自己，他们会说：“他因怕死和软弱而皈依伊斯兰”，所以他便拒绝诵念。他对先知（愿主福安之）说：如果不是因为这个，我一定诵念之而使你高兴。然后安拉降示了经文，阐明先知（愿主福安之）没有使人顺利走向伊斯兰的权利，但伟大的安拉会使他所意欲之人顺利皈依。而先知（愿主福安之）通过明证、阐述、指导和宣传引领人们走向端正的道路。",
+   "grade": "正确的",
+   "hints": [
+    "不能因害怕人之言语而放弃真理。\r",
+    "先知（愿主福安之）只有指导和举证之权利，而成功走向正道不属于他的范畴。\r",
+    "允许探望不信教的病人，以便号召他皈依伊斯兰。\r",
+    "先知（愿主福安之）在任何状况下都致力于宣传信仰崇高的安拉。"
+   ],
+   "mapping": "same HadeethEnc record id 65069; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:27+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/65069",
+   "text": "据艾布·胡莱勒（愿主喜悦之）传述说： 安拉的使者（愿主福安之）对他的叔父说：“你说：万物非主，唯有安拉，复生日我将以此为你作证。”他说：“若不是古莱什人羞辱我，他们说：他这样说是出于惊慌，那么我一定会使你高兴。然后安拉降示经文：{你不能引导你所喜欢的人，但安拉引导他所意欲的人。}”（故事章：56）",
+   "title": "你说：万物非主，唯有安拉，复生日我将以此为你作证",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

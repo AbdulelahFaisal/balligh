@@ -1,0 +1,177 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:5f61ba8cf8c9c7b52bccdc6f4f354af2cb05ee1aeaa6fee4998c2e3843c17461",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يُخبرُ النبيُّ صلى الله عليه وسلم عن خَيْبَةِ وخَسارة المُتَشَدِّدين -على غير هدى وعلم- في دينِهم ودنياهم، وفي أقوالهم وأفعالهم، المتجاوزين بها الحدَّ الشرعيَّ الذي جاء به النبي صلى الله عليه وسلم.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "تحريم التشدُّد والتكلُّف في الأمور كلِّها، والحث على اجتنابه في كل شيء؛ لا سيَّما في العبادات وتعظيم الصالحين.",
+  "طلب الأكمل في العبادة وغيرها أمر محمود؛ ويكون بمتابعة الشرع.",
+  "استحباب تأكيد الأمر الهام؛ لأن النبي صلى الله عليه وسلم كرَّر هذه الجملة ثلاثًا.",
+  "سماحة الإسلام ويُسْره."
+ ],
+ "id": "hadeethenc-3420",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (4/ 2055) (2670).\nالجديد في شرح كتاب التوحيد، للقرعاوي (ص180).\nالملخص في شرح كتاب التوحيد، لصالح الفوزان (ص167).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3420",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:35+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3420"
+ },
+ "source_categories": [
+  {
+   "id": "73",
+   "label": "توحيد الألوهية"
+  }
+ ],
+ "source_record_id": "3420",
+ "text": "عن عبد الله بن مسعود قال: قال رسول الله صلى الله عليه وسلم: «هَلَكَ الْمُتَنَطِّعُون» قالها ثلاثًا.",
+ "title": "هلك المتنطعون",
+ "topic": "belief",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3420",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:7eea65eabc818cda28ef126739aa50de0e8ea41a8e4e7ac1af31571fcedfdc0a",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এ হাদীসে দ্বীনের ও দুনিয়াবী ব্যাপারে, কথা ও কাজে হিদায়েত ও ইলেম ব্যতীত নিজের পক্ষ থেকে কঠোরতা অবলম্বনকারীদের ধ্বংস ও ক্ষতির কথা বর্ণনা করেছেন। সীমালঙ্ঘনকারীগণ শরী‘আতের সে সীমারেখা অতিক্রম করেছে যা নিয়ে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম আগমন করেছেন।",
+   "grade": "সহীহ",
+   "hints": [
+    "সকল ক্ষেত্রে কঠোরতা ও লৌকিকতা করা হারাম। সবসময় কঠোরতা পরিহার করতে উৎসাহিত করা হয়েছে; বিশেষ করে ইবাদত ও সৎ লোকদের সম্মানের ক্ষেত্রে।\r",
+    "ইবাদত ও অন্য ক্ষেত্রে পূর্ণতা তালাশ করা প্রশংসনীয় কাজ; তবে তা যেন অবশ্যই শরী‘আহ অনুসারে হয়।\r",
+    "গুরুত্বপূর্ণ বিষয়ে তাগিদ দেওয়া মুস্তাহাব। কেননা নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম উক্ত বাক্যটি তিনবার বলেছেন।\r",
+    "হাদীসে ইসলামের উদারতা ও সহজতা বর্ণিত হয়েছে।"
+   ],
+   "mapping": "same HadeethEnc record id 3420; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:33+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3420",
+   "text": "আব্দুল্লাহ ইবনু মাসউদ রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন: “দ্বীনের ব্যাপারে নিজের পক্ষ থেকে কঠোরতা অবলম্বনকারীরা ধ্বংস হ। ১ তিনি কথাটি তিনবার বলেছেন।",
+   "title": "“দ্বীনের ব্যাপারে নিজের পক্ষ থেকে কঠোরতা অবলম্বনকারীরা ধ্বংস হ।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3420",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:63598e1d6509b189777675110c2b2bbe89d7745d2b40b2a5e716ea68321c3c9d",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) informs about the failure and loss of those who go to extremes - without guidance or knowledge - in their religious and worldly affairs and in their words and deeds, exceeding the Shariah-the prescribed limit outlined by the Prophet (may Allah's peace and blessings be upon him).",
+   "grade": "Authentic",
+   "hints": [
+    "It prohibits extremism and immoderation in all matters and encourages its avoidance in everything, particularly in worship and the extolling of righteous people.\r",
+    "Seeking what is more perfect in worship and in other things is commendable, and it should be achieved by adhering to Shariah.\r",
+    "It is recommended to stress important things, as the Prophet (may Allah's peace and blessings be upon him) repeated his statement three times.\r",
+    "It shows the tolerance and ease of Islam."
+   ],
+   "mapping": "same HadeethEnc record id 3420; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:32+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3420",
+   "text": "‘Abdullāh ibn Mas‘ūd (may Allah be pleased with him) reported: The Messenger of Allah (may Allah’s peace and blessings be upon him) said: \"Ruined are the extremists.\" He said it thrice.",
+   "title": "Ruined are the extremists",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=3420",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:b5db5bd26ea9b4fed93f93e159d07f1138ccb4d58cd83c5884441f7ea9ecf45d",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) informe de la perte et de la ruine des rigoristes extrêmes - [dont la rigueur ne se base] ni sur une guidée, ni sur une science - dans leur religion et leur vie mondaine, ainsi que dans leurs paroles et leurs actes, ceux qui dépassent la limite légale avec laquelle est venu le Prophète (qu'Allah le couvre d'éloges et le préserve).",
+   "grade": "Authentique",
+   "hints": [
+    "L'interdiction du rigorisme extrême et de l'exagération dans toutes les affaires ; l'incitation à les éviter dans toute chose qui plus est dans les adorations et la vénération des gens vertueux.\r",
+    "Rechercher la complétude dans l'adoration et d'autres domaines est une chose louable, et cela se fait  par le suivi de la législation.\r",
+    "Il est souhaitable d'insister sur toute affaire importante, ceci, car le Prophète (qu'Allah le couvre d'éloges et le préserve) a répété cette phrase à trois reprises.\r",
+    "La bienveillance de l'Islam et sa facilité."
+   ],
+   "mapping": "same HadeethEnc record id 3420; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:33+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/3420",
+   "text": "'Abdoullah ibn Mas'oûd (qu'Allah l'agrée) relate : \" Le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) a dit : \" Que soient détruits les extrémistes ! \" Il le répéta à trois reprises.",
+   "title": "Que soient détruits les extrémistes",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3420",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:e619733df6ba4fcd3fe9cbd204649d81cee187d873e496955d029cd7ace507b8",
+   "explanation": "Nabi ﷺ mengabarkan tentang kerugian orang-orang yang berlebihan -tidak di atas petunjuk dan ilmu- dalam agama dan dunia mereka, serta dalam ucapan dan perbuatan mereka, yaitu orang-orang yang melampaui batas syariat yang dibawa oleh Nabi ﷺ.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Pengharaman sikap berlebihan dan memaksakan diri dalam semua urusan, serta anjuran untuk menjauhinya dalam semua perkara, terutama dalam ibadah dan mengagungkan orang-orang saleh.\r",
+    "2- Mengejar hasil yang paling sempurna dalam ibadah dan lainnya adalah perkara terpuji, yaitu dengan mengikuti syariat.\r",
+    "3- Anjuran untuk menegaskan perkara yang penting, karena Nabi ﷺ mengulang-ulang kalimat ini tiga kali.\r",
+    "4- Kelonggaran dan kemudahan agama Islam."
+   ],
+   "mapping": "same HadeethEnc record id 3420; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:33+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3420",
+   "text": "Abdullah bin Mas'ūd -raḍiyallāhu 'anhu- meriwayatkan, ia berkata, Rasulullah ﷺ bersabda, \"Binasalah orang-orang yang berlebih-lebihan.\" Beliau mengucapkannya tiga kali.",
+   "title": "Binasalah orang-orang yang berlebih-lebihan",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3420",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:fa557744a053a185b54cc4c8c9518206638859ef81357bb5f9928645614a91b1",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم -آسمانی ہدایت اور دلیل کے بغیر- اپنے دین و دنیا اور اپنے اقوال و افعال میں بال کی کھال نکالنے والوں اور اللہ کے رسول صلی اللہ علیہ و سلم کی بیان کردہ شرعی حد سے آگے بڑھنے والوں کی ناکامی اور خسارے کی نشان دہی کی ہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "کسی بھی کام میں تشدد اور تکلف کا شکار ہونا حرام ہے اور اس سے اجتناب کرنے کی ترغیب دی گئی ہے۔ خاص طور سے عبادتوں اور نیک لوگوں کی تعظیم کے مسئلے میں۔\r",
+    "عبادت وغیرہ میں زیادہ کامل صورت کی تلاش ایک قابل تعریف بات ہے اور یہ شریعت کی پیروی سے حاصل ہوتی ہے۔\r",
+    "اہمیت کی حامل بات کی تاکید مستحب ہے، کیوں کہ اللہ کے نبی صلی اللہ علیہ و سلم نے اس جملے کو تین بار دوہرایا ہے۔\r",
+    "مذہب اسلام میں موجود نرمی اور آسانی کا بیان۔"
+   ],
+   "mapping": "same HadeethEnc record id 3420; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:32+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3420",
+   "text": "عبد اللہ بن مسعود رضی اللہ عنہما سے روایت ہے، وہ کہتے ہیں کہ اللہ کے رسول صلی اللہ علیہ و سلم نے فرمایا: \"غلو کرنے والے ہلاک ہو گئے۔\" یہ بات آپ نے تین بار فرمائی۔",
+   "title": "غلو کرنے والے ہلاک ہو گئے",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3420",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:8ad6db424a1d32d4b0f578c7f364ab8837c7e9422398e6d59706b108c47ac7ab",
+   "explanation": "先知（愿主福安之）叙述道，在教门和今世之事物当中，那些无知且极端者的亏折和失败，他们言行极端，且超越先知（愿主福安之）所带来的宗教法度。",
+   "grade": "正确的",
+   "hints": [
+    "一切事物当中禁止极端和过分，对待任何事不要走极端之道路，特别是功修和尊重清廉之人这一方面。\r",
+    "功修当中追求完美是一件可颂的事情，但必须要符合教法。\r",
+    "重要的事情多次强调为可嘉，因为使者（愿主福安之）重复此话三次。\r",
+    "伊斯兰之宽宏和易行。"
+   ],
+   "mapping": "same HadeethEnc record id 3420; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:32+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3420",
+   "text": "据阿卜杜拉·本·麦斯欧德（愿主喜悦之）传述说：安拉的使者（愿主福安之）说： “愿极端之人遭毁灭”，使者说了三次。",
+   "title": "“愿极端之人遭毁灭",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

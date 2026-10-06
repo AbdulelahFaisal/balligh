@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-10220",
+ "source_content_sha256": "sha256:dce4f55a155bb5c4f05e91a806ba7417d619591a0752fd30b31ae33a29daf7a8",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:26:39.863906+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 379,
+  "completion_tokens": 225,
+  "total_tokens": 604,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 379
+ },
+ "latency_ms": 2866,
+ "units": [
+  {
+   "id": "title",
+   "text": "Le jugement de celui qui a l'intention de jeûner et n'a pas pris le repas de l'aube"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Celui qui se réveille avant le lever du soleil, avec l'intention de jeûner, son jeûne est-il valide ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Oui, son jeûne est valide, même s'il n'a pas pris le repas de l'aube (suhour), louange à Allah, oui. Le critère est l'intention, car les actes ne valent que par les intentions, louange à Allah, oui."
+  }
+ ]
+}

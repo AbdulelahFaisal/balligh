@@ -1,0 +1,179 @@
+{
+ "attribution": "رواه البخاري",
+ "content_sha256": "sha256:3fb01404d16f103e85bdeab94fa0a2bfaedb56a99d2c28cb3c00c3ae7cb45632",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "كانَ النبيُّ صلى الله عليه وسلم إذا أراد الغسل من الجنابة بَدأ بغسل يديه، \nثم يتوضأ كما يتوضأ للصلاة، ثم يُفيضُ الماءَ على جسدِه، ثم يُخَلِّلُ شَعَرَ رأسِه بيديه، حتى إذا ظَنَّ أنه وَصَلَ الماءُ إلى أُصُولِ الشعر، وأروى البَشَرةَ، صَبَّ الماءَ على رأسِهِ ثلاثَ مَرَّات ثم غَسَلَ باقي جسدِه. \nوقالتْ عائشةُ رضي الله عنها: كنتُ أَغْتَسِلُ أنا ورسولُ اللَّهِ صلى الله عليه وسلم مِنْ إِنَاءٍ واحدٍ، نَغْرِفُ منه جميعًا.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "الغسل نوعان: مُجْزِئٌ وكامِلٌ، أمَّا الغسلُ المُجزئ فيَنْوي الإنسانُ الطهارةَ، ثم يُعَمِّمُ جسدَه بالماءِ مع المضمضةِ والاستنشاق، وأمَّا الغسل الكامل فيَغتَسل كما اغتسل النبي صلى الله عليه وسلم في هذا الحديث.",
+  "تطلق الجنابة على كل مَن أَنْزَل المَنِيَّ، أو جامَعَ ولو لم ينزل.",
+  "جواز نظر أحد الزوجين لعورة الآخر، وغسلهما من إناء واحد."
+ ],
+ "id": "hadeethenc-3316",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (1/ 63) (272، 273).\nالإلمام بشرح عمدة الأحكام، لإسماعيل الأنصاري (1/ 48).\nتيسير العلام شرح عمدة الأحكام، للبسام (ص62).\nخلاصة الكلام شرح عمدة الأحكام، لفيصل آل مبارك (ص33).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3316",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:44+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3316"
+ },
+ "source_categories": [
+  {
+   "id": "438",
+   "label": "الغسل"
+  }
+ ],
+ "source_record_id": "3316",
+ "text": "عَنْ عَائِشَةَ أُمِّ المؤمنين رضي الله عنها قَالَتْ: كَانَ رَسُولُ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ إِذَا اغْتَسَلَ مِنَ الجَنَابَةِ، غَسَلَ يَدَيْهِ، وَتَوَضَّأَ وُضُوءَهُ لِلصَّلاَةِ، ثُمَّ اغْتَسَلَ، ثُمَّ يُخَلِّلُ بِيَدِهِ شَعَرَهُ، حَتَّى إِذَا ظَنَّ أَنَّهُ قَدْ أَرْوَى بَشَرَتَهُ، أَفَاضَ عَلَيْهِ المَاءَ ثَلاَثَ مَرَّاتٍ، ثُمَّ غَسَلَ سَائِرَ جَسَدِهِ، وَقَالَتْ: كُنْتُ أَغْتَسِلُ أَنَا وَرَسُولُ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مِنْ إِنَاءٍ وَاحِدٍ، نَغْرِفُ مِنْهُ جَمِيعًا.",
+ "title": "كان رسول الله صلى الله عليه وسلم إذا اغتسل من الجنابة، غسل يديه، وتوضأ وضوءه للصلاة، ثم اغتسل",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3316",
+   "arabic_match": "exact",
+   "attribution": "এটি বুখারী বর্ণনা করেছেন।",
+   "content_sha256": "sha256:b64d57fb8fb6530b7b9715f12e0df16913901823087491fc478ea37dad60c30a",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম যখন নাপাকি হতে ফরয গোসল করতে ইচ্ছে করতেন তখন দুই হাত ধৌত করার মাধ্যমে তা শুরু করতেন। অতঃপর তিনি সালাতের অযুর মতো করে অযু করতেন। অতঃপর তাঁর শরীরে পানি প্রবাহিত করে দিতেন। তারপর তিনি তার হাত দিয়ে মাথার চুল খিলাল করতেন। তারপর যখন তিনি নিশ্চিত হতেন যে, তিনি চুলের গোড়ায় চামড়াতে পানি পৌছাতে সক্ষম হয়েছেন তখন তিনি তাঁর মাথার ওপর তিনবার পানি প্রবাহিত করতেন। অতঃপর তিনি তাঁর সমস্ত শরীর ধৌত করতেন। আর আয়েশা রাদিয়াল্লাহু ‘আনহা বলেন: আমি এবং রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম একই পাত্র থেকে পানি নিয়ে গোসল করতাম। আমরা উভয়েই তা থেকে পানি উঠাতাম।",
+   "grade": "সহীহ",
+   "hints": [
+    "গোসল দুই প্রকার: যথেষ্ট হয়ে যায় এমন গোসল ও পরিপূর্ণ গোসল। যথেষ্ট গোসল হলো একজন ব্যক্তি নিজেকে পবিত্র করার নিয়ত করবে, তারপর কুলি ও নাকে পানি দেওয়াসহ তার সমস্ত শরীরে পানি প্রবাহিত করবে। অন্যদিকে পরিপূর্ণ গোসল হলো, এ হাদীসে বর্ণিত রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম যেভাবে গোসল করেছেন সেভাবে গোসল করা।\r",
+    "বীর্যপাত ঘটলে বা সহবাস করলে যদিও বীর্য নির্গত না হয়, গোসল ফরয হবে।\r",
+    "স্বামী-স্ত্রী একে অপরের গুপ্তাঙ্গ দেখা এবং একই পাত্র থেকে তাদের গোসল করা জায়েয।"
+   ],
+   "mapping": "same HadeethEnc record id 3316; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:07+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3316",
+   "text": "উম্মুল মু’মিনীন ‘আয়েশা রাদিয়াল্লাহু ‘আনহা থেকে বর্ণিত, তিনি বলেন: كَانَ رَسُولُ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ إِذَا اغْتَسَلَ مِنَ الجَنَابَةِ، غَسَلَ يَدَيْهِ، وَتَوَضَّأَ وُضُوءَهُ لِلصَّلاَةِ، ثُمَّ اغْتَسَلَ، ثُمَّ يُخَلِّلُ بِيَدِهِ شَعَرَهُ، حَتَّى إِذَا ظَنَّ أَنَّهُ قَدْ أَرْوَى بَشَرَتَهُ، أَفَاضَ عَلَيْهِ المَاءَ ثَلاَثَ مَرَّاتٍ، ثُمَّ غَسَلَ سَائِرَ جَسَدِهِ، وَقَالَتْ: كُنْتُ أَغْتَسِلُ أَنَا وَرَسُولُ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مِنْ إِنَاءٍ وَاحِدٍ، نَغْرِفُ مِنْهُ جَمِيعًا.\n“রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম যখন নাপাকি হতে ফরয গোসল করতেন তখন দুই হাত ধৌত করতেন। তারপর তিনি সালাতের অযুর মতো করে অযু করতেন। তারপর গোসল করতেন। তারপর তিনি তার হাত দিয়ে চুল খিলাল করতেন। তারপর যখন তিনি নিশ্চিত হতেন যে, তিনি চুলের গোড়ায় চামড়াতে পানি পৌছাতে সক্ষম হয়েছেন তখন তিনি তার ওপর তিনবার পানি প্রবাহিত করতেন। তারপর তিনি সমগ্র শরীর ধৌত করতেন। আর তিনি (আয়েশা রাদিয়াল্লাহু ‘আনহা ) বলেন: আমি এবং রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম একই পাত্র থেকে পানি নিয়ে গোসল করতাম। আমরা উভয়েই তা থেকে পানি উঠাতাম।”",
+   "title": "كَانَ رَسُولُ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ إِذَا اغْتَسَلَ مِنَ الجَنَابَةِ، غَسَلَ يَدَيْهِ، وَتَوَضَّأَ وُضُوءَهُ لِلصَّلاَةِ، ثُمَّ اغْتَسَلَ",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3316",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Al-Bukhāri",
+   "content_sha256": "sha256:74e7e90aaf64c04176d6144a1161b33f3b30025abab1b21e8f81c63647ba79e9",
+   "explanation": "On taking a ritual bath from Janābah, the Prophet (may Allah's peace and blessings be upon him) would start washing his hands. Then, he would make Wudū’ (ablution) as he would for prayer. Then, he would pour water over his body. Then, he would run his wet hands through his hair, and when feeling that water had reached the roots of the hair and had wetted the skin, he would pour the water thrice over his head, then, he would wash the rest of his body. ‘Ā’ishah (may Allah be pleased with her) said: I and the Messenger of Allah (may Allah's peace and blessings be upon him) used to bathe from a single container from which we would take water simultaneously.",
+   "grade": "Authentic",
+   "hints": [
+    "Ghusl (ritual bath) has two types: valid and perfect. In the valid Ghusl, one intends Tahārah (ritual purification), then washes his whole body with water along with making Madmadah (rinsing the mouth) and Istinshāq (sniffing water into the nose and blowing it out). As for the perfect Ghusl, one takes a bath in the same manner the Prophet (may Allah's peace and blessings be upon him) did in this Hadīth.\r",
+    "Janābh is used to refer to whoever ejaculated or had sexual intercourse without ejaculating.\r",
+    "It is permissible for the spouses to look at each other's ‘Awrah (private parts) and to take a bath together from the same vessel."
+   ],
+   "mapping": "same HadeethEnc record id 3316; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:07+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3316",
+   "text": "‘Ā’ishah, the Mother of the Believers, (may Allah be pleased with her) reported: On taking a ritual bath from Janābah (major ritual impurity), the Messenger of Allah (may Allah's peace and blessings be upon him) used to wash his hands and perform ablution like that for prayer, then wash himself. He would, then, run his wet hand through his hair until he would feel that his skin had become wet. Then, he would pour water thrice over it, and then wash the rest of his body. She further said: I and the Messenger of Allah (may Allah's peace and blessings be upon him) used to bathe from a single container from which we used to take water simultaneously.",
+   "title": "On taking a ritual bath from Janābah (major ritual impurity), the Messenger of Allah (may Allah's peace and blessings be upon him) used to wash his hands and perform ablution like that for prayer, then wash himself",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=3316",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî",
+   "content_sha256": "sha256:aef325af5dcce544f1a375e010360faa9620de522a760b587ace81e859cbb4ae",
+   "explanation": "Lorsque le Prophète ﷺ voulait se laver de l'impureté majeure, il commençait par se laver les mains ; ensuite, il faisait ses ablutions comme les ablutions pour la prière ; puis, il versait de l'eau sur tout son corps ; ensuite, il se frottait les cheveux avec ses deux mains jusqu'à ce qu'il fut certain que l'eau atteigne bien les racines de cheveux ; puis, il se mouillait la peau et versait de l'eau sur sa tête, trois fois ; et enfin, il lavait le reste de son corps. 'Aïcha (qu'Allah l'agrée) a dit : \" Le Messager d'Allah ﷺ et moi-même nous lavions à partir d'un même récipient et nous y puisions tous les deux ensemble. \"",
+   "grade": "Authentique",
+   "hints": [
+    "Il y a deux types de lavage : un lavage partiel et un lavage complet. En ce qui concerne le lavage partiel, c'est le fait que la personne ait comme intention de se purifier, ensuite elle verse de l'eau sur tout son corps en faisant bien \" Al Madmadah \" et \" Al Istinchâq \". Concernant le lavage complet, c'est le fait que la personne se lave comme le Prophète ﷺ s'est lavé dans ce hadith.\r",
+    "L'état d'impureté majeure (Al Janâbah) désigne toute personne qui a une éjaculation de sperme ou qui a eu un rapport sexuel même s'il n'y a pas eu d'éjaculation.\r",
+    "La permission pour les conjoints de voir l'intimité de chacun et de se laver ensemble dans un seul et même récipient."
+   ],
+   "mapping": "same HadeethEnc record id 3316; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:08+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/3316",
+   "text": "D'après 'Aïcha, la mère des croyants (qu’Allah l’agrée), qui a dit : « Lorsque le Messager d'Allah ﷺ se lavait suite à un état d'impureté majeure, il commençait par se laver les mains, ensuite il effectuait ses petites ablutions comme pour la prière, puis il se lavait  , ensuite il se frictionnait les cheveux avec ses deux mains jusqu'à s'assurer que le cuir chevelu soit bien trempé. À ce moment-là, il versait de l'eau sur lui par trois fois. Ensuite, il se lavait le reste du corps. Et 'Aïcha a dit : « Je me lavais, moi et le Messager d'Allah ﷺ, d'un même récipient et nous y puisions tous les deux ensemble.",
+   "title": "Lorsque le Messager d'Allah ﷺ se lavait suite à un état d'impureté majeure, il commençait par se laver les mains, ensuite il effectuait ses petites ablutions comme pour la prière, puis il se lavait",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3316",
+   "arabic_match": "exact",
+   "attribution": "HR. Bukhari",
+   "content_sha256": "sha256:8f5cda9bc5cef5bd9324ec5a5c248cb73cf92a6d7e0bf714334f3d8bd16072ed",
+   "explanation": "Apabila Nabi ﷺ hendak mandi janabah, beliau mulai dengan membasuh kedua tangan. Lalu berwudu seperti wudu untuk salat dan menyiramkan air ke seluruh tubuhnya. Kemudian beliau menyela-nyela rambut kepalanya dengan kedua tangan, sampai beliau yakin air telah sampai ke pangkal rambut dan membasahi kulit kepala. Lalu beliau mengguyur kepalanya dengan air sebanyak tiga kali, kemudian membasuh bagian tubuh lainnya. Aisyah -raḍiyallāhu 'anhā- berkata, \"Aku dan Rasulullah ﷺ pernah mandi bersama dari satu bejana, kami menggayung air bersamaan.\"",
+   "grade": "Sahih",
+   "hints": [
+    "1- Mandi terbagi menjadi dua: cara yang cukup dan sempurna. Mandi yang cukup adalah seseorang berniat untuk bersuci lalu meratakan air ke seluruh tubuh disertai kumur-kumur dan menghirup air ke dalam hidung. Sedangkan mandi yang sempurna ialah melakukan mandi seperti yang dipraktikkan oleh Nabi ﷺ di dalam hadis ini.\r",
+    "2- Istilah junub digunakan pada semua orang yang mengeluarkan mani atau berhubungan badan walaupun tidak sampai mengeluarkan mani.\r",
+    "3- Suami istri boleh saling melihat aurat dan mandi dari satu bejana."
+   ],
+   "mapping": "same HadeethEnc record id 3316; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:07+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3316",
+   "text": "Ummul Mukminin Aisyah -raḍiyallāhu 'anhā- berkata, \"Apabila Rasulullah ﷺ mandi janabah, beliau mencuci kedua tangannya dan berwudu seperti wudu untuk salat lalu mandi. Kemudian beliau menyela-nyela rambutnya dengan tangan sampai beliau yakin telah membasahi kulit kepalanya. Beliau menyiramkan air di kepalanya sebanyak tiga kali kemudian membasuh semua tubuhnya.\" \nAisyah juga berkata, \"Aku pernah mandi bersama Rasulullah ﷺ dari satu wadah, kami menggayung air bersamaan.\"",
+   "title": "Apabila Rasulullah ﷺ mandi janabah, beliau mencuci kedua tangannya dan berwudu seperti wudu untuk salat lalu mandi",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3316",
+   "arabic_match": "exact",
+   "attribution": "رواه البخاري",
+   "content_sha256": "sha256:e5ac4b2a12db574ae89e8a9571440551bca1fcd7ca22022b26022270dc86eac3",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم جب غسل جنابت کا ارادہ کرتے، تو سب سے پہلے اپنے دونوں ہاتھوں کو دھوتے۔ پھر نماز کے وضو کی طرح وضو کرتے۔ پھر اپنے جسم پر پانی بہاتے۔ پھر اپنے دونوں ہاتھوں سے اپنے سر کے بالوں کا خلال کرتے۔ یہاں تک کہ جب سمجھتے کہ بال کی جڑوں تک پانی پہنچ چکا ہے اور سر کی کھال تر ہو گئی ہے، تو تین بار اپنے سر پر پانی ڈالتے اور اس کے بعد باقی جسم کو دھوتے۔ آگے عائشہ رضی اللہ عنہا کہتی ہیں: میں اور اللہ کے رسول صلی اللہ علیہ و سلم ایک ہی برتن سے وضو کرتے تھے اور ہم دونوں ہاتھ ڈال کر پانی لیتے تھے۔",
+   "grade": "صحيح",
+   "hints": [
+    "غسل کی دو قسمیں ہیں: کفایت کرنے والا غسل اور کامل غسل۔ کفایت کرنے والا غسل یہ ہے کہ انسان طہارت کی نیت کرے اور پورے جسم پر پانی بہا دے۔ ساتھ ہی کلی بھی کر لے اور ناک بھی جھاڑ  لے۔ جب کہ کامل غسل یہ ہے کہ غسل اسی طرح کیا جائے، جس طرح اللہ کے نبی صلی اللہ علیہ و سلم  نے اس حدیث میں کرکے دکھایا ہے۔\r",
+    "لفظ جنابت کا استعمال ہر اس شخص پر ہوتا ہے، جس کا انزال ہوا ہو یا جس نے جماع کیا ہو، چاہے انزال نہ بھی ہوا ہو۔\r",
+    "میاں بیوی میں سے ہر ایک کا دوسرے کی شرمگاہ کو دیکھنے اور دونوں کا ایک برتن سے غسل كرنے كا جواز۔"
+   ],
+   "mapping": "same HadeethEnc record id 3316; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:07+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3316",
+   "text": "امّ المؤمنین عائشہ رضی اللہ عنہا سے روایت ہے، وہ کہتی ہيں: اللہ کے نبی صلی اللہ علیہ و سلم جب غسل جنابت فرماتے، تو اپنے دونوں ہاتھوں کو دھوتے اور نماز کے وضو کی طرح وضو کرتے، پھر غسل کرتے، پھر اپنے ہاتھ سے اپنے بال کا خلال کرتے، یہاں تک کہ جب سمجھتے کہ کھال تر ہوگئی ہے، تو اپنے اوپر تین بار پانی بہاتے، پھر پورے جسم کو دھوتے۔ وہ کہتی ہیں: میں اور اللہ کے رسول صلی اللہ علیہ و سلم ایک ہی برتن سے ایک ساتھ چلو بھر کر پانی لیتے اور غسل کر لیا کرتے تھے۔",
+   "title": "اللہ کے نبی صلی اللہ علیہ و سلم جب غسل جنابت فرماتے، تو اپنے دونوں ہاتھوں کو دھوتے اور نماز کے وضو کی طرح وضو کرتے، پھر غسل کرتے",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3316",
+   "arabic_match": "exact",
+   "attribution": "布哈里辑录",
+   "content_sha256": "sha256:d70f804f0ee47461abb6cb244ded5dc9f600fc6d49912a1764b5162a6f7e2fd5",
+   "explanation": "当先知（愿主福安之）想要洗大净时，他首先开始洗手， 然后洗小净犹如为礼拜而洗小净一般，然后把水洒在身体上，用手抓洗头发，直到他认为水已经到达头发的根部并且浸湿了皮肤，然后他会将水洒在头上三次，清洗身体的其余部分。 阿伊莎（愿主喜悦她）说：我和安拉的使者（愿主福安之）曾使用同一个容器洗大净，我们一起从中取水。",
+   "grade": "正确的",
+   "hints": [
+    "大净分为两种：满足的大净和完美的大净，至于满足大净：即：举意大净，然后水洗周身，同时漱口和呛鼻。至于完美的大净则是像先知在（愿主福安之）这个圣训中所做的那样。\r",
+    "「大污秽」一词适用于所有排精的人，即使没有射精，只是性交也适用。\r",
+    "配偶看到另一方的私处是允许的，并且两个人可以使用同一个容器洗大净。"
+   ],
+   "mapping": "same HadeethEnc record id 3316; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:07+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3316",
+   "text": "据信士之母阿伊莎（愿主喜悦她）的传述：她说： 当安拉的使者（愿主福安之）洗大净时，他先洗双手，然后做了小净，接着再次洗身。然后他用手抓洗头发，直到他觉得水已到达头皮，然后用水冲洗三次。接着，他洗净了身体的其余部分。她说：“我和先知（愿主福安之）一起使用同一个容器洗澡，我们一起从中取水。”",
+   "title": "当安拉的使者（愿主福安之）洗大净时，他先洗双手，然后做了小净，接着再次洗身。",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [
+  {
+   "meaning": " التخليل هنا إدخال الأصابع المبتلة بين أجزاء الشعر.",
+   "word": "ثُمَّ يُخَلِّلُ بِيَدَيْهِ شَعْرَهُ"
+  },
+  {
+   "meaning": " أوصل الماء إلى أصول الشعر، والبشرة المرادة هنا: ظاهر الجلد المستور بالشعر.",
+   "word": "أَنَّهُ قَدْ أَرْوَى بَشَرَتَهُ"
+  }
+ ],
+ "words_meanings_language": "ar"
+}

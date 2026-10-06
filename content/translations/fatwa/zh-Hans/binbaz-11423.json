@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-11423",
+ "source_content_sha256": "sha256:9eab42b034464482796fb37e0978f5e88a00436e16cead27ab89b2744e2a4705",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:20:59.773736+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 700,
+  "completion_tokens": 470,
+  "total_tokens": 1170,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 700
+ },
+ "latency_ms": 4379,
+ "units": [
+  {
+   "id": "title",
+   "text": "解释伊斯兰的含义"
+  },
+  {
+   "id": "q0",
+   "text": "问题："
+  },
+  {
+   "id": "q1",
+   "text": "一位用代号（M）的女士问：请解释伊斯兰的含义？"
+  },
+  {
+   "id": "a0",
+   "text": "回答："
+  },
+  {
+   "id": "a1",
+   "text": "伊斯兰的含义是：通过认主独一而顺服真主，以谦卑和恭敬的态度服从他，这就是伊斯兰的含义。人们说“某人伊斯兰了某人”，意思是：他向他表示谦卑，服从他，并满足他的要求。所以伊斯兰的含义是：对真主谦卑，通过认主独一、虔诚敬拜他、服从他的命令、远离他的禁令来顺服真主。这就是伊斯兰。真主说：⟦Q1⟧ [仪姆兰的家属章：19]，穆斯林之所以被称为穆斯林，是因为他顺服真主，对他谦卑，在履行他的命令和远离他的禁令方面服从他——赞颂他超绝万物。"
+  },
+  {
+   "id": "a2",
+   "text": "伊斯兰也泛指真主及其使者所命令的一切，如礼拜、斋戒、朝觐、信仰等等，所有这些都称为伊斯兰。正如真主（至高无上）说：⟦Q2⟧ [仪姆兰的家属章：19]，真主说：⟦Q3⟧ [筵席章：3]，真主（赞颂他超绝万物）说：⟦Q4⟧ [仪姆兰的家属章：85]。"
+  },
+  {
+   "id": "a3",
+   "text": "穆斯林就是在言语、行为和信仰上服从真主命令的人。伊斯兰就是服从真主的命令，顺服真主的命令，从各个方面对真主的命令表示谦卑。是的。"
+  },
+  {
+   "id": "a4",
+   "text": "主持人：愿真主赐福您，尊敬的谢赫。"
+  }
+ ]
+}

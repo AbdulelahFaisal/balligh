@@ -1,0 +1,174 @@
+{
+  "schema": "balligh.site-help/1",
+  "version": "g4v1-1",
+  "entries": [
+    {
+      "id": "help-learn-first-steps",
+      "title": {
+        "en": "Start learning with First steps",
+        "ar": "ابدأ التعلّم بالخطوات الأولى"
+      },
+      "href": "/learn",
+      "text": {
+        "en": "Open Learn and press “Start with step 1” to begin First steps: a short selection of two short surahs, a few clear published answers and hadith. Each step opens the full source in the library. Reading needs no quiz, and the steps follow an editorial reading order, not a curriculum or a scholarly approval.",
+        "ar": "افتح «تعلّم» واضغط «ابدأ بالخطوة الأولى» لتبدأ «الخطوات الأولى»: مجموعة قصيرة تضم سورتين قصيرتين وبعض الإجابات المنشورة الواضحة وأحاديث. تفتح كل خطوة المصدر كاملًا في المكتبة. لا تتطلب القراءة أي اختبار، والخطوات تتبع ترتيبًا تحريريًا للقراءة، وليست منهجًا دراسيًا ولا اعتمادًا علميًا."
+      }
+    },
+    {
+      "id": "help-continue-reading",
+      "title": {
+        "en": "Continue where you stopped",
+        "ar": "المتابعة من حيث توقفت"
+      },
+      "href": "/learn",
+      "text": {
+        "en": "If you saved a place, Learn shows “Continue reading” with the title and a “Continue where you stopped” button that opens the text at that place. If the saved place no longer matches the current version of the source, Learn does not offer it and tells you so. If you open a saved place that no longer matches, or that is not found in the text, the page opens at the beginning.",
+        "ar": "إذا حفظت موضعًا، تعرض صفحة «تعلّم» «متابعة القراءة» مع العنوان وزر «تابع من حيث توقفت» الذي يفتح النص عند ذلك الموضع. وإذا لم يعد الموضع المحفوظ يطابق النسخة الحالية من المصدر، فلا تعرضه الصفحة وتخبرك بذلك. وإذا فتحت موضعًا محفوظًا لم يعد مطابقًا أو لم يُعثر عليه في النص، تُعرض الصفحة من أولها."
+      }
+    },
+    {
+      "id": "help-save-place",
+      "title": {
+        "en": "Save my place here",
+        "ar": "احفظ موضعي هنا"
+      },
+      "href": "/library",
+      "text": {
+        "en": "In the library readers, press “Save my place here” next to an ayah, a question or an answer, or a hadith text or its explanation. Your place is saved in this browser only; it is not synced to other devices or browsers. Saving a new place replaces the previous one. If the browser does not allow saving, the place is kept only while the page stays open.",
+        "ar": "في قارئات المكتبة، اضغط «احفظ موضعي هنا» بجوار آية، أو سؤال أو جواب، أو نص حديث أو شرحه. يُحفظ موضعك في هذا المتصفح فقط، ولا يُزامَن مع أجهزة أو متصفحات أخرى. حفظ موضع جديد يحل محل الموضع السابق. وإذا لم يسمح المتصفح بالحفظ، فلا يبقى الموضع إلا ما دامت الصفحة مفتوحة."
+      }
+    },
+    {
+      "id": "help-interface-vs-reading-language",
+      "title": {
+        "en": "Interface language and reading language",
+        "ar": "لغة الواجهة ولغة القراءة"
+      },
+      "href": null,
+      "text": {
+        "en": "The “Interface language” menu at the top changes the site’s buttons and labels, and this browser remembers your choice. In the library, “Reading language” chooses which published translation is shown next to the Arabic original; it starts from your interface language. The Arabic original is always shown, and a translation appears only where a published one is available. The interface has 7 languages; its wording in languages other than Arabic and English is machine-drafted and unreviewed.",
+        "ar": "تغيّر قائمة «لغة الواجهة» في أعلى الصفحة أزرار الموقع وتسمياته، ويتذكر هذا المتصفح اختيارك. وفي المكتبة، تحدد «لغة القراءة» الترجمة المنشورة التي تُعرض بجوار الأصل العربي، وتبدأ بلغة الواجهة. يُعرض الأصل العربي دائمًا، ولا تظهر ترجمة إلا حيث تتوفر ترجمة منشورة. للواجهة سبع لغات، ونصوصها في غير العربية والإنجليزية مسودات آلية غير مراجعة."
+      }
+    },
+    {
+      "id": "help-library-contents",
+      "title": {
+        "en": "What the library contains",
+        "ar": "محتوى المكتبة"
+      },
+      "href": "/library",
+      "text": {
+        "en": "The library has three collections: the Noble Quran (all 114 surahs) with the Arabic text and published translations of its meanings from QuranEnc; Fatwas answered by Sheikh Abdulaziz Ibn Baz, from binbaz.org.sa, in Arabic only; and authentic hadith from HadeethEnc.com with their grade, published explanation and published translations where available. Texts are shown as their publishers released them, and Balligh has not reviewed them.",
+        "ar": "تضم المكتبة ثلاث مجموعات: القرآن الكريم (السور الـ114 كلها) بنصه العربي وترجمات منشورة لمعانيه من موقع QuranEnc؛ و«فتاوى» أجاب عنها الشيخ عبد العزيز بن باز، من موقع binbaz.org.sa، بالعربية فقط؛ وأحاديث صحيحة من موقع HadeethEnc.com مع درجتها وشرحها المنشور وترجماتها المنشورة حيث تتوفر. تُعرض النصوص كما أصدرها ناشروها، ولم يراجعها «بلّغ»."
+      }
+    },
+    {
+      "id": "help-quran-translations",
+      "title": {
+        "en": "Quran translations of the meanings",
+        "ar": "ترجمات معاني القرآن"
+      },
+      "href": "/library/quran",
+      "text": {
+        "en": "The Quran reader shows the Arabic text with a published translation of the meanings in English, French, Urdu, Indonesian, Bengali or Chinese, each from a named edition on QuranEnc. If you choose Arabic as the reading language, the Quran is shown in Arabic without a translation. You can also show Al-Tafsir Al-Muyassar, which is a tafsir in Arabic, not a translation.",
+        "ar": "يعرض قارئ القرآن النص العربي مع ترجمة منشورة للمعاني بالإنجليزية أو الفرنسية أو الأردية أو الإندونيسية أو البنغالية أو الصينية، كل منها من إصدار مسمّى على موقع QuranEnc. وإذا اخترت العربية لغةً للقراءة، يُعرض القرآن بالعربية دون ترجمة. ويمكنك أيضًا إظهار «التفسير الميسر»، وهو تفسير بالعربية وليس ترجمة."
+      }
+    },
+    {
+      "id": "help-missing-translations",
+      "title": {
+        "en": "When no translation is available",
+        "ar": "عندما لا تتوفر ترجمة"
+      },
+      "href": "/library",
+      "text": {
+        "en": "When no published translation exists in your reading language, the reader says so and shows only the Arabic original. This applies to the Quran, to the questions and answers (published in Arabic only) and to hadith whose publisher has no translation in that language. Balligh does not show machine translations of these sources.",
+        "ar": "عندما لا توجد ترجمة منشورة بلغة القراءة التي اخترتها، يوضح القارئ ذلك ويعرض الأصل العربي فقط. ينطبق هذا على القرآن، وعلى الأسئلة والأجوبة (المنشورة بالعربية فقط)، وعلى الأحاديث التي لا تتوفر لها ترجمة من ناشرها بتلك اللغة. لا يعرض «بلّغ» ترجمات آلية لهذه المصادر."
+      }
+    },
+    {
+      "id": "help-quran-recitation",
+      "title": {
+        "en": "Listen to the recorded Quran recitation",
+        "ar": "الاستماع إلى تلاوة القرآن المسجّلة"
+      },
+      "href": "/library/quran",
+      "text": {
+        "en": "Each surah page has “Listen: recorded recitation”: a human recording by Yasser Al-Dosari (Hafs from Asim), streamed from MP3Quran; nothing is downloaded until you press “Play”. Start from an ayah (it stops at the end of the surah) or a Mushaf page (it stops at the end of that page), or press “Listen from ayah” next to an ayah; use “Pause” or “Stop” at any time. The ayah marked “Now reciting” follows the publisher’s published ayah timings; no one has confirmed by listening that it matches the audio exactly.",
+        "ar": "في صفحة كل سورة قسم «استماع: تلاوة مسجّلة»، وهو تسجيل بصوت القارئ ياسر الدوسري (حفص عن عاصم) يُبث من موقع MP3Quran، ولا يُنزَّل شيء حتى تضغط «تشغيل». ابدأ من آية (يتوقف عند نهاية السورة) أو من صفحة من المصحف (يتوقف عند نهاية تلك الصفحة)، أو اضغط «استمع من الآية» بجوار أي آية، واستخدم «إيقاف مؤقت» أو «إيقاف» متى شئت. الآية المعلَّمة بعبارة «تُتلى الآن» تتبع توقيتات الآيات التي نشرها الناشر، ولم يتحقق أحد بالاستماع من مطابقتها للصوت تمامًا."
+      }
+    },
+    {
+      "id": "help-prepare-lesson",
+      "title": {
+        "en": "Prepare a lesson",
+        "ar": "إعداد درس"
+      },
+      "href": "/setup",
+      "text": {
+        "en": "Preparing a lesson is optional and meant for teachers; reading never requires it. A “Prepare a lesson” button appears only on question and hadith pages registered as complete sources for lesson preparation; other pages say that lesson preparation is not available, and the Quran cannot be used for lesson preparation. On the preparation page, “Generate a draft” asks an AI model to write a short lesson from that source only, and the result is an unreviewed AI draft.",
+        "ar": "إعداد الدرس اختياري وموجّه للمعلمين، ولا تتطلبه القراءة أبدًا. يظهر زر «إعداد درس» فقط في صفحات الأسئلة والأحاديث المسجلة مصادرَ كاملةً لإعداد الدروس، وتوضح الصفحات الأخرى أن إعداد الدرس غير متاح لها، كما لا يمكن استخدام القرآن لإعداد الدروس. وفي صفحة الإعداد، يطلب زر «ولّد مسودة» من نموذج ذكاء اصطناعي كتابة درس قصير من ذلك المصدر وحده، والنتيجة مسودة ذكاء اصطناعي غير مراجعة."
+      }
+    },
+    {
+      "id": "help-compare-acknowledge",
+      "title": {
+        "en": "Compare the draft with the source and acknowledge it",
+        "ar": "مقارنة المسودة بالمصدر والإقرار بها"
+      },
+      "href": "/review",
+      "text": {
+        "en": "On the Review step, compare each lesson card with its source sentence shown under “Original”. When you have checked it, tick “I compared this version with the source” and press “Acknowledge this version”. This acknowledgment is saved only in this browser and is self-declared: it is not a verified identity, an institutional approval or a scholarly review. If the lesson changes afterwards, it is marked as changed after acknowledgment and must be checked and acknowledged again.",
+        "ar": "في خطوة «المراجعة»، قارن كل بطاقة من بطاقات الدرس بجملتها في المصدر المعروضة تحت «الأصل». وبعد أن تتحقق منها، حدّد «قارنت هذه النسخة بالمصدر» واضغط «أقرّ هذه النسخة». يُحفظ هذا الإقرار في هذا المتصفح فقط، وهو إقرار ذاتي: ليس هوية موثّقة ولا اعتمادًا مؤسسيًا ولا مراجعة علمية. وإذا تغيّر الدرس بعد ذلك، يُعلَّم بأنه تغيّر بعد الإقرار، ويجب فحصه والإقرار به من جديد."
+      }
+    },
+    {
+      "id": "help-lesson-files",
+      "title": {
+        "en": "Export and import lesson files",
+        "ar": "تصدير ملفات الدروس واستيرادها"
+      },
+      "href": "/preview",
+      "text": {
+        "en": "On the Lesson step, “Export HTML” and “Export JSON” ask your browser to download the open lesson; check your downloads to confirm the file was saved. “Import JSON”, available on the Lesson step and on Setup, opens a lesson file once it passes the checks, and asks before replacing an open lesson. An imported lesson always starts as a draft: any approval claimed in the file is ignored, so acknowledge it again if you agree with it.",
+        "ar": "في خطوة «الدرس»، يطلب زرا «صدّر HTML» و«صدّر JSON» من متصفحك تنزيل الدرس المفتوح، فتحقق من التنزيلات للتأكد من حفظ الملف. ويفتح زر «استورد JSON»، المتاح في خطوة «الدرس» وفي صفحة الإعداد، ملف الدرس بعد أن يجتاز الفحوص، ويسألك قبل استبدال درس مفتوح. يبدأ الدرس المستورد دائمًا مسودةً: يُتجاهل أي اعتماد يدّعيه الملف، فأقرّ به من جديد إن كنت توافق عليه."
+      }
+    },
+    {
+      "id": "help-assistant",
+      "title": {
+        "en": "About this assistant",
+        "ar": "عن هذا المساعد"
+      },
+      "href": null,
+      "text": {
+        "en": "The assistant answers one question at a time, using only these site-help entries or the source you are reading, and it shows the evidence it relied on. Its answers are AI explanations that no person has reviewed. For a question about the Quran, it returns the published Arabic text and, where available, the published translation of the meanings, with no AI-written explanation. It does not issue personal religious rulings; for those, ask a qualified person.",
+        "ar": "يجيب المساعد عن سؤال واحد في كل مرة، معتمدًا فقط على مداخل مساعدة الموقع هذه أو على المصدر الذي تقرؤه، ويعرض الأدلة التي استند إليها. إجاباته شروح من الذكاء الاصطناعي لم يراجعها أحد. وفي السؤال عن القرآن، يعرض النص العربي المنشور، والترجمة المنشورة للمعاني حيث تتوفر، دون أي شرح يكتبه الذكاء الاصطناعي. ولا يُصدر أحكامًا شرعية شخصية؛ فاسأل عنها شخصًا مؤهلًا."
+      }
+    },
+    {
+      "id": "help-unavailable-features",
+      "title": {
+        "en": "Features that are not available",
+        "ar": "ميزات غير متاحة"
+      },
+      "href": null,
+      "text": {
+        "en": "These features are not available on the site: voice conversation, generated narration or audio of lesson, question, answer or hadith texts, a book reader, and search across the whole library by meaning. The only recorded audio is the Quran recitation. The search on the question and hadith lists matches the words you type in titles, topics and references; it does not search the full text.",
+        "ar": "هذه الميزات غير متاحة في الموقع: المحادثة الصوتية، والقراءة الصوتية المولَّدة أو الصوت المولَّد لنصوص الدروس أو الأسئلة أو الأجوبة أو الأحاديث، وقارئ الكتب، والبحث في المكتبة كلها بحسب المعنى. والصوت المسجَّل الوحيد هو تلاوة القرآن. أما البحث في قائمتي الأسئلة والأحاديث فيطابق الكلمات التي تكتبها في العناوين والموضوعات والمراجع، ولا يبحث في النص الكامل."
+      }
+    },
+    {
+      "id": "help-sources-limits",
+      "title": {
+        "en": "Sources and limitations page",
+        "ar": "صفحة المصادر والحدود"
+      },
+      "href": "/sources",
+      "text": {
+        "en": "The “Sources & limits” link at the top of the site opens the source registry with each source’s rights, version and provenance, a table of language readiness, and the known limitations. In that table, “Generation tested” is a technical check, not a content review, and no language has reviewed content.",
+        "ar": "يفتح رابط «المصادر والحدود» في أعلى الموقع سجلّ المصادر مع حقوق كل مصدر ونسخته ومنشئه، وجدولًا لجاهزية اللغات، والحدود المعروفة. وفي ذلك الجدول، «اختُبر التوليد» فحص تقني وليس مراجعة للمحتوى، ولا توجد لغة ذات محتوى مراجَع."
+      }
+    }
+  ]
+}

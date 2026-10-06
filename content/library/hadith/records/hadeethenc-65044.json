@@ -1,0 +1,215 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:3d7d6daf29786a139bf63f0b3882a88479a4e33f9215e031b944d9eb0eb3b402",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يخبر أنس بن مالك رضي الله عنه: بينما الصحابة جلوس مع النبي صلى الله عليه وسلم في المسجد إذ دخل رجل على جمل، فأبركَه ثم ربطَه، \nثمّ سألهم: أيُّكم محمد؟ \nوالنبي صلى الله عليه وسلم متكئ بين القوم، فقلنا: هذا الرَّجل الأبيض المتَّكئ، \nفقال له الرَّجل: يا ابن عبد المطلب، \nفقال له النبي صلى الله عليه وسلم: سمعتك، فسل أُجبْك. \nفقال الرجل للنبي صلى الله عليه وسلم: إني سائلك فَمُشَدِّد عليك في المسألة، فلا تجد عليَّ في نفسك.\n أي: فلا تغضب عليَّ ولا يصبْك ضيق، \nفقال: سل عَمّا تريد، \nفقال: أسألك بِربِّك وربِّ مَن قبلك، آلله أرسلَك إلى الناس؟ \nفقال: اللَّهم نعم، تأكيدًا لِصِدقه، \nقال الرَّجل: أنشدك بالله، أي: أسألك بالله، آلله أمرَك أن نُصلِّي الصَّلوات الخمس في اليوم واللَّيلة؟ وهي الصَّلوات المفروضة، \nقال: اللَّهم نعم، \nقال: أنشدك بالله، آلله أمرَك أن نصوم هذا الشَّهر مِن السنة؟ أي: شهر رمضان، \nقال: اللَّهم نعم، \nقال: أنشدك بالله، آلله أمرك أن تأخذ هذه الصَّدقة مِن أغنيائنا فتقسمها على فقرائنا؟ وهي الزكاة، \nفقال النبي صلى الله عليه وسلم: اللهم نعم، \nفأسلم ضمام، وأخبر النبي صلى الله عليه وسلم أنه سيدعو قومه للإسلام. ثم عرف نفسه وأنه ضمام بن ثعلبة من بني سعد بن بكر.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "تواضع النبي عليه الصَّلاة والسّلام؛ إذ لم يستطع الرَّجل أن يُفرِّق بينه وبين أصحابه.",
+  "حسن خلق النبي عليه السلام، وتلطفه في الرد على السائل، وأن حسن الرد من أسباب قبول الدعوة.",
+  "جواز تعريف الرجل بصفة من البياض والحمرة، والطول والقصر، ونحو ذلك مما لا يقصد به العيب، إن لم يَكره ذلك.",
+  "جواز دخول الكافر المسجد للحاجة.",
+  "لم يذكر الحج في الحديث لأنه قد يكون لم يفرض وقت مجيئه.",
+  "حرص الصحابة على دعوة الناس؛ فبمجرد إسلامه حرص على دعوة قومه."
+ ],
+ "id": "hadeethenc-65044",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (1/ 23) (63)، صحيح مسلم (1/ 41) (12)، شرح ابن بطال (1/145)، عمدة القاري شرح صحيح البخاري (2/ 22).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=65044",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:30+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/65044"
+ },
+ "source_categories": [
+  {
+   "id": "59",
+   "label": "الإيمان بالله عز وجل"
+  },
+  {
+   "id": "81",
+   "label": "نبينا محمد صلى الله عليه وسلم"
+  },
+  {
+   "id": "88",
+   "label": "الإسلام"
+  },
+  {
+   "id": "325",
+   "label": "الدعوة إلى الله"
+  },
+  {
+   "id": "456",
+   "label": "وجوب الصلاة وحكم تاركها"
+  },
+  {
+   "id": "500",
+   "label": "وجوب الزكاة وحكم تاركها"
+  },
+  {
+   "id": "512",
+   "label": "وجوب الصيام وحكم تاركه"
+  }
+ ],
+ "source_record_id": "65044",
+ "text": "عن أَنَسَ بْنَ مَالِكٍ رضي الله عنه قال: بينما نحن جلوس مع النبي صلى الله عليه وسلم في المسجد دخل رجل على جمل، فأناخه في المسجد ثم عقله، ثم قال لهم: أيكم محمد؟ والنبي صلى الله عليه وسلم متكئ بين ظهرانيهم، فقلنا: هذا الرجل الأبيض المتكئ. فقال له الرجل: يا ابن عبد المطلب فقال له النبي صلى الله عليه وسلم: «قد أجبتك». فقال الرجل للنبي صلى الله عليه وسلم: إني سائلك فمشدد عليك في المسألة، فلا تجد علي في نفسك؟ فقال: «سل عما بدا لك» فقال: أسألك بربك ورب من قبلك، آلله أرسلك إلى الناس كلهم؟ فقال: «اللهم نعم». قال: أنشدك بالله، آلله أمرك أن نصلي الصلوات الخمس في اليوم والليلة؟ قال: «اللهم نعم». قال: أنشدك بالله، آلله أمرك أن نصوم هذا الشهر من السنة؟ قال: «اللهم نعم». قال: أنشدك بالله، آلله أمرك أن تأخذ هذه الصدقة من أغنيائنا فتقسمها على فقرائنا؟ فقال النبي صلى الله عليه وسلم: «اللهم نعم». فقال الرجل: آمنت بما جئت به، وأنا رسول من ورائي من قومي، وأنا ضمام بن ثعلبة أخو بني سعد بن بكر.",
+ "title": "وأنا ضمام بن ثعلبة أخو بني سعد بن بكر",
+ "topic": "understanding_islam",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=65044",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:5d58204c65633d53d03ebb1d1264b26a0d150fa154e2301a181a278c00380ebe",
+   "explanation": "আনাস ইবনু মালিক রদিয়াল্লাহু ‘আনহু বর্ণনা করছেন, সাহাবীগণ একদা নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের সাথে মসজিদে বসে ছিলেন, তখন উটের পিঠে করে একজন ব্যক্তি তার কাছে এসে উটকে বসিয়ে তা বেঁধে রাখল। তারপর সে জিজ্ঞাসা করল: তোমাদের মধ্যে মুহাম্মাদ কে? সবার মাঝে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তখন হেলান দেওয়া অবস্থায় ছিলেন। আমরা বললাম: এই সাদা পোষাক পরিহিত হেলান দেওয়া ব্যক্তি। তখন লোকটি বলল: হে আব্দুল মুত্তালিবের সন্তান! নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম তাকে বললেন: আমি তোমার কথা শুনেছি, তুমি প্রশ্ন কর, আমি উত্তর দেব। নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে উদ্দেশ্য করে লোকটি বলল: আমি আপনাকে কঠোর ভাষায় জিজ্ঞাসা করছি, তাই আপনি আমার ওপর অসন্তুষ্ট হবেন না। তথা: আমার উপরে রাগ করবেন না এবং আমার ব্যাপারে সংকীর্ণ মনোভাব পোষণ করবেন না। তিনি বললেন: তুমি যা ইচ্ছা জিজ্ঞাসা কর। তখন সে বলল: আমি আপনাকে আপনার রব ও আপনার আগে গত হওয়া ব্যক্তিদের রবের কসম দিয়ে জিজ্ঞাসা করছি, আল্লাহ কী আপনাকে মানুষের কাছে প্রেরণ করেছেন? তখন তিনি তার সত্যতা নিশ্চিত করে বললেন: “হে আল্লাহ!১ হ্যাঁ। তখন লোকটি বলল: আমি আপনাকে আল্লাহর কসম দিচ্ছি, তথা: আল্লাহর নামে আপনাকে জিজ্ঞাসা করছি, আল্লাহ কী আপনাকে আদেশ করেছেন যে, আমরা যেন দিনে-রাতে পাঁচবার সালাত আদায় করি? এগুলো হচ্ছে ফরয সালাতসমূহ। তিনি বললেন: “হে আল্লাহ! হ্যাঁ।” তখন লোকটি বলল: আমি আপনাকে কসম দিচ্ছি, আল্লাহ কী আপনাকে আদেশ করেছেন যে, আমরা বছরের এ মাস তথা রমাদান মাসে সিয়াম পালন করব? তিনি বললেন: “হে আল্লাহ ! হ্যাঁ।” তখন লোকটি বলল: আমি আপনাকে কসম দিচ্ছি, আল্লাহ কী আপনাকে আদেশ করেছেন যে, আপনি আমাদের ধনী ব্যক্তিদের কাছ থেকে সদাকা গ্রহণ করে আমাদের দরিদ্রদের মাঝে তা বণ্টন করে দেবেন? আর তা হল: যাকাত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন: “হে আল্লাহ ! হ্যাঁ।” তরাপর দ্বিমাম ইসলাম গ্রহণ করেন এবং নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে সংবাদ দিলেন যে, তিনি অচিরেই তার জাতিকে ইসলামের দিকে আহবান জানাবেন। আর এরপরে তিনি তার নিজের পরিচয় প্রদান করে বললেন: তিনি হচ্ছেন বনু সা‘দ ইবনু বাকরের অন্তর্ভুক্ত দ্বিমাম ইবনু ছা‘লাবাহ।",
+   "grade": "সহীহ",
+   "hints": [
+    "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের বিনয় প্রকাশ: যেহেতু সাহাবীদের থেকে এ লোকটি রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে পৃথক করতে পারছিলেন না।\r",
+    "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের সুন্দর আচরণ: এবং প্রশ্নকারীর জবাবে তার কোমলতা ফুটে উঠেছে। আর সুন্দরভাবে উত্তর প্রদান করা দাও‘আত গ্রহণ করার মাধ্যম।\r",
+    "কোন ব্যক্তিকে তার বৈশিষ্ট্য দ্বারা পরিচয় দেওয়া যেমন: লাল, সাদা, লম্বা, খাটো বা এরকম অন্যান্য বৈশিষ্ট্য, যার মাধ্যমে ত্রুটি বর্ণনা উদ্দেশ্য না, তা দ্বারা পরিচয় প্রদান করা জায়েয, যদি উক্ত ব্যক্তি তা অপছন্দ না করে।\r",
+    "প্রয়োজন সাপেক্ষে কাফিরের মসজিদে প্রবেশ করা জায়েয।\r",
+    "রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হাদীসে হজ্জের উল্লেখ করেননি, হতে পারে উক্ত ব্যক্তি আগমনের সময় পর্যন্ত হজ্জ ফরয হয়নি।\r",
+    "হাদীসটিতে সাহাবীদের মানুষকে ইসলামের দিকে আহবানের আগ্রহের কথা ফুটে উঠেছে। কারণ তার শুধুমাত্র ইসলাম গ্রহণের পরপরই তিনি তার জাতিকে দাও‘আত দেওয়ার আগ্রহ প্রকাশ করেছেন।"
+   ],
+   "mapping": "same HadeethEnc record id 65044; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:11+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/65044",
+   "text": "আনাস ইবনু মালিক রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, তিনি বলেছেন: একদা আমরা নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের সাথে মসজিদে বসা ছিলাম, এক ব্যক্তি উটের পিঠে সওয়ার হয়ে সেখানে এসে তার উটকে মসজিদে বসিয়ে বাঁধলেন। তারপর সাহাবীদেরকে বললেন: “তোমাদের মধ্যে মুহাম্মাদ কে?” নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম তখন তাদের মধ্যেই হেলান দেওয়া অবস্থাতে ছিলেন, আমরা বললাম: হেলান দেওয়া এই সাদা ব্যক্তিটি। তখন সে বলল: হে আব্দুল মুত্তালিবের সন্তান! নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম তাকে বললেন: “আমি তোমার জবাব দিয়েছি।” তখন সে নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে উদ্দেশ্য করে বলল: আমি আপনাকে কিছু বিষয় কঠিনভাবে জিজ্ঞাসা করছি, হয়ত তা আপনাকে কষ্ট দেবে, তবে আপনি আমার ব্যাপারে আপনার অন্তরে কোন কষ্ট নেবেন না। তখন তিনি বললেন: “তুমি জিজ্ঞাসা কর যা জানতে চাও।” তখন সে বলল: আমি আপনার রব এবং আপনার পূর্ববর্তীদের রবের কসম করে জিজ্ঞাসা করছি, আল্লাহ কী আপনাকে সমগ্র মানব জাতীর কাছে প্রেরণ করেছেন? তিনি বললেন: “আল্লাহুম্মা (হে আল্লাহ!), অবশ্যই।” তারপর সে বলল: আমি আপনাকে আল্লাহর কসম দিয়ে জিজ্ঞাসা করছি, আল্লাহ কী আপনাকে আদেশ করেছেন যে, আমরা রাতে-দিনে পাঁচ ওয়াক্ত সালাত আদায় করব? তিনি বললেন: “আল্লাহুম্মা (হে আল্লাহ!), অবশ্যই।” তারপর সে বলল: আমি আপনাকে আল্লাহর কসম দিয়ে জিজ্ঞাসা করছি, আল্লাহ কী আপনাকে আদেশ করেছেন যে, আমরা বছরের এই মাসে সিয়াম পালন করব? তিনি বললেন: “আল্লাহুম্মা (হে আল্লাহ!), অবশ্যই।” তারপর সে বলল: আমি আপনাকে আল্লাহর কসম দিয়ে জিজ্ঞাসা করছি, আল্লাহ কী আপনাকে আদেশ করেছেন যে, আপনি আমাদের ধনী ব্যক্তিদের থেকে এই সদাকাহ (যাকাত) গ্রহণ করে তা আমাদের দরিদ্রদের মাঝে বণ্টন করে দিবেন? নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন: “আল্লাহুম্মা (হে আল্লাহ!), অবশ্যই।” তারপর লোকটি বলল: আপনি যা নিয়ে আগমন করেছেন তার উপরে আমি ঈমান আনলাম আর আমি হচ্ছি আমার পিছনে থাকা কওমের প্রতিনিধি, এবং আমি বনু সা‘দ ইবনু বকরের ভাই দ্বিমাম ইবনু ছা‘লাবাহ।",
+   "title": "এবং আমি বনু সা‘দ ইবনু বকরের ভাই দ্বিমাম ইবনু ছা‘লাবাহ।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=65044",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:c779b635811c5c003a0e460eb0f9ce93c30636e99e829afd6e171468228f6579",
+   "explanation": "Anas ibn Mālik (may Allah be pleased with him) relates: As the Companions were sitting with the Prophet (may Allah's peace and blessings be upon him) in the mosque, a man riding a camel entered, and he made the camel kneel and tied it. Then, he asked them: Who amongst you is Muhammad? Meanwhile, the Prophet (may Allah's peace and blessings be upon him) was reclining among the people. So, we replied: This white man who is reclining. The man said to him: O son of ‘Abdul-Muttalib! The Prophet (may Allah's peace and blessings be upon him) said to him: I have heard you; ask, and I will answer you. The man said to the Prophet (may Allah's peace and blessings be upon him): I will ask you about something and will be hard in questioning. So do not get upset with me. In other words, do not get angry at me or feel annoyed. He replied: Ask whatever you want. He said: I ask you by your Lord and the Lord of those who came before you. Has Allah sent you as a messenger to mankind? He replied: \"By Allah, yes,\" affirming his truthfulness. The man further said: I ask you by Allah. Has Allah ordered you that we must offer the five prayers in a day and night? They are the obligatory prayers. He replied: By Allah, yes. The man further said: I ask you by Allah. Has Allah ordered you to observe fasts during this month of the year? That's the month of Ramadan. He replied: By Allah, yes. The man said: I ask you by Allah. Has Allah ordered you to take this charity from our rich people and distribute it amongst our poor people?\" This is Zakah. The Prophet (may Allah's peace and blessings be upon him) replied: By Allah, yes. Thereupon, Dimām embraced Islam and informed the Prophet (may Allah's peace and blessings be upon him) that he would call his people to Islam, and he introduced himself as Dimām ibn Tha‘labah, from Banu Sa‘d ibn Bakr.",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth shows the Prophet's modesty, as the man could not distinguish between him and his Companions.\r",
+    "It highlights the Prophet's good character and gentleness in replying to the questioner. It also indicates that providing good responses is one of the reasons behind accepting the call to Islam.\r",
+    "It is permissible to identify a person by a certain trait, like being white, reddish, tall, short, and any other trait that is not intended as a defect, unless the person dislikes it.\r",
+    "It is permissible for a disbeliever to enter the mosque for some need.\r",
+    "He did not mention Hajj in the Hadīth because it had probably not been prescribed yet when this man came.\r",
+    "The Companions were keen on inviting people to Islam. Once this man embraced Islam, he was determined to call his people to it."
+   ],
+   "mapping": "same HadeethEnc record id 65044; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:11+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/65044",
+   "text": "Anas ibn Mālik (may Allah be pleased with him) reported: While we were sitting with the Prophet (may Allah’s peace and blessings be upon him) in the mosque, a man came riding on a camel. He made his camel kneel in the mosque, tied its foreleg, and said: \"Who amongst you is Muhammad?\" At that time, the Prophet (may Allah’s peace and blessings be upon him) was sitting amongst us, leaning on his arm. We replied: \"This white man reclining on his arm.\" The man then addressed him: \"O son of ‘Abdul-Muttalib!\" The Prophet (may Allah’s peace and blessings be upon him) said: \"I am here to answer you.\" The man said to the Prophet: \"I want to ask you something and will be hard in questioning. So do not get angry.\" The Prophet (may Allah’s peace and blessings be upon him) said: \"Ask whatever you want.\" The man said: \"I ask you by your Lord, and the Lord of those who came before you. Has Allah sent you as a messenger to all mankind?\" The Prophet (may Allah’s peace and blessings be upon him) replied: \"By Allah, yes.\" The man further said: \"I ask you by Allah. Has Allah ordered you to offer five prayers in a day and night?\" He replied: \"By Allah, yes.\" The man further said: \"I ask you by Allah. Has Allah ordered you to observe fasts during this month of the year?\" He replied: \"By Allah, yes.\" The man said: \"I ask you by Allah. Has Allah ordered you to take this charity from our rich people and distribute it amongst our poor people?\" The Prophet (may Allah’s peace and blessings be upon him) replied: \"By Allah, yes.\" Thereupon, that man said: \"I have believed in all that you have been sent with, and I have been sent by my people as a messenger.  I am Dimām ibn Tha‘labah, from the brothers of Banu Sa‘d ibn Bakr.\"",
+   "title": "I am Dimām ibn Tha‘labah, from the brothers of Banu Sa‘d ibn Bakr",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=65044",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:0ccb84ea37861c52656423fdd9c67ae12b6877571f0b04c8d3662156b610a8eb",
+   "explanation": "Anas ibn Mâlik (qu'Allah l'agrée) informe qu'alors que les Compagnons étaient assis avec le Prophète (qu’Allah le couvre d’éloges et le préserve) dans la mosquée, un homme est entré sur son chameau, l'a fait s'agenouiller puis l'a attaché. Ensuite, il leur a demandé : \"Lequel d'entre vous est Mouḥammad ?\" Le Prophète (qu’Allah le couvre d’éloges et le préserve) était accoudé parmi les gens, nous avons alors répondu : \"Cet homme blanc accoudé !\" L'homme lui a dit : \"Ô fils de 'Abd Al-Mouṭṭalib !\" Le Prophète (qu’Allah le couvre d’éloges et le préserve) lui a répondu [ce qui signifie] : \"Je t'ai entendu ! Interroge donc et je te répondrai !\" L'homme dit alors au Prophète (qu’Allah le couvre d’éloges et le préserve) : \"Je vais t’interroger et je serai dur avec toi dans le questionnement. Ainsi donc, ne m'en tiens pas rigueur !\" C'est-à-dire : Ne te mets pas en colère contre moi et n'en ressens pas de gêne. Il a dit [ce qui signifie] : \"Interroge au sujet de ce que tu veux !\" L'homme à répondu : \"Je te demande par ton Seigneur, le Seigneur de quiconque t'a précédé, Allah t'a-t-Il envoyé aux hommes ?\" Il a dit : \"Ô Allah ! Oui !\" afin d'insister sur véracité de ce qui venait d'être dit. L'homme a demandé : \"Je t'en conjure par Allah !\", c'est-à-dire : Je te demande par Allah ! \"Allah t'a-t-Il ordonné que nous accomplissions cinq prières de jour comme de nuit ?\", il s'agit des prières obligatoires. Il a répondu : \"Ô Allah ! Oui !\" L'homme a demandé : \"Je t'en conjure par Allah ! Allah t'a-t-Il ordonné que nous jeûnions ce mois de l'année ?\", c'est-à-dire : le mois de Ramadan. Il a répondu : \"Ô Allah ! Oui !\" L'homme a demandé : \"Je t'en conjure par Allah ! Allah t'a-t-il ordonné que nous prenions cette aumône de nos riches et que nous la répartissions parmi nos pauvres ?\", il s'agit là de l'impôt légal purificateur [la zakâh]. Le Prophète (qu’Allah le couvre d’éloges et le préserve) a alors répondu : \"Ô Allah ! Oui !\" De là, Dimâm est entré en Islam et a informé le Prophète (qu’Allah le couvre d’éloges et le préserve) qu'il y appellerait son peuple. Ensuite, Il s'est lui-même présenté et a dit qu'il était Dimâm fils de Tha'labah des enfants de Sa'd fils de Bakr.",
+   "grade": "Authentique",
+   "hints": [
+    "La modestie du Prophète (qu’Allah le couvre d’éloges et le préserve) puisque la personne n'a pas su distinguer entre lui et ses Compagnons.\r",
+    "Le bon comportement du Prophète (qu’Allah le couvre d’éloges et le préserve) et sa douceur dans la manière de répondre à celui qui interroge. Et la bonne manière de répondre fait partie des causes de l'acceptation de l'appel.\r",
+    "La permission de présenter une personne par sa blancheur, sa rougeur, sa grandeur, sa petitesse et autres caractéristiques tant qu'il n'y a pas en cela l'intention de la dénigrer et si la personne ne répugne pas cela.\r",
+    "La permission de l'entrée du mécréant à la mosquée pour un besoin.\r",
+    "Dans ce hadith, le Pèlerinage n'a pas été mentionné parce qu'il se peut qu'il n'était pas encore imposé à ce moment-là.\r",
+    "Le soucis des Compagnons à appeler les gens [à l'Islam]. En effet, à peine devenu musulman, il a immédiatement eu le soucis d'inviter son peuple à l'Islam."
+   ],
+   "mapping": "same HadeethEnc record id 65044; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:11+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/65044",
+   "text": "Anas ibn Mâlik (qu'Allah l'agrée) relate : « Pendant que nous étions assis avec le Prophète (qu’Allah le couvre d’éloges et le préserve) dans la mosquée, un homme entra à dos de chameau. Il fit s’agenouiller son chameau dans la mosquée, lui attacha la patte avant, ensuite il demanda aux gens : \"Lequel d’entre vous est Mouḥammad ?\" tandis que le Prophète (qu’Allah le couvre d’éloges et le préserve) était accoudé parmi eux. Nous avons alors répondu : \"Cet homme blanc qui est accoudé !\" Alors, l’homme s’adressa à lui : \"Ô Fils de ’Abd Al-Mouṭṭalib ! - Le Prophète (qu’Allah le couvre d’éloges et le préserve) lui dit : C'est comme si je t'avais déjà répondu ! - L’homme poursuivit et dit au Prophète (qu’Allah le couvre d’éloges et le préserve) : Je vais t’interroger et je serai dur avec toi dans le questionnement. Ainsi donc, ne m'en tiens pas rigueur ! - Le Prophète (qu’Allah le couvre d’éloges et le préserve) a dit : Demande ce que bon te semble ! - L’homme  dit : Je te demande par ton Seigneur et le Seigneur de quiconque était avant toi : Allah t’a-t-Il envoyé à tous les hommes ? - Il répondit : Ô Allah, Oui ! - L'homme continua : Je te conjure par Allah ! Allah t’a-t-Il ordonné d’accomplir cinq prières, de jour comme de nuit ? - Il répondit : Ô Allah, Oui ! - L'homme poursuivit : Je te conjure par Allah ! Allah t’a-t-il ordonné que nous jeûnions durant ce mois de l’année [le mois de Ramadan] ? - Il répondit : Ô Allah, Oui ! L’homme demanda encore : Je te conjure par Allah ! Allah t’a-t-il ordonné de prendre cette aumône de nos riches et de la distribuer parmi nos pauvres ? - Le Prophète (qu’Allah le couvre d’éloges et le préserve) répondit : Ô Allah, Oui ! - Alors, l’homme dit : J’ai cru en tout ce avec quoi tu es venu ! Et je suis un émissaire envoyé par mon peuple qui est derrière moi. Je suis Dimâm ibn Tha’labah, le frère des Banî Sa’d ibn Bakr !\" »",
+   "title": "Je suis Dimâm ibn Tha’labah, le frère des Banî Sa’d ibn Bakr !\"",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=65044",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:da9639604148e73e57348f50a0360ca9ae510927c6df08c98fb30e4e5fdb792e",
+   "explanation": "Anas bin Mālik raḍiyallāhu 'anhu mengabarkan: Ketika para sahabat sedang duduk bersama Nabi ﷺ di Masjid, tiba-tiba ada seorang laki-laki masuk sambil mengendarai unta, lalu dia menderumkannya kemudian mengikatnya, kemudian bertanya, \"Siapa di antara kalian yang bernama Muhammad?\" Nabi ﷺ sedang bersandar di tengah-tengah para sahabat, sehingga kami berkata, \"Itu, laki-laki yang putih sedang bersandar.\" Laki-laki itu berkata: Wahai anak Abdul Muṭṭalib! Nabi ﷺ menjawab: Aku mendengarmu; silakan bertanya, aku akan jawab. Lantas laki-laki itu bertanya kepada Nabi ﷺ: Aku akan bertanya kepadamu, pertanyaan yang terasa berat bagimu, maka janganlah marah kepadaku. Yakni jangan marah kepadaku dan jangan tersinggung. Beliau menjawab: Bertanyalah sesukamu. Dia berkata: Aku bertanya kepadamu dengan nama Tuhanmu dan Tuhan orang-orang sebelummu, apakah Allah yang mengutusmu kepada manusia? Beliau menjawab: Demi Allah, iya; untuk menegaskan kejujurannya. Laki-laki itu kembali berkata: Aku bertanya kepadamu dengan menyebut nama Allah, apakah Allah yang memerintahkanmu agar kami menunaikan salat lima waktu dalam sehari semalam? Yaitu salat-salat yang fardu. Beliau menjawab: Demi Allah, iya. Dia kembali bertanya:\tAku bertanya kepadamu dengan menyebut nama Allah, apakah Allah yang memerintahkanmu agar kami berpuasa sebulan penuh dalam setahun? Yaitu bulan Ramadan. Beliau menjawab: Demi Allah, iya. Dia kembali bertanya: Aku bertanya kepadamu dengan menyebut nama Allah, apakah Allah yang memerintahkanmu untuk mengambil sedekah dari orang-orang yang kaya di antara kami, lalu membagikannya ke orang-orang yang fakir di antara kami? Maksudnya zakat. Nabi ﷺ menjawab: Demi Allah, iya. Lantas Ḍimām masuk Islam serta mengabarkan kepada Nabi ﷺ bahwa dia akan mengajak kaumnya untuk masuk Islam. Kemudian dia memperkenalkan diri, bahwa dia adalah Ḍimām bin Ṡa'labah dari Bani Sa'ad bin Bakar.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Bentuk ketawadukan Nabi ﷺ; karena laki-laki tersebut tidak bisa membedakan antara beliau dan sahabat-sahabatnya.\r",
+    "2- Kebaikan akhlak Nabi ﷺ dan kelembutan beliau di dalam menjawab orang yang bertanya; bahwa respon yang baik termasuk sebab diterimanya dakwah.\r",
+    "3- Bolehnya memperkenalkan seseorang dengan sifat putih dan hitam, tinggi dan pendek, dan semisalnya yang tidak ditujukan sebagai celaan selama ia tidak membencinya.\r",
+    "4- Orang kafir boleh masuk ke dalam masjid ketika ada kebutuhan.\r",
+    "5- Ibadah haji tidak disebutkan dalam hadis ini, karena bisa jadi belum diwajibkan ketika peristiwa itu.\r",
+    "6- Kesungguhan para sahabat untuk berdakwah; begitu masuk Islam ia langsung bersemangat untuk mendakwahi kaumnya."
+   ],
+   "mapping": "same HadeethEnc record id 65044; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:11+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/65044",
+   "text": "Anas bin Mālik -raḍiyallāhu 'anhu- meriwayatkan, ia berkata, \"Ketika kami sedang duduk bersama Nabi ﷺ di masjid, datang seorang laki-laki dengan mengendarai unta lalu menderumkannya di masjid, kemudian mengikatnya lantas ia berkata, \"Siapa di antara kalian yang bernama Muhammad?\" Saat itu Nabi ﷺ duduk bersandar di tengah para sahabat. Kami berkata, \"Ini, laki-laki putih yang bersandar.\" Laki-laki itu berkata, \"Wahai anak Abdul Muṭṭalib!\" Nabi ﷺ bersabda, \"Silakan, aku mendengarmu.\" Laki-laki itu berkata kepada Nabi ﷺ, \"Sungguh aku akan bertanya kepadamu, suatu pertanyaan yang terasa berat bagimu, maka janganlah kaumarah kepadaku.\" Nabi ﷺ bersabda, \"Bertanyalah semaumu.\" Laki-laki itu berkata, \"Aku bertanya dengan menyebut Tuhanmu yang juga merupakan Tuhan orang-orang sebelummu, apakah Allah mengutusmu kepada semua manusia?\" Nabi ﷺ bersabda, \"Demi Allah, iya.\" Laki-laki itu kembali bertanya, \"Aku bertanya kepadamu dengan menyebut nama Allah, apakah Allah yang memerintahkanmu agar kami menunaikan salat lima waktu dalam sehari semalam?\" Beliau menjawab, \"Demi Allah, iya.\" Laki-laki itu kembali bertanya, \"Aku bertanya kepadamu dengan nama Allah, apakah Allah yang memerintahkanmu agar kami berpuasa satu bulan penuh dalam setahun?\" Beliau menjawab, \"Demi Allah, iya.\" Laki-laki itu kembali bertanya, \"Aku bertanya kepadamu dengan nama Allah, apakah Allah yang memerintahkanmu untuk mengambil zakat dari orang-orang yang kaya di antara kami lalu memberikannya kepada orang-orang miskin di antara kami?\", Nabi ﷺ berkata, \"Demi Allah, iya.\" Laki-laki itu berkata, \"Aku beriman kepada apa yang kaubawa, aku adalah utusan dari kaumku. Aku adalah Ḍimām bin Ṡa'labah dari Bani Sa'ad bin Bakar.\"",
+   "title": "Aku adalah Ḍimām bin Ṡa'labah dari Bani Sa'ad bin Bakar",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=65044",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:472784ebb4471716baf570da231a35283ea5acc8459f725ca600455ac0289af5",
+   "explanation": "انس بن مالک رضی اللہ عنہ بیان کرتے ہیں: دریں اثنا کہ صحابہ کرام نبی صلی اللہ علیہ وسلم کے ساتھ مسجد میں بیٹھے ہوئے تھے کہ اچانک ایک شخص اونٹ پر سوار ہوکر داخل ہوا اور اونٹ کو بٹھاکر باندھ دیا۔ پھر صحابۂ کرام سے دریافت کیا: تم میں محمد کون ہیں؟ نبی صلی اللہ علیہ وسلم صحابہ کرام کے درمیان تکیہ لگائے بیٹھے تھے۔ ہم نے کہا: یہ سفید رنگ والے شخص جو ٹیک لگائے بیٹھے ہیں۔ آپ سے اس شخص نے عرض کیا: اے عبد المطلب کے فرزند! نبی صلی اللہ علیہ وسلم نے اس شخص سے کہا: میں نے تمہاری بات سن لی۔ سوال کرو میں جواب دوں گا۔ اس شخص نے نبی صلی اللہ علیہ وسلم سے کہا: میں آپ سے کچھ سوالات کرنے والا ہوں اور سوال کرنے میں سخت لہجہ اختیار کروں گا۔ اس لیے آپ دل میں مجھ سے ناراض نہ ہوں۔ یعنی آپ مجھ پر غصہ نہ کریں اور نہ میرے سوال سے تنگ ہوں۔ آپ نے عرض کیا: جو چاہے پوچھو۔ اس نے کہا: میں آپ کو آپ کے رب اور آپ سے پہلے لوگوں کے رب کی قسم دے کر پوچھتا ہوں کہ کیا اللہ تعالیٰ نے آپ کو تمام انسانوں کی طرف مبعوث کیا ہے؟ آپ نے اس کی تصدیق کرتے ہوئے فرمایا: ’’ہاں، اللہ گواہ ہے۔‘‘ پھر اس نے پوچھا: میں آپ کو اللہ کی قسم دیتا ہوں، کیا اللہ تعالیٰ نے آپ کو دن رات میں پانچ نمازیں پڑھنے کا حکم دیا ہے؟ یعنی فرض نمازیں۔ آپ نے فرمایا: ’’ہاں، اللہ شاہد ہے۔‘‘ پھر اس نے کہا: میں آپ کو اللہ کی قسم دے کر پوچھتا ہوں کہ کیا اللہ تعالیٰ نے سال بھر میں رمضان مہینے کے روزے رکھنے کا حکم دیا ہے؟ آپ نے فرمایا: ’’ہاں، اللہ گواہ ہے۔‘‘ پھر کہنے لگا: میں آپ کو قسم دے کر پوچھتا ہوں کہ کیا اللہ تعالیٰ نے آپ کو حکم دیا ہے کہ آپ ہمارے امیروں سے صدقہ  لے کر ہمارے فقیروں پر تقسیم کریں؟ یعنی زکاۃ۔ نبی صلی اللہ علیہ وسلم  نے فرمایا: ’’ہاں، اللہ گواہ ہے۔‘‘ ضمام نے بالآخر اسلام قبول کر لیا اور نبی صلی اللہ علیہ وسلم کو بتایا کہ وہ اپنی قوم کو اسلام کی دعوت دیں گے۔ پھر اپنا تعارف پیش کرتے ہوئے کہا کہ وہ ضمام بن ثعلبہ ہیں اور قبیلہ سعد بن بکر سے تعلق رکھتے ہیں۔",
+   "grade": "صحيح",
+   "hints": [
+    "اس حدیث سے نبی صلی اللہ علیہ وسلم کا تواضع معلوم ہوتا ہے، کیوں کہ وہ شخص آپ (کی سادگی کے سبب) آپ کے درمیان اور صحابہ کے درمیان تفریق نہیں کر سکا۔\r",
+    "نبی صلی اللہ علیہ وسلم کا حسن اخلاق، سائل کا جواب دینے میں آپ کی نرمی وشفقت اور یہ پیغام کہ جواب دینے کا طریقہ اگر اچھا ہو تو یہ دعوت کی قبولیت کا سبب بنتا ہے۔\r",
+    "سفید اور سرخ رنگ اور لمبے اور چھوٹے قد اور اس طرح کے دیگر ایسے اوصاف بیان کرکے انسان کی شناخت کرنا جائز ہے، جن سے عیب جوئی مقصود نہ ہو، بشرطے کہ ایسا اس انسان پر ناگوار نہ گزرے۔\r",
+    "ضرورت کے پیش نظر کافر کا مسجد میں داخل ہونا جائز ہے۔\r",
+    "اس حدیث میں حج کا ذکر نہیں آیا ہے، کیوں کہ ممکن ہے کہ اس وقت تک حج فرض نہ ہوا ہو۔\r",
+    "صحابۂ کرام کے اندر لوگوں کو اسلام کی دعوت دینے کی شدید تڑپ پائی جاتی تھی۔ چناں چہ ہم دیکھتے ہیں کہ یہ شخص اسلام لاتے ہی اپنی قوم کو دعوت دینے کی فکر کرنے لگا۔"
+   ],
+   "mapping": "same HadeethEnc record id 65044; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:11+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/65044",
+   "text": "انس بن مالک رضی اللہ عنہ سے روایت ہے، وہ کہتے ہيں : ایک مرتبہ ہم مسجد میں نبیﷺ کے ساتھ بیٹھے تھے کہ ایک اونٹ سوار آیا اور اپنے اونٹ کو مسجد میں بٹھا کر باندھ دیا۔ پھر پوچھنے لگا: تم میں محمد (ﷺ) کون ہیں؟ نبی ﷺ اس وقت صحابہ رضی اللہ عنہم کے درمیان تکیہ لگائے بیٹھے تھے۔ ہم نے کہا: یہ سفید رنگ والے تکیہ لگائے بیٹھے شخص۔ چنانچہ وہ آپ سے کہنے لگا: اے فرزند عبدالمطلب! نبیﷺ نے فرمایا: ’’(پوچھ) میں تجھے جواب دیتا ہوں۔‘‘ اس نے نبیﷺ  سے کہا: میں آپ سے کچھ دریافت کرنے والا ہوں اور اس میں سختی کروں گا، آپ دل میں مجھ پر ناراض نہ ہوں۔ آپ نے فرمایا: ’’(کوئی بات نہیں) جو چاہے پوچھ!‘‘ اس نے پوچھا: میں آپ کو آپ کے پروردگار اور آپ سے پہلے لوگوں کے مالک کی قسم دے کر پوچھتا ہوں: کیا اللہ تعالیٰ نے آپ کو تمام انسانوں کی طرف مبعوث کیا ہے؟ آپ نے فرمایا: ’’ہاں، اللہ گواہ ہے۔‘‘  پھر اس نے پوچھا: میں آپ کو اللہ کی قسم دیتا ہوں، کیا اللہ تعالیٰ نے آپ کو دن رات میں پانچ نمازیں پڑھنے کا حکم دیا ہے؟ آپ نے فرمایا: ’’ہاں، اللہ شاہد ہے۔‘‘ پھر اس نے کہا: میں آپ کو اللہ کی قسم دیتا ہوں، کیا اللہ تعالیٰ نے سال بھر میں رمضان کے روزے رکھنے کا حکم دیا ہے؟ آپ نے فرمایا: ’’ہاں، اللہ گواہ ہے۔‘‘  پھر کہنے لگا: میں آپ کو قسم دیتا ہوں، کیا اللہ تعالیٰ نے آپ کو حکم دیا ہے کہ آپ ہمارے امیروں سے صدقہ لے کر ہمارے غریبوں پر تقسیم کریں؟ آپ نے فرمایا: ’’ہاں، اللہ گواہ ہے۔‘‘ اس کے بعد وہ شخص کہنے لگا: میں اس (شریعت) پر ایمان لاتا ہوں جو آپ لائے ہیں۔ میں اپنی قوم کا نمائندہ بن کر حاضر خدمت ہوا ہوں۔ میرا نام ضمام بن ثعلبہ ہے اور قبیلہ سعد بن بکر سے تعلق رکھتا ہوں۔",
+   "title": "میرا نام ضمام بن ثعلبہ ہے اور قبیلہ سعد بن بکر سے تعلق رکھتا ہوں۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=65044",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:35452813ceb3d13fdb6823c38a6a6b16f3e47ddda9b52d9c491c3942578c097b",
+   "explanation": "艾奈斯·本·马利克（愿主喜悦之）叙述道，正当圣门弟子们同先知（愿主福安之）一起坐在清真寺时，有一个人骑着骆驼进来，然后使骆驼卧下并拴好。 随后问道：你们谁是穆罕默德？ 先知（愿主福安之）靠墙坐在人们之间，然后我们说：这位靠墙的皮肤白的便是， 此人说：阿卜杜·穆塔里布之子啊。 先知（愿主福安之）对其说：我听见了，你问吧，我会回答你。 此人对先知（愿主福安之）说：我要向你询问一些问题，可能会冒犯到你，希望不要使你难堪。 即：你不要迁怒于我，不要使你自己不愉快。 他说：你随便问。 他说：我以你的养主，以及你前人的养主问你，安拉派遣你给整个人类吗？ 他说：是的，强调他所言真实， 我向你以安拉发誓，即：以安拉的名义我问你，安拉命令你让我们昼夜礼五番拜功吗？即主命的拜功。 他说：是的 他说：我向你以安拉发誓，安拉命令你让我们每年封一月斋吗？指赖麦丹月。 他说：是的。 他说：我向你以安拉发誓，安拉命令你从我们中的富人拿取施舍，然后分发给我们中的穷人吗？指天课。 先知（愿主福安之）说：是的。 达玛姆便皈依伊斯兰，并告诉先知（愿主福安之），他将号召他的民众信仰伊斯兰，然后他向使者介绍了自己，他叫德玛姆·本·赛尔莱柏，赛尔德·本·比克尔部族的弟兄。",
+   "grade": "正确的",
+   "hints": [
+    "先知（愿主福安之）之谦卑，因为他同圣门弟子们坐在一起，而来人没有从中分辨出他。\r",
+    "先知（愿主福安之）品行之优美，他温和的回答提问，以及优美的回答方式是宣教被接受的因素之一。\r",
+    "只要不是嘲讽对方，那么允许用白色、红色、个高或个矮等人之属性来介绍之。\r",
+    "在有需求的情况下，允许非穆斯林进入清真寺。\r",
+    "圣训中没有提到朝觐，因为或许当时朝觐尚未成为定制。\r",
+    "圣门弟子们渴望向人们宣教，他刚皈依伊斯兰，便渴望回去规劝他的民众。"
+   ],
+   "mapping": "same HadeethEnc record id 65044; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:11+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/65044",
+   "text": "据艾奈斯·本·马利克（愿主喜悦之）传述说： 正当我们同先知（愿主福安之）坐在清真寺里时，有一个人骑着骆驼走了进来，然后使骆驼卧下并拴好，随后他问道：你们谁是穆罕默德？当时先知（愿主福安之）靠墙坐在人们当中，我们说：这位靠墙的皮肤白的便是，他说：阿卜杜·穆塔里布之子啊！先知（愿主福安之）对他说：“我在”。此人对先知（愿主福安之）说：我要向你询问一些问题，可能会冒犯到你，希望不要恼怒于我。先知说：“请问你要问的”。他说：我以你的养主，以及你前人的养主询问你，安拉派遣你是给全人类的吗？先知回答：“是的”。他说：以安拉发誓，安拉命令你让我们昼夜礼五番拜功吗？先知回答：“是的”。他说：以安拉发誓，安拉命令你让我们每年封一月斋吗？先知回答说：“是的”。他说：以安拉发誓，安拉命令你从我们的富人中收取这些天课，然后分给我们中的穷人吗？先知回答：“是的”。此人说道：我归信你所带来的，我将是我的民众的使臣，我叫德玛姆·本·赛尔莱柏，赛尔德·本·伯克尔部族的弟兄。",
+   "title": "我叫德玛姆·本·赛尔莱柏，赛尔德·本·伯克尔部族的弟兄。",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

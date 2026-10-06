@@ -1,0 +1,60 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-10633",
+ "source_content_sha256": "sha256:08424f5c8c2904f5071eb747926478a79b264337503eb2142d2c4c2c6c644ec5",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:28:15.598710+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 989,
+  "completion_tokens": 1001,
+  "total_tokens": 1990,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 989
+ },
+ "latency_ms": 8271,
+ "units": [
+  {
+   "id": "title",
+   "text": "Quelle est la fitrah (disposition naturelle) sur laquelle naît le nouveau-né ?"
+  },
+  {
+   "id": "q0",
+   "text": "La question :"
+  },
+  {
+   "id": "q1",
+   "text": "Notre sœur d'Al-Hassa (M. Kh) demande : Dans un hadith du Prophète ﷺ : « Tout nouveau-né naît sur la fitrah, puis ses parents en font un juif, un chrétien ou un mazdéen. » Pourquoi le Prophète ﷺ n'a-t-il pas mentionné l'islam dans ce hadith ?"
+  },
+  {
+   "id": "a0",
+   "text": "La réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Il a été rapporté dans un hadith authentique : « Il n'est aucun nouveau-né qui ne naisse sur la fitrah » et dans d'autres versions : « sur cette religion » — la religion de l'islam. Les deux formulations sont venues : le sens de fitrah signifie sur l'islam. Ainsi, s'il meurt en bas âge, il est sur l'islam. Les enfants des musulmans sont tous avec leurs parents au paradis, selon le consensus des gens de la Sunna et du consensus : les enfants des musulmans sont en général parmi les gens du paradis. De même, les enfants des mécréants, s'ils meurent en bas âge, l'avis correct est qu'ils sont parmi les gens du paradis. Certains savants ont dit : ils seront éprouvés le Jour de la Résurrection, ils seront testés ; celui qui obéit entrera au paradis et celui qui désobéit entrera en enfer. Mais l'avis le plus probant est qu'ils sont parmi les gens du paradis, en raison de la parole du Prophète ﷺ : « Il n'est aucun nouveau-né qui ne naisse sur la fitrah, puis ses parents en font un juif, un chrétien ou un mazdéen. » Or celui-ci n'a pas été judaïsé par ses parents, ni rendu mazdéen, ni christianisé. Et il est authentiquement rapporté du Prophète ﷺ que lors de son ascension au ciel, il a vu avec Abraham dans l'un des jardins du paradis, les enfants des musulmans et les enfants des polythéistes dans le jardin, dans le jardin du paradis."
+  },
+  {
+   "id": "a2",
+   "text": "Le sens voulu : l'avis correct est que le nouveau-né qui meurt avant la puberté meurt sur la fitrah, sur la fitrah de l'islam, et qu'il ne sera pas avec sa famille en enfer si elle était mécréante ; au contraire, il sera avec les musulmans. Oui."
+  },
+  {
+   "id": "a3",
+   "text": "Le présentateur : Qu'Allah vous bénisse. Donc, les enfants des musulmans à plus forte raison, éminent cheikh ?"
+  },
+  {
+   "id": "a4",
+   "text": "Le cheikh : À plus forte raison, oui, selon le consensus des musulmans... les musulmans, selon le consensus des gens de la Sunna, sont parmi les gens du paradis s'ils meurent avant la puberté. Quant à la divergence, elle concerne les enfants des mécréants, les enfants des juifs, des chrétiens et des mécréants s'ils meurent en bas âge : seront-ils avec leurs parents en enfer ? Il y a plusieurs avis : le plus probant et le meilleur est qu'ils sont parmi les gens du paradis... Le Prophète ﷺ fut interrogé à leur sujet et il dit : « Allah sait mieux ce qu'ils auraient fait. » Mais les hadiths authentiques indiquent qu'ils sont sur la fitrah, qu'ils sont parmi les gens du paradis et qu'ils seront avec Abraham au paradis, comme il l'a vu — que la prière et la paix soient sur lui — lors de l'ascension. Oui."
+  },
+  {
+   "id": "a5",
+   "text": "Le présentateur : Qu'Allah vous récompense en bien et vous accorde le meilleur."
+  }
+ ]
+}

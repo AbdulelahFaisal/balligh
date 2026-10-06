@@ -1,0 +1,59 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:09fdbf6762436f515f6a5e0f8cb9c590bc51193aa8c5066edd103205894db1be",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "صنع النبي صلى الله عليه وسلم شيئًا لم يُعلم ما هو، فاحترز عنه قوم وامتنعوا منه، فبلغ فعلُهم النبيَّ صلى الله عليه وسلم، فخطب فحمد الله ثم قال: ما بال قوم يتنزهون؟ أي: يحترزون ويترفعون عن الشيء أصنعه، فوالله إني لأعلمهم بالله إشارة إلى القوة العلمية، وأشدهم له خشية إشارة إلى القوة العملية، فإن كانوا يتوهمون أن رغبتهم عما فعلت أفضل لهم عند الله فليس كما توهموا، إذ أنا أعلمهم بالأفضل وأولاهم بالعمل، وفيه الحث على الاقتداء به صلى الله عليه وسلم والنهي عن التعمق، وذم التنزه عن المباح.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "الحث على الاقتداء به صلى الله عليه وسلم والنهي عن التعمق وذم التنزه عن المباح.",
+  "عدم مواجهة النبي صلى الله عليه وسلم لهم من حسن خلقه."
+ ],
+ "id": "hadeethenc-65355",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (8/ 26) (6101)، صحيح مسلم (4/ 1829) (2356)، عمدة القاري شرح صحيح البخاري (22/ 156) (25/ 39).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=65355",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:56:02+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/65355"
+ },
+ "source_categories": [
+  {
+   "id": "79",
+   "label": "النبوة"
+  },
+  {
+   "id": "95",
+   "label": "الإحسان"
+  }
+ ],
+ "source_record_id": "65355",
+ "text": "عن عائشة قالت: صنع النبي صلى الله عليه وسلم شيئًا فرخَّص فيه، فتنزه عنه قوم، فبلغ ذلك النبي صلى الله عليه وسلم، فخطب فحمد الله ثم قال: «ما بال أقوام يتنزَّهون عن الشيء أصنعه، فوالله إني لأعلمهم بالله، وأشدهم له خشية».",
+ "title": "ما بال أقوام يتنزَّهون عن الشيء أصنعه",
+ "topic": "understanding_islam",
+ "translations": {},
+ "type": "hadith",
+ "words_meanings": [
+  {
+   "meaning": " سهل.",
+   "word": "رخًَص"
+  },
+  {
+   "meaning": " تحرز وترفع.",
+   "word": "تنزه"
+  },
+  {
+   "meaning": " أفعله.",
+   "word": "أصنعه"
+  }
+ ],
+ "words_meanings_language": "ar"
+}

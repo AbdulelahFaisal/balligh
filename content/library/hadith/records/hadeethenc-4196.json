@@ -1,0 +1,156 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:b3c5d8d06d7960987d68b2e4b850948bd2eb0a15173aa0007b885be48b22cfbe",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يُخبِرُ النبيُّ صلى الله عليه وسلم أنَّ مَن صام شهر رمضان إيمانًا بالله، وتصديقًا بفَرْضِيَّةِ الصيام وما أعدَّ الله تعالى للصائمين مِن جَزيل الأجور والثواب، قاصدًا به وجهَ الله تعالى لا رياء ولا سُمْعَة، غُفرتْ له ذنوبُه الماضية.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "فضل الإخلاص وأهميته في صيام رمضان وغيره من الأعمال الصالحة."
+ ],
+ "id": "hadeethenc-4196",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (1/ 16) (38).\nصحيح مسلم (1/ 523) (760).\nبهجة الناظرين شرح رياض الصالحين، لسليم الهلالي (2/ 361).\nنزهة المتقين شرح رياض الصالحين، لمصطفى الخِن وغيره (2/ 868).\nكنوز رياض الصالحين، لمجموعة من الباحثين (15/ 40).\nشرح رياض الصالحين، لابن عثيمين (5/ 270).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=4196",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:39+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/4196"
+ },
+ "source_categories": [
+  {
+   "id": "513",
+   "label": "فضل الصيام"
+  }
+ ],
+ "source_record_id": "4196",
+ "text": "عن أبي هريرة رضي الله عنه قال: قال رسول الله صلى الله عليه وسلم: «مَنْ صَامَ رَمَضَانَ إِيمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ»",
+ "title": "من صام رمضان إيمانا واحتسابا غفر له ما تقدم من ذنبه",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=4196",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:a840fd883b55ccc8e85a502ea1581a837761346f276f7eea10a2e6df8240aa02",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বর্ণনা করেছেন যে, যে ব্যক্তি রমযান মাসে আল্লাহর উপর ঈমানের সাথে, সাওম ফরয হওয়া স্বীকার করে, সাওম পালনকারীর জন্য আল্লাহ যেসব সাওয়াব ও প্রতিদান প্রস্তুত করে রেখেছেন, সেগুলো লাভের আশায় এবং এর দ্বারা একমাত্র মহান আল্লাহর চেহারা (দর্শন) কামনা করে, যাতে কোন লৌকিকতা ও সুনাম-সুখ্যাতি অর্জনের উদ্দেশ্য থাকে না, তার পূর্ববর্তী গুনাহসমূহ মাফ করে দেয়া হয়।",
+   "grade": "সহীহ",
+   "hints": [
+    "রমযানের সাওম পালন ও অন্যান্য নেক আমলের ক্ষেত্রে ইখলাস তথা একনিষ্ঠতার ফযিলত ও এর গুরুত্ব বর্ণিত হয়েছে।"
+   ],
+   "mapping": "same HadeethEnc record id 4196; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:43+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/4196",
+   "text": "আবূ হুরায়রা রদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন: “যে ব্যক্তি রমযানে ঈমানের সাথে ও সাওয়াব লাভের আশায় সাওম পালন করে, তার পূর্ববর্তী গুনাহসমূহ মাফ করে দেয়া হয়।”",
+   "title": "“যে ব্যক্তি রমযানে ঈমানের সাথে ও সাওয়াব লাভের আশায় সাওম পালন করে, তার পূর্ববর্তী গুনাহসমূহ মাফ করে দেয়া হয়।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=4196",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:d9140de69799b393ac2647dc997c2f0455317b87eb5ecdf632b13b4622816fdb",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) informs that if a person fasts the month of Ramadan out of faith in Allah and out of belief in the obligation of fasting and the abundant reward Allah Almighty has prepared for those who observe fast, seeking thereby Allah's pleasure, without show-off or pursuit of reputation among people, his past sins will be forgiven.",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth points out the merit of sincerity and its significance in fasting Ramadan and other righteous deeds."
+   ],
+   "mapping": "same HadeethEnc record id 4196; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:42+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/4196",
+   "text": "Abu Hurayrah (may Allah be pleased with him) reported: The Messenger of Allah (may Allah's peace and blessings be upon him) said: \"Whoever fasts Ramadan, out of faith and in pursuit of reward, his past sins will be forgiven.\"",
+   "title": "Whoever fasts Ramadan, out of faith and in pursuit of reward, his past sins will be forgiven",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=4196",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:b2756990e7b52a9344c005ba6bf6ed13dcd9acb1dca60508378ef928472d5bab",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) informe que quiconque jeûne le mois de Ramadan en ayant foi en Allah, en déclarant véridique l'obligation du jeûne et ce qu'Allah, Exalté soit-Il, a préparé pour les jeûneurs comme abondantes récompenses et rétributions, tout en recherchant le Visage d'Allah, Exalté soit-Il, sans ostentation ni vanité, ses péchés passés lui seront alors pardonnés.",
+   "grade": "Authentique",
+   "hints": [
+    "Le mérite de la sincérité et son importance lors du jeûne de Ramadan ainsi que lors des autres œuvres vertueuses."
+   ],
+   "mapping": "same HadeethEnc record id 4196; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:43+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/4196",
+   "text": "Aboû Hourayrah (qu'Allah l'agrée) relate que Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) a dit : \"Quiconque jeûne Ramadan en ayant foi et en espérant la récompense, ses péchés précédents lui seront pardonnés.\"",
+   "title": "Quiconque jeûne Ramadan en ayant foi et en espérant la récompense, ses péchés précédents lui seront pardonnés",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=4196",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:4f2efa372e0ddfc7c54d043f1a9d627a03f9e36a1514f91f47bae91d7b667d03",
+   "explanation": "Nabi ﷺ mengabarkan bahwa orang yang berpuasa di bulan Ramadan atas dasar iman kepada Allah, mengimani kewajiban puasa dan pahala melimpah yang disiapkan oleh Allah Ta'ala kepada orang-orang yang berpuasa, serta mengharapkan wajah Allah Ta'ala, bukan riya dan sumah, maka dosa-dosanya yang telah lalu akan diampuni.",
+   "grade": "Sahih",
+   "hints": [
+    "Keutamaan dan urgensi keikhlasan dalam melaksanakan puasa Ramadan dan amal saleh lainnya."
+   ],
+   "mapping": "same HadeethEnc record id 4196; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:43+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/4196",
+   "text": "Abu Hurairah -raḍiyallāhu 'anhu- meriwayatkan, Rasulullah ﷺ bersabda, “Siapa yang berpuasa karena iman dan mengharapkan pahala, maka akan diampuni dosa-dosanya yang telah lalu.”",
+   "title": "“Siapa yang berpuasa karena iman dan mengharapkan pahala, maka akan diampuni dosa-dosanya yang telah lalu.”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=4196",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:27b8f30fa68d3550d5dc0ba86741d1e7b123fbf2f92abe6c271403f667d4939b",
+   "explanation": "اللہ کے نبی ﷺ و سلم بتا رہے ہیں کہ جس نے اللہ پر ایمان رکھتے ہوئے، روزے کی فرضیت اور روزے دار بندوں کے لیے اللہ کی جانب سے تیار شدہ بیش بہا اجر و ثواب کی تصدیق کرتے ہوئے اور اللہ تعالیٰ کی خوش نودی کے حصول کی خاطر، ریا کاری اور شہرت طلبی سے بچتے ہوئے، رمضان کے روزے رکھے، اس کے پچھلے گناہ معاف کر دیے جائيں گے۔",
+   "grade": "صحيح",
+   "hints": [
+    "اخلاص کی فضیلت اور رمضان کے روزے اور دیگر نیک کاموں میں اس کی اہمیت۔"
+   ],
+   "mapping": "same HadeethEnc record id 4196; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:42+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/4196",
+   "text": "ابو ہریرہ رضی اللہ عنہ سے روایت ہے، وہ کہتے ہیں کہ اللہ کے رسول ﷺ نے فرمایا: ”جس نے ایمان کے ساتھ اور اجر و ثواب کے حصول کی نیت سے رمضان کا روزہ رکھا، اس کے سابقہ گناہ بخش دیے جائیں گے۔“",
+   "title": "”جس نے ایمان کے ساتھ اور اجر و ثواب کے حصول کی نیت سے رمضان کا روزہ رکھا، اس کے سابقہ گناہ بخش دیے جائیں گے۔“",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=4196",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:24b3c05f6d1544e019add2810e63be89a6e38a985218dfa3d21e96f9a7e4e1c5",
+   "explanation": "先知（愿主福安之）告诉我们，凡是以对真主真诚的信仰、坚信斋戒的义务以及为了至高的真主为斋戒者所准备的丰富报酬和奖赏，真心地、全为清高的真主而不是沽名钓誉斋戒一个月的人，他之前的罪过就已经被宽恕。",
+   "grade": "正确的",
+   "hints": [
+    "虔诚的优越性，它在斋月斋戒以及其它善行中的重要性。"
+   ],
+   "mapping": "same HadeethEnc record id 4196; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:43+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/4196",
+   "text": "据艾布·胡莱勒（愿主喜悦之）传述，真主的使者（愿主福安之）说： 为了真诚地信仰和追求（真主的）回赐而封莱麦丹月斋戒的人，他以往的罪过已被饶恕。",
+   "title": "为了真诚地信仰和追求（真主的）回赐而封莱麦丹月斋戒的人，他以往的罪过已被饶恕。",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

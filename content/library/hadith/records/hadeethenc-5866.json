@@ -1,0 +1,191 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:1e15950323bdda5ce267880d8da98bff392e87f8240893a3bb9a773457a4b435",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يَأمُرُ النبيُّ صلى الله عليه وسلم بالتخفيف والتيسير على الناس وعدم التَّعْسِيْر عليهم في جميع أمور الدين والدنيا، وذلك في حدود ما أباح الله وشرع.\n\nويَحُثُّ على تَبْشِيرِهم بالخير، وعدم تَنْفِيرِهم منه.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "واجب المؤمن أن يحبب الناس بالله ويُرغِّبهم في الخير.",
+  "ينبغي على الداعي إلى الله أن ينظر بحكمة إلى كيفية تبليغ دعوة الإسلام إلى الناس.",
+  "التبشير يُولِّدُ السرورَ والإقبالَ والاطمئنانَ للداعي ولِمَا يَعرِضه على الناس.",
+  "التعسير يولِّدُ النفورَ والإدبارَ والتشكيكَ في كلام الداعي.",
+  "سعة رحمة الله بعباده وأنه رضي لهم دينًا سمحًا وشريعة ميسرة.",
+  "التيسير المأمور به هو ما جاءت به الشريعة."
+ ],
+ "id": "hadeethenc-5866",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (1/ 25) (69).\nصحيح مسلم (3/ 1358) (1732).\nشرح صحيح البخاري، لابن بطال (1/ 153).\nإرشاد الساري لشرح صحيح البخاري، لأبو العباس القسطلاني (1/ 169).\nبهجة الناظرين شرح رياض الصالحين، لسليم الهلالي (1/ 687).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=5866",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:57+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/5866"
+ },
+ "source_categories": [
+  {
+   "id": "282",
+   "label": "الأخلاق الحميدة"
+  }
+ ],
+ "source_record_id": "5866",
+ "text": "عن أنس بن مالك رضي الله عنه عن النبي صلى الله عليه وسلم قال: «يَسِّرُوا وَلَا تُعَسِّرُوا، وَبَشِّرُوا وَلَا تُنَفِّرُوا».",
+ "title": "يسروا ولا تعسروا، وبشروا ولا تنفروا",
+ "topic": "conduct",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=5866",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:f102511c0a08958cd44523c3522cd01acc426d198b5f21f643f5e10a2a5d0bc7",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম মানুষকে দীন ও দুনিয়ার সকল কাজে হালকা ও সহজ করতে আদেশ দিয়েছেন এবং কঠিন করতে নিষেধ করেছেন। আর এটি আল্লাহ যা ছাড় দিয়েছেন ও শরী‘য়ত সম্মত করেছেন তার সীমারেখায় থাকবে।\r\n\r\nমানুষকে কল্যাণকর কাজের সুসংবাদ দেওয়া এবং তাদেরকে দূরে ঠেলে না দেওয়ার ব্যাপারে উদ্বুদ্ধ করা হয়েছে।",
+   "grade": "সহীহ",
+   "hints": [
+    "মুমিনের দায়িত্ব হলো , সে মানুষকে আল্লাহর সাথে সম্পৃক্ত করবে এবং কল্যাণকর কাজে উৎসাহিত করবে।\r",
+    "আল্লাহর দিকে আহ্বানকারীর জন্য আবশ্যক হলো, মানুষের কাছে ইসলামের দাওয়াত পৌঁছানোর ক্ষেত্রে হিকমতের প্রতি লক্ষ্য রাখা।\r",
+    "সহজতা ও সুসংবাদ দাওয়াত প্রদানকারী (দা‘য়ী) ও যাদেরকে দাওয়াত দেওয়া হয় (মাদ‘উ) তাদের সকলের জন্যে আনন্দ, গ্রহণযোগ্যতা ও প্রশান্তি সৃষ্টি করে।\r",
+    "অন্যদিকে কঠোরতা দা‘য়ীর কথাবার্তায় বিদ্বেষ, বিমুখতা ও সংশয় সৃষ্টি করে।\r",
+    "বান্দাহর প্রতি আল্লাহর প্রশস্ত রহমত। তিনি বান্দাহর জন্য সহনশীল ধর্ম এবং সহজ শরী‘য়ত মনোনীত করেছেন।\r",
+    "এ হাদীসে বর্ণিত সহজতা বলতে সেগুলোকেই বুঝানো হয়েছে যেগুলো ইসলামী শরী‘য়ত নিয়ে এসেছে।"
+   ],
+   "mapping": "same HadeethEnc record id 5866; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:51+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/5866",
+   "text": "আনাস রাযিয়াল্লাহু ‘আনহু থেকে বর্ণিত, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন: “তোমরা সহজ করো, কঠিন করো না, লোকদেরকে সুসংবাদ দাও, দূরে ঠেলে দিও না।”",
+   "title": "“তোমরা সহজ করো, কঠিন করো না, লোকদেরকে সুসংবাদ দাও, দূরে ঠেলে দিও না।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=5866",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:2d2ee184b249f314c5f07d27d08fddcefb38429f322f08b996a60d417481efa8",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) orders us to make things light and easy for people and not put them into difficulty in any religious or worldly matter - within the limits of what Allah made lawful and legislated.\r\n\r\nHe (may Allah's peace and blessings be upon him) also urges us to give people glad tidings and not drive them away.",
+   "grade": "Authentic",
+   "hints": [
+    "A believer is required to lead people to love Allah and encourage them to do good.\r",
+    "A caller to Allah should wisely consider how to convey the call of Islam to the people.\r",
+    "Glad tidings inspire pleasure, acceptance, and reassurance about the caller and his message.\r",
+    "Making things difficult for people prompts aversion and makes them turn away from the caller and become doubtful about his speech.\r",
+    "Allah shows vast mercy towards His servants, as He approved for them an easy religion and easy Shariah.\r",
+    "The required facilitation is that which was prescribed by the Shariah."
+   ],
+   "mapping": "same HadeethEnc record id 5866; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:51+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/5866",
+   "text": "Anas ibn Mālik (may Allah be pleased with him) reported: The Prophet (may Allah's peace and blessings be upon him) said: \"Make matters easy and do not make them difficult, and give people glad tidings and do not drive them away.\"",
+   "title": "Make matters easy and do not make them difficult, and give people glad tidings and do not drive them away",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=5866",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:83156c7fd5856b42b29c1406499f69f419c9747f351306a498c35602df5b4557",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) ordonne d'alléger et de faciliter les choses pour les gens et de ne pas leur rendre compliqué les choses, qu'il s'agisse de leurs affaires religieuses et mondaines. Et ceci, dans les limites de ce qu'Allah a autorisé et prescrit.\r\n\r\nIl encourage aussi (qu'Allah le couvre d'éloges et le préserve) à leur faire la bonne annonce du bien et à ne pas les en faire fuir.",
+   "grade": "Authentique",
+   "hints": [
+    "Le devoir du croyant est de faire aimer Allah aux gens et de les encourager dans le bien.\r",
+    "Il convient à celui qui invite les gens à Allah d'observer avec sagesse comment transmettre l'appel de l'Islam aux gens.\r",
+    "Le fait d'annoncer les bonnes nouvelles fait naître la joie, l'acceptation et l'apaisement du coeur quant au prédicateur et à ce qu'il présente aux gens.\r",
+    "Le fait de rendre compliqué fait naître l'envie de fuir, de se détourner et le doute vis-à-vis des paroles du prédicateur.\r",
+    "L'étendue de la miséricorde d'Allah envers Ses serviteurs et le fait qu'Il leur a agréé une religion bienveillante et une Charî'ah (Législation) facilitée.\r",
+    "La facilité ordonnée est ce avec quoi la Charî'ah est venue."
+   ],
+   "mapping": "same HadeethEnc record id 5866; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:51+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/5866",
+   "text": "Anas ibn Mâlik (qu'Allah l'agrée) relate que le Prophète (qu'Allah le couvre d'éloges et le préserve) a dit : « Facilitez et ne rendez pas difficile ! Annoncez de bonnes nouvelles et ne faites pas fuir ! »",
+   "title": "Facilitez et ne rendez pas difficile ! Annoncez de bonnes nouvelles et ne faites pas fuir !",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=5866",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:49bcc898717bb52dd5131974abf897a96786e1e3dfae9851deed4a675c9dffbc",
+   "explanation": "Nabi ﷺ memerintahkan agar memberikan keringan dan kemudahan pada manusia serta tidak menyulitkan mereka dalam semua urusan agama dan dunia. Hal itu dilakukan dalam batasan-batasan yang dibolehkan dan disyariatkan oleh Allah.\r\n\r\nBeliau juga mendorong agar membuat manusia senang pada kebaikan dan tidak menjadikan mereka lari darinya.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Kewajiban orang beriman ialah menjadikan manusia cinta kepada Allah dan termotivasi pada kebaikan.\r",
+    "2- Seorang dai yang berdakwah kepada agama Allah wajib untuk melihat dengan bijaksana cara menyampaikan dakwah Islam kepada manusia.\r",
+    "3- Memberi kabar gembira akan melahirkan rasa senang, sambutan, dan kenyamanan terhadap sang dai dan terhadap apa yang dia tawarkan kepada manusia.\r",
+    "4- Tindakan mempersulit akan membuat manusia lari dan menjauh serta ragu pada ucapan sang dai.\r",
+    "5- Keluasan rahmat (kasih sayang) Allah kepada hamba-hamba-Nya dan Allah meridai bagi mereka agama yang ramah dan syariat yang mudah.\r",
+    "6- Pemberian kemudahan yang diperintahkan ialah yang dibawa oleh syariat."
+   ],
+   "mapping": "same HadeethEnc record id 5866; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:51+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/5866",
+   "text": "Anas bin Mālik -raḍiyallāhu 'anhu- meriwayatkan dari Nabi ﷺ bahwa beliau bersabda, \"Berilah kemudahan dan jangan mempersulit serta berilah berita gembira dan jangan membuat orang lari (dari agama).\"",
+   "title": "Berilah kemudahan dan jangan mempersulit serta berilah berita gembira dan jangan membuat orang lari (dari agama)",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=5866",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:8eb7ddab2e9e8875d879ecb88b4727db82116a1fe3a07bf3385ee4637beb91ce",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم دین اور دنیا سے متعلق سبھی معاملوں میں، شرعی دائرے میں رہ کر، لوگوں کا بوجھ ہلکا کرنے، ان کو آسانی دینے اور دشواری نہ ڈالنے کا حکم دیتے تھے۔\r\n\r\nساتھ ہی خیر کی خوش خبری دینے اور لوگوں کو دین سے نفرت نہ دلانے کی ترغیب دیتے تھے۔",
+   "grade": "صحيح",
+   "hints": [
+    "ایک مؤمن کی ذمے داری ہے کہ وہ لوگوں کو اللہ سے محبت دلائے اور اچھے کام کی ترغیب دے۔\r",
+    "داعی الی اللہ کو چاہیے کہ وہ لوگوں کو اسلام کی طرف دعوت دینے کے طریقہ کے بارے میں حکمت اپنائے۔\r",
+    "خوش خبری دینے کے نتیجے میں داعی اور اس کی دعوت کے بارے میں لوگوں کے اندر خوشی، توجہ اور اطمینان کا جذبہ پیدا ہوتا ہے۔\r",
+    "لوگوں کو دشواری میں ڈالنے سے داعی کی بات سے دوری، شکوک و شبہات اور بے رخی پیدا ہوتی ہے۔\r",
+    "بندوں پر اللہ کی بڑی رحمت ہے کہ اس نے ان کے لیے ایک کشادگى والے دین اور آسان شریعت کا انتخاب کیا ہے۔\r",
+    "آسانی سے مراد وہی آسانی ہے، جو شرعی تعلیمات کے عین مطابق ہو۔"
+   ],
+   "mapping": "same HadeethEnc record id 5866; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:51+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/5866",
+   "text": "انس بن مالک رضی اللہ عنہ سے روایت ہے کہ اللہ کے نبی صلی اللہ علیہ و سلم نے فرمایا : ”آسانی پیدا کرو، مشکل میں نہ ڈالو، خوش خبری دو اور متنفر نہ کرو“۔",
+   "title": "”آسانی پیدا کرو، مشکل میں نہ ڈالو، خوش خبری دو اور متنفر نہ کرو“۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=5866",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:f55a3c3dc140382c420bde95ecc91002271c896133015fe4003eb757506d7306",
+   "explanation": "先知（愿主福安之）命令在一切教门和今世之事物当中，当给人容易，使他们轻松，不要为难他们，这些当限于安拉所允许的范围之内。\r\n\r\n鼓励给人们报喜，不可恐吓他们。",
+   "grade": "正确的",
+   "hints": [
+    "信士之义务是让人们喜爱安拉，鼓励他们行善。\r",
+    "宣教人应该通过智慧之方式向人们宣传伊斯兰。\r",
+    "给人喜讯可使人们愉悦，对宣教人员放心并追随之，也能使他们更能接受他的宣教。\r",
+    "给人困难会使人逃离和抛弃宣教者，并对他的话产生怀疑。\r",
+    "安拉对仆人之疼慈是宽广的，在今世他喜欢原谅仆人，并使教律简单易行。\r",
+    "必须给人容易，这是教法之规定。"
+   ],
+   "mapping": "same HadeethEnc record id 5866; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:51+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/5866",
+   "text": "据艾奈斯·本·马利克传述，据先知（愿主福安之）说： “当使人容易，不要使人为难，当给人报喜，不要恐吓他们。”",
+   "title": "“当使人容易，不要使人为难，当给人报喜，不要恐吓他们。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

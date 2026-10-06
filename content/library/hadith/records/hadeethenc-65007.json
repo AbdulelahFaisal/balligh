@@ -1,0 +1,195 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:6d988a98f47b7857243ea806af092d2cd0350eda013fad456490a2f8abbe2c6d",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يبين النبي صلى الله عليه وسلم حق الله على العباد، وحق العباد على الله، وأن حق الله على العباد أن يعبدوه وحده ولا يشركوا به شيئًا، \nوأن حق العباد على الله هو أن لا يُعذب الموحدين الذين لا يشركون به شيئًا. \nثم إن معاذا قال: يا رسول الله، ألا أبشر الناس ليفرحوا ويستبشروا بهذا الفضل؟ \nفنهاه النبي صلى الله عليه وسلم خشية أن يعتمدوا عليها.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "بيان حقّ الله تعالى الذي أوجبه على عباده، وهو أن يعبدوه، ولا يشركوا به شيئًا.",
+  "بيان حقّ العباد على الله تعالى الذي أوجبه على نفسه فضلًا منه ونعمةً، وهو أن يدخلهم الجَنَّة، ولا يعذبهم.",
+  "فيه بشارة عظيمة للموحّدين الذين لا يشركون بالله تعالى شيئاً بأن مصيرهم دخول الجَنَّة.",
+  "حَدَّثَ معاذ بهذا الحديث قبل موته؛ مخافة الوقوع في إثم كتمان العلم.",
+  "التنبيه على عدم نشر بعض الأحاديث عند بعض الناس خوفًا على من لم يدرك معناها؛ وذلك فيما ليس تحته عمل ولا فيه حد من حدود الشريعة.",
+  "عصاة الموحدين تحت مشيئة الله إن شاء عذّبهم وإن شاء غفر لهم، ثم مصيرهم إلى الجنة."
+ ],
+ "id": "hadeethenc-65007",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (4/ 29) (2856)، صحيح مسلم (1/ 58) (30)، المحكم لابن سيده (10/26)، المفهم لما أشكل من تلخيص كتاب مسلم (1/ 203)، فتح الباري (11/340، البحر المحيط الثجاج في شرح صحيح الإمام مسلم بن الحجاج (1/ 623)، (1/ 627)، عمدة القاري شرح صحيح البخاري (14/ 148).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=65007",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:33+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/65007"
+ },
+ "source_categories": [
+  {
+   "id": "73",
+   "label": "توحيد الألوهية"
+  },
+  {
+   "id": "271",
+   "label": "فضائل التوحيد"
+  }
+ ],
+ "source_record_id": "65007",
+ "text": "عَنْ مُعَاذٍ رَضِيَ اللَّهُ عَنْهُ، قَالَ: كُنْتُ رِدْفَ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَلَى حِمَارٍ يُقَالُ لَهُ عُفَيْرٌ، فَقَالَ: «يَا مُعَاذُ، هَلْ تَدْرِي حَقَّ اللَّهِ عَلَى عِبَادِهِ، وَمَا حَقُّ العِبَادِ عَلَى اللَّهِ؟»، قُلْتُ: اللَّهُ وَرَسُولُهُ أَعْلَمُ، قَالَ: «فَإِنَّ حَقَّ اللَّهِ عَلَى العِبَادِ أَنْ يَعْبُدُوهُ وَلا يُشْرِكُوا بِهِ شَيْئًا، وَحَقَّ العِبَادِ عَلَى اللَّهِ أَنْ لا يُعَذِّبَ مَنْ لا يُشْرِكُ بِهِ شَيْئًا»، فَقُلْتُ: يَا رَسُولَ اللَّهِ أَفَلاَ أُبَشِّرُ بِهِ النَّاسَ؟ قَالَ: «لا تُبَشِّرْهُمْ، فَيَتَّكِلُوا».",
+ "title": "فإن حق الله على العباد أن يعبدوه ولا يشركوا به شيئا، وحق العباد على الله أن لا يعذب من لا يشرك به شيئا",
+ "topic": "belief",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=65007",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:b5ef1b6dc63a784828232c6202342bb0f15b4261095fc58d0dc198541389ad64",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এখানে বান্দার উপরে আল্লাহর হক এবং আল্লাহর উপরে বান্দার হকের বর্ণনা করেছেন। আর বান্দার উপরে আল্লাহর হক হচ্ছে: তারা শুধুমাত্র আল্লাহরই ইবাদাত করবে এবং তার সাথে কোন বস্তুকে শরীক করবে না। আর আল্লাহর উপরে বান্দার হক হচ্ছে, তাওহীদপন্থীদের মধ্যে যারা তাঁর সাথে শিরক করবে না তিনি তাদেরকে শাস্তি দিবেন না। তারপরে মু‘আয বলেছেন: হে আল্লাহর রাসূল! আমি কী মানুষকে এ সুসংবাদ দিব না, যাতে তারা খুশি হতে পারে এবং এর ফযিলতে সন্তুষ্ট হতে পারে? তখন নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাকে নিষেধ করলেন, এ আশঙ্কায়, যেন তারা শুধু এটার উপরেই নির্ভর না করে।",
+   "grade": "সহীহ",
+   "hints": [
+    "আল্লাহ তা‘আলার এমন হকের বর্ণনা, যা তিনি তাঁর বান্দাদের উপরে আবশ্যক করেছেন। তা হচ্ছে: তারা তাঁরই ইবাদাত করবে এবং তাঁর সাথে কাউকে শিরক করবে না।\r",
+    "এ হাদীসে আল্লাহর উপরে বান্দার এমন হকের বর্ণনা করা হয়েছে, যা আল্লাহ তাঁর নিজের উপরে আবশ্যক করে নিয়েছেন, তাঁর পক্ষ থেকে অনুগ্রহ ও নি‘আমাত হিসেবে। আর তা হলো তিনি তাদেরকে জান্নাতে প্রবেশ করাবেন এবং তাদেরকে শাস্তি দিবেন না।\r",
+    "এ হাদীসে তাওহীদপন্থী তথা যারা আল্লাহর সাথে কোন কিছুকে শিরক করে না তাদের জন্য অনেক বড় একটি সুসংবাদ রয়েছে, তা হচ্ছে: তারা জান্নাতে প্রবেশ করবে।\r",
+    "ইলম গোপন করা হবে এ ভয়ে মু‘আয রাদিয়াল্লাহু ‘আনহু তার মৃত্যুর আগে তিনি এ হাদীসটি বর্ণনা করেছিলেন।\r",
+    "হাদীসে এ মর্মে সতর্কতা রয়েছে যে, অর্থ বুঝে আসবে না এ ভয়ে কতিপয় হাদীস কতিপয় মানুষের কাছে প্রকাশ না করা। তবে এক্ষেত্রে শর্ত হচ্ছে: ঐ হাদীসের সাথে সংশ্লিষ্ট কোন (অত্যাবশ্যক) আমল থাকবে না এবং শরী‘আতের নির্ধারিত কোন শাস্তি বিধানের সাথেও সম্পর্কিত হবে না।\r",
+    "তাওহীদপন্থীদের পাপী ব্যক্তিরা আল্লাহ তা‘আলার ইচ্ছার অধীন। তিনি যদি চান, তাহলে তাদেরকে আযাব দিবেন, আর যদি চান তাদেরকে ক্ষমা করবেন। সবশেষে তাদের স্থান হবে জান্নাতে।"
+   ],
+   "mapping": "same HadeethEnc record id 65007; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:24+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/65007",
+   "text": "মু‘আয ইবনু জাবাল রাদিয়াল্লাহু ‘আনহু হতে বর্ণিত, তিনি বলেছেন: আমি নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের পিছনে ‘উফাইর নামক গাধার উপরে ছিলাম। তখন তিনি বললেন: “হে মু‘আয! তুমি কী বান্দার উপরে আল্লাহর হক (অধিকার) এবং আল্লাহর উপরে বান্দাহর হক সম্পর্কে জান?” আমি বললাম: আল্লাহ এবং তাঁর রাসূল সবচেয়ে ভালো জানেন। তিনি বললেন: “বান্দার উপরে আল্লাহর হক হচ্ছে, তারা তাঁরই ইবাদাত করবে আর কোন কিছুকে আল্লাহর সাথে শিরক করবে না। আর পক্ষান্তরে আল্লাহর উপরে বান্দার হক হচ্ছে, যে ব্যক্তি তাঁর সাথে শিরক করবে না, তিনি তাকে আযাব দিবেন না।” আমি বললাম: হে আল্লাহর রাসূল! আমি কী মানুষদেরকে এটার সুসংবাদ দিব না? তিনি বললেন: “তুমি তাদেরকে সুসংবাদ দিও না, তাতে তারা (শুধু এটার উপরে) নির্ভর করে বসে থাকবে।”",
+   "title": "বান্দার উপরে আল্লাহর হক হচ্ছে, তারা তাঁরই ইবাদাত করবে আর কোন কিছুকে আল্লাহর সাথে শিরক করবে না। আর পক্ষান্তরে আল্লাহর উপরে বান্দার হক হচ্ছে, যে ব্যক্তি তাঁর সাথে শিরক করবে না, তিনি তাকে আযাব দিবেন না।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=65007",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:28e83d748bf32f437b3d1736f608dc9024faa89541072e3aa068241215e51af7",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) mentions the right of Allah upon His servants and the right of His servants upon Him and demonstrates that Allah's right upon His servants is that they should worship Him alone and associate no partners with Him, and that the right of the servants upon Allah is that He should not punish those who believe in His Oneness and associate nothing with Him. Then, Mu‘ādh said: O Messenger of Allah, should I inform the people so that they rejoice at this merit? But the Prophet (may Allah's peace and blessings be upon him) told him not to inform them, lest they would depend on this matter solely.",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth demonstrates the right of Allah Almighty which He ordained upon His servants: that they should worship Him and associate no partners with Him.\r",
+    "It demonstrates the right of the servants upon Allah Almighty which He ordained upon Himself, out of His grace and bounty: that He should admit them into Paradise and not punish them.\r",
+    "This Hadīth offers great news for those who believe in Allah's Oneness and associate nothing with Him that their destination will be Paradise.\r",
+    "Mu‘ādh related this Hadīth before his death, fearing he might fall into sin for concealing knowledge.\r",
+    "It indicates that some Hadīths should not be related among some people for fear of those of them who cannot understand their meanings, provided that the Hadīths do not pertain to certain Shar‘i acts or legal punishments.\r",
+    "Muslim sinners are subject to Allah's will: if He wills, He may punish them; and if He wills, He may forgive them. Then, they will end up in Paradise."
+   ],
+   "mapping": "same HadeethEnc record id 65007; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:23+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/65007",
+   "text": "Mu‘ādh (may Allah be pleased with him) reported: I was riding behind the Prophet (may Allah’s peace and blessings be upon him) on a donkey called ‘Ufayr. The Prophet (may Allah’s peace and blessings be upon him) asked: \"O Mu‘ādh, do you know what Allah's right upon His servants is, and what the right of His servants upon Him is?\" I replied: \"Allah and His Messenger know best.\" He said: \"Allah's right upon His servants is that they should worship Him and associate no partners with Him. And the right of the servants upon Allah is that He should not punish whoever associates no partners with Him.\" I said: \"O Messenger of Allah, should I not inform the people of this good news?\" He said: \"Do not inform them of it, lest they depend on it solely.\"",
+   "title": "Allah's right upon His servants is that they should worship Him and associate no partners with Him. And the right of the servants upon Allah is that He should not punish whoever associates no partners with Him",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=65007",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:74365db7801baf1ba0da9ebf3ed71f1f907dc4691e33d1e3afeb2f0e54e04016",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve)  explique le droit d'Allah sur les serviteurs et le droit des serviteurs sur Allah. Le droit d'Allah sur les serviteurs est qu'ils L'adorent, Lui Seul, et qu'ils ne Lui associent rien, et le droit des serviteurs sur Allah est qu'Il ne châtie pas les vrais monothéistes, ceux-là même qui ne Lui associent rien. Ensuite, Mou'âdh a dit : \"Ô Messager d'Allah ! Ne dois-je pas annoncer cette bonne nouvelle aux gens afin qu'ils s'en réjouissent et reçoivent la bonne nouvelle de ce mérite ?\" Le Prophète (qu'Allah le couvre d'éloges et le préserve) lui a alors interdit cela, par crainte que les gens ne se reposent sur cette bonne nouvelle.",
+   "grade": "Authentique",
+   "hints": [
+    "L'explication du droit d'Allah, Exalté soit-Il, qu'Il a rendu obligatoire sur Ses serviteurs : qu'ils L'adorent sans Lui associer qui ou quoi que ce soit.\r",
+    "L'explication du droit des serviteurs sur Allah, Exalté soit-Il, qu'Il a rendu obligatoire sur Lui-même, en tant que faveur et bienfait de Sa part : Il les fait entrer au Paradis et Il ne les châtie pas.\r",
+    "On y trouve une bonne nouvelle considérable pour les vrais monothéistes, ceux qui n'associent rien à Allah, Exalté soit-il, à savoir que leur destination est l'entrée au Paradis.\r",
+    "Mou'âdh a relaté ce hadith juste avant sa mort, par crainte de tomber dans le péché d'avoir dissimulé une science.\r",
+    "La sensibilisation au fait de ne pas transmettre certains hadiths à une catégorie de personnes dont il est craint qu'elles ne saisissent pas leur signification ; toutefois, cela ne concerne pas les hadiths dont découle une œuvre, ou dans lesquels il y a une peine prescrite parmi les peines prescrites de la Charia.\r",
+    "Les désobéissants parmi les vrais monothéistes sont sous la volonté d'Allah : s'Il le veut, Il les châtie ; et s'Il le veut, Il leur pardonne. Ensuite, leur destination est le Paradis."
+   ],
+   "mapping": "same HadeethEnc record id 65007; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:24+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/65007",
+   "text": "Mou'âdh (qu'Allah l'agrée) relate : « J'étais assis derrière le  Prophète (qu'Allah le couvre d'éloges et le préserve) sur un âne appelé 'Oufayr. Il demanda alors : \"Ô Mou'âdh ! Sais-tu quel est le droit d'Allah sur Ses serviteurs et quel est le droit des serviteurs sur Allah ? - J'ai dit : Allah et Son Messager savent mieux ! - Il a répondu : \"Le droit d'Allah sur les serviteurs est qu'ils L'adorent et qu'ils ne Lui associent rien, et le droit des serviteurs sur Allah est qu'Il ne châtie personne qui ne Lui associe rien. - J'ai alors demandé : Ô Messager d'Allah ! Ne dois-je pas annoncer cette bonne nouvelle aux gens ? - Il a répondu : Ne leur annonce pas la bonne nouvelle afin qu'ils ne se reposent pas sur cela !\" »",
+   "title": "Le droit d'Allah sur les serviteurs est qu'ils L'adorent et qu'ils ne Lui associent rien, et le droit des serviteurs sur Allah est qu'Il ne châtie personne qui ne Lui associe rien",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=65007",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:76db894b2ac023d7b7a006ca426e6e3cac5732b4750a43bb263ed58dd625d119",
+   "explanation": "Nabi ﷺ menerangkan hak Allah dari para hamba-Nya dan hak para hamba dari Allah. Hak Allah dari para hamba-Nya ialah agar mereka beribadah kepada-Nya semata dan tidak menyekutukan-Nya dengan sesuatu apa pun. Sedangkan hak para hamba dari Allah ialah bahwa Allah tidak akan menyiksa orang-orang bertauhid yang tidak menyekutukan-Nya dengan sesuatu apa pun. Kemudian Mu'āż bertanya, \"Wahai Rasulullah! Bolehkah aku sampaikan kabar gembira mengenai karunia ini kepada semua orang, agar mereka senang dan merasa bahagia?\" Maka Nabi ﷺ melarangnya, karena khawatir mereka akan bertumpu pada hal itu.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Penjelasan tentang hak Allah Ta'ala yang Dia wajibkan kepada hamba-hamba-Nya, yaitu agar mereka beribadah kepada-Nya dan tidak menyekutukan-Nya dengan sesuatu apa pun.\r",
+    "2- Penjelasan mengenai hak para hamba dari Allah Ta'ala yang Allah wajibkan atas diri-Nya sebagai karunia dan nikmat dari-Nya, yaitu memasukkan mereka ke dalam surga dan tidak menyiksa mereka.\r",
+    "3- Kabar gembira yang besar bagi orang-orang bertauhid yang tidak menyekutukan Allah Ta'ala dengan sesuatu apa pun bahwa tempat mereka ialah masuk surga.\r",
+    "4- Mu'āż menyampaikan hadis ini sebelum ia meninggal, karena khawatir jatuh dalam dosa menyembunyikan ilmu.\r",
+    "5- Ini merupakan suatu peringatan agar seseorang tidak menyebarkan suatu hadis kepada orang lain saat dikhawatirkan orang tersebut tidak memahami maknanya dengan benar; yaitu hadis yang tidak mengandung pengamalan dan tidak terkait dengan batasan-batasan syariat.\r",
+    "6- Orang-orang bertauhid yang telah berbuat maksiat berada di bawah kehendak Allah; jika Allah berkehendak, Dia akan menyiksa mereka, atau Dia berkehendak, maka Dia akan mengampuni mereka, kemudian akhir perjalanan mereka ialah ke surga."
+   ],
+   "mapping": "same HadeethEnc record id 65007; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:23+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/65007",
+   "text": "Mu'āż -raḍiyallāhu 'anhu- meriwayatkan, ia berkata, \"Aku pernah dibonceng oleh Nabi ﷺ di atas seekor keledai yang diberi nama 'Ufair, lalu beliau bertanya, \"Wahai Mu'āż, apakah kamu mengetahui hak Allah atas hamba-Nya dan hak hamba atas Allah?\" Aku menjawab, \"Allah dan Rasul-Nya yang lebih tahu.\" Beliau bersabda, \"Sesungguhnya hak Allah dari para hamba-Nya ialah agar mereka beribadah kepada-Nya dan tidak menyekutukan-Nya dengan sesuatu apa pun. Sedangkan hak para hamba dari Allah ialah bahwa Allah tidak akan menyiksa siapa yang tidak menyekutukan-Nya dengan sesuatu apa pun.\" Aku bertanya, \"Wahai Rasulullah, bolehkan aku sampaikan kabar gembira ini kepada semua orang?\" Beliau bersabda, \"Jangan kamu memberitahukannya, khawatir mereka nanti bersikap pasrah.\"",
+   "title": "Sesungguhnya hak Allah dari para hamba-Nya ialah agar mereka beribadah kepada-Nya dan tidak menyekutukan-Nya dengan sesuatu apa pun. Sedangkan hak para hamba dari Allah ialah bahwa Allah tidak akan menyiksa siapa yang tidak menyekutukan-Nya dengan sesuatu apa pun",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=65007",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:2bc2d423e24c2bfdeb3fd886e8c63809a67948d43e51cb2b3f228faaa84e8e56",
+   "explanation": "نبی صلی اللہ علیہ وسلم نے اس حدیث میں یہ وضاحت فرمائی ہے کہ بندوں پر اللہ کا کیا حق ہے اور اللہ پر بندوں کا کیا حق ہے۔ بندوں پر اللہ کا حق یہ کہ وہ صرف ایک اللہ کی عبادت کریں اور اس کے ساتھ کسی کو شریک نہ ٹھہرائیں۔ جب کہ اللہ پر بندوں کا حق یہ ہے کہ وہ اپنے ان موحد بندوں کو عذاب نہ دے، جو اس کے ساتھ کسی کو شریک نہیں ٹھہراتے۔ پھر معاذ رضی اللہ عنہ نے عرض کیا: اے اللہ کے رسول! کیا میں لوگوں کو خوش خبری نہ دے دوں، تاکہ وہ اس فضل وکرم کو جان کر خوش ہوسکیں؟ لیکن آپ نے انھیں ایسا کرنے سے منع کردیا، اس خوف سے کہ کہیں لوگ اس پر توکل کرکے بیٹھ نہ رہیں۔",
+   "grade": "صحيح",
+   "hints": [
+    "اللہ تعالی کے اس حق کی وضاحت جو اللہ نے اپنے بندوں پر واجب قرار دیا ہے۔ وہ حق یہ ہے کہ بندے اللہ کی عبادت کریں اور اس کے ساتھ کسی کو شریک نہ ٹھہرائیں۔\r",
+    "اللہ تعالی پر بندوں کے اس حق کی وضاحت، جو اللہ نے اپنے فضل و انعام کے طور پر اپنی ذات پر واجب کیا ہے۔ وہ حق یہ ہے کہ اللہ انہیں جنت میں داخل کرے اور عذاب سے محفوظ رکھے۔\r",
+    "اس حدیث میں ان موحد بندوں کے لیے بڑی عظیم بشارت ہے، جو اللہ کے ساتھ کسی کو شریک نہیں ٹھہراتے کہ ان کی جاے قرار جنت ہے۔\r",
+    "معاذ رضی اللہ عنہ نے اپنی موت سے قبل یہ حدیث اس خوف سے بیان کر دی کہ کہیں وہ کتمان علم کے جرم میں نہ مبتلا ہو جائیں۔\r",
+    "اس بات کی تنبیہ کہ کچھ احادیث کچھ لوگوں کے سامنے بیان نہ کی جائیں، اس خوف سے کہ کہیں وہ ان کے معانی کا ادراک نہ کر سکیں۔ لیکن یہ بات ان احادیث کے ساتھ خاص ہے جو نہ تو کسی عمل پر مشتمل ہیں اور نہ ان میں شریعت کی حدود بیان کی گئی ہیں۔\r",
+    "گناہ گار موحد بندے اللہ کی مشیت کے ماتحت ہوں گے۔ اگر اللہ چاہے گا تو انہیں عذاب دے گا اور اگر چاہے گا تو انہیں معاف کردے گا اور بالآخر جنت میں داخل کرے گا۔"
+   ],
+   "mapping": "same HadeethEnc record id 65007; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:23+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/65007",
+   "text": "معاذ رضی اللہ عنہ سے مروی ہے، وہ فرماتے ہیں: ایک مرتبہ میں اللہ کے نبی ﷺ کے پیچھے ایک گدھے پر سوار تھا، جس کا نام عفیر تھا۔ اسی دوران آپ نے فرمایا: ’’اے معاذ! کیا تم جانتے ہو کہ اللہ تعالیٰ کا بندوں پر کیا حق ہے اور بندوں کا اللہ تعالیٰ پر کیا حق ہے؟‘‘ میں نے عرض کیا: اللہ اور اس کے رسول ہی زیادہ جانتے ہیں۔ آپ نے فرمایا: ’’بندوں پر اللہ کا حق یہ ہے کہ وہ صرف اسی کی عبادت کریں اور اس کے ساتھ کسی کو شریک نہ کریں اور بندوں کا اللہ پر حق یہ ہے کہ جو کسی کو اس کا شریک نہ ٹھہراتا ہو، اللہ تعالیٰ اسے عذاب نہ دے۔‘‘ میں نے عرض کیا: اللہ کے رسول اللہ ﷺ ! کیا میں لوگوں کو اس کی بشارت نہ دے دوں؟ آپ ﷺ نے فرمایا: ’’لوگوں کو اس کی بشارت نہ دو، ورنہ لوگ اسی پر بھروسہ کرکے بیٹھ جائیں گے۔‘‘",
+   "title": "بندوں پر اللہ کا حق یہ ہے کہ وہ صرف اسی کی عبادت کریں اور اس کے ساتھ کسی کو شریک نہ کریں اور بندوں کا اللہ پر حق یہ ہے کہ جو کسی کو اس کا شریک نہ ٹھہراتا ہو، اللہ تعالیٰ اسے عذاب نہ دے",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=65007",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:17846c0e5ca2ff76b6a30e7cbff735afb06f9f51e03ef8fe8e4312207a71b65b",
+   "explanation": "先知（愿主福安之）阐明了安拉对仆人的权益，以及仆人对安拉的义务，仆人对安拉的义务是：他们崇拜独一的安拉，不以任何物举伴他。 安拉对仆人的权益是：他不惩罚没有以任何物举伴他的认主独一者。 然后穆阿兹说：安拉的使者啊！我要告诉人们这一喜讯，让他们以此而高兴吗？ 但是使者（愿主福安之）禁止他这么做，因担心人们依赖于此。",
+   "grade": "正确的",
+   "hints": [
+    "阐明安拉之权利，即仆人对安拉务必尽到的义务是：崇拜安拉，而不以任何物举伴他。\r",
+    "阐明仆人之权益，即安拉为自己所责成的，这是出自安拉的赏赐和恩惠，即让他的仆人进入天堂，而不惩罚他们。\r",
+    "其中有对于认主独一，不以任何物举伴安拉者的喜讯，即他们的归宿一定是天堂。\r",
+    "为了避免犯下隐瞒知识之罪行，穆阿兹在归真前向人们讲述了此段圣训。\r",
+    "提醒人们有些圣训不应传达有些人，担心有些人不能领会圣训之要义，包括：不工作、不遵守任何教法之刑律。\r",
+    "认主独一的犯罪者，他们处于安拉的意欲之下，如安拉意欲便惩罚他们，如安拉意欲便饶恕他们，最终他们的归宿依然是天堂。"
+   ],
+   "mapping": "same HadeethEnc record id 65007; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:23+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/65007",
+   "text": "据穆阿兹（愿主福安之）传述说： 我曾同先知（愿主福安之）共骑一头驴，我坐在先知的身后，人们称这头驴为欧菲尔，先知（愿主福安之）说：“穆阿兹啊！你知道仆人对安拉的义务，以及安拉给仆人的权益是什么吗？”我说：安拉和他的使者最清楚。他说：“仆人对安拉的义务是：他们崇拜安拉，不以任何物举伴他，安拉给仆人的权益是：他不惩罚没有以任何物举伴他的任何一位仆人。”我说：安拉的使者啊！我要给人们告诉这一喜讯吗？他说：“不要给他们报喜，以免他们依赖之。”",
+   "title": "仆人对安拉的义务是：他们崇拜安拉，不以任何物举伴他，安拉给仆人的权益是：他不惩罚没有以任何物举伴他的任何一位仆人。",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

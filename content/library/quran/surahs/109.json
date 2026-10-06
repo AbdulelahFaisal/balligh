@@ -1,0 +1,213 @@
+{
+ "ayah_count": 6,
+ "ayahs": [
+  {
+   "arabic": "قُلۡ يَٰٓأَيُّهَا ٱلۡكَٰفِرُونَ",
+   "aya": 1,
+   "id": 6208,
+   "tafsir": {
+    "arabic_moyassar": "قل -أيها الرسول- للذين كفروا بالله ورسوله: يا أيها الكافرون بالله."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "হে রাসূল! বল: ‘হে কাফিররা!"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Say, “O disbelievers,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Dis : « Vous mécréants qui avez rejeté la foi !"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Katakanlah (Muhammad), \"Wahai orang-orang kafir!"
+    },
+    "ur": {
+     "footnotes": "[1] الْكَافِرُونَ میں الف لام جنس کے لئے ہے۔ لیکن یہاں بطور خاص صرف ان کافروں سے خطاب ہے جن کی بابت اللہ کو علم تھا کہ ان کا خاتمہ کفر وشرک پر ہوگا۔ کیوں کہ اس سورت کے نزول کے بعد کئی مشرک مسلمان ہوئے اور انہوں نے اللہ کی عبادت کی۔ ( فتح القدیر ) ۔",
+     "text": "آپ کہہ دیجئے کہ اے کافرو![1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你说:“不归信的人们啊！"
+    }
+   }
+  },
+  {
+   "arabic": "لَآ أَعۡبُدُ مَا تَعۡبُدُونَ",
+   "aya": 2,
+   "id": 6209,
+   "tafsir": {
+    "arabic_moyassar": "لا أعبد ما تعبدون من الأصنام والآلهة الزائفة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "‘তোমরা যার (যে সব মূর্তির) ‘ইবাদত করো আমি তার ‘ইবাদত করি না।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "I do not worship what you worship,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Je n’adore pas les dieux que vous adorez,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Aku tidak akan menyembah apa yang kamu sembah,"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "نہ میں عبادت کرتا ہوں اس کی جس کی تم عبادت کرتے ہو."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我不崇拜你们所崇拜的，"
+    }
+   }
+  },
+  {
+   "arabic": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ",
+   "aya": 3,
+   "id": 6210,
+   "tafsir": {
+    "arabic_moyassar": "ولا أنتم عابدون ما أعبد من إله واحد، هو الله رب العالمين المستحق وحده للعبادة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "‘এবং আমি যার (যে আল্লাহর) ‘ইবাদাত করি, তোমরা তার ‘ইবাদাতকারী নও।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "nor do you worship what I worship."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "et vous n’adorez pas le Dieu que j’adore."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan kamu bukan penyembah apa yang aku sembah,"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "نہ تم عبادت کرنے والے ہو اس کی جس کی میں عبادت کرتا ہوں."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你们也不崇拜我所崇拜的；"
+    }
+   }
+  },
+  {
+   "arabic": "وَلَآ أَنَا۠ عَابِدٞ مَّا عَبَدتُّمۡ",
+   "aya": 4,
+   "id": 6211,
+   "tafsir": {
+    "arabic_moyassar": "ولا أنا عابد ما عبدتم من الأصنام والآلهة الباطلة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "‘আর তোমরা যার ‘ইবাদাত করছো, আমি তার ‘ইবাদাতকারী নই।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Never will I worship what you worship,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Je ne vénérerai jamais vos fausses divinités,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan aku tidak pernah menjadi penyembah apa yang kamu sembah,"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "اور نہ میں عبادت کروں گا جس کی تم عبادت کرتے ہو."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我不会崇拜你们所崇拜的，"
+    }
+   }
+  },
+  {
+   "arabic": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ",
+   "aya": 5,
+   "id": 6212,
+   "tafsir": {
+    "arabic_moyassar": "ولا أنتم عابدون مستقبلا ما أعبد. وهذه الآية نزلت في أشخاص بأعيانهم من المشركين، قد علم الله أنهم لا يؤمنون أبدًا."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "‘এবং আমি যার (যে আল্লাহর) ‘ইবাদাত করি, তোমরা তার ‘ইবাদাতকারী নও।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "nor will you ever worship what I worship."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "et vous ne vénérerez jamais mon Seigneur."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan kamu tidak pernah (pula) menjadi penyembah apa yang aku sembah."
+    },
+    "ur": {
+     "footnotes": "[1] بعض نے پہلی آیت کو حال کے اوردوسری کو استقبال کے مفہوم میں لیا ہے، لیکن امام شوکانی نے کہا ہے کہ ان تکلفات کی ضرورت نہیں ہے۔ تاکید کے لئے تکرار، عربی زبان کا عام اسلوب ہے، جسے قرآن کریم میں کئی جگہ اختیار کیا گیا ہے۔ جیسے سورۂ رحمٰن، سورۂ مرسلات میں ہے۔ اسی طرح یہاں بھی تاکید کے لئے یہ جملہ دہرایا گیا ہے۔ مقصد یہ ہے کہ یہ کبھی ممکن نہیں کہ میں توحید کا راستہ چھوڑ کر شرک کا راستہ اختیار کر لوں، جیسا کہ تم چاہتے ہو۔ اور اگر اللہ نے تمہاری قسمت میں ہدایت نہیں لکھی ہے، تو تم بھی اس توحید اور عبادت الٰہی سے محروم ہی رہو گے۔ یہ بات اس وقت فرمائی گئی، جب کفار نے یہ تجویز پیش کی کہ ایک سال ہم آپ (صلى الله عليه وسلم) کے معبود کی اور ایک سال آپ (صلى الله عليه وسلم) ہمارے معبودوں کی عبادت کریں۔",
+     "text": "اور نہ تم اس کی عبادت کرنے والے ہو جس کی میں عبادت کر رہا ہوں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你们也不会崇拜我所崇拜的；"
+    }
+   }
+  },
+  {
+   "arabic": "لَكُمۡ دِينُكُمۡ وَلِيَ دِينِ",
+   "aya": 6,
+   "id": 6213,
+   "tafsir": {
+    "arabic_moyassar": "لكم دينكم الذي أصررتم على اتباعه، ولي ديني الذي لا أبغي غيره."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১) অর্থাৎ তোমাদের জন্য তোমাদেরই বানানো বানোয়াট ধর্ম; পক্ষান্তরে আমার জন্য আল্লাহর পক্ষ থেকে অবতীর্ণ আসমানী ধর্ম।",
+     "text": "‘তোমাদের জন্য তোমাদের দ্বীন, আর আমার জন্য আমার দ্বীন।’(১)"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "You have your religion and I have my religion.\""
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Vous suivez votre culte et moi le mien. »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Untukmu agamamu, dan untukku agamaku.\""
+    },
+    "ur": {
+     "footnotes": "[1] یعنی اگر تم اپنے دین پر راضی ہو اور اسے چھوڑنے کے لئے تیار نہیں ہو، تو میں اپنے دین پر راضی ہوں، میں اسے کیوں چھوڑ وں؟ «لَنَا أَعْمَالُنَا وَلَكُمْ أَعْمَالُكُمْ» (القصص:55) ۔",
+     "text": "تمہارے لئے تمہارا دین ہے اور میرے لئے میرا دین ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你们有你们的信仰，我有我的信仰。”"
+    }
+   }
+  }
+ ],
+ "content_sha256": "sha256:b3084ecca239fba244b58b23dd487d34012a0658ba1c840ada0f55a64e747d6d",
+ "name_ar": "الكافرون",
+ "number": 109,
+ "schema": "balligh.library.quran.surah/1"
+}

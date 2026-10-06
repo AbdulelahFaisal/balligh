@@ -1,0 +1,79 @@
+{
+ "answer": [
+  [
+   {
+    "kind": "strong",
+    "text": "الجواب:"
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "المراد بذلك: الصائمون صوم الفريضة، الذين يحافظون على الصوم صوم الفريضة، رمضان، وهكذا ما أوجب الله عليهم من صوم الكفارات، والنذور، هؤلاء لهم باب؛ باب الريان، يدخلون معه، فإذا دخلوا؛ أغلق."
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "وإذا كانوا عندهم أعمال أخرى يدعون من أبواب كثيرة، لكن يدخلون من هذا الباب، باب الصيام، والمؤمن الذي يقيم الصلاة، ويؤدي الزكاة، ويصوم رمضان، ويتقي الله؛ يدعى من الأبواب كلها، لكن هذا الباب ما يدخل معه إلا الصائمون الذين حافظوا على أداء الصوم الواجب، نعم."
+   }
+  ],
+  [
+   {
+    "kind": "strong",
+    "text": "المقدم"
+   },
+   {
+    "kind": "text",
+    "text": ": جزاكم الله خيرًا. "
+   }
+  ]
+ ],
+ "content_sha256": "sha256:b26bb5b0eaade453d702a608ce15da4f0389daac93fedfea64aafe8d6a21340b",
+ "id": "binbaz-11287",
+ "language": "ar",
+ "notes": [],
+ "question": [
+  [
+   {
+    "kind": "strong",
+    "text": "السؤال:"
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "السائلة في هذا السؤال تقول: ما روي في حديث: \"بأن في الجنة باب يقال له: الريان، لا يدخله إلا الصائمون\" هل معنى ذلك: هل الصائمون يقصد بهم الذين يصومون شهر رمضان فقط، أم الذين يصومون السنن مثل الإثنين والخميس وأيام البيض؟ أفيدونا مأجورين. "
+   }
+  ]
+ ],
+ "raw_sha256": "sha256:a9ed5fc39363c6b34d8211a8f5054fe704350ea3ddecd5e6254a99c20e302b16",
+ "reuse_basis": "user_confirmed_permission",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.fatwa/2",
+ "source": {
+  "edition": null,
+  "publisher": "binbaz.org.sa",
+  "publisher_name": "موقع الشيخ ابن باز",
+  "retrieved_at": "2026-10-06T05:08:43+00:00",
+  "series": "نور على الدرب",
+  "url": "https://binbaz.org.sa/fatwas/11287/%D9%85%D8%A7-%D9%85%D8%B9%D9%86%D9%89-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%86%D8%A9-%D8%A8%D8%A7%D8%A8-%D9%8A%D9%82%D8%A7%D9%84-%D9%84%D9%87-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D9%86"
+ },
+ "source_categories": [
+  {
+   "id": "202",
+   "label": "شروح الحديث",
+   "url": "https://binbaz.org.sa/categories/objective/202"
+  },
+  {
+   "id": "77",
+   "label": "الصيام",
+   "url": "https://binbaz.org.sa/categories/fiqhi/77"
+  }
+ ],
+ "source_record_id": "11287",
+ "title": "ما معنى: «في الجنة باب يقال له: الريان»؟",
+ "topic": "worship",
+ "translations": {},
+ "type": "fatwa"
+}

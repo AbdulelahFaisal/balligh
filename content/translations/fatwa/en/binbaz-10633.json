@@ -1,0 +1,60 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-10633",
+ "source_content_sha256": "sha256:08424f5c8c2904f5071eb747926478a79b264337503eb2142d2c4c2c6c644ec5",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:27:21.299188+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 989,
+  "completion_tokens": 820,
+  "total_tokens": 1809,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 989
+ },
+ "latency_ms": 6923,
+ "units": [
+  {
+   "id": "title",
+   "text": "What is the fitrah upon which a newborn is born?"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "Our sister from Al-Ahsa (M. Kh.) asks: In a hadith of the Messenger ﷺ: “Every newborn is born upon the fitrah, then his parents make him a Jew, a Christian, or a Magian.” Why did the Messenger ﷺ not mention Islam in this hadith?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "It came in the authentic hadith: “There is no newborn except that he is born upon the fitrah,” and in some versions: “except upon this religion,” the religion of Islam. Both have been reported. The meaning of fitrah is upon Islam. So if he dies young, he is upon Islam. The children of Muslims are all with their parents in Paradise, by consensus of Ahl al-Sunnah wa al-Jama'ah, that the children of Muslims are from the people of Paradise generally. Likewise, the children of disbelievers if they die young, the correct view is that they are from the people of Paradise. Some scholars said: They will be tested on the Day of Resurrection; they will be examined, so whoever obeys enters Paradise, and whoever disobeys enters the Fire. But the more correct view is that they are from the people of Paradise, because of his saying ﷺ: “There is no newborn except that he is born upon the fitrah, then his parents make him a Jew, a Christian, or a Magian.” This one’s parents did not make him a Jew, nor a Magian, nor a Christian. And because it is established from him ﷺ that he saw, along with Ibrahim in a garden of the gardens of Paradise when he was taken up to the heaven, he saw with him the children of the Muslims and the children of the polytheists in the garden, in the garden of Paradise."
+  },
+  {
+   "id": "a2",
+   "text": "So the point is: the correct view is that a newborn who dies before puberty dies upon the fitrah, upon the fitrah of Islam, and that he will not be with his family in the Fire if they were disbelievers; rather he is with the Muslims. Yes."
+  },
+  {
+   "id": "a3",
+   "text": "Presenter: May Allah bless you. So then the children of Muslims are even more so, Your Eminence?"
+  },
+  {
+   "id": "a4",
+   "text": "Shaykh: Even more so, yes, by consensus of the Muslims... the Muslims, by consensus of Ahl al-Sunnah, that they are from the people of Paradise if they die before puberty. As for the disagreement concerning the children of disbelievers, the children of Jews, Christians, and disbelievers if they die young, whether they will be with their parents in the Fire, there are several views: the most correct and best of them is that they are from the people of Paradise... The Prophet ﷺ was asked about them and he said: “Allah knows best what they would have done.” However, the authentic hadiths indicate that they are upon the fitrah, that they are from the people of Paradise, and that they are with Ibrahim in Paradise, as he saw him (peace be upon him) when he was taken up. Yes."
+  },
+  {
+   "id": "a5",
+   "text": "Presenter: May Allah reward you well and be good to you."
+  }
+ ]
+}

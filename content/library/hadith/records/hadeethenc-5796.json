@@ -1,0 +1,163 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:c35fe4a1d13dd5e5e3a534a92cbb83e6e14d1a62ad44af9968089c7f51c14a08",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يُبَيِّنُ النبيُّ صلى الله عليه وسلم أنَّ الرِّفْقَ واللينَ والتَّمَهُّلَ بالقَول والفِعل يَزيدُ الأمور جمالًا وكمالًا وحُسْنًا، وأحْرى أنْ يُدْركَ صاحبُها حاجتَه.\n\nوعدم الرفق يَعِيْبُ الأمورَ ويُقَبِّحُها ويَمنعُ صاحبَها مِن إِدراكِ حاجتِه، وإنْ أدرَكها فبِمَشَقَّة.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "الحثُّ على التَّخَلُّقِ بالرِّفق.",
+  "الرِّفقُ يَزينُ المرءَ، وهو سببٌ لكل خير في أمور الدِّين والدنيا."
+ ],
+ "id": "hadeethenc-5796",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (4/ 2004) (2594).\nبهجة الناظرين شرح رياض الصالحين، لسليم الهلالي (1/ 683).\nتطريز رياض الصالحين، لفيصل آل مبارك (ص414).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=5796",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:56+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/5796"
+ },
+ "source_categories": [
+  {
+   "id": "282",
+   "label": "الأخلاق الحميدة"
+  }
+ ],
+ "source_record_id": "5796",
+ "text": "عن عائشة رضي الله عنها زوج النبي صلى الله عليه وسلم عن النبي صلى الله عليه وسلم قال: «إِنَّ الرِّفْقَ لَا يَكُونُ فِي شَيْءٍ إِلَّا زَانَهُ، وَلَا يُنْزَعُ مِنْ شَيْءٍ إِلَّا شَانَهُ».",
+ "title": "إن الرفق لا يكون في شيء إلا زانه، ولا ينزع من شيء إلا شانه",
+ "topic": "conduct",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=5796",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:2049fc2e51bbaf4224baafbc081136baf0f476a35d802afd42a6e46e65697964",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম বর্ণনা করেছেন, নিশ্চয় কথা ও কাজে নম্রতা, কোমলতা ও ধীরস্থিরতা, কর্মের সৌন্দর্য, পরিপূর্ণতা ও গ্রহণযোগ্যতা বাড়িয়ে দেয়। ব্যক্তি তার প্রয়োজন মিটাতে তা খুবই কার্যকর।\r\n\r\nপক্ষান্তরে কঠোরতা ও নম্রহীনতা জিনিসকে ত্রুটিযুক্ত করে এবং বিশ্রী করে। তাছাড়া এটি ব্যক্তিকে তার উদ্দেশ্য অর্জনে বাধাগ্রস্ত করে। আর যদিও সে তা অর্জন করে তবে অনেক কষ্টে।",
+   "grade": "সহীহ",
+   "hints": [
+    "নম্র ও কোমল চরিত্র অর্জনে উৎসাহিত করা হয়েছে।\r",
+    "নম্রতা ব্যক্তিকে সৌন্দর্যমন্ডিত করে। এটি দীন ও দুনিয়ার যাবতীয় কল্যাণ অর্জনের মাধ্যম।"
+   ],
+   "mapping": "same HadeethEnc record id 5796; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:46+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/5796",
+   "text": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের স্ত্রী ‘আয়িশা রাদিয়াল্লাহু ‘আনহা থেকে বর্ণিত, তিনি বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন: “নম্রতা যে জিনিসেই থাকে, তাকে তা সুন্দর বানিয়ে দেয় এবং তা যে জিনিস থেকেই বের করে নেওয়া হয়, তাকে তা অসুন্দর বানিয়ে দেয়।’’",
+   "title": "“নম্রতা যে জিনিসেই থাকে, তাকে তা সুন্দর বানিয়ে দেয় এবং তা যে জিনিস থেকেই বের করে নেওয়া হয়, তাকে তা অসুন্দর বানিয়ে দেয়।’’",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=5796",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:cc9f12c02f90c5ed7d583b6aa8a18835e503e2b16aa440322b1b9cab8ea7619e",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) points out that lenience, mildness, and deliberateness in speech and behavior add beauty and excellence to things, making it easier for a person to fulfill his needs.\r\n\r\nThat lack of lenience makes things defective and unpleasant, which prevents a person from reaching his goal or reaching it with difficulty.",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth urges us to be lenient.\r",
+    "Lenience adorns people and leads to goodness in worldly and religious matters."
+   ],
+   "mapping": "same HadeethEnc record id 5796; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:46+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/5796",
+   "text": "‘Ā’ishah (may Allah be pleased with her), the Prophet's wife, reported: The Prophet (may Allah's peace and blessings be upon him) said: \"Verily, lenience is not found in anything but it adorns it, and it is not removed from anything but it makes it defective.\"",
+   "title": "Verily, lenience is not found in anything but it adorns it, and it is not removed from anything but it makes it defective",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=5796",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:de9d17ae15faf63d6f0edb21de2446bb6a5d5a12d96a28954dc13f8ae64009e3",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) explique que la douceur, la souplesse et la pondération en paroles et en actes ajoutent aux affaires de la splendeur, de la perfection et de la beauté ; en outre, un tel comportement est plus à même de permettre à qui s'en pare de parvenir à ce qu'il vise.\r\n\r\nL'absence de douceur déprécie les affaires et les enlaidit, et cela empêche la personne de parvenir à son besoin ; et même si elle y parvient, c'est avec difficulté.",
+   "grade": "Authentique",
+   "hints": [
+    "L'encouragement à se parer de la douceur.\r",
+    "La douceur embellit la personne, c'est une cause de tout bien dans les affaires religieuses et mondaines."
+   ],
+   "mapping": "same HadeethEnc record id 5796; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:47+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/5796",
+   "text": "'Â`ichah (qu'Allah l'agrée), l'épouse du Prophète (qu'Allah le couvre d'éloges et le préserve) relate qu'il a dit : « La douceur n'a jamais accompagné une chose sans l'embellir, et elle n'a jamais été ôtée d'une chose sans l'enlaidir »",
+   "title": "La douceur n'a jamais accompagné une chose sans l'embellir, et elle n'a jamais été ôtée d'une chose sans l'enlaidir",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=5796",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:5e23993598271ce9a892e0e37b1d2a6578d933d40e41368968a66db3238c62af",
+   "explanation": "Nabi ﷺ menjelaskan bahwa kelembutan, kesantunan dan ketenangan dalam ucapan dan perbuatan akan menambah indah, sempurna dan bagus semua urusan, serta pelakunya lebih berpeluang mendapatkan kepentingannya.\r\n\r\nSebaliknya, hilangnya kelembutan akan membuat cacat dan buruk semua urusan serta akan menghalangi pelakunya dari mendapatkan kepentingannya, bahkan kalaupun ia mendapatkannya maka dengan penuh kesusahan.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Anjuran untuk memiliki akhlak yang lembut.\r",
+    "2- Kelembutan akan menghias seseorang dan merupakan sebab segala kebaikan dalam urusan agama dan dunia."
+   ],
+   "mapping": "same HadeethEnc record id 5796; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:46+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/5796",
+   "text": "Istri Nabi ﷺ, Aisyah -raḍiyallāhu 'anhā-, meriwayatkan dari Nabi ﷺ bahwa beliau bersabda, \"Sungguh, tidaklah kelembutan ada pada sesuatu melainkan akan menjadikannya indah. Sebaliknya, tidaklah kelembutan dicabut dari sesuatu melainkan akan menjadikannya buruk.\"",
+   "title": "Sungguh, tidaklah kelembutan ada pada sesuatu melainkan akan menjadikannya indah. Sebaliknya, tidaklah kelembutan dicabut dari sesuatu melainkan akan menjadikannya buruk",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=5796",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:76e94017a3ff01c86ed2db7a4c134056fdf2449296337a4d46d5de9b4b679fdf",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم بتا رہے ہیں کہ شفقت، نرمی اور قول و فعل میں ٹھہراؤ چیزوں کی خوب صورتی، کمال اور حسن میں اضافہ کرتا ہے اور اس بات کا امکان زیادہ رہتا ہے کہ ان خوبیوں کا حامل شخص اپنی ضرورت حاصل کر لے۔\r\n\r\nجب کہ سختی وشدت چیزوں کو عیب دار اور بد نما بنا دیتی ہے اور ضرورت کی تکمیل کی راہ میں رکاوٹ کھڑی کر دیتی ہے۔ ایسے شخص کی ضرورت پوری ہو بھی جائے، تو بڑی مشقت سے ہوتی ہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "نرمی اختیار کرنے کی ترغیب۔\r",
+    "نرمی وشفقت انسان کی زینت ہے اور یہ دین و دنیا سے متعلق ہر بھلائی کا سبب ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 5796; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:46+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/5796",
+   "text": "اللہ کے نبی صلی اللہ علیہ و سلم کی زوجہ عائشہ رضی اللہ عنہا آپ سے روایت کرتی ہیں کہ آپ نے فرمایا : ”نرمی جس چیز میں بھی ہوتی ہے، اسے مزیّن کردیتی ہے اور جس چیز سے بھی نکال لی جاتی ہے، اسے بدنما اور عیب دار کردیتی ہے“۔",
+   "title": "”نرمی جس چیز میں بھی ہوتی ہے، اسے مزیّن کردیتی ہے اور جس چیز سے بھی نکال لی جاتی ہے، اسے بدنما اور عیب دار کردیتی ہے“۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=5796",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:660fb21d3a20e6e692929ecd0a59f5d2b76b56bf31e3975a920caa32ebbf42ec",
+   "explanation": "先知（愿主福安之）阐明，态度温和，言语柔软，能够使一切事物变得美好，最能解决问题。\r\n\r\n而相反会使事物进一步恶化，会使一个人越发得不到自己的需求，即使得到，也是历经艰难。",
+   "grade": "正确的",
+   "hints": [
+    "鼓励具备温和。\r",
+    "温和可以修饰一个人，它是教门和今世之一切好事的因素。"
+   ],
+   "mapping": "same HadeethEnc record id 5796; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:46+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/5796",
+   "text": "据阿伊莎（愿主喜悦之）——先知（愿主福安之）的妻子——据先知（愿主福安之）传述说： “任何事物，有温和就俊美，没温和就丑陋。”",
+   "title": "“任何事物，有温和就俊美，没温和就丑陋。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-11423",
+ "source_content_sha256": "sha256:9eab42b034464482796fb37e0978f5e88a00436e16cead27ab89b2744e2a4705",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:20:46.554540+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 697,
+  "completion_tokens": 531,
+  "total_tokens": 1228,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 697
+ },
+ "latency_ms": 4982,
+ "units": [
+  {
+   "id": "title",
+   "text": "Clarifying the meaning of Islam"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "The female questioner, who identified herself by the initial (M), says: Please clarify the meaning of Islam."
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "Islam means: submission to Allah through monotheism, and compliance to Him through obedience with humility and submissiveness. This is the meaning of Islam. It is said: so-and-so aslama to so-and-so, meaning: he humbled himself to him, complied with him, and gave him what he sought. So Islam means: humbling oneself to Allah, complying with Allah by affirming His oneness, devoting worship sincerely to Him, obeying His commands, and abandoning His prohibitions. This is Islam. Allah, Exalted be He, says: ⟦Q1⟧ [Al 'Imran: 19]. The Muslim is called a Muslim because he is compliant to Allah, humble and obedient to Him, Glorified be He, in doing what He has commanded and abandoning what He has forbidden."
+  },
+  {
+   "id": "a2",
+   "text": "Islam is also applied to everything that Allah and His Messenger have commanded, such as prayer, fasting, Hajj, faith, and so on. All of it is called Islam, as Allah, may He be glorified, says: ⟦Q2⟧ [Al 'Imran: 19] and He, Exalted be He, says: ⟦Q3⟧ [Al-Ma'idah: 3] and He, Glorified be He, says: ⟦Q4⟧ [Al 'Imran: 85]."
+  },
+  {
+   "id": "a3",
+   "text": "So the Muslim is the one who complies with Allah's command in word, deed, and belief. And Islam is compliance with Allah's command, submission to Allah's command, and humbling oneself to Allah's command in all respects. Yes."
+  },
+  {
+   "id": "a4",
+   "text": "Presenter: May Allah reward you well, Your Eminence the Shaykh."
+  }
+ ]
+}

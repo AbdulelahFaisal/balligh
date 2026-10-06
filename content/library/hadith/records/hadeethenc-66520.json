@@ -1,0 +1,184 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:a4252e331eabfbed533b0ea3f3e0532f9c0b6a00b0f1ec5cfefe3162b98924a2",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "بَيَّنَ النبيُّ صلى الله عليه وسلم أنّه لا يَتَحقّق الإيمانُ الكامل لأحدٍ من المسلمين حتى يُحبَّ لأخيه ما يحب لنفسه من الطاعات وأنواع الخيرات في الدين والدنيا، ويكره له ما يكره لنفسه، فإن رأى في أخيه المسلم نقصًا في دينه، اجتهد في إصلاحه، وإنْ رأى فيه خيرًا سدَّده وأعانه، ونصحَه في أمر دينِه أو دنياه.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "وجوب محبة المرء لأخيه ما يحبُّ لنفسه؛ لأن نفي الإيمان عمن لا يحب لأخيه ما يحب لنفسه يدل على وجوب ذلك.",
+  "الأُخوّة في الله فوق أخوّة النسب، فحقُّها أوجب.",
+  "تحريم كل ما ينافي هذه المحبة من الأقوال والأفعال كالغش والغيبة والحسد والعدوان على نفس المسلم أو ماله أو عرضه.",
+  "استخدام بعض الألفاظ المحفِّزة على الفعل؛ لقوله \"لأخيه\".",
+  "قال الكِرْماني رحمه الله: ومن الإيمان أيضًا أنْ يُبغِضَ لأخيه ما يبغض لنفسه من الشر، ولم يذكره؛ لأنَّ حب الشيء مستلزم لبغض نقيضه، فترك التنصيص عليه اكتفاء."
+ ],
+ "id": "hadeethenc-66520",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (1/ 12) (13).\nصحيح مسلم (1/ 67) (45).\nالتحفة الربانية في شرح الأربعين حديثًا النووية، مطبعة دار نشر الثقافة، الإسكندرية، الطبعة: الأولى، 1380 هـ.\nشرح الأربعين النووية، للشيخ ابن عثيمين، دار الثريا للنشر.\nفتح القوي المتين في شرح الأربعين وتتمة الخمسين، دار ابن القيم، الدمام المملكة العربية السعودية، الطبعة: الأولى، 1424هـ/2003م.\nالفوائد المستنبطة من الأربعين النووية، للشيخ عبد الرحمن البراك، دار التوحيد للنشر، الرياض.\nالأحاديث الأربعون النووية وعليها الشرح الموجز المفيد، لعبد الله بن صالح المحسن، نشر: الجامعة الإسلامية، المدينة المنورة، الطبعة: الثالثة، 404هـ/1984م.",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=66520",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:48+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/66520"
+ },
+ "source_categories": [
+  {
+   "id": "282",
+   "label": "الأخلاق الحميدة"
+  }
+ ],
+ "source_record_id": "66520",
+ "text": "عَنْ أَبِي حَمْزَةَ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ -خَادِمِ رَسُولِ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ- عَنْ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لاَ يُؤْمِنُ أَحَدُكُمْ، حَتَّى يُحِبَّ لِأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ»",
+ "title": "لا يؤمن أحدكم، حتى يحب لأخيه ما يحب لنفسه",
+ "topic": "conduct",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=66520",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:b98535730e844545288329d5ff4d642964991d386225ec24ee24cecf2b707b9b",
+   "explanation": "নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম স্পষ্ট করে বলেছেন যে, কোনো মুসলিমের পূর্ণ ঈমান ততক্ষণ পর্যন্ত অর্জিত হয় না যতক্ষণ না দীন ও দুনিয়ার ইবাদত ও কল্যাণসমূহে সে তার ভাইয়ের জন্য তা পছন্দ করে যা সে নিজের জন্য পছন্দ করে এবং তার জন্য তা অপছন্দ করে যা সে তার নিজের জন্য অপছন্দ করে, যদি সে তার মুসলিম ভাইয়ের মধ্যে তার দীনের ঘাটতি দেখে তবে সে তা সংশোধন করার চেষ্টা করে এবং যদি সে তার মধ্যে কোনো ভাল দেখে, তাকে সঠিক কথা বলে ও তাকে সাহায্য করে এবং তাকে তার দীন ও দুনিয়ার বিষয়ে ভালো উপদেশ দেয়।",
+   "grade": "সহীহ",
+   "hints": [
+    "একজন ব্যক্তির তার ভাইয়ের জন্য তা পছন্দ করা ওয়াজিব যা সে নিজের জন্য পছন্দ করে। কেননা যে তার নিজের জন্য যা পছন্দ করে তা তার ভাইয়ের জন্য পছন্দ করে না এমন ব্যক্তির ঈমান অস্বীকার করা তা ওয়াজিবকে নির্দেশ করে।\r",
+    "আল্লাহর জন্য ভ্রাতৃত্ব বংশগতভাবে ভ্রাতৃত্বের উপরে, তাই এর হক (অধিকার) বেশী ওয়াজিব।\r",
+    "এই ভালোবাসার বিপরীত হয় এমন সব কথা ও কাজ করা হারাম, যেমন প্রতারণা, গীবত, হিংসা এবং মুসলিমদের জান, সম্পত্তি বা সম্মানের প্রতি সীমালঙ্ঘন করা।\r",
+    "কিছু শব্দ ব্যবহার করা যা কর্ম করতে অনুপ্রাণিত করে, যেমন তিনি বলেছেন, \"তার ভাইয়ের জন্য\"।\r",
+    "আল-কিরমানী রাহিমাহুল্লাহ বলেন: ঈমানের আরও অংশ হলো সে তার ভাইয়ের জন্য তা অপছন্দ করবে যা সে নিজের জন্য অপছন্দ করে। তিনি এটি উল্লেখ করেননি। কেননা কোনো জিনিসের প্রতি ভালোবাসা তার বিপরীত জিনিসের প্রতি ঘৃণাকে আবশ্যক করে, এটির উপর যথেষ্ট করে তিনি তা নির্দিষ্টভাবে উল্লেখ করেননি।"
+   ],
+   "mapping": "same HadeethEnc record id 66520; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:09+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/66520",
+   "text": "আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের খাদিম আবূ হামযাহ আনাস ইবনু মালিক রাদিয়াল্লাহু আনহু নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেন, “তোমাদের কেউ প্রকৃত মুমিন হতে পারবে না, যতক্ষণ না সে তার ভাইয়ের জন্য সেটাই পছন্দ করবে, যা তার নিজের জন্য পছন্দ করে”।",
+   "title": "“তোমাদের কেউ প্রকৃত মুমিন হতে পারবে না, যতক্ষণ না সে তার ভাইয়ের জন্য সেটাই পছন্দ করবে, যা তার নিজের জন্য পছন্দ করে”।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=66520",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:811cd70956a9ba07d071d7ad1fae916a1758e6725dac7482a59f5a2ed446bb74",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) pointed out that no Muslim attains complete Imān until he loves for his brother what he loves for himself, among the acts of worship and types of goodness in terms of the religion and the life of this world, and hates for his brother what he hates for himself. If he sees a deficiency in the religious commitment of his brother, he strives to reform it, and if he finds goodness in him, he guides and helps him and renders sincere advice to him as regards his religious and worldly matters.",
+   "grade": "Authentic",
+   "hints": [
+    "It is obligatory for a person to love for his brother what he loves for himself, as the negation of Imān from someone who does not love for his brother what he loves for himself indicates the obligation of doing that.\r",
+    "The bond of brotherhood for the sake of Allah is superior to biological brotherhood, and so its right is more worthy of fulfillment.\r",
+    "Anything that contradicts this love is prohibited, including words and deeds like cheating, backbiting, envy, and transgression against the life, property, or honor of a Muslim.\r",
+    "We should use some words of motivation, as he said: \"for his brother\".\r",
+    "Al-Kirmāni (may Allah have mercy upon him) said: It is also part of Imān that a person should dislike bad things for his brother as he dislikes them for himself. He did not mention it because the love of something entails dislike for its opposite. So, this was needless to say."
+   ],
+   "mapping": "same HadeethEnc record id 66520; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:09+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/66520",
+   "text": "Abu Hamzah Anas ibn Mālik (may Allah be pleased with him)—the servant of the Messenger of Allah (ﷺ)—reported that the Prophet (ﷺ) said: \"None of you believes until he loves for his brother what he loves for himself.\"",
+   "title": "None of you believes until he loves for his brother what he loves for himself",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=66520",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:6736939ecc0fcc732bda6387b1874a298410aa95b8ceddf55b6bb1076f11b274",
+   "explanation": "Le Prophète ﷺ a expliqué que la foi complète de quiconque parmi les musulmans ne se concrétisera pas jusqu'à ce qu'il aime pour son frère ce qu'il aime pour lui-même comme obéissances et types de biens dans la religion et la vie d'ici-bas ; et il répugne pour lui ce qu'il répugne pour lui-même. Ainsi, s'il voit chez son frère musulman un manque dans sa religion, alors il s'efforce de le réformer ; et s'il voit un bien en lui, alors il l'encourage, l'aide et le conseille sincèrement concernant son affaire religieuse ou son affaire mondaine.",
+   "grade": "Authentique",
+   "hints": [
+    "L'obligation de l'amour de l'individu pour son frère tout comme il l'aime pour lui-même ; cela parce que l'infirmation de la foi envers quiconque n'aime pas pour son frère ce qu'il aime pour lui-même indique l'obligation de cela.\r",
+    "La fraternité en Allah est au-dessus de la fraternité de filiation. En effet, son droit est encore plus obligatoire.\r",
+    "L'interdiction de tout ce qui infirme cet amour parmi des paroles et des actes, comme : la tricherie, la médisance, l'envie et l'inimitié contre la personne du musulman, son argent, ou son honneur.\r",
+    "L'emploi de certaines expressions stimulantes à l'action, en raison de sa parole : \" pour son frère. \"\r",
+    "Al Karmânî (qu'Allah lui fasse miséricorde) a dit : \" Et parmi la foi, il y a aussi le fait de détester pour son frère ce que l'on déteste pour soi comme mal et qu'il n'a pas mentionné ; cela parce que l'amour d'une chose implique nécessairement certains de ses opposés. Ainsi, le fait de ne pas l'avoir mentionné textuellement suffit largement. \""
+   ],
+   "mapping": "same HadeethEnc record id 66520; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:10+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/66520",
+   "text": "D’après Abû Ḥamza Anas b. Mâlik — qu’Allah l’agrée —, et d’après Abû Ya‘la Shaddâd b. Aws — qu’Allah l’agrée —, le Prophète ﷺ a dit : \" Aucun de vous ne croira vraiment jusqu'à ce qu'il aime pour son frère ce qu'il aime pour lui-même. \"",
+   "title": "Aucun de vous ne croira vraiment jusqu'à ce qu'il aime pour son frère ce qu'il aime pour lui-même.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=66520",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:574a0631dd37a07671f13ad3aef02d43276430bb3ba93d0bc15611fa4c3f83cc",
+   "explanation": "Nabi ﷺ menjelaskan bahwa kesempurnaan iman seorang muslim tidak akan terwujud sampai ia menginginkan bagi saudaranya seperti yang ia inginkan bagi dirinya sendiri berupa ketaatan dan berbagai macam kebaikan dalam urusan agama dan urusan dunia, serta membenci bagi saudaranya apa yang ia tidak sukai bagi dirinya. Apabila ia melihat suatu kekurangan pada agama saudaranya sesama muslim ia berjuang untuk memperbaikinya. Sebaliknya, apabila ia melihat padanya suatu kebaikan ia mendukungnya, membantunya, serta menasihatinya pada perkara agama dan dunianya.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Kewajiban seseorang mencintai bagi saudaranya apa yang ia cintai bagi dirinya karena penafian adanya iman dari orang yang tidak menginginkan bagi saudaranya apa ia inginkan bagi dirinya menunjukkan bahwa hal tersebut hukumnya wajib.\r",
+    "2- Persaudaraan dalam agama Allah di atas persaudaraan nasab sehingga haknya lebih wajib.\r",
+    "3- Pengharaman semua bentuk perkataan dan perbuatan yang bertolak belakang dengan kecintaan ini, seperti perbuatan menipu, menggunjing, dengki, dan perbuatan zalim terhadap jiwa seorang muslim, hartanya, ataupun kehormatannya.\r",
+    "4- Menggunakan kata-kata yang memotivasi untuk melakukan amal saleh, berdasarkan perkataan beliau: \"bagi saudaranya\".\r",
+    "5- Al-Kirmāniy -raḥimahullāh- berkata, \"Termasuk keimanan juga yaitu membenci bagi saudaranya keburukan yang ia tidak sukai bagi dirinya. Beliau tidak menyebutkannya karena mencintai sesuatu berkonsekuensi membenci kebalikannya. Beliau sengaja tidak menyebutnya secara langsung karena mencukupkan ucapan dengan hal itu.\""
+   ],
+   "mapping": "same HadeethEnc record id 66520; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:09+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/66520",
+   "text": "Abu Ḥamzah Anas bin Malik -raḍiyallāhu 'anhu-, pelayan Rasulullah ﷺ, meriwayatkan dari Nabi ﷺ bahwa beliau bersabda, \"Tidak sempurna iman salah seorang di antara kalian sampai ia mencintai bagi saudaranya apa yang ia cintai untuk dirinya sendiri.\"",
+   "title": "Tidak sempurna iman salah seorang di antara kalian sampai ia mencintai bagi saudaranya apa yang ia cintai untuk dirinya sendiri",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=66520",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:d74c8660e2271e34ac2a0835d25130c09d10a341cb751c09eee45f6cfaf71076",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم نے بتایا کہ کسی شخص کو ایمان کامل کی دولت اس وقت تک نصیب نہیں ہو سکتی، جب تک اپنے بھائی کے لیے بھی دین اور دنیا کی وہی چیزیں پسند نہ کرے، جو اپنے لیے کرتا ہو اور اس کے لیے انھیں چيزوں کو ناپسند نہ کرے، جنھیں اپنے لیے ناپسند کرتا ہو۔ اگر اپنے بھائی کے اندر دین کی کوئی کمی دیکھے، تو اس کی اصلاح کی کوشش کرے اور اچھائی دیکھے تو اسے اور جلا دے اور اس میں مدد کرے۔ دین اور دنیا سے متعلق تمام امور میں اس کی خیرخواہی کرے۔",
+   "grade": "صحيح",
+   "hints": [
+    "انسان پر یہ واجب ہے کہ اپنے بھائی کے لیے وہی پسند کرے جو اپنے لیے پسند کرتا ہو۔ کیوں کہ جو اپنے لیے پسند ہو اسے اپنے بھائی کے لیے پسند نہ کرنے والے کے ایمان کی نفی یہی بتاتی ہے۔\r",
+    "دینی اخوت کا درجہ نسبی اخوت سے اوپر ہے۔ لہذا اس کا حق بھی زیادہ واجب ہے۔\r",
+    "ایسے تمام اقوال و افعال حرام ہیں جو اس اخوت کے منافی ہوں جیسے دھوکہ، غیبت، حسد اور مسلمان کی جان، مال یا عزت و آبرو پر حملہ وغیرہ۔\r",
+    "مہمیز کا کام کرنے والے الفاظ کا استعمال۔ کیوں کہ آپ نے \"اپنے بھائی\" کا لفظ استعمال کیا ہے۔\r",
+    "کرمانی رحمہ اللہ کہتے ہيں: ایمان کا تقاضا یہ بھی ہے کہ انسان اپنے بھائی کے لیے بھی وہ ناپسند کرے، جو اپنے لیے ناپسند کرتا ہو۔ لیکن اس کا ذکر آپ نے نہیں کیا۔ کیوں کہ کسی چيز سے محبت سے اس کی ضد سے نفرت لازم آتی ہے۔ لہذا اسے الگ سے بتانے کی ضرورت نہیں ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 66520; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:09+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/66520",
+   "text": "اللہ کے رسول ﷺ کے خادم، ابو حمزہ انس بن مالک رضي اللہ عنہ سے روایت ہے کہ اللہ کے نبی ﷺ نے فرمایا: ”تم میں سے کوئی شخص اس وقت تک (کامل) مؤمن نہیں ہو سکتا، جب تک وہ اپنے بھائی کے لیے بھی وہی پسند نہ کرے، جو اپنے لیے کرتا ہے“۔",
+   "title": "”تم میں سے کوئی شخص اس وقت تک (کامل) مؤمن نہیں ہو سکتا، جب تک وہ اپنے بھائی کے لیے بھی وہی پسند نہ کرے، جو اپنے لیے کرتا ہے“۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=66520",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:66dad56e420ab51dbf2d6c97d82301f5e9aa9c1915151abca2334ac3c0911374",
+   "explanation": "先知（愿主福安之）阐明穆斯林只有为自己的弟兄喜爱为自己所喜爱的，比如：宗教和今世方面的各种善功和福利，为自己的弟兄厌恶自己所厌恶的。如果看到自己的弟兄在教门方面有所退步，便悉心劝导，如果看到一点好，便使其善加利用，并协助于此，在他的宗教和今世之事物中尽忠言。如此，他的信仰才能完美。",
+   "grade": "正确的",
+   "hints": [
+    "人务必要为他人喜爱自己所喜爱的，不为他人喜爱自己所喜爱的，这种人圣训否认了其信仰之完美，由此可知，为他人喜爱自己所喜爱之事是必须要做的事。\r",
+    "教门中的弟兄高于血统的弟兄，对其义务是更应该要做的。\r",
+    "禁止有损这种喜爱的一切言语和行为，比如：欺骗、背谈、嫉妒或侵犯穆斯林的生命、财产和名誉。\r",
+    "使用一些鼓励性的词语，比如说：“为他的弟兄”。\r",
+    "科尔玛尼（愿主怜悯之）说：“为自己的弟兄厌恶自己所厌恶的，这也属于信仰，但使者（愿主福安之）没有提到，那是因为喜爱某物，必然厌恶其反面，故没有言明。”"
+   ],
+   "mapping": "same HadeethEnc record id 66520; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:09+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/66520",
+   "text": "传自艾布·哈姆栽·安奈斯·本·马立克（愿安拉喜悦他）——安拉的使者（愿主福安之）的仆人——他说：先知（愿主福安之）说： “爱人如爱己，方为真信士。”",
+   "title": "“爱人如爱己，方为真信士。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

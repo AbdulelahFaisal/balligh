@@ -1,0 +1,77 @@
+{
+ "answer": [
+  [
+   {
+    "kind": "strong",
+    "text": "الجواب:"
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "هذا فيه خلاف بين أهل العلم، منهم من رآها تبطل الصوم لحديث "
+   },
+   {
+    "kind": "hadith",
+    "text": "أفطر الحاجم والمحجوم"
+   },
+   {
+    "kind": "text",
+    "text": "، ومنهم من رآها لا تفطر لحديث أنس وغيره أنه كانوا لا يكرهونها إلا من أجل الضعف."
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "وقد اختلف العلماء في ذلك، والمشهور أنها تفطر الصوم، وأن آخر الأمرين من النبي ﷺ أنها تفطر الصائم، ولكن الخلاف قائم فيها، والحجة من الجانبين قوية؛ فالأولى من المؤمن أن يتباعد عنها أثناء الصيام، يحتاط لدينه، ولا يحتجم إلا في الليل. "
+   }
+  ]
+ ],
+ "content_sha256": "sha256:45851d46395532efda44258873c4e9bb433a6bc85736fc37a632ef65fce7d1c7",
+ "id": "binbaz-1241",
+ "language": "ar",
+ "notes": [],
+ "question": [
+  [
+   {
+    "kind": "strong",
+    "text": "السؤال:"
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "هل الحجامة تفسد الصوم، أم هي منسوخة؟"
+   }
+  ]
+ ],
+ "raw_sha256": "sha256:88a0bf762b8752cf58f5898f89145ef4cceb131546a3ece2ca092c72d7998037",
+ "reuse_basis": "user_confirmed_permission",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.fatwa/2",
+ "source": {
+  "edition": null,
+  "publisher": "binbaz.org.sa",
+  "publisher_name": "موقع الشيخ ابن باز",
+  "retrieved_at": "2026-10-06T03:52:44+00:00",
+  "series": "فتاوى الجامع الكبير",
+  "url": "https://binbaz.org.sa/fatwas/1241/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D9%85-%D9%84%D9%84%D8%B5%D8%A7%D9%89%D9%85"
+ },
+ "source_categories": [
+  {
+   "id": "89",
+   "label": "مفسدات الصيام",
+   "url": "https://binbaz.org.sa/categories/fiqhi/89"
+  },
+  {
+   "id": "228",
+   "label": "الآداب والأخلاق المحمودة",
+   "url": "https://binbaz.org.sa/categories/objective/228"
+  }
+ ],
+ "source_record_id": "1241",
+ "title": "حكم الاحتجام للصائم",
+ "topic": "conduct",
+ "translations": {},
+ "type": "fatwa"
+}

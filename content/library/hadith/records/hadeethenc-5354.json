@@ -1,0 +1,184 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:7d3a853b562fa141a83541261f953d0205e5c9a298e1cb341e1fdd9d047e2d4a",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "جاء رجلٌ إلى النبي صلى الله عليه وسلم فقال: إني هَلَكَتْ راحلتي، فاحملني على دابةٍ، وأعطني مركوبًا يوصلني، فاعتذر له النبي صلى الله عليه وسلم أنه ليس عنده شيء يحمله عليه، فقال رجلٌ وكان حاضرًا: يا رسول الله، أنا أَدُلُّه على مَن يَحمله، فأخبرَ رسولُ الله صلى الله عليه وسلم أنه شريكٌ للمتصدِّق في الأجر، لأنه دلَّ المحتاجَ عليه.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "الحث على الدلالة على الخير.",
+  "الحضُّ على فعل الخير من أسباب تَكَافُل المجتمع المسلم وتكامله.",
+  "سَعَة فضل الله تعالى.",
+  "الحديث قاعدة عامة فيدخل فيه كلُّ أعمال الخير.",
+  "الإنسان إذا لم يتمكَّن مِن تحقيق رغبة السائل، فإنه يَدُلُّه على غيره."
+ ],
+ "id": "hadeethenc-5354",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (3/ 1506) (1893).\nشرح النووي على مسلم (11/ 166).\nتوضيح الأحكام من بلوغ المرام، للبسام (7/ 349).\nفتح ذي الجلال والاكرام بشرح بلوغ المرام، لابن عثيمين (6/ 298).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=5354",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:53+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/5354"
+ },
+ "source_categories": [
+  {
+   "id": "282",
+   "label": "الأخلاق الحميدة"
+  }
+ ],
+ "source_record_id": "5354",
+ "text": "عن أبي مسعود الأنصاري رضي الله عنه قال: جَاءَ رَجُلٌ إِلَى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: إِنِّي أُبْدِعَ بِي فَاحْمِلْنِي، فَقَالَ: «مَا عِنْدِي»، فَقَالَ رَجُلٌ: يَا رَسُولَ اللهِ، أَنَا أَدُلُّهُ عَلَى مَنْ يَحْمِلُهُ، فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «مَنْ دَلَّ عَلَى خَيْرٍ فَلَهُ مِثْلُ أَجْرِ فَاعِلِهِ».",
+ "title": "من دل على خير فله مثل أجر فاعله",
+ "topic": "conduct",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=5354",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:4aba427a14ee63e91728f85eae254521c3bb8951e6cd03dcf640a1d696a73030",
+   "explanation": "এক ব্যক্তি নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের কাছে উপস্থিত হয়ে বলল, আমার বাহন ধ্বংস হয়ে গেছে, আপনি আমাকে একটি পশু দান করুন, যা আমি বাহন হিসেবে ব্যবহার করে আমার গন্তব্যে পৌঁছতে পারব। নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম অপারগতা প্রকাশ করে বললেন, তাঁর কাছে এমন কোন বাহন নেই যাতে সে আরোহন করতে পারে। তখন উপস্থিত এক ব্যক্তি বললো, হে আল্লাহর রাসূল! আমি এমন এক ব্যক্তির সন্ধান তাকে দিবো যে তাকে বাহন দিতে পারে। তখন রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাকে সংবাদ দিলেন, সে ব্যক্তি অভাবীকে তার প্রয়োজন মিটাতে সন্ধান দেওয়ায় সেও উক্ত দানকারী ব্যক্তির সাথে সাওয়াবের অংশীদারী।",
+   "grade": "সহীহ",
+   "hints": [
+    "কল্যাণকর কাজের সন্ধান দেওয়ার ব্যাপারে উৎসাহিত করা হয়েছে।\r",
+    "কল্যাণকর কাজের সন্ধান দেওয়া মুসলিম সমাজের যৌথ দায়িত্বভার গ্রহণ করার ও একে অন্যের সম্পূরকতার অন্যতম কারণ, যে ব্যাপারে হাদীসে উৎসাহিত করা হয়েছে।\r",
+    "মহান আল্লাহ অনুগ্রহ সুপ্রশস্ত হওয়ার প্রমাণ।\r",
+    "হাদীসটি ব্যাপক মূলনীতি নির্ধারণকারী হাদীস, যা সকল প্রকারের কল্যাণকর কাজকে অন্তর্ভুক্ত করে।\r",
+    "কোন মানুষ যখন সাহায্যপ্রার্থীর অভাব পূরণ করতে সক্ষম হয় না, তখন সে যাতে অন্যকে দেখিয়ে দেয়, যিনি তার অভাব পূরণ করতে পারে।"
+   ],
+   "mapping": "same HadeethEnc record id 5354; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:34+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/5354",
+   "text": "আবূ মাস‘ঊদ আল-আনসারী রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, তিনি বলেন: এক ব্যক্তি নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের কাছে উপস্থিত হয়ে বলল, আমার বাহন ধ্বংস হয়ে গেছে, আপনি আমাকে একটি বাহন প্রদান করুন। তিনি বললেন: “আমার কাছে তো তা নেই।” সে সময় এক ব্যক্তি বললো, আমি এমন এক ব্যক্তির সন্ধান তাকে দিবো যে তাকে বাহন দিতে পারে। রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বললেন: “যে ব্যক্তি কোন উত্তম বিষয়ে পথ প্রদর্শন করে, তার জন্য আমলকারীর সমান সাওয়াব রয়েছে।”",
+   "title": "যে ব্যক্তি কোন উত্তম বিষয়ে পথ প্রদর্শন করে, তার জন্য আমলকারীর সমান সাওয়াব রয়েছে",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=5354",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:29387d2c617ec3d7313c88c8e9f544b4ab07fe0ad0510559e4d86f924a9146a3",
+   "explanation": "A man came to the Prophet (may Allah's peace and blessings be upon him) and said that his camel had become exhausted and asked for a mount to carry him. But the Prophet (may Allah's peace and blessings be upon him) said he had no mount to give him. So, a man who was present said: O Messenger of Allah, I will guide him to someone who will give him a mount. Thereupon, the Prophet (may Allah's peace and blessings be upon him) told that man that he will also have a reward like the donor himself because he guided the person who needed a mount to him.",
+   "grade": "Authentic",
+   "hints": [
+    "We are urged to guide others to goodness.\r",
+    "Encouragement of goodness is one of the causes of solidarity and integration within Muslim society.\r",
+    "The Hadīth shows the great bounty of Allah.\r",
+    "It gives a general rule that applies to all acts of goodness.\r",
+    "If a person cannot grant the request of someone in need, he should guide him to someone else."
+   ],
+   "mapping": "same HadeethEnc record id 5354; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:34+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/5354",
+   "text": "Abu Mas‘ūd al-Ansāri (may Allah be pleased with him) reported: A man came to the Prophet (may Allah's peace and blessings be upon him) and said: \"My camel has become exhausted, so give me a mount.\" He replied: \"I do not have any.\" Someone said: \"O Messenger of Allah, I can guide him to one who will give him a mount.\" Thereupon, the Messenger of Allah (may Allah's peace and blessings be upon him) said: \"Whoever guides to a good deed will get the same reward as the doer of that deed.\"",
+   "title": "Whoever guides to a good deed will get the same reward as the doer of that deed",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=5354",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:3c05fdfcb987843f7d4691185b66d0b03999a11dfd48c997ae004a489a9faed1",
+   "explanation": "Un homme est venu au Prophète (qu'Allah le couvre d'éloges et le préserve) et a dit : \"Ma monture est décédée, fournis moi donc une bête et donne moi une monture en mesure de me conduire ! \" Mais, le Prophète (qu'Allah le couvre d'éloges et le préserve) s'est excusé auprès de lui car il n'avait rien à lui fournir. Un homme qui était présent dit alors : \"Ô Messager d'Allah ! Moi, je vais lui indiquer quelqu'un qui l'équipera !\" Alors, le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) a informé que cet homme serait associé au bienfaiteur dans la récompense ; ceci, car il a indiqué vers qui la personne dans le besoin devait se tourner.",
+   "grade": "Authentique",
+   "hints": [
+    "L'incitation à indiquer le bien.\r",
+    "L'encouragement à l'accomplissement du bien fait partie des cause de la solidarité de la société musulmane et sa pleine intégration.\r",
+    "L'étendue de la grâce d'Allah, Exalté soit-Il.\r",
+    "Ce hadith est une règle générale par laquelle toutes les œuvres de bien sont concernées.\r",
+    "Si la personne n'est pas en mesure de répondre à la requête du demandeur, qu'elle lui indique alors une autre personne susceptible de le faire."
+   ],
+   "mapping": "same HadeethEnc record id 5354; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:34+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/5354",
+   "text": "Aboû Mas'oûd Al-Anṣârî (qu'Allah l'agrée) relate : Un homme est venu au Prophète (qu'Allah le couvre d'éloges et le préserve) et a dit : « Ma monture est morte, équipe moi donc ! - Il lui a alors répondu (qu'Allah le couvre d'éloges et le préserve) : Je n'ai rien ! - Un homme dit alors : Ô Messager d'Allah ! Moi, je vais lui indiquer quelqu'un qui l'équipera ! - Le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) répondit : \" Quiconque indique un bien a la même récompense que celui qui l’accomplit. »",
+   "title": "Quiconque indique un bien a la même récompense que celui qui l’accomplit",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=5354",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:2450501a919e8b6e3062d18a10ffa4f4a7d79bc348daa33429dad018d5cc559b",
+   "explanation": "Seorang laki-laki datang menemui Nabi ﷺ seraya berkata: Hewan kendaraanku mati, maka berikanlah aku bantuan kendaraan; berikanlah aku hewan kendaraan yang dapat mengantarku. Akan tetapi, Nabi ﷺ meminta maaf karena beliau tidak memiliki bantuan kendaraan. Lantas seorang laki-laki yang hadir berkata, \"Wahai Rasulullah, aku akan membawanya pada orang yang dapat memberinya bantuan kendaraan.\" Maka Rasulullah ﷺ mengabarkan bahwa dia menyertai orang yang bersedekah itu dalam pahala karena dialah yang membawa orang yang butuh itu kepadanya.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Anjuran menunjukkan kebaikan kepada orang lain.\r",
+    "2- Mendorong untuk melakukan kebaikan termasuk sebab adanya saling tolong-menolong dan kesempurnaan dalam masyarakat Islam.\r",
+    "3- Luasnya karunia Allah Ta'ala.\r",
+    "5- Hadis ini merupakan kaidah umum, sehingga semua amal kebaikan masuk di dalamnya.\r",
+    "5- Ketika seseorang tidak dapat mewujudkan hajat orang yang sedang membutuhkan, hendaklah dia membawanya pada orang lain."
+   ],
+   "mapping": "same HadeethEnc record id 5354; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:34+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/5354",
+   "text": "Abu Mas'ūd Al-Anṣāriy -raḍiyallāhu 'anhu- meriwayatkan, Seorang laki-laki datang menemui Nabi ﷺ seraya berkata, \"Sungguh hewan kendaraanku mati, maka berikanlah aku bantuan kendaraan.\" Beliau bersabda, \"Aku tidak punya.\" Lantas seorang laki-laki berkata, \"Wahai Rasulullah! Aku akan membawanya pada orang yang dapat memberinya bantuan kendaraan.\" Maka Rasulullah ﷺ bersabda, \"Siapa yang menunjukkan pada kebaikan, baginya pahala yang semisal dengan pahala orang yang melakukannya.\"",
+   "title": "Siapa yang menunjukkan pada kebaikan, baginya pahala yang semisal dengan pahala orang yang melakukannya",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=5354",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:af1ac996d6fbdedf183ae529a0d54955ead743af56284ed9840649ab5253ac04",
+   "explanation": "ایک شخص اللہ کے رسول صلی اللہ علیہ و سلم کے پاس آیا اور کہنے لگا کہ میری سواری کا جانور ہلاک ہو گیا ہے، لہذا مجھے سواری کے لیے ایک جانور عطا کیجیے، تاکہ میں اپنا سفر پورا کر سکوں۔ لیکن اللہ کے نبی صلی اللہ علیہ و سلم نے یہ کہہ کر معذرت کر دی کہ تمہیں دینے کے لیے میرے پاس جانور نہيں ہے۔ یہ دیکھ کر وہاں موجود ایک شخص نے کہا کہ اے اللہ کے رسول! میں اسے ایک شخص کا پتہ بتا سکتا ہوں، جو اسے سواری کے لیے جانور دے دے گا۔ اسی پس منظر میں اللہ کے رسول صلی اللہ علیہ و سلم  نے بتایا کہ وہ بھی اجر و ثواب میں صدقہ کرنے والے کا شریک ہے۔ کیوں کہ اس نے ضرورت مند کو ضرورت پوری کرنے کا راستہ بتایا ہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "اچھے کام کا راستہ دکھانے کی ترغیب۔\r",
+    "اچھے کام کی ترغیب سے مسلم معاشرے میں باہمی تعاون وہمدردی اور آپسی اخوت ومحبت کی فضا استوار ہوتی ہے۔\r",
+    "اللہ کا فضل و کرم بڑا وسیع ہے۔\r",
+    "یہ حدیث ایک عام قاعدے کی حیثیت رکھتی ہے اور اس کے اندر نیکی کے سارے کام داخل ہيں۔\r",
+    "انسان جب مانگنے والے کی ضرورت پوری نہ کر سکے، تو اس کی مناسب رہ نمائی کر دے۔"
+   ],
+   "mapping": "same HadeethEnc record id 5354; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:34+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/5354",
+   "text": "ابو مسعود انصاری رضی اللہ عنہ سے روایت ہے، وہ کہتے ہيں : ایک شخص اللہ کے نبی صلی اللہ علیہ و سلم کے پاس آیا اور کہنے لگا : میری سواری کا جانور ہلاک ہو چکا ہے۔ لہذا مجھے سواری کے لیے ایک جانور عطا کیجیے۔ چنانچہ اللہ کے رسول صلی اللہ علیہ و سلم نے فرمایا : \"میرے پاس جانور نہيں ہے۔\" اتنے میں ایک شخص نے کہا : اے اللہ کے رسول! میں اسے ایک شخص کے بارے میں بتا سکتا ہوں، جو اسے سواری کے لیے جانور دے دے۔ چنانچہ اللہ کے رسول صلی اللہ علیہ و سلم نے فرمایا : \"جس  نے نیکی کی طرف رہنمائی کی تو اس کو اس نیکی کا کام کرنے والے کے برابر اجر ملے گا۔\"",
+   "title": "جس  نے نیکی کی طرف رہنمائی کی تو اس کو اس نیکی کا کام کرنے والے کے برابر اجر ملے گا۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=5354",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:fa16507d74e99137b75553ccbfc6d441db5907e8d2b85cac6133d4e0ffd40d4a",
+   "explanation": "有一个人来见先知（愿主福安之），他说：“我的骆驼累坏了，请你提供给我一个乘骑让我前行。” 先知（愿主福安之）向其致歉道：“他那没有任何可供乘骑的。” 这时，一个在场的人说：“安拉的使者啊！我给他引见一位提供乘骑者。” 然后先知（愿主福安之）告知：“那个人与施舍者同获报酬，因为他给他做了指引。”",
+   "grade": "正确的",
+   "hints": [
+    "鼓励引导别人去行善。\r",
+    "鼓励行善是构建和加强穆斯林社会团结的因素之一。\r",
+    "崇高真主的宏恩浩荡。\r",
+    "这段圣训是一个通用总则，故每一项善行都囊括在内。\r",
+    "当一个人无法满足请求者的愿望时，他应该指引他到其他人那里。"
+   ],
+   "mapping": "same HadeethEnc record id 5354; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:34+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/5354",
+   "text": "据辅士艾布·麦斯欧德（愿主喜悦之）传述，他说： 有一个人来见先知（愿主福安之），他说：“我的骆驼累坏了，请你供我以乘骑。” 先知（愿主福安之）说：“我这里没有可供的乘骑”。 这时，有人说：“安拉的使者啊！我给他引见一位提供乘骑者。” 先知（愿主福安之）说：“谁导人于善，将得行善者的报酬。”",
+   "title": "先知（愿主福安之）说：“谁导人于善，将得行善者的报酬。",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

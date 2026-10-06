@@ -1,0 +1,170 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:7e90052790d4ea7c90c923e6e64229dbc7d0a227e3037b2dca8ad69b224464eb",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "بَعَثَ النبيُّ صلى الله عليه وسلم عَمّارَ بن ياسر رضي الله عنه في سَفَرٍ لبعض حاجاته، فأصابته جنابة بجماع أو نزول المني بشهوة، فلم يجد الماء ليغتسل منه، \nوكان لا يعلم حكم التيمم للجنابة، وإنما يعلم حكمَه للحدث الأصغر، \nفاجتهد وظَنّ أنه كما يَمسح بالتراب الذي على وجه الأرض بعض أعضاء الوضوء عن الحدث الأصغر، فلابد أن يكون التيمم من الجنابة بتعميم البدن بالتراب؛ قياسًا على الماء، فَتَقَلَّبَ في التراب حتى عَمَّم البدنَ وصَلَّى، \nفلما جاء إلى النبيِّ صلى الله عليه وسلم، ذَكَرَ له ذلك؛ ليرى هل هو على صواب أو لا؟ \nفَبَيَّنَ له النبيُّ صلى الله عليه وسلم كيفيةَ التَّطَهُّر مِن الحَدَثَين الأصغر كالبول، والأكبر كالجنابة: وهو أن يضرب بيديه على التراب ضربة واحدة، ثم يمسح الشمال على اليمين، وظاهر كفيه ووجهه.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "وجوب طلب الماء قبل التيمم.",
+  "مشروعية التيمم لمن عليه جنابة ولم يجد الماء.",
+  "التيمم للحدث الأكبر، كالتيمم للحدث الأصغر."
+ ],
+ "id": "hadeethenc-3461",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (1/ 77) (347).\nصحيح مسلم (1/ 280) (368).\nالإلمام بشرح عمدة الأحكام، لإسماعيل الأنصاري (1/ 60).\nتيسير العلام شرح عمدة الأحكام، لعبد الله البسام (ص72).\nتنبيه الأفهام شرح عمدة الأحكام، لابن عثيمين (1/ 92).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3461",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:45+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3461"
+ },
+ "source_categories": [
+  {
+   "id": "439",
+   "label": "التيمم"
+  }
+ ],
+ "source_record_id": "3461",
+ "text": "عَنْ عَمَّارِ بنِ ياسِرٍ رضي الله عنه قال: بَعَثَنِي رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِي حَاجَةٍ، فَأَجْنَبْتُ فَلَمْ أَجِدِ الْمَاءَ، فَتَمَرَّغْتُ فِي الصَّعِيدِ كَمَا تَمَرَّغُ الدَّابَّةُ ثُمَّ أَتَيْتُ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَذَكَرْتُ ذَلِكَ لَهُ فَقَالَ: «إِنَّمَا كَانَ يَكْفِيكَ أَنْ تَقُولَ بِيَدَيْكَ هَكَذَا» ثُمَّ ضَرَبَ بِيَدَيْهِ الْأَرْضَ ضَرْبَةً وَاحِدَةً، ثُمَّ مَسَحَ الشِّمَالَ عَلَى الْيَمِينِ، وَظَاهِرَ كَفَّيْهِ وَوَجْهَهُ.",
+ "title": "إنما كان يكفيك أن تقول بيديك هكذا ثم ضرب بيديه الأرض ضربة واحدة، ثم مسح الشمال على اليمين، وظاهر كفيه ووجهه",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3461",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:e93ab3f96191ec919d4e3520e2503d6d451755023f75be7aff51cd2505c48b9a",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম কোন এক সফরে একটা প্রয়োজনে আম্মার ইবন ইয়াসির রাদিয়াল্লাহু ‘আনহুকে বাইরে পাঠিয়েছিলেন। অতঃপর সফরে তিনি সহবাস বা উত্তেজনায় বীর্য বের হয়ে অপবিত্র হয়ে পড়লেন। কিন্তু গোসলের জন্যে তিনি পানি পেলেন না। তখনও তিনি বড় নাপাকী থেকে পবিত্রতা অর্জনের জন্যে তায়াম্মুমের বিধান জানতেন না। তিনি জানতেন যে, এর বিধান হলো: ছোট অপবিত্রতা থেকে পবিত্র অর্জন করা যায়। তাই তিনি ইজতিহাদ করলেন এবং ধারণা করলেন যে, ছোট অপবিত্রতা থেকে পবিত্র হওয়ার জন্যে অযুর ক্ষেত্রে তায়াম্মুমে যেভাবে কিছু অঙ্গ মাটি দ্বারা মাসেহ করতে হয়, জুনুবী তথা বড় অপবিত্রতা থেকে তায়াম্মুমের মাধ্যমে পবিত্র হতে হলেও পুরো শরীরে মাটি লাগাতে হয়। ফলে তিনি পানির উপর কিয়াস করে মাটিতে গড়াগড়ি করলেন, যাতে পুরো শরীরে মাটি লাগে। অতঃপর তিনি সালাত আদায় করলেন। অতঃপর তিনি যখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের নিকট আসলেন তখন তিনি ঘটনাটি তাঁর কাছে বর্ণনা করলেন। যাতে তিনি নিশ্চিত হন যে, তিনি যে পদ্ধতিতে তায়াম্মুম করেছেন, তা সঠিক কি না? অতঃপর নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম ছোট অপবিত্রতা, যেমন পেশাব-পায়খানা থেকে পবিত্রতা অর্জন এবং বড় অবিত্রতা যেমন  সহবাস বা মাসিক জনিত কারণে অপবিত্রতা থেকে পবিত্রতা অর্জনের পদ্ধতি বর্ণনা করেন এভাবে: হাতদ্বয় একবার মাটিতে মারবে, অতঃপর বাম হাত ডান হাতের উপরে মাসাহ করবে এবং এর দ্বারা হাতের তালুর উপরিভাগ এবং চেহারা মাসাহ করবে।",
+   "grade": "সহীহ",
+   "hints": [
+    "তায়াম্মুমের আগে পানি অনুসন্ধান করা ওয়াজিব।\r",
+    "যে ব্যক্তির গোসল ফরয, সে পানি না পেলে তার জন্যেও তায়াম্মুম করা বৈধ।\r",
+    "ছোট নাপাকি থেকে যেভাবে তায়াম্মুম করা হয়, বড় নাপাকি থেকে সেভাবেই তায়াম্মুম করা হবে।"
+   ],
+   "mapping": "same HadeethEnc record id 3461; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:50+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3461",
+   "text": "আম্মার ইবন ইয়াসির রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, তিনি বলেন: “আমাকে রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম একটা প্রয়োজনে বাইরে পাঠিয়েছিলেন। সফরে আমি অপবিত্র হয়ে পড়লাম এবং (পবিত্র অর্জনের জন্যে) পানি পেলাম না। এজন্য আমি জন্তুর মত মাটিতে গড়াগড়ি দিলাম। পরে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের নিকট ঘটনাটি বর্ণনা করলাম। তখন তিনি বললেন:  \n“তোমার জন্য তো এটুকুই যথেষ্ট ছিল যে, তুমি তোমার হাত দ্বারা এরূপ করবে; তারপর তিনি দু’ হাত মাটিতে একবার মারলেন এবং তিনি বাম হাতকে ডান হাতের উপর মাসেহ করলেন। আর দুই হাতের কব্জির উপরভাগ ও চেহারা মাসেহ করলেন।”",
+   "title": "“তোমার জন্য তো এটুকুই যথেষ্ট ছিল যে, তুমি তোমার হাত দ্বারা এরূপ করবে; তারপর তিনি দু’ হাত মাটিতে একবার মারলেন এবং তিনি বাম হাতকে ডান হাতের উপর মাসেহ করলেন। আর দুই হাতের কব্জির উপরভাগ ও চেহারা মাসেহ করলেন।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3461",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:d97c7f952e4c9e0fb931589a28ff97c77842c8b39f96c5812d1dff05d41a419a",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) sent 'Ammār ibn Yāsir (may Allah be pleased with him) on an errand. 'Ammār became in a state of Janābah (major ritual impurity), either because of sexual intercourse or the discharge of semen upon sexual arousal, and could not find water to take a ritual bath. He did not know the ruling on performing Tayammum (dry ablution) for Janābah; however, he knew its ruling for minor Hadath (ritual impurity). Based on his Ijtihād (personal reasoning), he thought that just as dirt on the surface of the earth is used to wipe some of the body parts of ablution in case of minor Hadath, then performing Tayammum from Janābah must be done by comprehending the entire body with dirt, in analogy to water. So, he rolled in dirt until it reached his whole body and then prayed. On coming to the Prophet (may Allah's peace and blessings be upon him), he mentioned it to see whether his actions were right. The Prophet (may Allah's peace and blessings be upon him) clarified to him the manner of attaining purity from minor Hadath like urine and from major Hadath like Janābah, namely by striking dirt with his hands once, then wiping the right hand with the left one, as well as the back side of his hands and face.",
+   "grade": "Authentic",
+   "hints": [
+    "It is obligatory to seek water before making Tayammum.\r",
+    "It is permissible for the one in the state of Janābah to make Tayammum in case he could not find water.\r",
+    "Tayammum for major Hadath is like Tayammum for minor Hadath."
+   ],
+   "mapping": "same HadeethEnc record id 3461; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:49+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3461",
+   "text": "‘Ammār ibn Yāsir (may Allah be pleased with him) reported: The Messenger of Allah (may Allah's peace and blessings be upon him) sent me on an errand, and I became Junub (in a state of major ritual impurity) and could not find water. So, I rolled in the dirt like an animal and then came to the Prophet (may Allah's peace and blessings be upon him) and told him about it. He said, \"It was sufficient for you to do this with your hands.\" Then, he struck the ground once with his hands, then wiped the right hand with the left one, the back side of his hands and his face.",
+   "title": "It was sufficient for you to do this with your hands.\" Then, he struck the ground once with his hands, then wiped the right hand with the left one, the back side of his hands and his face",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=3461",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:3d85192aa9061ac2aa7649291197a388c5c8ac3e283aa58826a50b5b0805c85b",
+   "explanation": "Le Prophète ﷺ envoya 'Ammâr ibn Yâsir (qu'Allah l'agrée) en voyage concernant certains besoins. Il se retrouva alors en état d'impureté majeure comme suite à un rapport, ou suite à une éjaculation en raison d'un désir, mais il ne trouva pas d'eau pour se laver. Par ailleurs, il ne connaissait pas le décret des ablutions sèches (At-Tayammum) à propos de l'impureté majeure mais uniquement celui lié à l'impureté mineure. Il fit alors un effort de compréhension et pensa que, tout comme certaines parties du corps doivent être essuyées avec de la terre se trouvant au sol pour les ablutions en cas d'impureté mineure, alors le \" Tayammum \" doit aussi se faire en cas d'impureté majeure en recouvrant le corps de terre. Il fit cela en guise d'analogie avec l'eau et donc il s'est tourné dans la terre jusqu'à se recouvrir le corps de terre puis il a prié. Lorsqu'il revint auprès du Prophète ﷺ, il lui mentionna cela pour savoir s'il avait eu raison d'agir ainsi ou non ? Alors, le Prophète ﷺ lui a expliqué la manière de se purifier en cas d'impureté mineure, comme lorsqu'on urine, et en cas d'impureté majeure, comme après un rapport ou une éjaculation : il faut frapper ses mains sur le sol, une seule fois, et ensuite s'essuyer le côté droit puis le côté gauche ainsi que les paumes des mains et le visage.",
+   "grade": "Authentique",
+   "hints": [
+    "L'obligation de rechercher de l'eau avant de faire l'ablution sèche.\r",
+    "La prescription de l'ablution sèche pour quiconque est en état d'impureté mineure et ne trouve pas d'eau.\r",
+    "L'ablution sèche en cas d'impureté mineure est identique à l'ablution sèche en cas d'impureté majeure."
+   ],
+   "mapping": "same HadeethEnc record id 3461; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:50+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/3461",
+   "text": "D'après ʽAmmâr ibn Yâsir (qu'Allah l'agrée) qui a dit : « Le Messager d'Allah ﷺ m’envoya régler une affaire. [Durant le voyage] Je suis tombé en état d'impureté majeure (Al Janâbah) et je n'ai pas trouvé d'eau [pour me purifier]. Je me suis alors roulé sur le sol, comme le ferait une bête. Ensuite, je suis revenu auprès du Prophète ﷺ et je lui ai raconté. Alors, il ﷺ a dit  : « Certes, il te suffisait de faire comme cela avec tes mains ! »  Il frappa alors ses mains à la surface du sol, une seule fois, puis essuya sa main gauche à l’aide de sa main droite et la paume des mains, puis son visage. »",
+   "title": "« Certes, il te suffisait de faire comme cela avec tes mains ! »  Il frappa alors ses mains à la surface du sol, une seule fois, puis essuya sa main gauche à l’aide de sa main droite et la paume des mains, puis son visage.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3461",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:82ca768512319fb0f7f3fe29a50340bfd0eca44cdf8451f0742a49a139355e27",
+   "explanation": "Nabi ﷺ mengutus 'Ammār bin Yāsir -raḍiyallāhu 'anhu- pada sebuah perjalanan untuk suatu keperluan beliau, lalu ia mengalami junub sebab jimak atau keluar mani sebab syahwat dan tidak menemukan air untuk digunakan mandi. Ia tidak mengetahui bahwa tayamum berlaku juga pada janabah, ia hanya mengetahui hukum itu hanya berlaku pada hadas kecil. Lantas ia berijtihad dan mengira sebagaimana tanah yang ada di permukaan bumi diusapkan pada sebagian anggota wudu untuk hadas kecil, maka tayamum untuk janabah ialah dengan meratakan tanah pada badan, dikiaskan dengan air, sehingga ia berguling-guling di tanah agar rata ke seluruh badan, lalu salat. Ketika menemui Nabi ﷺ, ia menceritakan hal itu pada beliau untuk mengetahui apakah yang dilakukannya itu benar atau tidak? Maka Nabi ﷺ menerangkan kepadanya tata cara bersuci dari hadas kecil seperti kencing dan hadas besar seperti junub ialah dengan menepukkan kedua tangan ke tanah sekali tepukan lalu mengusapkan tangan kiri pada tangan kanan serta punggung dua telapak tangan dan wajahnya.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Kewajiban mencari air sebelum melakukan tayamum.\r",
+    "2- Tayamum disyariatkan juga bagi orang yang mengalami junub namun tidak menemukan air.\r",
+    "3- Tata cara tayamum untuk hadas besar sama seperti tayamum untuk hadas kecil."
+   ],
+   "mapping": "same HadeethEnc record id 3461; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:49+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3461",
+   "text": "'Ammār bin Yāsir -raḍiyallāhu 'anhu- meriwayatkan, ia berkata, \"Rasulullah ﷺ pernah mengutusku untuk suatu keperluan, lalu aku mengalami junub dan tidak menemukan air. Aku pun berguling-guling di tanah layaknya seekor hewan yang berguling-guling. Setelah itu aku datang menemui Nabi ﷺ lalu menceritakan hal tersebut. Beliau bersabda, 'Sesungguhnya engkau cukup melakukan seperti ini dengan kedua tanganmu.' Kemudian beliau menepukkan kedua tangan ke tanah satu kali tepukan, lalu mengusapkan tangan kiri ke tangan kanan serta bagian luar kedua telapak tangannya dan wajahnya.\"",
+   "title": "'Sesungguhnya engkau cukup melakukan seperti ini dengan kedua tanganmu.' Kemudian beliau menepukkan kedua tangan ke tanah satu kali tepukan, lalu mengusapkan tangan kiri ke tangan kanan serta bagian luar kedua telapak tangannya dan wajahnya",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3461",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:aa3f961aab467ff6a45b4d4115fd85d4fee94a0f8fb78fb6a98457090d8f434f",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم نے عمار بن یاسر رضی اللہ عنہ کو کسی کام سے ایک سفر میں بھیجا۔ دوران سفر ان کو جماع یا شہوت کے ساتھ نزول منی کی وجہ سے جنابت لاحق ہو گئی اور غسل کے لیے پانی نہ مل سکا۔ اس وقت ان کو معلوم نہيں تھا کہ جنابت کے بعد تیمم کیا جا سکتا ہے۔ صرف اتنا جانتے تھے کہ حدث اصغر کے بعد تیمم کی اجازت ہے۔ لہذا اجتہاد سے کام لیا۔ سمجھا کہ جس طرح حدث اصغر سے پاکی حاصل کرنے کے لیے بعض اعضائے وضو کا مٹی سے مسح کیا جاتا ہے، اسی طرح جنابت کے تیمم لیے پورے بدن پر مٹی لگانا ضروری ہے۔ لہذا مٹی میں لوٹ پوٹ ہو گئے اور پورے بدن میں مٹی لگائی اور اس کے بعد نماز پڑھی۔ بعد ازاں جب اللہ کے رسول صلی اللہ علیہ و سلم کی خدمت میں حاضر ہوئے، تو یہ جاننے کے لیے کہ ان کا عمل درست تھا یا نہيں، اللہ کے نبی صلی اللہ علیہ و سلم کے سامنے اس واقعے کا ذکر کیا۔ لہذا اللہ کے نبی صلی اللہ علیہ و سلم نے انھیں حدث اصغر، جیسے پیشاب اور حدث اکبر، جیسے جنابت دونوں سے پاکی حاصل کرنے کا طریقہ بتا دیا۔ طریقہ یہ ہے کہ دونوں ہاتھوں کو ایک بار زمین پر مارا جائے اور اس کے بعد اپنے بائيں ہاتھ سے دائيں ہاتھ، دونوں ہتھیلیوں کی پشت اور چہرے کا مسح کیا جائے۔",
+   "grade": "صحيح",
+   "hints": [
+    "تیمم سے پہلے پانی کی تلاش ضروری ہے۔\r",
+    "جنبی شخص کو پانی نہ ملے، تو تیمم کر سکتا ہے۔\r",
+    "حدث اکبر کا تیمم حدث اصغر ہی کی طرح ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 3461; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:49+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3461",
+   "text": "عمار بن یاسر رضی اللہ عنہما سے روایت ہے وہ کہتے ہیں : مجھے اللہ کے رسول ﷺ نے کسی کام سے بھیجا۔ (دورانِ سفر) میں جنبی ہو گیا اور (غسل کے لیے) پانی نہ مل سکا، اس لیے میں زمین پر لوٹنے لگا، جس طرح جانور لوٹتا ہے۔ بعد ازاں جب اللہ کے نبی ﷺ کی خدمت میں حاضر ہو کر میں نے آپ ﷺ کو اس واقعے کے بارے میں بتایا، تو آپ ﷺ نے فرمایا : \"تمھارے لیے اپنے ہاتھوں سے بس اتنا کر لینا کافی تھا\"۔ پھر آپ ﷺ نے اپنے دونوں ہاتھوں کو ایک دفعہ زمین پر مارا، پھر اپنے بائیں ہاتھ سے دائیں ہاتھ، ہتھیلیوں کی پشت اور اپنے چہرے کا مسح کیا۔",
+   "title": "تمھارے لیے اپنے ہاتھوں سے بس اتنا کر لینا کافی تھا\"۔ پھر آپ ﷺ نے اپنے دونوں ہاتھوں کو ایک دفعہ زمین پر مارا، پھر اپنے بائیں ہاتھ سے دائیں ہاتھ، ہتھیلیوں کی پشت اور اپنے چہرے کا مسح کیا۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3461",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:f8e53cafe9abd2d5126d6cee5956dba5ef3c08ef0cf2d257b3ca7c9bb50149a1",
+   "explanation": "先知（愿主福安之）派遣安玛尔·本·亚希尔（愿主喜悦之）外出办理一些事情，途中安玛尔可能是因同房或因欲望而流出了精液，从而导致坏了大净，而且，他也没有找到可用于洗大净的水。 当时他不知道坏大净时的土净的方法，他只知道没有小净时的土净方式。 然后他便自己努力做出判断，他认为既然允许在做小净时用土抹部分肢体，那么大净时的土净就必须要让土抹遍身体。这是类比于用水清洗全身，所以，他便在地面上翻滚，直至他整个身体沾上土，然后便开始礼拜。 当他返回以后将此事告诉了使者（愿主福安之），以便知道这样做是否正确？ 先知（愿主福安之）为他阐明，在大小净使如何做土净，即：用双手拍打地面一次，然后用左手抹右手，抹两手心和脸面。",
+   "grade": "正确的",
+   "hints": [
+    "土净前首先必须要寻找水。\r",
+    "坏了大净又没找到水，这种状况下可以使用土净。\r",
+    "大小净的土净都是相同的。"
+   ],
+   "mapping": "same HadeethEnc record id 3461; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:49+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3461",
+   "text": "安玛尔·本·亚希尔（愿主喜悦之）传述，他说： 安拉的使者（愿主福安之）派遣我外出办事，然后我坏了大净，但又没有找到水用来洗大净，我便如同动物一般在地面上打了一个滚。当我返回以后给使者（愿主福安之）告诉了这件事情，他说：“其实用你的双手这样做即可。”然后他用双手拍打了一次地面，然后用左手抹了右手，抹了双手掌心和脸面。",
+   "title": "“其实用你的双手这样做即可。”然后他用双手拍打了一次地面，然后用左手抹了右手，抹了双手掌心和脸面。",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

@@ -1,0 +1,52 @@
+# Secrets and local settings
+**/.env
+**/.env.*
+!.env.example
+**/*.pem
+**/*.key
+**/cookies*.txt
+.claude
+
+# Environments and dependencies
+**/.venv
+**/node_modules
+
+# Build output (the image builds web/dist itself)
+**/dist
+**/*.tsbuildinfo
+
+# Run-time data: ledger, saved replies, library cache, staging
+var
+
+# Review history and other docs (docs/review is never part of the image)
+docs
+
+# Tests and their outputs
+server/tests
+web/test-results
+web/test-results-live
+web/playwright-report
+
+# Caches
+**/__pycache__
+**/.pytest_cache
+**/.vite
+**/.mypy_cache
+**/.ruff_cache
+**/*.pyc
+
+# Archives
+**/*.zip
+**/*.tar
+**/*.tar.gz
+**/*.tgz
+**/*.7z
+**/*.rar
+
+# Logs and recordings
+**/*.log
+**/*.wav
+**/*.mp3
+**/*.m4a
+**/*.ogg
+**/recordings

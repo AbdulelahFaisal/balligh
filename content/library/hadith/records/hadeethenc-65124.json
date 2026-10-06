@@ -1,0 +1,199 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:ef635493f16783e6f0ba7acddaf21ba60028c86ae8b241ee794d0aa588835f58",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "حَذَّرَ النبيُّ صلى الله عليه وسلم مِن أربعِ خِصال إذا اجتمعت في مسلم كان شديدَ الشَّبَهِ بالمنافقين بسبب هذه الخصال، وهذا فيمن كانت هذه الخصال غالبةً عليه، وأما من يَنْدُرُ فليس داخلًا فيه، وهي: \n\nالأولى: إذا حَدَّث تعمَّد الكذب وعدم الصدق في كلامه.\n\nالثانية: إذا عاهد عهدًا لم يُوْفِ به، وغَدَرَ بصاحبِه.\n\nالثالثة: إذا وَعَدَ وَعْدًا لم يَفِ به وأَخلَفَه.\n\nالرابعة: إذا تَخَاصَم وتَشَاجَرَ مع أحد كان خصامُه شديدًا، ومالَ عن الحق، واحتال في رده وإبطاله، وقال الباطلَ والكذبَ.\n\nفإنّ النفاق هو إظهار ما يُبطِنُ خلافَه، وهذا المعنى موجود في صاحب هذه الخصال، ويكون نفاقُه في حق مَن حَدَّثه، ووعدَه، وائتمنَه، وخاصمَه، وعاهدَه من الناس، لا أنه منافق في الإسلام فيظهره وهو يبطن الكفر، ومن كانت فيه خصلة من هذه الخصال؛ كان فيه صفة من النفاق حتى يَتْركَها.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "بيان بعض علامات المنافق للتخويف والتحذير من الوقوع فيها.",
+  "المقصود من الحديث: أن هذه الخصالَ خصالُ نفاق، وصاحبُها شبيهٌ بالمنافقين في هذه الخصال، ومتخلِّق بأخلاقهم، لا أنه منافق يظهر الإسلام وهو يبطن الكفر، وقيل هذا محمول على من غَلَبت عليه هذه الخصال وتهاونَ بها، واستخفَّ بأمرها؛ فإن من كان كذلك كان فاسد الاعتقاد غالبًا.",
+  "قال الغزالي: أصل الديانة منحصر في ثلاث: القول، والفعل، والنية، فنبَّه على فساد القول بالكذب، وعلى فساد الفعل بالخيانة، وعلى فساد النية بالخُلْف؛ لأن خُلْفَ الوعد لا يقدح إلا إذا كان العزم عليه مقارنًا للوعد، أما لو كان عازمًا ثم عرض له مانع أو بدا له رأيٌ فهذا لم توجد منه صورة النفاق.",
+  "النفاق نوعان: نفاق اعتقاديٌّ يُخرِجُ صاحبَه عن الإيمان، وهو إظهار الإسلام وإخفاء الكفر، ونفاق عَمَلِيٌّ، وهو التشبُّه بالمنافقين في أخلاقهم، وهذا لا يُخرِجُ صاحبَه عن الإيمان، إلا أنه كبيرة من الكبائر.",
+  "قال ابن حجر: وقد أجمع العلماء على أن من كان مُصدِّقًا بقلبه ولسانه وفعل هذه الخصال لا يُحكَم عليه بكفر، ولا هو مُنافق يخلد في النار.",
+  "قال النووي: وقال جماعة من العلماء: المراد به المنافقون الذين كانوا في زمن النبي صلى الله عليه وسلم فحدَّثوا بإيمانهم، وكذَّبوا، واؤتمنوا على دينهم فخانوا، ووعدوا في أمر الدين ونصره فأخلفوا، وفَجَروا في خصوماتهم."
+ ],
+ "id": "hadeethenc-65124",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (1/ 16) (34)، صحيح مسلم (1/ 78) (58)، المفهم لما أشكل من تلخيص كتاب مسلم (1/ 250)، بهجة قلوب الأبرار (ص 26)، البحر المحيط الثجاج (2/370).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=65124",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:53+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/65124"
+ },
+ "source_categories": [
+  {
+   "id": "98",
+   "label": "النفاق"
+  },
+  {
+   "id": "318",
+   "label": "ذم المعاصي"
+  },
+  {
+   "id": "636",
+   "label": "المناهي اللفظية وآفات اللسان"
+  }
+ ],
+ "source_record_id": "65124",
+ "text": "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو رضي الله عنهما قال: قال رَسولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «أَرْبَعٌ مَنْ كُنَّ فِيهِ كَانَ مُنَافِقًا خَالِصًا، وَمَنْ كَانَتْ فِيهِ خَلَّةٌ مِنْهُنَّ كَانَتْ فِيهِ خَلَّةٌ مِنْ نِفَاقٍ حَتَّى يَدَعَهَا: إِذَا حَدَّثَ كَذَبَ، وَإِذَا عَاهَدَ غَدَرَ، وَإِذَا وَعَدَ أَخْلَفَ، وَإِذَا خَاصَمَ فَجَرَ».",
+ "title": "أربع من كن فيه كان منافقا خالصا، ومن كانت فيه خلة منهن كانت فيه خلة من نفاق حتى يدعها: إذا حدث كذب، وإذا عاهد غدر، وإذا وعد أخلف، وإذا خاصم فجر",
+ "topic": "conduct",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=65124",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:39db3862ff8450f82f1c299c3fbc2356e2b72688998a9b9077b13f6b67189b94",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম চারটি বৈশিষ্ট্য সম্পর্কে সতর্ক করেছেন যেগুলো যদি একজন মুসলিমের মধ্যে একত্রিত হয়, তবে এই বৈশিষ্ট্যগুলির কারণে সে মুনাফিকদের সাথে কঠিন সাদৃশ্যপূর্ণ হবে । আর এটি তার ওপর প্রবল হলে প্রযোজ্য হবে, কিন্তু এটি যার থেকে খুব অল্প সময় প্রকাশ পায় সে এর অন্তর্ভুক্ত নয়, আর তা হল:\r\n\r\nপ্রথমটি: যখন সে কথা বলে তখন তার কথায় ইচ্ছাকৃতভাবে মিথ্যা ও অসত্য বলে।\r\n\r\nদ্বিতীয়: যদি সে কোন চুক্তি করে তা পূরণ করে না এবং তার সাথীর সাথে বিশ্বাসঘাতকতা করে।\r\n\r\nতৃতীয়: যখন সে কোন প্রতিশ্রুতি দেয় তা পূরণ করে না এবং তা ভঙ্গ করে।\r\n\r\nচতুর্থ: যখন কারো সাথে ঝগড়া ও বাদানুবাদ করে তখন তার ঝগড়া তীব্র হয় এবং সে সত্য থেকে বিচ্যুত হয় এবং তাকে প্রত্যাখ্যান ও বাতিল করার ক্ষেত্রে প্রতারণা করে এবং মিথ্যা ও বাতিল বলে।\r\n\r\nনিফাক হল সে যা গোপন করে তার বিপরীত প্রকাশ করা। এই অর্থ এই গুণাবলী সম্পন্ন ব্যক্তির মধ্যে বিদ্যমান এবং তার নিফাক হয় মানুষদের থেকে যে তার সাথে কথা বলে, তাকে প্রতিশ্রুতি দেয়, তাকে বিশ্বাস করে, তার সাথে ঝগড়া করে এবং তার সাথে চুক্তি করে তার ক্ষেত্রে। এমন নয় যে, সে ইসলামের মুনাফিক, কুফর গোপন করে আর ইসলাম প্রকাশ করে। আর যার মধ্যে এই গুণগুলো হতে একটি গুণ থাকবে; তার ভেতর নিফাকের একটি গুণ থাকবে যতক্ষণ না তিনি তা পরিত্যাগ করেন।",
+   "grade": "সহীহ",
+   "hints": [
+    "মুনাফিকের আলামত থেকে ভীতি প্রদর্শন ও তাতে পতিত হওয়া থেকে সতর্ক করার জন্য তার কিছু আলামতের বিবরণ।\r",
+    "হাদীস দ্বারা যা বোঝানো হয়েছে তা হল: এই বৈশিষ্ট্যগুলো মুনাফিকের বৈশিষ্ট্য এবং তার ধারক এই বৈশিষ্ট্যগুলোতে মুনাফিকের অনুরূপ এবং তাদের নৈতিকতার অনুসরণকারী। এমন নয় যে সে মুনাফিক, কুফরকে গোপন করেন আর ইসলামকে প্রকাশ করেন। বলা হয়েছে যে, এটি তার ওপর প্রযোজ্য হবে যার ওপর এই স্বভাবগুলো প্রবল হয় এবং যে এগুলোর ব্যাপারে শিথিলতা করে ও তার প্রতি অবজ্ঞা প্রকাশ করে। কারণ, যে এরকম হয় সে প্রায়ই কলুষিত বিশ্বাসের হয়।\r",
+    "গাজ্জালী বলেছেন: দীনের ভিত্তি তিনটি জিনিসের মধ্যেই সীমাবদ্ধ: কথা, কর্ম এবং নিয়ত। তিনি মিথ্যার মাধ্যমে কথার কলুষতা, বিশ্বাসঘাতকতার মাধ্যমে কর্মের কলুষতা এবং ওয়াদা ভঙ্গ করার মাধ্যমে নিয়তের কলুষতাকে নির্দেশ করেছেন। কারণ প্রতিশ্রুতি ভঙ্গ করা ওই সময় দোষণীয়, যখন সে ওয়াদা করার সাথেই ভঙ্গ করার উদ্দেশ্য পোষণ করে, তবে যদি সে ওয়াদা পূরণে দৃঢ়প্রতিজ্ঞ হয়ে থাকে এবং তারপরে তার সামনে কোন প্রতিবন্ধকতা উপস্থিত হয় বা অন্য কোনো মত প্রকাশ পায়,তবে তার পক্ষ থেকে নিফাকের সুরুত পাওয়া গেল না।\r",
+    "নিফাক দুই প্রকার: বিশ্বাসের নিফাক যা তার ব্যক্তিকে ঈমান থেকে বিচ্যুত করে, আর তা হল ইসলামকে প্রদর্শন করা এবং কুফরকে গোপন করা। আরেকটি ব্যবহারিক নিফাক; আর তা হল মুনাফিকদের স্বভাবে তাদের সাদৃশ্য গ্রহণ করা। এটি ব্যক্তিকে ঈমান থেকে বিচ্যুত করে না, তবে এটি একটি বড় পাপ।\r",
+    "ইবন হাজার বলেন: আলেমগণ সর্বসম্মতিক্রমে একমত হয়েছেন যে, যে ব্যক্তি তার হৃদয় ও মুখে বিশ্বাস করে এই গুণাবলী পালন করে তাকে কাফের বলে গণ্য করা হবে না এবং সে এমন মুনাফিকও হবে না যে চিরকাল জাহান্নামে থাকবে।\r",
+    "নাওয়াবী বলেন: একদল আলিম বলেছেন: হাদীসে উল্লিখিত মুনাফিকদের বলতে বোঝানো হয়েছে যারা নবী করীম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে ছিলেন। তারা তাদের ঈমানের কথা স্বীকার করেছিল এবং মিথ্যা বলেছিল। তাদের দীনের ব্যাপারে তাদেরকে বিশ্বাস করা হয়েছিল, কিন্তু তারা বিশ্বাসঘাতকতা করল এবং তারা দ্বীনের বিষয়ে এবং দীনকে সাহায্য করার প্রতিশ্রুতি দিয়েছিল, কিন্তু তারা তা ভঙ্গ করল এবং তারা তাদের বিবাদে অশ্লীল বাক্য ব্যবহার করল।"
+   ],
+   "mapping": "same HadeethEnc record id 65124; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:35+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/65124",
+   "text": "‘আবদুল্লাহ ইবনু ‘আমর রাদিয়াল্লাহু আনহু হতে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন: “চারটি স্বভাব যার মধ্যে বিদ্যমান সে হচ্ছে খাঁটি মুনাফিক। যার মধ্যে এর কোন একটি স্বভাব থাকবে, তা পরিত্যাগ না করা পর্যন্ত তার মধ্যে মুনাফিকের একটি স্বভাব থেকে যায়। আমানত রাখা হলে খিয়ানত করে; কথা বললে মিথ্যা বলে; অঙ্গীকার করলে ভঙ্গ করে; এবং বিবাদে লিপ্ত হলে অশ্লীলভাবে গালাগালি দেয়”।",
+   "title": "“চারটি স্বভাব যার মধ্যে বিদ্যমান সে হচ্ছে খাঁটি মুনাফিক। যার মধ্যে এর কোন একটি স্বভাব থাকবে, তা পরিত্যাগ না করা পর্যন্ত তার মধ্যে মুনাফিকের একটি স্বভাব থেকে যায়। আমানত রাখা হলে খিয়ানত করে; কথা বললে মিথ্যা বলে; অঙ্গীকার করলে ভঙ্গ করে; এবং বিবাদে লিপ্ত হলে অশ্লীলভাবে গালাগালি দেয়”।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=65124",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:21d232daa5e80fb5a54b945517ddcd928ec640ece35da690aba2f6ab0f511168",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) warned of four traits; if they are combined in a Muslim, he becomes quite similar to the hypocrites due to them. This applies to a person in whom these traits are dominant, not someone who rarely exhibits any of them. They are:\r\n\r\nFirst: When he speaks, he intentionally lies and avoids truthfulness.\r\n\r\nSecond: When he makes a covenant, he does not fulfill it and proves treacherous to the other party.\r\n\r\nThird: When he makes a promise, he does not keep it; rather, he breaks it.\r\n\r\nFourth: When he quarrels and falls into dispute with someone, he acts severely, departs from the truth, turns to deception in his response and argument, and tells falsehood and lies.\r\n\r\nHypocrisy is to reveal something different from what is kept hidden. This exists in a person who possesses these traits. His hypocrisy is exercised toward those to whom he speaks or makes a promise or those who entrust him, quarrel with him, or engage in a covenant with him. It is not that he is a hypocrite in terms of Islam, revealing it and concealing Kufr. Whoever possesses one of these traits possesses a trait of hypocrisy until he gives it up.",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth demonstrates some signs of hypocrites to intimidate and warn us about falling into them.\r",
+    "The bottom line in this Hadīth is that these traits are traits of hypocrisy, and he who possesses them is similar to the hypocrites in these traits and assumes their morals; it does not mean that he is a hypocrite who reveals Islam and conceals Kufr. It was said that this applies to the one in whom these traits are dominant and he takes them lightly and carelessly. Indeed, a person who likes that, mostly has a corrupt creed.\r",
+    "Al-Ghazāli said: The core of religion is limited to three things: speech, action, and intention. He pointed out that speech is corrupted by lying, action is corrupted by betrayal, and intention is corrupted by breaking a promise, as for breaking a promise then it isn't blameworthy unless there was an intential intention to break it. However, if he was determined to fulfill the promise and then something prevented him or he changed his mind, this is not a form of hypocrisy.\r",
+    "Hypocrisy is of two types: Creedal hypocrisy, which brings one out of Imān; it is to reveal Islam and conceal Kufr. Practical hypocrisy, which is to imitate the manners of hypocrites; it does not bring one out of Imān, though it is a major sin.\r",
+    "Ibn Hajar said: The scholars unanimously agreed that if a person is a believer with his heart and tongue, and engages in these traits, he is not judged to be a disbeliever or a hypocrite who shall abide in Hellfire eternally.\r",
+    "An-Nawawi said: A group of scholars said: It refers to the hypocrites during the Prophet's lifetime. They spoke about their Imān and lied; they were entrusted with their religion and betrayed it; they gave promises regarding the matter of the religion and its support and broke their promises; and they were immoral in their disputes."
+   ],
+   "mapping": "same HadeethEnc record id 65124; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:34+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/65124",
+   "text": "‘Abdullāh ibn ‘Amr (may Allah be pleased with him) reported: The Messenger of Allah (may Allah's peace and blessings be upon him) said: “There are four (traits); whoever has them is a sheer hypocrite, and whoever has one trait of them has one of the traits of hypocrisy until he gives it up: whenever he speaks, he tells a lie; whenever he makes a covenant, he proves treacherous; whenever he makes a promise, he breaks it; and whenever he is in a dispute, he behaves in a shameless immoral manner.\"",
+   "title": "“There are four (traits); whoever has them is a sheer hypocrite, and whoever has one trait of them has one of the traits of hypocrisy until he gives it up: whenever he speaks, he tells a lie; whenever he makes a covenant, he proves treacherous; whenever he makes a promise, he breaks it; and whenever he is in a dispute, he behaves in a shameless immoral manner",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=65124",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:fb76e52494cedb1e300d3c0100800019f4ce28838f9739f8dfbd3c2fa8a50d42",
+   "explanation": "Le Prophète ﷺ a mis en garde contre quatre bribes qui, si elles se rassemblent chez le musulman, alors il ressemblera fortement aux hypocrites à cause de ces bribes. Ceci concerne quiconque possède ces bribes de manière prépondérante. Mais quiconque a rarement ces bribes, alors il n'est pas inclus dans cela. Ces bribes sont :\r\n\r\nLa première : Lorsqu'il discute, volontairement il ment et il n'est pas véridique dans ses paroles.\r\n\r\nLa seconde : Lorsqu'il donne un engagement, il ne le tient pas et il trahit son compagnon.\r\n\r\nLa troisième : Lorsqu'il fait une promesse, il ne la tient pas et il la viole.\r\n\r\nLa quatrième : Lorsqu'il se dispute et se querelle avec quelqu'un, alors sa querelle est vive, il s'éloigne de la vérité, il use de stratagème dans sa réfutation et son infirmation, et il profère le faux et le mensonge.\r\n\r\nEn effet, l'hypocrisie consiste à manifester l'inverse de ce qui est dans le for intérieur, et cette signification est présente chez la personne qui a ces bribes. Ainsi, son hypocrisie est présente avec celui avec qui il discute, à qui il promet, à qui il fait confiance, avec qui il se querelle et avec qui il s'est engagé parmi les gens ; et non pas qu'il est hypocrite dans son Islâm qu'il manifeste extérieurement mais intérieurement réside la mécréance. Et quiconque possède une de ces bribes, alors il possède une caractéristique de l'hypocrisie jusqu'à ce qu'il la délaisse.",
+   "grade": "Authentique",
+   "hints": [
+    "L'explication de certains signes de l'hypocrite pour faire peur et mettre en garde contre le fait d'y tomber.\r",
+    "En effet, l'hypocrisie consiste à manifester l'inverse de ce qui est dans le for intérieur, et cette signification est présente chez la personne qui a ces bribes. Ainsi, son hypocrisie est présente avec celui avec qui il discute, à qui il promet, à qui il fait confiance, avec qui il se querelle et avec qui il s'est engagé parmi les gens ; et non pas qu'il est hypocrite dans son Islâm qu'il manifeste extérieurement mais intérieurement réside la mécréance. Et quiconque possède une de ces bribes, alors il possède une caractéristique de l'hypocrisie jusqu'à ce qu'il la délaisse.\r",
+    "Al Ghazzâlî (qu'Allah lui fasse miséricorde) a dit : \" La base de la Religion se restreint à trois choses : la parole, l'acte et l'intention. Ainsi, ici, le Prophète ﷺ a pointé la corruption de la parole par le mensonge ; il a pointé la corruption de l'acte par la trahison ; et il a pointé la corruption de l'intention par la violation. Cela parce que la violation de la promesse n'est blâmée que s'il y a eu une résolution préalable liée à la promesse. Maintenant, si la personne a été résolue, ensuite, il s'est produit un empêchement ou la personne a changé d'avis, alors dans ce cas-là ceci n'est pas considéré comme une forme d'hypocrisie. \"\r",
+    "L'hypocrisie est de deux types : 1- Une hypocrisie dogmatique qui fait sortir la personne du giron de la foi ; c'est-à-dire : elle manifeste l'islam en extérieur mais à l'intérieur elle dissimule la mécréance. 2- Une hypocrise pratique qui consiste en une ressemblance avec les hypocrites dans leurs comportements. Toutefois, cette hypocrisie ne fait pas sortir la personne du giron de la foi ; cependant, elle est un péché majeur parmi les péchés majeurs.\r",
+    "Ibn Hajar (qu'Allah lui fasse miséricorde) a dit : \" Les savants se sont unanimement accordés sur le fait que quiconque croit véridiquement dans son cœur et le proclame par sa langue tout en commettant ces bribes, alors on ne le juge pas comme étant mécréant ni un hypocrite qui restera éternellement en Enfer. \"\r",
+    "An-Nawawî (qu'Allah lui fasse miséricorde) a dit : \" Un groupe de savants a dit: le sens visé concerne les hypocrites qui étaient à l'époque du Prophète ﷺ et qui ont alors parlé de leur foi mais ont menti. On leur a confié la religion mais ils ont trahi. Ils ont promis des choses de la religion et sa préservation mais ont violé, de même qu'ils se sont emportés dans leurs disputes. \""
+   ],
+   "mapping": "same HadeethEnc record id 65124; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:35+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/65124",
+   "text": "D'après 'AbduLlah ibn 'Amrû (qu'Allah les agrée tous les deux) qui a dit : Le Messager d'Allah ﷺ a dit : \" Il y a quatre bribes : quiconque les possède toutes est un véritable hypocrite. Et quiconque en possède une, alors il a une bribe de l'hypocrisie jusqu'à ce qu'il la délaisse : lorsqu'il parle, il ment ; lorsqu'il s'engage, il trahit ; lorsqu'il promet, il ne tient pas sa promesse ; et lorsqu'il se dispute, il est grossier. \"",
+   "title": "Il y a quatre bribes : quiconque les possède toutes est un véritable hypocrite. Et quiconque en possède une, alors il a une bribe de l'hypocrisie jusqu'à ce qu'il la délaisse : lorsqu'il parle, il ment ; lorsqu'il s'engage, il trahit ; lorsqu'il promet, il ne tient pas sa promesse ; et lorsqu'il se dispute, il est grossier.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=65124",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:d3b772950eef58877cde5b5919b87f23365f44a59bd96eb8be52e3d08abd6738",
+   "explanation": "Nabi ﷺ mengingatkan dari empat sifat, jika keempatnya terkumpul pada seorang muslim maka dia sangat mirip dengan orang munafik lantaran adanya sifat-sifat itu. Ini terkait orang yang secara dominan memiliki keempat sifat ini. Adapun orang jarang melakukan sifat tersebut, maka ia tidak termasuk di dalamnya. Keempat sifat itu adalah:\r\n\r\nPertama: Ketika berbicara, dia sengaja berdusta dan tidak jujur dalam ucapannya.\r\n\r\n- Kedua: ketika membuat sebuah perjanjian, ia tidak memenuhinya dan mengkhianati rekannya.\r\n\r\n- Ketiga: ketika membuat sebuah janji, ia tidak menepatinya, bahkan menyelisihinya.\r\n\r\n- Keempat: ketika berseteru dan berselisih dengan seseorang, serangannya keras dan keluar dari kebenaran, ia curang dalam membantah dan menyanggah, dan ia menyampaikan kebatilan dan kedustaan.\r\n\r\nKemunafikan ialah menampakkan suatu kebalikan dari yang disembunyikan. Hakikat ini ada pada pemilik sifat-sifat ini. Kemunafikannya adalah pada orang yang ia ajak bicara, orang yang ia beri janji, orang yang mengamanahinya, orang yang ia lawan berseteru, dan orang yang ia beri perjanjian. Ini bukan munafik dalam Islam dengan menampakkan keislaman tetapi menyembunyikan kekafiran. Siapa yang memiliki salah satu sifat ini maka dalam dirinya terdapat satu sifat kemunafikan hingga ia meninggalkannya.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Menjelaskan sebagian tanda orang munafik untuk memberikan rasa takut dan peringatan agar tidak terjerumus ke dalamnya.\r",
+    "2- Maksud hadis ini adalah bahwa sifat-sifat ini adalah sifat kemunafikan dan pemiliknya mirip dengan orang munafik di dalam sifat-sifat ini serta berperilaku dengan perangai mereka, bukan berarti ia seorang munafik yang menampakkan keislaman dan menyembunyikan kekafiran. Konon, hadis ini dimaknai pada orang yang sifat-sifat ini dominan padanya serta menyepelekan dan menggampangkannya karena orang yang seperti itu biasanya memiliki akidah yang rusak.\r",
+    "3- Al-Gazāliy berkata, \"Pilar agama mengerucut kepada tiga hal: perkataan, perbuatan, dan niat. Beliau mengingatkan kerusakan perkataan dengan dusta, kerusakan perbuatan dengan khianat, dan kerusakan niat dengan menyelisihi janji. Hal itu karena menyelisihi janji tidak menjadi cela kecuali jika tekad untuk itu bersamaan dengan janji. Adapun jika ia bertekad kemudian muncul di hadapannya suatu penghalang atau tampak baginya suatu pandangan lain, maka yang seperti ini belum muncul padanya potret kemunafikan.\"\r",
+    "4- Kemunafikan terbagi menjadi dua:  (a) Kemunafikan dalam akidah yang mengeluarkan pelakunya dari keimanan, yaitu menampakkan keislaman tetapi menyembunyikan kekafiran (b) Kemunafikan dalam amal, yaitu menyerupai orang munafik di dalam akhlak mereka, dan ini tidak mengeluarkan pelakunya dari keimanan, tetapi ia merupakan dosa besar.\r",
+    "5- Ibnu Ḥajar berkata, \"Ulama telah berijmak bahwa orang yang menyatakan beriman dengan hati dan lisannya lalu melakukan sifat-sifat ini tidak dihukumi kafir ataupun munafik yang kekal dalam neraka.\"\r",
+    "6- An-Nawawiy berkata, \"Sejumlah ulama mengatakan: maksudnya ialah orang-orang munafik di masa Nabi ﷺ, yaitu mereka menyatakan beriman tetapi berdusta, mereka dipercayai terkait agama mereka tetapi berkhianat, mereka berjanji membela agama tetapi ingkar, dan mereka curang di dalam perseteruan mereka.\""
+   ],
+   "mapping": "same HadeethEnc record id 65124; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:35+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/65124",
+   "text": "Abdullah bin 'Amr -raḍiyallāhu 'anhumā- meriwayatkan, Rasulullah ﷺ bersabda, \"Ada empat sifat, siapa yang memiliki keempatnya maka dia seorang munafik sejati, namun siapa yang memiliki salah satunya maka dalam dirinya terdapat satu sifat kemunafikan hingga dia meninggalkannya, yaitu: jika dia berbicara maka dia berdusta, jika dia membuat perjanjian maka dia melanggarnya, melanggarnya, jika dia berjanji maka dia menyelisihinya, dan ketika berdebat maka dia berlaku curang.\"",
+   "title": "Ada empat sifat, siapa yang memiliki keempatnya maka dia seorang munafik sejati, namun siapa yang memiliki salah satunya maka dalam dirinya terdapat satu sifat kemunafikan hingga dia meninggalkannya, yaitu: jika dia berbicara maka dia berdusta, jika dia membuat perjanjian maka dia melanggarnya, melanggarnya, jika dia berjanji maka dia menyelisihinya, dan ketika berdebat maka dia berlaku curang",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=65124",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:b3a420407ef3ee2975b718016f2d6b9e0befc7bd104f49d43080ca8e756a11b7",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم نے چار خصلتوں سے خبردار کیا ہے کہ جب کسی مسلمان کے اندر جمع ہو جائيں، تو وہ ان خصلتوں کی بنا پر  منافقوں کے بے حد مشابہ ہو جاتا ہے۔ دراصل یہاں بات اس شخص کی ہو رہی ہے، جس کی شخصیت پر یہ اوصاف حاوی ہو جائيں۔ اگر کسی کے اندر یہ اوصاف کبھی کبھار دکھیں، تو وہ اس میں داخل نہیں ہوگا۔ یہ چار خصائل ہيں :\r\n\r\n1- جب بات کرے تو جان بوجھ کر جھوٹ بولے اور سچ بولنے سے گریز کرے۔\r\n\r\n2- جب کوئی معاہدہ کرے، تو اسے پورا نہ کرے اور سامنے والے کے ساتھ دھوکہ کر ڈالے۔\r\n\r\n3- جب کوئی وعدہ کرے، تو اسے نہ نبھائے۔ توڑ ڈالے۔\r\n\r\n4- جب کسی کے ساتھ جھگڑا کرے، تو بڑے سخت انداز میں جھگڑا کرے۔ حق سے گریز کر جائے، حق کی تردید اور اسے باطل ثابت کرنے کے لیے بہانے تلاش کرنے لگے اور ناحق بات اور جھوٹ بکے۔\r\n\r\nکیوں کہ نفاق نام ہے دل ميں کچھ اور رکھنے اور ظاہر کچھ اور کرنے کا۔ اور یہ معنی ان خصائل کے حامل شخص کے اندر پایا جا رہا ہے۔ یہاں یہ یاد رہے کہ ان خصائل کے حامل شخص کا نفاق دراصل اس شخص کے حق میں ہوگا، جس نے اس سے بات کی ہے، عہد کیا ہے، اس کے پاس امانت رکھی ہے اور جھگڑا کیا ہے۔ مطلب یہ نہیں ہے کہ وہ اسلام کے سلسلے میں منافق ہے۔ مسلمان ہونے کا دکھاوا کرتا ہے اور اندر کفر چھپائے رکھتا ہے۔ جس کے اندر ان میں سے کوئی ایک خصلت ہوگی، اس کے اندر نفاق کی ایک صفت ہوگی۔ جب تک کہ اسے چھوڑ نہ دے۔",
+   "grade": "صحيح",
+   "hints": [
+    "نفاق کی کچھ علامتوں کا بیان، تاکہ ان میں واقع ہونے سے خوف دلا کر خبردار کیا جا سکے۔\r",
+    "حدیث کا مقصود یہ ہے کہ یہ خصائل نفاق کے خصائل ہيں اور ان کا حامل شخص ان خصائل میں منافقوں کے مشابہ اور ان کے اخلاق کا حامل ہے۔ مطلب یہ نہیں ہے کہ وہ ایسا منافق ہے، جو مسلمان ہونے کا دکھاوا کرتا ہو اور دل میں کفر چھپائے رکھتا ہو۔ کچھ لوگوں کا کہنا ہے کہ یہ حدیث اس شخص پر محمول ہے، جس پر یہ خصائل حاوی ہو جائيں اور وہ ان خصلتوں کو معمولی سمجھنے لگے۔ کیوں کہ اس طرح کا شخص عام طور پر بدعقیدہ بھی ہوا کرتا ہے۔\r",
+    "غزالی کہتے ہیں: دراصل دین داری کا انحصار تین چیزوں پر ہے: قول، فعل اور نیت۔ یہاں اللہ کے رسول صلی اللہ علیہ و سلم نے قول میں بگاڑ کا اشارہ جھوٹ کے ذریعے، فعل میں بگاڑ کا اشارہ خیانت کے ذریعے اور نیت میں بگاڑ کا اشارہ وعدہ خلافی کے ذریعے فرمایا۔ کیوں کہ وعدہ خلافی اسی وقت معیوب ہے، جب وعدہ کرتے وقت ہی وعدہ پورا نہ کرنے کی نیت کر لی جائے۔ اس کے برخلاف اگر کسی نے وعدہ پورا کرنے کی نیت رکھی، لیکن کوئی رکاوٹ حائل ہو گئی اور وعدہ پورا نہیں کر سکا، تو اس کا یہ عمل نفاق کے دائرے میں نہيں آئے گا۔\r",
+    "نفاق کی دو قسمیں ہیں : ایک اعتقادی نفاق، جو انسان کو ایمان کے دائرے سے باہر نکال دیتا ہے۔ اعتقادی نفاق نام ہے اسلام کا اظہار کرنے اور اندر کفر چھپائے رکھنے کا۔ دوسرا عملی نفاق، جو انسان کو ایمان کے دائرے سے باہر تو نہیں نکالتا، لیکن ہے کبیرہ گناہ۔\r",
+    "ابن حجر کہتے ہیں: علما کا اس بات پر اتفاق ہے کہ جو شخص اپنے دل اور زبان سے تصدیق کرے اور اس کے باوجود یہ کام کرے، تو اس پر کفر کا حکم نہیں لگایا جائے گا۔ اسے ایسا منافق بھی نہيں گردانا جائے گا، جس کا ٹھکانہ سدا کے لیے جہنم ہو۔\r",
+    "نووی کہتے ہیں: علما کی ایک جماعت کہتی ہے: اس سے مراد اللہ کے نبی صلی اللہ علیہ و سلم کے عہد کے منافق ہيں، جنھوں نے مومن ہونے کی بات کہہ کر جھوٹ بولا، دین کی امانت اٹھائی اور خیانت کی، دین پر قائم رہنے اور اس کی مدد کرنے کا وعدہ کر کے اسے توڑ ڈالا اور اپنے جھگڑوں میں بد زبانی کا مظاہرہ کیا۔"
+   ],
+   "mapping": "same HadeethEnc record id 65124; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:34+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/65124",
+   "text": "عبداللہ بن عمرو رضی اللہ عنہما سے روایت ہے، وہ کہتے ہیں کہ رسول اللہ ﷺ نے فرمایا: \"چار خصلتیں جس شخص کے اندر ہوں گی، وہ خالص منافق ہوگا۔ جس کے اندر ان میں سے ایک خصلت ہوگی، اس کے اندر نفاق کی ایک خصلت ہوگی، جب تک کہ اسے چھوڑ نہ دے : جب بات کرے تو جھوٹ بولے، جب معاہدہ کرے تو دھوکہ دے دے، جب وعدہ کرے تو وعدہ خلافی کرے اور جب جھگڑے تو بد زبانی کرے۔\"",
+   "title": "چار خصلتیں جس شخص کے اندر ہوں گی، وہ خالص منافق ہوگا۔ جس کے اندر ان میں سے ایک خصلت ہوگی، اس کے اندر نفاق کی ایک خصلت ہوگی، جب تک کہ اسے چھوڑ نہ دے : جب بات کرے تو جھوٹ بولے، جب معاہدہ کرے تو دھوکہ دے دے، جب وعدہ کرے تو وعدہ خلافی کرے اور جب جھگڑے تو بد زبانی کرے۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=65124",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:deab8e8de973a7aa295c4b4b35f17b8f054ce1991df3ce4bac5e24720333e0b8",
+   "explanation": "先知（愿主福安之）警告人们提防四种属性，如果一个穆斯林同时具备该四样属性，他就是极其类似于伪信士，这针对这些属性已成为常态的穆斯林，至于偶尔产生这些属性者则不算在内，这些属性：\r\n\r\n第一：说话时故意撒谎，没有任何实话可言。\r\n\r\n第二：对人有所承诺时不去完成，且欺骗其同伴。\r\n\r\n第三：如果与人有约会时会爽约，不信守自己的约会。\r\n\r\n第四：如果与人发生争论，其争吵过分，且自己偏离真理，为反驳真理而选择欺骗，尽说假话和谎言。\r\n\r\n伪信：表里不一。这层含义存在于具备这些属性的人当中，其伪信在于那些与他说话，向他许诺，信任他，与他争吵，与他结约的人，而不是说他是伊斯兰教中的伪信士，即：表面信仰伊斯兰，实则隐藏自己的昧信。谁具备这些特性中的一种特性，他就已经具备了伪信士的属性之一，直至放弃。",
+   "grade": "正确的",
+   "hints": [
+    "阐明部分伪信士的标志以警告和使人提防之。\r",
+    "圣训之目的是：这些均属于伪信的特征，具备这些特征者与伪信士相似，拥有了伪信士所拥有的德行，但不能说他是表面皈依内心否认的伪信士，有人说：这是指长期具备这样的属性且对此不屑一顾之人。\r",
+    "安萨里说：宗教之根本源于三项：说、做和举意。然后他提醒人们谎言会损坏言语，欺骗会损坏行为，爽约会损坏举意。只有在与人相约之时心底就已决意要爽约，这样的爽约才会受到指责，至于如果一个人决意爽约，但情况有变，或有了其他意见，那么此类情况下不存在伪信这一说。\r",
+    "伪信有两种：信仰性的伪信，即：这会使人失去自己信仰，其形式就是表面皈依伊斯兰，实则心里否认；行为性伪信，即：在德行方面类似于伪信士，这不会使人失去信仰，但这属于大罪。\r",
+    "伊本·哈吉尔说：学者们一致认为凡心底和口头相信，但做了这些行为者，不能已库夫尔（否认）断之，也不能说他是永居火狱的伪信士。\r",
+    "伊玛目脑威说：一众学者们说：这里指的是先知时代的伪信士，当他们谈起他们的信仰时便会否认之，当他们在宗教上受到委托时就会撒谎欺骗，当他们在宗教事物上有所承诺时便会爽约，他们与人论辩时便会谩骂过分。"
+   ],
+   "mapping": "same HadeethEnc record id 65124; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:35+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/65124",
+   "text": "据阿卜杜拉·本·欧玛尔（愿主喜悦之）传述，他说：安拉的使者（愿主福安之）说： “凡具备四样属性者，便是纯粹的伪信士，谁具备其中一样，便带有伪信士的特性，直至放弃之：说话时撒谎，承诺时欺骗，许诺时爽约，争辩时谩骂。”",
+   "title": "“凡具备四样属性者，便是纯粹的伪信士，谁具备其中一样，便带有伪信士的特性，直至放弃之：说话时撒谎，承诺时欺骗，许诺时爽约，争辩时谩骂。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

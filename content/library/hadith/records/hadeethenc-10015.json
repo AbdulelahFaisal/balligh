@@ -1,0 +1,191 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:7fe3f2b2cdaf036ce2f4836f141373cfd5c882bfd2667653f6a8fbbd0654b53a",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "اشْتَكتْ إِحدى الصحابيَّات للنبيِّ صلى الله عليه وسلم استمرارَ نزولِ الدَّم معها، \nفأمَرَها أن تنقطع عن الصلاة قَدْرَ ما كانت حيضتُها تحبِسُها قبلَ نزولِ هذا الأمر الطارئ بها، ثم تغتسل وتصلي، فكانت تغتسل تطوُّعًا لكل صلاة.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "الاستحاضة هي: أن يَسْتَمرَّ بالمرأة خروجُ الدم بعد أيام حيضِها المُعتاد.",
+  "المستحاضة تَعتَبِر نفسَها حائضًا قَدْر الأيَّام التي كان يأتيها فيها الحيض، قبل أن يُصيبها ما أصابها من الاستحاضة.",
+  "إذا مَضَت قَدْرُ أيَّام عادتِها الأصلية، فإنَّها تُعتَبر طاهرةً من الحيض -ولو أنَّ دم الاستحاضة معها- فتغتسل من الحيض.",
+  "المستحاضة لا يجب عليها الغسل لكل صلاة؛ لأنَّ اغتسالَها رضي الله عنها كان باجتهاد منها، ولو كان واجبًا لَبَيَّنَه لها رسولُ الله صلى الله عليه وسلم.",
+  "المستحاضة يلزمها أن تتوضأ لكل صلاة؛ لأن حَدَثَها دائم لا ينقطع، ومثلُها كلُّ مَن حَدَثه دائم كالذي به سَلَسُ بول، أو خروج ريح مستمر.",
+  "سؤال أهل العلم عمّا يُشكل في أمور الدين، حيث إنّ هذه المرأة شَكَت إلى النبي صلى الله عليه وسلم، وسألته عن كثرة الدم الذي يصيبها."
+ ],
+ "id": "hadeethenc-10015",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (1/ 264) (334).\nتوضيح الأحكام، للبسام (1/ 447).\nشرح النووي على مسلم، (4/ 25).\nفتح ذي الجلال والإكرام بشرح بلوغ المرام، لابن عثيمين (1/ 390).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=10015",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:54:18+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/10015"
+ },
+ "source_categories": [
+  {
+   "id": "440",
+   "label": "الحيض والنفاس والاستحاضة"
+  }
+ ],
+ "source_record_id": "10015",
+ "text": "عَنْ عَائِشَةَ أُمِّ المُؤْمِنينَ رَضي الله عنها أَنَّهَا قَالَتْ: إِنَّ أُمَّ حَبِيبَةَ بِنْتَ جَحْشٍ الَّتِي كَانَتْ تَحْتَ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ شَكَتْ إِلَى رَسُولِ اللهِ صلى الله عليه وسلم الدَّمَ، فَقَالَ لَهَا: «امْكُثِي قَدْرَ مَا كَانَتْ تَحْبِسُكِ حَيْضَتُكِ، ثُمَّ اغْتَسِلِي». فَكَانَتْ تَغْتَسِلُ عِنْدَ كُلِّ صَلَاةٍ.",
+ "title": "امكثي قدر ما كانت تحبسك حيضتك، ثم اغتسلي",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=10015",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:9922d4a6b040698bbac5e881a5e529ececfe9436c863f4fe71b2a2046951da90",
+   "explanation": "একজন মহিলা সাহাবি নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের কাছে অভিযোগ করলেন, তার রক্তস্রাব অব্যাহত রয়েছে। নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাকে নির্দেশ দিলেন, সে যেন তার স্বাভাবিক হায়েযের দিনগুলো পর্যন্ত সালাত থেকে বিরত থাকে, যেমনটি এই সমস্যা হওয়ার আগে তার হায়েযের সময় ছিল। এরপর সে গোসল করবে এবং সালাত আদায় করবে। তারপর সে প্রতিটি সালাতের জন্য স্বেচ্ছায় গোসল করত।",
+   "grade": "সহীহ",
+   "hints": [
+    "ইস্তিহাযা হলো: হায়েযের স্বাভাবিক দিনগুলো পার হওয়ার পরও নারীর থেকে রক্তস্রাব অব্যাহত থাকা।\r",
+    "ইস্তিহাযাগ্রস্ত নারী তার হায়েযের স্বাভাবিক দিনগুলো পর্যন্ত নিজেকে হায়েয অবস্থায় গণ্য করবে, যে কদিন পর্যন্ত এই সমস্যা হওয়ার আগে তার হায়েয হতো।\r",
+    "যদি তার হায়েযের স্বাভাবিক দিনগুলো পার হয়ে যায়, তবে সে হায়েয থেকে পবিত্র বলে গণ্য হবে—এমনকি যদি ইস্তিহাযার রক্তস্রাব অব্যাহত থাকে—তবে সে হায়েযের সময় পার হলে গোসল করবে।\r",
+    "ইস্তিহাযাগ্রস্ত নারীর জন্য প্রতিটি সালাতের জন্য গোসল করা আবশ্যক নয়; কারণ উক্ত মহিলা সাহাবি রাদিয়াল্লাহু আনহার গোসল করা ছিল তার নিজস্ব ইজতিহাদ। যদি এটি আবশ্যক হত, তবে রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাকে তা স্পষ্ট করে বলতেন।\r",
+    "ইস্তিহাযাগ্রস্ত নারীর প্রতিটি সালাতের জন্য অযু করা আবশ্যক; কারণ তার অবস্থা স্থায়ী এবং তা বন্ধ হয় না। অনুরূপভাবে, যার থেকে স্থায়ী নাপাকি বের হয়, যেমন অনবরত প্রস্রাব বা অবিরত বায়ু নির্গত হওয়া, তার জন্যও একই বিধান প্রযোজ্য।\r",
+    "ধর্মীয় বিষয়ে কোনো সমস্যা বা জটিলতা দেখা দিলে আলেমদের জিজ্ঞাসা করা। যেমন এই নারী নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের কাছে অভিযোগ এবং বেশি রক্তস্রাব সম্পর্কে জিজ্ঞাসা করেছিলেন।"
+   ],
+   "mapping": "same HadeethEnc record id 10015; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:23+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/10015",
+   "text": "উম্মুল মু’মিনীন ‘আয়িশাহ রদিয়াল্লাহু আনহা হতে বর্ণিত, তিনি বলেন: উম্মু হাবীবাহ বিনতে জাহাশ, যিনি আবদুর রহমান ইবনু আওফ রাদিয়াল্লাহু ‘আনহুর স্ত্রী ছিলেন, তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের নিকট রক্ত বের হওয়ার অভিযোগ করেন। তখন তিনি তাকে বলেন: “তোমার হায়েয(মাসিক স্রাব) তোমাকে যে পরিমাণ বিরত রাখত সে পরিমাণ তুমি বিরত থাকো। অতঃপর তুমি গোসল করো।” ফলে তিনি প্রতি সালাতে গোসল করতেন।",
+   "title": "“তোমার হায়েয(মাসিক স্রাব) তোমাকে যে পরিমাণ বিরত রাখত সে পরিমাণ তুমি বিরত থাকো। অতঃপর তুমি গোসল করো।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=10015",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:da1783ea5235fcb6adc4c8277261b55d3a2a10febe087f4ea92c2ebd354c1f21",
+   "explanation": "One of the female Companions complained to the Prophet (may Allah's peace and blessings be upon him) about experiencing an incessant flow of blood. He ordered her to stop praying for as long as her menstrual period normally prevented her from praying before experiencing that new situation; then, she should take a ritual bath and pray. So, she used to take a ritual bath voluntarily before each prayer.",
+   "grade": "Authentic",
+   "hints": [
+    "Istihādah (vaginal bleeding outside the menstrual period) is: when a woman experiences an incessant flow of blood after her usual menstrual period is over.\r",
+    "A woman experiencing Istihādah should consider herself menstruating for as many days as her menses would normally last before starting to have Istihādah.\r",
+    "If the number of days of her normal menstrual period passes, she is considered pure from menstruation - even if she is bleeding of Istihādah - and should take a ritual bath.\r",
+    "A woman experiencing Istihādah is not required to take a ritual bath for each prayer because the female Companion (may Allah be pleased with her) would take a ritual bath based on her personal reasoning. Had it been obligatory, the Messenger of Allah (may Allah's peace and blessings be upon him) would have made it clear to her.\r",
+    "A woman experiencing Istihādah is required to make ablution for every prayer because her Hadath (ritual impurity) is incessant, and this applies to every person whose Hadath is incessant like the one who suffers from incontinence of urine or continuous passing of wind.\r",
+    "Asking the people of knowledge about confusing religious matters, as this woman complained to the Prophet (may Allah's peace and blessings be upon him) and asked him about the excessive bleeding she was suffering from."
+   ],
+   "mapping": "same HadeethEnc record id 10015; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:22+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/10015",
+   "text": "‘Ā’ishah, Mother of the Believers, (may Allah be pleased with her) reported: ’Umm Habībah bint Jahsh, who was the wife of ‘Abdur-Rahmān ibn ‘Awf, complained to the Messenger of Allah (may Allah's peace and blessings be upon him) about blood. He told her: \"Wait for as long as your menstrual period normally stops you, and then take a ritual bath.\" So, she used to take a ritual bath for every prayer.",
+   "title": "Wait for as long as your menstrual period normally stops you, and then take a ritual bath",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=10015",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:b0ea7c2c7d404accb7f429f19b2d7be49f7fc7760a8e016c27382a81622b0bfc",
+   "explanation": "Une des Compagnonnes (qu'Allah l'agrée) s'est plainte au Prophète ﷺ de la persistance d'un écoulement de sang qu'elle avait. Alors, il ﷺ lui a ordonné d'interrompre la prière du même temps que ses menstrues l'empêchaient de prier avant cet écoulement de sang dû à cette affaire urgente. Ensuite, il ﷺ lui a ordonné de se laver et de prier. Ainsi, celle-ci se lavait de manière surérogatoire avant chaque prière.",
+   "grade": "Authentique",
+   "hints": [
+    "Les métrorragies désignent l'état d'une femme dont le sang persiste à couler même après ses jours habituels de menstrues.\r",
+    "La femme en état de métrorragies doit elle-même se considérer en état de menstrues du même nombre de jours que lorsque ses règles lui venaient, avant qu'elle ne soit touchée par cet état de métrorragies.\r",
+    "Lorsque cela se poursuit au-delà des jours de sa période menstruelle initiale, alors elle doit se considérer pure de ses menstrues - même si elle a toujours du sang de métrorragies qui s'écoule -  donc elle se lave comme pour les menstrues.\r",
+    "La femme en état de métrorragies ne doit pas se laver pour chaque prière parce que le lavage qu'Umm Habîbah bint Jahch (qu'Allah l'agrée) effectuait était le fruit de son effort personnel ; et si ce lavage avait été obligatoire, alors le Messager d'Allah ﷺ l'aurait indiqué.\r",
+    "La femme en état de métrorragies doit effectuer ses ablutions pour chaque prière parce que son impureté est continuelle et ne s'interrompt pas. Il en est de même de quiconque a une impureté continuelle comme la personne qui souffre d'incontinence urinaire ou d'aérophagie.\r",
+    "On doit questionner les gens de science concernant ce qui pose problème dans les affaires religieuses étant donné que cette femme s'est plainte au Prophète ﷺ et l'a interrogé à propos de ce fort écoulement de sang dont elle était atteinte."
+   ],
+   "mapping": "same HadeethEnc record id 10015; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:23+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/10015",
+   "text": "D'après 'Aïcha, la mère des croyants (qu’Allah l’agrée), qui a dit : Certes, Umm Habîbah bint Jahch qui était sous la responsabilité d'Abd ar-Rahman ibn 'Awf s'est plainte au Messager d'Allah ﷺ d’un problème [d'écoulement] de sang, alors il lui a dit :  « Considère-toi [en période de menstrues] aussi longtemps que tes règles te retenaient, ensuite lave-toi. »  Elle se lavait alors pour chaque prière.",
+   "title": "Considère-toi [en période de menstrues] aussi longtemps que tes règles te retenaient, ensuite lave-toi.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=10015",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:9cb92f72118df359de4b3d228a42681032e8bea063abe0aa0a34a4d8f4d64c8d",
+   "explanation": "Seorang sahabat wanita bertanya kepada Nabi ﷺ tentang darahnya yang terus-menerus keluar, maka beliau menyuruhnya agar meninggalkan salat selama waktu yang biasanya ia haid sebelum kejadian yang baru ini, kemudian mandi dan salat. Lalu ia melakukan mandi secara suka rela pada setiap salat.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Istihadah ialah kondisi ketika darah wanita yang terus keluar setelah masa haidnya yang biasa.\r",
+    "2- Wanita yang mengalami istihadah menghitung dirinya haid sejumlah hari yang biasanya ia mengalami haid sebelum mengalami istihadah.\r",
+    "3- Ketika jumlah hari kebiasaan haidnya berlalu, seorang wanita hendaknya menganggap dirinya telah suci dari haid -walaupun darah istihadah masih ada- dengan cara melakukan mandi suci dari haid.\r",
+    "4- Wanita yang istihadah tidak diwajibkan mandi pada setiap salat; sebab mandinya Ummu Ḥabībah -raḍiyallāhu 'anhā- tersebut merupakan ijtihad beliau sendiri. Seandainya wajib, pastilah Rasulullah ﷺ akan menerangkannya.\r",
+    "5- Wanita yang istihadah diwajibkan wudu setiap akan salat karena hadasnya terus berlanjut, tidak berhenti. Sama halnya dengan wanita istihadah, semua orang yang memiliki hadas terus-menerus, seperti orang yang mengalami beser atau terus-menerus keluar angin.\r",
+    "6- Wajib bertanya kepada ahli ilmu tentang perkara agama yang membingungkan, seperti perempuan ini yang bertanya kepada Nabi ﷺ tentang banyaknya darah yang menimpanya."
+   ],
+   "mapping": "same HadeethEnc record id 10015; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:22+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/10015",
+   "text": "Aisyah ummul mukminīn -raḍiyallāhu 'anhā- meriwayatkan, ia berkata, Ummu Ḥabībah binti Jaḥsyin istri Abdurrahman bin 'Auf datang menanyakan perihal darah kepada Rasulullah ﷺ, lalu beliau bersabda kepadanya, \"Tunggulah selama waktu biasanya engkau ditahan oleh haidmu, kemudian mandilah.\" Ia pun melakukan mandi setiap waktu salat.",
+   "title": "Tunggulah selama waktu biasanya engkau ditahan oleh haidmu, kemudian mandilah",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=10015",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:2940b3057848a10a1099b5ea41986fef227ed089fa614cced8603bae1ebddc7f",
+   "explanation": "ایک صحابیہ نے اللہ کے نبی صلی اللہ علیہ و سلم کے حضور خون جاری رہنے کی شکایت کی، تو آپ نے اسے حکم دیا کہ یہ پریشانی شروع ہونے سے پہلے جتنے دن اس کا حيض اسے نماز سے روکے رکھتا تھا، اتنے دن نماز سے رکی رہے اور اس کے بعد غسل کر کے نماز پڑھ لیا کرے۔ لہذا وہ نفلی طور پر ہر نماز کے لیے غسل کر لیا کرتی تھیں۔",
+   "grade": "صحيح",
+   "hints": [
+    "استحاضہ : استحاضہ یہ ہے کہ عورت کو حیض کے معمول کے دنوں کے بعد بھی خون آتا رہے۔\r",
+    "استحاضہ کی شکار عورت اتنے دنوں تک خود کو حائضہ سمجھے، جتنے دنوں تک یہ پریشانی لاحق ہونے سے پہلے اسے حیض آیا کرتا تھا۔\r",
+    "پھر جب اس کی اصل عادت کے بہ قدر ایام گزر جائيں، تو خود کو حیض سے پاک سمجھے اور حیض سے پاکی کا غسل کر لے، چاہے استحاضہ کا خون جاری ہی کیوں نہ رہے۔\r",
+    "استحاضہ کی شکار عورت پر ہر نماز کے لیے غسل واجب نہیں ہے۔ کیوں کہ مذکورہ صحابیہ ہر نماز کے لیے غسل اپنے اجتہاد سے کیا کرتی تھی۔ اگر یہ عمل واجب ہوتا، تو اللہ کے نبی صلی اللہ علیہ و سلم انہیں بتا دیتے۔\r",
+    "استحاضہ والی عورت پر ہر نماز کے لیے وضو لازم ہے؛ اس لیے کہ اس کے وضو ٹوٹنے کا عمل لگاتار جاری ہے۔ یہی حکم ہر اس شخص کا ہے، جس کے وضو ٹوٹنے کا عمل لگاتار جاری رہے۔ جیسے وہ شخص جس کا پیشاب لگاتار نکلتا رہے اور وہ شخص جسے مسلسل ہوا نکلنے کی بیماری ہو۔\r",
+    "دینی معاملات کے متعلق جب مشکلات درپیش ہوں، تو علماء سے پوچھ لینا چاہیے۔ ہم دیکھتے ہیں کہ اس عورت نے اللہ کے رسول صلی اللہ علیہ و سلم کے یہاں حاضر ہو کر زیادہ خون آنے کی شکایت کی اور مسئلہ پوچھا۔"
+   ],
+   "mapping": "same HadeethEnc record id 10015; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:22+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/10015",
+   "text": "امّ المؤمنین عائشہ رضی اللہ عنہا سے روایت ہے، وہ کہتی ہيں: عبد الرحمن بن عوف کى بیوى ام حبیبہ بنت جحش نے اللہ کے نبی صلی اللہ علیہ و سلم سے خون جاری رہنے کی شکایت کی، تو آپ نے ان سے فرمایا : \"تم اتنے دن نماز سے رکی رہو، جتنے دن تمھارا حیض تمھیں نماز سے روکا کرتا تھا، پھر غسل کر لیا کرو\"۔ لہذا وہ ہر نماز کے وقت غسل کیا کرتی تھیں۔",
+   "title": "تم اتنے دن نماز سے رکی رہو، جتنے دن تمھارا حیض تمھیں نماز سے روکا کرتا تھا، پھر غسل کر لیا کرو",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=10015",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:74f10642eb3487f8c4601fb42816811f52947c8f12cbfc24aa127fa11aff35e4",
+   "explanation": "一位女圣门弟子向先知（愿主福安之）诉说她一直经血不止。 先知便命令她，在这件突发的事情之前（指病血），在她认为是经血的时间内不要礼拜，然后，就洗大净并礼拜。故她当时每次礼拜时都会洗大净，这是她的自愿行为。",
+   "grade": "正确的",
+   "hints": [
+    "病血：妇女正常的经血结束后又继续流出的血液。\r",
+    "有病血的妇女当在病血流出之前，在她认为是经血的时间内，将自己当成是来月经的妇女。\r",
+    "当自认为经血时间已经过去时，那么她就是洁净之人，即使是有病血继续流出，她应该洗大净。\r",
+    "有病血的妇女不必须每次礼拜都要洗大净，温姆·哈比布（愿主喜悦之）的行为是出自她自己的理解，如果是必须如此的话，使者（愿主福安之）必定会向众人阐明。\r",
+    "对于病血的妇女来说，每次礼拜洗小净是必须的，因为她的坏小净事情是长期存在不会中断的。就好像男性中的尿不尽者，或者不断下气的人。\r",
+    "对于宗教事物所出现的问题，应当请教有学问之人，比如圣训中这位妇女向使者（愿主福安之）诉苦，询问使者关于病血多的事情。"
+   ],
+   "mapping": "same HadeethEnc record id 10015; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:22+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/10015",
+   "text": "信士之母阿伊莎（愿主喜悦之）传述，她说： 哲哈什的女儿温姆·哈比布曾是阿卜杜·拉合曼·本·奥夫的妻子，她向安拉的使者（愿主福安之）诉苦说受病血的困扰。使者对她说：“计算你的经血时间，之后就去洗吧。”故她当时在每次礼拜时都会洗大净。",
+   "title": "“计算你的经血时间，之后就去洗吧。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

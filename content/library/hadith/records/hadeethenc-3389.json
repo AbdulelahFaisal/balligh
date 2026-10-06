@@ -1,0 +1,184 @@
+{
+ "attribution": "رواه أبو داود وأحمد",
+ "content_sha256": "sha256:7e058b42f9b1eff36329a7705759ee9a1e5e5bed16b904ad0e01c52b83ab3d29",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "جاءَ جماعةٌ إلى النبيِّ صلى الله عليه وسلم، فلمّا وَصَلَوا إليه قالوا -مَادِحِين له- بعضَ الكلمات التي كَرِهَها صلى الله عليه وسلم، \nفقالوا: \"أنت سيدُنا\"، \nفقال لهم صلى الله عليه وسلم: \n\"السيدُ الله\" \nفله السُّؤْدَدُ التامُّ على خلقِهِ وهم عبيدُهُ. \nوقالوا: أنت \"أَفْضَلُنا فَضْلًا\" وأعلانا رُتبةً وشرفًا ومزيةً. \nوأنت \"أعظَمُنا طَوْلًا\" وأكثرنا عطاءً وعُلوًّا ورفعةً. \nثم أرشدَهم النبيُّ صلى الله عليه وسلم أن يقولوا قولهم المعتاد ولا يتكلَّفوا الألفاظ، وألَّا يَجُرَّهم الشيطان إلى الغلو والإطراء الذي يُوقِع فيما حُرِّم من الشرك ووسائله.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "عظم قدر النبي صلى الله عليه وسلم في نفوس أصحابه واحترامهم له.",
+  "النهي عن التكلّف في الألفاظ، والاقتصاد في المقال.",
+  "حماية التوحيد عما يُخِلُّ به من الأقوال والأعمال.",
+  "النهي عن الغلو في المدح، فهو من مداخل الشيطان.",
+  "النبي صلى الله عليه وسلم هو سيِّدُ ولد آدم، وما جاء في الحديث هو من باب التواضع، ومن باب الخوف عليهم أن يغلو فيه."
+ ],
+ "id": "hadeethenc-3389",
+ "language": "ar",
+ "narrator": null,
+ "reference": "سنن أبي داود (7/ 184) (4806).\nمسند أحمد (26/ 234) (16307).\nالملخص في شرح كتاب التوحيد، لصالح الفوزان (ص424).\nالجديد في شرح كتاب التوحيد، لمحمد القرعاوي (ص472).\nمشكاة المصابيح،  للألباني مشكاة المصابيح (3/ 1373).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3389",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:29+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3389"
+ },
+ "source_categories": [
+  {
+   "id": "81",
+   "label": "نبينا محمد صلى الله عليه وسلم"
+  }
+ ],
+ "source_record_id": "3389",
+ "text": "عَن عَبدِ الله بنِ الشِّخِّير رضي الله عنه قَالَ: انْطَلَقْتُ في وَفدِ بَنِي عَامِرٍ إِلى رَسُولِ الله صلى الله عليه وسلم، فَقُلنا: أَنتَ سيّدُنَا، فقال: «السَّيدُ اللهُ»، قُلنا: وَأَفْضَلُنا فَضْلاً، وأعظَمُنا طَوْلاً، فقال: «قُولُوا بِقَولِكُم، أَو بَعضِ قولِكُم، وَلَا يَسْتَجْرِيَنَّكُم الشَّيطَانُ».",
+ "title": "فقلنا: أنت سيدنا، فقال: السيد الله، قلنا: وأفضلنا فضلا، وأعظمنا طولا، فقال: قولوا بقولكم، أو بعض قولكم، ولا يستجرينكم الشيطان",
+ "topic": "understanding_islam",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3389",
+   "arabic_match": "exact",
+   "attribution": "এটি আবু দাউদ ও আহমাদ বর্ণনা করেছেন।",
+   "content_sha256": "sha256:d194dd7af3047176a7fc98b854d1fe8840af39ba2674b46ea81223408bca98b4",
+   "explanation": "একদল লোক নবী সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম এর কাছে এলো। তাঁর কাছে এসে তারা –তাঁর প্রশংসা সূচক- কিছু কথা বলল, যা তিনি অপছন্দ করলেন। তারা বলল: আপনি হলেন আমাদের মনিব। তখন তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন: “মনিব হলেন একমাত্র আল্লাহ।” সৃষ্টির উপর তাঁর সম্পূর্ণ কর্তৃত্ব রয়েছে এবং তারা তাঁর বান্দা। তারা আরো বলল: আপনি হলেন আমাদের মধ্যকার শ্রেষ্ঠ ও মহান ব্যক্তি এবং মর্যাদা, সম্মান ও যোগ্যতায় সর্বোচ্চ। আপনি \"আমাদের মধ্যে মর্যাদায় সর্বশ্রেষ্ঠ\" এবং সর্বাপেক্ষা উদার, আপনি সুউচ্চ মর্যাদা এবং সম্মানের অধিকারী। অতঃপর নবী সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম তাদেরকে নির্দেশ দিলেন, তারা যেন সাধারণত প্রশংসায় যা বলে তা-ই বলে এবং শব্দচয়নে যেন কৃত্রিমতার আশ্রয় না নেয়। শয়তান যেন তাদেরকে টেনে অতিরঞ্জন ও বাড়া বাড়ি তে না নিয়ে যায়, যা তাদেরকে নিষিদ্ধ শিরক এবং এর মাধ্যমসমূহের মধ্যে ফেলবে।",
+   "grade": "সহীহ",
+   "hints": [
+    "সাহাবীদের হৃদয়ে নবী সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম এর মহান মর্যাদা এবং তাঁর প্রতি তাদের গভীর শ্রদ্ধা।\r",
+    "শব্দ ব্যবহারে আজগবি শব্দচয়ন হতে নিষেধ এবং কথায় মধ্যপন্থা অবলম্বন করার নির্দেশ।\r",
+    "তাওহীদ সংরক্ষণ করা এমন কথা ও কাজ থেকে যা তাকে নষ্ট করে ।\r",
+    "প্রশংসায় বাড়াবাড়ি থেকে নিষেধ করা, কারণ এটি শয়তানের অন্যতম প্রবেশদ্বার।\r",
+    "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অবশ্য আদম সন্তানের মধ্যে শ্রেষ্ঠ ও সাইয়্যেদ তবে হাদিসে যা উল্লেখ করা হয়েছে তা বিনয় প্রকাশার্থে এবং এ আশঙ্কায় যে, তারা তাঁর ব্যাপারে বাড়াবাড়ির পর্যায়ে চলে যাবে।"
+   ],
+   "mapping": "same HadeethEnc record id 3389; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:03+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3389",
+   "text": "আব্দুল্লাহ ইবন শিখখির রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, তিনি বলেন: انْطَلَقْتُ في وَفدِ بَنِي عَامِرٍ إِلى رَسُولِ الله صلى الله عليه وسلم، فَقُلنا: أَنتَ سيّدُنَا، فقال: «السَّيدُ اللهُ»، قُلنا: وَأَفْضَلُنا فَضْلاً، وأعظَمُنا طَوْلاً، فقال: «قُولُوا بِقَولِكُم، أَو بَعضِ قولِكُم، وَلَا يَسْتَجْرِيَنَّكُم الشَّيطَانُ».\nএকদা আমি বনু আমিরের প্রতিনিধি দলের সাথে রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর  কাছে গিয়ে বললাম: আপনি হলেন আমাদের মনিব। তখন তিনি বললেন: “মনিব হলেন আল্লাহ তা‘আলা।” আমরা বললাম: আপনি হলেন আমাদের মধ্যকার শ্রেষ্ঠ ও মহান ব্যক্তি। তখন তিনি বললেন: “তোমরা এ কথা বলতে পারো বা এর কিছুটা। শয়তান যেন তোমাদের উপর সওয়ার না হতে পারে।’’",
+   "title": "কাছে গিয়ে বললাম: আপনি হলেন আমাদের মনিব। তখন তিনি বললেন: “মনিব হলেন আল্লাহ তা‘আলা।” আমরা বললাম: আপনি হলেন আমাদের মধ্যকার শ্রেষ্ঠ ও মহান ব্যক্তি। তখন তিনি বললেন: “তোমরা এ কথা বলতে পারো বা এর কিছুটা। শয়তান যেন তোমাদের উপর সওয়ার না হতে পারে।’’",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3389",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Abu Dāwūd and Ahmad",
+   "content_sha256": "sha256:a52d22432a5307ea7a550d28fac432d4145910d61138e39a5fa9f7d064f256e9",
+   "explanation": "A group of people came to the Prophet (may Allah's peace and blessings be upon him) and on reaching him, they said - praising him - some words that he (may Allah's peace and blessings be upon him) disliked. They said: \"You are our master.\" But the Prophet (may Allah's peace and blessings be upon him) said to them: \"The Master is Allah,\" Who possesses full sovereignty over His creation and they are His slaves. They also said: You are \"the best of us in superiority\" and the highest among us in rank, honor, and in merit. And you are \"the greatest among us in bounteousness\" and the most giving, the loftiest, and the most prestigious among us. The Prophet (may Allah's peace and blessings be upon him) then advised them to say what they would typically say without affectation and not to be dragged by the devil to exaggeration and flattery that lead to committing what is prohibited of Shirk (polytheism) and its means.",
+   "grade": "Authentic",
+   "hints": [
+    "This Hadīth shows how the Prophet's Companions held and revered him in high esteem.\r",
+    "Prohibiting affectation in words and encouraging the act of speaking moderately.\r",
+    "Protecting Tawhīd (monotheism) from words and deeds that could violate it.\r",
+    "Prohibition of exaggeration in praising, which is one of the devil's access points.\r",
+    "The Prophet (may Allah's peace and blessings be upon him) is the master of the children of Adam, and what is mentioned in the Hadīth is an expression of humility and fear for them lest they exaggerate in honoring him."
+   ],
+   "mapping": "same HadeethEnc record id 3389; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:02+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3389",
+   "text": "‘Abdullah ibn ash-Shikhkhīr (may Allah be pleased with him) reported: I set out with the delegation of Banu ‘Āmir to meet the Messenger of Allah (may Allah's peace and blessings be upon him). We said: You are our master. He said: \"The Master is Allah.\" We said: And the best of us in superiority and the greatest among us in bounty. He said: \"Say what you have to say, or part of what you have to say, but do not let the devil deviate you (in praising me).\"",
+   "title": "We said: You are our master. He said: \"The Master is Allah.\" We said: And the best of us in superiority and the greatest among us in bounty. He said: \"Say what you have to say, or part of what you have to say, but do not let the devil deviate you (in praising me)",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=3389",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Abû Dâwud et Ahmad",
+   "content_sha256": "sha256:09e10f64b1868c692b2bc626682bf70364afd961f54f8362085c978cb4ada37d",
+   "explanation": "Un groupe est venu au Prophète ﷺ et lorsqu'ils sont arrivés à lui, ils ont dit - en le complimentant - certaines paroles qu'il ﷺ désapprouva. Ils ont dit : \" Tu es notre maître. \" Alors, il ﷺ leur a dit : \" Le Maître est Allah. \" En effet, Il possède la souveraineté complète sur Ses créatures et elles sont Ses esclaves. Ils ont dit : \" Tu es de loin le plus émérite parmi nous ! » Ils ont publiquement déclaré son rang, son honneur et sa distinction. « Et tu es le plus majestueux ! » Tu es celui qui est le plus prodigue parmi nous, le plus haut et le plus élevé. Ensuite, il ﷺ les a orientés à prononcer des paroles habituelles, ne pas se surcharger en expressions et ne pas laisser Satan les pousser à l'exagération et l'encensement qui font tomber dans ce qui a été interdit parmi le polythéisme et ses moyens qui y mènent.",
+   "grade": "Authentique",
+   "hints": [
+    "La grandeur de la valeur du Prophète ﷺ dans les âmes de ses Compagnons et leur respect envers lui.\r",
+    "L'interdiction de ne pas se surcharger dans les expressions et se montrer modéré dans les propos.\r",
+    "La protection du monothéisme contre tout ce qui peut le déprécier comme paroles et œuvres.\r",
+    "L'interdiction de l'exagération dans les compliments car c'est une porte d'entrée du Diable.\r",
+    "Le Prophète ﷺ est le maître des fils d'Adam et ce qui a été rapporté dans ce hadith fait partie de la modestie du Prophète ﷺ et de la crainte vis-à-vis d'eux qu'ils tombent dans l'exagération le concernant."
+   ],
+   "mapping": "same HadeethEnc record id 3389; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:03+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/3389",
+   "text": "ʽAbdouLlâh ibn Ach-Chikhkhîr (qu'Allah l'agrée) relate : « Je suis allé au sein d'une délégation [de la tribu] des Banu 'Âmir pour rencontrer le Messager d'Allah ﷺ.  Nous lui avons alors dit : « Tu es notre Maître ! » Il a alors dit : Le Maître est Allah ! » Nous dîmes alors : « Tu es de loin le plus émérite parmi nous et le plus majestueux ! » - Il répondit : « Dites ce que vous voulez dire, ou une partie de ce que vous voulez dire, mais que Satan ne vous pousse pas [à prononcer de mauvaises paroles] ! »",
+   "title": "Nous lui avons alors dit : « Tu es notre Maître ! » Il a alors dit : Le Maître est Allah ! » Nous dîmes alors : « Tu es de loin le plus émérite parmi nous et le plus majestueux ! » - Il répondit : « Dites ce que vous voulez dire, ou une partie de ce que vous voulez dire, mais que Satan ne vous pousse pas [à prononcer de mauvaises paroles] !",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3389",
+   "arabic_match": "exact",
+   "attribution": "HR. Abu Daud dan Ahmad",
+   "content_sha256": "sha256:acc4dac064fe336e23fe8146c8be2f29d15c518d40846c6daedb142c62872d7c",
+   "explanation": "Sekelompok orang datang menemui Nabi ﷺ. Ketika sampai, mereka mengucapkan -berniat memuji beliau- beberapa kalimat yang tidak beliau ﷺ sukai. Mereka mengatakan: Engkau sayyid (tuan) kami. Sehingga beliau ﷺ berkata kepada mereka: Sayyid sebenarnya adalah Allah. Dia pemilik kehormatan yang sempurna terhadap makhluk-Nya dan mereka adalah hamba-hamba-Nya. Mereka juga mengatakan: Engkau yang paling utama di antara kami; yang paling tinggi dalam kedudukan, kemuliaan, dan keistimewaan. Engkau juga yang paling besar dalam kebaikan di antara kami; paling banyak dalam pemberian, kemuliaan, dan kedudukan. Kemudian Nabi ﷺ mengarahkan mereka agar menggunakan ucapan-ucapan mereka yang biasa dan tidak memaksakan kata-kata, agar setan tidak menyeret mereka kepada pujian yang berlebihan yang menjerumuskan pada perbuatan haram berupa kesyirikan dan sarana-sarananya.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Keagungan kedudukan Nabi ﷺ dalam diri para sahabatnya serta penghormatan mereka kepada beliau.\r",
+    "2- Larangan berlebihan dalam berkata-kata, serta sederhana dalam ucapan.\r",
+    "3- Menjaga tauhid dari semua perkataan dan perbuatan yang dapat merongrongnya.\r",
+    "4- Larangan berlebihan dalam pujian dan termasuk merupakan pintu masuk setan.\r",
+    "5- Nabi ﷺ adalah pimpinan umat manusia, sedangkan yang disebutkan dalam hadis ini masuk dalam konteks tawaduk dan kekhawatiran beliau akan munculnya sikap berlebihan."
+   ],
+   "mapping": "same HadeethEnc record id 3389; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:03+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3389",
+   "text": "Abdullah bin Syikhīr -raḍiyallāhu 'anhu- meriwayatkan, ia berkata, Aku ikut berangkat bersama utusan Bani 'Āmir yang menemui Rasulullah ﷺ, Kami berkata, \"Engkau sayyid (tuan) kami.\" Beliau bersabda, \"As-Sayyid sebenarnya adalah Allah.\" Kami berkata, \"Engkau adalah yang paling utama dan paling besar kebaikannya di antara kami.\" Maka beliau bersabda, \"Ucapkanlah kata-kata keseharian kalian, atau beberapa kata yang wajar, dan janganlah kalian terseret oleh setan.\"",
+   "title": "Kami berkata, \"Engkau sayyid (tuan) kami.\" Beliau bersabda, \"As-Sayyid sebenarnya adalah Allah.\" Kami berkata, \"Engkau adalah yang paling utama dan paling besar kebaikannya di antara kami.\" Maka beliau bersabda, \"Ucapkanlah kata-kata keseharian kalian, atau beberapa kata yang wajar, dan janganlah kalian terseret oleh setan",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3389",
+   "arabic_match": "exact",
+   "attribution": "رواه أبو داود وأحمد",
+   "content_sha256": "sha256:ac352f19d6af4c4bbe9154c375a3a9f33b0bd3cf0f41523ddc633826381a4bac",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم کے پاس کچھ لوگ پہنچے۔ پہنچنے کے بعد انھوں نے آپ کی تعریف میں کچھ باتیں کہیں، جو آپ کو پسند نہيں آئیں۔ انھوں نے کہا : \"آپ ہمارے سید ہیں\"۔ چنانچہ اللہ کے رسول صلی اللہ علیہ و سلم نے ان سے کہا: \"سید تو اللہ ہے\"۔ اسی کے پاس مخلوقات کی مکمل سرداری ہے۔ سب اس کے غلام ہیں۔ اس کے بعد انھوں نے کہا : \"آپ ہم میں سب سے فضیلت والے\" یعنی سب سے اونچے مرتبے، شرف و منزلت اور امتیازی شان والے ہیں۔ \"اور آپ ہم میں سب سے صاحب جود و سخا\" یعنی داد و دہش کرنے والے اور اونچی شان کے حامل ہيں۔ اس کے بعد اللہ کے نبی صلی اللہ علیہ وسلم نے ان کو ہدایت کی کہ آپ کو سادہ الفاظ میں مخاطب کریں اور بھاری بھرکم الفاظ تلاش نہ کریں۔ ایسا نہ ہو کہ شیطان انہیں مبالغہ آرائی کی راہ پر لے جائے، جو شرک اور اس کے اسباب کی طرف لے جاتا ہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "اللہ کے نبی صلی اللہ علیہ و سلم کے صحابہ کے دل میں آپ کا احترام۔\r",
+    "الفاظ کے انتخاب میں تکلف سے کام لینے کی ممانعت اور گفتگو میں میانہ روی کا حکم۔\r",
+    "توحید کو ایسے اقوال و افعال سے محفوظ رکھنا، جو اس میں خلل انداز ہوتے ہيں۔\r",
+    "تعریف میں غلو سے کام لینے کی ممانعت۔ کیوں کہ یہ شیطان کا چور دروازہ ہے۔\r",
+    "اللہ کے نبی صلی اللہ علیہ و سلم اولاد آدم کے سردار ہيں۔ اس حدیث میں جو بات کہی گئی ہے، وہ تواضع کے طور پر اور اس خوف سے کہی گئی ہے کہ لوگ آپ کے بارے میں غلو نہ کرنے لگيں۔"
+   ],
+   "mapping": "same HadeethEnc record id 3389; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:02+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3389",
+   "text": "عبد اللہ بن شخیر رضی اللہ عنہ سے روایت ہے، وہ کہتے ہیں : میں بنی عامر کے ایک وفد کے ساتھ اللہ کے نبی صلی اللہ علیہ و سلم کی خدمت میں حاضر ہوا۔  وہاں پہنچ کر ہم نے کہا : آپ ہمارے سید ہیں۔ لہذا آپ نے کہا : \"سید تو اللہ ہے۔\" ہم نے عرض کیا : آپ ﷺہم میں سب سے فضیلت والے اور صاحب جود و سخا ہیں۔ تو آپ ﷺنے فرمایا: ” تم اس طرح کی بات یا اس طرح کی کچھ بات کہہ سکتے ہو۔ مگر کہیں شیطان تمھیں اپنا وکیل نہ بنا لے ( کہ کوئی ایسی بات کہہ گزرو، جو میری شان کے مطابق نہ ہو)۔\"",
+   "title": "وہاں پہنچ کر ہم نے کہا : آپ ہمارے سید ہیں۔ لہذا آپ نے کہا : \"سید تو اللہ ہے۔\" ہم نے عرض کیا : آپ ﷺہم میں سب سے فضیلت والے اور صاحب جود و سخا ہیں۔ تو آپ ﷺنے فرمایا: ” تم اس طرح کی بات یا اس طرح کی کچھ بات کہہ سکتے ہو۔ مگر کہیں شیطان تمھیں اپنا وکیل نہ بنا لے ( کہ کوئی ایسی بات کہہ گزرو، جو میری شان کے مطابق نہ ہو)۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3389",
+   "arabic_match": "exact",
+   "attribution": "艾布·达乌德和艾哈迈德辑录",
+   "content_sha256": "sha256:75ab5dc7ba9ecfdad64c393ebaa04b765b2d5c63eb493c3b892fe5d875a70051",
+   "explanation": "一伙人来见使者（愿主福安之），当他们到达时，他们用一些他（愿主福安之）不喜欢的话夸赞他。 他们说：“你是我们的领袖。” 然后使者（愿主福安之）对他们说： “领袖是安拉。” 安拉对仆人有绝对完美的领导权，而他们是他的仆人。 他们说：“你是我们中最高贵的。”即：在等级、荣耀和优秀方面都是我们中最高贵的。 “你是我们中最伟大的。”即：在恩赐、崇高和品级方面都是我们中最多的。 然后安拉的使者（愿主福安之）指导他们，让他们说他们所习惯的言语，不要刻意的制造一些褒奖之词，以免恶魔使他们过分，从而导致他们触犯安拉所禁止的以物配主及其方法的罪行。",
+   "grade": "正确的",
+   "hints": [
+    "使者（愿主福安之）在圣门弟子的心中地位之崇高，以及他们对使者的尊重。\r",
+    "避免言辞的矫揉造作，言简意赅地表达。\r",
+    "保护认主独一免受言行的侵害。\r",
+    "禁止过分的夸赞一个人，因为这是恶魔的入口之一。\r",
+    "先知（愿主福安之）是阿丹后裔的领袖，此段圣训中所提到的是出自使者的谦恭，也是担心他们可能过度尊崇。"
+   ],
+   "mapping": "same HadeethEnc record id 3389; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:03+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3389",
+   "text": "阿卜杜拉·本·舍黑尔（愿主喜悦之）传述，他说： 我随同阿米尔部族的访问团一同前往去见安拉的使者，我们说：你是我们的领袖。他说：“领袖是安拉。”我们接着说：你是我们中最优秀的，最伟大的。他说：“你们说你们所习惯的言语，以免恶魔使你们过分。”",
+   "title": "我们说：你是我们的领袖。他说：“领袖是安拉。”我们接着说：你是我们中最优秀的，最伟大的。他说：“你们说你们所习惯的言语，以免恶魔使你们过分。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

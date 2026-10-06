@@ -1,0 +1,182 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:c612e37185c7c5cef15154cead73eba077a541deba6d8ecfac748148cc90d620",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "بَيَّنَ عبدُ الله بن زيدٍ رضي الله عنه كيفيةَ وضوءِ النبيِّ صلى الله عليه وسلم، بصورة فِعليَّة، \nفطلب إناءً صغيرًا مِن ماء، \nفبدأ أوّلًا بغسل كفيه، ثم أمال الإناء وصَبَّ مِن الماء فغسلهما ثلاثًا خارج الإناء، \nثم أَدخلَ يدَه في الإناء، فاغْتَرَفَ منه ثلاثَ غَرفات يتمضمض في كل غرفة ويستنشق ويستنثر، \nثم اغترف من الإناء فغسل وجهه ثلاث مرات، \nثم اغترف منه فغسل يديه إلى المرفقين مرتين مرتين، \nثم أدخل يديه في الإناء فمسح رأسه بيديه بَدَأَ بِمُقَدَّم رأسِهِ حتى وصل إلى قَفَاه أعلى الرقبة، ثم ردَّهما حتى وصل إلى المكان الذي بدأ منه، \nثم غسل رجليه مع الكعبين.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "سُلُوْكُ المُعلِّم أقربَ الوسائل إلى الفهم ورسوخ العلم، ومن ذلك التعليم بالعمل.",
+  "جواز التكرار ثلاثًا في بعض أعضاء الوضوء واثنتين في بعضها، والواجب مرة واحدة.",
+  "وجوب الترتيب بين أعضاء الوضوء كما جاء في الحديث.",
+  "حَدُّ الوجه مِن مَنابت شعر الرأس المعتاد، إلى ما نزل من اللحية والذقن طولًا، ومن الأذن إلى الأذن عرضًا."
+ ],
+ "id": "hadeethenc-3444",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (1/ 48) (186).\nصحيح مسلم (1/ 210) (235).\nالإلمام بشرح عمدة الأحكام، لإسماعيل الأنصاري (1/ 18).\nالإفهام في شرح عمدة الأحكام، لابن باز (ص72).\nتيسير العلام شرح عمدة الأحكام، لعبد الله البسام (ص29).\nتنبيه الأفهام شرح عمدة الأحكام، لابن عثيمين (1/ 27).\nشرح العمدة للسعدي (ص 50).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3444",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:45+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3444"
+ },
+ "source_categories": [
+  {
+   "id": "444",
+   "label": "صفة الوضوء"
+  }
+ ],
+ "source_record_id": "3444",
+ "text": "عَنْ يحيى بنِ عُمَارةَ المَازِنِيِّ قَالَ: شَهِدْتُ عَمْرَو بْنَ أَبِي حَسَنٍ سَأَلَ عَبْدَ اللَّهِ بْنَ زَيْدٍ، عَنْ وُضُوءِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فَدَعَا بِتَوْرٍ مِنْ مَاءٍ، فَتَوَضَّأَ لَهُمْ وُضُوءَ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَأَكْفَأَ عَلَى يَدِهِ مِنَ التَّوْرِ، فَغَسَلَ يَدَيْهِ ثَلاَثًا، ثُمَّ أَدْخَلَ يَدَهُ فِي التَّوْرِ، فَمَضْمَضَ وَاسْتَنْشَقَ وَاسْتَنْثَرَ، ثَلاَثَ غَرَفَاتٍ، ثُمَّ أَدْخَلَ يَدَهُ فَغَسَلَ وَجْهَهُ ثَلاَثًا، ثُمَّ غَسَلَ يَدَيْهِ مَرَّتَيْنِ إِلَى المِرْفَقَيْنِ، ثُمَّ أَدْخَلَ يَدَهُ فَمَسَحَ رَأْسَهُ، فَأَقْبَلَ بِهِمَا وَأَدْبَرَ مَرَّةً وَاحِدَةً، ثُمَّ غَسَلَ رِجْلَيْهِ إِلَى الكَعْبَيْنِ.",
+ "title": "فتوضأ لهم وضوء النبي صلى الله عليه وسلم",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3444",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:db44ada5e8df9e929695a42582d8678caa06fca44ad67b6ccca34e854a6e6bdd",
+   "explanation": "‘আবদুল্লাহ ইবনু যায়েদ রাদিয়াল্লাহু ‘আনহু নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের অযুর পদ্ধতি এ হাদীসে বাস্তব চিত্রে বর্ণনা করেছেন। প্রথমত তিনি পানির ছোট একটি পাত্র চাইলেন। অতঃপর তিনি শুরুতেই হাতের তালুদ্বয় ধৌত করার মাধ্যমে অযু আরম্ভ করলেন। অতঃপর তিনি পাত্রটি কাত করে উভয় হাতের উপর পানি ঢেলে পাত্রের বাহিরে তিনবার তালুদ্বয় ধুয়ে ফেলেন। তারপর পাত্রের মধ্যে হাত ঢুকালেন এবং তিন আঁজলা পানি দিয়ে তিনবার করে কুলি করলেন এবং নাকে পানি দিয়ে তা ঝাড়লেন। অতঃপর পুনরায় পাত্রের মধ্যে হাত ঢুকিয়ে তিনবার মুখমণ্ডল ধুলেন। অতঃপর পুনরায় পাত্রের মধ্যে হাত ঢুকিয়ে উভয় হাত কনুই পর্যন্ত দু’-দু’বার ধুলেন। অতঃপর পুনরায় পাত্রের মধ্যে হাত ঢুকিয়ে তাঁর মাথা হাত দিয়ে সামনের থেকে পেছনের ঘাড়ের উপরি অংশ পর্যন্ত, অতঃপর তা আবার মাথার সামনের অংশে ফিরে এনে (সম্পূর্ণ মাথা) মাসেহ করলেন। অতঃপর টাখনুসহ দুই পা ধুলেন।",
+   "grade": "সহীহ",
+   "hints": [
+    "শিক্ষার্থীদের ইলম হৃদয়াঙ্গম হওয়া এবং তার অন্তরে গেঁথে যাওয়ার সবচেয়ে সহজ পদ্ধতিতে শিক্ষাদান করা। আর হাতে-কলমে শিক্ষা দেওয়া এর অন্যতম উপায়।\r",
+    "অযুতে কোন অঙ্গ তিনবার আবার কোন অঙ্গ দু’বার ধৌত করা জায়েয, তবে ফরয হলো একবার।\r",
+    "অযুতে প্রতিটি অঙ্গ ধোয়ার সময় ধারাবাহিকতা বজায় রাখা ফরয, যেমনটি হাদীসে এসেছে।\r",
+    "মুখমণ্ডলের সীমা হলো দৈর্ঘ্যে মাথার স্বাভাবিক চুল গজানোর স্থান থেকে দাড়ি ও থুতনির নীচ পর্যন্ত এবং প্রস্থে এক কান থেকে আরেক কান পর্যন্ত।"
+   ],
+   "mapping": "same HadeethEnc record id 3444; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:46+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3444",
+   "text": "ইয়াহইয়া ইবন ‘উমারাহ আল-মাযেনী রহ. থেকে বর্ণিত, তিনি বলেন: আমি একদা ‘আমর ইবনু আবূ হাসান রাদিয়াল্লাহু ‘আনহুর নিকট উপস্থিত ছিলাম। তিনি ‘আবদুল্লাহ ইবনু যায়েদ রাদিয়াল্লাহু ‘আনহুকে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের অযু সম্পর্কে প্রশ্ন করলেন। অতঃপর তিনি পানির একটি পাত্র আনতে বললেন। অতঃপর তিনি তাঁদের (দেখাবার) জন্য নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের অযুর মতো অযু করলেন। তিনি পাত্রটি কাত করে উভয় হাতের উপর পানি ঢেলে তিনবার তা ধুয়ে ফেলেন। তারপর পাত্রের মধ্যে হাত ঢুকালেন এবং তিন আঁজলা পানি দিয়ে তিনবার করে কুলি করলেন এবং নাকে পানি দিয়ে তা ঝাড়লেন। অতঃপর পুনরায় পাত্রের মধ্যে হাত ঢুকিয়ে তিনবার মুখমণ্ডল ধুলেন। অতঃপর পুনরায় পাত্রের মধ্যে হাত ঢুকিয়ে উভয় হাত কনুই পর্যন্ত দু’-দু’বার ধুলেন। অতঃপর পুনরায় পাত্রের মধ্যে হাত ঢুকিয়ে তাঁর উভয় হাত সামনে থেকে পেছনে নিয়ে মাসেহ করলেন। তারপর টাখনুসহ  দুই পা ধুলেন।",
+   "title": "অতঃপর তিনি তাঁদের (দেখাবার) জন্য নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের অযুর মতো অযু করলেন।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3444",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:d20e079dcd153d3c319996e118846517e0519a909ab0e3614a5aff7b740b50af",
+   "explanation": "‘Abdullah ibn Zayd (may Allah be pleased with him) clarified how the Prophet (may Allah's peace and blessings be upon him) used to perform ablution practically. He asked for a small water container. First, he started by washing his hands; he tilted the container, poured water, and washed them thrice outside the container. Then, he put his hand inside the container and took three handfuls of water, and with each handful of water, he rinsed his mouth, sniffed water into his nostrils, and blew it out. After that, he took water from the container and washed his face thrice. Then, he took water therefrom and washed his hands up to the elbows twice each. He again put his hand in the container and wiped over his head with both hands, starting from the hairline and back to the nape, the upper part of the neck, and then returned them to the place where he started from. After that, he washed his feet along with the ankles.",
+   "grade": "Authentic",
+   "hints": [
+    "The teacher's conduct is the closest way to understanding and establishing knowledge and this includes teaching by actions.\r",
+    "It is permissible to repeat washing some of the body parts of ablution three times and some two times; however, once is obligatory.\r",
+    "It is obligatory to observe the prescribed order of the body parts of ablution as mentioned in the Hadīth.\r",
+    "The facial limits extend from the natural hairline to the bottom of the beard and chin lengthwise and between the ears crosswise."
+   ],
+   "mapping": "same HadeethEnc record id 3444; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:46+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3444",
+   "text": "Yahya ibn ‘Umārah al-Māzini reported: I witnessed 'Amr ibn Abi Hasan asking 'Abdullah ibn Zayd about the ablution of the Prophet (may Allah's peace and blessings be upon him), so he asked for a vessel of water and performed ablution like that of the Prophet (may Allah's peace and blessings be upon him) in front of them. He poured water from the vessel on his hand, washing his hands thrice. Then, he put his hand inside the vessel, rinsed his mouth, sniffed water, and blew it out with three handfuls. He put his hand in the water again and washed his face thrice. Then, he washed his hands twice up to the elbows, after which he put his hand in the water and wiped over his head, bringing them to the front and the back of his head once. Then, he washed his feet up to the ankles.",
+   "title": "and performed ablution like that of the Prophet (may Allah's peace and blessings be upon him) in front of them",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=3444",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:564caaa5a4a973be96f92615a780368d7f3e3e5e69f5717fc1c8347857606a2a",
+   "explanation": "'AbdaLlah ibn Zayd (qu'Allah l'agrée) explique de manière pratique la façon dont le Prophète ﷺ effectuait ses ablutions. Il demanda donc un petit récipient d'eau. Premièrement, il commença par se laver les deux mains, ensuite il se pencha vers le récipient et versa de l'eau sur ses mains qu'il lava trois fois, à l'extérieur du récipient. Puis, il introduisit sa main dans le récipient, prit trois poignées qu'il mit dans sa bouche et son nez ; à chaque poignée, il se gargarisait la bouche, en mettait dans le nez et expulsait et recrachait l'eau à chaque fois. Ensuite, il reprit de l'eau du récipient et se lava le visage trois fois. Puis, il reprit de l'eau du récipient et se lava les bras jusqu'aux coudes, deux fois. Ensuite, il remit ses mains dans le récipient et s'essuya la tête de ses mains en commençant par l'avant de la tête jusqu'à parvenir à la nuque puis il revenait vers l'avant jusqu'à parvenir là où il avait commencé. Enfin, il se lavait les pieds jusqu'aux chevilles.",
+   "grade": "Authentique",
+   "hints": [
+    "La conduite de l'enseignant est le plus proche des moyens pour faire comprendre la science et l'enraciner. Et parmi cela, il y a l'apprentissage par la pratique.\r",
+    "La permission de faire trois fois certains membres des ablutions, ou deux fois pour certains autres ; l'obligation étant au minimum une fois.\r",
+    "L'obligation de la succession entre les membres des ablutions comme cela a été rapporté dans ce hadith.\r",
+    "La délimitation du visage va des racines des cheveux de la tête de manière habituelle jusqu'à ce qui descend de la barbe et du menton, en longueur ; et en largeur, cela va d'une oreille à l'autre."
+   ],
+   "mapping": "same HadeethEnc record id 3444; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:46+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/3444",
+   "text": "D'après Yahyâ ibn 'Ummarah Al Mâzinî qui a dit : « J’ai vu ‘Amrû ibn Abî Ḥassan interroger ‘AbdaLlah ibn Zayd à propos des ablutions du Prophète ﷺ. Alors, il [Ibn Zayd] demanda un petit récipient d'eau  et fit ses ablutions devant eux comme le Prophète ﷺ les faisait.  Il pencha le récipient et versa [de l’eau] sur ses mains et les lava à trois reprises. Ensuite, il plongea ses mains dans le récipient, et se rinça la bouche et le nez trois fois, en reprenant de l’eau à chaque reprise. Puis, il plongea de nouveau ses mains dans le récipient et se lava le visage trois fois. Ensuite, il introduisit ses mains une nouvelle fois dans le récipient, et se lava les bras jusqu’aux coudes, deux fois. Puis, il introduisit de nouveau ses mains [dans le récipient] et s’essuya la tête, de l'avant vers l’arrière et inversement, une seule fois. Enfin, il se lava les pieds jusqu'aux chevilles. »",
+   "title": "et fit ses ablutions devant eux comme le Prophète ﷺ les faisait",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3444",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:60dfeda0d350684e16eb515594534b7ac1e9456517a08ef9dc30a3e17c1a22cd",
+   "explanation": "Abdullah bin Zaid -raḍiyallāhu 'anhu- menerangkan tata cara wudu Nabi ﷺ langsung dengan cara praktik. Dia meminta bejana kecil berisi air, lalu pertama-tama membasuh dua telapak tangan, dengan memiringkan wadah tersebut dan menuangkan air seraya membasuh keduanya tiga kali. Kemudian dia memasukkan tangannya di wadah, lalu mengambil tiga kali cidukan seraya berkumur-kumur, memasukkan ke dalam hidung dan mengeluarkannya di setiap cidukan. Kemudian dia mengambil air dari bejana seraya membasuh wajah tiga kali. Selanjutnya dia mengambil air lagi, lalu membasuh kedua tangan sampai siku, masing-masing dua kali. Kemudian dia memasukkan tangannya lagi di wadah lalu mengusap kepala dengan dua tangannya, dimulai dari depan kepala sampai tengkuknya bagian atas leher, lalu menariknya kembali ke tempat pertama mulai. Kemudian membasuh kedua kaki beserta dua mata kaki.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Seorang guru seharusnya menggunakan sarana termudah untuk mewujudkan pemahaman dan pengetahuan yang kukuh, di antaranya ialah pengajaran dengan metode praktik.\r",
+    "2- Boleh mengulang pembasuhan tiga kali di beberapa anggota wudu dan dua kali di anggota lainnya, sedangkan yang wajib ialah satu kali.\r",
+    "3- Pembasuhan anggota wudu harus dilakukan secara berurutan seperti yang disebutkan di dalam hadis.\r",
+    "4- Batasan wajah secara vertikal ialah dari tempat normal tumbuhnya rambut hingga ke bawah jenggot dan dagu, dan secara horizontal dari telinga ke telinga satunya."
+   ],
+   "mapping": "same HadeethEnc record id 3444; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:46+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3444",
+   "text": "Yaḥyā bin 'Umārah Al-Māzini meriwayatkan, ia berkata, \"Aku pernah menyaksikan 'Amr bin Abu Hasan bertanya kepada Abdullah bin Zaid mengenai wudu Nabi ﷺ? Lantas Abdullah bin Zaid meminta satu wadah air. Dia memperagakan praktik wudu Nabi ﷺ kepada mereka. Ia menuangkan air dari wadah itu ke kedua tangannya lalu membasuh kedua tangannya tiga kali. Setelah itu ia memasukkan tangannya ke wadah lalu berkumur-kumur, memasukkan air ke hidung dan membuangnya tiga kali dengan tiga kali cidukan. Kemudian ia memasukkan tangannya lalu membasuh wajahnya tiga kali. Selanjutnya ia memasukkan tangannya ke wadah lalu membasuh keduanya hingga siku. Lantas ia memasukkan tangannya ke wadah lalu mengusap kepala. Dia mengusap bagian kepalanya dari bagian depan lalu ke belakang satu kali, lalu membasuh kedua kakinya hingga dua mata kaki.\"",
+   "title": "Dia memperagakan praktik wudu Nabi ﷺ kepada mereka",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3444",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:0b62ace37e1c999d061ef92ae811d618e5bfe23b4c284d98846989c479818a6e",
+   "explanation": "یہاں عبداللہ بن زید رضی اللہ عنہ نے عملی طور پر اللہ کے نبی صلی اللہ علیہ و سلم کے وضو کا طریقہ بیان فرمایا ہے۔ انھوں نے پانی کا ایک چھوٹا سا برتن منگوایا۔ سب سے پہلے اپنی دونوں ہتھیلیوں کو دھویا۔ وہ اس طرح کہ برتن کو جھکا کر دونوں ہتھیلیوں پر پانی ڈالا اور ان کو تین بار برتن سے باہر دھویا۔ پھر اپنا ہاتھ برتن میں ڈال کر تین چلو پانی لیا اور ہر چلو سے کلی کی، ناک میں پانی چڑھایا اور ناک جھاڑی۔ پھر برتن سے تین چلو پانی لے کر تین بار اپنے چہرے کو دھویا۔ پھر اس سے دو دو چلو پانی لے کر دونوں ہاتھوں کو کہنیوں سمیت تین تین بار دھویا۔ پھر برتن میں ہاتھ ڈالا اور دونوں ہاتھوں سے اپنے سر کا مسح کیا۔ مسح کا آغاز سر کے اگلے حصے سے کیا اور گردن کے اوپری حصے میں واقع گدی تک پہنچے۔ پھر دونوں ہاتھوں کو واپس وہیں لائے، جہاں سے آغاز کیا تھا۔ پھر دونوں پیروں کو ٹخنوں سمیت دھویا۔",
+   "grade": "صحيح",
+   "hints": [
+    "معلم کا طرز عمل بات کو سمجھانے اور ذہن نشین کرنے کا سب سے کارگر ذریعہ ہے۔ عمل کے ذریعے تعلیم بھی اس کی ایک مثال ہے۔\r",
+    "وضو کے کچھ اعضا کو تین تین بار اور کچھ کو دو دو بار دھونا جائز ہے۔ اور ایک ایک بار دھونا واجب ہے۔\r",
+    "اعضائے وضو کے درمیان اسی ترتیب کا خیال رکھنا ضروری ہے، جو اس حدیث میں مذکور ہے۔\r",
+    "چہرے کی حد سر کے بال اگنے کی عام جگہ سے داڑھی اور ٹھڈی کے نچلے حصے تک اور چوڑائی میں ایک کان سے دوسرے کان تک ہے"
+   ],
+   "mapping": "same HadeethEnc record id 3444; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:46+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3444",
+   "text": "یحی بن عمارہ مازنی سے روایت ہے، وہ کہتے ہيں : میں نے عمرو بن ابو حسن کو دیکھا کہ انھوں نے عبداللہ بن زید رضی اللہ عنہ سے رسول اللہ صلی اللہ علیہ وسلم کے وضو کے بارے میں پوچھا، تو انہوں نے پانی کا ایک برتن منگوایا اور انہیں اللہ کے نبی صلی اللہ علیہ و سلم کی طرح وضو کر کے دکھایا۔ انھوں نے برتن سے اپنے دونوں ہاتھوں پر پانی ڈالا اور تین بار اپنے ہاتھ دھوئے۔ پھر اپنا ہاتھ برتن میں ڈالا اور تین چلوؤں سے کلی کی، ناک میں پانی چڑھایا اور اسے صاف کیا۔ پھر اپنا ہاتھ برتن میں ڈالا اور تین مرتبہ اپنا چہرہ دھویا۔ پھر اپنے دونوں ہاتھوں کو کہنیوں تک دو بار دھویا۔ پھر اپنا ہاتھ برتن میں ڈالا اور اپنے سر کا مسح کیا۔ ہاتھ کو ایک مرتبہ آگے سے پیچھے لے گئے اور پیچھے سے آگے لے آئے۔ پھر دونوں پیروں کو ٹخنوں تک دھویا۔",
+   "title": "انہیں اللہ کے نبی صلی اللہ علیہ و سلم کی طرح وضو کر کے دکھایا۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3444",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:d9d05496eaed9a62b5dcc3dc68741f1cb28e148dc693278338c96b2e535035b2",
+   "explanation": "阿卜杜拉·本·宰德（愿主喜悦之）用实际行动向大家阐明了使者（愿主福安之）的小净式样， 他要来了一小器皿水。 首先开始洗双手，他将器皿倾斜以便将水倒在自己的手上，然后在器皿外清洗了双手。 然后他将手伸进器皿内，从中捞起三捧水，他用每一捧水漱口和呛鼻。 然后他从器皿内捧水洗脸三次。 然后捧水洗双手直至双肘两次。 然后他将双手伸进器皿取水抹头，从前额开始一直到后脑，即脖颈的最高处，然后在从后脑返回到前额， 然后洗双脚直至脚踝骨。",
+   "grade": "正确的",
+   "hints": [
+    "老师的行为是教授知识，易于理解的最佳教授途径，其中就有通过示范教导。\r",
+    "允许部分肢体洗三次，部分肢体洗两次，洗一次是主命。\r",
+    "洗小净时必须按照圣训中的次序依次清洗。\r",
+    "脸的界线：从前额的发根开始，往下直至胡须和下巴，宽即两耳之间的距离。"
+   ],
+   "mapping": "same HadeethEnc record id 3444; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:46+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3444",
+   "text": "叶哈亚·本·欧玛拉·玛宰尼传述，他说： 我看到阿穆尔·本·艾布·哈桑向阿卜杜拉·本·宰德询问关于使者（愿主福安之）洗小净的问题，然后他便要来一器皿水，他为大家演示了一遍先知（愿主福安之）的小净模式，他用器皿往手上倒水，洗手三次。然后将手伸进器皿内捞水，用三捧水漱口和呛鼻，然后又用手捞水洗脸三次，洗双手直至双肘。然后用手捞水抹头，双手从额头开始直至脑后，再返回来抹头一次，然后洗双脚直至两踝骨。",
+   "title": "他为大家演示了一遍先知（愿主福安之）的小净模式",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [
+  {
+   "meaning": "  الإناء الصغير.",
+   "word": "التور"
+  }
+ ],
+ "words_meanings_language": "ar"
+}

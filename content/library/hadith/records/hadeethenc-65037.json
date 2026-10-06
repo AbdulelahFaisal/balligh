@@ -1,0 +1,176 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:4cc7220d3b21953aa58a9d466adb7f2364f16dc4a13a35c40a584912b5ec8068",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "قال ابن مسعود: حدثنا رسول الله صلى الله عليه وسلم وهو الصادق في قوله، والمصدوق حيث صَدَقَه الله تعالى، \nقال: إن أحدكم يُجمع خلقه، وذلك أن الرجل إذا أتى أهله فمَنِيُّه المتفرِّق يُجمع في بطن المرأة أربعين يومًا نطفة، \nثم يكون علقة وهي الدم الغليظ الجامد، وهذا في الأربعين الثانية، \nثم يكون مضغة وهي قطعة من اللحم قدر ما يُمضَغ، وهذا في الأربعين الثالثة، \nثم يرسِل الله إليه الملك، فينفخ فيه الروح بعد انتهاء الأربعين الثالثة، \nويُؤمر الملك أن يكتب أربع كلمات وهي: رزقه، وهو ما مقدار ما سيحصل عليه من النعم في عمره، \nوأجله، وهو مدة بقائه في الدنيا، \nوعمله، ما هو؟ وشقيٌ أو سعيد. \nثم أقسم النبي صلى الله عليه وسلم أن الواحد ليعمل بعمل أهل الجنة ويكون عمله صالحًا، أي فيما يظهر للناس، ويظل كذلك حتى ما يكون بينه وبين الجنة إلا ذراع، أي: ما يبقى بينه وبين أن يصلها إلا كمن بقي بينه وبين موضع من الأرض ذراع، فيغلب عليه الكتاب وما قُدِّر عليه فعند ذلك يعمل بعمل أهل النار فيُختم له به فيدخل النار؛ \nلأن شرط قبول عمله أن يثبت عليه ولا يُبدِّل، وآخر من الناس يعمل أعمال أهل النار حتى يقترب من أن يدخلها، وكأن بينه وبين النار مقدار ذراع من الأرض، فيغلب عليه الكتاب وما قُدِّر عليه فيعمل بعمل أهل الجنة فيختم له بذلك فيدخل الجنة.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "الخوف من سوء العاقبة، والحث على سؤال الله الثبات إلى الممات.",
+  "التحذير من الاغترار بصور الأعمال؛ فإنما الأعمال بالخواتيم.",
+  "هذا الحديث في حق من لا يعمل إخلاصا وإيمانا، بل يعمل بعمل أهل الجنة فيما يبدو للناس فقط، أما من يعمل بعمل أهل الجنة حقيقة، إخلاصا وإيمانا، فالله تعالى أعدل وأكرم وأرحم من أن يخذله في نهاية عمره، قال تعالى : ( يُثَبِّتُ اللَّهُ الَّذِينَ آمَنُوا بِالْقَوْلِ الثَّابِتِ فِي الْحَيَاةِ الدُّنْيَا وَفِي الْآخِرَةِ وَيُضِلُّ اللَّهُ الظَّالِمِينَ وَيَفْعَلُ اللَّهُ مَا يَشَاءُ )."
+ ],
+ "id": "hadeethenc-65037",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (9/ 135) (7454)، (4/ 111) (3208)، صحيح مسلم (4/ 2036) (2643)، عمدة القاري شرح صحيح البخاري (15/ 130)، شرح الأربعين النووية للعثيمين (ص: 84).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=65037",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:32+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/65037"
+ },
+ "source_categories": [
+  {
+   "id": "63",
+   "label": "الإيمان باليوم الآخر"
+  },
+  {
+   "id": "75",
+   "label": "الملائكة"
+  },
+  {
+   "id": "86",
+   "label": "مراتب القضاء والقدر"
+  },
+  {
+   "id": "88",
+   "label": "الإسلام"
+  }
+ ],
+ "source_record_id": "65037",
+ "text": "عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ: حَدَّثَنَا رَسُولُ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَهُوَ الصَّادِقُ المَصْدُوقُ: «أَنَّ خَلْقَ أَحَدِكُمْ يُجْمَعُ فِي بَطْنِ أُمِّهِ أَرْبَعِينَ يَوْمًا وَأَرْبَعِينَ لَيْلَةً، ثُمَّ يَكُونُ عَلَقَةً مِثْلَهُ، ثُمَّ يَكُونُ مُضْغَةً مِثْلَهُ، ثُمَّ يُبْعَثُ إِلَيْهِ المَلَكُ، فَيُؤْذَنُ بِأَرْبَعِ كَلِمَاتٍ، فَيَكْتُبُ: رِزْقَهُ وَأَجَلَهُ وَعَمَلَهُ وَشَقِيٌّ أَمْ سَعِيدٌ، ثُمَّ يَنْفُخُ فِيهِ الرُّوحَ، فَإِنَّ أَحَدَكُمْ لَيَعْمَلُ بِعَمَلِ أَهْلِ الجَنَّةِ حَتَّى لاَ يَكُونُ بَيْنَهَا وَبَيْنَهُ إِلَّا ذِرَاعٌ، فَيَسْبِقُ عَلَيْهِ الكِتَابُ، فَيَعْمَلُ بِعَمَلِ أَهْلِ النَّارِ فَيَدْخُلُ النَّارَ، وَإِنَّ أَحَدَكُمْ لَيَعْمَلُ بِعَمَلِ أَهْلِ النَّارِ حَتَّى مَا يَكُونُ بَيْنَهَا وَبَيْنَهُ إِلَّا ذِرَاعٌ، فَيَسْبِقُ عَلَيْهِ الكِتَابُ، فَيَعْمَلُ عَمَلَ أَهْلِ الجَنَّةِ فَيَدْخُلُهَا».",
+ "title": "حدثنا رسول الله صلى الله عليه وسلم وهو الصادق المصدوق: أن خلق أحدكم يجمع في بطن أمه أربعين يوما وأربعين ليلة",
+ "topic": "understanding_islam",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=65037",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:0d4582b6a43f8ee5045bc722cc977684e987f069d4a92a515c0203e8c78f00e3",
+   "explanation": "ইবনু মাস‘ঊদ রদিয়াল্লাহু ‘আনহু বলেছেন: আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম আমাদেরকে হাদীস বর্ণনা করেছেন। আর তিনি তার বর্ণনার ব্যাপারে সত্যবাদী এবং তিনি সত্যবাদী হিসেবে প্রত্যায়িত, যেহেতু আল্লাহ তা‘আলা তাকে সত্যায়ন করেছেন। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন: নিশ্চয় তোমাদের যে কোন ব্যক্তির সৃষ্টির ধরন হলো: যখন কোন ব্যক্তি তার স্ত্রীর কাছে গমন করে, তখন স্ত্রীর গর্ভে পৃথক হওয়া বীর্য চল্লিশ দিন পর্যন্ত নুত্বফা হিসেবে (নিষিক্ত অবস্থায় থাকে। এরপরে তা ‘আলাক্বায় পরিণত হয়, আর তা হল- জমাট রক্তপিণ্ড। আর এ অবস্থায় দ্বিতীয় চল্লিশ দিন অতিবাহিত হয়। তারপর তা চিবানো যাওয়া পরিমাণ মাংসের টুকরাতে পরিণত হয়। আর এ অবস্থায় তৃতীয় চল্লিশ দিন অতিবাহিত হয়। তারপরে আল্লাহ তা‘আলা তার প্রতি ফেরেশতা প্রেরণ করেন, তৃতীয় চল্লিশ দিন পার হওয়ার পরে উক্ত ফেরেশতা তার মধ্যে রূহ ফুঁকে দেন। এবং ফেরেশতাকে চারটি বিষয় লিখার আদেশ দেওয়া হয়: তা হচ্ছে- তার রিযিক, উক্ত ব্যক্তি তার গোটা জীবনে কী পরিমাণ নি‘আমাত ভোগ করবে। এবং তার সময়কাল, তথা- দুনিয়াতে তার অবস্থান কাল। তার আমল: সে কী হবে? দুর্ভাগা নাকি সৌভাগ্যবান। তারপরে নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম কসম করেছেন যে, একজন ব্যক্তি জান্নাতীদের আমলই করতে থাকে। তার্গেআমললো মানুষের বাহ্যিক দৃষ্টিতে নেক আমলই হয়। এমনকি তার ও জান্নাতের মধ্যে মাত্র একগজ দূরত্ব বাকী থাকে, অর্থ্যাৎ: জান্নাতে প্রবেশ করা ও তার মধ্যে মাত্র এতটুকু দূরত্ব থাকে, যেভাবে কোন ভুমিতে প্রবেশের সময় একগজ পরিমাণ দূরত্ব বাকী থাকে। তখন তার ভাগ্য-লিখন ও তার জন্য নির্ধারিত বিষয় তার দিকে অগ্রসর হয়, এ সময়ে সে জাহান্নামীদের ন্যায় আমল করে, আর এটিই তার শেষ অবস্থা হয়, এ কারণে সে জাহান্নামে প্রবেশ করে। কেননা আমল কবূল হওয়ার জন্য তার উপরে সুদৃঢ় থাকা এবং (অবস্থার) পরিবর্তন না করা শর্ত। অপরপক্ষে মানুষের মধ্যে এমন একদল মানুষ রয়েছে, যারা জাহান্নামীদের মত আমল করে সেখানে প্রবেশের কাছাকছি চলে যায়, এমনকি তার মধ্যে এবং জাহান্নামের মধ্যে মাত্র একগজ যমীন পরিমাণ দূরত্ব বাকী থাকে। তখন তার ভাগ্য-লিখন ও তার জন্য নির্ধারিত বিষয় তার দিকে অগ্রসর হয়, তখন সে জান্নাতীদের মত আমল করতে থাকে এবং জান্নাতে প্রবেশ করে।",
+   "grade": "সহীহ",
+   "hints": [
+    "প্রতিটি কাজের শেষ ও চূড়ান্ত গন্তব্য পূর্ব-নির্ধারিত সিদ্ধান্ত ও তাকদীরের প্রতিই প্রত্যাবর্তিত হবে।\r",
+    "আমলের আকৃতিতে প্রতারিত হওয়া থেকে সতর্ক করা হয়েছে; কেননা শেষ আমলই ধর্তব্য।"
+   ],
+   "mapping": "same HadeethEnc record id 65037; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:26+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/65037",
+   "text": "আব্দুল্লাহ ইবনু মাস‘ঊদ রদিয়াল্লাহু ‘আনহু হতে বর্ণিত: আমাকে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হাদীস বর্ণনা করেছেন আর তিনি হচ্ছেন সত্যবাদী এবং সত্যবাদী হিসেবে প্রত্যায়িত: “নিশ্চয় তোমাদের যে কোন ব্যক্তি তার মায়ের পেটে চল্লিশ দিন ও চল্লিশ রাত অবস্থান করে, তারপরে একটি জমাট রক্ত হিসেবে অনুরূপ অবস্থান করে, তারপরে একটি গোশতের টুকরা হিসেবে অনুরূপ অবস্থান করতে থাকে। তারপরে আল্লাহ সেখানে ফেরেশতা পাঠান। তাকে চারটি বিষয়ের আদেশ করা হয় এবং সে তা লিপিবদ্ধ করে দেন: ব্যক্তির রিযিক, তার জীবন, তার কর্মকাণ্ড এবং সে সৌভাগ্যবান নাকি হতভাগ্য। তারপরে তার মধ্যে রূহ ফুঁকে দেওয়া হয়। সুতরাং তোমাদের কেউ জান্নাতের আমল করতে থাকবে, এমনকি তার মধ্যে এবং জান্নাতের মধ্যে মাত্র এক গজ দূরত্ব থাকবে, তখন তার দিকে লিপিবদ্ধ (তাকদীর) এগিয়ে আসবে আর সে জাহান্নামীদের ন্যায় আমল করতে থাকবে, ফলশ্রুতিতে সে জাহান্নামে প্রবেশ করবে। আবার তোমাদের কেউ জাহান্নামীদের ন্যায় আমল করতে থাকবে, এমনকি তার মধ্যে এবং জাহান্নামের মধ্যে মাত্র এক গজ দূরত্ব থাকবে, তখন তার দিকে লিপিবদ্ধ (তাকদীর) এগিয়ে আসবে আর সে জান্নাতীদের ন্যায় আমল করতে থাকবে, ফলশ্রুতিতে সে জান্নাতে প্রবেশ করবে।",
+   "title": "আমাকে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হাদীস বর্ণনা করেছেন আর তিনি হচ্ছেন সত্যবাদী এবং সত্যবাদী হিসেবে প্রত্যায়িত: “নিশ্চয় তোমাদের যে কোন ব্যক্তি তার মায়ের পেটে চল্লিশ দিন ও চল্লিশ রাত অবস্থান করে",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=65037",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:d6b5de0d7a71a50f166df06e2404ce0d49adca2351dd6986cf0a13c5b637f117",
+   "explanation": "Ibn Mas‘ūd reported: The Messenger of Allah (may Allah's peace and blessings be upon him) related to us, and he is the truthful one in his speech, and the trusted one, as Allah Almighty endorsed him. He said: The creation of each one of you is brought together. When a man copulates with his wife, his scattered semen is brought together in the woman's womb as a sperm-drop for forty days. Then, he becomes a clinging clot for another forty days. Then, he becomes a lump, which is a piece of chewable flesh, for a third period of forty days. Then, Allah sends to him the angel, who breathes life into him after the end of the third period. The angel is commanded to write four things: his sustenance, which is the amount of bliss he will gain during his lifetime; his lifespan, which is the duration of his stay in this world; and his deeds, as to what they will be; and whether he will be miserable or happy. Then, the Prophet (may Allah's peace and blessings be upon him) swore that a person might perform the righteous deeds of the people of Paradise, as they outwardly seem, and he continues in this state until there is only an arm's length (a cubit) between him and Paradise; that is, only a cubit separates him from reaching Paradise. But then destiny overtakes him, and thereupon he performs the deeds of the people of Hellfire, and they become his last deeds, and so he enters Hellfire. This is because it is required for a person's virtuous deeds to be accepted and that he continues to do them and not change course. There is another type of people, who perform the deeds of the people of Hellfire until they are close to entering it, as if only a cubit is separating between them. But then destiny overtakes them, and they begin to perform the deeds of Paradise, and they enter it.",
+   "grade": "Authentic",
+   "hints": [
+    "The outcome of things goes in the course determined by divine decree and predestination.\r",
+    "The Hadīth warns us of getting deceived by the appearance of deeds, for deeds are only judged by their endings."
+   ],
+   "mapping": "same HadeethEnc record id 65037; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:26+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/65037",
+   "text": "‘Abdullāh ibn Mas‘ūd (may Allah be pleased with him) reported: The Messenger of Allah (may Allah’s peace and blessings be upon him) related to us, and he is the truthful and the trusted one; he said: \"The creation of each one of you is brought together in his mother's womb for forty days and forty nights. Then, he becomes a clinging clot for a similar period, then a lump (of flesh) for a similar period. Then, there is sent to him the angel who is commanded to write down four things: his sustenance, lifespan, actions, and whether miserable or happy. Then, he breathes life into him. One of you would do the actions of the people of Paradise until there is an arm's length between him and Paradise, but the predestination overtakes him, causing him to do actions of the people of Hellfire, and he enters it; and one of you would do the actions of the people of Hellfire until he is an arm's length away from Hellfire, but the predestination overtakes him, causing him to do deeds of the people of Paradise, and he enters it.\"",
+   "title": "The Messenger of Allah (may Allah’s peace and blessings be upon him) related to us, and he is the truthful and the trusted one; he said: \"The creation of each one of you is brought together in his mother's womb for forty days and forty nights",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=65037",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:6ae9ae4de818ee5b4bda12c491c0ad9219d3b3ceb910b03c63faf3638976a5c5",
+   "explanation": "Ibn Maso'ûd a dit : \"Le Messager d'Allah (qu’Allah le couvre d’éloges et le préserve), qui est le véridique\" dans sa parole, \"et reconnu comme tel\" étant donné qu'Allah, Exalté soit-Il, l'a déclaré véridique, a dit : \"La conception de l'un d’entre vous\" à savoir que lorsque l'homme a un rapport avec son épouse, son sperme disséminé se rassemble dans l'utérus de celle-ci, durant quarante jours, sous la forme d'une goutte, ensuite, cela devient une adhérence, c'est-à-dire : du sang épais et solide, durant une seconde quarantaine ; puis, cela devient un morceau, c'est-à-dire : un morceau de chair de la taille de quelque chose mâchée, et ceci durant la troisième quarantaine ; ensuite, Allah lui envoie l'Ange qui lui insuffle l'âme après la fin de la troisième quarantaine. On ordonne alors à l'Ange d'écrire quatre affaires qui sont : sa subsistance, qui correspond à la somme de bienfaits que la personne obtiendra dans sa vie, son terme, qui est la durée de sa vie en ce bas monde, son œuvre, quelle est-elle ? Et s'il sera malheureux ou bienheureux. Puis, le Prophète (qu’Allah le couvre d’éloges et le préserve) a appuyé sur le fait qu'il se peut qu'une personne accomplisse les œuvres des gens du Paradis et que ses actions soient vertueuses, c'est-à-dire : ce qu'il en apparaît aux gens, et qu'il perdure ainsi au point qu'il n'y ait plus, entre lui et le Paradis, que l'espace d'une coudée, c'est-à-dire : que ce qu'il reste entre lui et le fait d'y parvenir ne soit plus que l'équivalent d'une très petite distance séparant une personne d'un point donné sur terre. Puis, le Livre prend le dessus sur lui, ainsi que ce qui a été décrété à son sujet, il accomplit alors une œuvre des gens de l'Enfer, achève sa vie sur celle-ci et entre en Enfer. En effet, la condition d'acceptation de son œuvre est qu'il s'y tienne fermement et n'en change pas. Tandis qu'il se peut qu'une autre personne accomplisse les œuvres des gens de l'Enfer au point d'être proche d'y entrer, comme s'il n'y avait plus, entre elle et l'Enfer, que la distance d'une coudée de terre, puis que le Livre prenne le dessus sur elle, ainsi que ce qui a été décrété à son sujet, et qu'elle accomplisse alors une œuvre des gens du Paradis et y entre.",
+   "grade": "Authentique",
+   "hints": [
+    "Le terme des affaires quant à l'issue finale se fait selon ce qui a été prédestiné et en fonction de ce qui a été décrété.\r",
+    "La mise en garde contre le fait d'être trompé par les apparences des œuvres ; en effet, les œuvres n'ont de valeur qu'en fonction de ce sur quoi elles se concluent."
+   ],
+   "mapping": "same HadeethEnc record id 65037; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:27+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/65037",
+   "text": "Abdoullâh ibn Masʽoûd (qu'Allah l'agrée) relate : « Le Messager d'Allah (qu’Allah le couvre d’éloges et le préserve), qui est le véridique et reconnu comme tel, nous a relaté : \"La conception de l'un d’entre vous, dans le ventre de sa mère, prend quarante jours et quarante nuits ; ensuite il prend la forme d'une adhérence pour une même période ; puis, celle d’un morceau de chair pour une même période. Un Ange lui est alors envoyé qui reçoit l’ordre d’écrire quatre décisions : sa subsistance, son terme de vie, son œuvre et s'il sera malheureux ou bienheureux. Ensuite, il lui insuffle l'âme. L’un d'entre vous accomplit certes les œuvres des gens du Paradis jusqu'à ce qu’il ne reste plus entre lui et le Paradis qu’une coudée ; c’est alors que l'Écriture le précède, il accomplit une œuvre des gens de l’Enfer, et il y entre ! Et l'un d'entre vous accomplit les œuvres des gens de l’Enfer jusqu'à ce qu’il ne reste plus entre lui et l’Enfer qu’une coudée ; c’est alors que l'Écriture le précède, il accomplit une œuvre des gens du Paradis, et il y entre ! »",
+   "title": "Le Messager d'Allah (qu’Allah le couvre d’éloges et le préserve), qui est le véridique et reconnu comme tel, nous a relaté : \"La conception de l'un d’entre vous, dans le ventre de sa mère, prend quarante jours et quarante nuits",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=65037",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:31989971ecf2158a08b854a54fb1ed2b9a42c1aa56290ad0ddf8b0b36ff6f9d0",
+   "explanation": "Ibnu Mas'ud -raḍiyallāhu 'anhu- berkata, Rasulullah ﷺ bercerita kepada kami dan beliau adalah orang yang jujur dalam perkataannya dan terpercaya, di mana beliau dinyatakan oleh Allah Ta'ala sebagai sosok yang jujur. Beliau bersabda: Sungguh, seseorang di antara kalian dihimpun bentuk ciptaannya, yaitu ketika seorang laki-laki menyetubuhi istrinya, air maninya yang memencar dikumpulkan di dalam rahim istrinya selama 40 hari sebagai satu tetes air mani. Kemudian menjadi segumpal darah, yaitu darah keras yang membeku, dan itu pada fase 40 hari yang kedua. Kemudian menjadi segumpal daging, yaitu sepotong daging seukuran yang dapat dikunyah, dan itu pada fase 40 hari yang ketiga. Kemudian Allah mengutus kepadanya malaikat seraya meniupkan padanya roh setelah selesai 40 hari yang ketiga. Kemudian malaikat diperintahkan menulis empat kalimat; rezekinya, yaitu berapa ukuran nikmat yang akan didapat selama umurnya; ajalnya, yaitu masa hidupnya di dunia; amalnya, apa saja?; Dan sengsara atau bahagia. Kemudian Nabi ﷺ bersumpah bahwa ada orang yang beramal dengan amalan penghuni surga, amalnya terlihat bagus oleh manusia, dan dia terus seperti itu hingga jaraknya dengan surga hanya satu hasta. Tersisa antara dia dan jalan ke surga, seperti kondisi jarak seseorang; antara dirinya dan suatu tempat tertentu di bumi hanya tersisa satu hasta, tetapi catatan takdir mendahuluinya, maka ketika itu dia beramal dengan amalan penghuni neraka, dan itu menjadi penutup amalnya, dia pun masuk neraka. Karena syarat diterimanya amalan ialah seseorang istikamah di atasnya dan tidak mengubahnya. Sedangkan segolongan manusia yang lain melakukan amalan penghuni neraka, hingga hampir masuk ke sana, seakan-akan jarak antara dia dan neraka seukuran tinggal satu hasta tanah, ternyata catatan takdir telah mendahuluinya, sehingga dia beramal dengan amalan penghuni surga dan dia pun masuk surga.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Kesudahan semua urusan berakhir sesuai dengan catatan qada dan takdir yang berlaku.\r",
+    "2- Waspada terhadap sikap terlena dengan bentuk amalan, karena amalan tergantung penutupnya."
+   ],
+   "mapping": "same HadeethEnc record id 65037; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:26+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/65037",
+   "text": "Abdullah bin Mas'ud -raḍiyallāhu 'anhu- meriwayatkan, Rasulullah ﷺ bercerita kepada kami dan beliau adalah sosok pribadi yang jujur dan terpercaya, \"Sungguh proses penciptaan seseorang di antara kalian ialah dengan dihimpun di dalam rahim ibunya selama 40 hari 40 malam, kemudian menjadi segumpal darah selama itu, kemudian menjadi segumpal daging selama itu. Lalu dikirim kepadanya malaikat dan diperintahkan dengan empat kalimat: ditulis rezekinya, ajalnya, amalnya, dan sengsara atau bahagia, kemudian ditiupkan padanya roh. Sungguh seseorang di antara kalian benar-benar akan melakukan amalan penghuni surga, hingga ketika antara surga dan dirinya tidak tersisa kecuali seukuran satu hasta, ternyata catatan takdir telah mendahuluinya, maka dia beramal dengan amalan penghuni neraka sehingga dia masuk ke neraka. Dan sungguh seseorang di antara kalian benar-benar akan melakukan amalan penghuni neraka, hingga ketika antara neraka dan dia tidak tersisa kecuali satu hasta, tetapi catatan takdir telah mendahuluinya, maka dia beramal dengan amalan penghuni surga sehingga dia masuk surga.\"",
+   "title": "Rasulullah ﷺ bercerita kepada kami dan beliau adalah sosok pribadi yang jujur dan terpercaya, \"Sungguh proses penciptaan seseorang di antara kalian ialah dengan dihimpun di dalam rahim ibunya selama 40 hari 40 malam",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=65037",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:e437796e344d0884cdf80fa9e8c9507d4d34ca428ef50022d8e78ecdb945f60b",
+   "explanation": "عبداللہ بن مسعود رضی اللہ عنہ بیان کرتے ہیں کہ ہم سے رسول اللہ صلی اللہ علیہ وسلم نے بیان کیا، جو کہ اپنے قول میں سچے ہیں اور مصدوق بھی ہیں کہ اللہ تعالی نے آپ کو صادق قرار دیا ہے۔ آپ نے فرمایا: تم میں سے ہرایک کی پیدائش کی بنیاد اس کی ماں کے پیٹ میں (نطفہ امتزاج کی شکل میں) جمع کی جاتی ہے، بایں طور کہ انسان جب اپنی بیوی سے جماع کرتا ہے تو اس کی بکھری ہوئی منی عورت کے شکم میں چالیس دن تک نطفے کی شکل میں جمع کی جاتی ہے۔ پھر وہ نطفہ علقہ میں تبدیل ہوجاتا ہے۔ یعنی گاڑھے اور جامد خون کی شکل اختیار کر لیتا ہے۔ دوسری چالیسویں دن تک یہی شکل رہتی ہے۔ پھر وہ مضغہ بن جاتا ہے۔ یعنی گوشت کے ٹکڑے کی شکل اختیار کر لیتا ہے۔ گوشت کا اتنا بڑا ٹکڑا، جسے ایک بار میں چبایا جا سکے۔ تیسرے چالیس دنوں میں یہی شکل رہتی ہے۔ پھر اس کے پاس اللہ تعالی فرشتہ بھیجتا ہے، جو تیسرے چالیسویں دن ختم ہونے کے بعد  اس میں روح پھونکتا ہے۔ اس فرشتہ کو حکم دیا جاتا ہے کہ وہ چار چیزیں لکھ دے۔ اس کا رزق یعنی وہ اپنی عمر میں کس قدر نعمتیں حاصل کرنے والا ہے، لکھا جاتا ہے۔ اس کی موت لکھی جاتی ہے۔ یعنی دنیا میں وہ کتنی مدت تک رہنے والا ہے۔ اس کا عمل لکھا جاتا ہے کہ وہ کیا عمل کرے گا اور یہ کہ وہ بد بخت ہوگا یا خوش بخت؟ پھر اللہ کے نبی صلی اللہ علیہ وسلم نے قسم کھا کر بتایا کہ انسان بظاہر لوگوں کی نظر میں جنتیوں کا عمل کرتا رہتا ہے اور نیک عمل میں منہمک رہتا ہے، وہ اسی حال میں رہتا ہے یہاں تک کہ اس کے اور جنت کے درمیان صرف ایک ہاتھ کا فاصلہ رہ جاتا ہے۔ یعنی جنت تک پہنچنے میں صرف اتنی ہی مسافت رہ جاتی ہے جتنی ایک ہاتھ زمین کی ہوتی ہے کہ اچانک لکھی ہوئی تقدیر اس پر غالب آجاتی ہے اور وہ جہنمیوں کا عمل کرنے لگتا ہے اور اس کا خاتمہ اسی عمل پر ہوتا ہے۔ چناں چہ وہ جہنم رسید ہوجاتا ہے۔ کیوں کہ عمل کی قبولیت کے لیے شرط ہے کہ انسان اس پر ثابت قدم رہے اور بدلے نہیں۔ جب کہ دوسرا انسان وہ ہے جو جہنمیوں کا عمل کرتا رہتا ہے، یہاں تک کہ جہنم میں داخل ہونے کے قریب پہنچ جاتا ہے۔ گویا اس کے اور جہنم کے درمیان صرف ایک ہاتھ زمین کا فاصلہ رہ گیا ہو۔ پھر اس پر لکھی ہوئی تقدیر غالب آجاتی ہے۔ چنانچہ وہ جنتیوں کا عمل کرنے لگتا ہے اور جنت میں داخل ہوجاتا ہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "تمام معاملات کا آخری انجام اللہ کى طے کئى ہوئى تقدیر وقضاء کے مطابق ہوتا ہے۔\r",
+    "اعمال کی ظاہری شکل وصورت دیکھ کر دھوکا کھانے سے منع کیا گیا ہے، کیوں کہ تمام اعمال کا اعتبار ان کے خاتمے سے ہوتا ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 65037; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:26+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/65037",
+   "text": "عبد اللہ بن مسعود رضی اللہ عنہ سے مروی ہے، وہ کہتے ہيں : رسول اللہ ﷺ، جو صادق اور مصدوق ہیں، نے بیان فرمایا: ’’تم میں سے ہر ایک کی پیدائش کی بنیاد اس کی ماں کے پیٹ میں (نطفہ امتزاج کی شکل میں) چالیس دن اور چالیس رات تک رہتی ہے۔ پھر اتنے ہی دنوں تک گاڑھے اور جامد خون کی صورت میں رہتی ہے۔ اس کے بعد اتنے ہی دنوں تک گوشت کے لوتھڑے کی شکل اختیار کرلیتی ہے۔ پھر اللہ تعالیٰ ایک فرشتے کو چار باتوں کا حکم دے کر بھیجتا ہے۔ وہ اس کی روزی، اس کی موت، اس کا عمل و کردار،  اور اس کا نیک بخت یا بدبخت ہونا لکھتا ہے۔ اس کے بعد اس میں روح پھونک دی جاتی ہے۔ کوئی شخص زندگی بھر اہل جنت کے عمل کرتا ہے اور جب اس کے اور جنت کے درمیان صرف ایک ہاتھ کا فاصلہ رہ جاتا ہے تو لکھی ہوئی تقدیر اس کے آگے آجاتی ہے اور وہ اہل جہنم کے عمل کرکے جہنم میں داخل ہوجاتا ہے۔ اسی طرح کوئی شخص زندگی بھر اہل جہنم کے عمل کرتا ہے اور جب اس کے اور جہنم کے درمیان صرف ایک ہاتھ کا فاصلہ رہ جاتا ہے تو لکھی ہوئی تقدیر اس کے آگے آجاتی ہے اور وہ اہل جنت کے عمل کرکے جنت میں داخل ہو جاتا ہے۔‘‘",
+   "title": "رسول اللہ ﷺ، جو صادق اور مصدوق ہیں، نے بیان فرمایا: ’’تم میں سے ہر ایک کی پیدائش کی بنیاد اس کی ماں کے پیٹ میں (نطفہ امتزاج کی شکل میں) چالیس دن اور چالیس رات تک رہتی ہے",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=65037",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:b2e1a90fbb4b84bdcae6ac5b6e609d7e1326b99a9c13a2c4816614e6080ca533",
+   "explanation": "伊本·麦斯欧德说：安拉的使者（愿主福安之）告诉我们，他是诚实的，其言是可信的，因为安拉证明了他的诚实。 他说：你们每个人，其造化物被集合起来。即：一个人与他的妻子交合，然后其精液被集合在妇女腹中四十天。 然后成为一个血块，即：坚固的血块，这是第二个四十天。 然后成为了一块肉，如同含在嘴里一块肉，这是第三个四十天。 然后安拉派遣天使前往之，在第三个四十天结束以后，为其吹注灵魂。 天使奉命写下四件事情：其给养，即他一生中所应得恩典之数量。 其寿限，即他在今世的存活期限。 其工作是什么？他是薄福者还是幸福者？ 然后先知（愿主福安之）发誓说，有人一直做着天堂之人的工作，即人们自表面看来，其所行工作均为善行，直至他与天堂只有咫尺之遥，即仅剩咫尺之距离，他便可进入天堂，但前定已至，他开始做火狱之人的工作，直至死亡，随后堕入火狱。 因为善功被接受的条件是：要坚持行善不可变更。另外一人一直做着火狱之人的工作，直至他快要堕入其中，好像他与火狱仅咫尺之遥，但前定已至，他开始做天堂之人的工作，最后步入天堂。",
+   "grade": "正确的",
+   "hints": [
+    "一切事物之归宿，均依照其前定和判决而进行。\r",
+    "警告不要被工作之表象欺骗，一切工作只看结局。"
+   ],
+   "mapping": "same HadeethEnc record id 65037; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:26+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/65037",
+   "text": "据阿卜杜拉·本·麦斯欧德（愿主喜悦之）传述： 安拉的诚实可信的使者（愿主福安之）告诉我们：“你们每个人之造化，先是在母腹中集合四十昼夜，然后成为类似的血块，然后成为类似被咬过的肉块，然后安拉派遣天使前往，他被允许写四件事情：其给养、寿限、工作、薄福者和幸福者，然后往其中吹注灵魂。的确你们有人一直做着天堂之人的工作，直至他与天堂仅咫尺之遥。然后因前定之故，他开始做火狱之人的工作，随之堕入火狱。你们有人一直做着火狱之人的工作，直至他与火狱仅咫尺之遥，然后因前定之故，他开始做天堂之人的工作，随后步入天堂。”",
+   "title": "安拉的诚实可信的使者（愿主福安之）告诉我们：“你们每个人之造化，先是在母腹中集合四十昼夜",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

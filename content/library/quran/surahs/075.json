@@ -1,0 +1,1369 @@
+{
+ "ayah_count": 40,
+ "ayahs": [
+  {
+   "arabic": "لَآ أُقۡسِمُ بِيَوۡمِ ٱلۡقِيَٰمَةِ",
+   "aya": 1,
+   "id": 5552,
+   "tafsir": {
+    "arabic_moyassar": "أقسم الله سبحانه بيوم الحساب والجزاء، وأقسم بالنفس المؤمنة التقية التي تلوم صاحبها على ترك الطاعات وفِعْل الموبقات، أن الناس سيبعثون. أيظنُّ هذا الإنسان الكافر أن لن نقدر على جَمْع عظامه بعد تفرقها؟ بلى سنجمعها، قادرين على أن نجعل أصابعه أو أنامله -بعد جمعها وتأليفها- خَلْقًا سويًّا، كما كانت قبل الموت."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আমি (আল্লাহ) শপথ করছি কিয়ামতের দিনের!"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "I swear by the Day of Resurrection,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "J’en jure par le Jour de la résurrection !"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Aku bersumpah dengan hari Kiamat,"
+    },
+    "ur": {
+     "footnotes": "[1] لا اقسم میں لا زائد ہے جو عربی زبان کا ایک اسلوب ہے جیسے ”مَا مَنَعَكَ أَلَّا تَسْجُدَ“ (الاعراف: 12) اور ”لِئَلَّا يَعْلَمَ أَهْلُ الْكِتَابِ“ (الحدید: 29) اور دیگر بہت سے مقامات میں ہے بعض کہتے ہیں کہ قسم سے پہلے کفار کے کلام کا رد ہے وہ کہتے تھے مرنے کے بعد کوئی زندگی نہیں۔لا کے زیعے سے کہا گیا ، جس طرح کہتے ہو معاملہ اس طرح نہیں ہے میں قیامت کے دن کی قسم کھاتا ہوں، قیامت کے دن کی قسم کھانے کا مقصد اس کی اہمیت اور عظمت کو واضح کرنا ہے۔",
+     "text": "میں قسم کھاتا ہوں قیامت کے دن کی.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我以复活日盟誓，"
+    }
+   }
+  },
+  {
+   "arabic": "وَلَآ أُقۡسِمُ بِٱلنَّفۡسِ ٱللَّوَّامَةِ",
+   "aya": 2,
+   "id": 5553,
+   "tafsir": {
+    "arabic_moyassar": "أقسم الله سبحانه بيوم الحساب والجزاء، وأقسم بالنفس المؤمنة التقية التي تلوم صاحبها على ترك الطاعات وفِعْل الموبقات، أن الناس يبعثون. أيظنُّ هذا الإنسان الكافر أن لن نقدر على جَمْع عظامه بعد تفرقها؟ بلى سنجمعها، قادرين على أن نجعل أصابعه أو أنامله -بعد جمعها وتأليفها- خَلْقًا سويًّا، كما كانت قبل الموت."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আমি আরো শপথ করছি ভর্ৎসনাকারী আত্মার!"
+    },
+    "en": {
+     "footnotes": "[1] Of the believer, which blames oneself whenever falls into sin or error.",
+     "text": "and I swear by the self-reproaching soul[1]!"
+    },
+    "fr": {
+     "footnotes": "[1] L’âme du croyant qui ne cesse de se reprocher ses manquements et ses péchés.",
+     "text": "J’en jure par l’âme en proie aux remords[1] !"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan aku bersumpah demi jiwa yang selalu menyesali (dirinya sendiri)."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی بھلائی پر بھی کرتا ہے کہ زیادہ کیوں نہیں کی۔ اور برائی پر بھی، کہ اس سے باز کیوں نہیں آتا؟ دنیا میں بھی جن کے ضمیر بیدار ہوتے ہیں ان کے نفس انہیں ملامت کرتے ہیں، تاہم آخرت میں تو سب کے ہی نفس ملامت کریں گے۔",
+     "text": "اور قسم کھاتا ہوں اس نفس کی جو ملامت کرنے واﻻ ہو.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我以自责的灵魂盟誓，"
+    }
+   }
+  },
+  {
+   "arabic": "أَيَحۡسَبُ ٱلۡإِنسَٰنُ أَلَّن نَّجۡمَعَ عِظَامَهُۥ",
+   "aya": 3,
+   "id": 5554,
+   "tafsir": {
+    "arabic_moyassar": "أقسم الله سبحانه بيوم الحساب والجزاء، وأقسم بالنفس المؤمنة التقية التي تلوم صاحبها على ترك الطاعات وفِعْل الموبقات، أن الناس يبعثون. أيظنُّ هذا الإنسان الكافر أن لن نقدر على جَمْع عظامه بعد تفرقها؟ بلى سنجمعها، قادرين على أن نجعل أصابعه أو أنامله -بعد جمعها وتأليفها- خَلْقًا سويًّا، كما كانت قبل الموت."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "মানুষ কি মনে করে যে, আমরা কখনোই তার (মৃত্যুর পর ছড়িয়ে-ছিটিয়ে থাকা) হাড়গুলো একত্র করতে পারব না?"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Does man think that We cannot reassemble his bones?"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "L’homme croit-il que Nous ne pourrons rassembler ses os ?"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Apakah manusia mengira, bahwa Kami tidak akan mengumpulkan (kembali) tulang belulangnya?"
+    },
+    "ur": {
+     "footnotes": "[1] یہ جواب قسم ہے انسان سے مراد یہاں کافر اور بےدین انسان ہے جو قیامت کو نہیں مانتا۔ اس کا گمان غلط ہے، اللہ تعالٰی یقینا انسانوں کے اجزا کو جمع فرمائے گا یہاں ہڈیوں کا بطور خاص ذکر ہے، اس لیئے کہ ہڈیاں ہی پیدائش کا اصل ڈھانچہ اور قالب ہیں۔",
+     "text": "کیا انسان یہ خیال کرتا ہے کہ ہم اس کی ہڈیاں جمع کریں گے ہی نہیں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "难道人猜想我绝不能集合他的骸骨吗？"
+    }
+   }
+  },
+  {
+   "arabic": "بَلَىٰ قَٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّيَ بَنَانَهُۥ",
+   "aya": 4,
+   "id": 5555,
+   "tafsir": {
+    "arabic_moyassar": "أقسم الله سبحانه بيوم الحساب والجزاء، وأقسم بالنفس المؤمنة التقية التي تلوم صاحبها على ترك الطاعات وفِعْل الموبقات، أن الناس يبعثون. أيظنُّ هذا الإنسان الكافر أن لن نقدر على جَمْع عظامه بعد تفرقها؟ بلى سنجمعها، قادرين على أن نجعل أصابعه أو أنامله -بعد جمعها وتأليفها- خَلْقًا سويًّا، كما كانت قبل الموت."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "হ্যাঁ, অবশ্যই আমি তার আঙুলের ডগাগুলোও পূর্বের ন্যায় সুগঠিত করতে সক্ষম।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "In fact, We are able to restore even his very fingertips."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Nous pourrons au contraire reconstituer jusqu’à ses phalanges."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(Bahkan) Kami mampu menyusun (kembali) jari jemarinya dengan sempurna."
+    },
+    "ur": {
+     "footnotes": "[1] بَنَان (پور پور) جوڑوں، ناخن، لطیف رگوں اور باریک ہڈیوں پر مشتمل ہوتے ہیں۔ جب یہ باریک اور لطیف چیزیں ہم بالکل صحیح صحیح جوڑ دیں گے تو بڑے حصے کو جوڑ دینا ہمارے لئے کیا مشکل ہوگا۔",
+     "text": "ہاں ضرور کریں گے ہم تو قادر ہیں کہ اس کی پور پور تک درست کردیں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "不然，〔我将集合他的骸骨，〕而且能使他的每个手指复原。"
+    }
+   }
+  },
+  {
+   "arabic": "بَلۡ يُرِيدُ ٱلۡإِنسَٰنُ لِيَفۡجُرَ أَمَامَهُۥ",
+   "aya": 5,
+   "id": 5556,
+   "tafsir": {
+    "arabic_moyassar": "بل ينكر الإنسان البعث، يريد أن يبقى على الفجور فيما يستقبل من أيام عمره، يسأل هذا الكافر مستبعدًا قيام الساعة: متى يكون يوم القيامة؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "বরং (পুনরুত্থানকে অবিশ্বাস করার মাধ্যমে) মানুষ চায় ভবিষ্যতেও পাপাচার করতে।"
+    },
+    "en": {
+     "footnotes": "[2] While denying the coming of the Day of Judgment.",
+     "text": "But man desires to persist in sin[2],"
+    },
+    "fr": {
+     "footnotes": "[2] En niant la Résurrection.",
+     "text": "Mais l’homme aspire seulement à continuer à vivre dans le péché[2]."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Tetapi manusia hendak membuat maksiat terus menerus."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی اس امید پر نافرمانی اور حق کا انکار کرتا ہے کہ کون سی قیامت آنی ہے۔",
+     "text": "بلکہ انسان تو چاہتا ہے کہ آگے آگے نافرمانیاں کرتا جائے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "不然，人欲长此放荡下去。"
+    }
+   }
+  },
+  {
+   "arabic": "يَسۡـَٔلُ أَيَّانَ يَوۡمُ ٱلۡقِيَٰمَةِ",
+   "aya": 6,
+   "id": 5557,
+   "tafsir": {
+    "arabic_moyassar": "بل ينكر الإنسان البعث، يريد أن يبقى على الفجور فيما يستقبل من أيام عمره، يسأل هذا الكافر مستبعدًا قيام الساعة: متى يكون يوم القيامة؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "সে প্রশ্ন করে, ‘কখন কিয়ামতের দিন আসবে?’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and asks [mockingly], “When is the Day of Resurrection?”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Il demande : « Quand donc viendra le Jour de la résurrection ? »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dia bertanya, \"Kapankah hari Kiamat itu?\""
+    },
+    "ur": {
+     "footnotes": "[1] یہ سوال اس لئے نہیں کرتا کہ گناہوں سے تائب ہو جائے، بلکہ قیامت کو ناممکن الو قوع سمجھتے ہوئے پوچھتا ہے۔ اسی لیے فسق وفجور سے باز نہیں آتا۔ تاہم اگلی ٓآیت میں اللہ تعالٰی قیامت کے آنے کا وقت بیان فرما رہاہے۔",
+     "text": "پوچھتا ہے کہ قیامت کا دن کب آئے گا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他问复活日在什么时候。"
+    }
+   }
+  },
+  {
+   "arabic": "فَإِذَا بَرِقَ ٱلۡبَصَرُ",
+   "aya": 7,
+   "id": 5558,
+   "tafsir": {
+    "arabic_moyassar": "فإذا تحيَّر البصر ودُهش فزعًا مما رأى من أهوال يوم القيامة، وذهب نور القمر، وجُمِع بين الشمس والقمر في ذهاب الضوء، فلا ضوء لواحد منهما، يقول الإنسان وقتها: أين المهرب من العذاب؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "যখন চক্ষু হতচকিত হবে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "But when the sight is dazzled,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Lorsque les yeux seront exorbités,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Maka apabila mata terbelalak (ketakutan),"
+    },
+    "ur": {
+     "footnotes": "[1] دہشت اور حیرانی سے برق ،تحیر و اندھش جیسے موت کے وقت عام طور پر ہوتا ہے۔",
+     "text": "پس جس وقت کہ نگاه پتھرا جائے گی.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "当眼目昏花，"
+    }
+   }
+  },
+  {
+   "arabic": "وَخَسَفَ ٱلۡقَمَرُ",
+   "aya": 8,
+   "id": 5559,
+   "tafsir": {
+    "arabic_moyassar": "فإذا تحيَّر البصر ودُهش فزعًا مما رأى من أهوال يوم القيامة، وذهب نور القمر، وجُمِع بين الشمس والقمر في ذهاب الضوء، فلا ضوء لواحد منهما، يقول الإنسان وقتها: أين المهرب من العذاب؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর চাঁদ জ্যোতিহীন হয়ে যাবে,"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and the moon is darkened,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "que la lune aura perdu toute clarté,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan bulan pun telah hilang cahayanya,"
+    },
+    "ur": {
+     "footnotes": "[1] جب چاند کو گرہن لگ جاتا ہے تو اس وقت بھی وہ بےنور ہو جاتا ہے۔ لیکن جو علامات قیامت میں سے ہے، جب ہوگا تو اس کے بعد اس میں روشنی نہیں آئے گی۔",
+     "text": "اور چاند بے نور ہو جائے گا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "月亮昏暗，"
+    }
+   }
+  },
+  {
+   "arabic": "وَجُمِعَ ٱلشَّمۡسُ وَٱلۡقَمَرُ",
+   "aya": 9,
+   "id": 5560,
+   "tafsir": {
+    "arabic_moyassar": "فإذا تحيَّر البصر ودُهش فزعًا مما رأى من أهوال يوم القيامة، وذهب نور القمر، وجُمِع بين الشمس والقمر في ذهاب الضوء، فلا ضوء لواحد منهما، يقول الإنسان وقتها: أين المهرب من العذاب؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর সূর্য ও চাঁদকে একত্র করা হবে।"
+    },
+    "en": {
+     "footnotes": "[3] They both have never been together since they were created. On this Day they will be brought together, darkened, and both will be thrown into the Hell; so that all should know that they were subservient created beings, especially those who worshiped them.",
+     "text": "and the sun and the moon are brought together[3],"
+    },
+    "fr": {
+     "footnotes": "[3] Autre sens : se seront éteints.",
+     "text": "et que le soleil et la lune seront rassemblés[3],"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "lalu matahari dan bulan dikumpulkan,"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی بےنوری میں۔ مطلب ہے کہ چاند کی طرح سورج کی روشنی بھی ختم ہو جائے گی۔",
+     "text": "اور سورج اور چاند جمع کردیئے جائیں گے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "日月相合的时候，"
+    }
+   }
+  },
+  {
+   "arabic": "يَقُولُ ٱلۡإِنسَٰنُ يَوۡمَئِذٍ أَيۡنَ ٱلۡمَفَرُّ",
+   "aya": 10,
+   "id": 5561,
+   "tafsir": {
+    "arabic_moyassar": "فإذا تحيَّر البصر ودُهش فزعًا مما رأى من أهوال يوم القيامة، وذهب نور القمر، وجُمِع بين الشمس والقمر في ذهاب الضوء، فلا ضوء لواحد منهما، يقول الإنسان وقتها: أين المهرب من العذاب؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "সেদিন মানুষ বলবে: ‘পালাবার স্থান কোথায়?’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "on that Day man will say, “Where is the escape?”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "l’homme, ce Jour-là, dira : « Où fuir ? »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "pada hari itu manusia berkata, \"Ke mana tempat pelarian?\""
+    },
+    "ur": {
+     "footnotes": "[1] یعنی جب یہ واقعات ظہور پذیر ہونگے تو پھر اللہ سے یا جہنم کے عذاب سے راہ فرار ڈھونڈے گا، لیکن اس وقت راہ فرار کہاں ہوگی؟",
+     "text": "اس دن انسان کہے گا کہ آج بھاگنے کی جگہ کہاں ہے؟[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "在那日，人将说：“逃到哪里去呢？”"
+    }
+   }
+  },
+  {
+   "arabic": "كَلَّا لَا وَزَرَ",
+   "aya": 11,
+   "id": 5562,
+   "tafsir": {
+    "arabic_moyassar": "ليس الأمر كما تتمناه -أيها الإنسان- مِن طلب الفرار، لا ملجأ لك ولا منجى. إلى الله وحده مصير الخلائق يوم القيامة ومستقرهم، فيجازي كلا بما يستحق."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "কখনোই নয়, (আজকের দিন পালিয়ে যাওয়ার মত) কোন আশ্রয়স্থল নেই।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "No indeed! There will be no refuge."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Nulle part ! Il n’y aura, en effet, aucun refuge."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Tidak! Tidak ada tempat berlindung!"
+    },
+    "ur": {
+     "footnotes": "[1] وَزَرَ پہاڑ یا قعلے کو کہتے ہیں جہاں انسان پناہ حاصل کرلے۔ وہاں ایسی کوئی پناہ گاہ نہیں ہوگی۔",
+     "text": "نہیں نہیں کوئی پناہ گاه نہیں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "绝不然，绝无任何避难所。"
+    }
+   }
+  },
+  {
+   "arabic": "إِلَىٰ رَبِّكَ يَوۡمَئِذٍ ٱلۡمُسۡتَقَرُّ",
+   "aya": 12,
+   "id": 5563,
+   "tafsir": {
+    "arabic_moyassar": "ليس الأمر كما تتمناه- أيها الإنسان- مِن طلب الفرار، لا ملجأ لك ولا منجى. إلى الله وحده مصير الخلائق يوم القيامة ومستقرهم، فيجازي كلا بما يستحق."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "সেদিন শুধু ঠাঁই হবে তোমার রবের নিকট।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "On that Day all will end up before your Lord."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "C’est à ton Seigneur, ce Jour-là, que tous feront retour."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Hanya kepada Tuhanmu tempat kembali pada hari itu."
+    },
+    "ur": {
+     "footnotes": "[1] جہاں وہ بندوں کے درمیان فیصلے فرمائے گا۔ یہ ممکن نہیں ہوگا کہ کوئی اللہ کی اس عدالت سے چھپ جائے۔",
+     "text": "آج تو تیرے پروردگار کی طرف ہی قرار گاه ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "在那日，唯你的养主那里，有安定之所。"
+    }
+   }
+  },
+  {
+   "arabic": "يُنَبَّؤُاْ ٱلۡإِنسَٰنُ يَوۡمَئِذِۭ بِمَا قَدَّمَ وَأَخَّرَ",
+   "aya": 13,
+   "id": 5564,
+   "tafsir": {
+    "arabic_moyassar": "يُخَبَّر الإنسان في ذلك اليوم بجميع أعماله: من خير وشر، ما قدَّمه منها في حياته وما أخَّره."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "সেদিন মানুষকে অবহিত করা হবে কী (আমল) সে অগ্রে পাঠিয়েছে এবং পশ্চাতে রেখে গেছে।"
+    },
+    "en": {
+     "footnotes": "[4] i.e., of his deeds for the Hereafter.\n [5] i.e., that which he failed to do.",
+     "text": "On that Day man will be informed of what he has sent forth[4] and left behind[5]."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "L’homme sera, ce Jour-là, informé de ses actes les plus insignifiants."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Pada hari itu diberitakan kepada manusia apa yang telah dikerjakannya dan apa yang dilalaikannya."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی اس کے تمام اعمال سے آگاہ کیا جائے گا قدیم ہو یا جدید، اول ہو یا آخر چھوٹا ہو یا بڑا۔ ”وَوَجَدُوا مَا عَمِلُوا حَاضِرًا“ (الکھف:49)",
+     "text": "آج انسان کو اس کے آگے بھیجے ہوئے اور پیچھے چھوڑے ہوئے سے آگاه کیا جائے گا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "在那日，各人将被告知自己前前后后做过的事情。"
+    }
+   }
+  },
+  {
+   "arabic": "بَلِ ٱلۡإِنسَٰنُ عَلَىٰ نَفۡسِهِۦ بَصِيرَةٞ",
+   "aya": 14,
+   "id": 5565,
+   "tafsir": {
+    "arabic_moyassar": "بل الإنسان حجة واضحة على نفسه تلزمه بما فعل أو ترك، ولو جاء بكل معذرة يعتذر بها عن إجرامه، فإنه لا ينفعه ذلك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "বরং মানুষ তার নিজের (কাজকর্মের) ব্যাপারে সম্যক অবগত।"
+    },
+    "en": {
+     "footnotes": "[6] His organs will testify against him, as mentioned in 36:65 and 41:20-23.",
+     "text": "In fact, man will be a witness against himself[6],"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Mais il sera lui-même parfaitement conscient de ses agissements,"
+    },
+    "id": {
+     "footnotes": "[880] Anggota badan manusia menjadi saksi terhadap pekerjaan yang telah mereka lakukan seperti tersebut dalam surah An-Nur (24) ayat 24.",
+     "text": "Bahkan manusia menjadi saksi atas dirinya sendiri,[880]"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی اس کے اپنے ہاتھ، پاؤں، زبان اور دیگر اعضاء گواہی دیں گے، یا یہ مطلب ہے کہ انسان اپنے عیوب خود جانتا ہے۔",
+     "text": "بلکہ انسان خود اپنے اوپر آپ حجت ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "不然，各人对自己就是明证，"
+    }
+   }
+  },
+  {
+   "arabic": "وَلَوۡ أَلۡقَىٰ مَعَاذِيرَهُۥ",
+   "aya": 15,
+   "id": 5566,
+   "tafsir": {
+    "arabic_moyassar": "بل الإنسان حجة واضحة على نفسه تلزمه بما فعل أو ترك، ولو جاء بكل معذرة يعتذر بها عن إجرامه، فإنه لا ينفعه ذلك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "যদিও সে (নিজেকে নির্দোষ প্রমাণের জন্য) নানা অজুহাত পেশ করে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "despite the excuses he may put forward."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "quand bien même il invoquerait, pour se justifier, tous les arguments."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan meskipun dia mengemukakan alasan-alasannya."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی لڑے جھگڑے، ایک سے ایک بہانہ کرے، لیکن ایسا کرنا نہ اس کے لئے مفید ہے اور نہ وہ اپنے ضمیر کو مطمئن کر سکتا ہے۔",
+     "text": "اگر چہ کتنے ہی بہانے پیش کرے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "即使他多方托辞。"
+    }
+   }
+  },
+  {
+   "arabic": "لَا تُحَرِّكۡ بِهِۦ لِسَانَكَ لِتَعۡجَلَ بِهِۦٓ",
+   "aya": 16,
+   "id": 5567,
+   "tafsir": {
+    "arabic_moyassar": "لا تحرك -أيها النبي- بالقرآن لسانك حين نزول الوحي؛ لأجل أن تتعجل بحفظه، مخافة أن يتفلَّت منك. إن علينا جَمْعه في صدرك، ثم أن تقرأه بلسانك متى شئت. فإذا قرأه عليك رسولنا جبريل فاستمِعْ لقراءته وأنصت له، ثم اقرأه كما أقرأك إياه، ثم إن علينا توضيح ما أشكل عليك فهمه من معانيه وأحكامه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১) ভুলে যাওয়ার আশঙ্কায় তাড়াহুড়া করে উচ্চারণ করতে থেকো না।",
+     "text": "হে রাসূল! আল-কুরআন তাড়াতাড়ি আয়ত্ত করার উদ্দেশ্যে তুমি তোমার জিহ্বাকে দ্রুত নাড়াচাড়া করো না।(১)"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Do not move your tongue [O Prophet] in haste trying to memorize it."
+    },
+    "fr": {
+     "footnotes": "[4] Voir note verset 114, sourate 20.",
+     "text": "Ne répète pas avec empressement le Coran qui t’est révélé avant que sa récitation ne soit terminée[4]."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Jangan engkau (Muhammad) gerakkan lidahmu (untuk membaca Al-Qur`an) karena hendak cepat-cepat (menguasai)nya."
+    },
+    "ur": {
+     "footnotes": "[1] حضرت جبرائیل (عليه السلام) جب وحی لے کر آتے نبی (صلى الله عليه وسلم) بھی ان کے ساتھ جلدی سے پڑھتے جاتے کہ کہیں کوئی لفظ بھول نہ جائے۔ اللہ نے اپنے فرشتے کے ساتھ ساتھ اس طرح پڑھنے سے منع فرمایا۔ (صحیح بخاری' تفسہر سورۃ القیامہ) یہ مضمون پہلے بھی گزر چکا ہے ”وَلَا تَعْجَلْ بِالْقُرْآنِ مِنْ قَبْلِ أَنْ يُقْضَى إِلَيْكَ وَحْيُهُ“ (سورۃ طٰہٰ:114) چنانچہ اس حکم کے بعد آپ خاموشی سے سنتے۔",
+     "text": "(اے نبی) آپ قرآن کو جلدی (یاد کرنے) کے لیے اپنی زبان کو حرکت[1] نہ دیں."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你不必急于诵读而鼓动你的舌头。"
+    }
+   }
+  },
+  {
+   "arabic": "إِنَّ عَلَيۡنَا جَمۡعَهُۥ وَقُرۡءَانَهُۥ",
+   "aya": 17,
+   "id": 5568,
+   "tafsir": {
+    "arabic_moyassar": "لا تحرك -أيها النبي- بالقرآن لسانك حين نزول الوحي؛ لأجل أن تتعجل بحفظه، مخافة أن يتفلَّت منك. إن علينا جَمْعه في صدرك، ثم أن تقرأه بلسانك متى شئت. فإذا قرأه عليك رسولنا جبريل فاستمِعْ لقراءته وأنصت له، ثم اقرأه كما أقرأك إياه، ثم إن علينا توضيح ما أشكل عليك فهمه من معانيه وأحكامه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "নিশ্চয়ই (তোমার বক্ষদেশে) এর সংরক্ষণ ও পাঠ করাবার দায়িত্ব আমারই।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "It is upon Us to make you memorize and recite it."
+    },
+    "fr": {
+     "footnotes": "[5] Littéralement : de le rassembler (dans ton cœur).",
+     "text": "C’est à Nous qu’il revient de le fixer dans ta mémoire[5] et de te le faire réciter."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sesungguhnya Kami yang akan mengumpulkannya (di dadamu) dan membacakannya."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی آپ کے سینے میں اس کا جمع کر دینا اور آپ کی زبان پر اس کی قرأت کو جاری کر دینا ہماری ذمہ داری ہے۔ تاکہ اس کا کوئی حصہ آپ کی یاداشت سے نہ نکلے اور آپ کے ذہن سے محو نہ ہو۔",
+     "text": "اس کا جمع کرنا اور (آپ کی زبان سے) پڑھنا ہمارے ذمہ ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "集合它和诵读它，确是我的责任。"
+    }
+   }
+  },
+  {
+   "arabic": "فَإِذَا قَرَأۡنَٰهُ فَٱتَّبِعۡ قُرۡءَانَهُۥ",
+   "aya": 18,
+   "id": 5569,
+   "tafsir": {
+    "arabic_moyassar": "لا تحرك -أيها النبي- بالقرآن لسانك حين نزول الوحي؛ لأجل أن تتعجل بحفظه، مخافة أن يتفلَّت منك. إن علينا جَمْعه في صدرك، ثم أن تقرأه بلسانك متى شئت. فإذا قرأه عليك رسولنا جبريل فاستمِعْ لقراءته وأنصت له، ثم اقرأه كما أقرأك إياه، ثم إن علينا توضيح ما أشكل عليك فهمه من معانيه وأحكامه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(২) জিবরীলের মাধ্যমে তোমার কাছে ।",
+     "text": "অতঃপর আমি যখন (২) আল-কুরআন পাঠ করি, তখন তুমি সে পাঠের অনুসরণ করো।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Then when We recite it [through Gabriel], follow its recitation attentively;"
+    },
+    "fr": {
+     "footnotes": "[6] Par l’intermédiaire de Gabriel.",
+     "text": "Lorsque Nous te le lisons[6], contente-toi donc d’en suivre la récitation."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Apabila Kami telah selesai membacakannya maka ikutilah bacaannya itu."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی فرشتے کے ذریعے سے جب ہم اس کی قرأت آپ پوری کرلیں۔\n[2] یعنی اس کے شرائع و احکام لوگوں کو پڑھ کر سنائیں اور ان کی پیروی بھی کریں۔",
+     "text": "ہم جب اسے پڑھ[1] لیں تو آپ اس کے پڑھنے کی پیروی کریں.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "当我诵读它的时候，你当静听我的诵读。"
+    }
+   }
+  },
+  {
+   "arabic": "ثُمَّ إِنَّ عَلَيۡنَا بَيَانَهُۥ",
+   "aya": 19,
+   "id": 5570,
+   "tafsir": {
+    "arabic_moyassar": "لا تحرك -أيها النبي- بالقرآن لسانك حين نزول الوحي؛ لأجل أن تتعجل بحفظه، مخافة أن يتفلَّت منك. إن علينا جَمْعه في صدرك، ثم أن تقرأه بلسانك متى شئت. فإذا قرأه عليك رسولنا جبريل فاستمِعْ لقراءته وأنصت له، ثم اقرأه كما أقرأك إياه، ثم إن علينا توضيح ما أشكل عليك فهمه من معانيه وأحكامه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তারপর এর বর্ণনার (ব্যাখ্যার) দায়িত্ব আমারই।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "then it is upon Us to explain its meanings."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "C’est ensuite à Nous qu’il appartiendra d’en donner l’explication."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Kemudian sesungguhnya Kami yang akan menjelaskannya."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی اس کے مشکل مقامات کی تشریح اور حلال وحرام کی توضیح یہ بھی ہمارے ذمے ہے اس کا صاف مطلب ہے کہ نبی (صلى الله عليه وسلم) نے قرآن کے مجملات کی توضیح جو تخصیص بیان فرمائی ہے جسے حدیث کہاجاتا ہے یہ بھی اللہ کی طرف سے ہی الہام اور سمجھائی ہوئی باتیں ہیں اس لیے انہیں بھی قرآن کی طرح ماننا ضروری ہے۔",
+     "text": "پھر اس کا واضح کر دینا ہمارے ذمہ ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "然后解释它，也是我的责任。"
+    }
+   }
+  },
+  {
+   "arabic": "كَلَّا بَلۡ تُحِبُّونَ ٱلۡعَاجِلَةَ",
+   "aya": 20,
+   "id": 5571,
+   "tafsir": {
+    "arabic_moyassar": "ليس الأمر كما زعمتم -يا معشر المشركين- أن لا بعث ولا جزاء، بل أنتم قوم تحبون الدنيا وزينتها، وتتركون الآخرة ونعيمها."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "কখনো না; বরং তোমরা দুনিয়ার জীবনকে ভালোবাস।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "No indeed! You [people] love this fleeting world,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "C’est que vous êtes obnubilés par ce bas-monde"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Tidak! Bahkan Kamu mencintai kehidupan dunia,"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "نہیں نہیں تم جلدی ملنے والی (دنیا) کی محبت رکھتے ہو."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "真的，你们喜爱现世的生活，"
+    }
+   }
+  },
+  {
+   "arabic": "وَتَذَرُونَ ٱلۡأٓخِرَةَ",
+   "aya": 21,
+   "id": 5572,
+   "tafsir": {
+    "arabic_moyassar": "ليس الأمر كما زعمتم- يا معشر المشركين- أن لا بعث ولا جزاء، بل أنتم قوم تحبون الدنيا وزينتها، وتتركون الآخرة ونعيمها."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর তোমরা আখিরাতকে পরিত্যাগ করো।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and neglect the Hereafter."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "au point d’en oublier totalement l’autre monde."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan mengabaikan (kehidupan) akhirat."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی یوم قیامت کو جھٹلانا اور حق سے اعراض، اسلئے ہے کہ تم نے دنیا کی زندگی کو ہی سب کچھ سمجھ رکھا ہے اور آخرت تمہیں بالکل فراموش ہے۔",
+     "text": "اور آخرت کو چھوڑ بیٹھے ہو.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "而不顾后世的生活。"
+    }
+   }
+  },
+  {
+   "arabic": "وُجُوهٞ يَوۡمَئِذٖ نَّاضِرَةٌ",
+   "aya": 22,
+   "id": 5573,
+   "tafsir": {
+    "arabic_moyassar": "وجوه أهل السعادة يوم القيامة مشرقة حسنة ناعمة، ترى خالقها ومالك أمرها، فتتمتع بذلك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "সেদিন কিছু মানুষের চেহারা হবে হাস্যোজ্জ্বল।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "On that Day some faces will be bright,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Il y aura, ce Jour-là, des visages éclatants de beauté"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Wajah-wajah (orang mukmin) pada hari itu berseri-seri."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "اس روز بہت سے چہرے تروتازه اور بارونق ہوں گے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "在那日，许多面目是光华的，"
+    }
+   }
+  },
+  {
+   "arabic": "إِلَىٰ رَبِّهَا نَاظِرَةٞ",
+   "aya": 23,
+   "id": 5574,
+   "tafsir": {
+    "arabic_moyassar": "وجوه أهل السعادة يوم القيامة مشرقة حسنة ناعمة، ترى خالقها ومالك أمرها، فتتمتع بذلك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তারা তাদের রবের দিকে চেয়ে থাকবে।"
+    },
+    "en": {
+     "footnotes": "[7] The dwellers of Paradise will be granted the honor of actually seeing their Lord in the Hereafter.",
+     "text": "looking at their Lord[7]."
+    },
+    "fr": {
+     "footnotes": "[7] Contemplant Son Visage.",
+     "text": "qui, vers leur Seigneur, seront résolument tournés[7],"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Memandang Tuhannya."
+    },
+    "ur": {
+     "footnotes": "[1] یہ اہل ایمان کے چہرے ہونگے جو اپنے حسن انجام کی وجہ سے مطمئن، مسرور اور منور ہونگے۔ مذید دیدار الٰہی سے بھی لطف اندوز ہونگیں۔ جیسا کہ صحیح حدیث سے ثابت ہے اور اہل سنت کا متفقہ عقیدہ ہے۔",
+     "text": "اپنے رب کی طرف دیکھتے ہوں گے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "是仰视着他们的养主的。"
+    }
+   }
+  },
+  {
+   "arabic": "وَوُجُوهٞ يَوۡمَئِذِۭ بَاسِرَةٞ",
+   "aya": 24,
+   "id": 5575,
+   "tafsir": {
+    "arabic_moyassar": "ووجوه الأشقياء يوم القيامة عابسة كالحة، تتوقع أن تنزل بها مصيبة عظيمة، تقصم فَقَار الظَّهْر."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর সেদিন অনেক চেহারা হবে বিবর্ণ-বিষণ্ণ।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "And on that Day, some faces will be gloomy,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "mais aussi des visages sombres et crispés,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan wajah-wajah (orang kafir) pada hari itu muram,"
+    },
+    "ur": {
+     "footnotes": "[1] یہ کافروں کے چہرے ہونگے سیاہ اور بےرونق۔",
+     "text": "اور کتنے چہرے اس دن (بد رونق اور) اداس ہوں گے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "在那日，许多面目是愁苦的，"
+    }
+   }
+  },
+  {
+   "arabic": "تَظُنُّ أَن يُفۡعَلَ بِهَا فَاقِرَةٞ",
+   "aya": 25,
+   "id": 5576,
+   "tafsir": {
+    "arabic_moyassar": "ووجوه الأشقياء يوم القيامة عابسة كالحة، تتوقع أن تنزل بها مصيبة عظيمة، تقصم فَقَار الظَّهْر."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "সে মনে করবে যে, তার ওপর এক মহাবিপর্যয়কর শাস্তি আপতিত হবে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "knowing that a crushing calamity will befall them."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "persuadés de devoir subir une calamité."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "mereka yakin bahwa akan ditimpakan kepadanya malapetaka yang sangat dahsyat."
+    },
+    "ur": {
+     "footnotes": "[1] اور وہ یہی ہے کہ جہنم میں ان کو پھینک دیا جائے گا۔",
+     "text": "سمجھتے ہوں گے کہ ان کے ساتھ کمر توڑ دینے واﻻ معاملہ[1] کیا جائے گا."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们确信自己必遭大难。"
+    }
+   }
+  },
+  {
+   "arabic": "كَلَّآ إِذَا بَلَغَتِ ٱلتَّرَاقِيَ",
+   "aya": 26,
+   "id": 5577,
+   "tafsir": {
+    "arabic_moyassar": "حقًّا إذا وصلت الروح إلى أعالي الصدر، وقال بعض الحاضرين لبعض: هل مِن راق يَرْقيه ويَشْفيه مما هو فيه؟ وأيقن المحتضر أنَّ الذي نزل به هو فراق الدنيا؛ لمعاينته ملائكة الموت، واتصلت شدة آخر الدنيا بشدة أول الآخرة، إلى الله تعالى مساق العباد يوم القيامة: إما إلى الجنة وإما إلى النار."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "(মুশরিকরা যেমন ধারণা করে যে, মৃত্যুর পর তাদের কোনো শাস্তি হবে না, ব্যাপারটি) কখনোই তেমন নয়। যখন প্রাণ কণ্ঠাগত হবে।"
+    },
+    "en": {
+     "footnotes": "[8] Upon death.",
+     "text": "Indeed, when the soul reaches the throat[8],"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Lorsque l’âme du moribond remonte à la gorge,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Tidak! Apabila (nyawa) telah sampai ke kerongkongan,"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی یہ ممکن نہیں کہ کافر قیامت پر ایمان لے آئیں۔\n[2] تراقی، ترقوہ کی جمع ہے ۔یہ گردن کے قریب، سینے اور کندھے کے درمیان ایک ہڈی ہے، یعنی جب موت آئے گی آہنی پنجہ تمہیں اپنی گرفت میں لے لے گا۔",
+     "text": "نہیں نہیں[1] جب روح ہنسلی تک[2] پہنچے گی."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "真的，当〔灵魂〕达到锁骨时，"
+    }
+   }
+  },
+  {
+   "arabic": "وَقِيلَ مَنۡۜ رَاقٖ",
+   "aya": 27,
+   "id": 5578,
+   "tafsir": {
+    "arabic_moyassar": "حقًّا إذا وصلت الروح إلى أعالي الصدر، وقال بعض الحاضرين لبعض: هل مِن راق يَرْقيه ويَشْفيه مما هو فيه؟ وأيقن المحتضر أنَّ الذي نزل به هو فراق الدنيا؛ لمعاينته ملائكة الموت، واتصلت شدة آخر الدنيا بشدة أول الآخرة، إلى الله تعالى مساق العباد يوم القيامة: إما إلى الجنة وإما إلى النار."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর বলা হবে, ‘কে আছে, যে তাকে ঝাড়ফুঁক করে বাঁচাতে পারবে?’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and it is said, “Is there any healer?”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "et que ceux qui l’entourent demandent si quelqu’un peut le sauver,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan dikatakan (kepadanya), \"Siapa yang dapat menyembuhkan?\""
+    },
+    "ur": {
+     "footnotes": "[1] یعنی حاضرین میں سے کوئی ہے جو جھاڑ پھونک کے ذریعہ سے تمہیں موت کے پنجے سے چھڑا لے۔ بعض نے اس کا ترجمہ یہ بھی کیا ہے کہ اس کی روح کون لے کر چڑھے گا ملائکہ رحمت یا ملائکہ عذاب؟ اس صورت میں یہ قول فرشتوں کا ہے۔",
+     "text": "اور کہا جائے گا کہ کوئی جھاڑ پھونک[1] کرنے واﻻ ہے؟"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "有人说：“谁是祝由的？”"
+    }
+   }
+  },
+  {
+   "arabic": "وَظَنَّ أَنَّهُ ٱلۡفِرَاقُ",
+   "aya": 28,
+   "id": 5579,
+   "tafsir": {
+    "arabic_moyassar": "حقًّا إذا وصلت الروح إلى أعالي الصدر، وقال بعض الحاضرين لبعض: هل مِن راق يَرْقيه ويَشْفيه مما هو فيه؟ وأيقن المحتضر أنَّ الذي نزل به هو فراق الدنيا؛ لمعاينته ملائكة الموت، واتصلت شدة آخر الدنيا بشدة أول الآخرة، إلى الله تعالى مساق العباد يوم القيامة: إما إلى الجنة وإما إلى النار."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর সে (মৃত্যুর যন্ত্রণায় তখন) মনে করবে, ‘এটিই (দুনিয়া থেকে) বিদায়ক্ষণ।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "And he realizes that it is time to depart,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "tandis que le mourant est convaincu qu’il va quitter ce monde,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan dia yakin bahwa itulah waktu perpisahan (dengan dunia),"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی وہ شخص یقین کر لے گا جس کی روح ہنسلی تک پہنچ گئی ہے کہ اب، مال، اولاد اور دنیا کی ہرچیز سے جدائی کا مرحلہ آگیا ہے۔",
+     "text": "اور جان لیا اس نے کہ یہ وقت جدائی ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他确信那是离别。"
+    }
+   }
+  },
+  {
+   "arabic": "وَٱلۡتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ",
+   "aya": 29,
+   "id": 5580,
+   "tafsir": {
+    "arabic_moyassar": "حقًّا إذا وصلت الروح إلى أعالي الصدر، وقال بعض الحاضرين لبعض: هل مِن راق يَرْقيه ويَشْفيه مما هو فيه؟ وأيقن المحتضر أنَّ الذي نزل به هو فراق الدنيا؛ لمعاينته ملائكة الموت، واتصلت شدة آخر الدنيا بشدة أول الآخرة، إلى الله تعالى مساق العباد يوم القيامة: إما إلى الجنة وإما إلى النار."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৩) আয়াতের আরেকটি অর্থ: তখন অস্থিরতার কারণে এক পায়ের গোছার সঙ্গে অপর পায়ের গোছা জড়িয়ে যাবে।",
+     "text": "আর তখন (দুনিয়ার শেষ দিনে এবং আখিরাতের প্রথম দিনে) সকল বিপদাপদ একত্রিত হবে।(৩)"
+    },
+    "en": {
+     "footnotes": "[9] The difficulties the person faces while leaving this world and moving on to the Hereafter; or the people arrange for the departure of his body, while angels arrange for the departure of his soul.",
+     "text": "when legs are brought together [in a shroud][9];"
+    },
+    "fr": {
+     "footnotes": "[8] Autre sens : et que ses jambes sont nouées.",
+     "text": "et que, aux affres de la mort, s’ajoutent les affres de l’autre monde[8],"
+    },
+    "id": {
+     "footnotes": "[881] Karena hebatnya penderitaan pada saat akan mati dan ketakutan akan meninggalkan dunia dan menghadapi akhirat.",
+     "text": "dan bertaut betis (kiri) dengan betis (kanan),[881]"
+    },
+    "ur": {
+     "footnotes": "[1] اس سے یا تو موت کے وقت پنڈلی کا پنڈلی کے ساتھ مل جانا مراد ہے یا پے درپے تکلیفیں، بہت سے مفسرین نے دوسرے معنی کئے ہیں۔ (فتح القدیر)",
+     "text": "اور پنڈلی سے پنڈلی لپٹ جائے گی.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "〔死时〕胫与胫相缠结。"
+    }
+   }
+  },
+  {
+   "arabic": "إِلَىٰ رَبِّكَ يَوۡمَئِذٍ ٱلۡمَسَاقُ",
+   "aya": 30,
+   "id": 5581,
+   "tafsir": {
+    "arabic_moyassar": "حقًّا إذا وصلت الروح إلى أعالي الصدر، وقال بعض الحاضرين لبعض: هل مِن راق يَرْقيه ويَشْفيه مما هو فيه؟ وأيقن المحتضر أنَّ الذي نزل به هو فراق الدنيا؛ لمعاينته ملائكة الموت، واتصلت شدة آخر الدنيا بشدة أول الآخرة، إلى الله تعالى مساق العباد يوم القيامة: إما إلى الجنة وإما إلى النار."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "সেদিন তোমার রবের কাছেই সকলকে হাঁকিয়ে নেয়া হবে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "on that Day, he will be driven to your Lord."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "c’est vers ton Seigneur, ce jour-là, que l’âme du mourant est menée."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "kepada Tuhanmu lah pada hari itu kamu dihalau."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "آج تیرے پروردگار کی طرف چلنا ہے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "在那日，他只被驱赶到你的养主那里。"
+    }
+   }
+  },
+  {
+   "arabic": "فَلَا صَدَّقَ وَلَا صَلَّىٰ",
+   "aya": 31,
+   "id": 5582,
+   "tafsir": {
+    "arabic_moyassar": "فلا آمن الكافر بالرسول والقرآن، ولا أدَّى لله تعالى فرائض الصلاة، ولكن كذَّب بالقرآن، وأعرض عن الإيمان، ثم مضى إلى أهله يتبختر مختالا في مشيته. هلاك لك فهلاك، ثم هلاك لك فهلاك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "সুতরাং, সে বিশ্বাসও করেনি এবং সালাতও আদায় করেনি।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "He neither believed nor prayed;"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Or, l’impie n’a ni cru, ni accompli la prière,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Karena dia (dahulu) tidak mau membenarkan (Al-Qur`an dan Rasul) dan tidak mau melaksanakan salat,"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی اس انسان نے رسول اور قرآن کی تصدیق کی اور نہ نماز پڑھی یعنی اللہ کی عبادت نہیں کی۔",
+     "text": "اس نے نہ تو تصدیق کی نہ نماز ادا کی.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他没有归信，也没有礼拜。"
+    }
+   }
+  },
+  {
+   "arabic": "وَلَٰكِن كَذَّبَ وَتَوَلَّىٰ",
+   "aya": 32,
+   "id": 5583,
+   "tafsir": {
+    "arabic_moyassar": "فلا آمن الكافر بالرسول والقرآن، ولا أدَّى لله تعالى فرائض الصلاة، ولكن كذَّب بالقرآن، وأعرض عن الإيمان، ثم مضى إلى أهله يتبختر مختالا في مشيته. هلاك لك فهلاك، ثم هلاك لك فهلاك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "বরং সে (সত্যকে) মিথ্যারোপ করেছিল এবং তা থেকে মুখ ফিরিয়ে নিয়েছিল।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "rather he denied and turned away,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "mais a renié la vérité et s’est détourné de la foi,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "tetapi justru dia mendustakan (Rasul) dan berpaling (dari kebenaran),"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی رسول کو جھٹلایا اور ایمان و اطاعت سے روگردانی کی۔",
+     "text": "بلکہ جھٹلایا اور روگردانی کی.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "但他却否认了，他背弃了，"
+    }
+   }
+  },
+  {
+   "arabic": "ثُمَّ ذَهَبَ إِلَىٰٓ أَهۡلِهِۦ يَتَمَطَّىٰٓ",
+   "aya": 33,
+   "id": 5584,
+   "tafsir": {
+    "arabic_moyassar": "فلا آمن الكافر بالرسول والقرآن، ولا أدَّى لله تعالى فرائض الصلاة، ولكن كذَّب بالقرآن، وأعرض عن الإيمان، ثم مضى إلى أهله يتبختر مختالا في مشيته. هلاك لك فهلاك، ثم هلاك لك فهلاك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তারপর এ কাফির অহংকার প্রদর্শন করে পরিবার-পরিজনের কাছে চলে গিয়েছিল।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "then he went to his people, elated with pride,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "puis s’est dirigé vers les siens en se pavanant."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "kemudian dia pergi kepada keluarganya dengan sombong."
+    },
+    "ur": {
+     "footnotes": "[1] یَتَمَطَّیٰ اتراتا اور اکڑاتا ہوا۔",
+     "text": "پھر اپنے گھر والوں کے پاس اتراتا ہوا گیا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "然后他傲慢地走回自己的家去。"
+    }
+   }
+  },
+  {
+   "arabic": "أَوۡلَىٰ لَكَ فَأَوۡلَىٰ",
+   "aya": 34,
+   "id": 5585,
+   "tafsir": {
+    "arabic_moyassar": "فلا آمن الكافر بالرسول والقرآن، ولا أدَّى لله تعالى فرائض الصلاة، ولكن كذَّب بالقرآن، وأعرض عن الإيمان، ثم مضى إلى أهله يتبختر مختالا في مشيته. هلاك لك فهلاك، ثم هلاك لك فهلاك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "(আল্লাহ বলবেন,) দুর্ভোগ তোমার জন্য এবং দুর্ভোগ!"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Woe to you, and woe!"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "« Malheur à toi, oui malheur ! »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Celakalah kamu! Maka celakalah!"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "افسوس ہے تجھ پر حسرت ہے تجھ پر."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "“毁灭已逐渐地临近你。"
+    }
+   }
+  },
+  {
+   "arabic": "ثُمَّ أَوۡلَىٰ لَكَ فَأَوۡلَىٰٓ",
+   "aya": 35,
+   "id": 5586,
+   "tafsir": {
+    "arabic_moyassar": "فلا آمن الكافر بالرسول والقرآن، ولا أدَّى لله تعالى فرائض الصلاة، ولكن كذَّب بالقرآن، وأعرض عن الإيمان، ثم مضى إلى أهله يتبختر مختالا في مشيته. هلاك لك فهلاك، ثم هلاك لك فهلاك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তারপরও দুর্ভোগ তোমার জন্য এবং দুর্ভোগ!"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Again, woe to you, and woe!"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Encore une fois : « Malheur à toi, oui malheur ! »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sekali lagi, celakalah kamu (manusia)! Maka celakalah!"
+    },
+    "ur": {
+     "footnotes": "[1] یہ کلمہ وعید سے کہا جاتا ہے کہ اس کی اصل ہے، اللہ تجھے ایسی چیز سے دو چار کرے جسے تو ناپسند کرے۔",
+     "text": "وائے ہے اور خرابی ہے تیرے لیے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "然后，毁灭已逐渐地临近你。”"
+    }
+   }
+  },
+  {
+   "arabic": "أَيَحۡسَبُ ٱلۡإِنسَٰنُ أَن يُتۡرَكَ سُدًى",
+   "aya": 36,
+   "id": 5587,
+   "tafsir": {
+    "arabic_moyassar": "أيظنُّ هذا الإنسان المنكر للبعث أن يُترك هَمَلا لا يُؤمر ولا يُنْهى، ولا يحاسب ولا يعاقب؟ ألم يك هذا الإنسان نطفة ضعيفة من ماء مهين يراق ويصب في الأرحام، ثم صار قطعة من دم جامد، فخلقه الله بقدرته وسوَّى صورته في أحسن تقويم؟ فجعل من هذا الإنسان الصنفين: الذكر والأنثى، أليس ذلك الإله الخالق لهذه الأشياء بقادر على إعادة الخلق بعد فنائهم؟ بلى إنه -سبحانه وتعالى- لقادر على ذلك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "মানুষ কি মনে করে যে, তাকে এমনি ছেড়ে দেয়া হবে?"
+    },
+    "en": {
+     "footnotes": "[10] i.e., without purpose and responsibility, or without returning to Allah for account.",
+     "text": "Does man think that he will be left neglected[10]?"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "L’homme croit-il qu’il ne sera ni ressuscité, ni jugé ?"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Apakah manusia mengira, dia akan dibiarkan begitu saja (tanpa pertanggung-jawaban)?"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی اس کو کسی چیز کا حکم دیا جائے گا، نہ کسی چیز سے منع کیا جائے گا، نہ اس کا محاسبہ ہوگا۔ یا اس کی قبر میں ہمیشہ کے لئے چھوڑ دیا جائے گا، وہاں سے اسے دوبارہ زندہ نہیں کیا جائے گا۔",
+     "text": "کیا انسان یہ سمجھتا ہے کہ اسے بیکار چھوڑ دیا جائے گا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "难道人猜想自己是被放任的吗？"
+    }
+   }
+  },
+  {
+   "arabic": "أَلَمۡ يَكُ نُطۡفَةٗ مِّن مَّنِيّٖ يُمۡنَىٰ",
+   "aya": 37,
+   "id": 5588,
+   "tafsir": {
+    "arabic_moyassar": "أيظنُّ هذا الإنسان المنكر للبعث أن يُترك هَمَلا لا يُؤمر ولا يُنْهى، ولا يحاسب ولا يعاقب؟ ألم يك هذا الإنسان نطفة ضعيفة من ماء مهين يراق ويصب في الأرحام، ثم صار قطعة من دم جامد، فخلقه الله بقدرته وسوَّى صورته في أحسن تقويم؟ فجعل من هذا الإنسان الصنفين: الذكر والأنثى، أليس ذلك الإله الخالق لهذه الأشياء بقادر على إعادة الخلق بعد فنائهم؟ بلى إنه - سبحانه وتعالى- لقادر على ذلك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "সে কি (একসময়) বীর্যের স্খলিত শুক্রবিন্দু ছিল না?"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Was he not once a drop of semen emitted,"
+    },
+    "fr": {
+     "footnotes": "[9] Dans la matrice de la femme.",
+     "text": "Ne tire-t-il pas son origine d’un liquide insignifiant répandu[9],"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Bukankah dia mulanya hanya setetes mani yang ditumpahkan (ke dalam rahim),"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "کیا وه ایک گاڑھے پانی کا قطره نہ تھا جو ٹپکایا گیا تھا؟"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "难道他不曾是被射出的精液吗？"
+    }
+   }
+  },
+  {
+   "arabic": "ثُمَّ كَانَ عَلَقَةٗ فَخَلَقَ فَسَوَّىٰ",
+   "aya": 38,
+   "id": 5589,
+   "tafsir": {
+    "arabic_moyassar": "أيظنُّ هذا الإنسان المنكر للبعث أن يُترك هَمَلا لا يُؤمر ولا يُنْهى، ولا يحاسب ولا يعاقب؟ ألم يك هذا الإنسان نطفة ضعيفة من ماء مهين يراق ويصب في الأرحام، ثم صار قطعة من دم جامد، فخلقه الله بقدرته وسوَّى صورته في أحسن تقويم؟ فجعل من هذا الإنسان الصنفين: الذكر والأنثى، أليس ذلك الإله الخالق لهذه الأشياء بقادر على إعادة الخلق بعد فنائهم؟ بلى إنه - سبحانه وتعالى- لقادر على ذلك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "অতঃপর সে ‘আলাকায় (জমাট রক্তপিণ্ডে) পরিণত হয়। তারপর আল্লাহ তাকে সুন্দর আকৃতিতে সৃষ্টি করেছেন এবং সুবিন্যস্ত করেছেন।"
+    },
+    "en": {
+     "footnotes": "[11] \"‘Alaqah\": an embryo that resembles a leech.",
+     "text": "then he became a clinging clot[11], then He created him and perfected his form,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "puis d’un corps s’accrochant à la matrice, avant qu’Allah ne lui donne la vie et n’en fasse un être accompli,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "kemudian (mani itu) menjadi sesuatu yang melekat, lalu Allah menciptakannya dan menyempurnakannya,"
+    },
+    "ur": {
+     "footnotes": "[1] فَسَوَّیٰ، یعنی اسے ٹھیک ٹھاک کیا اور اس کی تکمیل کی اور اس میں روح پھونکی۔",
+     "text": "پھر وه لہو کا لوتھڑا ہوگیا پھر اللہ نے اسے پیدا کیا اور درست بنا دیا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "然后，他变成血块，而安拉加以创造他，使之成为肢体完全的人吗？"
+    }
+   }
+  },
+  {
+   "arabic": "فَجَعَلَ مِنۡهُ ٱلزَّوۡجَيۡنِ ٱلذَّكَرَ وَٱلۡأُنثَىٰٓ",
+   "aya": 39,
+   "id": 5590,
+   "tafsir": {
+    "arabic_moyassar": "أيظنُّ هذا الإنسان المنكر للبعث أن يُترك هَمَلا لا يُؤمر ولا يُنْهى، ولا يحاسب ولا يعاقب؟ ألم يك هذا الإنسان نطفة ضعيفة من ماء مهين يراق ويصب في الأرحام، ثم صار قطعة من دم جامد، فخلقه الله بقدرته وسوَّى صورته في أحسن تقويم؟ فجعل من هذا الإنسان الصنفين: الذكر والأنثى، أليس ذلك الإله الخالق لهذه الأشياء بقادر على إعادة الخلق بعد فنائهم؟ بلى إنه - سبحانه وتعالى- لقادر على ذلك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "অতঃপর তিনি তা থেকে সৃষ্টি করেন,জোড়ায় জোড়ায় পুরুষ ও নারী।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and made from him both genders, male and female?"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "de sexe masculin ou féminin ?"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "lalu Dia menjadikan darinya sepasang laki-laki dan perempuan."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "پھر اس سے جوڑے یعنی نر وماده بنائے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他用精液造化两性，男的和女的。"
+    }
+   }
+  },
+  {
+   "arabic": "أَلَيۡسَ ذَٰلِكَ بِقَٰدِرٍ عَلَىٰٓ أَن يُحۡـِۧيَ ٱلۡمَوۡتَىٰ",
+   "aya": 40,
+   "id": 5591,
+   "tafsir": {
+    "arabic_moyassar": "أيظنُّ هذا الإنسان المنكر للبعث أن يُترك هَمَلا لا يُؤمر ولا يُنْهى، ولا يحاسب ولا يعاقب؟ ألم يك هذا الإنسان نطفة ضعيفة من ماء مهين يراق ويصب في الأرحام، ثم صار قطعة من دم جامد، فخلقه الله بقدرته وسوَّى صورته في أحسن تقويم؟ فجعل من هذا الإنسان الصنفين: الذكر والأنثى، أليس ذلك الإله الخالق لهذه الأشياء بقادر على إعادة الخلق بعد فنائهم؟ بلى إنه - سبحانه وتعالى- لقادر على ذلك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৪) হ্যাঁ, অবশ্যই তিনি মৃতদের হিসেবের উদ্দেশ্যে জীবিত করতে সক্ষম।",
+     "text": "তিনি কি মৃতদের জীবিত করতে সক্ষম নন?(৪)"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Is not He able to bring the dead back to life?"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Celui qui a pu créer cet être n’est-Il pas capable de ressusciter les morts ?!"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Bukankah (Allah yang berbuat) demikian berkuasa (pula) menghidupkan orang mati?"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی جواللہ انسان کو اس طرح مختلف اطوار سے گزار کر پیدا فرماتا ہے کیا مرنے کے بعد دوبارہ اسے زندہ کرنے پر قادر نہیں ہے؟",
+     "text": "کیا (اللہ تعالیٰ) اس (امر) پر قادر نہیں کہ مردے کو زنده کردے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "难道那样的造化者不能使死人复活吗？"
+    }
+   }
+  }
+ ],
+ "content_sha256": "sha256:c3f0437bfeaa94153c030b0cc79289aca0e2860d6e6aed07678259a76f573f82",
+ "name_ar": "القيامة",
+ "number": 75,
+ "schema": "balligh.library.quran.surah/1"
+}

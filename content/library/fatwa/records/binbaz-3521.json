@@ -1,0 +1,83 @@
+{
+ "answer": [
+  [
+   {
+    "kind": "strong",
+    "text": "الجواب:"
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "يسقط عنه التسمية في أول الوضوء، فإذا نسي؛ فلا شيء عليه، وإن ذكر في أثناء الوضوء؛ سمى في أثناء الوضوء، قال: بسم الله، مثل الأكل يسمي عند الأكل، فإذا نسي سمى في أثنائه. "
+   }
+  ],
+  [
+   {
+    "kind": "strong",
+    "text": "السؤال:"
+   },
+   {
+    "kind": "text",
+    "text": " ...؟"
+   }
+  ],
+  [
+   {
+    "kind": "strong",
+    "text": "الجواب:"
+   },
+   {
+    "kind": "text",
+    "text": " الحديث ضعيف، لكن الواجب أنه إذا ذكر؛ يسمي، هذا هو الذي ينبغي خروجًا من خلاف العلماء، أكثر أهل العلم على أنه سنة؛ لأن الحديث ضعيف، ولكن إذا تركه عمدًا؛ ينبغي أن يعيد الوضوء، أما جاهلًا أو ناسيًا؛ فلا بأس."
+   }
+  ]
+ ],
+ "content_sha256": "sha256:31a52d6ebc8b526d5ad3b34f4100350dd212aea906eb604b78c679b4caba4e26",
+ "id": "binbaz-3521",
+ "language": "ar",
+ "notes": [],
+ "question": [
+  [
+   {
+    "kind": "strong",
+    "text": "السؤال:"
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "من نسي أن يسمي قبل الوضوء؟"
+   }
+  ]
+ ],
+ "raw_sha256": "sha256:68e955df62163d32066a3f7b4c3c8edbc1095f7f91b8e3d148f3a896642af873",
+ "reuse_basis": "user_confirmed_permission",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.fatwa/2",
+ "source": {
+  "edition": null,
+  "publisher": "binbaz.org.sa",
+  "publisher_name": "موقع الشيخ ابن باز",
+  "retrieved_at": "2026-10-06T05:08:41+00:00",
+  "series": "فتاوى الجامع الكبير",
+  "url": "https://binbaz.org.sa/fatwas/3521/%D8%AD%D9%83%D9%85-%D9%85%D9%86-%D9%86%D8%B3%D9%8A-%D8%A7%D9%84%D8%AA%D8%B3%D9%85%D9%8A%D8%A9-%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D9%88%D8%B6%D9%88%D8%A1"
+ },
+ "source_categories": [
+  {
+   "id": "14",
+   "label": "فروض الوضوء وصفته",
+   "url": "https://binbaz.org.sa/categories/fiqhi/14"
+  },
+  {
+   "id": "239",
+   "label": "الأدعية والأذكار",
+   "url": "https://binbaz.org.sa/categories/objective/239"
+  }
+ ],
+ "source_record_id": "3521",
+ "title": "حكم من نسي التسمية قبل الوضوء",
+ "topic": "worship",
+ "translations": {},
+ "type": "fatwa"
+}

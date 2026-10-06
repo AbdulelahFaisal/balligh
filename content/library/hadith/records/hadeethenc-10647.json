@@ -1,0 +1,181 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:fc4cb5960fa370b50df69f30d324be936aba90eb4e2a1159f7753a2000ee9675",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "نَهى النبيُّ صلى الله عليه وسلم عن الجُلوسِ على القبور.\n\nكما نهى عن الصلاةِ إلى القبور، بأن يكون القبر في جهة قِبْلة المُصلي؛ لأن ذلك من وسائل الشرك.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "النهي عن الصلاة في المقابر أو بينها أو إليها إلا صلاة الجنازة كما ثبت بالسنة.",
+  "النهي عن الصلاة إلى القبور سَدًّا لذريعة الشرك.",
+  "نهى الإسلام عن الغُلوِّ في القبور وعن امْتِهانها، فلا إفْرَاط ولا تَفْريط.",
+  "حُرمة المُسلم باقية بعد موته، لقوله صلى الله عليه وسلم: (كَسْرُ عَظْمِ المَيّت كَكَسْرِه حيًّا)."
+ ],
+ "id": "hadeethenc-10647",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (2/ 668) (972).\nتوضيح الأحكام مِن بلوغ المرام، لعبد الله البسام (2/ 30).\nفتح ذي الجلال والإكرام شرح بلوغ المرام، لمحمد العثيمين (1/ 522).\nمنحة العلام في شرح بلوغ المرام، لعبد الله الفوزان (4/ 285).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=10647",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:37+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/10647"
+ },
+ "source_categories": [
+  {
+   "id": "73",
+   "label": "توحيد الألوهية"
+  },
+  {
+   "id": "460",
+   "label": "شروط الصلاة"
+  }
+ ],
+ "source_record_id": "10647",
+ "text": "عن أبي مَرْثَدٍ الغَنَوِيّ رضي الله عنه قال: قال رسول الله صلى الله عليه وسلم: «لَا تَجْلِسُوا عَلَى الْقُبُورِ، وَلَا تُصَلُّوا إِلَيْهَا».",
+ "title": "لا تجلسوا على القبور، ولا تصلوا إليها",
+ "topic": "belief",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=10647",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:b98bd219a84a7e1ae1b6b02b606e150063b4a08f8410acea90b26324c38fdc06",
+   "explanation": "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কবরের উপর বসতে নিষেধ করেছেন।\r\n\r\nতাছাড়া তিনি কবরের দিকে মুখ করে সালাত আদায় করতেও নিষেধ করেছেন। এর ধরন হলো: কবর মুসল্লীর কিবলার দিকে (সম্মুখে) হওয়া। কেননা এগুলো শির্কের মাধ্যম।",
+   "grade": "সহীহ",
+   "hints": [
+    "হাদীসে কবরস্থান বা উভয় কবরের মধ্যে বা কবরের দিকে মুখ করে সালাত আদায় করতে নিষেধ করা হয়েছে। তবে জানাযার সালাত ব্যতীত; কেননা এটি কবরের দিকে মুখ করে আদায় করার ব্যাপারে সুন্নাহ দ্বারা সাব্যস্ত হয়েছে।\r",
+    "কবরের দিকে মুখ করে সালাত আদায় করা নিষেধ হওয়ার কারণ হলো শির্কের মাধ্যমকে বন্ধ করা।\r",
+    "কবরের ব্যাপারে অতিরঞ্জিত করা বা এর অবমাননাকে ইসলাম নিষেধ করেছে। অতএব, বাড়াবাড়ি ও অবহেলা কোনটিই করা যাবে না।\r",
+    "মুসলিমের মৃত্যুর পরেও তার সম্মান বলবৎ থাকে। কেননা নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন: “মৃত ব্যক্তির হাড় ভাঙ্গা জীবিত ব্যক্তির হাড় ভাঙ্গার মতো।“"
+   ],
+   "mapping": "same HadeethEnc record id 10647; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:31+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/10647",
+   "text": "আবূ মারসাদ আল গানাবী রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন: “তোমরা কবরের উপর বসবে না এবং কবরের দিকে মুখ করে সালাত আদায় করবে না।”",
+   "title": "“তোমরা কবরের উপর বসবে না এবং কবরের দিকে মুখ করে সালাত আদায় করবে না।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=10647",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:bf992a5800625173fac9c89166b6a01f28619358a61c5a9435082e6e7c1c0197",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) forbade sitting on the graves.\r\n\r\nHe also forbade praying while facing the graves if the grave lies in the direction of the Qiblah for the praying person because this is one of the means leading to polytheism.",
+   "grade": "Authentic",
+   "hints": [
+    "It is prohibited to offer prayer in the graveyards, between them, or towards them, with the exception of the funeral prayer, as established by the Sunnah.\r",
+    "Praying towards the graves is prohibited to block the means to polytheism.\r",
+    "Islam prohibited immoderate reverence for the graves or disrespect towards them - neither extremism nor neglect.\r",
+    "The inviolability of a Muslim continues after his death, as indicated by the Prophet's statement: \"Breaking the bone of a dead person is like breaking it while he was alive.\""
+   ],
+   "mapping": "same HadeethEnc record id 10647; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:30+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/10647",
+   "text": "Abu Marthad al-Ghanawi (may Allah be pleased with him) reported: The Messenger of Allah (may Allah's peace and blessings be upon him) said: \"Do not sit on graves, and do not pray towards them.\"",
+   "title": "Do not sit on graves, and do not pray towards them",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=10647",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:808429555175d09b2734d8d07e7b8e512d47fc24740f109911feccd3c6a77fcc",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) a interdit de s'asseoir sur les tombes.\r\n\r\nTout comme il a interdit de prier en direction des tombes, de sorte que la tombe soit dans la direction de la Qiblah du fidèle, parce que c'est l'un des moyens qui conduisent au polythéisme.",
+   "grade": "Authentique",
+   "hints": [
+    "L'interdiction de prier dans les cimetières, entre les tombes ou dans leur direction, à l'exception de la prière funéraire, comme c'est attesté dans la Tradition prophétique.\r",
+    "L'interdiction de prier en direction des tombes afin de bloquer tout prétexte conduisant au polythéisme.\r",
+    "L'Islam a interdit l'exagération vis-à-vis des tombes mais aussi de ne pas les respecter. Ainsi, il n'y a ni laxisme, ni extrémisme [à leur égard].\r",
+    "Le caractère sacré du musulman perdure même après sa mort, en raison de la parole du Prophète (qu'Allah le couvre d'éloges et le préserve) : \" Briser l'os du mort est semblable à le briser de son vivant. \""
+   ],
+   "mapping": "same HadeethEnc record id 10647; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:31+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/10647",
+   "text": "Aboû Marthad Al-Ghanawî (qu'Allah l'agrée) relate que le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) a dit : « Ne vous asseyez pas sur les tombes, et ne priez pas dans leur direction ! »",
+   "title": "Ne vous asseyez pas sur les tombes, et ne priez pas dans leur direction !",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=10647",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:cce7699cac31c123ac646f769f0627b7df9975b890f5ac9ee67f7f3a9fcebdef",
+   "explanation": "Nabi ﷺ melarang duduk di atas kubur.\r\n\r\nBeliau juga melarang salat menghadap kubur, yaitu bila kubur berada di arah kiblat orang yang salat karena hal itu termasuk sarana kesyirikan.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Larangan salat di kubur, di antara kubur atau menghadap ke kubur, kecuali salat jenazah sebagaimana disebutkan dalam Sunnah.\r",
+    "2- Larangan salat menghadap kubur sebagai langkah menutup sarana kesyirikan.\r",
+    "3- Islam melarang sikap guluw (berlebihan) terhadap kubur dan juga menghinakannya, sehingga tidak boleh berlebihan padanya dan juga meremehkannya.\r",
+    "4- Kehormatan seorang muslim tetap berlaku meskipun dia telah meninggal dunia berdasarkan sabda Nabi ﷺ: \"Mematahkan tulang mayit sama seperti mematahkannya ketika hidup.\""
+   ],
+   "mapping": "same HadeethEnc record id 10647; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:30+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/10647",
+   "text": "Abu Marṡad Al-Ganawiy -raḍiyallāhu 'anhu- meriwayatkan, Rasulullah ﷺ bersabda, \"Janganlah kalian duduk di atas kubur dan jangan salat menghadapnya.\"",
+   "title": "Janganlah kalian duduk di atas kubur dan jangan salat menghadapnya",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=10647",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:7f881414f10a588dac5c3098d45a372fefcf047536dd3ff5fd67d5200e9ade23",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم نے قبروں کے اوپر بیٹھنے سے منع فرمایا ہے۔\r\n\r\nاسی طرح قبروں کی جانب اس طرح منہ کرکے نماز پڑھنے سے منع کیا ہے کہ قبر نمازی کے قبلے کی جانب ہو۔ ممانعت کی وجہ یہ ہے کہ یہ شرک کا ذریعہ ہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "قبرستان میں، قبروں کے بیچ یا قبروں کی جانب منہ کرکے نماز پڑھنے کی ممانعت۔ البتہ جنازے کی نماز اس سے مستثنی ہے، جیسا کہ سنت سے ثابت ہے۔\r",
+    "قبروں کی جانب منہ کرکے نماز پڑھنے سے ممانعت کی وجہ شرک کے دروازے کو بند کرنا ہے۔\r",
+    "اسلام نے قبروں کے بارے میں غلو سے کام لینے اور ان کی بے حرمتی کرنے دونوں سے منع کیا ہے۔ یہاں نہ افراط کی گنجائش ہے، نہ تفریط کی۔\r",
+    "مسلمان کی حرمت اس کی موت کے بعد بھی باقی رہتی ہے۔ کیوں کہ اللہ کے رسول صلی اللہ علیہ و سلم کا فرمان ہے : \"مرے ہوئے آدمی کی ہڈی کو توڑنا زندہ آدمی کی ہڈی کو توڑنے کی طرح ہے۔\""
+   ],
+   "mapping": "same HadeethEnc record id 10647; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:30+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/10647",
+   "text": "ابو مَرثَد غَنَوی رضی اللہ عنہ سے روایت ہے، وہ کہتے ہيں کہ اللہ کے رسول صلی اللہ علیہ و سلم نے فرمایا : \"قبروں پر مت بیٹھو اور ان کی جانب منہ کرکے نماز نہ پڑھو۔\"",
+   "title": "قبروں پر مت بیٹھو اور ان کی جانب منہ کرکے نماز نہ پڑھو۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=10647",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:7852e4f504076f5df7e97ead62d0c93f145b06de2c87c0ef0d25113353f51fe1",
+   "explanation": "先知（愿主福安之）禁止人们坐在坟墓上面。\r\n\r\n同样也禁止人面对坟墓礼拜，即：坟墓处于朝向的方向，因为此举属于以物配主的一个因素。",
+   "grade": "正确的",
+   "hints": [
+    "禁止在墓地，或坟墓之间，或对着坟墓礼拜，但殡礼除外，这是得到圣训证实的。\r",
+    "禁止朝着坟墓礼拜，是为了杜绝导致以物配主。\r",
+    "伊斯兰禁止过分的尊重坟墓和过分的轻视之，既不过分也不怠慢。\r",
+    "穆斯林即使亡故也是有尊严的，因为使者（愿主福安之）之言：“折断亡者的骨头如同折断活人的骨头。”"
+   ],
+   "mapping": "same HadeethEnc record id 10647; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:30+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/10647",
+   "text": "据艾布·麦尔希德（愿主喜悦之）传述说：安拉的使者（愿主福安之）说： “不可坐于坟墓之上，不可对着坟墓礼拜。”",
+   "title": "“不可坐于坟墓之上，不可对着坟墓礼拜。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-10220",
+ "source_content_sha256": "sha256:dce4f55a155bb5c4f05e91a806ba7417d619591a0752fd30b31ae33a29daf7a8",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:26:33.648646+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 379,
+  "completion_tokens": 197,
+  "total_tokens": 576,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 379
+ },
+ "latency_ms": 3104,
+ "units": [
+  {
+   "id": "title",
+   "text": "Hukum orang yang berniat puasa tetapi tidak makan sahur"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Barangsiapa bangun sebelum matahari terbit, dan dia berniat puasa, apakah puasanya sah?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Ya, puasanya sah, meskipun dia tidak makan sahur. Segala puji bagi Allah, ya. Yang menjadi patokan adalah niat, karena amal-amal itu tergantung pada niatnya. Segala puji bagi Allah, ya."
+  }
+ ]
+}

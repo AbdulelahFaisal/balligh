@@ -1,0 +1,72 @@
+{
+ "answer": [
+  [
+   {
+    "kind": "strong",
+    "text": "الجواب:"
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "إذا نام الإنسان عن صلاة، ثم استيقظ؛ فإنه يصليها حال استيقاظه مع سنتها، لقول النبي ﷺ: "
+   },
+   {
+    "kind": "hadith",
+    "text": "من نام عن الصلاة، أو نسيها؛ فليصلها إذا ذكرها، لا كفارة لها إلا ذلك"
+   },
+   {
+    "kind": "text",
+    "text": ". "
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "ولما نام النبي ﷺ في بعض غزواته، وبعض أسفاره عن صلاة الصبح، فلم يستيقظوا إلا بحر الشمس؛ قام -عليه الصلاة والسلام- وأمر بلالًا فأذن، وتوضؤوا للصلاة، وصلوا سنتها، ثم أقام، وصلاها كما كان يصليها في وقتها -عليه الصلاة والسلام-."
+   }
+  ]
+ ],
+ "content_sha256": "sha256:1090ab0e4652540b7dd325e02f61896872db697b6a5bdbfc2a126cc3279fc8fa",
+ "id": "binbaz-2774",
+ "language": "ar",
+ "notes": [],
+ "question": [
+  [
+   {
+    "kind": "strong",
+    "text": "السؤال:"
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "رقدت عن صلاة الصبح، ولم أستيقظ إلا في الضحى، فهل يجوز لي صلاتها عندما أستيقظ، أم أصليها مع وقتها؟ "
+   }
+  ]
+ ],
+ "raw_sha256": "sha256:7089f007d0f104c8c3eb0ac826bb7b58d1668f78fbcb4a06a959227150c7b70e",
+ "reuse_basis": "user_confirmed_permission",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.fatwa/2",
+ "source": {
+  "edition": null,
+  "publisher": "binbaz.org.sa",
+  "publisher_name": "موقع الشيخ ابن باز",
+  "retrieved_at": "2026-10-06T05:08:42+00:00",
+  "series": "فتاوى الجامع الكبير",
+  "url": "https://binbaz.org.sa/fatwas/2774/%D8%AD%D9%83%D9%85-%D9%85%D9%86-%D9%86%D8%A7%D9%85-%D8%B9%D9%86-%D8%B5%D9%84%D8%A7%D8%A9-%D8%A7%D9%84%D8%B5%D8%A8%D8%AD-%D8%AD%D8%AA%D9%89-%D8%AE%D8%B1%D8%AC-%D9%88%D9%82%D8%AA%D9%87%D8%A7"
+ },
+ "source_categories": [
+  {
+   "id": "27",
+   "label": "وقت الصلاة",
+   "url": "https://binbaz.org.sa/categories/fiqhi/27"
+  }
+ ],
+ "source_record_id": "2774",
+ "title": "حكم من نام عن صلاة الصبح حتى خرج وقتها",
+ "topic": "worship",
+ "translations": {},
+ "type": "fatwa"
+}

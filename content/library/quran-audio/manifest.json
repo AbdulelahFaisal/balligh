@@ -1,0 +1,623 @@
+{
+ "audio_hosted": false,
+ "counts": {
+  "introductions": 0,
+  "pages": 604,
+  "surahs": 114,
+  "timed_ayahs": 6236,
+  "unavailable_ayahs": 0
+ },
+ "files": {
+  "pages.json": "sha256:e678fb9044d0d563e544e65c1d90dadefc231717c6ceea8f7f55b7d3d77b3f00",
+  "timing.json": "sha256:fd0a5ec9b5062a57ae20e3434099b82fd7a06525758b408beee3adcb1c009767"
+ },
+ "folder_url": "https://cdn.mp3quran.net/audio/yasser-dosari/r1/",
+ "pairing": {
+  "folder_url": "https://cdn.mp3quran.net/audio/yasser-dosari/r1/",
+  "id": 92,
+  "name": "ياسر الدوسري",
+  "rewaya": "حفص عن عاصم",
+  "soar_count": 114,
+  "soar_link": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=92"
+ },
+ "read_id": 92,
+ "reciter": {
+  "name_ar": "ياسر الدوسري",
+  "name_en": "Yasser Al-Dosari",
+  "rewaya_ar": "حفص عن عاصم",
+  "rewaya_en": "Hafs from Asim"
+ },
+ "retrieved_at": "2026-10-06T09:15:14+00:00",
+ "schema": "balligh.quran-audio/1",
+ "sources": {
+  "documentation": "https://www.mp3quran.net/ar/api",
+  "publisher_page": "https://www.mp3quran.net/ar/yasser/downloads",
+  "reads": {
+   "retrieved_at": "2026-10-06T09:15:08+00:00",
+   "sha256": "b22204b9af280a4bcfbbf9bfd44129a6744d6b3d97b14fed3306207df8ac7e78",
+   "url": "https://www.mp3quran.net/api/v3/ayat_timing/reads"
+  },
+  "soar": {
+   "retrieved_at": "2026-10-06T09:15:08+00:00",
+   "sha256": "14099d206d3d59876d09153a386b3c0b4dc2bbe76e5840370d04cc30566c9d5b",
+   "url": "https://www.mp3quran.net/api/v3/ayat_timing/soar?read=92"
+  },
+  "timing": [
+   {
+    "retrieved_at": "2026-10-06T09:15:08+00:00",
+    "sha256": "3e05f1277d82e9276547ab12cad793088f99f94ea6a94ad00f4a1485670fb1fa",
+    "surah": 1
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:08+00:00",
+    "sha256": "e8c62e05ee5c7da1a3e80dc568cd67260022a7bc0292f499c1850ab9011dd6a4",
+    "surah": 2
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:08+00:00",
+    "sha256": "1aac7deb088845ca6d2da16fd30e3f0707e88b0b6899287d74930d92f45fa4ac",
+    "surah": 3
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:08+00:00",
+    "sha256": "ed2fa5fed7a9577e5bcbadb283d3589dd48397ab1622ec7261fcb0e5aa297210",
+    "surah": 4
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:08+00:00",
+    "sha256": "338c207fd6da7020d14785f5d29730052f8a4d3196dcd63a85d1162e354a00e2",
+    "surah": 5
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:08+00:00",
+    "sha256": "5b0f9ddb36ffeae8ca4650c36dc809391c75e1efe6988534d54de0e0b334f01a",
+    "surah": 6
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:08+00:00",
+    "sha256": "ca6caa4f64238eba7cbf4b6d40c671786a2f089d3d7430004e24ffc50757a57d",
+    "surah": 7
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:09+00:00",
+    "sha256": "cc1da8a42be132e76823a744a8ea50ea694554d0f2d9180361546bc44faf897d",
+    "surah": 8
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:09+00:00",
+    "sha256": "790ae1cd323d08cf7c1e3fe655c8f2e0c3b2529054d6a0948863693f8b4442dd",
+    "surah": 9
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:09+00:00",
+    "sha256": "d3357dee6aaa1539757a1b9a34a534c55e1052843bb592d0c26d381abaed333a",
+    "surah": 10
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:09+00:00",
+    "sha256": "9abbc9687d401e5f4a812cbd8439891d095b12f34fc6ff932baff61be4274a58",
+    "surah": 11
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:09+00:00",
+    "sha256": "6578687e15a923ab67357664faadbd83925ffb8618dbf4e4df0b6f9674dae7fd",
+    "surah": 12
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:09+00:00",
+    "sha256": "cc81788fea10c7ca56397db15c2079e8d5f79e0d0b0b30aa053f932427f99666",
+    "surah": 13
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:09+00:00",
+    "sha256": "b6f23e66e0b7a12edfea7c61cccb33b4651f27e41a4de4a55072a1302e752929",
+    "surah": 14
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:09+00:00",
+    "sha256": "ba6abed46c62019035084d884fe518385c3195a12d0e8011d3c7b86b8c6f2e23",
+    "surah": 15
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:09+00:00",
+    "sha256": "fe65b56838cf356b10d8e3c29b8a1d5fa34c49fb675569f080ec0ba4decfc504",
+    "surah": 16
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:09+00:00",
+    "sha256": "67187d8091a49d481b3329674e6d8fdc3899c7f1fe91e43a10df77c520d41830",
+    "surah": 17
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:09+00:00",
+    "sha256": "4b91697222d23760194566415f35ce3f4de7707ca390586127ad3aead8aa637f",
+    "surah": 18
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:09+00:00",
+    "sha256": "15083ada346eeddb86a0541c5cbf86b2657f011fbff9adb247786612c38c490a",
+    "surah": 19
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:09+00:00",
+    "sha256": "15640e742dcc91566e1fea94572c89470c118b4eccd3b8e574c8d6deb51f3fe2",
+    "surah": 20
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:09+00:00",
+    "sha256": "8fdc45b2b5538cc8d3379a496e4e0d88cf8cba08bfb4fc8c4a9458f7e4e3adb5",
+    "surah": 21
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:09+00:00",
+    "sha256": "b16169169ad218f25610f8037430d7dd0385841d75c9e5b3d0bb039983baecf5",
+    "surah": 22
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:09+00:00",
+    "sha256": "76e3013148df18d5bcab3644232f3310d1201a6d7fec32a430a46a6a6c4e1227",
+    "surah": 23
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:09+00:00",
+    "sha256": "c9e5fd17e9ce9b5e97827aef96a608258fda28db8cb65b2989695f13d7d1f797",
+    "surah": 24
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:09+00:00",
+    "sha256": "d8cc2c6b01e483eda3d459792d689b768e1685db572998f546613330224bf9b6",
+    "surah": 25
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:09+00:00",
+    "sha256": "c8128aaaff82624161364c1a19ecbea5c181c6672adf151b35ca6a0b02010d33",
+    "surah": 26
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:09+00:00",
+    "sha256": "20463200b41e085fe6ac622c86485beae006b3209a34ba8f699c1ae1815e3dbe",
+    "surah": 27
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:10+00:00",
+    "sha256": "8fbd22e27672acc6725c4adda9f3f48683b3987d97ab01b4dc8aa2b6aa80dd69",
+    "surah": 28
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:10+00:00",
+    "sha256": "95805ff1a43f43774644db0a46cd262addf411c79ccd6b84b22dfcaeb098cedd",
+    "surah": 29
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:10+00:00",
+    "sha256": "8613df17539d32199c466167b0cf7c2d0eb075569e32294cb11fcc2f0f4884b4",
+    "surah": 30
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:10+00:00",
+    "sha256": "d88ec70508c4e5e68548089964662dedc952eef0b29b1323c8e09cfd74e1edec",
+    "surah": 31
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:10+00:00",
+    "sha256": "50be4bf281eb53e4ecc73a33d0ede443e706f0ed224e465fb56fcfa6e599e3e3",
+    "surah": 32
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:10+00:00",
+    "sha256": "a6af4772690c6b84aa52350ef851806ae7ece577527ea929034ddf8913a1b53f",
+    "surah": 33
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:10+00:00",
+    "sha256": "0448c4c56ee6dfa5cd0f5326ebc6834e73527c84996656b17412878d10b70a9b",
+    "surah": 34
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:10+00:00",
+    "sha256": "4a31f582652f3980ad97351fcff45f7942d3deed79a992b51f0b5aad36c4ea26",
+    "surah": 35
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:10+00:00",
+    "sha256": "bcfe008ad36921e5cd35745fd79063ceaa46caf65a368b9525e134ea8c40367b",
+    "surah": 36
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:10+00:00",
+    "sha256": "d90df748e198613edf1c8b03d79cc0449a2025ca7e3489ada4e70ca657d9d4b7",
+    "surah": 37
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:10+00:00",
+    "sha256": "4a5a834f905db2e10d7f79b357c9798115d3ddb547616b0f2d3bb776b928c4d8",
+    "surah": 38
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:10+00:00",
+    "sha256": "c6794cce71f68ae1e243fac69ec647412847e85fc0798ac50c6bdc744827d949",
+    "surah": 39
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:10+00:00",
+    "sha256": "b229a3b2fa9ac72e2390cdcd251e11a5ef199beae8982dfa54790f8a4a677885",
+    "surah": 40
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:10+00:00",
+    "sha256": "434d2381706f8f698ac31dac8040eeb70599d7a82099c21d66dcfc0ee23fa52d",
+    "surah": 41
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:10+00:00",
+    "sha256": "9703c3915629702be1088dec11b6f94f8fcdcd41877e301258f81c5d3153db36",
+    "surah": 42
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:10+00:00",
+    "sha256": "0130cf70b009eedba0147de136c54cd7fadd9d6c66779c0e683531c50788aef6",
+    "surah": 43
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:10+00:00",
+    "sha256": "221bc7fd6378403f85e91bda320d968e06af9b66d06ed123ace0daaaa4e76d71",
+    "surah": 44
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:10+00:00",
+    "sha256": "fe0e767d720d4239c7d7028d2d2c5acc56f48f153cf7c19cee16dc1ec59deb3e",
+    "surah": 45
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:10+00:00",
+    "sha256": "1395623e6576234afe424744bd03d067d4bf53bdb1f776a0f616373261ea95b8",
+    "surah": 46
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:10+00:00",
+    "sha256": "ce1e0189b129898e8f9f2222e6b3d810a4f004521578a536d746a5d7719791c3",
+    "surah": 47
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:10+00:00",
+    "sha256": "c7f427ba926a7738c7ec623d4435b1fa20262059e8551ac60b4f4c1aaa4c5186",
+    "surah": 48
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:11+00:00",
+    "sha256": "7f3a524064d568db323498d44df2dae40b35b787a695fc3d164711156696fafc",
+    "surah": 49
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:11+00:00",
+    "sha256": "8ded36cf7dd44089f03b180e53690871e399cf1b3edd56498d4fde4e9bba6b0f",
+    "surah": 50
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:11+00:00",
+    "sha256": "81c6ecf0622613b9aa108cb9f7b62bc6fa3a016f3d48618722ec8a41e0cc8190",
+    "surah": 51
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:11+00:00",
+    "sha256": "9032a7f3b3f386b56e355981158a8861dfeab040bca299169549d82e3d3b66d9",
+    "surah": 52
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:11+00:00",
+    "sha256": "b724c7eb6ec298104dc44ad9eb0101d6fc43c1d8d46ae57af0fda23fb1ccc13b",
+    "surah": 53
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:11+00:00",
+    "sha256": "706ba12f8064c4f49bf2ae8e7715940320a5a8cb17338117f528ac80f0e65fa0",
+    "surah": 54
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:11+00:00",
+    "sha256": "1c766a5c455754617c2761153cf51ded4df1acbb322f3a610ec0f424f1474cf4",
+    "surah": 55
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:11+00:00",
+    "sha256": "ce04fc5d12636d48343589882da25aff4d12437ea7236e8ad6e6af46d06b8348",
+    "surah": 56
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:11+00:00",
+    "sha256": "773bca105d0a26f42375913009e32e0ef27f23a705680cdc849898bd8686f2a2",
+    "surah": 57
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:11+00:00",
+    "sha256": "7531a958cd248ddcba9aab225e1656ff86589e7982f02bc277e09a1a5b090e79",
+    "surah": 58
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:11+00:00",
+    "sha256": "90e050aac68009ad1f01ac96b612eeaf77757a819b02321598c2e1f573914b8d",
+    "surah": 59
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:11+00:00",
+    "sha256": "7200524892144c1aa81fef4c70ae95fbdcd1b6847d91ea8c603409b1334a7ba4",
+    "surah": 60
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:11+00:00",
+    "sha256": "7f22ed8e05f4de16ffd612114ecb94436977cf53f458895b5bd0857acae2866f",
+    "surah": 61
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:11+00:00",
+    "sha256": "a50d1415f5c507bb32ed778c9ca67c5647c85529d0d92215befc9339c0de25e5",
+    "surah": 62
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:11+00:00",
+    "sha256": "1af707930ae8005dce9e515b869bd12b20090aa433231e1ceef565733066ff71",
+    "surah": 63
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:11+00:00",
+    "sha256": "46c76cd668f69e2e6e86b4c5b1eb4ae8d18d1183921251d41cf479e4e2eadde4",
+    "surah": 64
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:11+00:00",
+    "sha256": "3238c6846c83c7b0964ddda40e55ba51ea34464de5ff32faffa462ca3406b17f",
+    "surah": 65
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:11+00:00",
+    "sha256": "816e402bbfa1a167baa4c7966ebb3217d9545f80591bcbc537b36a0aa7a5f9d0",
+    "surah": 66
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:11+00:00",
+    "sha256": "561dfe5a8de1861c4ed80f5a7f86428b8c75dbd8330a4e853c3b42e611b7e767",
+    "surah": 67
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:11+00:00",
+    "sha256": "1e68a251b24a92f4e3ddf0603a64f273012572c72ff89b0b2767937b5c37348f",
+    "surah": 68
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:12+00:00",
+    "sha256": "81bb7c9459a8065d66ebedecdd037bc704c5f5a27a7db6d0a97c4781f4a4fa91",
+    "surah": 69
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:12+00:00",
+    "sha256": "d3f6b7e5672f7165ffe55247d7c0a8e76ab1ec0e21f0872508bbb10b13385c84",
+    "surah": 70
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:12+00:00",
+    "sha256": "b0571114b7776cbde105d6ef97f6e82366e814e87daa9be09dde218f886cd879",
+    "surah": 71
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:12+00:00",
+    "sha256": "6032f44e01f75d8ebbfa7709d21c832bcef2334ab1c6aab347750a8dae27444e",
+    "surah": 72
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:12+00:00",
+    "sha256": "2ed3d69d6977bbdf12b7073664c00b8402d12c6d82ce39b32413c21127e45d8b",
+    "surah": 73
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:12+00:00",
+    "sha256": "7b275d46157bb3380bd64a4d1df6aaea2e8220b604cb2f51ceaa48b8eee2af56",
+    "surah": 74
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:12+00:00",
+    "sha256": "320d8b19fcd6740711697db33abafb43794e3058cdc2616e128756c834c31a14",
+    "surah": 75
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:12+00:00",
+    "sha256": "156ebafc5f973484958e21b8f9a3e5c6cdb750feabbe846bc9c1158f46c819dc",
+    "surah": 76
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:12+00:00",
+    "sha256": "86853d87a2a4e112e02eccc4a8c1d39443947cd39644337d92febf7a00ea33b0",
+    "surah": 77
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:12+00:00",
+    "sha256": "189078113c201fa3704fed13ca0ed671ee03244440d3731712cd7f13e385ba8e",
+    "surah": 78
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:12+00:00",
+    "sha256": "42c3e9379f9006ec93f3d831eea50e0e0ca71ebd78c3a15d59e03dd55e7e04cc",
+    "surah": 79
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:12+00:00",
+    "sha256": "c374d40346fb834bdbe19c410f702941e367f9a32e679f96008457610e3b40b2",
+    "surah": 80
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:12+00:00",
+    "sha256": "57ff245874d10e7399844f08810e307ac38a151ef4cab16a0ae44911d717dc11",
+    "surah": 81
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:12+00:00",
+    "sha256": "7340ffdb2938ab8c03a29407c6c5e16b6a70901116926abee430f0f5b9c66fd4",
+    "surah": 82
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:12+00:00",
+    "sha256": "fba03e25401948ef413d2891d47ccfc8f7d31e97c112cdf1103daba8371d22a4",
+    "surah": 83
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:12+00:00",
+    "sha256": "44d6f9e68334b2b6222464586f7ab288315b5b005a5dac66e39a643db136f668",
+    "surah": 84
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:12+00:00",
+    "sha256": "5385a441436209b393732686d77c369dc7b0e7f5f16019ae031242c4108798f6",
+    "surah": 85
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:12+00:00",
+    "sha256": "b955ccaf7b14cf70f83ef8f2b4349ce21b3619e042daf5ad7f02afaf07a4da24",
+    "surah": 86
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:12+00:00",
+    "sha256": "9f12b2e015a3a54e38aec4973e7b5fcc0c8f5ef2aa37e5c9c16d73f98390fc37",
+    "surah": 87
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:12+00:00",
+    "sha256": "d19ad26152c72d548eed36ee8571f618c7162a7d20a3ab7030fa8514535c8aaa",
+    "surah": 88
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:13+00:00",
+    "sha256": "fe362e767dabd01c1e0004147ecc3ed2f01ba5be7721f99b002d1cdc17c41142",
+    "surah": 89
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:13+00:00",
+    "sha256": "c42364f4e7685220ad8bfc61e9fd97fde055adc8b7c61faf1cd8fc74cec42870",
+    "surah": 90
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:13+00:00",
+    "sha256": "f6b2a5b6a7ad9aeabb686d838d247397824b9c1ff54671ff7a39dfc07219bdbb",
+    "surah": 91
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:13+00:00",
+    "sha256": "489751cffb22e6f7cd1cb13659733ccb1dde404713a1f77e5f4456b8d2c36967",
+    "surah": 92
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:13+00:00",
+    "sha256": "a0fda84bae3b848e5de37b3777082e403f8e24f165813c1e5f7d97787bcc3130",
+    "surah": 93
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:13+00:00",
+    "sha256": "50b338f2923c6a35a206a5b933142b1e318250c4e61fc4bf174940a4ecbe5246",
+    "surah": 94
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:13+00:00",
+    "sha256": "3d7850b1863a819e9e5d7b6b776ae287b5f137f73ea3cd1edecfb0f6e0d7f10f",
+    "surah": 95
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:13+00:00",
+    "sha256": "95913cad37d2155e35833d1bf40d10695faa4c5778f83e4cf3b0b9c5ef4d6888",
+    "surah": 96
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:13+00:00",
+    "sha256": "0a41b7c3b8609f8540ac607978e41113688ad23a975ef9e1816377ea009f84c5",
+    "surah": 97
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:13+00:00",
+    "sha256": "f39613b1bb44a292658390d3b6f03de10aee19b08a1e5b3e079361a8cd914679",
+    "surah": 98
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:13+00:00",
+    "sha256": "24982aa9009f31627edd9c1496f2f54a22764c1d157cd058a55dc99fe744f4c0",
+    "surah": 99
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:13+00:00",
+    "sha256": "91a5b96ff7035509275aa936d25ff805bbacdb81e1bdf8966afce04e46f678a3",
+    "surah": 100
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:13+00:00",
+    "sha256": "98ed094a9aac3725a55ab4d2283234844ad93e94c446ce477974dacff97e90d1",
+    "surah": 101
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:13+00:00",
+    "sha256": "33c9acc6512870a909de7d677ed4b99e28d17a396d599658ed7c5a14324396c5",
+    "surah": 102
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:13+00:00",
+    "sha256": "e34f9d8ec30f79bab0714cb96d6fb0d8752f16a0f78493782926c676807f5cf6",
+    "surah": 103
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:13+00:00",
+    "sha256": "67d00875f4341a4b6cc588a57599d40c72e927ebc83dda27dc3be6b4833e9253",
+    "surah": 104
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:13+00:00",
+    "sha256": "cbeeabdde0daaa9fd2d98708ac5b51eb6cb3e18d525d2f8bd027c70a63ba13e0",
+    "surah": 105
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:13+00:00",
+    "sha256": "ec35e8fc55eb542be90776dc235cca415fb62a34347325f4f6c2d76ca1b1871d",
+    "surah": 106
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:13+00:00",
+    "sha256": "cd4032d5686d953b70366159a0e95cf7cd76d795a5b034f78a06c4c89ff5b15e",
+    "surah": 107
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:13+00:00",
+    "sha256": "2586b7a5beb48bfa5d42cdb2a5758d6b13bdc1a49ca9ab867494010bf5ae98fc",
+    "surah": 108
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:13+00:00",
+    "sha256": "40076fae1aa0c1c55b07e4f8603bf9bbb7185cdb3799717eadb8f84009d78540",
+    "surah": 109
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:14+00:00",
+    "sha256": "32bb6d50f21dececfb9f6cc60f8683cd9297ac179992ef44d00b15caeecc04dd",
+    "surah": 110
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:14+00:00",
+    "sha256": "c021fec6e2d95b01d0e4cdee947860fd9233a378bda53fd7e48272cc00892779",
+    "surah": 111
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:14+00:00",
+    "sha256": "5554fa3590018ec72e22a8a2b0c1bca0ea7c0a5a7cf76f3a6691ea13582164d0",
+    "surah": 112
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:14+00:00",
+    "sha256": "c184f2470bde01cfce76a41ceba71f1370d17a0c247f766964b0959313db53fc",
+    "surah": 113
+   },
+   {
+    "retrieved_at": "2026-10-06T09:15:14+00:00",
+    "sha256": "913b14344507d35a0e722be56a73c84439d26f9aa03e5cbdb977ca6f6d5142bb",
+    "surah": 114
+   }
+  ]
+ },
+ "unavailable": [],
+ "units": {
+  "raw": "start_time/end_time integers from the publisher",
+  "seconds": "raw / 1000"
+ }
+}

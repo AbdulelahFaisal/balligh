@@ -1,0 +1,587 @@
+{
+ "ayah_count": 17,
+ "ayahs": [
+  {
+   "arabic": "وَٱلسَّمَآءِ وَٱلطَّارِقِ",
+   "aya": 1,
+   "id": 5932,
+   "tafsir": {
+    "arabic_moyassar": "أقسم الله سبحانه بالسماء والنجم الذي يطرق ليلا وما أدراك ما عِظَمُ هذا النجم؟ هو النجم المضيء المتوهِّج. ما كل نفس إلا أوكل بها مَلَك رقيب يحفظ عليها أعمالها؛ لتحاسب عليها يوم القيامة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "শপথ আসমানের ও রাতে আগমনকারীর (নক্ষত্রের)!"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "By the sky and the night comer –"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Par le ciel et le visiteur de la nuit !"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Demi langit dan yang datang pada malam hari."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "قسم ہے آسمان کی اور اندھیرے میں روشن ہونے والے کی."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "以苍穹和启明星盟誓，"
+    }
+   }
+  },
+  {
+   "arabic": "وَمَآ أَدۡرَىٰكَ مَا ٱلطَّارِقُ",
+   "aya": 2,
+   "id": 5933,
+   "tafsir": {
+    "arabic_moyassar": "أقسم الله سبحانه بالسماء والنجم الذي يطرق ليلا وما أدراك ما عِظَمُ هذا النجم؟ هو النجم المضيء المتوهِّج. ما كل نفس إلا أوكل بها مَلَك رقيب يحفظ عليها أعمالها لتحاسب عليها يوم القيامة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "হে রাসূল! কিসে তোমাকে জানাবে রাতে আগমনকারী কী?"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and how do you know what the night comer is?"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "As-tu une idée de ce qu’est ce visiteur de la nuit ?"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan tahukah kamu apakah yang datang pada malam hari itu?"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "تجھے معلوم بھی ہے کہ وه رات کو نمودار ہونے والی چیز کیا ہے؟"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你怎能知道启明星是什么？"
+    }
+   }
+  },
+  {
+   "arabic": "ٱلنَّجۡمُ ٱلثَّاقِبُ",
+   "aya": 3,
+   "id": 5934,
+   "tafsir": {
+    "arabic_moyassar": "أقسم الله سبحانه بالسماء والنجم الذي يطرق ليلا وما أدراك ما عِظَمُ هذا النجم؟ هو النجم المضيء المتوهِّج. ما كل نفس إلا أوكل بها مَلَك رقيب يحفظ عليها أعمالها لتحاسب عليها يوم القيامة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "উজ্জ্বল নক্ষত্র।"
+    },
+    "en": {
+     "footnotes": "[1] Whose light pierces through the darkness or through the sky.",
+     "text": "It is the star of piercing brightness[1] –"
+    },
+    "fr": {
+     "footnotes": "[1] L’étoile est ici surnommée « le visiteur de la nuit » car elle n’est observée que la nuit.",
+     "text": "C’est l’étoile qui, de son éclat, perce l’obscurité[1]."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(Yaitu) bintang yang bersinar tajam,"
+    },
+    "ur": {
+     "footnotes": "[1] طارق سے کیا مراد ہے ؟ خود قرآن نے واضح کر دیا۔ روشن ستارہ طَارِقٌ، طُرُوقٌ سے ہے جس کے لغوی معنی کٹھکھٹانے کے ہیں، لیکن طارق رات کو آنے والے کے لئے استعمال ہوتا ہے۔ ستاروں کو بھی طارق اسی لئے کہا ہے کہ یہ دن کو چھپ جاتے اور رات کو نمودار ہوتے ہیں۔",
+     "text": "وه روشن ستاره ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "是那灿烂的明星。"
+    }
+   }
+  },
+  {
+   "arabic": "إِن كُلُّ نَفۡسٖ لَّمَّا عَلَيۡهَا حَافِظٞ",
+   "aya": 4,
+   "id": 5935,
+   "tafsir": {
+    "arabic_moyassar": "أقسم الله سبحانه بالسماء والنجم الذي يطرق ليلا وما أدراك ما عِظَمُ هذا النجم؟ هو النجم المضيء المتوهِّج. ما كل نفس إلا أوكل بها مَلَك رقيب يحفظ عليها أعمالها لتحاسب عليها يوم القيامة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "প্রত্যেক জীবের ওপরই রয়েছে সংরক্ষক (ফিরিশতা)।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "there is no soul except that there is a watcher over it."
+    },
+    "fr": {
+     "footnotes": "[2] Par un ange chargé de consigner ses œuvres.",
+     "text": "Il n’est pas d’homme qui ne soit surveillé[2]."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "setiap orang pasti ada penjaganya."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی ہر نفس پر اللہ کی طرف سے فرشتے مقرر ہیں جو اس کے اچھے یا برے سارے عمل لکھتے ہیں۔ بعض کہتے ہیں، یہ انسانوں کی حفاظت کرنے والے فرشتے ہیں، جیسا کہ سورۂ رعد کی آیت نمبر ۔ 11 سے معلوم ہوتا ہے کہ انسان کی حفاظت کے لئے بھی انسان کے آگے پیچھے فرشتے ہوتے ہیں، جس طرح قول وفعل لکھنے والے ہوتے ہیں۔",
+     "text": "کوئی ایسا نہیں جس پر نگہبان فرشتہ نہ ہو.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "每个人，都有一个保护者。"
+    }
+   }
+  },
+  {
+   "arabic": "فَلۡيَنظُرِ ٱلۡإِنسَٰنُ مِمَّ خُلِقَ",
+   "aya": 5,
+   "id": 5936,
+   "tafsir": {
+    "arabic_moyassar": "فلينظر الإنسان المنكر للبعث مِمَّ خُلِقَ؟ ليعلم أن إعادة خلق الإنسان ليست أصعب من خلقه أوّلا خلق من منيٍّ منصبٍّ بسرعة في الرحم، يخرج من بين صلب الرجل وصدر المرأة. إن الذي خلق الإنسان من هذا الماء لَقادر على رجعه إلى الحياة بعد الموت."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "অতএব মানুষের চিন্তা করে দেখা উচিত, তাকে কী থেকে সৃষ্টি করা হয়েছে?"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Let man reflect on what he was created from."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Que l’homme considère ce dont il est créé !"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Maka hendaklah manusia memperhatikan dari apa dia diciptakan."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "انسان کو دیکھنا چاہئے کہ وه کس چیز سے پیدا کیا گیا ہے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "人应当想一想，他自己是用什么造成的？"
+    }
+   }
+  },
+  {
+   "arabic": "خُلِقَ مِن مَّآءٖ دَافِقٖ",
+   "aya": 6,
+   "id": 5937,
+   "tafsir": {
+    "arabic_moyassar": "فلينظر الإنسان المنكر للبعث مِمَّ خُلِقَ؟ ليعلم أن إعادة خلق الإنسان ليست أصعب من خلقه أوّلا خلق من منيٍّ منصبٍّ بسرعة في الرحم، يخرج من بين صلب الرجل وصدر المرأة. إن الذي خلق الإنسان من هذا الماء لَقادر على رجعه إلى الحياة بعد الموت."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তাকে সৃষ্টি করা হয়েছে দ্রুতবেগে নির্গত পানি (বীর্য) থেকে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "He was created from a spurting fluid,"
+    },
+    "fr": {
+     "footnotes": "[3] Dans la matrice de la femme.",
+     "text": "Il est créé à partir d’un simple liquide projeté[3]"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dia diciptakan dari air (mani) yang terpancar,"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی منی سے، جو قضائے شہوت کے بعد زور سے نکلتی ہے۔ یہی قطرۂ آب ( منی ) رحم عورت میں جاکر، اگر اللہ کا حکم ہوتا ہے تو، حمل کا باعث بنتا ہے۔",
+     "text": "وه ایک اچھلتے پانی سے پیدا کیا گیا ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他是由射出的精液造成的。"
+    }
+   }
+  },
+  {
+   "arabic": "يَخۡرُجُ مِنۢ بَيۡنِ ٱلصُّلۡبِ وَٱلتَّرَآئِبِ",
+   "aya": 7,
+   "id": 5938,
+   "tafsir": {
+    "arabic_moyassar": "فلينظر الإنسان المنكر للبعث مِمَّ خُلِقَ؟ ليعلم أن إعادة خلق الإنسان ليست أصعب من خلقه أوّلا خلق من منيٍّ منصبٍّ بسرعة في الرحم، يخرج من بين صلب الرجل وصدر المرأة. إن الذي خلق الإنسان من هذا الماء لَقادر على رجعه إلى الحياة بعد الموت."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "যা নির্গত হয় (পুরুষের) মেরুদন্ড ও (নারীর) বুকের হাঁড়ের মধ্য থেকে।"
+    },
+    "en": {
+     "footnotes": "[2] Both testes and ovaries are sustained by arteries originating between the backbone and the ribcage.",
+     "text": "emerging from between the backbone and the ribs[2]."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "qui sort d’entre l’épine dorsale et les côtes."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "yang keluar dari antara tulang punggung (sulbi) dan tulang dada."
+    },
+    "ur": {
+     "footnotes": "[1] کہا جاتا ہے کہ پیٹھ، مرد کی اور سینہ عورت کا، ان دونوں کے پانی سے انسان کی تخلیق ہوتی ہے۔ لیکن اسے ایک ہی پانی اس لئے کہا کہ یہ دونوں مل کر ایک ہی بن جاتا ہے۔ تَرَائِبُ، تَرِيبَةٌ کی جمع ہے، سینے کا وہ حصہ جو ہار پہننے کی جگہ ہے۔",
+     "text": "جو پیٹھ اور سینے کے درمیان سے نکلتا ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "那精液是从脊柱和肋骨之间发出的。"
+    }
+   }
+  },
+  {
+   "arabic": "إِنَّهُۥ عَلَىٰ رَجۡعِهِۦ لَقَادِرٞ",
+   "aya": 8,
+   "id": 5939,
+   "tafsir": {
+    "arabic_moyassar": "فلينظر الإنسان المنكر للبعث مِمَّ خُلِقَ؟ ليعلم أن إعادة خلق الإنسان ليست أصعب من خلقه أوّلا خلق من منيٍّ منصبٍّ بسرعة في الرحم، يخرج من بين صلب الرجل وصدر المرأة. إن الذي خلق الإنسان من هذا الماء لَقادر على رجعه إلى الحياة بعد الموت."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১) মৃত্যুর পর পূর্বের অবস্থায়।",
+     "text": "নিশ্চয় তিনি তাকে (১) ফিরিয়ে আনতে সক্ষম।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Indeed, Allah is able to bring him back to life."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Allah est parfaitement capable de le ressusciter,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sungguh, Allah benar-benar kuasa untuk mengembalikannya (hidup setelah mati)."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی انسان کےمرنے کے بعد، اسےدوبارہ زندہ کرنے پر وہ قادر ہے۔ بعض کے نزدیک اس کا مطلب ہے کہ وہ اس قطرۂ آب کو دوبارہ شرمگاہ کے اندر لوٹانے کی قدرت رکھتا ہے جہاں سے وہ نکلا تھا۔ پہلے مفہوم کو امام شوکانی اور امام ابن جریر طبری نے زیادہ صحیح قرار دیا ہے۔",
+     "text": "بیشک وه اسے پھیر ﻻنے پر یقیناً قدرت رکھنے واﻻ ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "安拉确是能使他复原的，"
+    }
+   }
+  },
+  {
+   "arabic": "يَوۡمَ تُبۡلَى ٱلسَّرَآئِرُ",
+   "aya": 9,
+   "id": 5940,
+   "tafsir": {
+    "arabic_moyassar": "يوم تُخْتَبر السرائر فيما أخفته، ويُمَيَّز الصالح منها من الفاسد، فما للإنسان من قوة يدفع بها عن نفسه، وما له من ناصر يدفع عنه عذاب الله."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "যেদিন (তার) গোপন বিষয়াদি পরীক্ষা করা হবে।"
+    },
+    "en": {
+     "footnotes": "[3] The secrets will be examined, disclosing the real intentions and faiths people harbored, distinguishing between righteous and evil therefrom.",
+     "text": "On the Day when all secrets will be disclosed[3],"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "le Jour où tous les secrets seront dévoilés."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Pada hari ditampakkan segala rahasia,"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی ظاہر ہو جائیں گے، کیوں کہ ان پر جزا وسزا ہوگی۔ بلکہ حدیث میں آتا ہے ہر غدر ( بدعہدی ) کرنے والے کے سرین کے پاس جھنڈا گاڑ دیا جائے گا اور اعلان کر دیا جائے گا کہ یہ فلاں بن فلاں کی غداری ہے۔ (صحيح بخاري، كتاب الجزية، باب إثم الغادر للبر والفاجر- مسلم كتاب الجهاد، باب تحريم الغدر) مطلب یہ ہے کہ وہاں کسی کا کوئی عمل مخفی نہیں رہے گا۔",
+     "text": "جس دن پوشیده بھیدوں کی جانچ پڑتال ہوگی.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "那是在一切秘密被揭穿之日。"
+    }
+   }
+  },
+  {
+   "arabic": "فَمَا لَهُۥ مِن قُوَّةٖ وَلَا نَاصِرٖ",
+   "aya": 10,
+   "id": 5941,
+   "tafsir": {
+    "arabic_moyassar": "يوم تُخْتَبر السرائر فيما أخفته، ويُمَيَّز الصالح منها من الفاسد، فما للإنسان من قوة يدفع بها عن نفسه، وما له من ناصر يدفع عنه عذاب الله."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(২) আল্লাহর শাস্তি থেকে নিজেকে রক্ষা করতে।",
+     "text": "তখন (২) তার কোন শক্তি এবং সাহায্যকারীও থাকবে না।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "he will then have no power, nor any helper."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "L’homme n’aura alors ni force propre, ni soutien."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "maka manusia tidak lagi mempunyai suatu kekuatan dan tidak (pula) ada penolong."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی خود انسان کے پاس اتنی قوت ہوگی کہ وہ اللہ کے عذاب سے بچ جائے، نہ کسی اور طرف سے اس کو کوئی ایسا مددگار مل سکے گا جو اسے اللہ کے عذاب سے بچا سکے۔",
+     "text": "تو نہ ہوگا اس کے پاس کچھ زور نہ مدددگار.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他绝没有能力，也没有援助者。"
+    }
+   }
+  },
+  {
+   "arabic": "وَٱلسَّمَآءِ ذَاتِ ٱلرَّجۡعِ",
+   "aya": 11,
+   "id": 5942,
+   "tafsir": {
+    "arabic_moyassar": "والسماء ذات المطر المتكرر، والأرض ذات التشقق بما يتخللها من نبات، إن القرآن لقول فصل بَيْنَ الحق والباطل، وما هو بالهزل. ولا يجوز للمخلوق أن يقسم بغير الله، وإلا فقد أشرك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "বৃষ্টি বর্ষণশীল আসমানের শপথ!"
+    },
+    "en": {
+     "footnotes": "[4] And sun, moon, stars, clouds, heat, etc.",
+     "text": "By the sky and its recurring rain[4],"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Par le ciel et ses pluies qui reviennent sans interruption !"
+    },
+    "id": {
+     "footnotes": "[905] Raj'i berarti kembali berputar. Hujan dinamakan raj'i dalam ayat ini, karena hujan itu berasal dari uap yang naik dari bumi ke udara, kemudian turun ke bumi, kemudian kembali ke atas, dan dari atas kembali ke bumi, dan begitulah seterusnya.",
+     "text": "Demi langit yang mengandung hujan,[905]"
+    },
+    "ur": {
+     "footnotes": "[1] رَجْعٌ کے لغوی معنی ہیں، لوٹنا پلٹنا، بارش بھی بار بار اور پلٹ پلٹ کر ہوتی ہے، اس لئے بارش کو رَجْعٌ کے لفظ سے تعبیر کیا ہے۔ بعض کہتے ہیں کہ بادل، سمندروں سے ہی پانی لیتا ہے اور پھر زمین پر لوٹا دیتا ہے، اس لئے بارش کو رَجْعٌ کہا۔ بعض کہتے ہیں بطور تفاؤل عرب بارش کو رَجْعٌ کہتے تھے تاکہ وہ بار بار ہوتی رہے۔ ( فتح القدیر ) ۔",
+     "text": "بارش والے آسمان کی قسم![1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "以含雨的云"
+    }
+   }
+  },
+  {
+   "arabic": "وَٱلۡأَرۡضِ ذَاتِ ٱلصَّدۡعِ",
+   "aya": 12,
+   "id": 5943,
+   "tafsir": {
+    "arabic_moyassar": "والسماء ذات المطر المتكرر، والأرض ذات التشقق بما يتخللها من نبات، إن القرآن لقول فصل بَيْنَ الحق والباطل، وما هو بالهزل. ولا يجوز للمخلوق أن يقسم بغير الله، وإلا فقد أشرك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৩) অর্থাৎ যা বিদীর্ণ হয়ে শস্যাদি, ফলফলাদি ও বৃক্ষরাজি উৎপন্ন করে। অথবা এর অর্থ পথবিশিষ্ট জমিন যা পানি দ্বারা বিদীর্ণ হয় অথবা এমন জমিন যা বিদীর্ণ হয়ে মৃতরা পুনরুত্থানের জন্য বের হবে।",
+     "text": "এবং শপথ জমিনের যা বিদীর্ণ হয়!(৩)"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and by the earth that cracks open [with the sprout of plants],"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Par la terre qui se fend sous la poussée de sa végétation !"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan bumi yang mempunyai tumbuh-tumbuhan,"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی زمین پھٹتی ہے تو اس سے پودا باہر نکلتا ہے، زمین پھٹتی ہے تو چشمہ جاری ہوتا ہے اور اسی طرح ایک دن آئے گا کہ زمین پھٹے گی، سارے مردے زندہ ہو کر باہر نکل آئیں گے۔ اس لئے زمین کو پھٹنے والی اور شگاف والی کہا۔",
+     "text": "اور پھٹنے والی زمین کی قسم![1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "和有缝的地发誓，"
+    }
+   }
+  },
+  {
+   "arabic": "إِنَّهُۥ لَقَوۡلٞ فَصۡلٞ",
+   "aya": 13,
+   "id": 5944,
+   "tafsir": {
+    "arabic_moyassar": "والسماء ذات المطر المتكرر، والأرض ذات التشقق بما يتخللها من نبات، إن القرآن لقول فصل بَيْنَ الحق والباطل، وما هو بالهزل. ولا يجوز للمخلوق أن يقسم بغير الله، وإلا فقد أشرك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "নিশ্চয় এ আল-কুরআন (হক ও বাতিলের মধ্যে) ফয়সালাকারী।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Indeed, this [Qur’an] is a decisive word,"
+    },
+    "fr": {
+     "footnotes": "[4] Permettant de discerner le vrai du faux.",
+     "text": "Le Coran est une parole de vérité[4],"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "sungguh, (Al-Qur`an) itu benar-benar firman pemisah (antara yang hak dan yang batil),"
+    },
+    "ur": {
+     "footnotes": "[1] یہ جواب قسم ہے، یعنی کھول کر بیان کر نے والا ہے جس سے حق اور باطل دونوں واضح ہو جاتے ہیں۔",
+     "text": "بیشک یہ (قرآن) البتہ دو ٹوک فیصلہ کرنے واﻻ کلام ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "这确是分别真伪的言辞，"
+    }
+   }
+  },
+  {
+   "arabic": "وَمَا هُوَ بِٱلۡهَزۡلِ",
+   "aya": 14,
+   "id": 5945,
+   "tafsir": {
+    "arabic_moyassar": "والسماء ذات المطر المتكرر، والأرض ذات التشقق بما يتخللها من نبات، إن القرآن لقول فصل بَيْنَ الحق والباطل، وما هو بالهزل. ولا يجوز للمخلوق أن يقسم بغير الله، وإلا فقد أشرك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১) বরং এ কুরআন হলো বাস্তব ও চিরসত্য।",
+     "text": "আর এটি কোন তামাশা নয়।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "which is not for amusement."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "en aucun cas de simples futilités."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan (Al-Qur`an) itu bukanlah senda gurauan."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی کھیل کود اور مذاق والی چیز نہیں ہے، هَزْلٌ، جِدٌّ ( قصد وارادہ ) کی ضد ہے ۔ یعنی ایک واضح مقصد کی حامل کتاب ہے، لہو ولعب کی طرح بےمقصد نہیں ہے۔",
+     "text": "یہ ہنسی کی (اور بے فائده) بات نہیں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "这不是笑话。"
+    }
+   }
+  },
+  {
+   "arabic": "إِنَّهُمۡ يَكِيدُونَ كَيۡدٗا",
+   "aya": 15,
+   "id": 5946,
+   "tafsir": {
+    "arabic_moyassar": "إن المكذبين للرسول صلى الله عليه وسلم، وللقرآن، يكيدون ويدبرون؛ ليدفعوا بكيدهم الحق ويؤيدوا الباطل، وأكيد كيدًا لإظهار الحق، ولو كره الكافرون، فلا تستعجل لهم -أيها الرسول- بطلب إنزال العقاب بهم، بل أمهلهم وأنظرهم قليلا ولا تستعجل لهم، وسترى ما يحلُّ بهم من العذاب والنكال والعقوبة والهلاك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "নিশ্চয় তারা (মিথ্যারোপকারীরা) ভীষণ চক্রান্ত করছে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Indeed, they are devising a plan."
+    },
+    "fr": {
+     "footnotes": "[5] Afin de s’opposer à la vérité.",
+     "text": "Ils se livrent aux pires manœuvres[5]"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sungguh, mereka (orang kafir) merencanakan tipu daya yang jahat,"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی نبی (صلى الله عليه وسلم) جو دین حق لے کر آئے ہیں، اس کو ناکام کرنے کے لئے سازشیں کرتے ہیں، یا نبی (صلى الله عليه وسلم) کو دھوکہ اور فریب دیتے ہیں اور منہ پر ایسی باتیں کرتے ہیں کہ دل میں اس کے برعکس ہوتا ہے۔",
+     "text": "البتہ کافر داؤ گھات میں ہیں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们必定要用计谋，"
+    }
+   }
+  },
+  {
+   "arabic": "وَأَكِيدُ كَيۡدٗا",
+   "aya": 16,
+   "id": 5947,
+   "tafsir": {
+    "arabic_moyassar": "إن المكذبين للرسول صلى الله عليه وسلم، وللقرآن، يكيدون ويدبرون؛ ليدفعوا بكيدهم الحق ويؤيدوا الباطل، وأكيد كيدًا لإظهار الحق، ولو كره الكافرون، فلا تستعجل لهم -أيها الرسول- بطلب إنزال العقاب بهم، بل أمهلهم وأنظرهم قليلا ولا تستعجل لهم، وسترى ما يحلُّ بهم من العذاب والنكال والعقوبة والهلاك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর আমিও (আমার দ্বীনকে বিজয়ী এবং বাতিলকে প্রতিহত করতে) ভীষণ কৌশল অবলম্বন করছি।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "I am too devising a plan."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "que Je déjouerai invariablement."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan Aku pun membuat rencana (tipu daya) yang jitu."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی میں ان کی چالوں اور سازشوں سے غافل نہیں ہوں، میں بھی ان کے خلاف تدبیر کر رہا ہوں یا ان کی چالوں کا توڑ کر رہا ہوں۔ كَيْدٌ خفیہ تدبیر کو کہتے ہیں، جو برے مقصد کے لئے ہو تو بری ہے اور مقصد نیک ہو تو بری نہیں۔",
+     "text": "اور میں بھی ایک چال چل رہا ہوں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我也要用计谋。"
+    }
+   }
+  },
+  {
+   "arabic": "فَمَهِّلِ ٱلۡكَٰفِرِينَ أَمۡهِلۡهُمۡ رُوَيۡدَۢا",
+   "aya": 17,
+   "id": 5948,
+   "tafsir": {
+    "arabic_moyassar": "إن المكذبين للرسول صلى الله عليه وسلم، وللقرآن، يكيدون ويدبرون؛ ليدفعوا بكيدهم الحق ويؤيدوا الباطل، وأكيد كيدًا لإظهار الحق، ولو كره الكافرون، فلا تستعجل لهم -أيها الرسول- بطلب إنزال العقاب بهم، بل أمهلهم وأنظرهم قليلا ولا تستعجل لهم، وسترى ما يحلُّ بهم من العذاب والنكال والعقوبة والهلاك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১) তাই তাদের শাস্তি ও ধ্বংসের ব্যাপারে তুমি তাড়াহুড়া করো না।",
+     "text": "অতএব, হে রাসূল! তুমি সে কৌশল দেখার জন্যে) কাফিরদেরকে অবকাশ দাও, তাদেরকে কিছু সময়ের অবকাশ দাও।"
+    },
+    "en": {
+     "footnotes": "[5] i.e., Do not be in haste in seeking their punishment and destruction.",
+     "text": "So bear with the disbelievers, and give them respite for a while[5]."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Accorde donc un sursis aux impies, accorde-leur un répit de courte durée."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Karena itu berilah penangguhan kepada orang-orang kafir. Berilah mereka kesempatan untuk sementara waktu."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی ان کے لئے تعجیل عذاب کا سوال نہ کر، بلکہ انہیں کچھ مہلت دے دے۔ رُوَيْدًا : قَلَيلا یا قَرِيبًا یہ امہال واستدراج بھی کافروں کے حق میں اللہ کی طرف سے ایک کید کی صورت ہے جیسے فرمایا سَنَسْتَدْرِجُهُمْ مِنْ حَيْثُ لا يَعْلَمُونَ (1) وَأُمْلِي لَهُمْ إِنَّ كَيْدِي مَتِينٌ ( الأعراف:182-183 ) ۔",
+     "text": "تو کافروں کو مہلت دے[1] انہیں تھوڑے دنوں چھوڑ دے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "所以你当宽限不归信的人们，你当宽限他们一下。"
+    }
+   }
+  }
+ ],
+ "content_sha256": "sha256:288ee4fbf686866e9e0894ff931f87dd2082c8468cef62f9df97c7f99b9393aa",
+ "name_ar": "الطارق",
+ "number": 86,
+ "schema": "balligh.library.quran.surah/1"
+}

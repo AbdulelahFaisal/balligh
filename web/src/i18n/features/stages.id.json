@@ -1,0 +1,65 @@
+{
+  "title": "Jalur bacaan pengantar",
+  "intro": "Lima tahap singkat dari sumber nyata. Setiap tahap tetap terbuka; baca dengan urutan apa pun.",
+  "exploring": "Hanya ingin melihat-lihat? Baca teks pertama",
+  "nav": "Tahap bacaan",
+  "stage": "Tahap {{n}}",
+  "names": {
+    "introduction_belief": "Pengantar dan akidah",
+    "testimony_pillars": "Syahadat dan lima rukun Islam",
+    "purification_prayer": "Bersuci dan salat",
+    "fasting_zakah_hajj": "Puasa, zakat, dan pengantar haji",
+    "everyday_conduct": "Perilaku sehari-hari"
+  },
+  "endNav": "Akhir dan bantuan dari manusia",
+  "collections": {
+    "quran": "Al-Qur'an",
+    "fatwa": "Fatwa",
+    "hadith": "Hadis"
+  },
+  "arabicOnly": "Hanya bahasa Arab",
+  "languages": "Bahasa: {{languages}}",
+  "recap": "Ulasan tahap {{n}}: teks yang sama sekali lagi",
+  "open": "Buka bacaan",
+  "markRead": "Saya sudah selesai membaca ini",
+  "markedRead": "Ditandai sudah dibaca (pilih untuk membatalkan)",
+  "stageProgress": "{{done}} dari {{total}} ditandai sudah dibaca",
+  "progress": "{{done}} dari {{total}} bacaan ditandai sudah dibaca",
+  "nextReading": "Bacaan berikutnya",
+  "nextStage": "Berikutnya: tahap {{n}}",
+  "toEnd": "Selesaikan jalur",
+  "allRead": "Semua bacaan sudah ditandai dibaca.",
+  "loading": "Memuat jalur bacaan…",
+  "error": "Jalur bacaan tidak dapat dimuat.",
+  "retry": "Coba lagi",
+  "end": {
+    "title": "Akhir jalur pengantar",
+    "complete": "Anda telah menyelesaikan bacaan pengantar. Ini mencatat bahwa Anda membaca teks-teks ini; ini bukan ujian dan bukan ukuran penguasaan.",
+    "partial": "Anda telah menandai {{done}} dari {{total}} bacaan sudah dibaca. Tahap-tahapnya tetap terbuka kapan pun Anda ingin kembali.",
+    "notCoveredTitle": "Yang tidak dicakup jalur ini",
+    "notCovered": {
+      "prayer_demonstration": "Peragaan lengkap tata cara salat",
+      "fasting_rules": "Hukum puasa secara lengkap",
+      "zakah_calculation": "Cara menghitung zakat",
+      "hajj_practice": "Petunjuk praktis melaksanakan haji"
+    }
+  },
+  "support": {
+    "title": "Berbicara dengan seseorang",
+    "body": "Untuk pertanyaan yang tidak dapat dijawab oleh daftar bacaan, eDialogue, yang dikelola oleh جمعية ركن الحوار, menyediakan percakapan dengan orang.",
+    "link": "Buka eDialogue (situs eksternal)",
+    "faq": "FAQ eDialogue menyebut obrolannya gratis dan pribadi:",
+    "note": "Membuka tautan adalah pilihan Anda sendiri. Balligh tidak mengirim apa pun ke situs tersebut dan tidak menyimpan apa pun tentangnya."
+  },
+  "storage": {
+    "malformed": "Tanda bacaan Anda yang tersimpan tidak dapat dibaca. Tanda itu dibiarkan tanpa perubahan dan tidak digunakan.",
+    "unavailable": "Peramban ini tidak menyimpan tanda bacaan Anda; tanda itu hanya disimpan selama halaman ini tetap terbuka.",
+    "write_failed": "Tanda bacaan Anda tidak dapat disimpan; tanda itu hanya disimpan selama halaman ini tetap terbuka.",
+    "outdated": "Tanda bacaan Anda sebelumnya milik versi lama jalur ini dan tidak digunakan. Menandai bacaan akan memulai catatan baru."
+  },
+  "start": "Mulai bacaan pertama",
+  "continue": "Lanjutkan ke bacaan berikutnya",
+  "continueStage": "Lanjutkan: tahap {{n}}",
+  "backToStage": "Kembali ke tahap {{n}}",
+  "position": "Tahap {{n}} · bacaan {{i}} dari {{total}}"
+}

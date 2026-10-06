@@ -1,0 +1,170 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:dc664705a143e6d7055793db709d361f47ba06822e241435779a48d48c4da46f",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يُبَيِّنُ النبيُّ صلى الله عليه وسلم أنَّ حَمْدَ العبدِ ربَّه على فَضْلِهِ ونِعَمِهِ مِن الأمور التي يَحْصُل بها رضا الله؛ فيَطْعَمُ الطعامَ ويقول: الحمد لله، ويَشرَبُ الشَّرَابَ ويقول: الحمد لله.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "كرم الله عز وجل، فقد تَفَضَّلَ بالرزق ورَضِيَ بالحَمْد.",
+  "رضا الله يُنالُ بأيسر سبب، كالحمد بعد الأكل والشرب.",
+  "من آداب الطعام والشراب: حمد الله تعالى عَقِب الأكل والشرب."
+ ],
+ "id": "hadeethenc-5798",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (4/ 2095) (2734).\nنزهة المتقين شرح رياض الصالحين، لمصطفى الخن وغيره (1/ 164).\nبهجة الناظرين شرح رياض الصالحين، لسليم الهلالي (1/ 215).\nشرح رياض الصالحين من كلام سيد المرسلين، لابن عثيمين (2/ 203).\nكنوز رياض الصالحين، لمجموعة من الباحثين.\nتطرز رياض الصالحين، لفيصل آل مبارك (ص764).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=5798",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:49+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/5798"
+ },
+ "source_categories": [
+  {
+   "id": "290",
+   "label": "آداب الأكل والشرب"
+  }
+ ],
+ "source_record_id": "5798",
+ "text": "عن أنس بن مالك رضي الله عنه قال: قال رسول الله صلى الله عليه وسلم: «إِنَّ اللهَ لَيَرْضَى عَنِ الْعَبْدِ أَنْ يَأْكُلَ الْأَكْلَةَ فَيَحْمَدَهُ عَلَيْهَا، أَوْ يَشْرَبَ الشَّرْبَةَ فَيَحْمَدَهُ عَلَيْهَا».",
+ "title": "إن الله ليرضى عن العبد أن يأكل الأكلة فيحمده عليها، أو يشرب الشربة فيحمده عليها",
+ "topic": "conduct",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=5798",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:0930fdf476f1a51a6488dc36e435411ffe3fb432854b516ab00f2021fd57f383",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এ হাদীসে বর্ণনা করেছেন যে, বান্দার উপর তার রবের যেসব অনুগ্রহ ও নি‘আমত রয়েছে সেগুলোর প্রশংসা ও শুকরিয়া আদায় আল্লাহর সন্তুষ্টি অর্জনের অন্যতম উপায়। তাই বান্দা খাবার খেয়ে আল্লাহর শুকরিয়া আদায় করে ‘আলহামদু লিল্লাহ’ বলবে, পানীয় পান করে ‘আলহামদু লিল্লাহ’ বলবে।",
+   "grade": "সহীহ",
+   "hints": [
+    "মহান আল্লাহর অনুগ্রহ ও দয়া যে, তিনি রিযিক দান করেন, আবার সেই রিযিকের শুকরিয়া আদায় করলে তিনি সন্তুষ্টি হন।\r",
+    "আল্লাহর সন্তুষ্টি খুব সহজ উপায়ে অর্জিত হয়। যেমন খাবার ও পানীয় গ্রহণের পরে ‘আলহামদু লিল্লাহ’ বলা।\r",
+    "খাদ্য ও পানীয় গ্রহণের শিষ্টাচারের মধ্যে অন্যতম হলো: খাবার ও পান করা শেষে ‘আলহামদু লিল্লাহ’ বলা।"
+   ],
+   "mapping": "same HadeethEnc record id 5798; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:12+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/5798",
+   "text": "আনাস ইবনু মালিক রাদিয়াল্লাহু ‘আনহু হতে বর্ণিত, তিনি বলেছেন, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন: “নিশ্চয় আল্লাহ তা‘আলা ঐ বান্দাহর প্রতি সন্তুষ্ট হন, যে খাবার খায়, অতঃপর তার উপর আল্লাহর প্রশংসা করে অথবা পানি পান করে, অতঃপর তার উপর আল্লাহর প্রশংসা করে।”",
+   "title": "“নিশ্চয় আল্লাহ তা‘আলা ঐ বান্দাহর প্রতি সন্তুষ্ট হন, যে খাবার খায়, অতঃপর তার উপর আল্লাহর প্রশংসা করে অথবা পানি পান করে, অতঃপর তার উপর আল্লাহর প্রশংসা করে।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=5798",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:0c0d572eec76baee7d6dad563755850ca80787861da3ae414ddccf469c72b4f1",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) points out that praising Allah for His bounty and blessings is one of the ways the servant can win the pleasure of his Lord. He eats food, says \"al-hamdulillāh\" (praise be to Allah), drinks some drink, and says al-hamdulillāh.",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth shows Allah's bounty, as He provides sustenance to His servants and is pleased with the praise.\r",
+    "The pleasure of Allah can be attained by the simplest means, like praising Him after eating and drinking.\r",
+    "One etiquette of eating and drinking is to praise Allah Almighty after that."
+   ],
+   "mapping": "same HadeethEnc record id 5798; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:11+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/5798",
+   "text": "Anas ibn Mālik (may Allah be pleased with him) reported: The Messenger of Allah (may Allah’s peace and blessings be upon him) said: \"Allah is pleased with one who eats some food and praises Him for it, or drinks some drink and praises Him for it.\"",
+   "title": "Allah is pleased with one who eats some food and praises Him for it, or drinks some drink and praises Him for it",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=5798",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:ae18e418ddf0b1e44727662b81b216f21d135ed4a6535673056504bd99032012",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) explique que le serviteur loue son Seigneur pour Sa grâce et Ses bienfaits fait partie des affaires via lesquelles on obtient la satisfaction d'Allah ; ainsi, il mange de la nourriture et dit : \"La Louange revient à Allah !\", il boit une boisson et dit : \"La Louange revient à Allah !\"",
+   "grade": "Authentique",
+   "hints": [
+    "La générosité d'Allah, à Lui la Puissance et la Grandeur. Il a en effet daigné accorder la subsistance et Il a été satisfait de la louange.\r",
+    "La satisfaction d'Allah s'obtient par les plus faciles des causes, comme le fait de Le louer après avoir mangé et bu.\r",
+    "Parmi les bonnes manières concernant la nourriture et la boisson, il y a le fait de louer Allah, Exalté soit-Il, après avoir mangé et bu."
+   ],
+   "mapping": "same HadeethEnc record id 5798; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:12+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/5798",
+   "text": "Anas ibn Mâlik (qu'Allah l'agrée) relate que Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) a dit : « Certes, Allah est vraiment satisfait du serviteur qui Le loue lorsqu'il mange une bouchée ou qui Le loue lorsqu'il boit une gorgée. »",
+   "title": "Certes, Allah est vraiment satisfait du serviteur qui Le loue lorsqu'il mange une bouchée ou qui Le loue lorsqu'il boit une gorgée.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=5798",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:7db046481bc6de7938287e0a7e64917456e2a76b45dc11db2ee5f2805283c41b",
+   "explanation": "Nabi ﷺ menerangkan bahwa pujian hamba kepada Tuhannya atas karunia dan nikmat-Nya termasuk perkara yang mendatangkan rida Allah. Semisal menyantap makanan lalu membaca \"alḥamdulillāh\" atau dia minum lalu membaca \"alḥamdulillāh\".",
+   "grade": "Sahih",
+   "hints": [
+    "1- Kedermawanan Allah ﷻ, yaitu Dia menganugerahkan rezeki dan rida dengan pujian.\r",
+    "2- Keridaan Allah dapat diraih dengan sebab sederhana seperti memuji Allah setelah makan dan minum.\r",
+    "3- Di antara adab makan dan minum ialah memuji Allah Ta'ala setelah makan dan minum."
+   ],
+   "mapping": "same HadeethEnc record id 5798; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:12+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/5798",
+   "text": "Anas bin Mālik -raḍiyallāhu 'anhu- meriwayatkan, Rasulullah ﷺ bersabda, \"Sesungguhnya Allah rida pada seorang hamba ketika dia menyantap makanan lalu dia memuji Allah atas makanan itu atau minum lalu dia memuji Allah atas minuman itu.\"",
+   "title": "Sesungguhnya Allah rida pada seorang hamba ketika dia menyantap makanan lalu dia memuji Allah atas makanan itu atau minum lalu dia memuji Allah atas minuman itu",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=5798",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:8f2af387a4e03af6872cae19c739cf874f300a198961f7c23a13c6b4585da7a0",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم بتا رہے ہیں کہ بندے کا اللہ کے فضل و کرم اور اس کی نعمتوں پر اللہ کی تعریف کرنا ایک ایسی چیز ہے، جس سے اللہ کی خوش نودی حاصل ہوتی ہے۔ اس تعریف کی ایک شکل یہ ہے کہ بندہ کھانا کھائے اور الحمد للہ کہے، اسی طرح پانی پیے اور الحمد للہ کہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "بندوں پر اللہ کا لطف و کرم ہے کہ وہ روزی بھی دیتا ہے اور تعریف سے خوش بھی ہوتا ہے۔\r",
+    "اللہ کی خوش نودی چھوٹے چھوٹے کاموں سے بھی حاصل ہوتى ہے۔ جیسے کھانے اور پینے کے بعد اللہ کی تعریف کرنا۔\r",
+    "کھانے اور پینے کا ایک ادب یہ ہے کہ کھانے پینے کے بعد اللہ کی تعریف کی جائے۔"
+   ],
+   "mapping": "same HadeethEnc record id 5798; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:12+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/5798",
+   "text": "انس بن مالک رضی اللہ عنہ سے روایت ہے، وہ کہتے ہیں کہ اللہ کے رسول صلی اللہ علیہ و سلم نے فرمایا : ”اللہ تعالی بندے کی اس بات سے خوش ہوتا ہے کہ وہ کھانا کھائے اور اس پر اللہ کی تعریف کرے یا پانی پیے اور اس پر اللہ کی تعریف کرے“۔",
+   "title": "”اللہ تعالی بندے کی اس بات سے خوش ہوتا ہے کہ وہ کھانا کھائے اور اس پر اللہ کی تعریف کرے یا پانی پیے اور اس پر اللہ کی تعریف کرے“۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=5798",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:f76a18c4c59054fe6f5a0493c2fcbca8367e172611e77de48408b964ad220afb",
+   "explanation": "先知（愿主福安之）阐明，仆人因自己得到了安拉的恩惠而赞颂之，如此可以获得安拉之喜悦，他吃食物时会说：一切赞颂统归安拉，他喝水时也会说：一切赞颂统归安拉。",
+   "grade": "正确的",
+   "hints": [
+    "伟大安拉之慷慨，他赐予来给养，喜悦仆人赞颂他。\r",
+    "获取安拉之喜悦很容易。比如：用餐完毕后说：一切赞颂统归安拉。\r",
+    "餐后赞颂安拉是用餐之礼仪之一。"
+   ],
+   "mapping": "same HadeethEnc record id 5798; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:12+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/5798",
+   "text": "据艾奈斯·本·马利克（愿主喜悦之）传述，安拉的使者（愿主福安之）说： “的确安拉喜欢这样的仆人，他每吃一口食物便赞颂安拉，或每喝一口水也赞颂安拉。”",
+   "title": "“的确安拉喜欢这样的仆人，他每吃一口食物便赞颂安拉，或每喝一口水也赞颂安拉。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

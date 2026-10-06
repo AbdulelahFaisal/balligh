@@ -1,0 +1,178 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:84b53bfc5f9363e251a5e6bdb82809ddbe292a49a6b57ad9a61e893034a9ce85",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "سأل رجل النبي صلى الله عليه وسلم عن الخصلتين: التي توجب دخول الجنة، والتي توجب دخول النار؟ \nفأجابه صلى الله عليه وسلم: أن الخصلة التي توجب الجنة أن يموت الإنسان وهو يعبد الله وحده ولا يشرك به شيئًا، \nوأن الخصلة التي توجب النار أن يموت الإنسان وهو يشرك بالله شيئًا فيجعل لله ندًا ومثيلًا في ألوهيته أو ربوبيته أو أسمائه وصفاته.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "فضل التوحيد وأن من مات مؤمنًا لا يشرك بالله شيئًا دخل الجنة.",
+  "خطر الشرك، وأن من مات يشرك بالله شيئا دخل النار.",
+  "عصاة الموحدين تحت مشيئة الله إن شاء عذبهم وإن شاء غفر لهم، ثم مصيرهم إلى الجنة."
+ ],
+ "id": "hadeethenc-65008",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (1/ 94) (93)، إكمال المعلم بفوائد مسلم (1/ 363)، شرح النووي على مسلم (2/96) المفهم للقرطبي (1/290)، تطريز رياض الصالحين (ص 281)، الكوكب الوهاج شرح صحيح مسلم بن الحجاج (3/63).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=65008",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:34+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/65008"
+ },
+ "source_categories": [
+  {
+   "id": "59",
+   "label": "الإيمان بالله عز وجل"
+  },
+  {
+   "id": "73",
+   "label": "توحيد الألوهية"
+  },
+  {
+   "id": "271",
+   "label": "فضائل التوحيد"
+  }
+ ],
+ "source_record_id": "65008",
+ "text": "عَنْ جَابِرٍ رضي الله عنه قَالَ: أَتَى النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ رَجُلٌ فَقَالَ: يَا رَسُولَ اللهِ، مَا الْمُوجِبَتَانِ؟ فَقَالَ: «مَنْ مَاتَ لَا يُشْرِكُ بِاللهِ شَيْئًا دَخَلَ الْجَنَّةَ، وَمَنْ مَاتَ يُشْرِكُ بِاللهِ شَيْئًا دَخَلَ النَّارَ»",
+ "title": "من مات لا يشرك بالله شيئا دخل الجنة، ومن مات يشرك بالله شيئا دخل النار",
+ "topic": "belief",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=65008",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:006c9b06394042cdc37e3723f4f654c9d8ad7b746dfa338c62a24a72b764c4d4",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামকে এক ব্যক্তি দুটি বৈশিষ্ট্য সম্পর্কে জিজ্ঞাসা করলেন: প্রথমটি হচ্ছে: যা জান্নাতে প্রবেশ করাকে আবশ্যক করে, আর দ্বিতীয়টি হচ্ছে: যা জাহান্নামে প্রবেশ করাকে আবশ্যক করে। তখন রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম জবাব দিলেন: যে গুণটি জান্নাতকে আবশ্যক করে, তা হচ্ছে:  মানুষ মারা যাবে  একমাত্র আল্লাহর ইবাদত করা এবং আল্লাহর সাথে কোন কিছুকে শরীক না করা অবস্থায়। আর যে দোষ জাহান্নামকে আবশ্যক করে, তা হচ্ছে: একজন মানুষ এমন অবস্থায় মারা যাবে যে, সে আল্লাহর সাথে কোন কিছু কে শরীক করবে। ফলে সে আল্লাহর উলূহিয়্যাত, রুবুবিয়্যাত, সুন্দর নামসমূহ ও গুণাবলীর ক্ষেত্রে আল্লাহর সাথে সমকক্ষ ও সাদৃশ্য নির্ধারণ করবে।",
+   "grade": "সহীহ",
+   "hints": [
+    "হাদীসে তাওহীদের ফযীলত বর্ণিত হয়েছে। যে ব্যক্তি মুমিন হিসেবে মারা যাবে এবং আল্লাহর সাথে কোন কিছুকে শরীক করবে না, সে জান্নাতে প্রবেশ করবে।\r",
+    "অনুরূ এতে শিরকের ভয়াবহতা বর্ণিত হয়েছে, যে ব্যক্তি আল্লাহর সাথে কোন কিছুকে শিরক করবে, সে জাহান্নামে প্রবেশ করবে।\r",
+    "তাওহীদপন্থীদের পাপী ব্যক্তিরা আল্লাহ তা‘আলার ইচ্ছার অধীন। তিনি যদি চান, তাহলে তাদেরকে আযাব দিবেন, আর যদি চান তাদেরকে ক্ষমা করে দিবেন। সবশেষে তাদের স্থান হবে জান্নাতে।"
+   ],
+   "mapping": "same HadeethEnc record id 65008; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:26+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/65008",
+   "text": "জাবির রদিয়াল্লাহু ‘আনহু হতে বর্ণিত, তিনি বলেছেন: এক ব্যক্তি নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের কাছে এসে জিজ্ঞাসা করলেন: হে আল্লাহর রাসূল! দুটি আবশ্যককারী বিষয় কী কী? তিনি বললেন: “যে ব্যক্তি আল্লাহর সাথে কোন কিছুকে শরীক না করে মারা যাবে, সে জান্নাতে প্রবেশ করবে। আর যে ব্যক্তি আল্লাহর সাথে কোন কিছুকে শরীক করবে, সে জাহান্নামে প্রবেশ করবে।”",
+   "title": "যে ব্যক্তি আল্লাহর সাথে কোন কিছুকে শরীক না করে মারা যাবে, সে জান্নাতে প্রবেশ করবে। আর যে ব্যক্তি আল্লাহর সাথে কোন কিছুকে শরীক করবে, সে জাহান্নামে প্রবেশ করবে।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=65008",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:363b120ac4c6159214c68a5ee08bb6566166dd63acb664420a77c0311ed4c2f1",
+   "explanation": "A man asked the Prophet (may Allah's peace and blessings be upon him) about the two traits: one that makes entering Paradise due, and one that makes entering Hellfire due. In response, the Prophet (may Allah's peace and blessings be upon him) said that the trait that makes entering Paradise due is that a person should die while worshiping Allah alone and associating nothing with Him; and the trait that makes entering Hellfire due is that a person should die while associating anything with Allah, by ascribing to Him a partner or equal in His divinity or lordship or His names and attributes.",
+   "grade": "Authentic",
+   "hints": [
+    "It points out the merit of monotheistic belief and that, whoever dies as a believer, not associating anything with Allah, that person will enter Paradise.\r",
+    "It demonstrates the graveness of polytheism and that whoever dies while associating anything with Allah will enter Hellfire.\r",
+    "Muslim sinners are subject to Allah's will: if He wills, He may punish them; and if He wills, He may forgive them. Then, they will end up in Paradise."
+   ],
+   "mapping": "same HadeethEnc record id 65008; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:26+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/65008",
+   "text": "Jābir (may Allah be pleased with him) reported: A man came to the Prophet (may Allah’s peace and blessings be upon him) and said: \"O Messenger of Allah, what are the two imperatives?\" He said: \"Whoever dies while not associating anything with Allah will enter Paradise, and whoever dies while associating anything with Allah will enter Hellfire.\"",
+   "title": "Whoever dies while not associating anything with Allah will enter Paradise, and whoever dies while associating anything with Allah will enter Hellfire",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=65008",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:b288f753c09e658f0d2d4508b642c8d983c7801c33496a93af311a60fe73ad07",
+   "explanation": "Un homme a interrogé le Prophète (qu'Allah le couvre d'éloges et le préserve) concernant les deux marques distinctives : celle qui rend obligatoire l'entrée au Paradis, et celle qui rend obligatoire l'entrée en Enfer. Il a alors répondu (qu'Allah le couvre d'éloges et le préserve) que la marque distinctive qui rend obligatoire l'entrée au Paradis est celle de l'individu qui meurt en adorant Allah, Seul, et sans rien Lui associer, et que la marque distinctive qui rend obligatoire l'entrée en Enfer et celle de l'individu qui meurt en associant quelqu'un ou quelque chose à Allah et donne ainsi un égal à Allah, semblable dans Sa Divinité, Sa Seigneurie, ou Ses Noms et Attributs.",
+   "grade": "Authentique",
+   "hints": [
+    "Le mérite du monothéisme et le fait que quiconque meurt en étant croyant, sans rien associer à Allah, entrera au Paradis.\r",
+    "Le danger du polythéisme et le fait que quiconque meurt en associant qui ou quoi que ce soit à Allah entrera en Enfer.\r",
+    "Les désobéissants parmi les vrais monothéistes sont sous la volonté d'Allah : s'Il le veut, Il les châtie ; et s'Il le veut, Il leur pardonne. Ensuite, leur destination est le Paradis."
+   ],
+   "mapping": "same HadeethEnc record id 65008; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:26+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/65008",
+   "text": "Jâbir (qu'Allah l'agrée) relate : « Un homme est venu au Prophète (qu'Allah le couvre d'éloges et le préserve) et a demandé : \"Ô Messager d'Allah ! Quelles sont les deux impératives ? - Il a alors répondu : \"Quiconque meurt sans rien associer à Allah entrera au Paradis, et quiconque meurt en associant qui ou quoi que ce soit à Allah entrera en Enfer !\" »",
+   "title": "Quiconque meurt sans rien associer à Allah entrera au Paradis, et quiconque meurt en associant qui ou quoi que ce soit à Allah entrera en Enfer !\"",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=65008",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:634d6e735df790239ed146b04f93a18f99b7cf08858f98b99bd28f6191eb1d5c",
+   "explanation": "Seorang laki-laki bertanya kepada Nabi ﷺ tentang dua perkara yang memastikan masuk surga dan yang memastikan masuk neraka? Nabi ﷺ menjawab: Perkara yang memastikan masuk surga ialah seseorang yang meninggal dalam keadaan beribadah kepada Allah semata dan tidak melakukan kesyirikan kepada-Nya sedikit pun. Sedangkan perkara yang memastikan masuk neraka ialah seseorang meninggal dalam keadaan membawa dosa menyekutukan Allah dengan sesuatu lain, yaitu ia mengadakan tandingan dan padanan bagi Allah dalam perkara uluhiyah (hak disembah), rububiyah (ketuhanan), atau nama dan sifat-sifat-Nya.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Keutamaan tauhid, bahwa orang yang meninggal dalam keadaan beriman, tidak menyekutukan Allah dengan sesuatu apa pun, akan masuk surga.\r",
+    "2- Bahaya kesyirikan, bahwa orang yang meninggal dalam keadaan membawa dosa menyekutukan Allah dengan sesuatu apa pun, akan masuk neraka.\r",
+    "3- Orang-orang bertauhid yang berbuat maksiat berada di bawah kehendak Allah; jika Allah berkehendak, Dia akan menyiksa mereka, atau jika Dia berkehendak, Dia akan mengampuni mereka, kemudian akhir perjalanan mereka ialah ke surga."
+   ],
+   "mapping": "same HadeethEnc record id 65008; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:26+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/65008",
+   "text": "Jābir -raḍiyallāhu 'anhu- meriwayatkan, ia berkata, \"Seorang laki-laki datang menemui Nabi ﷺ lalu bertanya, \"Wahai Rasulullah, apakah dua perkara kepastian itu?\" Beliau bersabda, \"Siapa yang mati dalam keadaan tidak menyekutukan Allah dengan sesuatu apa pun, akan masuk surga. Siapa yang mati dalam keadaan menyekutukan Allah dengan sesuatu apa pun, ia akan masuk neraka.\"",
+   "title": "Siapa yang mati dalam keadaan tidak menyekutukan Allah dengan sesuatu apa pun, akan masuk surga. Siapa yang mati dalam keadaan menyekutukan Allah dengan sesuatu apa pun, ia akan masuk neraka",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=65008",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:16d6b751e5dfe417825c9517a64ca8a6be6c4543f629e9acc1239bb562155e92",
+   "explanation": "ایک شخص نے اللہ کے نبی صلی اللہ علیہ وسلم سے ایسی دو باتوں کے بارے میں پوچھا، جن میں سے ایک دخول جنت کو واجب کر دیتی ہے اور دوسری دخول جہنم کو واجب کردیتی ہے- آپ صلی اللہ علیہ وسلم نے جواب دیا: جنت کو واجب کرنے والی بات یہ ہے کہ انسان کی موت اس حال میں ہو کہ وہ صرف ایک اللہ کی عبادت کرتا ہو اور اس کے ساتھ کسی کو شریک نہیں ٹھہراتا ہو۔ جب کہ جہنم کو واجب کرنے والی بات یہ ہے کہ انسان کی موت اس حال میں ہو کہ وہ اللہ کے ساتھ کسی کو شریک ٹھہراتا ہو۔ چنانچہ اللہ کی الوہیت، اس کی ربوبیت یا اس کے اسماء و صفات میں کسی کو شریک اور ہم مثل قرار دیتا ہو۔",
+   "grade": "صحيح",
+   "hints": [
+    "اس حدیث سے توحید کی فضیلت ثابت ہوتی ہے اور یہ معلوم ہوتا ہے کہ جو شخص ایمان کی حالت میں اور کسی کو اللہ کا شریک نہ ٹھہراتے ہوئے وفات پائے، تو وہ جنت میں داخل ہوگا۔\r",
+    "نیز شرک کی سنگینی بھی معلوم ہوتی ہے اوریہ پتہ چلتا ہے کہ جو شخص اللہ کے ساتھ کسی کو شریک ٹھہراتے ہوئے مرے، وہ جہم میں داخل ہوگا۔\r",
+    "گناہ گار موحد بندے اللہ کی مشیت کے ما تحت ہوں گے۔ اگر اللہ چاہے گا تو انہیں عذاب دے گا اور اگر چاہے گا تو معاف کردے گا پھر ان کی جاے قرار جنت ہوگی۔"
+   ],
+   "mapping": "same HadeethEnc record id 65008; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:26+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/65008",
+   "text": "جابر رضی اللہ عنہ سے مروی ہے، وہ فرماتے ہیں: ایک آدمی اللہ کے نبی صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوا اور پوچھا: اے اللہ کے رسول ! واجب کرنے والی دو باتیں کون سی ہیں؟ آپ نے جواب دیا: ’’جو کسی چیز کو اللہ کے ساتھ شریک نہ کرتا ہوا مرا، وہ جنت میں داخل ہو گا، اور جو اللہ کے ساتھ کسی چیز کو شریک ٹھہراتے ہوئے مرا، و ہ جہنم میں داخل ہو گا۔‘‘",
+   "title": "جو کسی چیز کو اللہ کے ساتھ شریک نہ کرتا ہوا مرا، وہ جنت میں داخل ہو گا، اور جو اللہ کے ساتھ کسی چیز کو شریک ٹھہراتے ہوئے مرا، و ہ جہنم میں داخل ہو گا۔‘‘",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=65008",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:08b31d4041aaeb0699599b8f076812a06cf9905d0f3b9ce21ecf3859f29f3784",
+   "explanation": "来人向先知（愿主福安之）询问了两样特性，即进入天堂和堕入火狱的特性。 使者（愿主福安之）给他答复道：进入天堂的特征是：一个人崇拜独一的安拉，且没有以任何物举伴他，然后在这样的状态之下而归真。 堕入火狱的特征是：一个人举伴安拉，并且在安拉受拜权，养育权，以及安拉的尊名和属性当中，为安拉设立了一些匹敌和同伴，然后在这种状态之下而死亡。",
+   "grade": "正确的",
+   "hints": [
+    "认主独一之恩典，即信仰安拉，未以任何物举伴安拉者，必入天堂。\r",
+    "举伴安拉之危险，举伴安拉而死亡者，必入火狱。\r",
+    "认主独一的犯罪者，他们处于安拉的意欲之下，如安拉意欲便惩罚他们，如安拉意欲便饶恕他们，最终他们的归宿依然是天堂。"
+   ],
+   "mapping": "same HadeethEnc record id 65008; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:26+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/65008",
+   "text": "据贾比尔（愿主喜悦之）传述说： 一个人来见先知（愿主福安之），他说：安拉的使者啊！什么是两项必定的事情？先知（愿主福安之）说：“未以任何物举伴安拉而亡者，必进天堂，以物举伴安拉而亡者，必入火狱。”",
+   "title": "未以任何物举伴安拉而亡者，必进天堂，以物举伴安拉而亡者，必入火狱。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

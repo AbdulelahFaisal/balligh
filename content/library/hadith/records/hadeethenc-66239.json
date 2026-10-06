@@ -1,0 +1,47 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:54b316c92e64f36d3ede6af589ed3b1af0df4b28e8166463adfbf4750bb22716",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "في الحديث نفي الإيمان الواجب عن الزاني، وشارب الخمر، والسارق، والمنتهب لما له قيمة ووزن في أعين الناس، وأما تفسير الحديث بأنه نفي للإيمان الكامل أو المستحب فهذا مذهب المرجئة، وتفسيره بنفي أصل الإيمان وزواله بالكلية مذهب الخوارج والمعتزلة.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "شدة حرمة هذه المعاصي، وأنها من الكبائر.",
+  "العاصي لا يكفر، لكن يرتفع عنه الإيمان الواجب حتى يتوب."
+ ],
+ "id": "hadeethenc-66239",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (3/ 136) (2475)، صحيح مسلم (1/ 76) (57).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=66239",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:56:02+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/66239"
+ },
+ "source_categories": [
+  {
+   "id": "91",
+   "label": "معنى الإيمان"
+  }
+ ],
+ "source_record_id": "66239",
+ "text": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، قَالَ: قَالَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «لاَ يَزْنِي الزَّانِي حِينَ يَزْنِي وَهُوَ مُؤْمِنٌ، وَلاَ يَشْرَبُ الخَمْرَ حِينَ يَشْرَبُ وَهُوَ مُؤْمِنٌ، وَلاَ يَسْرِقُ حِينَ يَسْرِقُ وَهُوَ مُؤْمِنٌ، وَلاَ يَنْتَهِبُ نُهْبَةً يَرْفَعُ النَّاسُ إِلَيْهِ فِيهَا أَبْصَارَهُمْ حِينَ يَنْتَهِبُهَا وَهُوَ مُؤْمِنٌ».",
+ "title": "لا يزني الزاني حين يزني وهو مؤمن",
+ "topic": "understanding_islam",
+ "translations": {},
+ "type": "hadith",
+ "words_meanings": [
+  {
+   "meaning": " ما أُخذ من أموال الناس بالخفة والسرعة دون اختفاء.",
+   "word": "نهبة"
+  }
+ ],
+ "words_meanings_language": "ar"
+}

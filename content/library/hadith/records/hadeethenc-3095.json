@@ -1,0 +1,184 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:a92dcad4af17a825710a8e3a67cca3863bd20c48e4ba613ba2f308dc69406857",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "كانَ النبيُّ صلى الله عليه وسلم  يرفع يديه في ثلاثةِ مواضع من الصلاة إزاء أو مقابل المنكب الذي هو: مجمع عظم الكتف والعضد. \n\nالموضع الأول: إذا افتتح الصلاة عند تكبيرة الإحرام. \n\nالثاني: إذا كبّر للركوع. \n\nالثالث: إذا رفع رأسه من الركوع وقال: سمع الله لمن حمده ربنا ولك الحمد.\n\nوكان لا يرفع يديه عند ابتداء السجود، ولا عند الرفع منه.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "من حِكَم رفع اليدين في الصلاة أنها زينة للصلاة وتعظيم لله سبحانه.",
+  "ثبت عنه صلى الله عليه وسلم رفع يديه في موضع رابع كما في رواية أبي حميد الساعدي عند أبي داود وغيره، وهو عند القيام من التشهد الأول في الصلاة الثلاثية والرباعية.",
+  "ثبت عنه صلى الله عليه وسلم أيضًا أنه يرفع يديه حذو أذنيه دون لمس كما في رواية مالك بن الحويرث في الصحيحين: «أن رسول الله صلى الله عليه وسلم كان إذا كبر رفع يديه حتى يحاذي بهما أذنيه».",
+  "الجمع بين التسميع والتحميد خاص بالإمام والمنفرد، أما المأموم فيقول: ربنا ولك الحمد.",
+  "قول: \"رَبَّنَا وَلَكَ الحَمْدُ\" بعد الركوع صح عن النبي صلى الله عليه وسلم فيه أربع صيغ، وهذه واحدة منها، والأفضل أن يتتبع المرء هذه الصيغ ويأتي بهذا مرة، وهذه مرة."
+ ],
+ "id": "hadeethenc-3095",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (1/ 148) (735).\nصحيح مسلم (1/ 292) (390).\nالإلمام بشرح عمدة الأحكام، لإسماعيل الأنصاري (1/ 122).\nتيسير العلام شرح عمدة الأحكام، للبسام (ص151).\nتنبيه الأفهام شرح عمدة الأحكام، لابن عثيمين (2/ 192).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3095",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:47+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3095"
+ },
+ "source_categories": [
+  {
+   "id": "464",
+   "label": "صفة الصلاة"
+  }
+ ],
+ "source_record_id": "3095",
+ "text": "عَن ابْنِ عُمَرَ رضي الله عنهما: أَنَّ رَسُولَ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ كَانَ يَرْفَعُ يَدَيْهِ حَذْوَ مَنْكِبَيْهِ إِذَا افْتَتَحَ الصَّلَاةَ، وَإِذَا كَبَّرَ لِلرُّكُوعِ، وَإِذَا رَفَعَ رَأْسَهُ مِنَ الرُّكُوعِ، رَفَعَهُمَا كَذَلِكَ أَيْضًا، وَقَالَ: «سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ، رَبَّنَا وَلَكَ الحَمْدُ»، وَكَانَ لاَ يَفْعَلُ ذَلِكَ فِي السُّجُودِ.",
+ "title": "أن رسول الله صلى الله عليه وسلم كان يرفع يديه حذو منكبيه إذا افتتح الصلاة،",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3095",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:bad913fc17a8f449eb47bccea9d96ba8eff3d803c62a2fab6c6ab0bbe90c7a69",
+   "explanation": "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাতে তিন স্থানে কাঁধ বরাবর দুই হাত উত্তোলন করতেন, কাঁধ হচ্ছে: গলার পাশের হাড় ও বাহুর সংযোগস্থল।\r\n\r\nপ্রথম স্থান: সালাতের শুরুতে তাকবীরে তাহরীমা(আল্লাহু আকবার) বলার সময়।\r\n\r\nদ্বিতীয় স্থান: রুকুর জন্য”আল্লাহু আকবার” বলার সময়।\r\n\r\nতৃতীয় স্থান: রুকু থেকে মাথা উঠানোর সাথে سمع الله لمن حمده ربنا ولك الحمد (সামিয়াল্লাহু লিমান হামেদাহ,রব্বানা ওয়ালাকাল হামদু)বলার সময়।\r\n\r\nসিজদা শুরু করার সময় এবং সিজদা থেকে মাথা তোলার সময় তিনি তাঁর উভয় হাত উঠাতেন না।",
+   "grade": "সহীহ",
+   "hints": [
+    "রফ‘উল ইয়াদাইন তথা দুই হাত উত্তোলনের তাৎপর্েযর অন্যতম হচ্ছে: এটা সালাতের সৌন্দর্য্য এবং আল্লাহ সুবহানাহু ওয়া তা‘আলার জন্য সম্মান প্রদর্শন।\r",
+    "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে চতুর্থ আরেকটি স্থানেও দুই হাত উত্তোলন করা সাব্যস্ত হয়েছে, যেমন আবু হুমাইদ আস-সা‘ঈদী রদিয়াল্লাহু আনহু সূত্রে আবূ দাঊদ এবং অন্যান্য মুহাদ্দিসগণ বর্ণনা করেছেন। সে স্থানটি হচ্ছে- চতুর্থ অথবা তৃতীয় রাকাত বিশিষ্ট সালাতের প্রথম তাশাহ্হুদ থেকে উঠে দাঁড়ানোর সময়।\r",
+    "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে আরো সাব্যস্ত হয়েছে , তিনি তাঁর দুই হাত দ্বারা স্পর্শ না করেই কান পর্যন্ত উঠাতেন, যেমনটি বুখারী ও মুসলিমে মালিক ইবনুল হুয়াইরিছ রদিয়াল্লাহু আনহু সূত্রে বর্ণিত হয়েছে: “আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন তাকবীর বলতেন, তখন তাঁর দুই হাত স্বীয় কান বরাবর উঠাতেন।”\r",
+    "সামি‘আল্লাহু লিমান হামিদাহ এবং রব্বানা ওয়া লাকাল হামদ একত্রে বলার ব্যাপারটি ইমাম এবং একক সলাত আদায়কারীর জন্য খাস। আর মুক্তাদী রব্বানা ওয়া লাকাল হামদ বলবে।\r",
+    "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে রুকুর পরে ”রব্বানা ওয়া লাকাল হামদ” চারভাবে বলা প্রমাণিত, আর এটি হচ্ছে সেগুলোর মধ্যে একটি। সবচেয়ে উত্তম হচ্ছে সালাত আদায়কারী ব্যক্তি এভাবে একবার বলবে, অন্যভাবে আরেকবার বলবে এবং এভাবে অন্যান্যগুলোও একেকবার বলবে।"
+   ],
+   "mapping": "same HadeethEnc record id 3095; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:02+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3095",
+   "text": "ইবনু উমার রাদিয়াল্লাহু ‘আনহুমা থেকে বর্ণিত: আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন সালাত শুরু করতেন, তখন উভয় হাত তাঁর কাঁধ বরাবর উঠাতেন। আর যখন রুকূ‘তে যাওয়ার জন্য তাকবীর বলতেন এবং যখন রুকূ‘ হতে মাথা উঠাতেন তখনও একইভাবে দু’হাত উঠাতেন এবং سَمِعَ اللهُ لِمَنْ حَمِدَهُ رَبَّنَا وَلَكَ الْحَمْدُ(সামিয়াল্লাহু লিমান হামেদাহ,রব্বানা ওয়ালাকাল হামদু) বলতেন। কিন্তু সাজদার সময় তিনি এমন করতেন না।",
+   "title": "আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন সালাত শুরু করতেন, তখন উভয় হাত তাঁর কাঁধ বরাবর উঠাতেন।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3095",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:151de9156fb69fa8334d4a12d2e338fe04a3b9435d93b1376a8e81a9a3a1269d",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) used to raise his hands to be parallel with or in alignment with the shoulder, which is the part where the shoulder and upper arm bones are connected, in three positions during the prayer.\r\n\r\nFirst position: When commencing the prayer and making Takbīrat al-Ihrām (Opening Takbīr).\r\n\r\nSecond: When making Takbīr for Rukū‘.\r\n\r\nThird: When raising his head from Rukū‘ and saying: Sami‘allāhu liman hamidah, rabbana wa laka al-hamd\" (Allah hears whoever praises Him, O our Lord, praise be to You).\r\n\r\nHe would not raise his hands upon making Sujūd or rising therefrom.",
+   "grade": "Authentic",
+   "hints": [
+    "One of the rationales behind raising the hands in prayer is that it is an adornment for the prayer and glorification of Allah Almighty.\r",
+    "It was proven from the Prophet (may Allah's peace and blessings be upon him) that he raised his hands in a fourth position, as reported in the version of Abu Humayd as-Sā‘idi by Abu Dāwūd and others, upon rising from the first Tashahhud in the three-Rak‘ah and four-Rak‘ah prayers.\r",
+    "It was also authentically reported from the Prophet (may Allah's peace and blessings be upon him) that he used to raise his hands in alignment with his ears without touching them, as reported in the version of Mālik ibn al-Huwayrith in the Two Sahīh Collections: \"When making Takbīr, the Messenger of Allah (may Allah's peace and blessings be upon him) would raise his hands until they were in line with his ears.\"\r",
+    "Coupling Tasmī‘ (saying: Allah hears whoever praises Him) with Tahmīd (saying: O our Lord, praise be to You) is exclusive for the Imam and the one praying alone. However, the one praying behind the Imam should only say: \"Rabbana wa laka al-hamd\" (O our Lord, praise be to You).\r",
+    "Four wordings were authentically reported from the Prophet (may Allah's peace and blessings be upon him) regarding the way of saying: \"Rabbana wa laka al-hamd\" (O our Lord, praise be to You) after Rukū‘ and this is one of them. It is preferable that one follows these wordings and uses them alternately."
+   ],
+   "mapping": "same HadeethEnc record id 3095; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:01+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3095",
+   "text": "Ibn ‘Umar (may Allah be pleased with him and his father) reported: The Messenger of Allah (may Allah's peace and blessings be upon him) used to raise his hands in line with his shoulders when commencing the prayer, when saying Takbīr (proclaiming Allah's greatness) for Rukū‘ (bowing), and when raising his head from Rukū‘ he would raise them as well and say: \"Sami‘allāhu liman hamidah, rabbana wa laka al-hamd\" (Allah hears whoever praises Him, O our Lord, praise be to You). He did not use to do this in Sujūd (prostration).",
+   "title": "The Messenger of Allah (may Allah's peace and blessings be upon him) used to raise his hands in line with his shoulders when commencing the prayer,",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=3095",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:60aad64d29d6bff1a2510e1c215e6f1c0f9476391fedff2248b8cb4b5bb5d2f4",
+   "explanation": "Le Prophète ﷺ levait ses mains à trois endroits de la prière : de face, au niveau de l'épaule qui est la jonction entre l'os de l'épaule et l'humérus.\r\n\r\nLe premier endroit : lorsqu'il débutait sa prière au moment de la proclamation de la grandeur d'Allah lors de l'ouverture de la prière (Takbîrah Al Ihrâm).\r\n\r\nLe deuxième : lorsqu'il proclamait la grandeur d'Allah pour s'incliner.\r\n\r\nLe troisième : lorsqu'il relevait sa tête de l'inclinaison et qu'il disait : \" Allah a entendu quiconque L'a loué. Notre Seigneur ! La louange T'appartient. \"\r\n\r\nEt il ne levait pas ses mains au début de la prosternation ni au moment de se relever de celle-ci.",
+   "grade": "Authentique",
+   "hints": [
+    "Parmi les sagesses de la levée des mains dans la prière est que cela est une parure de la prière et haute considération d'Allah, Glorifié soit-Il.\r",
+    "Il est attesté du Prophète ﷺ qu'il a aussi levé les mains à un quatrième endroit comme dans la version d'Abû Hamîd As-Sâ'idî chez Abû Dâwûd, et d'autres, et qui est au moment de se relever du premier Tachahoud dans les prières en trois ou en quatre unités de prière.\r",
+    "Il est aussi attesté du Prophète ﷺ qu'il a encore levé ses mains au niveau des oreilles sans les toucher comme dans la version de Mâlik Ibn Al Huwayrîth dans le Recueil des Deux Authentiques : \" Lorsque le Messager d'Allah ﷺ proclamait la grandeur d'Allah, il levait ses mains jusqu'à être à hauteur de ses deux oreilles. \"\r",
+    "La combination entre le fait de dire : \" Allah a entendu quiconque L'a loué \" et la proclamation de la louange d'Allah est propre à l'imam et à la personne qui prie de manière individuelle. Quant au fidèle qui suit, il dit simplement : \" Notre Seigneur ! La louange T'appartient. \"\r",
+    "Après l'inclinaison, la parole : \" Notre Seigneur ! La louange T'appartient. \" est authentique d'après le Prophète ﷺ et il y a quatre formules. Celle-ci en est une. Et le meilleur est que la personne dise ces diverses formules, tantôt celle-ci et tantôt celle-là."
+   ],
+   "mapping": "same HadeethEnc record id 3095; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:02+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/3095",
+   "text": "D'après Ibn 'Umar (qu'Allah les agrée tous les deux) : Le Messager d'Allah ﷺ levait les mains jusqu’aux épaules lorsqu’il entamait la prière, lorsqu'il proclamait la grandeur d'Allah (At-Takbîr) pour l'inclinaison et lorsqu’il relevait la tête de l’inclinaison. Il disait en relevant la tête : « Allah a entendu quiconque L'a loué ! Notre Seigneur, à Toi la louange ! » Et il ne faisait pas cela [lever les mains] dans la prosternation.",
+   "title": "Le Messager d'Allah ﷺ levait les mains jusqu’aux épaules lorsqu’il entamait la prière,",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3095",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:64c213b2cba5dcc26110d78269333d8a14a5d51122c09a3c3cabbb0f1028cf2b",
+   "explanation": "Pada tiga tempat dalam salat, Nabi ﷺ biasa mengangkat kedua tangannya sejajar dengan pundak, yaitu pertemuan bahu dan lengan.\r\n\r\nPertama: ketika memulai salat saat takbiratul ihram.\r\n\r\nKedua: ketika takbir untuk rukuk.\r\n\r\nKetiga: ketika mengangkat kepala dari rukuk dan mengucapkan: \"sami'allāhu liman ḥamidah rabbanā walakal-ḥamdu\".\r\n\r\nBeliau tidak mengangkat tangan ketika turun sujud maupun bangkit dari sujud.",
+   "grade": "Sahih",
+   "hints": [
+    "Di antara hikmah mengangkat kedua tangan dalam salat ialah sebagai hiasan bagi salat dan pengagungan kepada Allah Ta'ala.\r",
+    "Diriwayatkan dari Nabi ﷺ bahwa beliau mengangkat kedua tangannya pada tempat yang keempat, sebagaimana pada riwayat Abu Ḥumaid As-Sā'idiy dalam Sunan Abu Daud dan lainnya, yaitu ketika bangkit dari tasyahud awal dalam salat yang berjumlah tiga rakaat dan empat rakaat.\r",
+    "Juga diriwayatkan dari Nabi ﷺ bahwa beliau mengangkat kedua tangannya sejajar telinga tanpa sentuhan, sebagaimana pada riwayat Mālik bin Al-Ḥuwairiṡ dalam Aṣ-Ṣaḥīḥain: \"Sesungguhnya Rasulullah ﷺ mengangkat kedua tangannya sampai sejajar telinga apabila bertakbir.\"\r",
+    "Penggabungan antara bacaan tasmik dan tahmid khusus bagi imam dan orang yang salat sendiri. Adapun makmum, maka cukup membaca: rabbanā walakal-ḥamdu.\r",
+    "Bacaan \"rabbanā walakal-ḥamdu\" setelah rukuk diriwayatkan secara sahih dari Nabi ﷺ dengan empat redaksi; ini adalah salah satunya. Diutamakan agar seseorang mempelajari redaksi-redaksi tersebut, lalu membacanya silih berganti dalam salatnya."
+   ],
+   "mapping": "same HadeethEnc record id 3095; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:02+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3095",
+   "text": "Ibnu Umar -raḍiyallāhu 'anhumā- meriwayatkan, Rasulullah ﷺ mengangkat kedua tangannya sejajar dengan kedua pundak ketika mengawali salat dan ketika bertakbir untuk rukuk. Ketika mengangkat kepala dari rukuk, beliau juga mengangkat kedua tangannya seperti itu dan mengucapkan, \"Sami'allāhu liman ḥamidah, rabbanā wa lakal-ḥamdu (Allah mendengar orang yang memuji-Nya, wahai Tuhan kami, bagimu segala pujian).\" Namun, beliau tidak melakukan hal itu ketika sujud.",
+   "title": "Rasulullah ﷺ mengangkat kedua tangannya sejajar dengan kedua pundak ketika mengawali salat",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3095",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:8d61f2a2d449595fad7f4ede0dedbfc1ff0910da4ae055c14257ae1454f35546",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم نماز میں تین مقامات پر اپنے ہاتھوں کو کندھے کے برابر یا بالمقابل اٹھایا کرتے تھے۔\r\n\r\nپہلا مقام : آغاز نماز میں تکبیر تحریمہ کے وقت۔\r\n\r\nدوسرا مقام : رکوع کے لیے تکبیر کہتے وقت۔\r\n\r\nتیسرا مقام : رکوع سے سر اٹھاتے اور \"سمع الله لمن حمده ربنا ولك الحمد\" کہتے وقت۔\r\n\r\nآپ سجدے میں جاتے وقت اور سجدے سے اٹھتے وقت ہاتھ نہيں اٹھاتے تھے۔",
+   "grade": "صحيح",
+   "hints": [
+    "دونوں ہاتھوں کو اٹھانے میں ایک حکمت یہ پنہاں ہے کہ یہ نماز کی زینت اور اللہ تبارک و تعالی کی تعظیم ہے۔\r",
+    "اللہ کے نبی صلی اللہ علیہ و سلم سے ایک چوتھی جگہ میں بھی ہاتھ اٹھانا ثابت ہے۔ اس کا ذکر سنن ابوداود وغیرہ میں ابو حمید ساعدی کی ایک روایت میں ہے۔ یہ جگہ ہے تین اور چار رکعت والی نمازوں میں پہلے تشہد سے کھڑے ہونے کا مقام۔\r",
+    "آپ سے دونوں ہاتھوں کو دونوں کانوں کی لو تک، ان کو چھوئے بغیر، اٹھانا بھی ثابت ہے۔ صحیح بخاری اور صحیح مسلم کی ایک روایت میں مالک بن حویرث رضی اللہ عنہ سے روایت ہے کہ اللہ کے رسول صلی اللہ علیہ و سلم جب تکبیر کہتے تو دونوں ہاتھوں کو اٹھاکر دونوں کانوں کی لو تک لے جاتے۔\r",
+    "\"سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ\" اور \"رَبَّنَا وَلَكَ الحَمْدُ\" دونوں صرف امام اور منفرد کہیں گے۔ مقتدی صرف \"رَبَّنَا وَلَكَ الحَمْدُ\" کہے گا۔\r",
+    "اللہ کے نبی صلی اللہ علیہ و سلم سے رکوع کے بعد \"رَبَّنَا وَلَكَ الحَمْدُ\" کے چار صیغے نقل ہوئے ہیں۔ ان میں سے ایک یہ ہے۔ بہتر یہ ہے کہ انسان ان تمام صیغوں کا اتہمام کرے کبھی اسے پڑھے اور کبھی اسے۔"
+   ],
+   "mapping": "same HadeethEnc record id 3095; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:02+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3095",
+   "text": "عبداللہ بن عمر رضی اللہ عنہما سے روایت ہے کہ اللہ کے رسول ﷺ جب نماز شروع کرتے تو اپنے دونوں ہاتھوں کو اپنے کندھوں کے برابر تک اٹھاتے اور جب رکوع کے لیے تکبیر کہتے (تب بھی دونوں ہاتھوں کو اٹھاتے) اور جب رکوع سے سر اٹھاتے تب بھی اسی طرح اپنے دونوں ہاتھ اٹھاتے اور \"سَمِعَ الله لمن حَمِدَهُ رَبَّنَا ولك الحمد\" کہتے۔ جب کہ سجدوں میں ایسا نہیں کرتے تھے۔",
+   "title": "اللہ کے رسول ﷺ جب نماز شروع کرتے تو اپنے دونوں ہاتھوں کو اپنے کندھوں کے برابر تک اٹھاتے",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3095",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:1e80f03675e91491524781497b3c49f9cef6c91741e3526722c2d3a6ce6b57af",
+   "explanation": "先知（愿主福安之）在礼拜时，曾在三处地方抬起手与肩膀相平，肩膀即锁骨与上臂相结合的地方。\r\n\r\n第一处：在开始礼拜念入拜的大赞词时。\r\n\r\n第二处：念大赞词鞠躬时。\r\n\r\n第三处：从鞠躬中抬起头诵念“安拉确已听到赞颂者的赞颂，我们主啊！一切赞颂统归你。”之时。\r\n\r\n在开始叩头和从叩头站起来时则不这样做。",
+   "grade": "正确的",
+   "hints": [
+    "拜功中抬起双手的哲理是：装饰拜功和尊重清高伟大的安拉。\r",
+    "从先知（愿主福安之）那里得到肯定，他在第四处地方也抬起双手，见艾布·胡麦德·萨义德的传述，由艾布·达吾德等人记录，即：在三番拜功和四番拜功时，从第一个台善胡德中站起来的时候。\r",
+    "从先知（愿主福安之）那里也得到肯定，他抬起双手与双耳垂相平，但没有触摸之。见马利克·本·胡外里斯的传述，该圣训记录在两大部圣训：“安拉的使者（愿主福安之）诵念大赞词时，会抬起双手至与双耳垂相平。”\r",
+    "诵念安拉确已听到和赞颂安拉仅限于领拜者和单独礼拜者，至于跟拜者则只诵念：我们的主啊！一切赞颂统归你。\r",
+    "鞠躬后抬起头时说：“我们主啊！一切赞颂统归你”，该句赞词从先知（愿主福安之）那里传来了四种形式，这是其中之一，礼拜者最好轮流诵念这四种形式的念词。"
+   ],
+   "mapping": "same HadeethEnc record id 3095; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:02+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3095",
+   "text": "伊本·欧玛尔（愿主喜悦他俩）传述： 安拉的使者（愿主福安之）开始礼拜的时候，升高双手至与双肩相平，念大赞词，鞠躬时候，当从鞠躬中抬起头的时候，同样也升高双手至与肩平，然后诵念道：“安拉确已听到赞颂者的赞颂，我们的主啊！一切赞颂归于你”，从叩头中起来时则不这样做。",
+   "title": "安拉的使者（愿主福安之）开始礼拜的时候，升高双手至与双肩相平，",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

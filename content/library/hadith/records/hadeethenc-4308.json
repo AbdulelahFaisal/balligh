@@ -1,0 +1,195 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:8f2f42ca73fa9b9abfc26cce04a9eb24cc36042720bd87efbe106f22b98b57b2",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "سُئِلَ النبيُّ صلى الله عليه وسلم عن البر والإثم، فقال: \n\nأعظم خِصَال البر حسن الخُلُق مع الله بالتقوى، ومع الخَلْق باحتمال الأذى، وقِلَّة الغَضب، وبسط الوجه، وطيب الكلام، والصلة والطاعة واللطف والمَبَرّة وحسن العشرة والصحبة. \n\nوأما الإثم فما تَحَرَّك في النفس مِن المشتبهات وتردَّد دون أنْ ينشرح الصدر له، وحصل في القلب منه الشك، والخوف من كونه ذنبًا، ولم تُرِد أن تُظْهِرَه لكونه قبيحًا لأعيان وأماثل الناس وكُمَّلِهم، وذلك لأن النفس بطبعها تحب اطلاع الناس على خيرها، فإذا كَرِهَت الاطلاع على بعض أفعالها فهو إثم لا خير فيه.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "الحثُّ على مكارم الأخلاق؛ لأنّ حسن الخلق من أعظم خصال البر.",
+  "الحق والباطل لا يلتبس أمرُهما على المؤمن، بل يعرف الحق بالنور الذي في قلبه، وينفر عن الباطل فينكره.",
+  "من علامات الإثم  قلق القلب واضطرابه، وكراهة اطلاع الناس عليه.",
+  "قال السندي: هذا في المشتبهات من الأمور التي لا يعلم الناس فيها بتعيين أحد الطرفين؛ وإلا فالمأمور به في الشرع من غير ظهور دليل فيه على خلاف ذلك من البر، والمنهي عنه كذلك من الإثم، ولا حاجة فيهما إلى استفتاء القلب وطمأنينته.",
+  "المخاطَب في الحديث أصحاب الفطرة السليمة، لا أصحاب القلوب المنكوسة التي لا تعرف معروفًا ولا تنكر منكرًا إلا ما أُشرِبتْ من هواها.",
+  "قال الطيبي: قيل فُسِّرَ البر في الحديث بمعان شتى، ففسَّره في موضع بما اطمأنت إليه النفس واطمأن إليه القلب، وفسره في موضع بالإيمان، وفي موضع بما يقربك إلى الله، وهنا بحسن الخلق، وفسر حسن الخلق: باحتمال الأذى وقلة الغضب وبسط الوجه وطيب الكلام، وكلها متقاربة في المعنى."
+ ],
+ "id": "hadeethenc-4308",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (4/ 1980) (2553).\nالتحفة الربانية في شرح الأربعين حديثًا النووية التحفة الربانية (ص62).\nشرح الأربعين النووية، لابن عثيمين (ص267).\nفتح القوي المتين في شرح الأربعين وتتمة الخمسين، للنووي وابن رجب رحمهما الله (ص92).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=4308",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:54:53+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/4308"
+ },
+ "source_categories": [
+  {
+   "id": "282",
+   "label": "الأخلاق الحميدة"
+  },
+  {
+   "id": "314",
+   "label": "أعمال القلوب"
+  }
+ ],
+ "source_record_id": "4308",
+ "text": "عَنِ النَّوَّاسِ بْنِ سِمْعَانَ الْأَنْصَارِيِّ رضي الله عنه قَالَ: سَأَلْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَنِ الْبِرِّ وَالْإِثْمِ، فَقَالَ: «الْبِرُّ حُسْنُ الْخُلُقِ، وَالْإِثْمُ مَا حَاكَ فِي صَدْرِكَ، وَكَرِهْتَ أَنْ يَطَّلِعَ عَلَيْهِ النَّاسُ».",
+ "title": "البر حسن الخلق، والإثم ما حاك في صدرك، وكرهت أن يطلع عليه الناس",
+ "topic": "conduct",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=4308",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:0a9ada06e98a16cdbfa879fc5d3d1053ab6d7bfc1cda44b9622e752db3b6bb3f",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামকে পাপ ও পূন্য সম্পর্কে জিজ্ঞেস করা হয়েছিল, ফলে তিনি বললেন:\r\n\r\nপূণ্যের সবচেয়ে বড় কাজ হলো আল্লাহর সাথে তাকওয়া অবলম্বন করে এবং মানুষের সাথে কষ্ট সহ্য করে সদাচারণ করা, কম গোস্বা করা, চেহারা হাসি-খুশি রাখা, সুন্দর কথা বলা, সম্পর্ক অটুট রাখা, আনুগত্য করা, নরম আচরণ করা, ভালো কাজ করা এবং সুন্দর ব্যবহার ও সঙ্গ প্রদান করা।\r\n\r\nআর পাপ হলো এমন সন্দেহ যা আত্মায় উদ্বেলিত হয় এবং অন্তর তার জন্য পরিষ্কার না হয়ে দ্বিধাগ্রস্ত হয় এবং এটির কারণে হৃদয়ে সন্দেহ এবং তা পাপ হওয়ার ভয় জাগ্রত হয়, আর তা উল্লেখযোগ্য, সম্মানিত ও ভদ্র মানুষের নিকট খারাপ হওয়ার কারণে প্রকাশ করার ইচ্ছে হয় না, কারণ নফস স্বাভাবিকভাবে চায় মানুষ তার ভালোটি জানুক। কাজেই কিছু কর্ম যখন মানুষের জেনে যাওয়া পছন্দ করবে না তখন তাই পাপ হবে এবং সেখানে কোনো কল্যাণ নেই।",
+   "grade": "সহীহ",
+   "hints": [
+    "উত্তম চরিত্রে উদ্বুদ্ধ করা; কারণ নেকির সবচেয়ে বড় গুণ হল উত্তম চরিত্র।\r",
+    "মুমিন ব্যক্তি সত্য-মিথ্যা সম্পর্কে বিভ্রান্ত হয় না, বরং সে তার অন্তরে থাকা নূর দ্বারা সত্যকে জানে এবং মিথ্যাকে পরিহার করে।\r",
+    "পাপের লক্ষণগুলির মধ্যে রয়েছে হৃদয়ে উদ্বেগ এবং অশান্তি এবং এটি সম্পর্কে লোকেদের জেনে যাওয়াকে অপছন্দ করা।\r",
+    "আস-সিন্ধি বলেন: এটি সন্দেহজনক বিষয়গুলির ক্ষেত্রে প্রযোজ্য যেখানে লোকেরা একটি পক্ষের নির্ধারণ হওয়া সম্পর্কে জানে না। অন্যথায়, শরীয়তে আদিষ্ট বিষয় তার বিপরীত প্রমাণ না পাওয়া গেলে নেকি; অনুরূপভাবে নিষিদ্ধ বিষয় পাপ; এই দুই বিষয়ে অন্তরের ফতোয়া খোঁজা ও তার স্থিরতা তলব করার প্রয়োজন নেই।\r",
+    "হাদীসে যাদের সম্বোধন করা হয়েছে তারা হল স্বাভাবিক স্বভাবের অধিকারীগণ, বিপরীত হৃদয়ের অধিকারী নয়, যারা ভালো জানে না এমন এবং মন্দকে প্রত্যাখ্যান করে না, তবে যে প্রবৃত্তি প্রবিষ্ট করা হয়েছে তা ছাড়া।\r",
+    "আত-তিবী বলেন, হাদীসে ‘বির’ এর কয়েকটি অর্থ ব্যক্ত করা হয়েছে; এক জায়গায় নফস যে জিনিসের প্রতি নিশ্চিন্ত হয় এবং অন্তর যার প্রতি স্থির হয় তাকে ‘বির’ আখ্যা দেওয়া হয়েছে; আরেক জায়গায় ঈমান বলে তার আখ্যা দেওয়া হয়েছে; আরেক জায়গায় যে জিনিস আপনাকে আল্লাহর নৈকট্য পৌঁছাবে তাকে ‘বির’ আখ্যা দেওয়া হয়েছে; এখানে حسن الخلق (সদাচরণ) দিয়ে আখ্যা দেওয়া হয়েছে; আর সদাচরণের ব্যাখ্যা হল: কষ্ট বরদাস্ত করা, কম গোস্বা করা, চেহারার প্রফুল্লতা, সুন্দর কথা বলা, সবগুলোর অর্থ কাছাকাছি।"
+   ],
+   "mapping": "same HadeethEnc record id 4308; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:55:01+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/4308",
+   "text": "নাওওয়াস ইবনু সাম’আন আল আনসারী রাদিয়াল্লাহু আনহু থেকে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে পুণ্য ও পাপ সম্পর্কে প্রশ্ন করলাম। তখন তিনি জবাব দিলেন: “পুণ্য হলো উন্নত চরিত্র। আর পাপ হলো যা তোমার অন্তরে দ্বিধা-দ্বন্ধ সৃষ্টি করে এবং লোকে তা জানুক তা তুমি অপছন্দ করো”।",
+   "title": "“পুণ্য হলো উন্নত চরিত্র। আর পাপ হলো যা তোমার অন্তরে দ্বিধা-দ্বন্ধ সৃষ্টি করে এবং লোকে তা জানুক তা তুমি অপছন্দ করো”।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=4308",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:db198abb029dd401bf37696dadfe5364734474abb528851bc147db36a41cf8ba",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) was asked about righteousness and sinfulness so he said:\r\n\r\nThe greatest aspect of righteousness is adopting good morals with Allah through piety and with people through the endurance of harm, avoidance of anger, having a cheerful face, speaking good words, maintaining ties, obedience, kindness, charity, kind treatment, and good companionship.\r\n\r\nAs for sinfulness, it refers to suspicious matters that move and waver within the soul, the breast does not feel at ease with, the heart feels doubtful about and fearful of its being a sin, and one is not willing to show it to the elite, or the best and the most perfect among people given its ugliness. This is because the soul has a natural inclination to show people its good aspects, so when it hates making some of its acts known to people, then this is a sin that is devoid of goodness.",
+   "grade": "Authentic",
+   "hints": [
+    "Encouraging the act of adopting noble morals because good morals are among the greatest aspects of righteousness.\r",
+    "The believer does not feel confused about the truth and falsehood; rather, he knows the truth through the light in his heart and turns away from falsehood and disapproves of it.\r",
+    "Anxiety and uneasiness of the heart along with disliking the idea of making it known to people are among the signs of sinfulness.\r",
+    "As-Sindi said: This applies to suspicious matters when people are not aware of the right choice. Otherwise, what is enjoined in the Shariah, without the existence of a relevant proof, falls under righteousness, and what is prohibited falls under sinfulness, and there is no need to refer to the heart and its tranquility in both cases.\r",
+    "The Hadīth addresses those who possess a sound natural disposition, not those with reversed hearts that do not recognize what is good or reject what is evil except what is engraved therein of their whims.\r",
+    "At-Tībi said: It was said that righteousness in the Hadīth was interpreted in various ways. He interpreted it in one position as what the soul and the heart feel at ease about. In another position, he interpreted it as faith, and in a different position as what brings you close to Allah, and here as good morals, and he defined good morals as the endurance of harm, the avoidance of anger, having a cheerful face, and speaking good words, which are all close in meaning."
+   ],
+   "mapping": "same HadeethEnc record id 4308; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:55:00+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/4308",
+   "text": "An-Nawwās ibn Sim‘ān al-Ansāri (may Allah be pleased with him) reported: I asked the Messenger of Allah (may Allah's peace and blessings be upon him) about righteousness and sinfulness, and he said, \"Righteousness is good morals, and sinfulness is what your heart is not at ease with, and you hate that people know about it.\"",
+   "title": "Righteousness is good morals, and sinfulness is what your heart is not at ease with, and you hate that people know about it",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=4308",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:94b031fca28eef4be9d0a017e4be757ab7a6b3b8071b6d80f6582c6571a16198",
+   "explanation": "On a interrogé le Prophète ﷺ à propos de la bonté et du péché, alors il ﷺ a dit :\r\n\r\nLa plus immense bribe de la bonté est le bon comportement avec Allah par le biais de la piété et avec les créatures en supportant le tort, en ne se mettant pas en colère, en ayant un visage radieux, en disant de bonnes paroles, en maintenant le lien de parenté, en obéissant, en étant doux et charitable, en ayant une bonne relation conjugale et en étant de bonne compagnie.\r\n\r\nQuant au péché, c'est ce qui agite le for intérieur en termes d'ambiguïtés et d'hésitation sans que la poitrine s'épanouisse. Il en résulte du doute dans le cœur et de la peur comme étant un péché. On ne souhaite pas qu'il soit rendu manifeste aux élites parmi les hommes et ceux qui se sont parfaits étant donné sa laideur aux yeux ; cela parce que, dans sa nature, l'âme aime montrer aux gens le bien qui émane d'elle et si elle répugne montrer certains actes qui émanent d'elle, alors c'est un péché dans lequel il n'y a pas de bien.",
+   "grade": "Authentique",
+   "hints": [
+    "L'incitation aux nobles caractères parce que le bon comportement fait partie des plus immenses bribes de la bonté.\r",
+    "Le croyant n'est pas embrouillé par l'affaire de la Vérité et du Faux ; plutôt, il connait la Vérité par la lumière qu'il y a dans son cœur et il fuit le Faux et le désapprouve.\r",
+    "Parmi les signes du péché, il y a l'anxiété du cœur et son agitation ainsi que la répugnance à ce que les hommes en soient au courant.\r",
+    "As-Sindî (qu'Allah lui fasse miséricorde) a dit : \" Ceci concerne les affaires ambigües dont les gens ne connaissent pas précisément un des deux pans ; sinon, sans preuve manifeste, ce qui est ordonné par la Législation est à l'inverse de cela, à savoir : la bonté. Il en est de même de ce qui est interdit : cela fait partie du péché. Ainsi, dans les deux cas, il n'y a pas besoin de demander un verdict du cœur et de se référer à sa tranquillité. \"\r",
+    "Dans ce hadith, le Prophète ﷺ s'adresse aux personnes à la disposition naturelle saine et non aux personnes aux \" cœurs renversés \" qui ne reconnaissent pas le convenable ni ne désapprouvent le blâmable si ce n'est là où leur passion s'est abreuvée.\r",
+    "At-Tîbî (qu'Allah lui fasse miséricorde) a dit : \" Dans ce hadith, la bonté a été interprétée par diverses significations : par endroit, elle a été interprétée comme étant là où se tranquillise l'âme et vers quoi se tranquillise le cœur ; dans un autre endroit, elle a été interprétée comme étant la foi ; à un autre endroit encore, elle a été interprétée comme étant ce qui rapproche d'Allah ; etc. Ici, la bonté a été interprétée comme étant le bon comportement, à savoir : supporter le tort, ne pas se mettre en colère, avoir un visage radieux et dire de belles paroles. Et toutes ces interprétations sont proches dans la signification. \""
+   ],
+   "mapping": "same HadeethEnc record id 4308; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:55:01+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/4308",
+   "text": "D'après An-Nawwâs ibn Sam'ân Al Ansârî (qu'Allah l'agrée) qui a dit : J'ai interrogé le Messager d'Allah ﷺ à propos de la bonté et du péché, alors il a dit :  « La bonté c'est le bon comportement. Quant au péché, c'est ce qui s'agite dans ta poitrine et que tu répugnerais que les gens apprennent. »",
+   "title": "La bonté c'est le bon comportement. Quant au péché, c'est ce qui s'agite dans ta poitrine et que tu répugnerais que les gens apprennent.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=4308",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:3abb17b4e5fd6af2799447de62429941ea27676f9d83bf3f0b25edff7d34dc62",
+   "explanation": "Nabi ﷺ ditanya tentang kebajikan dan dosa. Maka beliau bersabda:\r\n\r\nPerkara kebajikan yang paling besar adalah berakhlak baik kepada Allah dengan bertakwa dan berakhlak baik kepada manusia dengan bersabar terhadap gangguan mereka, mengurangi marah, bermuka ceria, berbicara baik, menyambung silaturahmi, bersikap lembut, berbuat baik, dan bergaul dengan baik.\r\n\r\nAdapun dosa, maka ia adalah perkara-perkara syubhat yang bergolak dalam jiwa, dada tidak merasa tenang terhadapnya, ada keraguan dalam hati, khawatir itu dosa dan engkau tidak mau menampakkannya kepada tokoh, panutan dan orang-orang saleh karena hal itu buruk. Hal itu karena tabiat manusia senang dilihat kebaikannya. Sebab itu, jika ia tidak suka dilihat sebagian perbuatannya, itu adalah perbuatan dosa yang tidak mengandung kebaikan.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Anjuran memiliki akhlak mulia karena akhlak baik termasuk perkara kebajikan yang paling agung.\r",
+    "2- Kebenaran dan kebatilan tidak akan samar bagi orang mukmin karena ia dapat mengetahui kebenaran dengan cahaya yang ada dalam hatinya sekaligus bisa menghindar dari kebatilan dan mengingkarinya.\r",
+    "3- Di antara tanda perbuatan dosa adalah kegundahan hati, hati bergolak, dan tidak mau dilihat orang.\r",
+    "4- As-Sindiy berkata, \"Ini berlaku pada perkara-perkara yang samar, yaitu perkara-perkara yang seseorang tidak memiliki ilmu untuk menentukan salah satunya. Adapun perkara yang diperintahkan dalam syariat dan tidak ada dalil yang menyelisihinya secara jelas dalam hal itu, maka itu adalah kebajikan. Kemudian perkara yang dilarang seperti itu adalah dosa. Tidak diperlukan pada keduanya untuk bertanya pada hati serta ketenteramannya.\"\r",
+    "5- Hadis ini ditujukan kepada orang yang memiliki fitrah lurus, bukan yang memiliki fitrah terbalik, yaitu yang tidak mengenal kebaikan dan tidak pula mengingkari kemungkaran kecuali yang dirasuki oleh hawa nafsunya.\r",
+    "6- Aṭ-Ṭībiy berkata, \"Disebutkan, kebajikan dalam hadis ini ditafsirkan dengan banyak makna. Di sebagian tempat ditafsirkan dengan sesuatu yang membuat hati merasa tenang. Di tempat lain ditafsirkan dengan keimanan, dan di tempat lainnya lagi dengan sesuatu yang dapat mendekatkan kepada Allah. Sedangkan di sini ditafsirkan dengan akhlak baik. Lalu akhlak baik ditafsirkan dengan bersabar terhadap gangguan, sedikit marah, bermuka ceria dan berkata baik. Semuanya berdekatan secara makna.\""
+   ],
+   "mapping": "same HadeethEnc record id 4308; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:55:01+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/4308",
+   "text": "An-Nawwās bin Sim'ān Al-Anṣāriy -raḍiyallāhu 'anhu- meriwayatkan, Aku bertanya kepada Rasulullah ﷺ tentang kebajikan dan dosa. Beliau bersabda, \"Kebajikan itu adalah akhlak baik. Sedangkan dosa adalah apa yang bergejolak di dalam dadamu dan engkau tidak suka ada orang lain yang melihat kamu melakukannya.\"",
+   "title": "Kebajikan itu adalah akhlak baik. Sedangkan dosa adalah apa yang bergejolak di dalam dadamu dan engkau tidak suka ada orang lain yang melihat kamu melakukannya",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=4308",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:015fab73a65404d565966724d46329e485f310419aa6928732842c52270198fe",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم سے نیکی اور گناہ کے بارے میں پوچھا گیا، تو آپ نے فرمایا:\r\n\r\nسب سے بڑی نیکی حسن اخلاق ہے۔ اللہ کے ساتھ حسن اخلاق یہ ہے کہ تقوی اختیار کیا جائے اور مخلوق کے ساتھ حسن اخلاق یہ ہے کہ ان کی اذیتوں کو برداشت کیا جائے، غصہ کم کیا جائے، ہنس کر ملا جائے، اچھی بات کی جائے، صلہ رحمی کی جائے، بات مانی جائے، لطف آمیز برتاؤ کیا جائے، حسن سلوک کے ساتھ زندگی گزاری جائے اور اچھی صحبت رکھی جائے۔\r\n\r\nجب کہ گناہ ایسی مشتبہ چيز ہے، جو دل میں کھٹکے، اس سے دل مطمئن نہ ہو، بار بار یہ شک اور اندیشہ دل میں آتا رہے کہ کہیں یہ گناہ تو نہیں ہے اور آپ اسے اچھے، نیک اور کامل لوگوں کے سامنے ظاہر نہ کرنا چاہیں۔ کیوں کہ فطری طور پر انسان کا نفس یہ چاہتا ہے کہ لوگ اس کی اچھی باتوں کو ہی جانیں۔ لہذا اگر آپ کسی بات سے لوگوں کی آگاہی کو ناپسند کر رہے ہیں، تو اس کا مطلب یہ ہے کہ وہ گناہ ہے اور اس میں کوئی خیر نہیں ہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "اعلی اخلاق سے آراستہ ہونے کی ترغیب، کیوں کہ حسن خلق کا شمار نیکی کے بڑے کاموں میں ہوتا ہے۔\r",
+    "ایک مومن کو حق اور باطل کے درمیان فرق کرنے میں دقت نہيں ہوتی۔ کیوں کہ وہ اپنے دل میں موجود نور کی وجہ سے حق کو پہچان لیتا ہے اور باطل سے گھٹن محسوس کرتا اور اس کی نکیر کرتا ہے۔\r",
+    "گناہ کی ایک علامت یہ ہے کہ دل اس سے بے چین و پریشان رہے اور دل کو یہ گوارہ نہ ہو کہ لوگ اسے جان جائيں۔\r",
+    "سندھی کہتے ہیں : یہ بات ان مشتبہ امور کے بارے میں کہی گئی ہے، جن کے بارے میں لوگوں کو پتہ نہيں ہوتا کہ وہ نیکی ہیں یا گناہ۔ ورنہ شریعت میں جن باتوں کا حکم دیا گیا ہے، وہ نیکی کے کام ہیں اور جن باتوں سے روکا گيا ہے، وہ گناہ کے کام ہيں۔ ان دونوں طرح کے کاموں میں دل سے فتوی پوچھنے اور اس کا اطمینان جاننے کی ضرورت نہیں ہے۔\r",
+    "اس حدیث میں مخاطب فطرت سلیمہ رکھنے والے لوگ ہيں۔ ایسے الٹے دل والے لوگ نہيں، جو بھلے برے کے اندر فرق کرنے کی صلاحیت نہیں رکھتے اور خواہشات نفسانی کی پیروی کرتے ہيں۔\r",
+    "طیبی کہتے ہيں: کسی نے کہا ہے : اس حدیث میں آئے لفظ 'البر' (نیکی) کے مختلف معانی بیان کیے گئے ہيں۔ کہیں اس کے معنی ایسے کام کے بیان کیے گئے ہيں، جس سے نفس اور دل مطمئن ہو۔ کہیں ایمان کے بتائے گئے ہیں۔ کہيں ایسے عمل کے بتائے گئے ہیں جو آپ کو اللہ کے قریب کر دے۔ جب کہ یہاں حسن اخلاق کے بتائے گئے ہیں اور حسن اخلاق کی تفسیر اذیت کے وقت تحمل و بردباری کا مظاہرہ کرنے، غصہ کم کرنے، ہنس کر ملنے اور خوش کلامی سے کی گئی ہے۔ ویسے یہ سارے معانی ایک دوسرے سے قریب ہی ہيں۔"
+   ],
+   "mapping": "same HadeethEnc record id 4308; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:55:00+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/4308",
+   "text": "نواس بن سمعان انصاری رضی اللہ عنہ سے روایت ہے، وہ کہتے ہيں: میں نے رسول اللہ ﷺ سے نیکی اور گناہ کے بارے میں پوچھا تو آپ نے فرمایا: ’’نیکی تو اچھا اخلاق ہے اور گناہ وہ ہے جو تیرے دل میں کھٹکے اور تجھے یہ ناگوار ہو کہ لوگ اس سے باخبر ہوں‘‘۔",
+   "title": "’’نیکی تو اچھا اخلاق ہے اور گناہ وہ ہے جو تیرے دل میں کھٹکے اور تجھے یہ ناگوار ہو کہ لوگ اس سے باخبر ہوں‘‘۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=4308",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:047083fd5b3e53868966b4c9d3dd18ca3a1b4c69f37c6145bd13e466a4866348",
+   "explanation": "有人询问先知（愿主福安之）什么是善行和罪行，然后先知（愿主福安之）说：\r\n\r\n善行就是美德，敬畏安拉，忍辱负重，少生气，和颜悦色，接续骨亲，服从安拉，温和待人，善待家人。\r\n\r\n至于罪行，即在内心涌动的一些混淆不清之事，其本人徘徊不定，内心得不到释然，心底充满着疑惑，担心这是罪行，又不愿让他人看到。因为在众人眼里这是丑事，那是因为人天性喜欢他人看到自己好的一面，如果他厌恶他人看到他的部分行为，那么这些行为就是罪行，其中没有任何好处。",
+   "grade": "正确的",
+   "hints": [
+    "鼓励拥有高尚的美德，因为美德是善行的最大的特征之一。\r",
+    "真理和虚妄，此两者不会让信士混淆，信士会凭借自己内心的光亮认识真理，然后祛除虚妄，并否认之。\r",
+    "罪行的标志有：内心忐忑不安，厌恶被他人看到。\r",
+    "辛迪说：这是混淆不清的事情，人们难以确定好与不好。这种情况下，教法所命令即使善行，除非有证据证明相反的情况，教法所禁止的即为罪行，此两者不需要寻求心底的抉择和心安理得。\r",
+    "圣训当中所对话的人指那些天性健全之人，不针对那些心里扭曲、不识善恶，仅追随其私欲的那些人。\r",
+    "托比说：圣训中所说的善有许多不同意义的解读，有人解释说：指人性和内心皆安宁之事，有人解释说：指信仰，能让你接近安拉的事情。圣训中提到了美德，有人解释美德说：容忍他人的伤害，少生气，和颜悦色，说善言，这一切其意义都是相近的。"
+   ],
+   "mapping": "same HadeethEnc record id 4308; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:55:00+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/4308",
+   "text": "据辅士楠瓦斯·本·塞姆阿尼（愿主喜悦之）传述，他说： 我询问安拉的使者（愿主福安之）什么是善行和罪行？他说：“善行即美德，罪行即你内心所密谋的，不愿让他人知道的事情。”",
+   "title": "“善行即美德，罪行即你内心所密谋的，不愿让他人知道的事情。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

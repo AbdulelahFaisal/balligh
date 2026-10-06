@@ -1,0 +1,52 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-18975",
+ "source_content_sha256": "sha256:e3ac7d234783a58714dc2cc452f55fdbd54ffc4d38a2b5a6d93a70074b4926ef",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:21:58.095612+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 596,
+  "completion_tokens": 593,
+  "total_tokens": 1189,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 596
+ },
+ "latency_ms": 6586,
+ "units": [
+  {
+   "id": "title",
+   "text": "Quelle est la signification des deux attestations de foi ?"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Parmi les questions de ce questionneur de Riyad, il dit : Quelle est la signification de l’attestation qu’il n’y a de divinité digne d’adoration qu’Allah et que Muhammad est le Messager d’Allah ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "La signification de l’attestation est que la personne témoigne par sa langue et par son cœur qu’il n’y a aucune divinité digne d’adoration en dehors d’Allah. Elle témoigne par sa langue et croit par son cœur qu’il n’y a de divinité qu’Allah, c’est-à-dire qu’il n’y a aucune divinité digne d’adoration en dehors d’Allah, et que tout ce que les gens adorent en dehors d’Allah, comme les idoles, les morts, les arbres, les pierres, les anges ou autres, est vain, comme Allah a dit : ⟦Q1⟧ [al-Hajj : 62]. Telle est la signification de l’attestation qu’il n’y a de divinité digne d’adoration qu’Allah : que tu témoignes avec science, certitude et sincérité qu’il n’y a aucune divinité digne d’adoration en dehors d’Allah, et que tout ce que les gens adorent en dehors d’Allah est vain."
+  },
+  {
+   "id": "a2",
+   "text": "Et la signification de l’attestation que Muhammad est le Messager d’Allah est que tu témoignes avec science, certitude et sincérité que Muhammad ibn Abd Allah ibn Abd al-Muttalib est véritablement le Messager d’Allah à toute l’humanité et aux djinns, et qu’il est le dernier des prophètes, qu’il n’y aura plus de prophète après lui, que la prière et la paix soient sur lui. Oui."
+  },
+  {
+   "id": "a3",
+   "text": "Présentateur : Qu’Allah vous préserve."
+  }
+ ]
+}

@@ -1,0 +1,170 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:0e6fd860311ddacbf9b09f510b273cd9da00d7f515b26b0b8166bbec88c3698f",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "كان النبيُّ صلى عليه وسلم يُرسِلُ أصحابَه بألَّا يَتركوا «تمثالًا» -وهو صورة ما كان ذا روح مُجَسَّمة أو غير مجسمة- إلا أزالوه أو محوه.\n\nوألَّا يتركوا قبرًا مُرتفعًا إلا سَوَّوه بالأرض، وهَدَموا ما عليه من البناء، أو جَعَلوه مُسَطَّحًا لا يُرفَعُ عن الأرض رَفعًا كثيرًا، بل يُرفَع نحو شِبْر.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "تحريم التصوير لذوات الأرواح؛ لأنها من وسائل الشرك.",
+  "مشروعية إزالة المنكر باليد لمن له سلطة أو قدرة على ذلك.",
+  "حرص النبي صلى الله عليه على إزالة كل ما يدل على آثار الجاهلية، من التصاوير والتماثيل والأبنية على القبور."
+ ],
+ "id": "hadeethenc-5934",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (2/ 666) (969).\nالقول المفيد على كتاب التوحيد، لابن عثيمين (2/ 446).\nالملخص في شرح كتاب التوحيد، لصالح الفوزان (ص402).\nالجديد في شرح كتاب التوحيد، لمحمد القرعاوي (ص447).\nكتاب التوحيد، للإمام محمد بن عبد الوهاب (ص138).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=5934",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:35+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/5934"
+ },
+ "source_categories": [
+  {
+   "id": "73",
+   "label": "توحيد الألوهية"
+  }
+ ],
+ "source_record_id": "5934",
+ "text": "عن أبي الهيَّاج الأسدي قال: قَالَ لِي ‌عَلِيُّ بْنُ أَبِي طَالِبٍ: أَلَا أَبْعَثُكَ عَلَى مَا بَعَثَنِي عَلَيْهِ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ؟ أَنْ لَا تَدَعَ تِمْثَالًا إِلَّا طَمَسْتَهُ، وَلَا قَبْرًا مُشْرِفًا إِلَّا سَوَّيْتَهُ.",
+ "title": "ألا أبعثك على ما بعثني عليه رسول الله صلى الله عليه وسلم؟ أن لا تدع تمثالا إلا طمسته، ولا قبرا مشرفا إلا سويته",
+ "topic": "belief",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=5934",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:6f3f339d99eaac2ad918e82b07d6dabf233fafdc8c742c65fb7571490f84da14",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাঁর সাহাবীদেরকে বিভিন্ন অঞ্চলে প্রেরণ করে আদেশ করতেন: তারা যেন কোন জীবের প্রতিকৃতি - রূহ বিশিষ্ট প্রাণীর প্রতিকৃতি বা মূর্তি- দেখলে তা সরিয়ে ফেলে বা মুছে ফেলে।\r\n\r\nএমনিভাবে কোন উঁচু কবর দেখলে তা যেন তারা জমিনের সাথে সমান করে দেয় এবং কবরের উপর নির্মিত উঁচু  স্থাপনা ভেঙ্গে ফেলে অথবা এমনভাবে সমতল করবে যা জমিন থেকে তেমন উঁচু হবে না; বরংেএক বিঘত পরিমান উঁচু হতে পারে।",
+   "grade": "সহীহ",
+   "hints": [
+    "প্রাণীর প্রতিকৃতি করা হারাম। কেননা এগুলো শিরকের মাধ্যম।\r",
+    "যার হাতের দ্বারা অন্যায় দূর করার ক্ষমতা আছে তাকে হাতের দ্বারা অন্যায় দূর করার বৈধতা এ হাদীসে বর্ণিত হয়েছে।\r",
+    "প্রতিকৃতি, প্রতিমা তৈরি ও কবরের উপর স্থাপনা নির্মাণ ইত্যাদি জাহেলী যুগের নিদর্শনসমূহ দূর করার ব্যাপারে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের গুরুত্ব হাদীসে বর্ণিত হয়েছে।"
+   ],
+   "mapping": "same HadeethEnc record id 5934; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:36+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/5934",
+   "text": "আবূল হাইয়্যাজ আল আসাদী (রহঃ) থেকে বর্ণিত, তিনি বলেন: ’আলী রাদিয়াল্লাহু ‘আনহু আমাকে বলেছেন: আমি কি তোমাকে এমন কাজে পাঠাব না, যে কাজে রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম আমাকে পাঠিয়েছিলেন? তা হচ্ছে: “কোন (জীবের) প্রতিকৃতি বা মূর্তি দেখলে তা মিটিয়ে দিবে এবং কোন উঁচু কবর দেখলে তা সমান করে দিবে।”",
+   "title": "আমি কি তোমাকে এমন কাজে পাঠাব না, যে কাজে রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম আমাকে পাঠিয়েছিলেন? তা হচ্ছে: “কোন (জীবের) প্রতিকৃতি বা মূর্তি দেখলে তা মিটিয়ে দিবে এবং কোন উঁচু কবর দেখলে তা সমান করে দিবে।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=5934",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:9905d55875e1711f6bf5ad1f78125bfbeffe56cb3c0ab94c5f9022cf4d5e127b",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) would send his Companions and instruct them not to leave any statue - three-dimensional or flat image - without removing it or blotting it out,\r\n\r\nand not to leave any raised grave without leveling it and destroying any structure built above it; or making it flat as high as a span above the ground.",
+   "grade": "Authentic",
+   "hints": [
+    "Images of living beings are prohibited, for they are means leading to Shirk (polytheism).\r",
+    "It is legitimate to remove wrong things with one's hand if one has the authority or ability to do so.\r",
+    "The Prophet (may Allah's peace and blessings be upon him) was keen on removing all traces of jāhiliyyah (pre-Islam period of ignorance), such as images, statues, and structures built over the graves."
+   ],
+   "mapping": "same HadeethEnc record id 5934; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:35+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/5934",
+   "text": "Abu al-Hayyāj al-Asadi reported: 'Ali (may Allah be pleased with him) said to me: \"Shall I not send you with the same instructions as the Messenger of Allah (may Allah's peace and blessings be upon him) sent me with? Do not leave any statue without blotting it out or any raised grave without leveling it.\"",
+   "title": "Shall I not send you with the same instructions as the Messenger of Allah (may Allah's peace and blessings be upon him) sent me with? Do not leave any statue without blotting it out or any raised grave without leveling it",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=5934",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:2a68b1c827b57b51682d2a64084accc28f18e9c433fc67a080b4c53819ed7f74",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) envoyait ses Compagnons [en leur ordonnant] de ne pas laisser une représentation - l'image d'un être doté d'une âme, qu'il ait un corps ou non - sans qu'ils ne l'enlèvent ou ne l'effacent.\r\n\r\nDe même, qu'ils ne laissent pas une tombe surélevée sans la niveler au sol et détruire les constructions qui s'y trouvent, ou l'aplanir de sorte qu'elle ne soit pas beaucoup élevée du sol ; plutôt, qu'elle soit élevée d'environ un empan.",
+   "grade": "Authentique",
+   "hints": [
+    "L'interdiction de représenter des êtres dotés d'âmes ; car ces représentations font partie des moyens conduisant au polythéisme.\r",
+    "La prescription d'éradiquer le blâmable par la main pour quiconque en a l'autorité ou est en capacité de faire cela.\r",
+    "L'attachement du Prophète (qu'Allah le couvre d'éloges et le préserve) à éradiquer tout ce qui indique les traces de la Jâhiliyyah, qu'il s'agisse des représentations, des statues et des constructions sur les tombes."
+   ],
+   "mapping": "same HadeethEnc record id 5934; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:36+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/5934",
+   "text": "Aboû Al-Hayyâj Al-Asadî relate : « 'Alî ibn Abî Ṭâlib (qu'Allah l'agrée) m'a dit :  Ne souhaiterais-tu pas que je t'envoie avec ce que le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) m'a envoyé ? Ne laisse pas une représentation sans l'effacer, ni une tombe surélevée sans l'aplanir. »",
+   "title": "Ne souhaiterais-tu pas que je t'envoie avec ce que le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) m'a envoyé ? Ne laisse pas une représentation sans l'effacer, ni une tombe surélevée sans l'aplanir.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=5934",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:e782789ad4707507e10f002996f3f0de6002675b3bf12b6fd31446854e3ec353",
+   "explanation": "Nabi ﷺ mengutus sahabat-sahabatnya agar tidak membiarkan timṡāl (patung) -yaitu gambar bernyawa yang berdimensi ataupun yang tidak berdimensi- kecuali mereka hilangkan atau hapus.\r\n\r\nMereka juga tidak boleh membiarkan kubur yang tinggi kecuali diratakan dengan tanah sekaligus harus menghancurkan bangunan yang ada di atasnya, atau mereka cukup membuatkannya gundukan yang tidak terlalu tinggi di atas permukaan tanah, hanya ditinggikan seukuran satu jengkal.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Pengharaman menggambar makhluk bernyawa karena termasuk sarana kesyirikan.\r",
+    "2- Disyariatkannya menghilangkan kemungkaran dengan tangan bagi orang yang memiliki wewenang atau kemampuan untuk itu.\r",
+    "3- Kegigihan Nabi ﷺ menghilangkan semua yang menunjukkan jejak kejahiliahan seperti gambar, patung, dan bangunan di atas kubur."
+   ],
+   "mapping": "same HadeethEnc record id 5934; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:35+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/5934",
+   "text": "Abu Al-Hayyāj Al-Asadiy mengisahkan: Ali bin Abi Ṭālib pernah berkata kepadaku, \"Maukah engkau aku utus sebagaimana Rasulullah ﷺ mengutusku? Yaitu jangan biarkan patung kecuali engkau hancurkannya dan (jangan biarkan) kuburan yang tinggi kecuali engkau ratakan.\"",
+   "title": "Maukah engkau aku utus sebagaimana Rasulullah ﷺ mengutusku? Yaitu jangan biarkan patung kecuali engkau hancurkannya dan (jangan biarkan) kuburan yang tinggi kecuali engkau ratakan",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=5934",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:b1fd88bf75c79a42297eb1c2461538c6e892c57721daaf16d98d13161c7d4973",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم اپنے ساتھیوں کو یہ کہہ کر بھیجتے تھے کہ جب انھیں کسی ذی روح کی صورت ملے، چاہے مجسم ہو یا غیر مجسم، تو ہٹا دیں یا مٹا دیں۔\r\n\r\nاسی طرح جب کوئی اونچی قبر ملے، تو زمین کے برابر کر دیں اور اس پر جو بھی عمارت ہو اسے گرا دیں۔ یا پھر اس کا مطلب یہ ہے کہ اسے اس طرح سطح زمین کے برابر کر دیں کہ زمین سے ایک بالشت سے زیادہ اٹھی ہوئی نہ ہو۔",
+   "grade": "صحيح",
+   "hints": [
+    "ذی روح چیزوں کی تصویر بنانا حرام ہے، کیوں کہ یہ شرک کی جانب لے جانے والی چیز ہے۔\r",
+    "ارباب اقتدار اور طاقت رکھنے والوں کے لیے زور بازو سے منکر کا ازالہ کرنا مشروع ہے۔\r",
+    "تصویریں، مجسمے اور قبروں پر بنائی گئی تعمیرات  جو جاہلیت کے آثار پر دلالت کرنے والی چیزیں ہیں‘ اللہ کے نبی صلی اللہ علیہ و سلم ان  کے ازالے کے حریص تھے۔"
+   ],
+   "mapping": "same HadeethEnc record id 5934; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:35+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/5934",
+   "text": "ابو الہیّاج اسدی کہتے ہیں: علی رضی اللہ عنہ نے مجھ سے کہا : کیا میں تمہیں اس مشن پر نہ بھیجوں، جس پر مجھے رسول اللہﷺ نے بھیجا تھا؟ (آپ نے مجھے یہ ہدایت دے کر بھیجا تھا کہ) تم سے ایسا کوئی مجسمہ نہ چھوٹنے پائے، جسے تم نے مٹا نہ دیا ہو اور کوئی اسی اونچی قبر نہ چھوٹنے پائے، جسے تم نے برابر نہ کر دیا ہو۔",
+   "title": "کیا میں تمہیں اس مشن پر نہ بھیجوں، جس پر مجھے رسول اللہﷺ نے بھیجا تھا؟ (آپ نے مجھے یہ ہدایت دے کر بھیجا تھا کہ) تم سے ایسا کوئی مجسمہ نہ چھوٹنے پائے، جسے تم نے مٹا نہ دیا ہو اور کوئی اسی اونچی قبر نہ چھوٹنے پائے، جسے تم نے برابر نہ کر دیا ہو۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=5934",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:588aa57549d8a1b13a6870fd771314fe61156c08277fa198f93d02a3f642ef8d",
+   "explanation": "先知（愿主福安之）曾派他的弟子们去捣毁和铲除所有的偶像，偶像即：有具体形象或无具体形象的所有雕像。\r\n\r\n铲平所有隆起的坟墓，捣毁建在坟墓上的所有建筑物，使其与地面相平或高出地面少许。",
+   "grade": "正确的",
+   "hints": [
+    "禁止给有灵魂的东西塑像，因为这是导致以物配主的媒介。\r",
+    "对于有权利或有能力之人来说，必须动手制止恶行。\r",
+    "先知（愿主福安之）渴望清除所有愚昧时代的痕迹，如：雕像、塑像和坟墓上的建筑。"
+   ],
+   "mapping": "same HadeethEnc record id 5934; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:35+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/5934",
+   "text": "据艾布·汉亚哲·艾塞德传述，他说： 阿里·本·艾布·塔里布对我说：我要派你去做安拉的使者（愿主福安之）曾派我去做的一件事情，即：捣毁所遇见的偶像，铲平所有隆起的坟墓。",
+   "title": "我要派你去做安拉的使者（愿主福安之）曾派我去做的一件事情，即：捣毁所遇见的偶像，铲平所有隆起的坟墓。",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

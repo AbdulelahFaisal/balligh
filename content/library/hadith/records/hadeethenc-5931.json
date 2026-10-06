@@ -1,0 +1,191 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:303929764c0028970a913dba5777801fe5fc982f0a3b2befaa599075caa66a97",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "دَخَلَ النبيُّ صلى الله عليه وسلم بيتَه على عائشة رضي الله عنها فوجدَها قد سترتْ الخِزانة الصغيرة التي يُوضَع فيها المتاع بقماش فيه تصاوير لذوات الأرواح، فتَغَيَّرَ لونُ وجهِهِ غضبًا لله ونَزَعَه، وقال: \nأشدُّ الناس عذابًا يوم القيامة الذين يُشابِهون بتصاويرهم خلقَ الله. \nقالت عائشة: فجعلناه وِسَادَة أو وسادتين.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "إنكار المنكر وقتَ رؤيتِه وعدم التراخي في ذلك، ما لم يكن في ذلك مفسدة أكبر.",
+  "العذاب يوم القيامة يتفاوت بحسب عِظَمِ الذنب.",
+  "تصوير ذوات الأرواح من كبائر الذنوب.",
+  "من حِكَمِ تحريم التصوير مضاهاة خلق الله تعالى، سواءً قصد المصوِّرُ المضاهاة أو لم يقصد.",
+  "حرص الشريعة على حفظ الأموال بالاستفادة منها بعد تجنيبِها ما يحرم فيها.",
+  "المنع من صناعة صور ذات الأرواح على أيِّ شَكْلٍ كان، ولو كانت ممتهنة."
+ ],
+ "id": "hadeethenc-5931",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (7/ 168) (5954).\nصحيح مسلم (3/ 1668) (2107).\nالقول المفيد على كتاب التوحيد، لابن عثيمين (2/ 442).\nالملخص في شرح كتاب التوحيد، لصالح الفوزان (ص399).\nالجديد في شرح كتاب التوحيد، للقرعاوي (ص441).\nكتاب التوحيد لمحمد بن عبد الوهاب (ص138).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=5931",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:34+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/5931"
+ },
+ "source_categories": [
+  {
+   "id": "72",
+   "label": "توحيد الربوبية"
+  }
+ ],
+ "source_record_id": "5931",
+ "text": "عَنْ عَائِشَةَ أُمِّ المُؤمنينَ رضي الله عنها قَالَتْ: دَخَلَ عَلَيَّ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَقَدْ سَتَرْتُ سَهْوَةً لِي بِقِرَامٍ فِيهِ تَمَاثِيلُ، فَلَمَّا رَآهُ هَتَكَهُ وَتَلَوَّنَ وَجْهُهُ وَقَالَ: «يَا عَائِشَةُ، أَشَدُّ النَّاسِ عَذَابًا عِنْدَ اللهِ يَوْمَ الْقِيَامَةِ الَّذِينَ يُضَاهُونَ بِخَلْقِ اللهِ» قَالَتْ عَائِشَةُ: «فَقَطَعْنَاهُ فَجَعَلْنَا مِنْهُ وِسَادَةً أَوْ وِسَادَتَيْنِ».",
+ "title": "أشد الناس عذابا عند الله يوم القيامة الذين يضاهون بخلق الله",
+ "topic": "belief",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=5931",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:f133985d5409067b88c8aec3c880cf3f19fc445b0d0c0f230c5f5527c3e4a03f",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাঁর স্ত্রী আয়েশা রাদিয়াল্লাহু আনহার ঘরে প্রবেশ করলেন এবং দেখলেন যে, তিনি একটি ছোট আলমারি, যেখানে জিনিসপত্র রাখা হত, একটি কাপড় দিয়ে ঢেকে রেখেছেন। সেই কাপড়ে প্রাণীর ছবি ছিল। তা দেখে নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের চেহারা ক্রোধে পরিবর্তিত হয়ে গেল এবং তিনি তা সরিয়ে ফেললেন। আর তিনি বললেন: \"কিয়ামতের দিন সবচেয়ে কঠিন শাস্তি পাবে তারা, যারা আল্লাহর সৃষ্টির অনুকরণ করে ছবি তৈরি করে।\" আয়েশা রাদিয়াল্লাহু আনহা বললেন: \"আমরা তখন সেই কাপড়টি দিয়ে একটি বা দুইটি বালিশ বানিয়ে নিলাম।\"",
+   "grade": "সহীহ",
+   "hints": [
+    "অন্যায় দেখামাত্রই তার প্রতিবাদ করা এবং এতে দেরি না করা, যদি না এর ফলে আরও বড় কোনো ক্ষতি হয়।\r",
+    "কিয়ামতের দিন শাস্তি গুনাহের ভয়াবহতার ভিত্তিতে ভিন্ন হবে।\r",
+    "প্রাণীর ছবি তৈরি করা বড় গুনাহের অন্তর্ভুক্ত।\r",
+    "ছবি নিষিদ্ধ করার হিকমতগুলোর মধ্যে একটি হলো, আল্লাহর সৃষ্টির সাথে সমকক্ষতা করা, তা ছবি তৈরি করার সময় ছবির নির্মতা তা উদ্দেশ্য করুক বা না করুক।\r",
+    "শরীয়ত সম্পদ সংরক্ষণের প্রতি গুরুত্ব দেয় এবং হারাম থেকে বেঁচে থেকে তা ব্যবহারের নির্দেশ দেয়।\r",
+    "যেকোনো ধরনের প্রাণীর ছবি তৈরি করা নিষিদ্ধ, তা যতই ছোট বা তুচ্ছ হোক না কেন।"
+   ],
+   "mapping": "same HadeethEnc record id 5931; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:30+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/5931",
+   "text": "উম্মুল মু’মিনীন ‘আয়িশা রাদিয়াল্লাহু ‘আনহা থেকে বর্ণিত, তিনি বলেন: রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার কাছে এলেন, তখন আমি আমার একটি তাক পর্দা দিয়ে আবৃত করে রেখেছিলাম, যাতে জীবের ছবি ছিল। তিনি তা দেখতে পেয়ে ছিঁড়ে ফেললেন এবং তার চেহারা বিবর্ণ হয়ে গেল। তিনি বললেন: হে আয়িশা! কিয়ামতের দিন আল্লাহ তা‘আলার কাছে ঐ সকল লোক কঠিন আযাব ভোগ করবে, যারা আল্লাহর সৃষ্টির সাদৃশ্য প্রদর্শনে লিপ্ত হয়।” আয়িশা রাদিয়াল্লাহু ‘আনহা বলেন: আমরা তখন সেটি কেটে ফেললাম এবং তা দিয়ে একটা বা দুটো বালিশ বনালাম।",
+   "title": "কিয়ামতের দিন আল্লাহ তা‘আলার কাছে ঐ সকল লোক কঠিন আযাব ভোগ করবে, যারা আল্লাহর সৃষ্টির সাদৃশ্য প্রদর্শনে লিপ্ত হয়।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=5931",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:daae995049623d5a8898d14a6503f5bb4c16232689acd2aface782d3fb0fc48f",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) entered the place of 'Ā’ishah (may Allah be pleased with her) in his house and found that she had covered a small cabinet, wherein things are kept with a piece of fabric that had images of living beings on it. The color of his face changed by way of anger for the sake of Allah, and he took it away and said: People who will receive the severest punishment on the Day of Judgment will be those who try to emulate Allah's creation with their images. ‘Ā’ishah said: So, we made one or two cushions out of it.",
+   "grade": "Authentic",
+   "hints": [
+    "Forbidding evil on seeing it without any slackness unless it involves a greater evil.\r",
+    "Punishment on the Day of Judgment varies according to the gravity of the sin.\r",
+    "Making images of living beings counts as one of the major sins.\r",
+    "One of the rationales behind the prohibition of image-making is the imitation of Allah's creation, whether the image-maker has intended it or not.\r",
+    "The Shariah is keen on protecting properties by making use of them after removing what is prohibited therein.\r",
+    "It is forbidden to make images of living beings in any form, even if they are treated with disrespect."
+   ],
+   "mapping": "same HadeethEnc record id 5931; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:30+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/5931",
+   "text": "‘Ā’ishah, Mother of the Believers, (may Allah be pleased with her) reported: The Messenger of Allah (may Allah'sAllah's peace and blessings be upon him) came into my place, and there was a curtain with some images on it that I had hung along a platform of mine. On seeing it, he tore it up, and the colour of his face changed, and he said: \"O ''Ā’ishah, the people who will receive the severest punishment on the Day of Judgment will be those who try to emulate Allah'sAllah's creation.\" ''Ā’ishah said: \"So, we tore it and made one or two cushions out of it.\"",
+   "title": "the people who will receive the severest punishment on the Day of Judgment will be those who try to emulate Allah'sAllah's creation",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=5931",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:676e7f3bdb593856600acc099bd443d0b52815536cad5c37bd28f8c2d217742c",
+   "explanation": "Le Prophète ﷺ entra chez lui, auprès d'Aïcha (qu'Allah l'agrée), et il vit qu'elle avait recouvert une petite commode dans laquelle on mettait des affaires avec un tissu sur lequel il y avait des représentations d'êtres vivants (littéralement : possédant une âme) ; la couleur de son visage changea alors en guise de colère en Allah et il l'enleva. Il ﷺ a alors dit : \" Au Jour de la Résurrection, les personnes les plus châtiées seront celles qui, par leurs représentations, imitaient la création d'Allah. \" 'Aïcha (qu'Allah l'agrée) a alors dit : \" Nous l'avons déchiré et nous en avons fait un coussin ou deux (coussins). \"",
+   "grade": "Authentique",
+   "hints": [
+    "La désapprobation du blâmable se fait lors de sa vision sans tarder dans cela dès lors qu'il n'en résulte pas un plus grand préjudice.\r",
+    "Au Jour de la Résurrection, le châtiment sera différent en fonction de la gravité du péché.\r",
+    "La représentation d'êtres vivants fait partie des péchés majeurs.\r",
+    "Parmi les sagesses de l'interdiction de la représentation, il y a le fait d'imiter la création d'Allah ﷻ, que le dessinateur ou le photographe ait voulu imiter celle-ci ou non.\r",
+    "L'assiduité de la Charia à préserver l'argent et les biens en en tirant profit après avoir évité ce qui est interdit.\r",
+    "L'interdiction de la fabrication d'images d'êtres vivants sous quelque forme que ce soit, même de manière professionnelle."
+   ],
+   "mapping": "same HadeethEnc record id 5931; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:30+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/5931",
+   "text": "D'après 'Aïcha, la mère des croyants (qu’Allah l’agrée), qui a dit : « Le Messager d'Allah ﷺ est entré auprès de moi et j'avais recouvert un mobilier d'un tissu ayant des représentations. Quand il l'a vu, il s'est offusqué, son visage a changé et il s'est exclamé : Ô 'Aïcha !  Au Jour de la Résurrection, les personnes les plus châtiées auprès d'Allah seront celles qui imitaient la création d'Allah.  » 'Aïcha a alors dit : \" Nous l'avons déchiré et nous en avons fait un coussin ou deux (coussins). \"",
+   "title": "Au Jour de la Résurrection, les personnes les plus châtiées auprès d'Allah seront celles qui imitaient la création d'Allah",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=5931",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:f6de23b97682ec9714f52417f7ad38f25f034591cbeb5fab2e02c50f9e5f079d",
+   "explanation": "Nabi ﷺ masuk ke rumah menemui Āisyah -raḍiyallāhu 'anhā- dan beliau mendapatinya menutup lemari kecil tempat menaruh barang dengan kain yang memiliki gambar makhluk bernyawa, sehingga raut wajah beliau berubah karena marah dan melepasnya. Beliau bersabda: \"Orang yang paling keras siksanya di hari kiamat ialah yang menyerupai penciptaan Allah melalui gambar-gambar mereka.\" Aisyah berkata: Lalu kami menjadikannya satu atau dua bantal.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Mengingkari kemungkaran secara langsung ketika terlihat dan tidak menundanya, selama pengingkaran tersebut tidak menimbulkan kerusakan yang lebih besar.\r",
+    "2- Siksa di hari kiamat kelak bertingkat-tingkat sesuai kadar dosa.\r",
+    "3- Menggambar makhluk bernyawa termasuk dosa besar.\r",
+    "4- Di antara hikmah pengharaman menggambar ialah karena tindakan itu merupakan bentuk menandingi ciptaan Allah Ta'ala, entah orang yang menggambar berniat menandingi ataupun tidak.\r",
+    "5- Kegigihan syariat untuk menjaga harta dengan memanfaatkannya setelah menjauhkan perkara haram yang terkandung di dalamnya.\r",
+    "6- Larangan membuat gambar bernyawa dalam bentuk apa pun, walaupun yang dihinakan (diinjak dan diduduki)."
+   ],
+   "mapping": "same HadeethEnc record id 5931; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:30+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/5931",
+   "text": "Aisyah, ibunda kaum mukminin -raḍiyallāhu 'anhā- meriwayatkan, ia berkata, Rasulullah ﷺ masuk menemuiku, sementara aku telah menutup lemari kecilku dengan tirai yang bergambar. Ketika beliau melihatnya, beliau melepasnya dan wajah beliau berubah. Beliau bersabda, \"Wahai Aisyah, orang yang paling berat siksanya di sisi Allah kelak pada hari kiamat ialah yang membuat sesuatu yang menyerupai ciptaan Allah.\" Aisyah berkata, \"Lalu kami memotongnya dan membuatnya menjadi satu atau dua bantal.\"",
+   "title": "orang yang paling berat siksanya di sisi Allah kelak pada hari kiamat ialah yang membuat sesuatu yang menyerupai ciptaan Allah",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=5931",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:a76dbd1c2b08ac32317a416367e0bbf368548ec31aefbf4c56854511ca8d21fb",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم اپنے گھر میں عائشہ رضی اللہ عنہا کے پاس تشریف لے گئے، تو دیکھا کہ انھوں نے ایک طاق پر ایک پردہ لگا رکھا ہے، جس پر جان دار چیزوں کی تصویریں بنی ہوئی ہيں۔ یہ دیکھ کر غصے سے آپ کے چہرے کا رنگ بدل گیا۔ آپ نے اسے کھینچ کر ہٹا دیا اور فرمایا : قیامت کے دن سب سے سخت عذاب ان لوگوں کو دیا جائے گا، جو اپنی تصویروں کے ذریعے عمل تخلیق میں اللہ کے مشابہ ہونا چاہتے ہيں۔ عائشہ رضی اللہ عنہا کہتی ہیں : چنانچہ ہم نے اسے پھاڑ کر ایک یا دو تکیے بنا لیے۔",
+   "grade": "صحيح",
+   "hints": [
+    "غلط کام دیکھتے ہی بلا تاخیر اس کی تردید ہو جانی چاہیے، جب تک کہ اس کی تردید اس سے زیادہ بڑی برائی کی وجہ نہ بنے۔\r",
+    "قیامت کے دن گناہ کے مطابق عذاب میں بھی تفاوت ہوگا۔\r",
+    "جان دار چیزوں کی تصویر بنانا کبیرہ گناہ ہے۔\r",
+    "تصویر بنانے کی حرمت کے پیچھے کارفرما ایک حکمت یہ ہے کہ یہ عمل تخلیق میں خود کو اللہ کے مشابہ بتانا ہے۔ چاہے تصویر بنانے والے کے دل میں یہ بات ہو یا نہ ہو۔\r",
+    "شریعت کی کوشش ہے کہ اموال کے ناجائز پہلوؤں سے بچتے ہوئے ان سے استفادہ کیا جائے اور اس طرح ان کی حفاظت کی جائے۔\r",
+    "جان دار چیزوں کی تصویر بنانا ممنوع ہے۔ چاہے اس کی شکل جو بھی ہو۔ خواہ حقير سی شے ہی کیوں نہ ہو۔"
+   ],
+   "mapping": "same HadeethEnc record id 5931; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:30+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/5931",
+   "text": "امّ المؤمنین عائشہ رضی اللہ عنہا سے روایت ہے، وہ کہتی ہيں : اللہ کے رسول صلی اللہ علیہ و سلم میرے یہاں آئے تو دیکھا کہ میں نے اپنے ایک طاق پر ایک کپڑا ڈال رکھا ہے، جس پر تصویریں بنی ہوئی تھیں۔ اس پر نظر پڑتے ہی آپ نے اسے کھینچ کر ہٹا ڈالا، آپ کے چہرے کا رنگ بدل گیا اور فرمایا : \"اے عائشہ! قیامت کے دن سب سے سخت عذاب ان لوگوں کو دیا جائے گا، جو عمل تخلیق میں اللہ کے مشابہ ہونا چاہتے ہيں۔\" عائشہ رضی اللہ عنہا کہتی ہيں : لہذا ہم نے اسے پھاڑکر اس سے ایک یا دو تکیے بنا لیے۔",
+   "title": "قیامت کے دن سب سے سخت عذاب ان لوگوں کو دیا جائے گا، جو عمل تخلیق میں اللہ کے مشابہ ہونا چاہتے ہيں۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=5931",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:dfbd156a268ae37ea2f996dc68410f070510a5d861d8fe47b5adb3eea37f048a",
+   "explanation": "先知（愿主福安之）进入了阿伊莎的家，然后发现她用一块带有图像的布遮盖者自己的储物柜，使者为了安拉而脸色大变，愤怒而害怕地说： “复生日，受刑罚最严厉的人是那些用自己所画的图像与安拉之造化媲美者。” 阿伊莎说：我便将此布做成了一、两个枕头。",
+   "grade": "正确的",
+   "hints": [
+    "看到错误就要立即制止，只要不造成更大的伤害，那么纠正错误是不可迟缓的。\r",
+    "复生日的刑罚是不尽相同的，这些都依照人生前所做的罪恶大小而定。\r",
+    "画有生命和图像属于大罪。\r",
+    "禁止画像的哲理是：与安拉之造化媲美，无论作画者是否有媲美之目的。\r",
+    "伊斯兰教律致力于保护财产，让财产远离非法之事物，并确保将财产用于有益之事。\r",
+    "禁止制造有生命的塑像，无论任何形式，即使是不起眼的画像也罢。"
+   ],
+   "mapping": "same HadeethEnc record id 5931; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:30+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/5931",
+   "text": "信士之母阿伊莎（愿主喜悦之）传述，她说： 安拉的使者（愿主福安之）来到了我这里，当时我用一块带有塑像图案的布遮盖着我的箱子，使者见到后很生气地撕了下来，并说道：“阿伊莎啊！在复生日，在安拉那里受刑最严厉者，是那些与安拉之造化媲美的人。”阿伊莎说：“然后我便将此帘子裁剪，做成了一、两个枕头。",
+   "title": "在复生日，在安拉那里受刑最严厉者，是那些与安拉之造化媲美的人。",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

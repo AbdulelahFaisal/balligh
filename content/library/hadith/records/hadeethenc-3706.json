@@ -1,0 +1,164 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:2e66f12c7ee3b1d36aee7ed14f5250f72f4e59d3574eac0bd6e42de084211a19",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يُبيِّنُ النبيُّ صلى الله عليه وسلم بعضَ حقوق المسلم على أخيه المسلم:\n\n\nأول هذه الحقوق: ردُّ السلام لمن ألقى عليك السلام.\n\nالحق الثاني: عيادة المريض وزيارته.\n\n الحق الثالث: اتباع الجنازة من بيته إلى المصلَّى إلى المقبرة حتى تُدفن.\n\n الحق الرابع: إجابة الدعوة إذا دعاه إلى وليمة عرس وغير ذلك.\n\n الحق الخامس: تَشميت العاطس، وهو أن يقول له إذا حَمِدَ الله: يرحمُك الله، ثم يقول العاطسُ: يهديكم الله ويُصلح بالَكم.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "عظمة الإسلام في تأكيد الحقوق بين المسلمين وتوثيق الأُخوَّة والمحبة بينهم."
+ ],
+ "id": "hadeethenc-3706",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (2/ 71) (1240).\nصحيح مسلم (4/ 1704) (2162).\nكنوز رياض الصالحين، لمجموعة من الباحثين (4/ 512).\nبهجة الناظرين شرح رياض الصالحين، لسليم الهلالي (1/ 327).\nنزهة المتقين شرح رياض الصالحين، مجموعة من الباحثين (1/ 253).\nشرح رياض الصالحين، لابن عثيمين (2/ 591).\nبهجة قلوب الأبرار، لابن سعدي (ص81).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3706",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:49+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3706"
+ },
+ "source_categories": [
+  {
+   "id": "286",
+   "label": "آداب السلام والاستئذان"
+  },
+  {
+   "id": "296",
+   "label": "آداب العطاس والتثاؤب"
+  },
+  {
+   "id": "297",
+   "label": "آداب عيادة المريض"
+  }
+ ],
+ "source_record_id": "3706",
+ "text": "عن أبي هريرة رضي الله عنه قال: سمعت رسول الله صلى الله عليه وسلم يقول: «حَقُّ الْمُسْلِمِ عَلَى الْمُسْلِمِ خَمْسٌ: رَدُّ السَّلَامِ، وَعِيَادَةُ الْمَرِيضِ، وَاتِّبَاعُ الْجَنَائِزِ، وَإِجَابَةُ الدَّعْوَةِ، وَتَشْمِيتُ الْعَاطِسِ».",
+ "title": "حق المسلم على المسلم خمس: رد السلام، وعيادة المريض، واتباع الجنائز، وإجابة الدعوة، وتشميت العاطس",
+ "topic": "conduct",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3706",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:92fdb81d300efdfd7e5197e95df72a769f42841e08351c01a023717e7845c91c",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এ হাদীসে একজন মুসলিমের প্রতি অপর মুসলিমের কতিপয় অধিকার বর্ণনা করেছেন। প্রথম অধিকার: কেউ সালাম দিলে সালামের জবাব দেয়া।\r\n\r\nদ্বিতীয় অধিকার: অসুস্থ ব্যক্তির সেবা শুশ্রূষা করা, তার সাথে দেখা করা ও খোঁজ-খবর নেয়া।\r\n\r\nতৃতীয় অধিকার: মৃতব্যক্তির গৃহ থেকে জানাযার সালাতে এবং সেখান থেকে কবরস্থানে গিয়ে শরীক হওয়া।\r\n\r\nচতুর্থ অধিকার: বিয়ের ওয়ালিমা ইত্যাদিতে কেউ দাওয়াত দিলে তা কবুল করা।\r\n\r\nপঞ্চম অধিকার: হাঁচিদাতার হাঁচিতে জবাব দেওয়া। হাঁচিদাতা ‘আল-হামদু লিল্লাহ’ (সকল প্রশংসা আল্লাহর) বললে, তার জবাবে ‘ইয়ারহামুকাল্লাহ’ (আল্লাহ তোমার উপর রহম করুন) বলা। অতপর হাঁচিদাতা বলবে: ‘ইয়াহদীকুমুল্লাহ ওয়া ইউসলিহ বালাকুম’ (আল্লাহ তোমাদেরকে সুপথ দেখান ও তোমাদের অন্তর সংশোধন করে দেন)।",
+   "grade": "সহীহ",
+   "hints": [
+    "মুসলিমদের মধ্যকার অধিকারসমূহ নিশ্চিত করতে এবং তাদের পরস্পরের মধ্যে ভ্রাতৃত্ব ও ভালোবাসা সুদৃঢ়করণে ইসলামের মহানুভবতা এ হাদীসে বর্ণিত হয়েছে।"
+   ],
+   "mapping": "same HadeethEnc record id 3706; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:11+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3706",
+   "text": "আবূ হুরায়রা রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামকে বলতে শুনেছি, তিনি বলেছেন: “এক মুসলিমের প্রতি অপর মুসলিমের হক পাঁচটি: ১. সালামের জবাব দেয়া, ২. অসুস্থ ব্যক্তির খোঁজ-খবর নেয়া, ৩. জানাযায় গিয়ে শরীক হওয়া, ৪. দা’ওয়াত কবুল করা এবং ৫. হাঁচিদাতার জবাব দেয়া।”১",
+   "title": "“এক মুসলিমের প্রতি অপর মুসলিমের হক পাঁচটি: ১. সালামের জবাব দেয়া, ২. অসুস্থ ব্যক্তির খোঁজ-খবর নেয়া, ৩. জানাযায় গিয়ে শরীক হওয়া, ৪. দা’ওয়াত কবুল করা এবং ৫. হাঁচিদাতার জবাব দেয়া।”১",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3706",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:0d93816c153f8aa3ad3e2e64b080dd12f6cae9eb81661665b693645e99b2ea92",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) mentions some of the rights Muslims have toward one another. The first among these rights is to return the greeting of peace to the one who greets you.\r\n\r\nThe second right is to visit the sick.\r\n\r\nThe third right is to follow the funeral procession from the deceased person's home to the praying place and the cemetery until he is buried.\r\n\r\nThe fourth right is to accept the invitation of someone who invites you to a wedding banquet and the like.\r\n\r\nThe fifth right is to say tashmīt to a person who sneezes and praises Allah. Tashmīt is to say: yarhamuk Allah (may Allah show mercy to you). In response, the sneezing person should say: yahdīkum Allah wa yuslih bālakum (may Allah guide you and amend your condition).",
+   "grade": "Authentic",
+   "hints": [
+    "It shows the greatness of Allah, as it stresses the rights to be observed among Muslims and strengthens the brotherliness and love between them."
+   ],
+   "mapping": "same HadeethEnc record id 3706; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:11+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3706",
+   "text": "Abu Hurayrah (may Allah be pleased with him) reported: I heard the Messenger of Allah (may Allah’s peace and blessings be upon him) say: \"A Muslim owes another Muslim five rights: returning the greeting of peace, visiting the sick, following the funeral processions, accepting invitations, and saying tashmīt (yarhamuk Allah) (may Allah show mercy to you) to the person who sneezes.\"",
+   "title": "A Muslim owes another Muslim five rights: returning the greeting of peace, visiting the sick, following the funeral processions, accepting invitations, and saying tashmīt (yarhamuk Allah) (may Allah show mercy to you) to the person who sneezes",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=3706",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:f7e7ae0cfad4bd7423d4b8d34388d390f4e63de1bd737a0b306d0de1d164f3b5",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) explique certains droits du musulman sur son frère musulman. Le premier de ces droits est de répondre au salut de quiconque te salue.\r\n\r\nLe second droit : aller voir le malade et le visiter.\r\n\r\nLe troisième droit : suivre les funérailles de sa maison au lieu où sera effectué la prière sur lui, puis au cimetière et jusqu'à son enterrement.\r\n\r\nLe quatrième droit : répondre à l'invitation de quiconque t'invite concernant un repas de mariage, de noces et autre que cela.\r\n\r\nLe cinquième droit : implorer la miséricorde d'Allah en faveur de celui qui éternue. Il s'agit de lui répondre, lorsqu'il a dit : \"Al-Ḥamdou lillâh !\" (La Louange revient à Allah !) après avoir éternué :  \"Yarhamouka Llâh !\"(Qu'Allah te fasse miséricorde !) \" Ensuite, celui qui a éternué dit : \"Yahdîkoumou Llâhou wa youṣliḥou bâlakoum !\" (Qu'Allah vous guide et qu'Il améliore votre situation !) \"",
+   "grade": "Authentique",
+   "hints": [
+    "La grandeur de l'Islam dans le fait de confirmer les droits des musulmans les uns vis-à-vis des autres, ainsi que dans celui de renforcer la fraternité et l'amour entre eux."
+   ],
+   "mapping": "same HadeethEnc record id 3706; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:11+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/3706",
+   "text": "Aboû Hourayrah (qu'Allah l'agrée) relate : \" J'ai entendu le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) dire : \" Le droit du musulman sur le musulman consiste en cinq points : répondre au salut, visiter le malade, suivre le cortège funèbre, répondre à l’invitation et implorer la miséricorde pour celui qui éternue. \"",
+   "title": "Le droit du musulman sur le musulman consiste en cinq points : répondre au salut, visiter le malade, suivre le cortège funèbre, répondre à l’invitation et implorer la miséricorde pour celui qui éternue.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3706",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:99bb88b790a7791a70befac3b5a5e1721924b0387dcca3aa1d9635b984ad9b7d",
+   "explanation": "Nabi ﷺ menjelaskan beberapa hak seorang muslim atas saudara muslim lainnya. - Hak yang pertama: menjawab salam orang yang mengucapkan salam kepada Anda.\r\n\r\n- Kedua: menjenguk dan mengunjungi orang yang sakit.\r\n\r\n- Ketiga: mengantar jenazah dari rumahnya ke tempat salat lalu ke makam hingga dikuburkan.\r\n\r\n- Keempat: menghadiri undangan ketika ia diundang ke walimah pernikahan dan lainnya.\r\n\r\n- Kelima: mendoakan orang yang bersin, yaitu dengan mengucapkan \"yarḥamukallāh\" [semoga Allah merahmatimu] ketika ia mengucapkan \"alḥamdulillāh\", lalu orang yang bersin mengucapkan, \"Yahdīkumullāhu wa yuṣliḥu bālakum\". [semoga Allah memberikanmu petunjuk dan memperbaiki keadaanmu].",
+   "grade": "Sahih",
+   "hints": [
+    "Keagungan agama Islam yang memastikan hak-hak di antara kaum muslimin serta mempererat persaudaraan dan cinta di antara mereka."
+   ],
+   "mapping": "same HadeethEnc record id 3706; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:11+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3706",
+   "text": "Abu Hurairah -raḍiyallāhu 'anhu- meriwayatkan, ia berkata, Aku mendengar Rasulullah ﷺ bersabda, \"Hak seorang muslim terhadap muslim yang lain ada lima: menjawab salam, menjenguk orang sakit, mengantar jenazah, menghadiri undangan, dan mendoakan orang yang bersin.\"",
+   "title": "Hak seorang muslim terhadap muslim yang lain ada lima: menjawab salam, menjenguk orang sakit, mengantar jenazah, menghadiri undangan, dan mendoakan orang yang bersin",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3706",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:57dc807d6de9cbb4d03bd9ea148a19e9bd5b2703cf993e6b668af03306132c5e",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم ایک مسلمان کے دوسرے مسلمان پر عائد ہونے والے کچھ حقوق بتا رہے ہیں۔ پہلا حق : سلام کرنے والے کے سلام کا جواب دینا۔\r\n\r\nدوسرا حق : مریض کی عیادت اور زیارت کرنا۔\r\n\r\nتیسرا حق : جنازے کے پیچھے پیچھے گھر سے نماز گاہ اور وہاں سے قبرستان تک جانا اور تدفین کا کام پورا ہو جانے تک ساتھ رہنا۔\r\n\r\nچوتھا حق : دعوت قبول کرنا، جب کوئی شخص شادی کے ولیمہ وغیرہ کی دعوت دے۔\r\n\r\nپانچواں حق : چھینکنے والے کا جواب دینا۔ یعنی جب چھینکنے والا الحمد للہ کہے تو جواب میں یرحمک اللہ کہنا۔ پھر اس کے جواب میں چھینکنے والا يهديكم الله ويصلح بالكم کہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "مسلمانوں کے آپسی حقوق کی تاکید اور ان کے درمیان محبت و بھائی چارہ کو فروغ دینے کے سلسلے میں اسلام کی عظمت۔"
+   ],
+   "mapping": "same HadeethEnc record id 3706; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:11+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3706",
+   "text": "ابو ہریرہ رضی اللہ عنہ سے روایت ہے، وہ کہتے ہیں کہ میں نے اللہ کے رسول صلی اللہ علیہ و سلم کو کہتے ہوئے سنا ہے : ’’ایک مسلمان کے دوسرے مسلمان پر پانچ حقوق ہیں: سلام کا جواب دینا، بیمار کی عیادت کرنا ،جنازوں کے ساتھ جانا، دعوت قبول کرنا اور چھینک کا جواب دینا‘‘",
+   "title": "’’ایک مسلمان کے دوسرے مسلمان پر پانچ حقوق ہیں: سلام کا جواب دینا، بیمار کی عیادت کرنا ،جنازوں کے ساتھ جانا، دعوت قبول کرنا اور چھینک کا جواب دینا‘‘",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3706",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:d6f4e4f98aca778debd4076736b8643f63a5c53b862592075317c85bdf863e31",
+   "explanation": "先知（愿主福安之）阐明了穆斯林对自己的穆斯林弟兄应尽的一些义务。 其中第一项义务便是：凡给自己说赛俩目者，务必以“赛俩目”而回之。\r\n\r\n第二项：探望病人。\r\n\r\n第三项：参加殡礼，从他的家里到站殡礼的地方，再到墓地，直至埋葬结束。\r\n\r\n第四项：应答邀请，当有人邀请自己参加婚宴等宴席时，务必应答。\r\n\r\n第五项：回应打喷嚏者，即：当打喷嚏者赞颂安拉时，当回答说：愿安拉疼慈你。然后打喷嚏者再说：愿安拉引导你们，并改善你们的事务。",
+   "grade": "正确的",
+   "hints": [
+    "伊斯兰之伟大在于肯定穆斯林弟兄之间的义务，加强穆斯林弟兄之间的友爱。"
+   ],
+   "mapping": "same HadeethEnc record id 3706; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:11+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3706",
+   "text": "据艾布·胡莱勒（愿主喜悦之）传述：我听安拉的使者（愿主福安之）说： “穆斯林对穆斯林有五项义务：回答赛俩目，探望病人，参加殡礼，应答邀请，回应打喷嚏者。”",
+   "title": "“穆斯林对穆斯林有五项义务：回答赛俩目，探望病人，参加殡礼，应答邀请，回应打喷嚏者。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

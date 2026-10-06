@@ -1,0 +1,156 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:32cadd147a8310ced866f30ca0312209e7ae8521612843d9335f709bf20b93db",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "بَيَّنَ النبيُّ صلى الله عليه وسلم أنَّ الله عزَّ وجلَّ يُحِبُّ بعضَ عباده، \n\nومنهم التقي: المُمْتَثِل لأوامر الله، المجتنب لنواهِيهِ.\n\nويُحِبُّ الغنيَّ: الذي استغنى عن الناسِ بالله عز وجل لا يَلْتَفِتُ إلى غيره.\n\nويُحبُّ الخفيَّ: المُتَواضِع، المُتَعَبِّد لربِّه، المُشتغل بما ينفعه، الذي لا يَهْتَمُّ أنْ يَعْرِفَه أحدٌ أو يَتَحَدَّث عنه بمدحٍ وثَنَاءٍ.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "بيان بعض الصفات المُقْتَضِيَة لمحبةِ الله لعباده، وهي التقوى والتواضع والرضى بما قَسَمَ الله."
+ ],
+ "id": "hadeethenc-5545",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (4/ 2277) (2965).\nبهجة الناظرين شرح رياض الصالحين، لسليم الهلالي (1/ 651).\nكنوز رياض الصالحين، لمجموعة من الباحثين.\nنزهة المتقين شرح رياض الصالحين، لمجموعة من الباحثين (1/ 509).\nشرح رياض الصالحين، لابن عثيمين (3/ 509).\nشرح النووي على مسلم (18/ 100).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=5545",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:55+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/5545"
+ },
+ "source_categories": [
+  {
+   "id": "282",
+   "label": "الأخلاق الحميدة"
+  }
+ ],
+ "source_record_id": "5545",
+ "text": "عن سعد بن أبي وقاص رضي الله عنه قال: سمعت رسول الله صلى الله عليه وسلم يقول: «إِنَّ اللهَ يُحِبُّ الْعَبْدَ التَّقِيَّ الْغَنِيَّ الْخَفِيَّ».",
+ "title": "إن الله يحب العبد التقي الغني الخفي",
+ "topic": "conduct",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=5545",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:614aa1703b699e5d0f96560d541620269cec37a89b886be3dfd108db5ec7c80e",
+   "explanation": "এই হাদীসে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বর্ণনা করেছেন যে, মহান আল্লাহ তা‘আলা তাঁর কতিপয় বান্দাকে ভালোবাসেন।\r\n\r\nতার অন্তর্ভুক্ত হলো, তাকওয়া অবলম্বনকারী: যিনি আল্লাহর আদেশসমূহ মান্যকারী এবং তাঁর নিষেধাজ্ঞা থেকে বিরত থাকা ব্যক্তি।\r\n\r\nতিনি ভালোবাসেন আত্মনির্ভরশীল ব্যক্তিকে: যিনি মানুষের থেকে অমুখাপেক্ষী হয়ে মহান আল্লাহর কাছে মুখাপেক্ষী হয় এবং তিনি ব্যতীত অন্য কারো দিকে দৃষ্টিপাত করে না।\r\n\r\nতিনি ভালোবাসেন আত্মগোপনকারীকে: তিনি হলেন বিনয়াবনত তার রবের ইবাদতকারী, উপকারী কাজে ব্যস্ত থাকে, তাকে কেউ চিনুক বা না চিনুক, তার প্রশংসা ও গুণগান কেউ করুক, এ ব্যাপারে তার কোন ভ্রুক্ষেপ নেই।",
+   "grade": "সহীহ",
+   "hints": [
+    "হাদীসে আল্লাহ তা‘আলা কর্তৃক বান্দাকে ভালোবাসার কতিপয় গুণাবলী বর্ণিত হয়েছে। আর সেগুলো হলো: আল্লাহর তাকওয়া অবলম্বন, বিনয় এবং আল্লাহর বণ্টনে সন্তুষ্ট থাকা।"
+   ],
+   "mapping": "same HadeethEnc record id 5545; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:43+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/5545",
+   "text": "সা‘দ ইবনু আবী ওয়াক্কাস রদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামকে বলতে শুনেছি, তিনি বলেছেন: “নিশ্চয় আল্লাহ তা‘আলা মুত্তাকী, আত্মনির্ভরশীল ও আত্মগোপনকারী (নিজের গুণ প্রকাশে অনিচ্ছুক) বান্দাকে ভালোবাসেন।”",
+   "title": "“নিশ্চয় আল্লাহ তা‘আলা মুত্তাকী, আত্মনির্ভরশীল ও আত্মগোপনকারী (নিজের গুণ প্রকাশে অনিচ্ছুক) বান্দাকে ভালোবাসেন।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=5545",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:8d087d56e5155a4adede76c3cb151beb12d701c35aed651ab1b213ba32a7941e",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) pointed out that Allah Almighty loves some of His servants,\r\n\r\nincluding the pious: those who fulfill Allah's commands and avoid His prohibitions.\r\n\r\nAnd He loves those free from wants: those who dispense with people and only resort to Allah Almighty and turn to none but Him.\r\n\r\nAnd He loves the inconspicuous: those who are modest and worship their Lord and only concern themselves with what benefits them, and they do not care about being recognized or praised by others.",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth highlights some qualities that entail Allah’s love for His servants, namely fear of Allah, humility, and contentment with what is predestined and given by Allah."
+   ],
+   "mapping": "same HadeethEnc record id 5545; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:43+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/5545",
+   "text": "Sa‘d ibn Abi Waqqās (may Allah be pleased with him) reported: I heard the Messenger of Allah (may Allah’s peace and blessings be upon him) say: \"Verily, Allah loves the servant who is pious, free of wants, and inconspicuous.\"",
+   "title": "Verily, Allah loves the servant who is pious, free of wants, and inconspicuous",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=5545",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:49934987ab687dd8dce0d419a4a848f4c826ca3c1888a25b4b40df6b59c39df1",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) explique qu'Allah, Exalté soit-Il, aime certains de Ses serviteurs,\r\n\r\net parmi eux, il y a le pieux : Celui se conforme aux ordres d'Allah et se tient à l'écart de Ses interdictions.\r\n\r\nIl aime le riche : Celui qui se contente d'Allah, à Lui la Puissance et la Grandeur, au point où il se passe des gens et ne se tourne vers personne d'autre.\r\n\r\nIl aime le discret : Celui qui est humble, se consacre à l'adoration de son Seigneur, s'occupe de ce qui lui est bénéfique, celui qui n'accorde pas d'importance au fait d'être connu ou que l'on parle de lui en le complimentant ou en faisant son éloge.",
+   "grade": "Authentique",
+   "hints": [
+    "L'explication de certaines caractéristiques qui impliquent l'amour d'Allah pour Ses serviteurs. Ce sont : la piété, l'humilité et la satisfaction de ce qu'Allah a accordé."
+   ],
+   "mapping": "same HadeethEnc record id 5545; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:43+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/5545",
+   "text": "Sa'd ibn Abî Waqqâṣ (qu'Allah l'agrée) relate : « J'ai entendu le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) dire : \"Certes, Allah aime le serviteur pieux, riche et discret.\"",
+   "title": "Certes, Allah aime le serviteur pieux, riche et discret",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=5545",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:cc007b2ddbbf63119da1f519f3e42edb6f00cfe3ac71998c9c8162ee09f40a58",
+   "explanation": "Nabi ﷺ menerangkan bahwa Allah ﷻ mencintai beberapa hamba-Nya.\r\n\r\nDi antaranya: \n1- Orang yang bertakwa; yaitu yang melaksanakan perintah Allah dan menjauhi larangan-Nya.\r\n\r\nOrang yang selalu merasa cukup; yaitu yang tidak bergantung pada manusia, mencukupkan diri dengan Allah ﷻ, dan tidak berharap kepada selain-Nya.\r\n\r\nOrang yang tidak ingin terkenal; yaitu yang merendahkan diri, menghambakan diri pada Tuhannya, dan menyibukkan diri dengan sesuatu yang berguna baginya, yang tidak pernah memikirkan agar dikenal orang atau dibicarakan dengan pujian dan sanjungan.",
+   "grade": "Sahih",
+   "hints": [
+    "Menjelaskan sebagian sifat yang akan mendatangkan kecintaan Allah kepada hamba-Nya; yaitu takwa, tawaduk, dan rida kepada ketentuan Allah."
+   ],
+   "mapping": "same HadeethEnc record id 5545; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:43+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/5545",
+   "text": "Sa'ad bin Abi Waqqāṣ -raḍiyallāhu 'anhu- meriwayatkan, Aku mendengar Rasulullah ﷺ bersabda, \"Sesungguhnya Allah mencintai hamba yang bertakwa, selalu merasa cukup, dan tidak ingin populer.\"",
+   "title": "Sesungguhnya Allah mencintai hamba yang bertakwa, selalu merasa cukup, dan tidak ingin populer",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=5545",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:66acc4db378ec64ca882493d5278c16eb23181c36e093a231675c06fe588b1c8",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم بتا رہے ہیں کہ اللہ اپنے کچھ بندوں سے محبت رکھتا ہے،\r\n\r\nجن میں سے پہلا بندہ متقی یعنی اللہ کے احکام کی تعمیل کرنے والا اور اس کی منع کی ہوئی چیزوں سے بچنے والا شخص ہے۔\r\n\r\nاللہ بے نیازی کی شان والے بندے سے بھی محبت رکھتا ہے، جس کی نیازمندیوں کا دائرہ اللہ کی ذات تک محدود ہو۔ وہ دوسرے کسی پر دھیان نہ دیتا ہو۔\r\n\r\nوہ اپنے ایسے پوشیدہ حال بندے سے بھی محبت رکھتا ہے، جومتواضع، اپنے رب کی  عبادت کرتا ہو، اپنی دنیا و آخرت کے فائدے کی چیزوں میں مشغول رہتا ہو اور اس بات پر کوئی توجہ نہ دیتا ہو کہ اسے کوئی جانے یا اس کی کوئی تعریف کرے۔",
+   "grade": "صحيح",
+   "hints": [
+    "بعض ایسے اوصاف کا بیان، جن سے اللہ کی محبت حاصل ہوتی ہے۔ یہ اوصاف ہيں، تقوی، تواضع اور اللہ کی دی ہوئی چیزوں پر خوش رہنا۔"
+   ],
+   "mapping": "same HadeethEnc record id 5545; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:43+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/5545",
+   "text": "سعد بن ابو وقاص رضی اللہ عنہ سے روایت ہے، وہ کہتے ہیں کہ میں نے اللہ کے رسول صلی اللہ علیہ و سلم کو کہتے ہوئے سنا : ”بے شک اللہ تعالی اس بندے سے محبت رکھتا ہے، جو متقی (پرہیزگار)، مخلوق سے بے نیاز اور پوشیدہ حال ہو“۔",
+   "title": "”بے شک اللہ تعالی اس بندے سے محبت رکھتا ہے، جو متقی (پرہیزگار)، مخلوق سے بے نیاز اور پوشیدہ حال ہو“۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=5545",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:982e3c949be75a0aefba472395d5e5a632570489492054cd2c9198426b9ca83d",
+   "explanation": "先知（愿主福安之）阐明，的确安拉喜欢他的部分仆人。\r\n\r\n其中有敬畏者：即遵行安拉的命令，远离安拉的禁令之人。\r\n\r\n他喜欢知足者：即无求于人，而只求于安拉，不会看向除安拉以外的任何人。\r\n\r\n他喜欢暗自工作者：即恭敬的崇拜他的养主，忙于有益之事，不会在意有人知道与否，更不在意他人对他的表扬和赞誉。",
+   "grade": "正确的",
+   "hints": [
+    "阐明蒙得安拉喜悦的部分属性，即：虔诚、恭敬和满足安拉为自己所分配的。"
+   ],
+   "mapping": "same HadeethEnc record id 5545; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:43+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/5545",
+   "text": "据赛尔德·本·艾布·宛嘎斯（愿主喜悦之）传述说：我听见安拉的使者（愿主福安之）说： “的确安拉喜欢敬畏知足暗自工作的仆人。”",
+   "title": "“的确安拉喜欢敬畏知足暗自工作的仆人。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

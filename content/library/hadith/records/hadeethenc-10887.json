@@ -1,0 +1,195 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:5fafb906bf2cf578746c790ade9e923ac94d289bf3554843bfeae2d3dbe464bd",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "ذَكَرَتْ أُمُّ المؤمنين أُمُّ سَلَمَة رضي الله عنها للنبيِّ صلى الله عليه وسلم أنها لمَّا كانت بأرض الحَبَشة رأتْ كَنِيسة -يُقال لها مَارِيَة- فيها صورٌ وزَخارِفُ وتصاويرُ؛ تَعَجُّبًّا من ذلك! \nفبَيَّنَ النبيُّ صلى الله عليه وسلم أسباب وضع هذه الصور؛ \nفقال: إن هؤلاء الذين تذكرين كانوا إذا مات فيهم الرجلُ الصالحُ بَنَوا على قبره مَسجدًا يُصَلُّون فيه، وصَوَّرُوا تلك الصور، \nوبَيَّنَ أنَّ فاعلَ ذلك شَرُّ الخلقِ عند الله تعالى؛ لأنَّ فِعلَه يؤدِّي إلى الشرك بالله تعالى.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "تحريم بناء المساجد على القُبور، أو الصلاة عندها، أو دَفن الموتى في المساجد؛ سَدَّا لذَريعة الشِّرك.",
+  "بناء المساجد على القُبور، ونَصب الصُّور فيها، هو عمل اليَّهود والنَّصارى، وأنَّ من فعل هذا، فقد شَابَهَهم.",
+  "تحريم اتخاذ الصُّور لذَوَات الأرواح.",
+  "مَن بَنى مسجدًا على قَبر وصَوَّر فيه التصاوير، فهو مِن شَرِّ خَلْقِ الله تعالى.",
+  "حِماية الشَّريعة لجَنَاب التوحيد حماية كاملة، بسد جميع الوسائل التي قد تُؤدي إلى الشِّرك.",
+  "النهي عن الغلو في الصالحين؛ لأنه سببٌ للوقوع في الشرك."
+ ],
+ "id": "hadeethenc-10887",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (1/ 94) (434).\nصحيح مسلم (1/ 375) (528).\nمرقاة المفاتيح، لعلي القاري (7/ 2857).\nتوضيح الأحكام مِن بلوغ المرام، لعبد الله البسام (2/ 115).\nفتح ذي الجلال والإكرام شرح بلوغ المرام، لابن عثيمين (1/ 598).\nمنحة العلام في شرح بلوغ المرام، لعبد الله الفوزان (2/ 469).\nتيسير العلام شرح عمدة الأحكام، لعبد الله البسام (ص290).\nالجديد في شرح كتاب التوحيد، لمحمد القرعاوي (ص183).\nالملخص في شرح كتاب التوحيد، لصالح الفوزان (ص168).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=10887",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:37+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/10887"
+ },
+ "source_categories": [
+  {
+   "id": "73",
+   "label": "توحيد الألوهية"
+  },
+  {
+   "id": "725",
+   "label": "أحكام المساجد"
+  }
+ ],
+ "source_record_id": "10887",
+ "text": "عَنْ عَائِشَةَ أُمِّ المؤمنين رضي الله عنها: أَنَّ أُمَّ سَلَمَةَ ذَكَرَتْ لِرَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ كَنِيسَةً رَأَتْهَا بِأَرْضِ الْحَبَشَةِ، يُقَالُ لَهَا مَارِيَةُ، فَذَكَرَتْ لَهُ مَا رَأَتْ فِيهَا مِنَ الصُّوَرِ، فَقَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «أُولَئِكَ قَوْمٌ إِذَا مَاتَ فِيهِمُ الْعَبْدُ الصَّالِحُ، أَوِ الرَّجُلُ الصَّالِحُ، بَنَوْا عَلَى قَبْرِهِ مَسْجِدًا، وَصَوَّرُوا فِيهِ تِلْكَ الصُّوَرَ، أُولَئِكَ شِرَارُ الْخَلْقِ عِنْدَ اللهِ».",
+ "title": "أولئك قوم إذا مات فيهم العبد الصالح، أو الرجل الصالح، بنوا على قبره مسجدا",
+ "topic": "belief",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=10887",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:1bc24b542398d55432e7a19aa3325b107ddcb67a39f61d260fbf5a20272e26fa",
+   "explanation": "উম্মে সালমা রাদিয়াল্লাহু ‘আনহা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের কাছে তাঁর হাবশায় দেখা ‘মারিয়া’ নামক একটা গির্জার কথা উল্লেখ করলেন। তিনি সেখানে ছবি, সাজ-সজ্জা ও প্রতিমা অঙ্কন দেখেছিলেন, সেগুলো তাকে আর্শ্চয করেছে। অতঃপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এসব চিত্র নির্মানের কারণ বর্ণনা করেন। তিনি  বললেন: এরা এমন সম্প্রদায় যাদের তুমি উল্লেখ করলে, এদের মধ্যে কোন সৎ লোক মারা গেলে তার কবরে তারা মসজিদ বানাতো, তাতে তারা সালাত আদায় করতো। আর তাতে ঐ সব ব্যাক্তির প্রতিচ্ছবি স্থাপন করতো। তিনি আরো বর্ণনা করেন, এধরনের কাজ যারা করে তারা আল্লাহর কাছে নিকৃষ্ট সৃষ্টি। কেননা এসব কাজ আল্লাহর সাথে শির্কের দিকে ধাবিত করে।",
+   "grade": "সহীহ",
+   "hints": [
+    "শিরকের উপকরণ বন্ধ করতে কবর কে মসজিদ বানানো অথবা এর কাছে সালাত আদায় করা অথবা মসজিদে মৃত ব্যক্তিকে দাফন করা হারাম।\r",
+    "কবর কে মসজিদ বানানো, এতে প্রতিচ্ছবি স্থাপন করা ইয়াহুদী ও খৃস্টানদের কাজ। সুতরাং অন্যরা যারাই এ ধরনের কাজ করবে তারাও তাদের (ইয়াহুদী ও খৃস্টানদের) অনুরূপ।\r",
+    "যে সব প্রাণীর জীবন আছে, সে সব প্রাণীর চিত্রাঙ্কন করা হারাম।\r",
+    "যে ব্যক্তি কবরের ওপর মসজিদ বানায় এবং তাতে প্রতিকৃতি স্থাপন করে সে আল্লাহর সৃষ্টির সবচেয়ে নিকৃষ্ট সৃষ্টি।\r",
+    "তাওহীদের দিকটা ইসলাম পুরোপুরি সংরক্ষণ করেছে। এমনকি ইসলাম শির্কের দিকে ধাবিত করে এমন সব মাধ্যম বন্ধ করে দিয়েছে।\r",
+    "নেককার লোকদের নিয়ে বাড়াবাড়ি করা নিষেধ। কেননা এ সব কাজ শির্কের দিকে ধাবিত করে।"
+   ],
+   "mapping": "same HadeethEnc record id 10887; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:31+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/10887",
+   "text": "উম্মুল মু’মিনীন ‘আয়িশা রাদিয়াল্লাহু ‘আনহা থেকে বর্ণিত: উম্মে সালমা রাদিয়াল্লাহু ‘আনহা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের কাছে তাঁর হাবশায় দেখা ‘মারিয়া’ নামক একটা গির্জার কথা উল্লেখ করলেন। তিনি সেখানে যে সব ছবি দেখেছিলেন, সেগুলোর বর্ণনা দিলেন। তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন:\n“এরা এমন সম্প্রদায় যে, এদের মধ্যে কোন সৎ বান্দা অথবা বলেছেন কোন সৎ লোক মারা গেলে তার কবরের উপর তারা মসজিদ নির্মাণ করত। আর তাতে ঐ সব ব্যাক্তির ছবি তৈরী করে স্থাপন করতো। এরা আল্লাহর কাছে নিকৃষ্ট সৃষ্টি।”",
+   "title": "এরা এমন সম্প্রদায় যে, এদের মধ্যে কোন সৎ বান্দা অথবা বলেছেন কোন সৎ লোক মারা গেলে তার কবরের উপর তারা মসজিদ নির্মাণ করত।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=10887",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:b7fb2f7d0c77fc18840568038504582f8e1207fbec7da6f1b0abcc7805835615",
+   "explanation": "’Umm Salamah, the Mother of the Believers, (may Allah be pleased with her) mentioned to the Prophet (may Allah's peace and blessings be upon him) that when she was in Abyssinia, she saw a church, called Māriyah, that had images, decorations, and drawings therein and she was amazed at that. The Prophet (may Allah's peace and blessings be upon him) clarified the reason behind using such images. He said: Those people, whom you mentioned, whenever a righteous man among them died, would build a place of worship over his grave and make such images. He (may Allah's peace and blessings be upon him) clarified that whoever does this is counted among the most evil people in the sight of Allah Almighty because his deed leads to associating partners with Allah Almighty.",
+   "grade": "Authentic",
+   "hints": [
+    "It is prohibited to build mosques over graves, pray at graves, or bury the dead in mosques to block the means to Shirk (polytheism).\r",
+    "Building places of worship over graves and putting images therein are practices of the Jews and Christians. So, whoever does this has acted like them.\r",
+    "It is prohibited to acquire images of living beings.\r",
+    "Whoever builds a mosque over a grave and puts images therein is one of the most wicked people.\r",
+    "The Shariah is keen on fully protecting the soundness of Tawhīd (monotheism), as it blocks all means that may lead to Shirk.\r",
+    "Exaggeration in honoring righteous people is prohibited because it leads to falling in Shirk."
+   ],
+   "mapping": "same HadeethEnc record id 10887; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:31+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/10887",
+   "text": "‘Ā’ishah, the Mother of the Believers, (may Allah be pleased with her) reported: ’Umm Salamah mentioned to the Messenger of Allah (may Allah's peace and blessings be upon him) that she had seen a church in Abyssinia called Māriyah, and she mentioned the images that she had seen therein. The Messenger of Allah (may Allah's peace and blessings be upon him) said: \"Those are a people who, when a righteous slave or a righteous man from among them dies, they build a place of worship over his grave and place those images therein. Those are the most evil people in the sight of Allah.\"",
+   "title": "Those are a people who, when a righteous slave or a righteous man from among them dies, they build a place of worship",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=10887",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:8d78418abc809d96947a86c3ddd1811b6deec6b7f4ce071621c4128bfe4beb20",
+   "explanation": "La mère des croyants Oum Salamah (qu'Allah l'agrée) mentionna au Prophète ﷺ que lorsqu'elle était en terre d'Abyssinie, elle a vu une église - qui s'appelait Mâriah - dans laquelle il y avait des images, des décorations et des représentations et elle s'étonna de cela ! Alors, le Prophète ﷺ lui expliqua les raisons de la présence de ces images. Il a dit : \" Ces gens que tu mentionnes, lorsqu’un homme vertueux mourrait parmi eux, alors ils construisaient un lieu de culte sur sa tombe, ils y priaient à l'intérieur et ils représentaient ces images. \" Il expliqua ensuite que celui qui fait cela est la pire créature auprès d'Allah ﷻ parce que son acte mène au polythéisme envers Allah ﷻ.",
+   "grade": "Authentique",
+   "hints": [
+    "L'interdiction de construire les mosquées sur les tombes, ou d'y prier, ou d'enterrer les morts dans les mosquées en vue de stopper tout prétexte au polythéisme.\r",
+    "Construire des lieux de culte sur des tombes et y mettre des images est un acte des juifs et des chrétiens. Quiconque fait cela, alors assurément il leur a ressemblé.\r",
+    "L'interdiction d'avoir recours à des images d'êtres dotés d'âmes.\r",
+    "Quiconque construit un lieu de culte sur une tombe et y met des représentations,  est alors la pire créature d'Allah ﷻ.\r",
+    "La protection de la Charia du pan du monothéisme est une protection complète qui stoppe l'ensemble des moyens qui peuvent mener au polythéisme.\r",
+    "L'interdiction de l'exagération à l'égard des vertueux car c'est une cause pour tomber dans le polythéisme."
+   ],
+   "mapping": "same HadeethEnc record id 10887; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:31+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/10887",
+   "text": "D'après 'Aïcha, la mère des croyants (qu’Allah l’agrée) : Oum Salamah (qu’Allah l’agrée) mentionna au Messager d’Allah ﷺ une église qu’elle avait vue en Abyssinie qu'on appelait : « Mâriah ». Elle lui mentionna les images qu’elle avait vues à l’intérieur. Alors, le Messager d’Allah ﷺ a dit : «  Ce sont des gens qui, lorsqu’un serviteur vertueux ou un homme vertueux mourrait parmi eux, alors ils construisaient un lieu de culte sur sa tombe  et y représentaient ces images. Ces gens sont les pires des créatures auprès d’Allah ! »",
+   "title": "Ce sont des gens qui, lorsqu’un serviteur vertueux ou un homme vertueux mourrait parmi eux, alors ils construisaient un lieu de culte sur sa tombe",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=10887",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:10bd1b17bd74d3f07319024fb71e3fc402fd65f0f2d78b5512f5d15ae76389e4",
+   "explanation": "Ummul Mukminin Ummu Salamah -raḍiyallāhu 'anhā- menyebutkan kepada Nabi ﷺ bahwa ketika berada di negeri Habasyah, ia melihat sebuah gereja yang diberi nama Mariyah, di dalamnya terdapat gambar dan hiasan-hiasan. Ia menceritakan itu karena takjub dengannya! Maka Nabi ﷺ menerangkan sebab menaruh gambar-gambar itu. Beliau menyebutkan: Orang-orang yang engkau sebutkan itu, ketika di tengah mereka ada orang saleh yang wafat, mereka membangun tempat ibadah di atas kuburnya sebagai tempat salat dan membuat gambar-gambar itu. Beliau menjelaskan bahwa pelaku perbuatan itu adalah seburuk-buruk makhluk di sisi Allah Ta'ala karena perbuatannya itu menyebabkan adanya kesyirikan kepada-Nya.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Pengharaman membangun masjid di atas kuburan, salat di sisinya, atau mengubur orang yang meninggal di dalam masjid, sebagai bentuk menutup media kesyirikan.\r",
+    "2- Membangun masjid di atas kubur dan memasang gambar di dalamnya adalah perbuatan orang-orang Yahudi dan Nasrani, dan orang yang melakukan itu berarti telah menyerupai mereka.\r",
+    "3- Pengharaman membuat gambar bernyawa.\r",
+    "4- Orang yang membangun masjid di atas kubur dan membuat gambar di dalamnya adalah seburuk-buruk makhluk Allah Ta'ala.\r",
+    "5- Penjagaan sempurna yang dilakukan oleh syariat terhadap tauhid dengan menutup semua wasilah yang dapat mengantar kepada kesyirikan.\r",
+    "6- Larangan sikap guluw (berlebihan) pada orang-orang saleh karena menjadi sebab terjerumus dalam kesyirikan."
+   ],
+   "mapping": "same HadeethEnc record id 10887; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:31+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/10887",
+   "text": "Ummul Mukminin Aisyah -raḍiyallāhu 'anhā- meriwayatkan, Ummu Salamah menyebutkan kepada Rasulullah ﷺ sebuah gereja yang dilihatnya di negeri Ḥabasyah yang dinamakan Mariyah. Ia menuturkan kepada beliau gambar-gambar yang disaksikannya di dalam gereja tersebut. Maka Rasulullah ﷺ bersabda, \"Mereka itu kaum yang apabila seorang hamba yang saleh atau orang yang saleh di kalangan mereka meninggal, mereka membangun masjid di atas kuburnya dan membuat gambar itu di dalamnya. Mereka adalah sejelek-jelak makhluk di sisi Allah.\"",
+   "title": "Mereka itu kaum yang apabila seorang hamba yang saleh atau orang yang saleh di kalangan mereka meninggal, mereka membangun masjid di atas kuburnya",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=10887",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:4796a463a516d59ca861ab4b67285178895dfe795bc796fcbc394be6b9ba73de",
+   "explanation": "ام المؤمنین ام سلمہ رضی اللہ عنہا  نے رسول صلی اللہ علیہ و سلم کے سامنے ذکر کیا کہ جب وہ حبشہ میں تھیں، تو انھوں نے وہاں ماریہ نام کا ایک گرجا گھر دیکھا تھا، جس میں بہت سی تصویريں اور نقش و نگار تھے۔ دراصل ان کو ان باتوں پر تعجب ہو رہا تھا۔ چنانچہ اللہ کے رسول صلی اللہ علیہ و سلم  نے ان تصویروں کو گرجا گھروں میں رکھے جانے کے اسباب بتائے۔ آپ نے کہا : تم جن لوگوں کا ذکر کر رہی ہو، جب ان کے سماج کا کوئی صالح بندہ مر جاتا، تو وہ اس کی قبر پر مسجد بناکر اس میں نماز پڑھتے اور اس کے اندر ان کی تصویریں بنا ڈالتے۔ آپ نے بتایا کہ اس طرح کا کام کرنے والا انسان اللہ کی نظر میں سب سے بری مخلوق ہے۔ کیوں کہ اس کے اس کام سے شرک کے دروازے کھلتے ہيں۔",
+   "grade": "صحيح",
+   "hints": [
+    "قبروں پر مسجد بنانا، ان کے پاس نماز پڑھنا یا مسجد کے اندر کسی کو دفن کرنا حرام ہے۔ کیوں کہ اس سے شرک کے دروازے کھلتے ہيں۔\r",
+    "قبروں پر مسجد بنانا اور ان کے اندر تصویریں لگانا یہودیوں اور عیسائیوں کا عمل ہے۔ جس نے یہ کام کیا، وہ ان کے نقش قدم پر چلنا والا ہے۔\r",
+    "روح والی چیزوں کی تصویر رکھنا حرام ہے۔\r",
+    "جس نے قبر پر مسجد بنائی اور اس میں تصویر بنائی، وہ اللہ کی سب سے بری مخلوقوں میں سے ایک ہے۔\r",
+    "شریعت نے اس بات کا پورا انتظام کیا ہے کہ توحید کی مکمل حفاظت ہو سکے اور اس کے لیے شرک کی جانب لے جانے والے تمام راستوں کو بند کر دیا ہے۔\r",
+    "نیک بندوں کے بارے میں غلو کی ممانعت، کیوں کہ اس سے شرک کے دروازے کھلتے ہيں۔"
+   ],
+   "mapping": "same HadeethEnc record id 10887; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:31+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/10887",
+   "text": "امّ المؤمنین عائشہ رضی اللہ عنہا سے روایت ہے کہ: ام سلمہ رضی اللہ عنہا  نے نبی کریم ﷺ سے ایک گرجا کا ذکر کیا، جس کو انھوں نے حبشہ کے علاقے میں دیکھا تھا اور اس کا نام ماریہ تھا۔ اس میں جو تصویریں دیکھی تھیں وہ بیان کیں۔ اس پر رسول اللہ ﷺ نے فرمایا : \"وہ ایسے لوگ تھے کہ اگر ان میں سے کوئی نیک بندہ (یا یہ فرمایا کہ) نیک آدمی مر جاتا، تو اس کی قبر پر مسجد بنا لیتے اور اس میں یہ تصویریں بنا ڈالتے۔ وہ لوگ اللہ کے نزدیک سب سے بدترین مخلوق ہیں\"۔",
+   "title": "وہ ایسے لوگ تھے کہ اگر ان میں سے کوئی نیک بندہ (یا یہ فرمایا کہ) نیک آدمی مر جاتا، تو اس کی قبر پر مسجد بنا لیتے",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=10887",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:ec5c71c2be65c5d1f1ac6d85c101cd91cd22d3ef644a795baa43bf4cb76fe070",
+   "explanation": "信士之母乌姆萨拉玛（愿主喜悦她）告诉先知（愿主福安之）说，在哈拜沙时，她看到一座教堂，称为马利亚教堂，里面有画像、装饰品以及雕像，她对此感到惊讶！ 先知（愿主福安之）阐明了放置这些图像的原因。 他说：那些你提到的人，当他们中一位清廉的人归真时，他们会在他的坟墓上建造一座清真寺，用来做礼拜，并树立起了那些画像。 他解释说，那样做的人在安拉看来是最邪恶的被造物，因为他们的行为会导致以物配主。",
+   "grade": "正确的",
+   "hints": [
+    "禁止在坟墓上建造清真寺，或在坟墓旁边做礼拜，或在清真寺内埋葬死者，以阻止导致以物配主的媒介。\r",
+    "在坟墓上建造清真寺，并在其中树立画像是犹太人和基督教徒的做法，任何人做这些事情都在模仿他们。\r",
+    "禁止制作有生命的图像。\r",
+    "在坟墓上建造清真寺，并在其中树立画像者，是安拉的最邪恶的被造物。\r",
+    "伊斯兰教法对认主独一之维护是全面的，阻止一切可能导致多神教崇拜的媒介。\r",
+    "禁止过分对待清廉者，因为这会导致陷入以物配主。"
+   ],
+   "mapping": "same HadeethEnc record id 10887; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:31+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/10887",
+   "text": "据信士之母阿伊莎（愿主喜悦她）的传述： 乌姆·赛莱迈向先知（愿主福安之）提到了，她在哈比沙地区见到的一座教堂，名叫玛利亚。她描述了里面的一些画像，于是先知（愿主福安之）说：“那些人，当他们中有善良仆人归真时，他们会在他的坟墓上建造一座清真寺，并在里面摆放那些画像，这些人在安拉看来是最恶的被造物。”",
+   "title": "那些人，当他们中有善良仆人归真时，他们会在他的坟墓上建造一座清真寺",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

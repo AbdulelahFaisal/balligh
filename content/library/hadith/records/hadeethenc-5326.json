@@ -1,0 +1,184 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:fa5bd98f9c195a1d24c68da5072268db77a80a99e4903b92f11fffee9ddafa57",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يُبَيِّنُ النبيُّ صلى الله عليه وسلم حقيقة الغيبة المُحرَّمة، وهي: ذِكْرُ المسلم الغائب بما يَكره، سواء كان من صفاته الخَلْقية أو الخُلُقية، مثل: الأعور الغشاش الكذاب، ونحو ذلك من صفات الذم، ولو كانت تلك الصفة موجودة فيه.\n\nوأما إذا لم تكنْ فيه الصفةُ فهذا أشدُّ من الغيبة، وهو البُهْتَان، أي: الافتراء على الإنسان بما ليس فيه.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "حُسْن تعليم النبي صلى الله عليه وسلم، حيث يُلقي المسائل على طريقة السؤال.",
+  "حُسْن أدب الصحابة مع النبي صلى الله عليه وسلم، حين قالوا: الله ورسوله أعلم.",
+  "قول المسؤول عن ما لا يعلمه: الله أعلم.",
+  "صيانة الشريعة للمجتمع بحفظ الحقوق والأخوة بينهم.",
+  "الغيبة محرمة إلا في بعض الأحوال للمصلحة؛ ومن ذلك: دفع الظلم، بحيث يَذكرُ المظلومُ مَن ظَلَمَه عند من يستطيع الأخذ بحقه، فيقول: ظلمني فلان، أو فعل بي كذا، ومنها: المشاورة في أمر الزواج أو المشاركة أو المجاورة، ونحو ذلك."
+ ],
+ "id": "hadeethenc-5326",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (4/ 2001) (2589).\nفتح ذي الجلال والاكرام بشرح بلوغ المرام، لابن عثيمين (6/ 378).\nمنحة العلام في شرح بلوغ المرام، لعبد الله الفوزان (10/ 237).\nتوضيح الأحكام من بلوغ المرام، للبسام (7/ 428).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=5326",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:49+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/5326"
+ },
+ "source_categories": [
+  {
+   "id": "287",
+   "label": "آداب الكلام والصمت"
+  }
+ ],
+ "source_record_id": "5326",
+ "text": "عن أبي هريرة رضي الله عنه أن رسول الله صلى الله عليه وسلم قال: «أَتَدْرُونَ مَا الْغِيبَةُ؟»، قَالُوا: اللهُ وَرَسُولُهُ أَعْلَمُ، قَالَ: «ذِكْرُكَ أَخَاكَ بِمَا يَكْرَهُ»، قِيلَ: أَفَرَأَيْتَ إِنْ كَانَ فِي أَخِي مَا أَقُولُ؟ قَالَ: «إِنْ كَانَ فِيهِ مَا تَقُولُ فَقَدِ اغْتَبْتَهُ، وَإِنْ لَمْ يَكُنْ فِيهِ فَقَدْ بَهَتَّهُ».",
+ "title": "أتدرون ما الغيبة؟، قالوا: الله ورسوله أعلم، قال: ذكرك أخاك بما يكره",
+ "topic": "conduct",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=5326",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:05cd331c54f41bc8f7c431c1366122a4882c8c7df29e5ac923b92c298b9517c3",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম এ হাদীসে হারাম গীবতের প্রকৃতি ও ধরন বর্ণনা করেছেন। আর তা হলো:  কোন অনুপস্থিত মুসলিমের এমন কিছু আলোচনা করা যা সে অপছন্দ করে। চাই সে দোষ তার দৈহিক হোক বা চারিত্রিক। যেমন: অন্ধ, প্রতারক, মিথ্যাবাদী ইত্যাদি খারাপ দোষ। যদিও সেসব দোষ তার মধ্যে বিদ্যমান থাকে।\r\n\r\nআর যদি সেসব দোষ উক্ত ব্যক্তির মধ্যে না থাকে, তবে এটি গীবতের চেয়েও নিকৃষ্ট, যাকে অপবাদ  বলে। অর্থাৎ কোন মানুষকে এমনসব দোষের মিথ্যা আরোপ করা যা তার মধ্যে নেই।",
+   "grade": "সহীহ",
+   "hints": [
+    "হাদীসে নবী সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লামের সুন্দর শিক্ষাদান পরিস্ফুটিত হয়েছে, যেহেতু তিনি প্রশ্ন-উত্তরের মাধ্যমে মাস‘আলা শিক্ষা দান করেছেন।\r",
+    "নবী সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লামের সাথে সাহাবীদের উত্তম শিষ্টাচারের বিষয়টি তুলে ধরা হয়েছে, যখন সাহাবীগণ বলেছেন: আল্লাহ ও তাঁর রাসূলই এ বিষয়ে ভালো জানেন।\r",
+    "জিজ্ঞাসিত ব্যক্তি কোন বিষয় না জানলে বলা উচিত: আল্লাহই ভালো জানেন।\r",
+    "ইসলামী শারী‘য়ত সমাজে মানুষের অধিকার ও ভ্রাতৃত্ববোধ হেফাযতের মাধ্যমে তাদের অধিকারকে সংরক্ষণ করেছে।\r",
+    "গীবত করা হারাম; তবে কোন কোন ক্ষেত্রে মানুষের ব্যাপক কল্যাণের বিষয় জড়িত থাকলে তা ভিন্ন ব্যাপার। এ ধরনের উদাহরণ হলো: জুলুম প্রতিরোধ করাতে কারো গীবত করা, যেমন এমন কারো কাছে উক্ত ব্যক্তির গীবত করা যে ব্যক্তি তার থেকে গীবতকারীর হক আদায় করে দিতে সক্ষম। সুতরাং সে বলতে পারে: অমুকে আমার প্রতি জুলুম করেছে অথবা আমার সাথে এমন আচরণ করেছে। এরূপ গীবতের আরেকটি উপমা হলো: বিবাহ বা অংশীদারী ব্যবসা বা প্রতিবেশি ইত্যাদির ব্যাপারে পরামর্শ করা এবং সে ক্ষেত্রে তার দোষ-ত্রুটি উল্লেখ করা।"
+   ],
+   "mapping": "same HadeethEnc record id 5326; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:13+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/5326",
+   "text": "আবূ হুরায়রা রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম বলেছেন: “তোমরা কি জান, গীবত কী?” তাঁরা বললেন, আল্লাহ ও তাঁর রাসূলই ভাল জানেন। তিনি বললেন:“ (গীবত হল) তোমার ভাইয়ের সম্পর্কে এমন কিছু আলোচনা করা, যা সে অপছন্দ করে।” প্রশ্ন করা হল, আমি যা বলছি তা যদি আমার ভাই এর মধ্যে থাকে? তিনি বললেন: “তুমি  যা বলছ তা যদি তার মধ্যে থাকে তাহলেই তুমি তার গীবত করলে। আর যদি তা না থাকে তা হলে তো তুমি তাকে অপবাদ দিলে।”",
+   "title": "“তোমরা কি জান, গীবত কী?” তাঁরা বললেন, আল্লাহ ও তাঁর রাসূলই ভাল জানেন। তিনি বললেন:“ (গীবত হল) তোমার ভাইয়ের সম্পর্কে এমন কিছু আলোচনা করা, যা সে অপছন্দ করে",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=5326",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:f1568040f6bd04331485dcdda4f645e196037a0e7b09f89da18973f448b92cfe",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) clarified the prohibited backbiting, which is to speak about an absent Muslim in a way he dislikes, whether you mention traits related to his manners or appearance, like saying the one-eyed man, the cheater, the liar, and or any other reprehensible trait, even if it truly exists in him.\r\n\r\nHowever, if the trait does not exist in him, this is worse than backbiting. This is slander, which is to fabricate bad things about someone.",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth shows the Prophet’s excellent way of teaching, as he used to bring up issues by means of questions.\r",
+    "It demonstrates the Companions' politeness towards the Prophet (may Allah's peace and blessings be upon him) when they said: Allah and His Messenger know best.\r",
+    "A person questioned about something he does not know should say: Allah knows best.\r",
+    "The Shariah protects society by maintaining the rights of its members and the fraternity among them.\r",
+    "Backbiting is prohibited except, in some cases, for serving a certain interest. Examples include the removal of oppression, as an oppressed person speaks to someone who is able to restore his right to him from the one who wronged him, saying: So-and-so wronged me or did such and such to me. Another example is when someone seeks the opinion of others regarding marriage, partnership, neighboring, and so on."
+   ],
+   "mapping": "same HadeethEnc record id 5326; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:13+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/5326",
+   "text": "Abu Hurayrah (may Allah be pleased with him) reported: The Messenger of Allah (may Allah's peace and blessings be upon him) said: \"Do you know what backbiting is?\" They said: \"Allah and His Messenger know best.\" He said: \"It is to say of your brother what he dislikes.\" It was said: \"What do you think if what I say of my brother is true?\" He said: \"If what you say of him is true, you have backbitten him; and if not, you have slandered him.\"",
+   "title": "Do you know what backbiting is?\" They said: \"Allah and His Messenger know best.\" He said: \"It is to say of your brother what he dislikes",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=5326",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:2e084a50d671473d35fa34767410215594717c3201cd903038c1aac53647a4b7",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) explique la réalité de la médisance interdite qui est : évoquer le musulman absent en des termes qu'il répugnerait, que cela concerne ses caractéristiques physiques ou comportementales, comme : le borgne, le tricheur, le menteur, et autres caractéristiques blâmables du genre, même si cette caractéristique est présente en lui.\r\n\r\nEt si cette caractéristique n'est pas présente en lui, c'est pire que de la médisance, c'est de la diffamation ; c'est-à-dire : mentir sur une personne et lui attribuer ce qui n'est pas en elle.",
+   "grade": "Authentique",
+   "hints": [
+    "Le bon enseignement du Prophète (qu'Allah le couvre d'éloges et le préserve), du fait qu'il lance des sujets sous forme de question.\r",
+    "Le bon comportement des Compagnons (qu'Allah les agrée) avec le Prophète (qu'Allah le couvre d'éloges et le préserve) lorsqu'ils ont dit : \"Allah et Son Messager savent mieux !\"\r",
+    "Ce que doit dire celui qui est interrogé à propos de ce qu'il ne connait pas : \"Allah sait mieux !\"\r",
+    "Comment la Charî'ah préserve la société en préservant les droits et la fraternité entre ses membres.\r",
+    "La médisance est interdite excepté en de rares situations et cela pour un intérêt, notamment parmi cela : repousser l'injustice, à savoir que l'opprimé mentionne l'oppresseur auprès de quelqu'un qui a la possibilité de lui récupérer son droit en disant : \" Untel m'a fait de l'injustice \" ou \" Untel m'a fait cela \". Il y a aussi la consultation, notamment en cas de mariage, ou d'association, ou de voisinage, et ce qui y ressemble à cela."
+   ],
+   "mapping": "same HadeethEnc record id 5326; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:13+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/5326",
+   "text": "Aboû Hourayrah (qu'Allah l'agrée) que le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) a dit : « Savez-vous ce qu’est la médisance ? - Ils répondirent : Allah et Son Messager savent mieux ! - Il a dit : C'est que tu évoques ton frère en des termes qu’il répugnerait. »  On demanda : « Et qu’en est-il si cette caractéristique est présente en lui ? - Il répondit : si ce que tu dis est présent en lui, tu auras alors médit à son sujet ; mais si ce n’est pas le cas, tu l'auras alors diffamé. »",
+   "title": "Savez-vous ce qu’est la médisance ? - Ils répondirent : Allah et Son Messager savent mieux ! - Il a dit : C'est que tu évoques ton frère en des termes qu’il répugnerait.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=5326",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:fee15b39193539582f1e441c03731b5e38fc8318fafde0446458eb9a4d6fc1ab",
+   "explanation": "Nabi ﷺ menjelaskan hakikat gibah yang diharamkan, yaitu menyebut seorang muslim dengan sesuatu yang ia benci, baik terkait fisiknya ataupun akhlaknya. Misalnya: si buta sebelah, si penipu, si pembohong, dan sifat-sifat tercela lainnya, sekalipun sifat tersebut benar ada padanya.\r\n\r\nAdapun jika sifat tersebut tidak benar ada padanya, maka itu lebih berat dari gibah, yaitu fitnah, mengada-ada sesuatu yang tidak ada pada seseorang.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Pengajaran Nabi ﷺ yang baik, yaitu beliau melontarkan permasalahan dalam bentuk pertanyaan.\r",
+    "2- Adab para sahabat yang baik terhadap Nabi ﷺ, yaitu ketika mereka mengatakan: Allah dan Rasul-Nya lebih tahu.\r",
+    "3- Jawaban orang yang ditanya tentang sesuatu yang tidak diketahuinya: Allah lebih tahu.\r",
+    "4- Penjagaan syariat terhadap masyarakat dengan memelihara hak-hak dan persaudaraan di antara mereka.\r",
+    "5- Gibah hukumnya haram, kecuali pada sebagian keadaan dengan tujuan kemaslahatan, di antaranya:  menghilangkan kezaliman, yaitu orang yang terzalimi melaporkan orang yang menzaliminya kepada pihak yang mampu mengambilkan haknya, dengan mengatakan, \"Aku telah dizalimi oleh Polan, atau aku diperlakukan begini.\" Termasuk juga di antaranya: berkonsultasi tentang urusan pernikahan, perkongsian, pertetanggaan, dan lain sebagainya."
+   ],
+   "mapping": "same HadeethEnc record id 5326; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:13+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/5326",
+   "text": "Abu Hurairah -raḍiyallāhu 'anhu- meriwayatkan bahwa Rasulullah ﷺ bersabda, \"Tahukah kalian apa gibah itu?\" Para ‎sahabat menjawab, \"Allah dan Rasul-Nya lebih tahu.\" Beliau bersabda, \"Engkau menyebut-nyebut ‎saudaramu dengan sesuatu yang ia benci.\" Kemudian ada yang bertanya, \"Bagaimana menurutmu ‎jika sesuatu yang aku sebutkan itu nyata ada pada saudaraku?\" Beliau menjawab, ‎‎\"Jika memang apa yang engkau sebutkan ada pada dirinya, maka itulah gibah, namun jika tidak, ‎berarti engkau telah memfitnahnya.\"‎",
+   "title": "Tahukah kalian apa gibah itu?\" Para ‎sahabat menjawab, \"Allah dan Rasul-Nya lebih tahu.\" Beliau bersabda, \"Engkau menyebut-nyebut ‎saudaramu dengan sesuatu yang ia benci",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=5326",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:3006ca74ccb18c82d5b71507aa11d812e38f74fee9c05b5e4f5cb117b5997353",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم اس حدیث میں حرام كرده غیبت کی حقیقت بیان فرما رہے ہیں۔ دراصل غیبت نام ہے کسی مسلمان کی غیر موجودگی میں اس کے بارے میں ایسی بات کرنے کا، جو اسے پسند نہ ہو۔ چاہے کہی گئی بات کا تعلق اس کے جسمانی بناوٹ سے ہو یا عادت و اخلاق سے۔ جیسے کسی کے بارے میں بھینگا، دھوکے باز اور جھوٹا وغیرہ ایسی باتیں کہنا، جن سے مذمت ہوتی ہو۔ چاہے وہ بات اس کے اندر موجود ہی کیوں نہ ہو۔\r\n\r\nاگر موجود نہ ہو، تو یہ بہتان یعنی الزام تراشی ہے، جو کہ غیبت سے بھی بڑا گناہ ہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "اللہ کے نبی صلی اللہ علیہ و سلم کے تعلیم دینے کا بہترین طریقہ کہ آپ مسائل کو سوال کی شکل میں پیش کرتے تھے۔\r",
+    "اللہ کے نبی صلی اللہ علیہ و سلم کے ساتھ صحابہ کا ادب و احترام کہ وہ صرف اتنا کہنے پر اکتفا کرتے تھے کہ اللہ اور اس کے رسول کو بہتر معلوم ہے۔\r",
+    "جس سے کوئی بات پوچھی جائے اور وہ نہ جانتا ہو، تو اسے اللہ بہتر جانتا ہے، کہہ دینا چاہیے۔\r",
+    "شریعت اسلامیہ  نے حقوق کی حفاظت کر کے اور لوگوں کے بیچ بھائی چارہ قائم کر کے ایک صاف ستھرا سماج بنانے کا کام کیا ہے۔\r",
+    "غیبت حرام ہے، البتہ کچھ حالتوں میں کچھ مصلحتوں کو سامنے رکھتے ہوئے اس کی اجازت دی گئی ہے۔ ان میں ایک مصلحت ہے ظلم کو روکنا۔ مثلا مظلوم شخص کسی ایسے شخص کے سامنے ظالم کا ذکر کرے، جو اسے اس کا حق دلا سکے۔ وہ کہے کہ مجھ پر فلاں شخص نے ظلم کیا ہے یا میرے ساتھ فلاں شخص نے ایسا سلوک کیا ہے۔ شادی کرنے، ساجھے دار اور پڑوسی بننے وغیرہ کے بارے میں مشورہ کرنا بھی اس طرح کی مصلحتوں میں شامل ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 5326; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:13+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/5326",
+   "text": "ابو ہریرہ رضی اللہ عنہ سے روایت ہے کہ اللہ کے رسول ﷺ نے فرمایا: \"کیا تم جانتے ہو کہ غیبت کیا ہوتی ہے؟\" صحابہ کرام نے کہا کہ اللہ اور اس کا رسول ہی بہتر جانتے ہیں۔ آپ ﷺ نے فرمایا : \"غیبت یہ ہے کہ تم اپنے بھائی کا ذکر اس انداز میں کرو، جو اسے نا پسند ہو‘‘۔ پوچھا گیا کہ اگر وہ بات میرے بھائی میں فی الواقع موجود ہو، تب بھی؟ آپ ﷺ نے فرمایا : \"جو تم بیان کر رہے ہو اگر وہ اس میں موجود ہے، تو تم نے اس کی غیبت کی ہے اور جو تم بیان کر رہے ہو، اگر وہ اس میں موجود نہیں ہے، تو تم نے اس پر تہمت باندھی\"۔",
+   "title": "کیا تم جانتے ہو کہ غیبت کیا ہوتی ہے؟\" صحابہ کرام نے کہا کہ اللہ اور اس کا رسول ہی بہتر جانتے ہیں۔ آپ ﷺ نے فرمایا : \"غیبت یہ ہے کہ تم اپنے بھائی کا ذکر اس انداز میں کرو، جو اسے نا پسند ہو",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=5326",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:1c839c9393626d9000d72733a9251b42dc5754de8cbdd77fc347254e116c4dd7",
+   "explanation": "先知（愿主福安之）阐明了所禁背谈的实质，即：提说不在场的穆斯林他所不喜之事，无论是外貌特征还是品德特征，例如：瘸子、欺诈者、撒谎者等诸如贬低人的特征，即使这些特征确实存在。\r\n\r\n如果他身上本就不存在这一特征，那么这就比背谈更为恶劣，这就是诽谤，也就是以莫须有之事对他人中伤造谣。",
+   "grade": "正确的",
+   "hints": [
+    "先知（愿主福安之）的绝佳教授方式，他以提问的方式给提问者解答问题。\r",
+    "圣门弟子们对待先知（愿主福安之）的良好礼仪，他们说：“真主和其使者至知。”\r",
+    "被问者对他所不知之事说：“真主至知！”\r",
+    "伊斯兰法通过保障权益和兄弟情谊来保护社会。\r",
+    "背谈是被禁止的，但为公益，有些情况则不然。其中包括：为了消除不公平，让受害者可以在有能力维护自己权益的人面前提及他受到的不公，说：某人欺负了我，或者对我做了某事。还包括商议婚姻、合伙、邻居关系等问题。"
+   ],
+   "mapping": "same HadeethEnc record id 5326; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:13+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/5326",
+   "text": "据艾布·胡莱勒（愿主喜悦之）传述，真主的使者（愿主福安之）说： “你们知道何为背谈?”大家说:“真主及其使者知道｡”穆圣说:“就是你提及自己弟兄厌恶的事情｡”有人说:“请告诉我,如果该弟兄身上存在提及的事呢?”穆圣说:“存在事实,即为背谈;不合事实,便成诽谤｡”",
+   "title": "“你们知道何为背谈?”大家说:“真主及其使者知道｡”穆圣说:“就是你提及自己弟兄厌恶的事情｡”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

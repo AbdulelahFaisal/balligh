@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1061",
+ "source_content_sha256": "sha256:5e3d251ce5ddc72a08c897bba6456d70fa9e41649cb8f227501de197cdf73cfe",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:26:55.315591+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 547,
+  "completion_tokens": 270,
+  "total_tokens": 817,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 547
+ },
+ "latency_ms": 3346,
+ "units": [
+  {
+   "id": "title",
+   "text": "天课是否适用于那些因薪水微薄而来到此地的外籍工人？"
+  },
+  {
+   "id": "q0",
+   "text": "问题："
+  },
+  {
+   "id": "q1",
+   "text": "来到这里的工人薪水微薄，仅能勉强维持生计，他们还有弱小的子女，天课对他们是否合法？"
+  },
+  {
+   "id": "a0",
+   "text": "回答："
+  },
+  {
+   "id": "a1",
+   "text": "如果确知他们确有需要，薪水不足以满足他们的需求，并且他们是穆斯林，且为人诚实可靠，那么可以给予他们一些天课以解燃眉之急。但须确认他们是穆斯林，且诚实无欺，确属贫困者。因为许多人自称贫穷，实则撒谎，其薪水足够开支。"
+  },
+  {
+   "id": "a2",
+   "text": "若经可靠之人作证，确认其确有需要，且薪水微薄，不足以维持生计，则可以给予天课；否则，不予给予。人们应寻找那些以需要和伊斯兰信仰而著称的人。"
+  }
+ ]
+}

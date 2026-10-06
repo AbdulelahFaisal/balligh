@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1061",
+ "source_content_sha256": "sha256:5e3d251ce5ddc72a08c897bba6456d70fa9e41649cb8f227501de197cdf73cfe",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:27:13.688755+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 544,
+  "completion_tokens": 396,
+  "total_tokens": 940,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 544
+ },
+ "latency_ms": 3955,
+ "units": [
+  {
+   "id": "title",
+   "text": "La zakat est-elle permise pour les expatriés en raison de leurs faibles salaires ?"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Les travailleurs qui arrivent ici ont un salaire faible, et leur subsistance est à peine suffisante pour survivre. Ils ont une progéniture faible. La zakat leur est-elle permise ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "S'ils sont connus pour être dans le besoin, que leurs salaires ne couvrent pas leurs besoins, et qu'ils sont musulmans, et qu'on les connaît pour cela, il n'y a pas de mal à leur donner une partie de la zakat pour subvenir à leurs besoins, s'ils sont connus pour être musulmans, et s'ils sont connus pour être véridiques, et qu'ils sont dans le besoin et pauvres ; car beaucoup de gens prétendent être pauvres alors qu'ils mentent et que leur salaire leur suffit."
+  },
+  {
+   "id": "a2",
+   "text": "S'il est connu qu'ils sont dans le besoin et véridiques, par le témoignage de personnes dignes de confiance qu'ils sont pauvres, et que ce salaire est faible et insignifiant, ne couvrant pas leurs besoins, alors il n'y a pas de mal à leur donner. Sinon, on ne leur donne pas, et on recherche les gens connus pour leur besoin et leur islam."
+  }
+ ]
+}

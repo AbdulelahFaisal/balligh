@@ -1,0 +1,7 @@
+{
+  "prevCard": "上一张卡片",
+  "nextCard": "下一张卡片",
+  "cardOf": "第 {{n}} 张，共 {{total}} 张",
+  "cards": "课程卡片",
+  "fromSource": "来源原文"
+}

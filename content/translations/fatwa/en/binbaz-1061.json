@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1061",
+ "source_content_sha256": "sha256:5e3d251ce5ddc72a08c897bba6456d70fa9e41649cb8f227501de197cdf73cfe",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:26:44.604301+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 544,
+  "completion_tokens": 307,
+  "total_tokens": 851,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 544
+ },
+ "latency_ms": 4290,
+ "units": [
+  {
+   "id": "title",
+   "text": "Is zakah permissible for expatriate workers because of their low salaries?"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "The workers who arrive here have low salaries, their living is barely enough to keep them alive, and they have weak dependents. Is zakah permissible for them?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "If they are known to be in need, their salaries do not cover their needs, and they are Muslims known for that, there is no harm in giving them something from zakah (obligatory almsgiving) to meet the need, if they are known to be Muslims and known to be truthful and in need, poor; because many people claim poverty while they are lying and their salary is sufficient for them."
+  },
+  {
+   "id": "a2",
+   "text": "If the need is known with truthfulness, such that someone acceptable testifies that he is poor and that this salary is little and insufficient to cover his need, then there is no harm in giving him; otherwise, he should not be given. People should seek those known for need and Islam."
+  }
+ ]
+}

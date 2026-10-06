@@ -1,0 +1,46 @@
+{
+ "attribution": "رواه أبو داود والترمذي والنسائي وأحمد",
+ "content_sha256": "sha256:04c975253ff6ebf68e9c9ce7478b75af7a0639a66367ba39e691db6527c39c06",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "ولذا أمر النبي صلى الله عليه وسلم في حديث أبي الدرداء بطلب رضاه بتفقد حال الضعفاء والفقراء وحفظ حقوقهم والإحسان إليهم فإن ذلك سبب في رزق الله والنصر على الأعداء.\nفهم غالبا أشد إخلاصا في الدعاء، وأكثر خشوعا في العبادة لخلاء قلوبهم عن التعلق بزخرف الدنيا.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "الحض على التواضع ومنع الترفع على الآخرين.",
+  "الحث على الإحسان إلى الفقراء وإعطائهم حقوقهم، فإن ذلك من أسباب رحمة الله لك ونصره."
+ ],
+ "id": "hadeethenc-66397",
+ "language": "ar",
+ "narrator": null,
+ "reference": "سنن أبي داود (4/ 236) (2594)، سنن الترمذي (3/ 258) (1702)، سنن النسائي (6/ 45) (3179)، مسند أحمد (3/ 86) (1493)، بهجة الناظرين شرح رياض الصالحين، لسليم الهلالي (1/ 354)، شرح رياض الصالحين، لابن عثيمين (3/ 111)، نزهة المتقين شرح رياض الصالحين، لمجموعة من الباحثين (1/ 279).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=66397",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:56:02+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/66397"
+ },
+ "source_categories": [
+  {
+   "id": "282",
+   "label": "الأخلاق الحميدة"
+  },
+  {
+   "id": "95",
+   "label": "الإحسان"
+  }
+ ],
+ "source_record_id": "66397",
+ "text": "عَن أَبِي الدَّرْدَاءِ رضي الله عنه قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «ابْغُونِي الضُّعَفَاءَ، فَإِنَّمَا تُرْزَقُونَ وَتُنْصَرُونَ بِضُعَفَائِكُمْ».",
+ "title": "ابغوني الضعفاء",
+ "topic": "understanding_islam",
+ "translations": {},
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

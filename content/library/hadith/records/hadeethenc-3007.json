@@ -1,0 +1,174 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:01d8478f145d0cffa42dc4c64b79cc799de52a08d9265ed4d21eaaf3b8edbfdc",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "خَرَجَ معاويةُ بن أبي سفيان رضي الله عنهما على حلقة في المسجد، فسألهم على أي شيء اجتمعوا، \nفقالوا: نذكر الله، \nفاستحلفهم رضي الله عنه أنهم ما أرادوا بجلوسهم واجتماعهم إلا الذكر، \nفحلفوا له، \nثم قال لهم: إني لم أستحلفكم تهمة لكم وشكًّا في صدقكم، ثم أخبر عن منزلته من النبي صلى الله عليه وسلم وأنه ما كان أحد بمنزلة قربه منه؛ لكون أم حبيبة أخته زوجة النبي صلى الله عليه وسلم، ولكونه من كتبة الوحي، ومع ذلك فهو قليل الرواية للأحاديث، \nفحدثهم أن النبي صلى الله عليه وسلم خرج يومًا من بيته، فوجدهم جالسين في المسجد يذكرون الله ويحمدونه على ما هداهم للإسلام، ومنَّ به عليهم، فسألهم صلى الله عليه وسلم واستحلفهم  بمثل ما فعل معاوية رضي الله عنه مع أصحابه، \nثم قال لهم النبي صلى الله عليه وسلم عن سبب سؤاله لهم واستحلافهم: أنه أتاه المَلك جبريل عليه السلام فأخبره أن الله عز وجل يباهي ويفاخر بكم الملائكة، ويظهر فضلكم لهم ويريهم حسن عملكم، ويثني عليكم عندهم.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "فضل معاوية رضي الله عنه وحرصه على الاقتداء برسول الله صلى الله عليه وسلم في تبليغ العلم.",
+  "جواز الاستحلاف من غير تهمة للتنبيه على أهمية الخبر.",
+  "فضل مجالس الذكر والعلم وأن الله يحبها ويباهي بها الملائكة."
+ ],
+ "id": "hadeethenc-3007",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (4/ 2075) (2701).\nنزهة المتقين (2/ 993).\nبهجة الناظرين، لسليم الهلالي (2/ 522).\nكنوز رياض الصالحين، لمجموعة من الباحثين (17/ 271).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3007",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:40+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3007"
+ },
+ "source_categories": [
+  {
+   "id": "270",
+   "label": "فضل العلم"
+  },
+  {
+   "id": "278",
+   "label": "فضائل الذكر"
+  }
+ ],
+ "source_record_id": "3007",
+ "text": "عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ قَالَ: خَرَجَ مُعَاوِيَةُ عَلَى حَلْقَةٍ فِي الْمَسْجِدِ، فَقَالَ: مَا أَجْلَسَكُمْ؟ قَالُوا: جَلَسْنَا نَذْكُرُ اللهَ، قَالَ آللَّهِ مَا أَجْلَسَكُمْ إِلَّا ذَاكَ؟ قَالُوا: وَاللهِ مَا أَجْلَسَنَا إِلَّا ذَاكَ، قَالَ: أَمَا إِنِّي لَمْ أَسْتَحْلِفْكُمْ تُهْمَةً لَكُمْ، وَمَا كَانَ أَحَدٌ بِمَنْزِلَتِي مِنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَقَلَّ عَنْهُ حَدِيثًا مِنِّي: وَإِنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ خَرَجَ عَلَى حَلْقَةٍ مِنْ أَصْحَابِهِ، فَقَالَ: «مَا أَجْلَسَكُمْ؟» قَالُوا: جَلَسْنَا نَذْكُرُ اللهَ وَنَحْمَدُهُ عَلَى مَا هَدَانَا لِلْإِسْلَامِ، وَمَنَّ بِهِ عَلَيْنَا، قَالَ: «آللَّهِ مَا أَجْلَسَكُمْ إِلَّا ذَاكَ؟» قَالُوا: وَاللهِ مَا أَجْلَسَنَا إِلَّا ذَاكَ، قَالَ: «أَمَا إِنِّي لَمْ أَسْتَحْلِفْكُمْ تُهْمَةً لَكُمْ، وَلَكِنَّهُ أَتَانِي جِبْرِيلُ فَأَخْبَرَنِي أَنَّ اللهَ عَزَّ وَجَلَّ يُبَاهِي بِكُمُ الْمَلَائِكَةَ».",
+ "title": "أما إني لم أستحلفكم تهمة لكم، ولكنه أتاني جبريل فأخبرني أن الله عز وجل يباهي بكم الملائكة",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3007",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:f3b72f1e5c6aacded73ef3a7f7a178e8e432e6a558d532e0474b99543da671f2",
+   "explanation": "মু‘আবিয় ইবনু আবী সুফিয়ান রদিয়াল্লাহু আনহুমা মসজিদের একটি হালাকার কাছে এসে উপস্থিত লোকদেরকে জিজ্ঞাসা করেছিলেন যে, তারা কোন কারণে সেখানে একত্রিত হয়েছে। তখন তারা জবাব দিলেন: আমরা আল্লাহর যিকির করব (এ জন্য)। তখন মু‘আবিয়া রদিয়াল্লাহু আনহু তাদেরকে কসম করতে বললেন এ মর্মে যে, তাদের একত্রিত হওয়ার কারণ কি শুধুমাত্র এটাই ছিল। তখন তারা তার কাছে কসম করলেন। তারপরে তিনি তাদেরকে উদ্দেশ্য করে বললেন: নিশ্চয় আমি তোমাদেরকে কোন অপবাদের কারণে অথবা তোমাদের সত্যতার ব্যাপারে সন্দেহ করার কারণে তোমাদেরকে কসম করতে বলিনি। তারপরে তিনি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের কাছে তার অবস্থান এবং কেউ যে তার থেকে রাসূলের নিকটবর্তী ছিলেন না এ ব্যাপারে সংবাদ দিলেন; (তার নৈকট্যের) কারণ হচ্ছে- তার বোন উম্মু হাবীবাহ আল্লাহর রাসূলের স্ত্রী ছিলেন এবং তিনি নিজেও অহী লেখকদের মধ্যে অন্যতম ছিলেন। কিন্তু এর পরেও তিনি খুব কম হাদীসই বর্ণনা করেছেন। তারপরে তিনি হাদীস বর্ণনা করলেন যে, একবার আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার বাড়ী থেকে বের হয়ে সাহাবীদেরকে মসজিদে বসা অবস্থায় দেখতে পেলেন, তারা আল্লাহর যিকর করছিলেন এবং তিনি তাদেরকে ইসলামের দিশা দেওয়া এবং এর মাধ্যমে নি‘আমাত প্রদান করার কারণে তাঁর প্রশংসা করছিলেন। তখন তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) তাদেরকে জিজ্ঞাসা করেছিলেন এবং তাদেরকে কসম করিয়েছিলেন, ঠিক যেভাবে মু‘আবিয়া রদিয়াল্লাহু আনহু তার সাথীদেরকে কসম করালেন। তারপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদেরকে প্রশ্ন করা এবং কসম করানোর কারণ বর্ণনা করে বললেন যে: ফেরেশতা জিবরীল আলাইহিস সালাম এসে জানিয়েছেন, আল্লাহ তা‘আলা তোমাদের ব্যাপারে ফেরেশতাদের কাছে গর্ব করছেন, তাদের কাছে তোমাদের ফযীলত পেশ করছেন, তোমাদের ভালো আমল তাদেরকে দেখাচ্ছেন এবং তাদের কাছে তোমাদের প্রশংসা করছেন।",
+   "grade": "সহীহ",
+   "hints": [
+    "হাদীসটিতে মু‘আবিয়া রদিয়াল্লাহু আনহুর ফযীলত এবং ইলম প্রচারে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের হুবহু অনুসরণের প্রতি তার বিশেষ আগ্রহের কথা বর্ণিত হয়েছে।\r",
+    "সংবাদের গুরুত্ব বোঝাতে অপবাদ আরোপ ব্যতীত কসম করানো বৈধ।\r",
+    "ইলম ও যিকিরের মজলিসের ফযীলতের বর্ণনা এছাড়াও এ মজলিসগুলিকে আল্লাহ তা‘আলা ভালোবাসেন এবং ফেরেশতাদের নিকটে এগুলি নিয়ে গর্ব করেন।"
+   ],
+   "mapping": "same HadeethEnc record id 3007; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:49+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3007",
+   "text": "আবু সা‘ঈদ আল-খুদরী রদিয়াল্লাহু ‘আনহু হতে বর্ণিত, তিনি বলেছেন, মু‘আবিয়া (রদিয়াল্লাহু আনহু একবার ) মসজিদের একটি হালাকার কাছে আসলেন এবং জিজ্ঞাসা করলেন: কোন কিসে তোমাদেরকে বসালো? তারা জবাব দিলেন: আমরা আল্লাহর যিকরের জন্য বসেছি। তখন তিনি বললেন: এটা ব্যতীত অন্য কোন কিছুই তোমাদেরকে এখানে বসায়নি? তারা বললেন: আল্লাহর কসম! অন্য কোন বিষয় আমাদেরকে বসায়নি। তিনি বললেন: আমি তোমাদেরকে কোন অপবাদ দেওয়ার জন্য কসম করাইনি। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের কাছে আমার ন্যায় অবস্থান থাকা ব্যক্তিদের মধ্যে কেউই আমার থেকে কম হাদীস বর্ণনা করেনি: রাসূলুল্লাহ একবার তাঁর সাহাবীদের একটি হালাকার কাছে এসে জিজ্ঞাসা করেছিলেন: “কিসে তোমাদেরকে উপবেশন করিয়েছে?” তারা জবাব দিয়েছিলেন: আমরা আল্লাহর যিকির করব ও তিনি আমাদেরকে ইসলামের পথ দেখিয়েছেন এবং আমাদেরকে এর মাধ্যমে নি‘আমাত প্রদান করেছেন এ কারণে তাঁর প্রশংসা করার জন্য বসেছি। তিনি জিজ্ঞাসা করেছিলেন: “এটা ব্যতীত অন্য কোন কিছুই তোমাদেরকে এখানে উপবেশন করায়নি?” তারা বলেছিলেন: আল্লাহর কসম! অন্য কোন বিষয় আমাদেরকে উপবেশন করায়নি। তিনি বলেছিলেন: “আমি তোমাদেরকে কোন অপবাদ দেওয়ার জন্য কসম করাইনি। বরং আমার নিকটে জিবরীল এসে জানিয়ে গেলেন যে মহাপরাক্রমশালী আল্লাহ তা‘আলা ফেরেশতাদের কাছে তোমাদের ব্যাপারে গর্ব করছেন।”",
+   "title": "“আমি তোমাদেরকে কোন অপবাদ দেওয়ার জন্য কসম করাইনি। বরং আমার নিকটে জিবরীল এসে জানিয়ে গেলেন যে মহাপরাক্রমশালী আল্লাহ তা‘আলা ফেরেশতাদের কাছে তোমাদের ব্যাপারে গর্ব করছেন।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3007",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:74b4933053f46a2198e64803943a047680ca78f561cba21d2be251b816314917",
+   "explanation": "Mu‘āwiyah ibn Abi Sufyān (may Allah be pleased with him and his father) came upon a group of people sitting in a circle in the mosque and asked them about the purpose behind their gathering. They replied: We are remembering Allah. He (may Allah be pleased with him) asked them to swear that they had only gathered and sat for the purpose of remembering Allah, and they swore to him. Then he said to them, I have not asked you to swear because I suspect you or question your truthfulness. He, then, was informed about his status by the Prophet (may Allah's peace and blessings be upon him) and that no one was closer to him than he was, given the fact that his sister ’Umm Habībah was the Prophet's wife and that he was one of the scribes of the revelation, yet he did not narrate many Hadīths. He narrated to them that the Prophet (may Allah's peace and blessings be upon him) came out of his home one day and found them sitting in the mosque, remembering Allah and praising Him for guiding them to Islam and for bestowing favor upon them. He (may Allah's peace and blessings be upon him) asked them and demanded they swear, just as Mu‘āwiyah (may Allah be pleased with him) did with his companions. The Prophet (may Allah's peace and blessings be upon him) then informed them of the reason behind asking them and requiring them to swear, saying: Gabriel, the angel, (peace be upon him) came to him and informed him that Allah Almighty was boasting about you and taking pride in you before the angels; showing them your merit and the excellence of your deed and praising you in their presence.",
+   "grade": "Authentic",
+   "hints": [
+    "The merit of Mu‘āwiyah (may Allah be pleased with him) and his keenness to follow the Prophet's example in conveying knowledge.\r",
+    "Permissibility of asking someone to swear without accusation to draw attention to the significance of the report.\r",
+    "The merit of Dhikr (remembrance of Allah) and knowledge sessions, and the fact that Allah loves them and takes pride in them before the angels."
+   ],
+   "mapping": "same HadeethEnc record id 3007; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:49+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3007",
+   "text": "Abu Sa‘īd al-Khudri reported: Mu‘āwiyah came upon a group of people sitting in a circle in the mosque and said: What has made you sit together? They said: We have sat together to remember Allah. He said: I adjure you by Allah, has nothing else made you sit together? They replied: By Allah, nothing else has made us sit together. He said: Indeed, I have not asked you to swear because I suspect you, and there was no one in the position I was in from the Messenger of Allah (may Allah's peace and blessings be upon him) who narrates fewer Hadīths from him than me. Verily, the Messenger of Allah (may Allah's peace and blessings be upon him) came upon a group of his Companions sitting in a circle and said: \"What has made you sit together?\" They said: We have sat together to remember Allah and praise Him for having guided us to Islam and for bestowing favor upon us. He said: \"I adjure you by Allah, has nothing else made you sit together?\" They said: By Allah, nothing else has made us sit together. He said: \"Indeed, I have not asked you to swear because I suspect you, but Jibrīl (Gabriel) came and told me that Allah Almighty is boasting about you before the angels.\"",
+   "title": "Indeed, I have not asked you to swear because I suspect you, but Jibrīl (Gabriel) came and told me that Allah Almighty is boasting about you before the angels",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=3007",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:7778459582ea010954e6e1d63429b2d6eac69b3612f895bbc3bb17eaffee343e",
+   "explanation": "Mu'âwiyyah ibn Abî Sufyân (qu'Allah les agrée tous les deux) s'est rendu dans une assise dans la mosquée et a demandé aux personnes qui y étaient la raison pour laquelle ils s'étaient réunis. Alors, ils ont dit : \" Nous évoquons Allah. \" Il (qu'Allah l'agrée) leur fit jurer s'ils n'avaient voulu à travers leur assise et leur rassemblement que l'évocation d'Allah. Alors, ils lui jurèrent. Ensuite, il leur a dit : \" Certes, je ne vous demande pas de prêter serment à cause d'une quelconque accusation à votre encontre ou d'un quelconque doute sur votre véracité. \" Ensuite, il les a informés de sa position auprès du Prophète ﷺ que personne ici n'avait, étant donné qu'Umm Habîbah, l'épouse du Prophète ﷺ, était sa sœur et parce qu'il faisait aussi partie des scribes de la Révélation. Et pourtant, malgré cela, il a peu rapporté de versions de hadiths. Alors, il leur a raconté qu'un jour le Prophète ﷺ est sorti de sa demeure et il les a trouvés assis dans la mosquée en train d'évoquer Allah et de Le louer pour les avoir guidés à l'Islam et les avoir gratifiés. Alors, le Prophète ﷺ leur a demandé et les a fait jurer de la même manière que l'a faite Mu'âwiyyah (qu'Allah l'agrée) avec ses compagnons. Ensuite, le Prophète ﷺ leur a dit la raison de sa question qu'il leur a posée et pourquoi il les a fait jurer, à savoir : l'Ange Gabriel (paix sur lui) est venu à lui et l'a informé qu'Allah (Exalté et Magnifié soit-Il) se vante et tire fierté de vous auprès des Anges. Il leur montre ainsi votre mérite, Il leur fait voir votre belle œuvre et Il dresse votre éloge auprès d'eux.",
+   "grade": "Authentique",
+   "hints": [
+    "Le mérite de Mu'âwiyyah (qu'Allah l'agrée) et son assiduité à imiter le Messager d'Allah ﷺ dans la transmission de la science.\r",
+    "La permission de faire jurer une personne sans que ce soit une accusation à son encontre pour alerter sur l'importance d'une information [à transmettre].\r",
+    "Le mérite des assises du Rappel et de la science et le fait qu'Allah les aime et s'en vantent auprès des Anges."
+   ],
+   "mapping": "same HadeethEnc record id 3007; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:49+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/3007",
+   "text": "D'après Abû Saïd Al Khudrî (qu'Allah l'agrée) qui a dit : Mu'âwiyyah se rendit dans une assise dans la mosquée, une fois arrivé, il a dit : \" Qu'est-ce qui vous a fait vous asseoir ? \" Ils répondirent : \" Nous nous sommes assis ici pour évoquer Allah. \" Il demanda : \" Juriez-vous par Allah que vous ne vous êtes assis ici que pour cette raison-là !? \" Ils ont dit : \" Par Allah ! Nous nous sommes assis ici uniquement pour cette raison-là ! \" Alors, il dit : \" Je ne vous demande pas de prêter serment pour une quelconque accusation à votre encontre mais ici, personne n'a la position que j'avais auprès du Messager d'Allah ﷺ en termes de hadiths : Le Messager d'Allah ﷺ se rendit auprès de ses Compagnons qui étaient dans une assise, il leur demanda : \"Qu'est-ce qui vous a fait vous asseoir ? \" Ils répondirent : \" Nous nous sommes assis ici pour évoquer Allah et Le louer de nous avoir guidés à l'Islam et de nous avoir gratifiés. \" Il demanda : \" Juriez-vous par Allah que vous ne vous êtes assis ici que pour cette raison-là !? \" Ils ont dit : \" Par Allah ! Nous nous sommes assis ici uniquement pour cette raison-là ! \" Alors, il dit :  \" Je ne vous demande pas de prêter serment pour une quelconque accusation à votre encontre, mais [sachez que] Gabriel est venu à moi et il m'a informé qu'Allah (Exalté et Magnifié soit-Il) se vante de vous auprès des Anges. \"",
+   "title": "Je ne vous demande pas de prêter serment pour une quelconque accusation à votre encontre, mais [sachez que] Gabriel est venu à moi et il m'a informé qu'Allah (Exalté et Magnifié soit-Il) se vante de vous auprès des Anges.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3007",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:f6f764fb6411ba470339e4209d99d17a042da45049e84ebf95029cceda4dec47",
+   "explanation": "Mu'āwiyah bin Abu Sufyān -raḍiyallāhu 'anhumā- keluar menemukan sekumpulan orang di masjid lalu bertanya untuk apa mereka berkumpul. Mereka menjawab: Kami duduk untuk mengingat Allah. Maka Mu'āwiyah -raḍiyallāhu 'anhu- meminta mereka bersumpah bahwa duduk dan berkumpulnya mereka hanya untuk mengingat Allah. Lantas mereka pun bersumpah. Kemudian Mu'āwiyah berkata kepada mereka: Sungguh, aku tidak meminta kalian bersumpah karena menuduh kalian berdusta dan meragukan kejujuran kalian. Kemudian dia menyebutkan kedekatannya dengan Nabi ﷺ; bahwa tidak ada orang yang sedekat dia dengan beliau, karena Ummu Ḥabībah, saudarinya, adalah istri Nabi ﷺ dan dia termasuk penulis wahyu, kendati seperti itu dia memiliki sedikit riwayat hadis. Lalu dia menyampaikan bahwa suatu hari, Nabi ﷺ keluar dari rumahnya dan menemukan mereka sedang duduk di masjid untuk mengingat Allah dan memuji-Nya lantaran telah menunjuki mereka kepada Islam dan menganugerahkannya kepada mereka. Nabi ﷺ bertanya dan meminta mereka bersumpah sebagaimana yang dilakukan Mu'āwiyah -raḍiyallāhu 'anhu- kepada rekan-rekannya. Kemudian Nabi ﷺ menyampaikan kepada mereka tentang sebab pertanyaan beliau serta permintaan beliau agar mereka bersumpah, yaitu bahwa Malaikat Jibril -'alaihissalām- datang pada beliau dan mengabarkan bahwa Allah ﷻ memuji dan membanggakan mereka di hadapan para malaikat, yaitu dengan cara menampakkan keutamaan kalian, memperlihatkan kepada mereka amal baik kalian, dan memuji kalian di sisi mereka.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Keutamaan Mu'āwiyah -raḍiyallāhu 'anhu- dan antusiasnya untuk meneladan Rasulullah ﷺ dalam menyampaikan ilmu.\r",
+    "2- Dibolehkan meminta bersumpah tanpa memberikan tuduhan untuk mengingatkan pentingnya informasi yang didapat.\r",
+    "3- Keutamaan majelis zikir dan ilmu, yaitu Allah menyukainya dan membanggakannya di hadapan para malaikat."
+   ],
+   "mapping": "same HadeethEnc record id 3007; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:49+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3007",
+   "text": "Abu Sa'īd Al-Khudriy meriwayatkan bahwa Mu'āwiyah -raḍiyallāhu 'anhumā- keluar menemui sekumpulan orang di masjid, lalu bertanya, \"Apa yang membuat kalian berkumpul?\" Mereka menjawab, \"Kami duduk mengingat Allah.\" Dia bertanya, \"Beranikah kalian bersumpah demi Allah bahwa tidak ada yang mengumpulkan kalian kecuali hal itu?\" Mereka menjawab, \"Demi Allah! Tidak ada yang mengumpulkan kami kecuali itu.\" Dia berkata, \"Ketahuilah, sungguh aku tidak meminta kalian bersumpah karena menuduh kalian berdusta. Tidak ada seorang pun sepertiku yang memiliki kedekatan dengan Rasulullah ﷺ yang sangat sedikit riwayat hadisnya dari beliau dibanding diriku. Rasulullah ﷺ pernah keluar menemui sekumpulan sahabatnya, lalu bertanya, 'Apa yang membuat kalian berkumpul?' Mereka menjawab, 'Kami duduk mengingat Allah serta memuji-Nya karena telah menunjuki kami kepada Islam dan menganugerakannya kepada kami.' Beliau bersabda, 'Beranikah kalian bersumpah demi Allah bahwa tidak ada yang mengumpulkan kalian kecuali hal itu?' Mereka menjawab, 'Demi Allah! Tidak ada yang mengumpulkan kami kecuali itu.' Beliau bersabda, 'Ketahuilah, sungguh aku tidak meminta kalian bersumpah karena menuduh kalian berdusta, akan tetapi Jibril datang kepadaku dan mengabarkan bahwa Allah ﷻ membanggakan kalian di hadapan para malaikat.'\"",
+   "title": "'Ketahuilah, sungguh aku tidak meminta kalian bersumpah karena menuduh kalian berdusta, akan tetapi Jibril datang kepadaku dan mengabarkan bahwa Allah ﷻ membanggakan kalian di hadapan para malaikat.'",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3007",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:8aca1ae1c3ff80b3dcb24ef0f66c08a409224e4834e3615ad016e1866f35734f",
+   "explanation": "معاویہ بن ابو سفیان مسجد میں موجود ایک حلقے کے پاس پہنچے اور حلقے میں شامل لوگوں سے پوچھا کہ وہ کس مقصد سے بیٹھے ہوئے ہیں؟ لوگوں نے جواب دیا : اللہ کا ذکر کرنے کے ارادے سے۔ چنانچہ انھوں نے ان کو قسم کھانے کو کہا کہ کیا واقعی ان کے بیٹھنے اور یکجا ہونے کا مقصد اللہ کے ذکر کے سوا کچھ اور نہيں ہے؟ جب انھوں نے قسم کھا لی، تو فرمایا : میں نے تم کو قسم کھانے کو اس لیے نہيں کہا کہ میں تمھیں جھوٹا سمجھتا ہوں اور تمھارے سچے ہونے میں مجھے شبہ ہے۔ پھر انھوں نے بتایا کہ اللہ کے نبی صلی اللہ علیہ و سلم کے یہاں ان کو کیا مقام و مرتبہ حاصل تھا۔ بتایا کہ ان کو آپ سے جو قربت حاصل تھی، وہ کسی اور کو نہيں تھی۔ کیوں کہ ان کی بہن ام حبیبہ رضی اللہ عنہا اللہ کے نبی صلی اللہ علیہ و سلم کی بیوی تھیں اور خود وہ کاتبین وحی میں شامل تھے۔ لیکن اس کے باوجود انھوں نے آپ سے بہت کم حدیثیں نقل کی ہیں۔ پھر انھوں نے بتایا کہ اللہ کے نبی صلی اللہ علیہ و سلم ایک دن گھر سے نکلے، تو دیکھا کہ کچھ صحابہ مسجد میں بیٹھ کر اللہ کا ذکر کر رہے ہيں اور اسلام کی ہدایت دینے پر اس کی تعریف کر رہے ہيں۔ چنانچہ آپ نے ان سے بیٹھنے کا مقصد پوچھا اور قسم بھی کھانے کو کہا، جیسا کہ معاویہ رضی اللہ عنہ نے کیا تھا۔ پھر آپ نے اپنے ساتھیوں کو بیٹھنےکا سبب پوچھنے اور قسم کھانے کو کہنے کی وجہ بھی بتا دی۔ بتایا کہ آپ کے پاس جبریل علیہ السلام آئے تھے اور بتا رہے تھے کہ اللہ تعالی فرشتوں کے سامنے ان پر فخر و مباہات کر رہا ہے، ان کی فضیلت کا اظہار کر رہا ہے، ان کا حسن عمل دکھا رہا ہے اور ان کی تعریف کر رہا ہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "معاویہ رضی اللہ عنہ کی فضیلت اور اللہ کے رسول صلی اللہ علیہ و سلم کے نقش قدم پر چلتے ہوئے ان کا علم کی نشر و اشاعت کے جذبے سے سرشار ہونا۔\r",
+    "جھوٹ کا اندیشہ نہ ہونے کے باجود اس ارادے سے قسم کھلانا جائز ہے کہ خبر کی اہمیت واضح ہو جائے۔\r",
+    "ذِکر اور علمی اجتماعات کی فضیلت۔ اللہ اس طرح کے اجتماعات سے محبت رکھتا ہے اور فرشتوں کے سامنے ان پر فخر کرتا ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 3007; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:49+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3007",
+   "text": "ابو سعید خدری رضی اللہ عنہ بیان کرتے ہیں کہ معاویہ رضی اللہ عنہ مسجد میں لوگوں کے ایک حلقے کے پاس آئے اور پوچھا : تم یہاں کس لیے بیٹھے ہو؟ لوگوں  نے جواب دیا : ہم اللہ کا ذکر کرنے کے لیے بیٹھے ہیں۔ معاویہ رضی اللہ عنہ نے کہا : قسم کھاکر بتاؤ کہ تم صرف اسی غرض سے بیٹھے ہو؟ لوگوں  نے کہا : اللہ کی قسم ہم صرف اسی غرض سے بیٹھے ہیں۔ اس پر معاویہ رضی اللہ عنہ نےکہا کہ میں نے اس وجہ سے تم سے قسم نہیں اٹھوائی کہ مجھے تم پر شک تھا۔ کوئی شخص ایسا نہیں ہے جو میری طرح اللہ کے نبی صلی اللہ علیہ و سلم سے قربت رکھتا ہو اور آپ سے اتنی کم حدیثيں روایت کرتا ہو۔ بات یہ ہےکہ اللہ کے رسول ﷺ اپنے صحابہ کے ایک حلقے کے پاس آئے اور پوچھا : \"تم کس لیے بیٹھے ہو؟\" صحابہ  نے جواب دیا : ہم بیٹھ کر اللہ کا ذکر اور اس کی حمد و ثنا کر ر ہے ہیں کہ اس نے ہمیں دین اسلام کی راہ دکھائی اور ہمیں اپنے فضل وکرم سے یہ دین عطا کیا۔ آپ ﷺ نے فرمایا : \"قسم کھاؤ کہ تم اسی غرض سے بیٹھے ہو\"۔ انھوں نے کہا : اللہ کی قسم ہم اسی غرض سے بیٹھے ہیں۔ آپ ﷺ نے فرمایا : \"میں نے اس وجہ سے تم سے قسم نہیں اٹھوائی کہ مجھے تم پر شک ہے۔ بات دراصل یہ ہے کہ میرے پاس جبریل علیہ السلام آئے اور انھوں نے مجھے بتایا کہ اللہ تعالیٰ فرشتوں کے سامنے تم پر فخر کر تا ہے۔\"",
+   "title": "میں نے اس وجہ سے تم سے قسم نہیں اٹھوائی کہ مجھے تم پر شک ہے۔ بات دراصل یہ ہے کہ میرے پاس جبریل علیہ السلام آئے اور انھوں نے مجھے بتایا کہ اللہ تعالیٰ فرشتوں کے سامنے تم پر فخر کر تا ہے۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3007",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:33bfd145a78cf2017515ae7278b9c44175ef731ea73bc7a61b53e9a69a97f4d5",
+   "explanation": "穆阿维叶·本·苏福阳（愿主喜悦之）来到了清真寺的一个学习圈，询问他们为何而围坐在一起。 他们回答说：我们在记念安拉。 他要求他们发誓，说他们仅为记念安拉而围坐在一起。 他们便给他发誓。 随后穆阿维叶对他们说：我要求你们发誓，并不是为了污蔑你们，和怀疑你们的诚实，他还告诉他们，他在先知那里所处的地位，没有人的地位像他一样接近先知（愿主福安之），因为先知的妻子温姆·哈比拜是他的姐姐，并且他也是书写启示的人之一，尽管如此，他从使者那里传述的圣训是很少的。 然后他便告诉他们，有一天，先知（愿主福安之）从他的家里出来，发现他们坐在清真寺记念安拉，他们赞颂安拉引导他们正道，赐予他们恩典，然后先知（愿主福安之）像穆阿维叶与其同伴们所做的一般，询问他们，并让他们发誓。 然后先知（愿主福安之）告诉他们，他询问他们和要求他们发誓的原因：因为哲布拉伊天使来到他跟前告诉他，崇高的安拉将你们与天使媲美，向天使们彰显了你们的优越，使他们看到你们的善功，并在天使面前赞扬了你们。",
+   "grade": "正确的",
+   "hints": [
+    "穆阿维叶的优越，他效仿先知（愿主福安之）传播知识。\r",
+    "允许以非因质疑而要求发誓，以提醒消息的重要性。\r",
+    "记念安拉和知识的场合的尊贵，崇高的安拉喜欢这种场合，并以此与众天使媲美。"
+   ],
+   "mapping": "same HadeethEnc record id 3007; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:49+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3007",
+   "text": "艾布·赛义德·胡德利传述，他说：穆阿维叶来到了清真寺一个学习圈，然后说：你们在学习什么？众人回答说：我们在记念安拉。他说：你们以安拉发誓，你们仅为此而坐吗？众人回答说：以安拉发誓，我们确仅为此而坐。他说：我让你们发誓，并不是为了污蔑你们，与我一样临近安拉的使者的任何人，他们从使者那里所传述的圣训都不会比我少。 穆阿维叶（愿主喜悦之）传述：安拉的使者（愿主福安之）来到了他的弟子们围成的一个学习圈，然后说：“你们为何而坐在一起？”他们回答说：“我们为记念安拉而坐在一起，赞美他引导我们走向伊斯兰教，并给予我们恩典。”他说：“你们以安拉发誓，你们只为此而坐在一起。”他们说：“以安拉发誓！我们坐着只是为了这个目的。”因此，他说：“我让你们发誓，并不是为了污蔑你们，是因为哲布拉伊天使来告诉我，安拉将你们与天使相媲美。”",
+   "title": "“我让你们发誓，并不是为了污蔑你们，是因为哲布拉伊天使来告诉我，安拉将你们与天使相媲美。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

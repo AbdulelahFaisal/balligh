@@ -1,0 +1,12 @@
+{
+  "home": {
+    "quranDesc": "Lisez le texte arabe et écoutez la récitation, avec la traduction des sens.",
+    "questionsDesc": "Les réponses du cheikh Abdulaziz Ibn Baz aux questions des gens.",
+    "hadithDesc": "Des hadiths avec leur degré et leur explication publiée.",
+    "open": "Ouvrir",
+    "arabicOnly": "En arabe uniquement"
+  },
+  "list": {
+    "resetSearch": "Effacer la recherche et tout afficher"
+  }
+}

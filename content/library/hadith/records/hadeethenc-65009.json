@@ -1,0 +1,181 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:2c58e3a4019e8861cb7066d5668c43957b1a7cd961ae8fd4cd9fb4f93f042386",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "أخبر النبي صلى الله عليه وسلم عن عبد الله بن جدعان، وكان من رؤساء قريش قبل الإسلام، \nومن أفعاله الحسنة أنه: يصل أقاربه ويحسن إليهم، ويطعم المسكين، وغيرها من الفضائل التي حث الإسلام على فعلها، بأن هذه الأعمال لن تنفعه في آخرته؛ وذلك بسبب كفره بالله، وأنه لم يقل يومًا: رب اغفر لي خطيئتي يوم الدين.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "بيان فضل الإيمان، وأنه شرط لقبول الأعمال.",
+  "بيان شؤم الكفر، وأنه من مُحبطات الأعمال الصالحات.",
+  "الكفار لا تنفعهم أعمالهم في الآخرة لعدم إيمانهم بالله واليوم الآخر.",
+  "أعمال الإنسان في حال كفره تكتب له إذا أسلم، ويُجازى عليها."
+ ],
+ "id": "hadeethenc-65009",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (1/ 196) (214)، شرح النووي على مسلم (3/87)، المفهم لما أشكل من تلخيص كتاب مسلم (1/ 459)، إرشاد الساري لشرح صحيح البخاري (4/ 170)، التنوير شرح الجامع الصغير (2/364)، فتح المنعم (2/54)، البحر المحيط الثجاج في شرح صحيح الإمام مسلم بن الحجاج (3/ 455).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=65009",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:31+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/65009"
+ },
+ "source_categories": [
+  {
+   "id": "88",
+   "label": "الإسلام"
+  },
+  {
+   "id": "96",
+   "label": "الكفر"
+  }
+ ],
+ "source_record_id": "65009",
+ "text": "عَنْ عَائِشَةَ رضي الله عنها قَالَتْ: قُلْتُ: يَا رَسُولَ اللهِ، ابْنُ جُدْعَانَ كَانَ فِي الْجَاهِلِيَّةِ يَصِلُ الرَّحِمَ، وَيُطْعِمُ الْمِسْكِينَ، فَهَلْ ذَاكَ نَافِعُهُ؟ قَالَ: «لَا يَنْفَعُهُ، إِنَّهُ لَمْ يَقُلْ يَوْمًا: رَبِّ اغْفِرْ لِي خَطِيئَتِي يَوْمَ الدِّينِ».",
+ "title": "إنه لم يقل يوما: رب اغفر لي خطيئتي يوم الدين",
+ "topic": "understanding_islam",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=65009",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:7322f2b644f1f048d5838fa1b63e3492de9f93a8bf7cf4b3ce18a90597886374",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম আব্দুল্লাহ ইবনু জুদ‘আন সম্পর্কে সংবাদ দিয়েছেন, আর সে ছিল ইসলাম-পূর্ব যুগে কুরাইশদের অন্যতম নেতা। তার অন্যতম ভালো কাজ ছিল: সে আত্মীয়তার সম্পর্ক বজায় রাখত, মিসকীনদেরকে খাবার দিত, এরকম আরো অন্যান্য কাজ যেগুলো করার জন্য ইসলাম উৎসাহিত করেছে। তবে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম অবহিত করছেন যে, এসব আখিরাতে তার কোন কাজে আসবে না। এর কারণ হচ্ছে: সে আল্লাহর সাথে কুফুরী করেছে এবং সে কোনদিন বলেনি যে, হে আমার রব! বিচারের দিনে আমার ভুল-ত্রুটিগুলো ক্ষমা করে দিবেন।",
+   "grade": "সহীহ",
+   "hints": [
+    "হাদীসটিতে ঈমানের ফযীলত বর্ণনা করা হয়েছে। আর ঈমান হচ্ছে আমল কবুল হওয়ার শর্ত।\r",
+    "হাদীসটিতে কুফুরীর খারাপ দিক সম্পর্কে বর্ণনা করা হয়েছে। আর কুফুরী হচ্ছে নেক আমলসমূহকে বিনষ্টকারী।\r",
+    "আল্লাহর উপরে এবং আখিরাতের উপরে ঈমান না থাকার কারণে কাফিরদের আমলসমূহ আখিরাতে তাদের কোন উপকারে আসবে না।\r",
+    "ইসলাম গ্রহণ করলে কুফুরী অবস্থায় করা মানুষের নেক আমলসমূহ সংরক্ষিত হবে এবং সেগুলোর কারণে তাকে প্রতিদান দেওয়া হবে।"
+   ],
+   "mapping": "same HadeethEnc record id 65009; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:15+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/65009",
+   "text": "‘আয়িশাহ রাদিয়াল্লাহু ‘আনহা থেকে বর্ণিত, তিনি বলেছেন: আমি জিজ্ঞাসা করলাম: হে আল্লাহর রাসূল! ইবনু জুদ‘আন জাহিলী যুগে রক্ত সম্পর্ককে ঠিক রাখত ও মিসকীনদেরকে খাবার দিত। এগুলো কি তার কোন উপকারে আসবে? তিনি বললেন: “এটা তার কোন উপকারেই আসবে না, যেহেতু সে কোনদিনই বলেনি: “হে আমার রব, বিচার দিনে আমার ভুল-ত্রুটিগুলো ক্ষমা করে দিবেন।”",
+   "title": ", যেহেতু সে কোনদিনই বলেনি: “হে আমার রব, বিচার দিনে আমার ভুল-ত্রুটিগুলো ক্ষমা করে দিবেন।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=65009",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:87621566c7597974f119db8c8b62aa20228e3c01f22951211cfdd0550448dcfd",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) reported about ‘Abdullah ibn Jud‘ān, one of the chiefs of Quraysh before Islam. His good deeds include that he used to uphold kinship ties, feed the poor, and do other noble acts commended by Islam. The Prophet (may Allah's peace and blessings be upon him) pointed out that these deeds will not benefit him in the Hereafter because of his disbelief in Allah and the fact that he did not ever say: My Lord, forgive my sins on the Day of Judgment.",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth points out the merit of belief and that it is a requirement for accepting people's good deeds.\r",
+    "It shows the evil impact of disbelief and that it renders virtuous deeds worthless.\r",
+    "The good deeds of the disbelievers will not avail them in the Hereafter due to their lack of belief in Allah and the Last Day.\r",
+    "The honorable deeds of a disbeliever will be recorded for him if he embraces Islam, and he will be rewarded for them."
+   ],
+   "mapping": "same HadeethEnc record id 65009; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:14+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/65009",
+   "text": "‘Ā’ishah (may Allah be pleased with her) reported: I said: \"O Messenger of Allah, Ibn Jud‘ān used to uphold kinship ties and feed the poor during the Jāhiliyyah (pre-Islamic era of ignorance). Will this benefit him?\" He said: \"It will not benefit him, for he did not ever say: My Lord, forgive my sins on the Day of Judgment.\"",
+   "title": "for he did not ever say: My Lord, forgive my sins on the Day of Judgment",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=65009",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:bfab99defc7977ad3400b40828d966c01b957ad99665791dde7118e5d8c3e098",
+   "explanation": "Le Prophète (qu’Allah le couvre d’éloges et le préserve) informe à propos d'Abdoullah ibn Joud'ân, qui faisait partie des chefs de Qouraych avant l'Islam. Parmi ses belles actions : il entretenait le lien de parenté avec ses proches et était bienfaisant envers eux, il nourrissait le pauvre et [était doté] d'autres vertus auxquelles l'Islam incite. Toutefois, il ne tirera aucun profit de ces œuvres dans son au-delà. Ceci, à cause de sa mécréance en Allah et au fait qu'il n'a jamais dit : \"Seigneur ! Pardonne-moi mon péché au Jour de la Rétribution !\"",
+   "grade": "Authentique",
+   "hints": [
+    "L'explication du mérite de la foi et que c'est une condition indispensable de l'acceptation des œuvres.\r",
+    "L'explication du caractère tragique de la mécréance et qu'elle fait partie de ce qui anéanti les œuvres vertueuses.\r",
+    "Dans l'au-delà, les mécréants ne tireront pas bénéfice de leurs œuvres du fait qu'ils n'ont pas cru en Allah et au Jour Dernier.\r",
+    "Les œuvres que l'individu a accomplies alors qu'il était mécréant sont écrites en sa faveur dès lors où il devient musulman ; et il sera rétribué pour celles-ci."
+   ],
+   "mapping": "same HadeethEnc record id 65009; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:15+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/65009",
+   "text": "'Â`ichah (qu'Allah l'agrée) relate : « J'ai demandé : \"Ô Messager d'Allah ! Ibn Joud'ân entretenait le lien de parenté dans la période préislamique, et il nourrissait le pauvre. Ceci lui sera-t-il utile ? - Il a répondu : Cela ne lui sera pas utile, il n'a certes jamais dit : 'Seigneur ! Pardonne-moi mon péché au Jour de la Rétribution !'\" »",
+   "title": "il n'a certes jamais dit : 'Seigneur ! Pardonne-moi mon péché au Jour de la Rétribution !'\"",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=65009",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:9ec7934328ef3dc8e5bdf3bce3f276db7a4d4f9a168a4dad4d66cb1832572398",
+   "explanation": "Nabi ﷺ mengabarkan tentang Abdullah bin Jud'ān yang merupakan salah satu pemuka Quraisy di masa sebelum Islam, di antara perbuatan baiknya yaitu dia menyambung hubungan kerabat-kerabatnya dan berbuat baik kepada mereka, memberi makan orang miskin, dan akhlak-akhlak mulia lainnya yang dianjurkan oleh Islam untuk dilakukan, bahwa amalnya tersebut tidak akan berguna baginya di akhirat, disebabkan karena kekafirannya kepada Allah, yaitu dia tidak pernah berdoa walau satu hari: Ya Tuhanku, ampunilah kesalahanku kelak di hari kiamat.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Penjelasan mengenai keutamaan iman, bahwa ia merupakan syarat diterimanya amal.\r",
+    "2- Penjelasan tentang buruknya kekafiran dan ia merupakan pembatal amal saleh.\r",
+    "3- Orang-orang kafir tidak akan mendapatkan manfaat dari amal perbuatan mereka di akhirat sebab mereka tidak beriman kepada Allah dan hari kiamat.\r",
+    "4- Amal perbuatan seseorang di masa kafirnya akan ditulis untuknya jika dia masuk Islam, serta akan mendapatkan ganjarannya."
+   ],
+   "mapping": "same HadeethEnc record id 65009; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:15+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/65009",
+   "text": "Aisyah -raḍiyallāhu 'anhā- meriwayatkan, ia berkata, Aku pernah bertanya, \"Wahai Rasulullah! Ibnu Jud'ān biasa menyambung silaturahmi dan memberi makan orang miskin di masa jahiliah, apakah semua itu akan berguna baginya?\" Beliau menjawab, \"Itu semuanya tidak akan berguna baginya, karena dia belum pernah suatu hari mengucapkan rabbigfir lī khaṭī`atī yaumad-dīn (Tuhanku, berilah aku ampunan pada kesalahanku di hari kiamat).\"",
+   "title": "dia belum pernah suatu hari mengucapkan rabbigfir lī khaṭī`atī yaumad-dīn (Tuhanku, berilah aku ampunan pada kesalahanku di hari kiamat)",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=65009",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:caf57bcf8cbaf4fcf08af2264f0b2c09e4c97213c06760ac1a11f439136d2356",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ وسلم نے عبد اللہ بن جدعان کے بارے میں، جو کہ اسلام سے قبل قریش کا ایک سردار تھا خبر دیا- اور اس نے رشتے داروں کے ساتھ صلہ رحمی اور مسکینوں کو کھانا کھلانے جیسے کئی اچھے کام کیے تھے، جن کی ترغیب اسلام نے دی ہے، بتایا کہ یہ اعمال آخرت میں اس کے کچھ کام نہیں آئیں گے۔ کیوں کہ وہ اللہ کے ساتھ کفر کرتا تھا اور اس نے کبھی یہ دعا نہیں کی تھی کہ اے میرے رب! قیامت کے دن میرے گناہوں کو معاف کر دینا۔",
+   "grade": "صحيح",
+   "hints": [
+    "ایمان کی فضیلت کا بیان اور یہ وضاحت کہ ایمان اعمال کی قبولیت کے لیے شرط ہے۔\r",
+    "کفر کی سیہ بختی کا بیان اور یہ وضاحت کہ کفر نیکوں کو غارت کردیتا ہے۔\r",
+    "کافروں کو ان کے اعمال آخرت میں کچھ کام نہ دیں گے، کیوں کہ وہ اللہ اور یوم آخرت پر ایمان نہیں رکھتے۔\r",
+    "کفر کی حالت میں انسان جو نیک اعمال کرتا ہے، اسلام لانے کے بعد ان اعمال کا اجر و ثواب (اس کے نامۂ اعمال میں) لکھ دیا جاتا ہے اور اسے ان کا اجر و ثواب ملتا ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 65009; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:14+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/65009",
+   "text": "عائشہ رضی اللہ عنہا سے مروی ہے، وہ فرماتی ہیں: میں نے عرض کیا: اے اللہ کے رسول! ابن جدعان زمانۂ جاہلیت میں صلہ رحمی کرتا اور مسکینوں کو کھانا کھلاتا تھا۔ کیا یہ عمل اسے فائدہ پہنچائے گا؟ آپ نے فرمایا: \"یہ عمل اسے کوئی فائدہ نہیں پہنچائے گا۔ اس نے کبھی یہ نہیں کہا: اے میرے رب! قیامت کے دن میرے گناہوں کو معاف کردینا\"۔",
+   "title": "اس نے کبھی یہ نہیں کہا: اے میرے رب! قیامت کے دن میرے گناہوں کو معاف کردینا\"۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=65009",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:fa36edf886c43e8ce96377043be8ab64fa2aeba9c9d8bd3e672e98c190827012",
+   "explanation": "阿卜杜拉·本·朱德阿尼，在伊斯兰来临以前，他曾是古莱氏首领之一，关于他使者（愿主福安之）叙述道： 他所行的善行有：接续骨亲，善待他们，给穷人吃食等，均属于伊斯兰所鼓励人们应该去做的善行。使者叙述道：在后世，这所有的善行均不能有益于他，那是因为他否认了安拉，他从未说过：主啊！复生日，饶恕我的过错吧！",
+   "grade": "正确的",
+   "hints": [
+    "阐明信仰之优越，它是善功得到接纳的条件。\r",
+    "阐明不信教的不幸，这将导致所有善行无效。\r",
+    "在后世，否认者们从他们的善行中得不到裨益，那是因为他们不相信安拉和后世。\r",
+    "当一个人归信伊斯兰以后，他在归信前所行的善功将被记录，并获得报酬。"
+   ],
+   "mapping": "same HadeethEnc record id 65009; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:14+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/65009",
+   "text": "据阿伊莎（愿主喜悦之）传述说： 我说：安拉的使者啊！伊本·朱德阿尼曾在愚昧时期就接续骨亲，给穷人吃食，那会有益于他吗？使者说：“不会有益于他，因为他从未说过：主啊！在复生日饶恕我的过错吧！”",
+   "title": "因为他从未说过：主啊！在复生日饶恕我的过错吧！”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

@@ -1,0 +1,192 @@
+{
+ "attribution": "رواه أبو داود والترمذي وابن ماجه",
+ "content_sha256": "sha256:65ff97723331c14287133c34907903f28c46c708e56eaa3d5dd926246bf0430c",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "أخبر النبي صلى الله عليه وسلم أنه قد اقترب زمان يكون فيه صنف من الناس جالس، أحدهم متكئ على فراشه، يبلغه الحديث عن النبي صلى الله عليه وسلم، فيقول: الذي يَفْصِلُ بيننا وبينكم في الأمور هو القرآن الكريم فهو يكفينا، فما وجدنا فيه من حلال عملنا به، وما وجدنا فيه من حرام ابتعدنا عنه. \nثم بَيَّن النبي صلى الله عليه وسلم أن كل شيء حرّمه أو نهى عنه في سنته فهو في الحكم مثل ما حرّمه الله في كتابه؛ لأنه المبلغ عن ربه.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "تعظيم السنة كما يُعَظَّم القرآن ويؤخذ بها.",
+  "طاعة الرسول هي طاعة لله ومعصيته هي معصية لله تعالى.",
+  "ثبوت حُجِيّة السنة والرد على من يَرُدُّ السُّننَ أو ينكرها.",
+  "مَن أعرض عن السُّنَّة وادعى الاقتصار على القرآن فهو مُعرِضٌ عنهما جميعًا كاذبٌ في دعوى اتباع القرآن.",
+  "من دلائل نبوته صلى الله عليه وسلم إخباره عن شيء بأنه سيقع في المستقبل، ووقع كما أخبر."
+ ],
+ "id": "hadeethenc-65005",
+ "language": "ar",
+ "narrator": null,
+ "reference": "سنن أبي داود (7/ 13) (4604)، سنن الترمذي (4/ 399) (2664)، سنن ابن ماجه (1/ 9) (12)، نخب الأفكار في تنقيح مباني الأخبار في شرح معاني الآثار (13/ 154).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=65005",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:33+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/65005"
+ },
+ "source_categories": [
+  {
+   "id": "56",
+   "label": "أهمية السنة ومكانتها"
+  },
+  {
+   "id": "79",
+   "label": "النبوة"
+  },
+  {
+   "id": "83",
+   "label": "الحياة البرزخية"
+  }
+ ],
+ "source_record_id": "65005",
+ "text": "عن المقدام بن معدِيْكَرِب رضي الله عنه قال: قال رسول الله صلى الله عليه وسلم: «أَلَا هَلْ عَسَى رَجُلٌ يَبْلُغُهُ الْحَدِيثُ عَنِّي وَهُوَ مُتَّكِئٌ عَلَى أَرِيكَتِهِ فَيَقُولُ: بَيْنَنَا وَبَيْنَكُمْ كِتَابُ اللهِ، فَمَا وَجَدْنَا فِيهِ حَلَالًا اسْتَحْلَلْنَاهُ، وَمَا وَجَدْنَا فِيهِ حَرَامًا حَرَّمْنَاهُ، وَإِنَّ مَا حَرَّمَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ كَمَا حَرَّمَ اللهُ».",
+ "title": "ألا هل عسى رجل يبلغه الحديث عني وهو متكئ على أريكته فيقول: بيننا وبينكم كتاب الله",
+ "topic": "belief",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=65005",
+   "arabic_match": "exact",
+   "attribution": "এটি আবূ দাঊদ, তিরমিযী ও ইবনে মাজাহ বর্ণনা করেছেন।",
+   "content_sha256": "sha256:06d970ce077e104fe8dc1ce1da198eff597f1e48d65934e19a12838e98b037c3",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম সংবাদ দিয়েছেন যে, এমন একটি যামানা নিকটবর্তী হয়েছে, যে যামানাতে একদল মানুষ একত্রিত হয়ে বসে থাকবে, তাদের মধ্যে একজন তার বিছানাতে হেলান দিয়ে থাকবে, তার কাছে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের হাদীস পৌঁছালে সে বলবে: আমাদের ও তোমাদের মধ্যে সকল বিষয়ে চুড়ান্ত ফয়সালা করবে আল-কুরআনুল কারীম, আর সেটাই আমাদের জন্য যথেষ্ট। সুতরাং আমরা সেখানে যা হালাল হিসেবে দেখতে পাব, সেগুলোর উপরেই আমল করব, আর যা সেখানে হারাম হিসেবে দেখতে পাব, (শুধু) সেগুলো থেকেই দূরে থাকব। তারপরে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম আরো সংবাদ দিয়েছেন যে, তিনি যে বস্তুগুলো হারাম করেছেন, অথবা যেগুলো থেকে নিষেধ করেছেন, সেগুলোর হুকুম ঠিক আল্লাহ যেগুলো তার কিতাবে হারাম করেছেন, সেগুলোর মতই; কেননা তিনি (রাসূল সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম) তার রবের পক্ষ থেকে মুবাল্লিগ (বার্তাবাহক) মাত্র।",
+   "grade": "সহীহ",
+   "hints": [
+    "হাদীসটিতে সুন্নাহকে (হুকুমগত দিক থেকে) মর্যাদা দেওয়া হয়েছে, যেভাবে কুরআনকে মর্যাদা দেওয়া হয়। কুরআনের মতোই সুন্নাহ অনুযায়ী আমল করা হবে।\r",
+    "রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের আনুগত্যই আল্লাহর আনুগত্য এবং তার অবাধ্যতাই আল্লাহ তা‘আলার অবাধ্যতা।\r",
+    "সুন্নাহর প্রামাণিকতা সাব্যস্ত এবং যারা সুন্নাহকে প্রত্যাখ্যান করে অথবা তা অস্বীকার করে তাদের জন্য এ হাদীসে রয়েছে অপনোদন ও জবাব।\r",
+    "যে ব্যক্তি সুন্নাহ থেকে মুখ ফিরিয়ে নেয় আর কুরআনের উপরে সীমাবদ্ধ থাকার দাবী করে, সে মূলত কুরআন ও সুন্নাহ উভয় থেকেই মুখ ফিরিয়ে নেয়। বস্তুত সে কুরআন অনুসরণের দাবীর ক্ষেত্রে মিথ্যুক।\r",
+    "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের নবুওতের দলিলের মধ্যে অন্যতম হচ্ছে, ভবিষ্যতে ঘটিতব্য বিষয়ের বর্ণনা প্রদান করা। আর সেগুলো তিনি যে রকম বলেছেন, ঠিক অনুরূপ ঘটা।"
+   ],
+   "mapping": "same HadeethEnc record id 65005; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:24+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/65005",
+   "text": "আল-মিকদাম ইবনু মা‘দী কারিব রাদিয়াল্লাহু ‘আনহু হতে বর্ণিত, তিনি বলেছেন, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন: “সাবধান! অচিরেই এমন ব্যক্তির উদ্ভব হবে যে তার আসনে হেলান দেওয়া অবস্থায় বসে থাকবে এবং তার কাছে আমার থেকে হাদীস পৌঁছালে সে বলবে: আমাদের ও তোমাদের মাঝে আল্লাহর কিতাবই রয়েছে। সুতরাং আমরা তাতে যা হালাল পাবো তাকেই হালাল গণ্য করব এবং তাতে যা হারাম পাবো তাকেই হারাম গণ্য করব। জেনে রাখ, প্রকৃত অবস্থা হল এই যে, নিশ্চয় রাসূলুল্লাহ যা হারাম করেছেন তা আল্লাহ যা হারাম করেছেন তার মতই হারাম।”",
+   "title": "“সাবধান! অচিরেই এমন ব্যক্তির উদ্ভব হবে যে তার আসনে হেলান দেওয়া অবস্থায় বসে থাকবে এবং তার কাছে আমার থেকে হাদীস পৌঁছালে সে বলবে: আমাদের ও তোমাদের মাঝে আল্লাহর কিতাবই রয়েছে।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=65005",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Abu Dāwūd, At-Tirmidhi, and Ibn Mājah",
+   "content_sha256": "sha256:0f7a8a818e3a24569f4d326cf8a401e90d97938f5119f20ed47f5866b4e9d9df",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) reports that there will soon come a time in which some type of people will be sitting, with one of them reclining on his couch, and when a Hadīth from the Prophet (may Allah's peace and blessings be upon him) reaches him, he will say: What decides the matters between you and us is the noble Qur’an. It is sufficient for us. What we find therein as lawful, we act upon it, and what we find therein as unlawful, we avoid it. Then, the Prophet (may Allah's peace and blessings be upon him) pointed out that anything he prohibited or forbade in his Sunnah is the same as what Allah prohibited in His Book, for he only conveys from his Lord.",
+   "grade": "Authentic",
+   "hints": [
+    "The Sunnah should be highly valued and observed like the Qur’an.\r",
+    "Obedience to the Messenger is obedience to Allah Almighty and disobeying him is disobedience to Allah.\r",
+    "It establishes the authority of the Sunnah and responds to those who reject the Sunnah or deny it.\r",
+    "Whoever turns away from the Sunnah and claims that he only adheres to the Qur’an does actually turn away from both of them, and his claim about following the Qur’an is false.\r",
+    "This is one of the proofs of the Prophet's prophethood, as he informed about certain things that would happen in the future, and it did happen as he informed."
+   ],
+   "mapping": "same HadeethEnc record id 65005; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:24+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/65005",
+   "text": "Al-Miqdām ibn Ma‘dikarib (may Allah be pleased with him) reported: The Messenger of Allah (may Allah's peace and blessings be upon him) said: \"Lo! Soon a Hadīth from me will be conveyed to a man, while he is reclining on his couch, and he says: ‘Between us and you is Allah’s Book. So, whatever we find in it that is lawful, we consider lawful, and whatever we find in it that is unlawful, we consider unlawful.’ Indeed, whatever the Messenger of Allah made unlawful, it is the same as what Allah made unlawful.\"",
+   "title": "Lo! Soon a Hadīth from me will be conveyed to a man, while he is reclining on his couch, and he says: ‘Between us and you is Allah’s Book",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=65005",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Abû Dâwud, At-Tirmidhî et Ibn Mâjah",
+   "content_sha256": "sha256:852c22ac971c2e5b93c814d39d44be1bda4af010191377e1dd60abd41c390912",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) a informé au sujet d'une époque qui s'approche. Il s'y trouvera de tels individus, que lorsque l'un d'eux sera accoudé à son lit tandis qu'un hadith du Prophète (qu'Allah le couvre d'éloges et le préserve) lui sera transmis, il dira : \"Ce qui tranche entre nous et vous dans les affaires c'est le Noble Coran, et il nous suffit. Ainsi donc, ce que nous y trouvons de décrit comme licite, nous œuvrons en fonction, et ce que nous y trouvons de décrit comme illicite, nous nous en éloignons.\" Ensuite, le Prophète (qu'Allah le couvre d'éloges et le préserve) a expliqué que toute chose qu'il a déclarée illicite ou interdite dans sa Tradition a le même statut que ce qu'Allah a déclaré illicite dans Son Livre. Ceci, parce qu'il transmet de la part de son Seigneur.",
+   "grade": "Authentique",
+   "hints": [
+    "Considérer la Tradition prophétique au même titre que le Coran est considéré, et savoir que l'on prend d'elle [aussi le licite et l'illicite].\r",
+    "L'obéissance au Messager, c'est l'obéissance à Allah et lui désobéir c'est de la désobéissance à Allah, Exalté soit-Il.\r",
+    "La validité d'argumenter par la Tradition prophétique et la réponse à quiconque la réfute ou nie son statut.\r",
+    "Quiconque se détourne de la Tradition prophétique et prétend se contenter du Coran s'est détourné des deux, et ment quant à sa prétention de suivre le Coran.\r",
+    "Parmi les preuves de la prophétie du Messager d'Allah (qu'Allah le couvre d'éloges et le préserve), le fait qu'il ait annoncé qu'une chose se produirait dans le futur et que celle-ci se soit réalisée comme il l'avait annoncée (qu'Allah le couvre d'éloges et le préserve)."
+   ],
+   "mapping": "same HadeethEnc record id 65005; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:24+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/65005",
+   "text": "Al-Miqdâm ibn Ma'dîkarib (qu'Allah l'agrée) relate que le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) a dit : « N'est-ce pas qu'il se peut qu'un homme reçoive un récit provenant de moi, alors qu'il est accoudé sur son lit, et qu'il dise alors : \"Entre nous et vous, il y a le Livre d'Allah !. Ce que nous y trouvons de licite, nous le déclarons licite et ce que nous y trouvons d'illicite, nous le déclarons illicite.\" Et pourtant ce que le Messager d'Allah (qu'Allah le couvre d'éloge et le préserve), a interdit est comme ce qu'Allah a interdit. »",
+   "title": "N'est-ce pas qu'il se peut qu'un homme reçoive un récit provenant de moi, alors qu'il est accoudé sur son lit, et qu'il dise alors : \"Entre nous et vous, il y a le Livre d'Allah !",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=65005",
+   "arabic_match": "exact",
+   "attribution": "HR. Abu Daud, Tirmizi, dan Ibnu Majah",
+   "content_sha256": "sha256:ee8be8053c2185bfbdb9483c3e67c7fd18e97fa680c50453b004e4c55457222b",
+   "explanation": "Nabi ﷺ mengabarkan bahwa hampir tiba waktu munculnya sekelompok orang, seseorang dari mereka duduk di atas sofanya ketika sampai kepadanya hadis dari Nabi ﷺ, lantas dia berkata, \"Yang memutuskan antara kami dan kalian dalam semua urusan ialah Al-Qur`an Al-Karim. Cukup Al-Qur`an bagi kita. Apa yang kita dapatkan halal menurutnya, maka kita melakukannya. Apa yang kita dapatkan haram menurutnya, maka kita menjauhinya.\" Kemudian Nabi ﷺ menjelaskan bahwa segala sesuatu yang beliau haramkan atau yang beliau larang di dalam Sunnah beliau, pengharaman itu hukumnya sama seperti yang diharamkan oleh Allah di dalam Kitab-Nya, sebab beliau sebagai penyampai dari Tuhannya.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Menjunjung tinggi Sunnah dan mengamalkannya sebagaimana Al-Qur`an dijunjung tinggi dan diamalkan.\r",
+    "2- Ketaatan kepada Rasul adalah bentuk ketaatan kepada Allah, dan kemaksiatan kepada beliau adalah kemaksiatan kepada Allah Ta'ala.\r",
+    "3- Kesahihan hujah Sunnah dan bantahan terhadap orang yang menolak Sunnah atau mengingkarinya.\r",
+    "4- Orang yang berpaling dari Sunnah dan berdalih mencukupkan diri pada Al-Qur`an sejatinya dia berpaling dari keduanya sekaligus, serta berbohong dalam klaim mengikuti Al-Qur`an.\r",
+    "5- Di antara bukti kenabian beliau ﷺ ialah pemberitahuan beliau terkait sesuatu yang akan terjadi di masa depan, dan itu memang ia terjadi sebagaimana yang dikabarkan."
+   ],
+   "mapping": "same HadeethEnc record id 65005; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:24+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/65005",
+   "text": "Al-Miqdām bin Ma'dīkarib meriwayatkan, ia berkata, Rasulullah ﷺ bersabda, \"Ketahuilah, hampir tiba waktunya, hadisku sampai kepada seseorang sementara dia bersandar di sofanya, lalu dia berkata, 'Hakim antara kami dan kalian adalah Kitabullah. Apa yang kita temukan halal menurutnya, maka kita halalkan; dan apa yang kita temukan haram menurutnya, maka kita haramkan.' Padahal, apa yang diharamkan oleh Rasulullah ﷺ sama seperti yang diharamkan oleh Allah.\"",
+   "title": "Ketahuilah, hampir tiba waktunya, hadisku sampai kepada seseorang sementara dia bersandar di sofanya, lalu dia berkata, 'Hakim antara kami dan kalian adalah Kitabullah",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=65005",
+   "arabic_match": "exact",
+   "attribution": "رواه أبو داود والترمذي وابن ماجه",
+   "content_sha256": "sha256:bbb62a6b188b47adfb84473fd5ec39bc516aed7844e64e09aa7b647b937fb513",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ وسلم نے اس حدیث میں بتایا ہے کہ وہ وقت قریب آچکا ہے، جب ایسے لوگ ظاہر ہوں گے کہ ان میں سے ایک آدمی اپنی مسند پر بیٹھا ہوگا اور جب اس کے پاس اللہ کے نبی صلی اللہ علیہ وسلم کی حدیث پہنچے گی، تو وہ کہے گا کہ تمام معاملات میں ہمارے اور تمہارے درمیان فیصلہ کرنے والی چیز قرآن مجید ہے۔ وہی ہمارے لیے کافی ہے۔ ہم اس میں جو چیز حلال پائیں گے، اسی پر عمل کریں گے اور اس میں جو چیز حرام پائیں گے، اسی سے اجتناب کریں گے۔ اس کے بعد اللہ کے نبی صلی اللہ علیہ وسلم نے وضاحت فرما دی کہ ہر وہ چیز جسے آپ  نے اپنی سنت میں حرام ٹھہرایا یا اس سے منع فرمایا، اس کا بھی حکم وہی ہے، جو حکم قرآن میں اللہ کی حرام کردہ چیزوں کا ہے، کیوں کہ آپ اپنے رب کی جانب سے دین پہنچانے والے کی حیثیت سے آئے تھے۔",
+   "grade": "صحيح",
+   "hints": [
+    "حدیث کی تعظیم بھی اسی طرح کی جائے گی جس طرح قرآن کی کی جاتی ہے اور اس پر عمل بھی قرآن ہی طرح کیا جائے گا۔\r",
+    "رسول کی اطاعت در اصل اللہ کی اطاعت ہے اور رسول کی نافرمانی در اصل اللہ تعالی کی نافرمانی ہے۔\r",
+    "حدیث کی حجیت کا ثبوت اور احادیث کا رد یا انکار کرنے والے  کی تردید۔\r",
+    "جو شخص حدیث سے اعراض کرے اور صرف قرآن پر اکتفا کرنے کا دعوی کرے، وہ در اصل قرآن و حدیث دونوں سے اعراض کرنے والا ہے اور اتباع قرآن کے دعوے میں جھوٹا ہے۔\r",
+    "نبی صلی اللہ علیہ وسلم کی نبوت کی ایک نشانی یہ بھی ہے کہ آپ نے مستقبل میں کسی چیز کے واقع ہونے کی پیشین گوئی فرمائی اور وہ چیز ہوبہو اسی طرح واقع ہو بھی گئی۔"
+   ],
+   "mapping": "same HadeethEnc record id 65005; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:24+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/65005",
+   "text": "مقداد بن معدیکرب رضی اللہ عنہ سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: \"خبردار رہو! قریب ہے کہ کوئی آدمی اپنے آراستہ تخت پر ٹیک لگائے بیٹھا ہو اور اس کے پاس میری حدیث پہنچے تو کہے: ہمارے اور تمہارے درمیان (فیصلے کی چیز) بس اللہ کی کتاب ہے۔ اس میں جو چیز ہم حلال پائیں گے اسی کو حلال سمجھیں گے اور اس میں جو چیز حرام پائیں گے اسی کو ہم حرام جانیں گے۔ یاد رکھو! بلاشک و شبہ رسول اللہ ﷺ نے جو چیز حرام قرار دے دی ہے، وہ ویسے ہی حرام ہے، جیسے کہ اللہ کی حرام کی ہوئی چیز\"۔",
+   "title": "خبردار رہو! قریب ہے کہ کوئی آدمی اپنے آراستہ تخت پر ٹیک لگائے بیٹھا ہو اور اس کے پاس میری حدیث پہنچے تو کہے: ہمارے اور تمہارے درمیان (فیصلے کی چیز) بس اللہ کی کتاب ہے",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=65005",
+   "arabic_match": "exact",
+   "attribution": "艾布·达吾德、提尔米兹和伊本·马哲辑录",
+   "content_sha256": "sha256:8691498510b3a7b4190fb4ae1d1857ffe290a5769d26d4502b289676014dc412",
+   "explanation": "先知（愿主福安之）叙说道：末日临近之时，将有一伙人出现，他们坐在一起，其中有人靠在自己的沙发上，当有人给他们传达我的圣训之时，他会说：“在一些事物中，区分我们和你们的是古兰经，它使我们足矣，凡古兰经提到的合法之事，我们遵行之，凡古兰经提到的非法之事，我们远离之。” 先知（愿主福安之）接着说明：在他的圣训当中，凡定为非法或禁止的事物，在教法判令方面，等同于安拉在其经典中所禁止的事物，因为先知是他的养主的传达者。",
+   "grade": "正确的",
+   "hints": [
+    "要像尊崇古兰经一般尊崇圣训，并且尊行之。\r",
+    "顺从使者即顺从安拉，违抗使者即违抗安拉。\r",
+    "肯定圣训可作为立法之证据，反驳那些不以圣训为据，或憎恶圣训之人。\r",
+    "凡背离圣训，妄言只遵守古兰经之人，其实他已经背离了此两者，他妄言追随古兰经只是一句谎言而已。\r",
+    "预言将来要发生的事情，而后预言成真，这是使者之圣品的明证之一。"
+   ],
+   "mapping": "same HadeethEnc record id 65005; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:24+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/65005",
+   "text": "据米格达迪·本·麦尔迪·克拉布（愿主喜悦之）传述说：安拉的使者（愿主福安之）说： “注意！或许有人听到了我的言语，而他却靠在自己的沙发上说：‘我们与你们之间有安拉的经典，其中所提到的合法之事，我们即视为合法，其中所提到的非法之事，我们即视为非法。’的确，安拉的使者所禁止的事情，如同安拉所禁止的一般。",
+   "title": "“注意！或许有人听到了我的言语，而他却靠在自己的沙发上说：‘我们与你们之间有安拉的经典",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

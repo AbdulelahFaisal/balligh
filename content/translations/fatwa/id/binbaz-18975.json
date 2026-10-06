@@ -1,0 +1,52 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-18975",
+ "source_content_sha256": "sha256:e3ac7d234783a58714dc2cc452f55fdbd54ffc4d38a2b5a6d93a70074b4926ef",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:21:43.097727+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 596,
+  "completion_tokens": 503,
+  "total_tokens": 1099,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 596
+ },
+ "latency_ms": 5443,
+ "units": [
+  {
+   "id": "title",
+   "text": "Apa makna dua kalimat syahadat?"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Dari pertanyaan-pertanyaan penanya ini dari Riyadh, dia berkata: Apa makna (kesaksian bahwa tidak ada tuhan yang berhak disembah selain Allah dan bahwa Muhammad adalah utusan Allah)?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Makna syahadat: hendaknya dia bersaksi dengan lisan dan hatinya bahwa tidak ada sesembahan yang hak selain Allah, dia bersaksi dengan lisannya dan meyakini dengan hatinya bahwa tidak ada tuhan selain Allah, yaitu: tidak ada sesembahan yang hak selain Allah, dan bahwa apa yang disembah manusia selain Allah berupa berhala-berhala, orang-orang mati, pepohonan, batu-batuan, malaikat-malaikat atau selainnya semuanya batil sebagaimana firman Allah Ta'ala: ⟦Q1⟧ [Al-Hajj: 62], inilah makna kesaksian bahwa tidak ada tuhan yang berhak disembah selain Allah, yaitu engkau bersaksi atas dasar ilmu, keyakinan, dan kejujuran bahwa tidak ada sesembahan yang hak selain Allah, dan bahwa apa yang disembah manusia selain Allah semuanya batil."
+  },
+  {
+   "id": "a2",
+   "text": "Dan makna kesaksian (bahwa Muhammad adalah utusan Allah) adalah engkau bersaksi atas dasar ilmu, keyakinan, dan kejujuran bahwa Muhammad bin Abdullah bin Abdul Muththalib adalah benar-benar utusan Allah kepada seluruh dua golongan makhluk, jin dan manusia, dan bahwa dia adalah penutup para nabi, tidak ada nabi setelahnya, shalawat dan salam atasnya. Ya."
+  },
+  {
+   "id": "a3",
+   "text": "Pembawa acara: Semoga Allah menjaga Anda."
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "answer": [
+  [
+   {
+    "kind": "text",
+    "text": "ج: لا يشترط الاستنجاء لكل وضوء، وإنما يجب الاستنجاء من البول والغائط وما يلحق بهما، أما غيرهما من النواقض؛ كالريح، ومس الفرج، وأكل لحم الإبل، والنوم، فلا يشرع له الاستنجاء، بل يكفي في ذلك الوضوء الشرعي: وهو غسل الوجه، ويدخل فيه المضمضة والاستنشاق، وغسل اليدين مع المرفقين، ومسح الرأس مع الأذنين، وغسل الرجلين مع الكعبين، كما في قوله : "
+   },
+   {
+    "kind": "quran",
+    "text": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قُمْتُمْ إِلَى الصَّلاةِ فَاغْسِلُوا وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى الْمَرَافِقِ وَامْسَحُوا بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى الْكَعْبَيْنِ"
+   },
+   {
+    "kind": "text",
+    "text": " [المائدة: 6]"
+   },
+   {
+    "kind": "noteref",
+    "note": "1",
+    "text": "[1]"
+   },
+   {
+    "kind": "text",
+    "text": "."
+   }
+  ]
+ ],
+ "content_sha256": "sha256:389949e56a09c4ceedb296c2c31afc48f5533d37d22b88564df43c034255ac99",
+ "id": "binbaz-3594",
+ "language": "ar",
+ "notes": [
+  {
+   "id": "1",
+   "runs": [
+    {
+     "kind": "text",
+     "text": "مجموع فتاوى ومقالات الشيخ ابن باز (10/ 33)."
+    }
+   ]
+  }
+ ],
+ "question": [
+  [
+   {
+    "kind": "strong",
+    "text": "س:"
+   },
+   {
+    "kind": "text",
+    "text": " هل يشـترط الاستنجاء لكل وضوء؟"
+   }
+  ]
+ ],
+ "raw_sha256": "sha256:80384ee614cad6d83c0e375665ecce99cacc83ce3b4c80c8686233eae561ccf8",
+ "reuse_basis": "user_confirmed_permission",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.fatwa/2",
+ "source": {
+  "edition": null,
+  "publisher": "binbaz.org.sa",
+  "publisher_name": "موقع الشيخ ابن باز",
+  "retrieved_at": "2026-10-06T05:08:41+00:00",
+  "series": "مجموع الفتاوى",
+  "url": "https://binbaz.org.sa/fatwas/3594/%D9%87%D9%84-%D9%8A%D8%B4%D8%AA%D8%B1%D8%B7-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%86%D8%AC%D8%A7%D8%A1-%D9%84%D9%83%D9%84-%D9%88%D8%B6%D9%88%D8%A1"
+ },
+ "source_categories": [
+  {
+   "id": "14",
+   "label": "فروض الوضوء وصفته",
+   "url": "https://binbaz.org.sa/categories/fiqhi/14"
+  }
+ ],
+ "source_record_id": "3594",
+ "title": "هل يشترط الاستنجاء لكل وضوء؟",
+ "topic": "worship",
+ "translations": {},
+ "type": "fatwa"
+}

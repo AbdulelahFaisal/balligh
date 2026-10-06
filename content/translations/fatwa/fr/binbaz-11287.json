@@ -1,0 +1,52 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-11287",
+ "source_content_sha256": "sha256:b26bb5b0eaade453d702a608ce15da4f0389daac93fedfea64aafe8d6a21340b",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:30:31.034564+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 614,
+  "completion_tokens": 499,
+  "total_tokens": 1113,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 614
+ },
+ "latency_ms": 4952,
+ "units": [
+  {
+   "id": "title",
+   "text": "Que signifie : « Dans le paradis il y a une porte appelée Ar-Rayyân » ?"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "La questionneuse dit dans cette question : Ce qui est rapporté dans le hadith : « Dans le paradis il y a une porte appelée Ar-Rayyân, seuls les jeûneurs y entrent » – cela signifie-t-il que par « jeûneurs » on entend ceux qui jeûnent uniquement le mois de Ramadan, ou bien ceux qui jeûnent les jeûnes surérogatoires comme le lundi et le jeudi et les jours blancs ? Éclairez-nous, qu'Allah vous récompense."
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Ce que cela vise : les jeûneurs du jeûne obligatoire, ceux qui observent assidûment le jeûne obligatoire, celui de Ramadan, ainsi que ce qu'Allah leur a imposé comme jeûnes expiatoires et de vœux. Ceux-là ont une porte ; la porte Ar-Rayyân, ils entrent par elle. Lorsqu'ils sont entrés, elle est fermée."
+  },
+  {
+   "id": "a2",
+   "text": "Et s'ils ont d'autres œuvres, ils seront appelés par de nombreuses portes, mais ils entrent par cette porte, la porte du jeûne. Le croyant qui accomplit la prière, s'acquitte de la zakah, jeûne le Ramadan et craint Allah ; il sera appelé par toutes les portes. Mais cette porte, seuls y entrent avec lui les jeûneurs qui ont observé assidûment l'accomplissement du jeûne obligatoire, oui."
+  },
+  {
+   "id": "a3",
+   "text": "Présentateur : Qu'Allah vous récompense par le bien."
+  }
+ ]
+}

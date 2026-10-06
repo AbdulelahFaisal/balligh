@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-854",
+ "source_content_sha256": "sha256:0a8800750c460d83024d40a1bdd4c4a360ddbdce8039f1dcbbd5c7666b1c0efc",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:25:15.869299+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 648,
+  "completion_tokens": 407,
+  "total_tokens": 1055,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 648
+ },
+ "latency_ms": 5072,
+ "units": [
+  {
+   "id": "title",
+   "text": "皈依伊斯兰后更改姓名"
+  },
+  {
+   "id": "q0",
+   "text": "问：阿卜杜勒阿齐兹·本·阿卜杜拉·本·巴兹致尊敬的兄弟哈 - 米 - 拉，愿真主赐予他成功。愿真主的平安、慈悯与吉庆降临于你们。之后：\n这是对你们于伊斯兰历1409年9月13日发出的尊贵信函的答复，信中询问关于新皈依伊斯兰的人将其旧名改为伊斯兰名字的教法规定，以及是否必须这样做？"
+  },
+  {
+   "id": "a0",
+   "text": "答：我告诉你们，伊斯兰教法的证据中没有任何规定要求被真主引导至伊斯兰的人必须更改其姓名，除非教法上有理由要求这样做，例如名字中崇拜真主以外的对象，如“阿卜杜勒麦西哈”（基督的仆人）等，或者名字不适宜使用，而其他名字更佳，例如将“哈兹恩”（忧愁）改为“赛赫勒”（容易），以及类似的不适宜使用的名字。但将崇拜真主以外对象的名字改为崇拜真主的名字是必须的，除此之外的更改只是出于优选和更佳。第二类中包括基督徒常用且听者会误以为其主人是基督徒的名字，因此更改这类名字是非常合适的。\n愿真主使所有人顺利地做他所喜爱和满意的事，并赐予我们和你们对宗教的理解和坚持。愿真主的平安、慈悯与吉庆降临于你们⟦N1⟧。"
+  },
+  {
+   "id": "n0.0",
+   "text": "（谢赫伊本·巴兹教法判例与文章集：4/153）"
+  }
+ ]
+}

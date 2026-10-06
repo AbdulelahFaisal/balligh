@@ -1,0 +1,177 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:17114548c422367fea3404b01031a00e73995118bfdcc3586a4208e17f5ba490",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "رَأى النبيُّ صلى الله عليه وسلم رجلًا يَأكلُ بيدِه الشمال، فأَمَرَه أن يَأكلَ بيدِه اليمنى، \nفأجابه الرجل تَكَبُّرًا وكَذِبًا بأنه لا يستطيع! \nفدعا عليه النبيُّ صلى الله عليه وسلم أن يُحْرَمَ الأكلَ باليمين، \nفأجاب الله دعوةَ نبيِّه بأنْ شُلَّتْ يَمينُه، فلم يرفعْها إلى فمِهِ بعد ذلك بطعام أو شراب.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "وجوب الأكل باليمين، وحرمة الأكل بالشمال.",
+  "الاستكبار عن تطبيق الأحكام الشرعية يستحق فاعلُه العقوبةَ.",
+  "إكرام الله لنبيه محمد صلى الله عليه وسلم بإجابة دعوته.",
+  "مشروعية الأمر بالمعروف والنهي عن المنكر على كل حالٍ حتى في حالِ الأكل."
+ ],
+ "id": "hadeethenc-3372",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (3/ 1599) (2021).\nبهجة الناظرين شرح رياض الصالحين، لسليم الهلالي (1/ 239).\nنزهة المتقين شرح رياض الصالحين، لمجموعة من الباحثين (1/ 183).\nكنوز رياض الصالحين، لمجموعة من الباحثين (3/ 396).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3372",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:50+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3372"
+ },
+ "source_categories": [
+  {
+   "id": "290",
+   "label": "آداب الأكل والشرب"
+  }
+ ],
+ "source_record_id": "3372",
+ "text": "عَنْ سَلَمَةَ بْنِ الْأَكْوَعِ رضي الله عنه: أَنَّ رَجُلًا أَكَلَ عِنْدَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِشِمَالِهِ، فَقَالَ: «كُلْ بِيَمِينِكَ»، قَالَ: لَا أَسْتَطِيعُ، قَالَ: «لَا اسْتَطَعْتَ»، مَا مَنَعَهُ إِلَّا الْكِبْرُ، قَالَ: فَمَا رَفَعَهَا إِلَى فِيهِ.",
+ "title": "أن رجلا أكل عند رسول الله صلى الله عليه وسلم بشماله، فقال: كل بيمينك، قال: لا أستطيع، قال: لا استطعت",
+ "topic": "conduct",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3372",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:e9cc2f91da1e56e2aff459f13b4e68d3816f111c8f2f7e4ccd8532abc6bfeaa8",
+   "explanation": "রাসূলুল্লাহ সাল্লাল্লাহু ’আলাইহি ওয়াসাল্লাম এক ব্যক্তিকে বাম হাতে আহার করতে দেখলেন। তিনি তাকে ডান হাতে আহার করতে নির্দেশ দিলেন। কিন্তু লোকটি অহংকার ও অস্বীকার করে উত্তর দিল যে, সে ডান হাতে আহার করতে পারে না। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার জন্যে বদ-দো‘আ করলেন যে, সে যেন ডান হাতে খেতে না পারে। আল্লাহ তা‘আলা তাঁর নবীর দো‘আ কবুল করলেন। তার ডান হাত অবশ হয়ে যায়। এর পর থেকে সে আর ডান হাত দিয়ে খাবার ও পানীয় মুখে তুলতে পারতো না।",
+   "grade": "সহীহ",
+   "hints": [
+    "ডান হাত দিয়ে খাবার খাওয়া ওয়াজিব এবং বাম হাত দিয়ে খাবার খাওয়া হারাম।\r",
+    "ইসলামী শরী‘আহর হুকুম বাস্তবায়নে অহংকারকারী শাস্তির উপযুক্ত।\r",
+    "আল্লাহ তা‘আলা তাঁর নবী মুহাম্মদ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের দো‘আ কবুল করার মাধ্যমে তাকে সম্মান দিয়েছেন।\r",
+    "সর্বাবস্থায় সৎকাজের আদেশ ও অসৎ কাজের নিষেধ করা শরী‘আহ অনুমোদিত এমনকি খাবার গ্রহণের সময়ও।"
+   ],
+   "mapping": "same HadeethEnc record id 3372; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:18+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3372",
+   "text": "সালামা ইবনুল আকওয়া‘ রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, তিনি বলেন: أَنَّ رَجُلًا أَكَلَ عِنْدَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِشِمَالِهِ، فَقَالَ: «كُلْ بِيَمِينِكَ»، قَالَ: لَا أَسْتَطِيعُ، قَالَ: «لَا اسْتَطَعْتَ»، مَا مَنَعَهُ إِلَّا الْكِبْرُ، قَالَ: فَمَا رَفَعَهَا إِلَى فِيهِ.\nএক ব্যক্তি রাসূলুল্লাহ সাল্লাল্লাহু ’আলাইহি ওয়াসাল্লামের পাশে বাম হাতে আহার করছিল। তিনি বললেন: “তুমি তোমার ডান হাতে আহার করো।” সে বললো, আমি পারবো না । তিনি বললেন: “তুমি যেন না-ই পারো।” একমাত্র অহংকারই তাকে বাধা দিচ্ছে। সালামা রাদিয়াল্লাহু ‘আনহু বলেন, সে আর তার ডান হাত মুখের কাছে তুলতে পারেনি।",
+   "title": "أَنَّ رَجُلًا أَكَلَ عِنْدَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِشِمَالِهِ، فَقَالَ: «كُلْ بِيَمِينِكَ»، قَالَ: لَا أَسْتَطِيعُ، قَالَ: «لَا اسْتَطَعْتَ",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3372",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:02c2bec2ec98c9205e0b9f8695fdf2e90ad28ecd2d1e5d6b263dcef0ead25b05",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) saw a man eating with his left hand, so, he ordered him to eat with his right hand. The man lied and said, out of arrogance, that he could not do this. So, the Prophet (may Allah's peace and blessings be upon him) supplicated against him to be deprived of the ability to eat with his right hand. Allah fulfilled His Prophet's supplication and the man's right hand was paralyzed and he could not raise it to his mouth after that with any food or drink.",
+   "grade": "Authentic",
+   "hints": [
+    "It is obligatory to eat with the right hand and it is prohibited to eat with the left hand.\r",
+    "Disdaining to apply the Shariah rulings makes one worthy of punishment.\r",
+    "Allah Almighty honored His Prophet Muhammad (may Allah's peace and blessings be upon him) by answering his supplication.\r",
+    "The legitimacy of enjoining good and forbidding evil in all situations even while eating."
+   ],
+   "mapping": "same HadeethEnc record id 3372; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:18+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3372",
+   "text": "Salamah ibn al-Akwa‘ (may Allah be pleased with him) reported: A man ate with his left hand in the presence of the Messenger of Allah (may Allah's peace and blessings be upon him), whereupon he said: \"Eat with your right hand.\" The man said: I cannot do that. Thereupon, he said: \"May you not be able to do that.\" It was only arrogance that prevented him. He said: He could not raise it up to his mouth afterward.",
+   "title": "A man ate with his left hand in the presence of the Messenger of Allah (may Allah's peace and blessings be upon him), whereupon he said: \"Eat with your right hand.\" The man said: I cannot do that. Thereupon, he said: \"May you not be able to do that",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=3372",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:420d67faf66362fb8a0db19d41376f39ad1f52278437dbe0dae334d897b51f2a",
+   "explanation": "Le Prophète ﷺ vit un homme qui mangeait de la main gauche, alors il lui a ordonné de manger de sa main droite. Mais, par orgueil et mensonge, l'homme répondit qu'il ne pouvait pas ! Alors, le Prophète ﷺ a invoqué contre lui afin qu'il ne puisse plus manger de la main droite. Allah a alors répondu à l'invocation de Son Prophète ﷺ de sorte que la main de cet homme est devenue paralysée et après cela ce dernier n'a plus pu lever sa main pour manger ou boire avec.",
+   "grade": "Authentique",
+   "hints": [
+    "L'obligation de manger de la main droite et l'interdiction de manger de la main gauche.\r",
+    "L'enorgueillissement à ne pas appliquer les décrets religieux légaux entraîne la punition pour la personne fautive.\r",
+    "Allah ﷻ a honoré Son Prophète Muhammad ﷺ en répondant à son invocation.\r",
+    "La prescription d'ordonner le convenable et d'interdire le blâmable en toute situation, même au moment de manger."
+   ],
+   "mapping": "same HadeethEnc record id 3372; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:19+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/3372",
+   "text": "D'après Salamah ibn Al Akwaʽ (qu'Allah l'agrée) : Un homme mangeait de la main gauche en présence du Messager d’Allah ﷺ. Ce dernier lui a alors dit : - « Mange de la main droite ! »\n- « Je ne peux pas. »  répondit l’homme.\n- « Puisses-tu ne jamais pouvoir ! » répliqua le Prophète ﷺ.\nEn effet, seul l’orgueil l’a empêché [d’obéir au Prophète ﷺ]. Il [Salamah Ibn Al Akwa']  a dit : \" [À la suite de cela] plus jamais, il ne porta sa main droite à sa bouche. \"",
+   "title": "Un homme mangeait de la main gauche en présence du Messager d’Allah ﷺ. Ce dernier lui a alors dit : - « Mange de la main droite ! »\n- « Je ne peux pas.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3372",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:71654bdd648ca375707deead96f41d8d22266df419154fde8745ba296e7327e9",
+   "explanation": "Nabi ﷺ melihat seorang pria makan dengan tangan kirinya, lalu beliau memerintahkannya agar makan dengan tangan kanannya. Akan tetapi, pria itu menjawab dengan sombong dan dusta bahwa ia tidak mampu! Maka Nabi ﷺ mendoakannya semoga dia tidak diberi kemampuan untuk makan dengan tangan kanan. Allah pun mengabulkan doa Nabi-Nya, yaitu tangan kanan orang itu lumpuh, sehingga setelah itu ia tidak mampu mengangkatnya ke mulut untuk makan ataupun minum.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Kewajiban makan menggunakan tangan kanan dan haramnya makan menggunakan tangan kiri.\r",
+    "2- Orang yang angkuh untuk menjalankan hukum-hukum syariat patut mendapatkan hukuman.\r",
+    "3- Pemuliaan Allah kepada Nabi Muhammad ﷺ dengan mengabulkan doa beliau.\r",
+    "4- Pensyariatan amar makruf nahi mungkar di semua kondisi, sampai pada saat makan."
+   ],
+   "mapping": "same HadeethEnc record id 3372; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:18+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3372",
+   "text": "Salamah bin Al-Akwa' -raḍiyallāhu 'anhu- meriwayatkan, Ada seorang pria yang makan di hadapan Rasulullah ﷺ dengan tangan kirinya. Maka beliau berkata, “Makanlah dengan tangan kananmu!” Orang itu menjawab, “Aku tak bisa.” Nabi pun berkata, “Semoga engkau benar-benar tidak bisa.” Padahal tidak ada yang menghalanginya untuk itu kecuali kesombongannya, maka ia pun tak mampu mengangkat tangannya ke mulutnya.",
+   "title": "Ada seorang pria yang makan di hadapan Rasulullah ﷺ dengan tangan kirinya. Maka beliau berkata, “Makanlah dengan tangan kananmu!” Orang itu menjawab, “Aku tak bisa.” Nabi pun berkata, “Semoga engkau benar-benar tidak bisa.”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3372",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:f2a84cdd92b08e0c9b6cb07cb3ba2db29301888f6753ec0db293418ce490eab1",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم  نے ایک شخص کو اپنے بائیں ہاتھ سے کھانا کھاتے ہوئے دیکھا، تو دائیں ہاتھ سے کھانے کا حکم دیا۔ لیکن اس نے تکبر کی وجہ سے جھوٹ بول دیا کہ وہ ایسا کر نہیں سکتا۔ لہذا اللہ کے رسول صلی اللہ علیہ وسلم نے اس کے حق میں بد دعا کر دی کہ وہ کبھی دائیں ہاتھ سے کھانا نہ کھا سکے۔ چنانچہ اللہ نے اپنے نبی کی بد دعا قبول کر لی اور اس کا دایاں ہاتھ بے کار ہو گیا۔ وہ کبھی اپنا ہاتھ کھانے یا پینے کے لیے منہ تک نہیں اٹھا سکا۔",
+   "grade": "صحيح",
+   "hints": [
+    "دائیں ہاتھ سے کھانا واجب اور بائیں ہاتھ سے کھانا حرام ہے۔\r",
+    "شرعی احکام پر عمل کرنے سے تکبر کرنا انسان کو سزا کا حق دار بنا دیتا ہے۔\r",
+    "اللہ نے اپنے نبی کو ایک اعزاز یہ دیا تھا کہ ان کی دعا قبول کرتا تھا۔\r",
+    "اچھے کام کا حکم دینے اور برے کام سے روکنے کا کام ہر حالت میں کرنا ہے۔ کھانے کی حالت میں بھی۔"
+   ],
+   "mapping": "same HadeethEnc record id 3372; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:18+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3372",
+   "text": "سلمہ بن اکوع رضی اللہ عنہ سے روایت ہے: ایک آدمی نے اللہ کے رسول ﷺ کے پاس بائیں ہاتھ سے کھانا کھایا۔ لہذا آپ نے اس سے کہا : \"اپنے دائیں ہاتھ سے کھاؤ\"۔ لیکن اس نے جواب دیا : میں (دائیں ہاتھ سے) کھا نہیں سکتا۔ اس پر آپ ﷺ نے (اس کے حق میں بد دعا کے طور پر) کہا : \"تو ایسا کر بھی نہیں سکتا\"۔ دراصل اس نے محض تکبر کی وجہ سے آپ کی بات کو ٹھکرایا تھا۔ راوی حدیث کہتے ہيں : چنانچہ وہ شخص اپنا ہاتھ اپنے منہ تک کبھی نہ لے جا سکا۔",
+   "title": "ایک آدمی نے اللہ کے رسول ﷺ کے پاس بائیں ہاتھ سے کھانا کھایا۔ لہذا آپ نے اس سے کہا : \"اپنے دائیں ہاتھ سے کھاؤ\"۔ لیکن اس نے جواب دیا : میں (دائیں ہاتھ سے) کھا نہیں سکتا۔ اس پر آپ ﷺ نے (اس کے حق میں بد دعا کے طور پر) کہا : \"تو ایسا کر بھی نہیں سکتا",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3372",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:b71371ce744ef1a18ddf3e4b1d53e7ac41a5d0536de83ada3871d6c5d7198d91",
+   "explanation": "先知（愿主福安之）看到一个人用左手吃饭，于是命令他用右手吃饭。 这个人出于傲慢，撒谎说他无法用右手。 于是先知（愿主福安之）为他祈祷，使他不能再用右手进食。 安拉应答了先知的祈祷，他的右手变得无法举起。从那时起，他再也没有用右手送食物或饮料到自己的嘴里。",
+   "grade": "正确的",
+   "hints": [
+    "必须用右手进食，禁止用左手进食。\r",
+    "傲慢地拒绝遵守宗教法规的人应受到惩罚。\r",
+    "安拉优待先知穆罕默德（愿主福安之），应答了他的祈祷。\r",
+    "规定无论任何情况，都要命人行善，止人作恶，即使是在饮食之时。"
+   ],
+   "mapping": "same HadeethEnc record id 3372; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:18+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3372",
+   "text": "据赛莱玛·本·埃克沃尔（愿主喜悦他）传述： 一个人在安拉的使者（愿主福安之）面前用左手吃饭，先知对他说：“用右手吃。”他说：“我不能。”先知说：“那就不能”，这个人之所以不听从，只是因为骄傲。然后他就再也没有抬起过右手吃饭。",
+   "title": "一个人在安拉的使者（愿主福安之）面前用左手吃饭，先知对他说：“用右手吃。”他说：“我不能。”先知说：“那就不能”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

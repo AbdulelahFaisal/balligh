@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3982",
+ "source_content_sha256": "sha256:6441447dba6aafe3400479851f72e9ffa818f84e893007f7e0bb0563112484ef",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:22:35.559645+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 612,
+  "completion_tokens": 517,
+  "total_tokens": 1129,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 612
+ },
+ "latency_ms": 6931,
+ "units": [
+  {
+   "id": "title",
+   "text": "Quel est le minimum pour accomplir le devoir d'adoration envers Allah le Très-Haut ?"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Quel est le minimum d'adoration sans lequel la créature n'accomplit pas le but du Créateur d'après Sa parole : ⟦Q1⟧ [adh-Dhariyat : 56] ?"
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Le minimum est d'accomplir les obligations (fara'id) et de délaisser les interdits (maharim). S'il accomplit les obligations et délaisse les interdits, il n'a rien à se reprocher. On l'appelle « modéré » (muqtasid), et il fait partie des pieux (abrar)."
+  },
+  {
+   "id": "a2",
+   "text": "S'il augmente en accomplissant les actes surérogatoires (mustahabbat) et en s'éloignant des actes détestables (makruhat), il devient alors parmi les devanciers rapprochés (sabiqun muqarrabun), il fait partie de la classe supérieure.\nEt les classes sont au nombre de trois :\nLa classe des désobéissants (usat) : ce sont les injustes envers eux-mêmes (zalimun li-anfusihim).\nLa classe des modérés pieux (muqtasidun abrar) : ce sont ceux qui accomplissent les obligations et délaissent uniquement les interdits.\nLa troisième classe, la classe supérieure, est celle des devanciers rapprochés parmi les Messagers et leurs suiveurs : ceux qui se sont empressés vers les bonnes œuvres, ont accompli les obligations, rivalisé dans les diverses formes de bien, délaissé les interdits, et se sont éloignés des actes détestables et des choses douteuses (mushabihat). Ceux-là sont la classe supérieure."
+  }
+ ]
+}

@@ -1,0 +1,174 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:0ae4914fac7b387bd66184650bc4f06bd2e578a6ed66c0923b5188f591b88e83",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يَخْبِرُ النبيُّ صلى الله عليه وسلم أنَّ الله تبارك وتعالى قال: أنفق يا ابن آدم -من النفقات الواجبة والمستحبة- أُوَسِّعْ عليك وآتِك عِوَضًا عن ذلك وأباركْ لك فيه.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "الحث على الصدقة والإنفاق في سبيل الله.",
+  "الإنفاق في وجوه الخير من أعظم أسباب البركة في الرزق ومضاعفته، وإخلاف الله على العبد ما أنفقه.",
+  "هذا الحديث مما يرويه النبي صلى الله عليه وسلم عن ربه، ويسمى بالحديث القدسي أو الإلهي، وهو الذي لفظه ومعناه من الله، غير أنه ليست فيه خصائص القرآن التي امتاز بها عما سواه، من التعبد بتلاوته والطهارة له والتحدي والإعجاز وغير ذلك."
+ ],
+ "id": "hadeethenc-5805",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (7/ 62) (5352).\nصحيح مسلم (2/ 690) (993).\nشرح النووي على مسلم (7/ 79).\nبهجة الناظرين شرح رياض الصالحين، لسليم الهلالي (1/ 603).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=5805",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:39+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/5805"
+ },
+ "source_categories": [
+  {
+   "id": "201",
+   "label": "النفقات"
+  },
+  {
+   "id": "511",
+   "label": "صدقة التطوع"
+  }
+ ],
+ "source_record_id": "5805",
+ "text": "عن أبي هريرة رضي الله عنه أن رسول الله صلى الله عليه وسلم قال: «قَالَ اللهُ: أَنْفِقْ يَا ابْنَ آدَمَ أُنْفِقْ عَلَيْكَ».",
+ "title": "قال الله: أنفق يا ابن آدم أنفق عليك",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=5805",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:f77d877235ea37c0e1d4993c0a71ba25e1b510674e2ccd0211fdffb99501126e",
+   "explanation": "এ হাদীসে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম সংবাদ দিয়েছেন, আল্লাহ তাবারাকা ওয়াতা‘আলা বলেন, হে আদম সন্তান ! ‍তুমি খরচ করো (ওয়াজিব ও মুস্তাহাব খরচের মধ্য থেকে) আমিও তোমার রিযিকে প্রশস্ততা দান করব, তোমাকে এর বিনিময় দান করব এবং এতে তোমাকে বরকত দান করবো।",
+   "grade": "সহীহ",
+   "hints": [
+    "সদাকা ও আল্লাহর পথে ব্যয়ের ব্যাপারে উদ্বুদ্ধ করা হয়েছে।\r",
+    "বিভিন্ন কল্যাণকর কাজে ব্যয় করা রিযিকে বরকত লাভ, রিযিক বৃদ্ধি ও বান্দা যা ব্যয় করে, আল্লাহর কাছ থেকে তা ফেরত পাওয়ার অন্যতম কারণ।\r",
+    "এ হাদীসটি নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাঁর মহান রব আল্লাহ থেকে যা বর্ণনা করেছেন তার অন্তর্ভুক্ত। এ ধরনের হাদীসকে হাদীসে কুদসী বা হাদীসে ইলাহীও বলে। এর শব্দ ও অর্থ উভয় আল্লাহর পক্ষ থেকে; তবে এতে আল-কুরআনের বৈশিষ্ট্য নেই, যে সব বৈশিষ্ট্যের কারণে আল-কুরআন অন্য সব কিছু থেকে আলাদা, যেমন: আল-কুরআনের তিলাওয়াত ইবাদত, এর স্পর্শ করতে পবিত্রতার প্রয়োজন হয়, এর অনুরূপ কোন সূরা বা আয়াত রচনা করতে চ্যালেঞ্জ ঘোষণা, এর অলৌকিকতা, ইত্যাদি।"
+   ],
+   "mapping": "same HadeethEnc record id 5805; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:43+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/5805",
+   "text": "আবূ হুরায়রা রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন: “মহান আল্লাহ বলেন, খরচ কর, হে, আদম সন্তান ! আমিও খরচ করবো তোমার প্রতি।”",
+   "title": "“মহান আল্লাহ বলেন, খরচ কর, হে, আদম সন্তান ! আমিও খরচ করবো তোমার প্রতি।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=5805",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:c431551aeff99704fa2aeacf396329f3128c2917a408f348a65677826177b314",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) informs that Allah Almighty said: O son of Adam, spend - the obligatory and recommended spending - and I will increase your sustenance and give you compensation for that and bless it for you.",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth urges us to give charity and spend in the cause of Allah.\r",
+    "Charitable spending is one of the greatest means for multiplying one's sustenance, attaining blessing therein, and getting compensated by Allah for what was spent.\r",
+    "This is one of the Hadīths the Prophet (may Allah's peace and blessings be upon him) narrated about his Lord. They are called qudsi or divine Hadīths, and their wordings and meanings are attributed to Allah. However, qudsi Hadīths do not possess the traits of the Qur'an that distinguish it from anything else, like reciting it as a form of worship, getting purified for it, presenting it as a challenge, its miraculousness, etc."
+   ],
+   "mapping": "same HadeethEnc record id 5805; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:43+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/5805",
+   "text": "Abu Hurayrah (may Allah be pleased with him) reported: The Messenger of Allah (may Allah's peace and blessings be upon him) said: \"Allah said: 'O son of Adam, spend, and I will spend on you.'\"",
+   "title": "Allah said: 'O son of Adam, spend, and I will spend on you.'",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=5805",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:95db2381de63cabd1254d9fface27ca87dfe6e85bb4c2e862898161ab7516c33",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) informe qu'Allah, Béni et Exalté soit-Il, a dit : \"Dépense ô fils d'Adam !\" Dépense - parmi les dépenses obligatoires et recommandées - Je te ferai largesse et te donnerai en compensation de cela, et Je te le bénirai.",
+   "grade": "Authentique",
+   "hints": [
+    "L'encouragement à donner l'aumône et à dépenser dans le sentier d'Allah.\r",
+    "Le fait de dépenser dans les voies du bien fait partie des plus grandes causes de bénédiction dans la subsistance, sa multiplication et pour qu'Allah accorde mieux et plus au serviteur que ce qu'il a dépensé.\r",
+    "Ce hadith fait partie de ce que le Prophète (qu'Allah le couvre d'éloges et le préserve) rapporte de son Seigneur. On appelle ce hadith un hadith sacré (Qoudsî) ou divin (Ilâhî), c'est un hadith dont l'expression et la signification viennent d'Allah. Toutefois, il n'a pas les spécificités propre au Coran qui se distingue de tout ce qui est autre que lui, qu'il s'agisse de le lire dans la prière, du fait de se purifier avant sa lecture, du défi qu'il a lancé aux hommes, de son caractère miraculeux et d'autres choses encore."
+   ],
+   "mapping": "same HadeethEnc record id 5805; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:43+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/5805",
+   "text": "Aboû Hourayrah (qu'Allah l'agrée) relate que le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) a dit : « Allah a dit : \"Dépense, ô Fils d'Adam ! Je dépenserai pour toi.\" »",
+   "title": "Allah a dit : \"Dépense, ô Fils d'Adam ! Je dépenserai pour toi.\"",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=5805",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:f8578628bdae2d1d0d7f14def7785c11cfe00268a8f07ede4e9c7178a32cd5b5",
+   "explanation": "Nabi ﷺ meriwayatkan bahwa Allah berfirman: Wahai anak Adam, berinfaklah dengan nafkah wajib dan sunah, niscaya Aku akan lapangkan nafkah bagimu, Aku akan berikan kepadamu penggantinya, dan Aku berkahi bagimu penggantinya itu.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Anjuran bersedekah dan berinfak di jalan Allah.\r",
+    "2- Berinfak pada pos-pos kebaikan termasuk sebab paling besar untuk keberkahan dan penambahan rezeki dan Allah mengganti apa yang telah diinfakan oleh hamba tersebut.\r",
+    "3- Hadis ini termasuk yang diriwayatkan oleh Nabi ﷺ dari Allah. Hadis seperti ini disebut hadis qudsi atau hadis ilahi, yaitu hadis yang lafal dan maknanya berasal dari Allah. Akan tetapi, ia tidak memiliki keistimewaan-keistimewaan Al-Qur`an yang membedakannya dari yang lain, seperti beribadah dengan membacanya, bersuci sebelum memegangnya, kemukjizatannya, dan lain sebagainya."
+   ],
+   "mapping": "same HadeethEnc record id 5805; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:43+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/5805",
+   "text": "Abu Hurairah -raḍiyallāhu 'anhu- meriwayatkan bahwa Rasulullah ﷺ bersabda, \"Allah berfirman, 'Wahai anak Adam, berinfaklah, niscaya Aku akan berinfak kepadamu'.\"",
+   "title": "Allah berfirman, 'Wahai anak Adam, berinfaklah, niscaya Aku akan berinfak kepadamu'",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=5805",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:3a186bef5902937bcd01821ed00d488d0c0ad59f9af1640552f4dbf421f571d6",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم بیان فرما رہے ہيں کہ اللہ تعالی نے ارشاد فرمايا: اے آدم کی اولاد! تم ان جگہوں میں خرچ کرو، جہاں خرچ کرنا واجب اور مستحب ہے، میں تم کو کشادگی عطا کروں گا، تمھیں اس کا بدلہ عطا کروں گا اور اس میں تمھارے لیے برکت ڈال دوں گا۔",
+   "grade": "صحيح",
+   "hints": [
+    "صدقہ کرنے اور اللہ کے راستے میں خرچ کرنے کی ترغیب۔\r",
+    "نیک کاموں میں خرچ کرنا روزی میں اضافه اور برکت کا ایک بہت بڑا ذریعہ ہے۔ اللہ بندے کو اس کے خرچ کرنے کا بدلہ عطا کرتا ہے۔\r",
+    "یہ حدیث ان حدیثوں میں سے ہے، جن کو اللہ کے نبی صلی اللہ علیہ و سلم نے اپنے رب سے روایت کیا ہے۔ اس طرح کی حدیث کو حدیث قدسی یا حدیث الہی کہا جاتا ہے۔ یعنی ایسی حدیث جس کے الفاظ اور معنی دونوں اللہ کی جانب سے ہوں۔ یہ الگ بات ہے کہ اس کے اندر قرآن کے وہ خصائص نہيں پائے جاتے، جن کی بنیاد پر اسے ایک الگ امتیاز حاصل ہے۔ مثلا اس کی تلاوت کے ذریعہ اللہ کى عبادت کرنا، اس کى تلاوت کے لیے طہارت حاصل کرنا، اس کا معجزہ ہونا اور اس جیسا کلام پیش کرنے کا چیلنج پیش کیا جانا وغیرہ۔"
+   ],
+   "mapping": "same HadeethEnc record id 5805; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:43+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/5805",
+   "text": "ابوھریرہ رضی اللہ عنہ سے روایت ہے کہ اللہ کے رسول ﷺ نے فرمایا: \"اللہ تعالی نے فرمایا: ”اے ابن آدم ! خرچ کر، میں تجھ پر خرچ کروں گا“۔",
+   "title": "اللہ تعالی نے فرمایا: ”اے ابن آدم ! خرچ کر، میں تجھ پر خرچ کروں گا“۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=5805",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:f4196020bc0fa847a2bbe4f5e2bb4835de2df7ed500da894d09e144ebff08111",
+   "explanation": "先知（愿主福安之）叙述道，崇高赐福的安拉说：阿丹的子嗣啊！你当费用，—— 包括义务性的花费和可嘉性的花费—— 我会给你更多，会给你补偿并赐福。",
+   "grade": "正确的",
+   "hints": [
+    "鼓励为主道施舍和花费。\r",
+    "为各种善行而花费，可使给养得到吉庆并翻倍，凡仆人所花费的，安拉都将会给予补偿。\r",
+    "该圣训是由先知（愿主福安之）传自他的养主，被称为“圣洁的圣训”，或“天启的圣训”。即：其字面和意义均来自安拉，但它不具备古兰所特有的属性，比如：通过诵读来崇拜安拉，触摸前要洗小净，具有挑战和奇迹等。"
+   ],
+   "mapping": "same HadeethEnc record id 5805; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:43+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/5805",
+   "text": "据艾布·胡莱勒（愿主喜悦之）传述，安拉的的使者（愿主福安之）说： “安拉说：‘阿丹的子嗣啊！你当为你自己费用’。”",
+   "title": "“安拉说：‘阿丹的子嗣啊！你当为你自己费用’。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

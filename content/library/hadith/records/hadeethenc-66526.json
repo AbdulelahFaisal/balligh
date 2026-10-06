@@ -1,0 +1,206 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:b2cbef5cfab2814832788ae233c5c7c9cf59359bae49f07a5ff18962a5bc6297",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يخبر النبي صلى الله عليه وسلم: أن طهارة الظاهر تكون بالوضوء والغسل وهي شرط في الصلاة. وأن قول: \" الحمد لله تملا الميزان\" وهو الثناء عليه سبحانه، ووصفه بصفات الكمال توزن يوم القيامة فتملأ ميزان الأعمال. وأن قول: \"سبحان الله والحمد لله\" وهو تنزيهه عن كل نَقْصٍ ووصفه بالكمال التام الذي يليق بجلاله مع محبته وتعظيمه تملأ ما بين السموات والأرض. وأن \"الصلاة نور\" للعبد في قلبه، وفي وجهه، وفي قبره، وفي حشره. وأن \"الصدقة برهان\" ودليل على صدق إيمان المؤمن، واختلافه عن المنافق الذي يمتنع منها لكونه لا يصدق بموعودها. وأن \"الصبر ضياء\" -وهو حبس النفس عن الجَزَع والتَّسَخُّط - نور يحصل معه حرارة وإحراق، كضياء الشمس؛ لأنه شاق ويحتاج إلى مجاهدة النفس وحبسها عما تهواه؛ فلا يزال صاحبه مستضيئًا مهتديًا مستمرًّا على الصواب. وهو صبر على طاعة الله، وعن معصيته، وصبر على المصائب وأنواع المكاره في الدنيا. وأن \"القرآن حجة لك\" بتلاوته والعمل به، أو \"حجة عليك\" بتركه دون عمل أو تلاوة. ثم أخبر صلى الله عليه وسلم أن كل الناس يسعون وينتشرون ويقومون من نومهم ويخرجون من بيوتهم لأعمالهم المختلفة، فمنهم من يستقيم على طاعة الله فيُعْتِق نفسَه من النار، ومنهم من ينحرف عن ذلك ويقع في المعاصي فيهلكها بدخولها النار.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "الطهارة طهارتان: طهارة الظاهر تكون بالوضوء والغسل، وطهارة الباطن تكون بالتوحيد والإيمان والعمل الصالح.",
+  "أهمية المحافظة على الصلاة فهي نور للعبد في الدنيا ويوم القيامة.",
+  "الصدقة دليل على صدق الإيمان.",
+  "أهمية العمل بالقرآن وتصديقه ليكون حجة لك لا عليك.",
+  "النفس إن لم تشغلها بالطاعة شغلتك بالمعصية.",
+  "كل إنسان لا بد أن يعمل؛ فإما أن يعتق نفسه بالطاعة، أو يوبقها بالمعصية.",
+  "الصبر يحتاج إلى تَحَمُّلٍ واحتسابٍ وفيه مشقة."
+ ],
+ "id": "hadeethenc-66526",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (1/ 203) (223).\nشرح الأربعين لابن دقيق العيد (ص 84).\nشرح الأربعين النووية للعثيمين (ص: 231).\nالرياض الزكية شرح الأربعين النووية للخضير (ص 293).\nفتح القوي المتين في شرح الأربعين للعباد (ص 79).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=66526",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:39+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/66526"
+ },
+ "source_categories": [
+  {
+   "id": "300",
+   "label": "فوائد ذكر الله عز وجل"
+  },
+  {
+   "id": "322",
+   "label": "تزكية النفوس"
+  },
+  {
+   "id": "441",
+   "label": "فضل الوضوء"
+  }
+ ],
+ "source_record_id": "66526",
+ "text": "عَنْ أَبِي مَالِكٍ الحَارِثِ بْنِ عَاصِمٍ الأَشْعَرِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «الطُّهُورُ شَطْرُ الْإِيمَانِ، وَالْحَمْدُ لِلهِ تَمْلَأُ الْمِيزَانَ، وَسُبْحَانَ اللهِ وَالْحَمْدُ لِلهِ تَمْلَآنِ -أَوْ تَمْلَأُ- مَا بَيْنَ السَّمَاءِ وَالأَرْضِ، وَالصَّلَاةُ نُورٌ، وَالصَّدَقَةُ بُرْهَانٌ، وَالصَّبْرُ ضِيَاءٌ، وَالْقُرْآنُ حُجَّةٌ لَكَ أَوْ عَلَيْكَ، كُلُّ النَّاسِ يَغْدُو، فَبَايِعٌ نَفْسَهُ فَمُعْتِقُهَا أَوْ مُوبِقُهَا»",
+ "title": "الطهور شطر الإيمان، والحمد لله تملأ الميزان، وسبحان الله والحمد لله تملآن أو تملأ ما بين السماء والأرض",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=66526",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:3686afff59ff66086f0c5778b427a9ca578ace72775f31df4081ea09ee3d5dd4",
+   "explanation": "এখানে নবী সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম সংবাদ দিয়েছেন যে, অযু ও গোসলের মাধ্যমে  বাহ্যিক পবিত্রতা অর্জন করা যায়, আর এটি সালাত আদায়ের একটি শর্ত। নবী সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লামের কথা: “الحمد لله” ‘আলহামুদ লিল্লাহ’ মিযানকে পরিপূর্ণ করে দেয়”, এটি হচ্ছে আল্লাহ সুবহানাহু ওয়া তা‘আলার প্রশংসা এবং তাঁকে পূর্ণতার গুণে গুণান্বিত করা, যা কিয়ামাতের দিনে ওযন করা হবে এবং তাতে আমলের পাল্লা (মিযান) পূর্ণ হয়ে যাবে। নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের কথা: “سبحان الله والحمد لله” ‘সুবহানাল্লাহি ওয়ালহামদু লিল্লাহ’: এটি হচ্ছে: আল্লাহকে সকল ধরণের অপূর্ণতার গুণ থেকে মুক্ত ঘোষণা করা এবং তাঁর মর্যাদার সাথে সামঞ্জস্যশীল এমন পূর্ণতার গুণাবলী তাঁর জন্য সাব্যস্ত করা এবং সেই সাথে তাঁর ভালোবাসা ও সম্মান অন্তরে ধারণ করা, যা আসমান জমিনকে পূর্ণ করে দেয়। “সালাত হচ্ছে নূর”: বান্দার অন্তরের, চেহারার, কবরের এবং তার হাশরের নূর। “সাদাকাহ হচ্ছে বুরহান (দলিল)”: তথা মুমিনের ঈমানের সত্যতার দলিল। আর এটি এমন মুনাফিক থেকে পৃথককারী যে সাদকাহর প্রতিশ্রুত প্রতিদানকে স্বীকার না করায়, তা থেকে (নিজেকে) বিরত রাখে। আর “সবর হচ্ছে আলো”: এটি হচ্ছে নিজেকে উৎকণ্ঠা-অস্থিরতা ও রাগ থেকে সংবরণ করা। এটি সূর্যের ন্যায় এমন আলো যার সাথে উষ্ণতা ও দহন ক্ষমতা রয়েছে; কেননা এটি একটি কঠিন বিষয় এবং এটি নিজের সাথে এবং আকাংখিত বিষয়ের সাথে প্রতিনিয়ত লড়াই করার নাম। সুতরাং সবরকারী ব্যক্তি সঠিক পথে আলোকিত, হিদায়াতপ্রাপ্ত ও স্থায়ীত্ব লাভ করে থাকে। সবর হচ্ছে আল্লাহর আনুগত্যের উপরে টিকে থাকা, পাপ থেকে বেঁচে থাকা এবং দুনিয়াতে বিভিন্ন প্রকার বালা মুসিবত ও কষ্টকর বিষয়ে ধৈর্যধারণ করা। “আর আল-কুরআন তোমার পক্ষে দলিল”: এটি অর্জিত হবে কুরআন তিলাওয়াত করা এবং সে অনুযায়ী আমল করার মাধ্যমে। অথবা “তোমার বিপক্ষে দলিল”: কুরআন অনুযায়ী আমল না করলে অথবা কুরআন তিলাওয়াত পরিত্যাগ করলে। তারপরে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম সংবাদ দিয়েছেন যে, প্রতিটি মানুষ প্রচেষ্টা রত থাকে, তারা ছড়িয়ে পড়ে, তারা ঘুম থেকে জাগ্রত হয় আর তারপরে তাদের বাড়ি থেকে বিভিন্ন কাজের উদ্দেশ্যে তারা বের হয়ে পড়ে। সুতরাং তাদের মধ্যে অনেকে রয়েছে যারা আল্লাহর আনুগত্যের উপরে দৃঢ়পদ থাকে। ফলে তারা নিজেকে জাহান্নাম থেকে মুক্ত করে নেয়। অপরপক্ষে অনেকে রয়েছে, যারা এখান থেকে বিচ্যুত হয়ে পড়ে এবং পাপের মধ্যে নিপতিত হয়। ফলে তারা জাহান্নামে প্রবেশ করার মাধ্যমে নিজেকে ধ্বংস করে ফেলে।",
+   "grade": "সহীহ",
+   "hints": [
+    "পবিত্রতা দুই প্রকার: বাহ্যিক পবিত্রতা, যা অযু ও গোসলের মাধ্যমে অর্জন করা যায় এবং অভ্যন্তরীণ পবিত্রতা, যা তাওহীদ, ঈমান ও নেক আমলের মাধ্যমে অর্জিত হয়।\r",
+    "হাদীসে সালাতের প্রতি যত্নবান হওয়ার গুরুত্ব বর্ণিত হয়েছে। কেননা সালাত হচ্ছে বান্দার জন্য দুনিয়া এবং আখিরাতের নূর।\r",
+    "সাদাকাহ হচ্ছে ঈমানের সত্যতার দলিল।\r",
+    "এখানে কুরআন অনুযায়ী আমল করা ও তা সত্য বলে বিশ্বাস করার গুরুত্ব বর্ণিত হয়েছে, যাতে কুরআন তোমার বিপক্ষে নয়; বরং পক্ষে দলিল হিসেবে কাজ করে।\r",
+    "অন্তরকে যদি তুমি আনুগত্যের (সাওয়াবের) কাজে নিমগ্ন না করতে পার, তবে সে তোমাকে পাপাচারে নিমগ্ন করে দেবে।\r",
+    "প্রতিটি মানুষকে অবশ্যই আমল (কাজ) করতে হয়। হয়ত সে আনুগত্যের মাধ্যমে নিজেকে বাঁচিয়ে নেবে অথবা পাপের মাধ্যমে নিজেকে ধ্বংস করে ফেলবে।\r",
+    "সবর অবশ্য কষ্ট সহ্য করার মাধ্যমে ও সাওয়াবের আশায় হতে হবে। আর এতে রয়েছে কষ্ট।"
+   ],
+   "mapping": "same HadeethEnc record id 66526; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:40+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/66526",
+   "text": "আবূ মালিক হারিস ইবনু আসিম আল-আশ‘আরী রাদিয়াল্লাহু ‘আনহু হতে বর্ণিত, তিনি বলেন: রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম বলেছেন: “পবিত্রতা ঈমানের অর্ধেক। “الحمد لله” ‘আলহামদু লিল্লা ‘ দাঁড়িপাল্লা পরিপূর্ণ করে দেয় এবং “سبحان الله والحمد لله” ‘সুবহানাল্লাহি ওয়ালহামদু লিল্লাহ’ কালেমা আসমান ও জমিনের মধ্যবর্তী স্থানকে পরিপূর্ণ করে দেয়। আর সালাত হচ্ছে নূর, সদাকাহ হচ্ছে দলীল এবং সবর হচ্ছে আলো। আর আল-কুরআন তোমার পক্ষে অথবা বিপক্ষে প্রমাণ স্বরূপ। সকল মানুষই ভোর করে নিজেকে বিক্রি করে দেয়। অতঃপর সে তাকে মুক্ত করে অথবা তাকে ধ্বংস করে।\"",
+   "title": "“পবিত্রতা ঈমানের অর্ধেক। “الحمد لله” ‘আলহামদু লিল্লা ‘ দাঁড়িপাল্লা পরিপূর্ণ করে দেয় এবং “سبحان الله والحمد لله” ‘সুবহানাল্লাহি ওয়ালহামদু লিল্লাহ’ কালেমা আসমান ও জমিনের মধ্যবর্তী স্থানকে পরিপূর্ণ করে দেয়।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=66526",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:0444317e7ce5d5fcce9ebe0bc0749a940701e70677f69a1b1550c120e68b2ea4",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) says that outward purification is attained by ablution and washing up, and it is required for prayer. And saying \"al-hamdulillāh\" fills the Scale. This is to praise Allah and ascribe the attributes of perfection to Him. This will be weighed on the Day of Judgment and fill the Scale of deeds. Saying \"subhān Allah wa al-hamdulillāh\" - which exalts Allah far above all deficiencies and ascribes to Him the complete perfection that befits His majesty, along with loving and extolling Him - fills what is between the heavens and the earth. \"Prayer is light\" for a person within his heart, on his face, in his grave, and on the Day of Judgment. \"Charity is proof\" and evidence for the sincerity of a believer's faith and it sets him apart from the hypocrite, who refrains from giving charity because he does not believe in the reward promised in return for it. \"Patience is radiance,\" by refraining from exasperation and indignation, is radiance, which is light that comes with heat and burning, like the light of the sun. This is because patience is difficult and requires self-struggle and restraining oneself from one's desires. So, a patient person continues to have light and adhere to guidance and the right path. Patience is shown in observing Allah's commands, avoiding His prohibitions, and enduring afflictions and different forms of hardships in this world. And \"the Qur’an is proof either for you,\" by reciting and acting upon it, or \"against you,\" for abandoning it, without application or recitation. Then, the Prophet (may Allah's peace and blessings be upon him) mentioned that all people work and go about, and they get up from their sleep and go out for their different activities. Some of them hold onto obedience to Allah and thus save themselves from Hellfire. And some others deviate from that and commit sins, which ruin them by leading them to Hellfire.",
+   "grade": "Authentic",
+   "hints": [
+    "Purity is of two kinds: outward purity, which is attained by ablution and washing up, and inward purity, which is attained by Tawhīd (monotheism), faith, and righteous deeds.\r",
+    "It points out the significance of observing the prayer, as it is light for people in this world and on the Day of Judgment.\r",
+    "Charity is evidence of the sincerity of faith.\r",
+    "It is important for a person to act upon the Qur’an and believe in it, so that it will be proof for him, not against him.\r",
+    "If a person does not preoccupy himself with worship, he will preoccupy it with sin.\r",
+    "Everyone must work, and one either saves his soul with obedience to Allah or destroys it with sins.\r",
+    "Patience needs endurance and the pursuit of Allah's reward, and it involves hardship."
+   ],
+   "mapping": "same HadeethEnc record id 66526; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:40+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/66526",
+   "text": "Abu Mālik al-Hārith ibn ‘Āsim al-Ash‘ari (may Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said: \"Purity is half of faith, al-hamdulillāh (praise be to Allah) fills the Scale, and subhānallāh wa al-hamdulillāh (glory and praise be to Allah) fills what is between the heavens and the earth. Prayer is light, charity is proof, patience is radiance, and the Qur’an is an argument either for you or against you. Every person goes out in the morning and sells his soul; he either saves it from doom or throws it into destruction.\"",
+   "title": "Purity is half of faith, al-hamdulillāh (praise be to Allah) fills the Scale, and subhānallāh wa al-hamdulillāh (glory and praise be to Allah) fills what is between the heavens and the earth",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=66526",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:98482b4469357a78760db72888be24f168905ada98fa1aebd0d84e897819aff9",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) informe que la purification extérieure se fait par l'ablution mineure ou le lavage et que c'est l'une des conditions de la prière. Sa parole : \"La louange revient à Allah\" remplit la Balance, c'est le fait de Le louer, Gloire et Pureté à Lui, et de Le décrire par les attributs de la perfection [en disant : \"Al-Ḥamdou Lillâh !\"]. Pesé au Jour de la Résurrection, cela remplira la Balance des œuvres. Sa parole : \"Gloire et Pureté à Allah\" et \"La louange revient à Allah\", c'est le fait de reconnaître et proclamer qu'Allah est exempt de toute déficience [en disant : \"SoubḥânaLlâh !\"], de Le décrire par la perfection complète qui sied à Sa majesté [en disant : \"Al-Ḥamdou Lillâh !\"] tout en L'aimant et en Le vénérant. Ceci remplit ce qu'il y a entre les cieux et la Terre. \"La prière est une lumière\" pour le serviteur : dans son cœur, sur son visage, dans sa tombe et lors de sa résurrection. \"L'aumône est une preuve évidente\" et montre la véracité de la foi du croyant ainsi que sa différence d'avec l'hypocrite qui s'y refuse étant donné qu'il ne croit pas aux récompenses promises qui y sont liées. \"La patience est une clarté\" - et c'est le fait de se contenir lors du ressentiment et de la colère - c'est une lumière qui apporte avec elle chaleur et combustion, comme la clarté du soleil ; car elle est pénible, nécessite une lutte contre son âme et de la retenir d'aller vers ce qu'elle désire. La personne dotée de patience ne cesse d'être éclairée, guidée et constante sur le bien. Il s'agit de la patience sur l'obéissance à Allah, sur le fait de ne pas lui désobéir ainsi que la patience vis-à-vis des malheurs et tous types de désagréments en ce bas monde. \"Le Coran est un argument pour toi\", par sa récitation et sa mise en pratique ou : \"Contre toi\", en le délaissant sans le mettre en pratique ni le réciter. Il a ensuite informé (qu'Allah le couvre d'éloges et le préserve) que tous les gens œuvrent, se dispersent, se lèvent de leur sommeil et sortent de leurs demeures afin d'accomplir leurs différentes besognes, Certains d'entre eux se tiennent droit dans l'obéissance à Allah, affranchissant ainsi leur âme de l'Enfer ; tandis que d'autres s'en écartent, tombent dans les désobéissances et anéantissent alors leur âme en la faisant entrer en Enfer.",
+   "grade": "Authentique",
+   "hints": [
+    "La purification est de deux types : une purification apparente qui s'obtient par l'ablution mineure et le lavage ; et une purification cachée qui s'obtient par le monothéisme, la foi et les œuvres vertueuses.\r",
+    "L'importance de l'assiduité à la prière qui est la lumière du serviteur en ce bas monde et au Jour de la Résurrection.\r",
+    "L'aumône est une preuve de la véracité de la foi.\r",
+    "L'importance d'œuvrer selon le Coran et de le déclarer véridique afin qu'il soit une preuve pour toi et non contre toi.\r",
+    "L'âme, si tu ne l'occupes pas par l'obéissance, elle t'occupera dans la désobéissance.\r",
+    "Chaque personne se doit d'œuvrer : ainsi, soit elle affranchit son âme par l'obéissance, soit elle la détruit par la désobéissance.\r",
+    "La patience nécessite de prendre sur soi et d'endurer en escomptant la récompense divine ; et il y a dans cela de la pénibilité."
+   ],
+   "mapping": "same HadeethEnc record id 66526; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:40+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/66526",
+   "text": "D’après Abû Mâlik al‑Hârith b. ‘Âṣim al‑Ash‘arî — qu’Allah l’agrée —, le Messager d’Allah ﷺ a dit : « La purification est la moitié de la foi. “Al‑ḥamdu li‑Llâh” remplit la balance, et “Subḥân Allâh et Al‑ḥamdu li‑Llâh” remplissent ce qui est entre le ciel et la terre. La prière est lumière, l’aumône est preuve, la patience est clarté, et le Coran est un argument pour toi ou contre toi. Tous les gens se présentent au matin, parmi eux, il y a celui qui vend sa personne [pour Allah] et l'affranchit, et il y a celui qui la conduit à sa perte. »",
+   "title": "La purification est la moitié de la foi. “Al‑ḥamdu li‑Llâh” remplit la balance, et “Subḥân Allâh et Al‑ḥamdu li‑Llâh” remplissent ce qui est entre le ciel et la terre",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=66526",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:9e0be7c996a3ab74346250425d726a0f075778db2f260234611c79e8aebf4fb5",
+   "explanation": "Nabi ﷺ mengabarkan bahwa menyucikan lahiriah adalah dengan wudu dan mandi, dan itu termasuk syarat sahnya salat. Bacaan \"alḥamdulillāh\" memenuhi timbangan, yaitu pujian kepada Allah -Subḥānahu wa Ta'ālā- serta menyifati-Nya dengan sifat-sifat kesempurnaan akan ditimbang pada hari kiamat dan memenuhi timbangan amal. Bacaan \"subḥānallāh walḥamdulillāh\", yaitu menyucikan Allah dari segala kekurangan serta menyifati-Nya dengan sifat-sifat kesempurnaan yang sesuai dengan keagungan-Nya disertai dengan mencintai dan mengagungkan-Nya akan memenuhi ruang antara langit dan bumi. Salat akan menjadi cahaya bagi hamba di dalam hatinya, pada wajahnya, di dalam kuburnya, dan ketika ia dibangkitkan. Sedekah adalah bukti dan dalil yang menunjukkan kebenaran iman seorang mukmin dan perbedaannya dari orang munafik yang enggan menunaikannya, karena orang munafik itu tidak meyakini janji tersebut. Sabar adalah sinar, yaitu menahan diri dari rasa kecewa dan marah, yaitu cahaya yang disertai dengan hawa panas dan membakar seperti sinar matahari, karena terasa berat dan butuh usaha keras untuk melawan jiwa dan menahannya dari apa yang diinginkannya; pelakunya akan senantiasa mendapatkan sinar serta petunjuk serta istikamah di atas yang benar; yaitu sabar melakukan ketaatan kepada Allah, sabar meninggalkan kemaksiatan kepada-Nya, serta sabar terhadap musibah dan berbagai macam keburukan di dunia. Al-Qur`an akan menjadi hujah yang membelamu dengan cara membaca dan mengamalkannya, atau justru menjadi hujah yang akan menuntutmu karena telah meninggalkannya, tidak mengamalkannya, ataupun membacanya. Kemudian Nabi ﷺ mengabarkan bahwa semua orang berjalan dan menyebar; mereka bangun dari tidur mereka serta keluar dari rumah mereka untuk melakukan pekerjaan mereka yang beraneka macam, di antara mereka ada yang istikamah di atas ketaatan kepada Allah, maka ia sedang membebaskan dirinya dari api neraka, namun ada juga yang menyimpang dari hal tersebut dan terjerumus ke dalam kemaksiatan, maka ia sedang membinasakannya dengan masuk ke dalam api neraka.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Bersuci terbagi menjadi dua: menyucikan zahir dengan wudu dan mandi; menyucikan batin dengan tauhid, iman, dan amal saleh.\r",
+    "2- Urgensi memelihara salat, karena salat akan menjadi cahaya bagi hamba di dunia dan hari kiamat.\r",
+    "3- Sedekah adalah bukti ketulusan iman.\r",
+    "4- Urgensi mengamalkan dan mengimani Al-Qur`an supaya menjadi hujah yang akan membela Anda, bukan hujah yang menuntut Anda.\r",
+    "5- Jiwa, jika tidak Anda sibukkan dengan ketaatan, ia akan menyibukkan Anda dengan kemaksiatan.\r",
+    "6- Setiap orang pasti bekerja; entah itu dengan membebaskan dirinya melalui ketaatan atau membinasakannya melalui kemaksiatan.\r",
+    "7- Kesabaran membutuhkan ketahanan dan berharap pahala dan ia terasa berat."
+   ],
+   "mapping": "same HadeethEnc record id 66526; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:40+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/66526",
+   "text": "Abu Mālik al-Ḥāriṡ bin 'Āṣim al-Asy'ariy -raḍiyallāhu 'anhu- meriwayatkan: Rasulullah ﷺ bersabda, \"Bersuci itu separuh dari iman. Ucapan \"alḥamdulillāh\" memenuhi timbangan, ucapan \"subḥānallāhi wal-ḥamdulillāh\" memenuhi antara langit dan bumi. Salat adalah cahaya, sedekah adalah bukti, dan sabar adalah sinar. Al-Qur`an itu akan menjadi hujah yang membelamu atau justru menuntutmu. Semua orang berangkat di pagi hari mempertaruhkan dirinya, antara membebaskan dirinya atau membinasakannya.\"",
+   "title": "Bersuci itu separuh dari iman. Ucapan \"alḥamdulillāh\" memenuhi timbangan, ucapan \"subḥānallāhi wal-ḥamdulillāh\" memenuhi antara langit dan bumi",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=66526",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:1394921f64759a774c6c22e71227f57006edca92fdc5934ecbf18bd3b030d241",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ وسلم اس حدیث میں بتا رہے ہیں کہ ظاہری طہارت وضو اور غسل سے حاصل ہوتی ہے اور یہ طہارت نماز کے لیے شرط ہے۔ \"الحمد لله ترازو کو بھر دیتا ہے۔\" الحمد للہ در اصل اللہ پاک کی حمد و ثنا بیان کرنے اور اسے صفات کمال سے متصف کرنے سے عبارت ہے۔ قیامت کے دن اس کلمہ کو ترازو پر وزن کیا جائے گا، تو اس سے عمل کو تولا جانے والا ترازو بھر جائے گا۔ \"سبحان الله اور الحمد لله\" یہ دونوں کلمات ہر قسم کے نقص سے اللہ کی پاکی بیان کرتے ہیں اور اسے اس کی جلالت شان کے مطابق کمال مطلق کے وصف سے موصوف کرتے ہیں، جس کے ساتھ اس کی محبت اور اس کی تعظیم بھی ہم رکاب ہوتی ہے۔ یہ دونوں کلمات آسمان وزمین کے درمیان کی وسعت کو بھر دیتے ہیں۔ \"نماز نور ہے\" جو بندے کے دل کو، اس کے چہرے کو، اس کی قبر کو اور اس کی آخرت کو منور کرتی ہے۔ \"صدقہ دلیل ہے۔\" صدقہ مؤمن کے سچے ایمان والے ہونے کے ساتھ ساتھ اس بات کی بھی دلیل ہے کہ وہ اس منافق سے مختلف ہے، جو صدقہ سے دامن کش رہتا ہے، کیوں کہ وہ اس اجر وثواب کو سچ نہيں جانتا، جس کا وعدہ صدقہ کرنے والے سے کیا گیا ہے۔ \"صبر روشنی ہے۔\" صبر نفس کو جزع فزع کرنے اور تقدیر پر ناراضگی ظاہر کرنے سے روکنے کا نام ہے۔ ضیا ایسی روشنی کو کہتے ہیں، جس کے ساتھ حرارت اور جلانے کے اوصاف پائے جائیں۔ جیسے کہ سورج کی روشنی۔ صبر کو ضیا اس لیے کہا گیا ہے کہ صبر کرنا ایک مشکل کام ہے اور اس کے لیے نفس سے لڑنے اور اسے خواہشات سے روکنے کی ضرورت ہوتی ہے۔ جب انسان صبر سے کام لیتا ہے، تو اس کی راہیں روشن رہتی ہیں اور وہ صحیح راستے پر گامزن رہتا ہے۔ یہاں صبر سے مراد یہ ہے کہ اللہ کی اطاعت گزاری پر گام زن رہا جائے، اس کی نافرمانی سے اجتناب کیا جائے دنیاوی مصائب ومشکلات کا مقابلہ پامردی کے ساتھ کیا جائے۔ \"قرآن تمہارے حق میں دلیل ہے۔\" قرآن انسان کے حق میں دلیل اس وقت ہوتا ہے، جب وہ اس کی تلاوت کرے اور اس کی تعلیمات پر عمل کرے۔\"یا پھر تمہارے خلاف دلیل ہے۔\" قرآن انسان کے خلاف دلیل اس وقت ہوتا ہے، جب وہ اس کی تعلیمات پر عمل کرنے اور اس کی تلاوت کرنے سے گریز کرے۔ پھر آپ صلی اللہ علیہ وسلم نے بتایا کہ تمام لوگ جد وجہد کرتے، زمین میں پھیل جاتے اور نیند سے بیدار ہوکر اپنے مختلف مشاغل کی غرض سے گھروں سے نکل جاتے ہیں۔ چنانچہ ان میں سے کچھ لوگ اللہ کی اطاعت پر قائم رہتے ہوئے اپنی جان کو جہنم سے آزاد کر لیتے ہیں، جب کہ کچھ لوگ اس راہ سے بھٹک کر گناہوں میں مبتلا ہوجاتے ہيں، تو اللہ ان کو جہنم میں داخل کرکے ہلاک کردیتا ہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "طہارت کی دو قسمیں ہیں: ظاہری طہارت جو وضو اور غسل سے حاصل ہوتی ہے اور باطنی طہارت جو توحید و ایمان اور عمل صالح سے حاصل ہوتی ہے۔\r",
+    "پابندی کے ساتھ نماز پڑھنے کی اہمیت، کیوں کہ نماز بندے کے لیے دنیا میں بھی نور ہے اور قیامت کے دن بھی نور رہے گی۔\r",
+    "صدقہ ایمان کی صداقت کی دلیل ہے۔\r",
+    "قرآن پر عمل کرنے اور اس کی تصدیق کرنے کی اہمیت، تاکہ  قرآن آپ کے حق میں حجت ہو نا کہ آپ کے خلاف۔\r",
+    "اگر آپ اپنے نفس کو اطاعت میں مشغول نہیں رکھیں گے تو وہ آپ کو گناہ میں مشغول کر دے گا۔\r",
+    "ہر انسان لا محالہ کچھ نہ کچھ عمل کرتا ہے۔ یا تو وہ اطاعت کے ذریعہ اپنے نفس کو آزاد کر لیتا ہے یا گناہ کے ذریعہ اسے ہلاک کر لیتا ہے۔\r",
+    "صبر کے لیے تحمل اور احتساب اجر ضروری ہے، جو کہ مشقت آمیز امر ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 66526; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:40+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/66526",
+   "text": "ابو مالک حارث بن عاصم اشعری رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نےفرمایا: \"پاکیزگی نصف ایمان ہے۔ الحمد لله ترازو کو بھر دیتا ہے، سبحان الله اور الحمد لله آسمانوں سے زمین تک کی وسعت کو بھر دیتے ہیں۔ نماز نور ہے، صدقہ دلیل ہے، صبر روشنی ہے۔ قرآن تمہارے حق میں یا تمہارے خلاف حجت ہے، ہر انسان دن کا آغاز کرتا ہے، تو (کچھ اعمال کے عوض) اپنا سودا کرتا ہے۔ پھر یا تو خود كو آزاد کرنے والا ہوتا ہے يا خود کو تباہ کرنے والا\"۔",
+   "title": "پاکیزگی نصف ایمان ہے۔ الحمد لله ترازو کو بھر دیتا ہے، سبحان الله اور الحمد لله آسمانوں سے زمین تک کی وسعت کو بھر دیتے ہیں",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=66526",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:6de73f84a5177630a3afc23fec1502f150328b3a3568dadf187f17172562d907",
+   "explanation": "先知（愿主福安之）告诉我们，表面的洁净指，小净和大净，此两者是拜功之条件。 说：“一切赞颂统归安拉满载天平”，这是对清高的安拉的赞颂，先知用完美的属性描述安拉，此属性在复生日可被称量，它将充满仆人的善功秤盘。 说：“赞颂安拉清净和一切赞颂统归安拉”，这表示安拉之清高无污染，先知用适合安拉之伟大的完美的属性描述安拉，同时喜爱安拉，并尊崇之，此两句赞词将充满天地。 “拜功是光亮”，此光亮显现于仆人之心间、脸庞、墓穴及被集合起来之时。 “施舍是明证”，证明仆人的信仰真诚，他不同于伪信士，伪信士不会慷慨施舍，因为他本不相信其被许诺的回赐。 “忍耐是光明”，忍耐即：控制自己，不急躁，不发怒，光明在发光的同时还带着温度和灼烧感，如：太阳光。因为忍耐是一件困难之事，它需要与自身做斗争，遏制自己的脾气，忍耐之人往往是发出光明之人，沉着冷静，常处于正确之地位，这是因为他坚持服从安拉，坚持远离罪恶，忍耐与灾难，及今世生活的各类磨难。 “古兰经是有益于你的证据”，即长期诵读，且遵守之，此为有益，或“也是有害于你的证据”，即将其束之高阁，不诵读，亦不遵守，此为有害。 然后先知（愿主福安之）叙说道：每个人散播于大地，忙于各自之营生，早晨睡起以后，离开家门，然后各自干着不同种类的工作。 其中有坚守服从安拉的人，此人便是将自己从火狱中释放出来，其中也有偏离正道、违抗安拉之人，此人便是将自己投入火狱而遭毁灭。",
+   "grade": "正确的",
+   "hints": [
+    "洁净有两种：表面的洁净，即小净和大净，内在的洁净，即认主独一、正信和清廉的工作。\r",
+    "坚守拜功之重要，因为它是仆人在今世和复生日的光亮。\r",
+    "施舍是信仰诚实的表现。\r",
+    "遵行古兰经，并相信之，使其成为有益于你的证据，而非有害于你。\r",
+    "一个人如果不服从安拉，那么必定违抗之。\r",
+    "每个人务必要工作，要么服从安拉，从而拯救自己，要么违抗安拉，从而毁灭自己。\r",
+    "忍耐需要克制脾气，并寻求安拉之回赐，其中有一定的困难。"
+   ],
+   "mapping": "same HadeethEnc record id 66526; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:40+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/66526",
+   "text": "据艾布·马立克·哈里斯·本·阿西姆·艾什阿里（愿主喜悦他）传述：\n安拉的使者（愿主福安之）说： “洁净是信仰的一半；一切赞颂全归安拉——它能充满天平；\n赞颂安拉超绝，并赞美安拉——它们能充满天地之间。礼拜是光明；施舍是明证；坚忍是光辉；《古兰经》是证据，要么对你有利，要么对你不利。每个人每天早晨都出门，做买卖，他或是解救自己，或是毁灭自己。”",
+   "title": "“洁净是信仰的一半；一切赞颂全归安拉——它能充满天平；\n赞颂安拉超绝，并赞美安拉——它们能充满天地之间。",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

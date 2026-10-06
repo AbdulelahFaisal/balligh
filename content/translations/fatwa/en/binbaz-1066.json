@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1066",
+ "source_content_sha256": "sha256:18f535414a98bd90ca4f4d99693221080db2101df9fb2a5776e7e380df4e909f",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:28:20.297091+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 672,
+  "completion_tokens": 456,
+  "total_tokens": 1128,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 672
+ },
+ "latency_ms": 4330,
+ "units": [
+  {
+   "id": "title",
+   "text": "What should one do upon finding a stray sheep?"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "I found two stray sheep and have asked about their owner in several places and at the sheep market but did not find an owner. Please advise me what to do with them."
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "If a person finds several heads of sheep or other livestock such as cattle and the like that are feared to be lost or go astray, he should announce them for a full year. If the owner is found, then praise be to Allah. If not, it becomes lawful for him... the Prophet (peace be upon him) said: \"Whoever shelters a stray is himself astray unless he announces it.\""
+  },
+  {
+   "id": "a2",
+   "text": "As for cattle and camels, they can protect themselves, so there is no need to take charge of them or seize them. Rather, he should leave them in the open desert so that their owners may find them. If they are in the markets, their owners will find them."
+  },
+  {
+   "id": "a3",
+   "text": "As for sheep, he should announce them for a full year. Likewise, any small animals of the sheep type that are feared to die... or the like; he should also announce them."
+  },
+  {
+   "id": "a4",
+   "text": "In summary: he should announce them for a full year. If the owner is found, then all is well; if not, they become his. The expenses, according to the correct opinion, are borne by him; the expenses of announcing them and making them known among the people are to be paid from the found property itself. If he leaves it and does not take it, there is no harm."
+  }
+ ]
+}

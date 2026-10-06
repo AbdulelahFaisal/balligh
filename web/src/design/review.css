@@ -1,0 +1,201 @@
+.rv-studio {
+  max-width: 1480px;
+  margin: 0 auto;
+}
+.rv-title {
+  align-items: flex-end;
+  flex-wrap: wrap;
+  padding: 0.5rem 0 1.5rem;
+}
+.rv-heading {
+  min-width: 0;
+  flex: 1 1 22rem;
+}
+.rv-display {
+  margin: 0.25rem 0 0;
+  overflow-wrap: anywhere;
+}
+.rv-primary {
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+.rv-primary > .bl-btn--primary {
+  min-height: 52px;
+  padding-inline: 1.6rem;
+  font-size: 1.05rem;
+}
+
+.rv-workspace {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.12fr) 248px;
+  grid-template-areas: "source lesson outline";
+  gap: 1.5rem 1.75rem;
+  align-items: start;
+}
+.rv-workspace > .rv-outline {
+  grid-area: outline;
+  position: sticky;
+  top: 1rem;
+  max-height: calc(100dvh - 2rem);
+  overflow-y: auto;
+}
+.rv-workspace .rv-outline__list {
+  flex-direction: column;
+}
+.rv-outline__list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.rv-outline__list > li {
+  display: contents;
+}
+.rv-workspace .bl-outline__item {
+  width: 100%;
+}
+.rv-workspace .rv-outline__sub {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  overflow-wrap: anywhere;
+}
+.rv-outline--compact {
+  position: static;
+  margin-bottom: 0.75rem;
+  padding: 0;
+  background: none;
+  box-shadow: none;
+}
+.rv-outline--compact .rv-outline__list {
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+.rv-outline--compact .bl-outline__item {
+  flex: 1 1 22%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.2rem;
+  min-width: 0;
+  min-height: 64px;
+  padding: 0.45rem 0.3rem;
+  text-align: center;
+}
+.rv-outline--compact .bl-outline__item.is-selected {
+  transform: translateY(-2px);
+}
+.rv-outline--compact .bl-outline__title,
+.rv-outline--compact .rv-outline__sub {
+  display: none;
+}
+.rv-outline--compact .bl-outline__name {
+  font-size: 0.85rem;
+  line-height: 1.25;
+}
+
+.rv-sheet {
+  grid-area: lesson;
+  min-width: 0;
+}
+.rv-sheet__inner {
+  padding: 1.25rem 1.25rem 1rem;
+}
+.rv-editor {
+  scroll-margin-top: 1rem;
+  transition: box-shadow 160ms ease, border-color 160ms ease;
+}
+.rv-editor:focus {
+  outline: none;
+}
+.rv-editor--selected {
+  border-color: var(--bl-teal-600, currentColor);
+  box-shadow: inset 4px 0 0 var(--bl-clay, currentColor), 0 0 0 1.5px var(--bl-teal-600, currentColor);
+}
+[dir="rtl"] .rv-editor--selected {
+  box-shadow: inset -4px 0 0 var(--bl-clay, currentColor), 0 0 0 1.5px var(--bl-teal-600, currentColor);
+}
+.rv-editor__head {
+  color: var(--bl-teal-900, inherit);
+}
+
+.rv-relation {
+  margin: 0.6rem 0 0.25rem;
+}
+.rv-relation__line {
+  overflow-wrap: anywhere;
+}
+.rv-relation__jump {
+  min-height: 40px;
+  padding: 0.25rem 0.6rem;
+  border: 1px solid var(--bl-teal-600, currentColor);
+  border-radius: var(--bl-r-sm, 6px);
+  background: var(--bl-paper, transparent);
+  text-decoration: underline;
+}
+.rv-relation__missing {
+  display: block;
+  padding: 0.45rem 0.7rem;
+  border-inline-start: 3px solid var(--bl-clay, currentColor);
+  background: var(--bl-clay-tint, transparent);
+  font-weight: 600;
+}
+
+.rv-side {
+  grid-area: source;
+  position: sticky;
+  top: 1rem;
+  display: grid;
+  gap: 1rem;
+  min-width: 0;
+  max-height: calc(100dvh - 2rem);
+  overflow-y: auto;
+  padding: 0.25rem 0.75rem 0.75rem 0.25rem;
+}
+.rv-source {
+  animation: none;
+}
+.rv-panel__title {
+  margin: 0 0 0.5rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+@media (max-width: 1023px) {
+  .rv-title {
+    flex-direction: column;
+    align-items: stretch;
+    padding-top: 0;
+    gap: 1rem;
+  }
+  .rv-heading {
+    flex: none;
+  }
+  .rv-primary {
+    width: 100%;
+    justify-content: space-between;
+  }
+  .rv-primary > .bl-btn--primary {
+    display: inline-flex;
+    min-height: 48px;
+  }
+  .rv-source {
+    box-shadow: var(--bl-edge, none);
+    padding: 1rem;
+  }
+}
+
+/* G5-N02: long titles, versions, hashes and URLs wrap inside the source column instead of widening it. */
+.rv-workspace > * {
+  min-width: 0;
+}
+.rv-source,
+.rv-source .bl-source-text {
+  min-width: 0;
+  max-width: 100%;
+  overflow-wrap: anywhere;
+}

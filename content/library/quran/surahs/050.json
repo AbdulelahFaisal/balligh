@@ -1,0 +1,1539 @@
+{
+ "ayah_count": 45,
+ "ayahs": [
+  {
+   "arabic": "قٓۚ وَٱلۡقُرۡءَانِ ٱلۡمَجِيدِ",
+   "aya": 1,
+   "id": 4631,
+   "tafsir": {
+    "arabic_moyassar": "{ق} سبق الكلام على الحروف المقطَّعة في أول سورة البقرة. أقسم الله تعالى بالقرآن الكريم ذي المجد والشرف."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১) অবশ্যই মুহাম্মাদ আল্লাহর রাসূল। আর অবশ্যই তোমাদেরকে কিয়ামত দিবসে হিসাব ও প্রতিদানের উদ্দেশ্যে পুনর্বার উঠানো হবে।",
+     "text": "ক্বাফ, সম্মানিত আল-কুরআনের শপথ।(১)"
+    },
+    "en": {
+     "footnotes": "[1] See footnote 2:1.",
+     "text": "Qāf[1]. By the Glorious Qur’an!"
+    },
+    "fr": {
+     "footnotes": "[1] Voir note verset 1, sourate 2.",
+     "text": "Qâf.[1] Par le Coran plein de gloire !"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Qāf. Demi Al-Qur`an yang mulia."
+    },
+    "ur": {
+     "footnotes": "[1] اس کا جواب قسم محذوف ہے لَتُبْعَثُنَّ (تم ضرور قیامت والے دن اٹھائے جاؤ گے) بعض کہتے ہیں اس کا جواب مابعد کا مضمون کلام ہے جس میں نبوت اور معاد کا اثبات ہے۔ (فتح القدیر وابن کثیر)۔",
+     "text": "ق! بہت بڑی شان والے اس قرآن کی قسم ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "戛弗。以尊严的《古兰经》盟誓，"
+    }
+   }
+  },
+  {
+   "arabic": "بَلۡ عَجِبُوٓاْ أَن جَآءَهُم مُّنذِرٞ مِّنۡهُمۡ فَقَالَ ٱلۡكَٰفِرُونَ هَٰذَا شَيۡءٌ عَجِيبٌ",
+   "aya": 2,
+   "id": 4632,
+   "tafsir": {
+    "arabic_moyassar": "بل عجب المكذبون للرسول صلى الله عليه وسلم أن جاءهم منذر منهم ينذرهم عقاب الله، فقال الكافرون بالله ورسوله: هذا شيء مستغرب يتعجب منه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "বরং তারা বিস্মিত হয়েছে যে, তাদের মধ্য থেকে একজন সতর্ককারী (রাসূল) তাদের কাছে এসেছে। অতঃপর কাফিররা বলল: ‘এতো এক আশ্চর্যজনক ব্যাপার।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "But they wonder that a warner has come to them from among themselves, so the disbelievers say, “This is something strange!"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "S’étonnant que l’un d’entre eux vienne les avertir, les mécréants disent : « Voilà une chose bien étrange !"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(Mereka tidak menerimanya) bahkan mereka tercengang karena telah datang kepada mereka seorang pemberi peringatan dari (kalangan) mereka sendiri, maka orang-orang kafir berkata, \"Ini adalah sesuatu yang sangat ajaib.\""
+    },
+    "ur": {
+     "footnotes": "[1] حالانکہ اس میں کوئی تعجب والی بات نہیں ہے۔ ہر نبی اسی قوم کا ایک فرد ہوتا تھا جس میں اسے مبعوث کیا جاتا تھا۔ اسی حساب سے قریش مکہ کو ڈرانے کےلئے قریش ہی میں سے ایک شخص کو نبوت کے لئے چن لیا گیا۔",
+     "text": "بلکہ انہیں تعجب معلوم ہوا کہ ان کے پاس انہی میں سے ایک آگاه کرنے واﻻ آیا تو کافروں نے کہا کہ یہ ایک عجیب چیز ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "难道他们因同族的警告者来临他们而惊讶吗？不归信的人们说：“这是奇事！"
+    }
+   }
+  },
+  {
+   "arabic": "أَءِذَا مِتۡنَا وَكُنَّا تُرَابٗاۖ ذَٰلِكَ رَجۡعُۢ بَعِيدٞ",
+   "aya": 3,
+   "id": 4633,
+   "tafsir": {
+    "arabic_moyassar": "أإذا متنا وصِرْنا ترابًا، كيف يمكن الرجوع بعد ذلك إلى ما كنا عليه؟ ذلك رجع بعيد الوقوع."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(২) তখনো কি আমরা পুনরুত্থিত হবো?",
+     "text": "‘আমরা যখন মারা যাব এবং মাটিতে পরিণত হব।(২) এ ফিরে যাওয়া সুদূরপরাহত।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "What! Is it when we die and become dust [will we return to life]? That is a far-fetched return.”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Serons-nous, une fois morts et réduits en poussière, rendus à la vie ? Voilà qui est impensable ! »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Apakah apabila kami telah mati dan sudah menjadi tanah (akan kembali lagi)? Itu adalah suatu pengembalian yang tidak mungkin."
+    },
+    "ur": {
+     "footnotes": "[1] حالانکہ عقلی طور پر اس میں بھی کوئی استحالہ نہیں ہے۔ آگے اس کی کچھ وضاحت ہے۔",
+     "text": "کیا جب ہم مر کر مٹی ہو جائیں گے۔ پھر یہ واپسی دور (از عقل) ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "难道我们既死之后，已变尘土，还要还原吗？那太不近情理了。”"
+    }
+   }
+  },
+  {
+   "arabic": "قَدۡ عَلِمۡنَا مَا تَنقُصُ ٱلۡأَرۡضُ مِنۡهُمۡۖ وَعِندَنَا كِتَٰبٌ حَفِيظُۢ",
+   "aya": 4,
+   "id": 4634,
+   "tafsir": {
+    "arabic_moyassar": "قد علمنا ما تنقص الأرض وتُفني من أجسامهم، وعندنا كتاب محفوظ من التغيير والتبديل، بكل ما يجري عليهم في حياتهم وبعد مماتهم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৩) যাতে আল্লাহর পক্ষ থেকে নির্ধারিত তাদের জীবন ও মরণোত্তর যা কিছু হবে সবই সংরক্ষিত আছে।",
+     "text": "অবশ্যই আমি জানি মাটি তাদের (মৃত্যুদেহের) থেকে যতটুকু ক্ষয় করে। আর আমার কাছে আছে অধিক সংরক্ষণকারী কিতাব।(৩)"
+    },
+    "en": {
+     "footnotes": "[2] Or a Record that preserves everything.",
+     "text": "We certainly know what the earth consumes of them [after their death], and with Us is a Preserved Record[2]."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Nous savons parfaitement ce que la terre consume de leurs corps décomposés. Nous avons en effet un livre où tout est soigneusement consigné."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sungguh, Kami telah mengetahui apa yang ditelan bumi dari (tubuh) mereka, sebab pada Kami ada kitab (catatan) yang terpelihara baik."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی زمین انسان کے گوشت، ہڈی اور بال وغیرہ کو بوسیدہ کرکے کھا جاتی ہے یعنی اسے ریزہ ریزہ کر دیتی ہے وہ نہ صرف ہمارے علم میں ہے بلکہ ہمارے پاس لوح محفوظ میں بھی درج ہے۔ اس لئے ان تمام اجزا کو جمع کرکے انہیں دوبارہ زندہ کر دینا ہمارے لئے قطعاً مشکل امر نہیں ہے۔",
+     "text": "زمین جو کچھ ان سے گھٹاتی ہے وه ہمیں معلوم ہے اور ہمارے پاس سب یاد رکھنے والی کتاب ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我确己知道大地对于他们的剥蚀，我这里有一本被保护的天经。"
+    }
+   }
+  },
+  {
+   "arabic": "بَلۡ كَذَّبُواْ بِٱلۡحَقِّ لَمَّا جَآءَهُمۡ فَهُمۡ فِيٓ أَمۡرٖ مَّرِيجٍ",
+   "aya": 5,
+   "id": 4635,
+   "tafsir": {
+    "arabic_moyassar": "بل كذَّب هؤلاء المشركون بالقرآن حين جاءهم، فهم في أمر مضطرب مختلط، لا يثبتون على شيء، ولا يستقر لهم قرار."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "বরং তারা সত্যকে (আল-কুরআনকে) অস্বীকার করেছে, যখনই তাদের কাছে সত্য এসেছে। অতএব তারা সংশয়যুক্ত বিষয়ের মধ্যে রয়েছে।"
+    },
+    "en": {
+     "footnotes": "[3] They are in confusion concerning the Qur’an, claiming that it is poetry, magic, or ancient fables. They are also in confusion concerning the Prophet (ﷺ), claiming that he is a poet, a fabricator, or insane.",
+     "text": "Rather they rejected the truth when it came to them, so they are in a state of confusion[3]."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Mais pour avoir renié la vérité qui leur a été apportée, les voilà fort embarrassés."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Bahkan mereka telah mendustakan kebenaran ketika (kebenaran itu) datang kepada mereka, maka mereka berada dalam keadaan kacau balau."
+    },
+    "ur": {
+     "footnotes": "[1] حَقٌّ (سچی بات) سے مراد قرآن، اسلام یا نبوت محمدیہ ہے، مفہوم سب کا ایک ہی ہے مَرِيجٌ کے معنی محتاط، مضطرب یا ملتبس کے ہیں۔ یعنی ایسا معاملہ جو ان پر مشتبہ ہو گیا ہے، جس سے وہ ایک الجھاؤ میں پڑ گئے ہیں، کبھی اسے جادو گر کہتے ہیں، کبھی شاعر اور کبھی کاﮨﻦ۔",
+     "text": "بلکہ انہوں نے سچی بات کو جھوٹ کہا ہے جبکہ وه ان کے پاس پہنچ چکی پس وه ایک الجھاؤ میں پڑ گئے ہیں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们否认已降示他们的真理，所以他们陷于混乱的状态中。"
+    }
+   }
+  },
+  {
+   "arabic": "أَفَلَمۡ يَنظُرُوٓاْ إِلَى ٱلسَّمَآءِ فَوۡقَهُمۡ كَيۡفَ بَنَيۡنَٰهَا وَزَيَّنَّٰهَا وَمَا لَهَا مِن فُرُوجٖ",
+   "aya": 6,
+   "id": 4636,
+   "tafsir": {
+    "arabic_moyassar": "أغَفَلوا حين كفروا بالبعث، فلم ينظروا إلى السماء فوقهم، كيف بنيناها مستوية الأرجاء، ثابتة البناء، وزيناها بالنجوم، وما لها من شقوق وفتوق، فهي سليمة من التفاوت والعيوب؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৪) পুনরুত্থান অস্বীকারকারীরা।",
+     "text": "তারা (৪) কি তাদের ওপরে আসমানের দিকে তাকায় না, কীভাবে আমি তা বানিয়েছি এবং তা সুশোভিত করেছি? আর তাতে কোনো ফাটল (খুঁত) নেই।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Have they not then looked at the sky above them – how We built it and adorned it [with stars], and it has no rifts?"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Ne voient-ils pas le ciel au-dessus d’eux, comme Nous l’avons édifié, paré d’étoiles et créé sans faille ?"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Maka tidakkah mereka memperhatikan langit yang ada di atas mereka, bagaimana cara Kami membangunnya dan menghiasinya, dan tidak terdapat retak-retak sedikit pun?"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی بغیر ستون کے، جن کا اسے کوئی سہارا ہو۔\n[2] یعنی ستاروں سے اسے مزین کیا۔\n[3] اسی طرح کوئی فرق وتفاوت بھی نہیں ہے۔ جیسے دوسرے مقام پر فرمایا۔ «الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ طِبَاقًا مَا تَرَى فِي خَلْقِ الرَّحْمَنِ مِنْ تَفَاوُتٍ فَارْجِعِ الْبَصَرَ هَلْ تَرَى مِنْ فُطُورٍ، ثُمَّ ارْجِعِ الْبَصَرَ كَرَّتَيْنِ يَنْقَلِبْ إِلَيْكَ الْبَصَرُ خَاسِئًا وَهُوَ حَسِيرٌ» (الملك: 3- 4)۔",
+     "text": "کیا انہوں نے آسمان کو اپنے اوپر نہیں دیکھا؟ کہ ہم نے اسے کس طرح بنایا ہے[1] اور زینت دی ہے[2] اس میں کوئی شگاف نہیں.[3]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "难道他们没有仰观天体吗？我是怎样建造它，点缀它，使它没有缺陷的？"
+    }
+   }
+  },
+  {
+   "arabic": "وَٱلۡأَرۡضَ مَدَدۡنَٰهَا وَأَلۡقَيۡنَا فِيهَا رَوَٰسِيَ وَأَنۢبَتۡنَا فِيهَا مِن كُلِّ زَوۡجِۭ بَهِيجٖ",
+   "aya": 7,
+   "id": 4637,
+   "tafsir": {
+    "arabic_moyassar": "والأرض وسَّعْناها وفرشناها، وجعلنا فيها جبالا ثوابت; لئلا تميل بأهلها، وأنبتنا فيها من كل نوع حسن المنظر نافع، يَسُرُّ ويبهج الناظر إليه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৫) যাতে জমিন নড়াচড়া না করে।",
+     "text": "আর আমি জমিনেকে (বসবাসের জন্যে) বিস্তৃত করেছি, তাতে পর্বতমালা স্থাপন করেছি(৫) এবং তাতে আমি উদ্‌গত করেছি সব ধরনের চোখ জুড়ানো উদ্ভিদ।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "And We have spread out the earth and set therein firm mountains, and caused to grow therein plants of every pleasant kind,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Quant à la terre, Nous en avons fait une vaste étendue où Nous avons solidement planté des montagnes et où Nous faisons pousser une végétation variée et agréable à regarder."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan bumi yang Kami hamparkan dan Kami pancangkan di atasnya gunung-gunung yang kokoh, dan Kami tumbuhkan di atasnya tanam-tanaman yang indah,"
+    },
+    "ur": {
+     "footnotes": "[1] اور بعض نے زوج کےمعنی جوڑا کیے ہیں۔ یعنی ہر قسم کی نباتات اور اشیا کو جوڑا جوڑا (نر اور مادہ) بنایا ہے۔ بھیج کے معنی، خوش منظر، شاداب اور حسین۔",
+     "text": "اور زمین کو ہم نے بچھا دیا اور اس میں ہم نے پہاڑ ڈال دیئے ہیں اور اس میں ہم نے قسم قسم کی خوشنما چیزیں اگا دی ہیں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我曾展开大地，并将许多山岳投在上面，还使各种美丽的植物生长出来，"
+    }
+   }
+  },
+  {
+   "arabic": "تَبۡصِرَةٗ وَذِكۡرَىٰ لِكُلِّ عَبۡدٖ مُّنِيبٖ",
+   "aya": 8,
+   "id": 4638,
+   "tafsir": {
+    "arabic_moyassar": "خلق الله السموات والأرض وما فيهما من الآيات العظيمة عبرة يُتبصر بها مِن عمى الجهل، وذكرى لكل عبد خاضع خائف وَجِل، رجَّاع إلى الله عز وجل."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "(আমি এ সব এ জন্য সৃষ্টি করেছি) আল্লাহ অভিমুখী প্রতিটি বান্দার জন্য জ্ঞান ও উপদেশ হিসেবে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "as a source of insight and a reminder to every slave who turns [to Allah]."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Voilà de quoi ouvrir les yeux de tout serviteur en quête de vérité et l’inciter à méditer."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "untuk menjadi pelajaran dan peringatan bagi setiap hamba yang kembali (tunduk kepada Allah)."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی آسمان وزمین کی تخلیق اور دیگر اشیا کا مشاہدہ اور ان کی معرفت ہر اس شخص کے لئے بصیرت ودانائی اور عبرت ونصیحت کا باعث ہے جو اللہ کی طرف رجوع کرنے والا ہے۔",
+     "text": "تاکہ ہر رجوع کرنے والے بندے کے لئے بینائی اور دانائی کا ذریعہ ہو.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "为的是启发和教诲每个归依的仆人。"
+    }
+   }
+  },
+  {
+   "arabic": "وَنَزَّلۡنَا مِنَ ٱلسَّمَآءِ مَآءٗ مُّبَٰرَكٗا فَأَنۢبَتۡنَا بِهِۦ جَنَّٰتٖ وَحَبَّ ٱلۡحَصِيدِ",
+   "aya": 9,
+   "id": 4639,
+   "tafsir": {
+    "arabic_moyassar": "ونزَّلنا من السماء مطرًا كثير المنافع، فأنبتنا به بساتين كثيرة الأشجار، وحب الزرع المحصود."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর আমি আসমান থেকে বরকতময় (বৃষ্টির) পানি নাযিল করেছি। অতঃপর তা দ্বারা আমি উৎপন্ন করি বাগ-বাগিচা ও কর্তনযোগ্য শস্যদানা।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "And We send down from the sky blessed rain, with which We cause to grow gardens and grain for harvest,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Nous faisons descendre du ciel une eau bénie par laquelle Nous faisons pousser des vergers et des céréales qui seront bientôt moissonnées,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan dari langit Kami turunkan air yang memberi berkah, lalu Kami tumbuhkan dengan (air) itu pepohonan yang rindang dan biji-bijian yang dapat dipanen,"
+    },
+    "ur": {
+     "footnotes": "[1] کٹنے والے غلے سے مراد وہ کھیتیاں ہیں، جن سے گندم، مکئی، جوار، باجرہ، ڈالیں اور چاول وغیرہ پیدا ہوتے ہیں اور پھر ان کا ذخیرہ کر لیا جاتا ہے۔",
+     "text": "اور ہم نے آسمان سے بابرکت پانی برسایا اور اس سے باغات اور کٹنے والے کھیت کے غلے پیدا کیے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我从天上降下吉祥的雨水，就借它而生长许多果树和五谷，"
+    }
+   }
+  },
+  {
+   "arabic": "وَٱلنَّخۡلَ بَاسِقَٰتٖ لَّهَا طَلۡعٞ نَّضِيدٞ",
+   "aya": 10,
+   "id": 4640,
+   "tafsir": {
+    "arabic_moyassar": "وأنبتنا النخل طِوالا لها طلع متراكب بعضه فوق بعضٍ."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "(আরো উৎপন্ন করি) উঁচু উঁচু খেজুরগাছ, যাতে আছে গুচ্ছ গুচ্ছ খেজুর ছড়া,"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and towering palm trees having clustered fruit,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "de même que des dattiers aux troncs élancés et aux régimes bien ordonnés,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan pohon kurma yang tinggi-tinggi yang mempunyai mayang yang bersusun-susun,"
+    },
+    "ur": {
+     "footnotes": "[1] بَاسِقَاتٍ کے معنی طِوَالا شِاهِقَاتٍ، بلند وبالا طَلْعٌ، کھجور کا وہ گدرا گدرا پھل، جو پہلے پہل نکلتا ہے، نَضِيدٌ کے معنی تہ بہ تہ۔ باغات میں کھجور کا پھل بھی آجاتا ہے۔ لیکن اسے الگ سے بطور خاص ذکر کیا، جس سے کھجور کی وہ اہمیت واضح ہے جو عرب میں اسے حاصل ہے۔",
+     "text": "اور کھجوروں کے بلند وباﻻ درخت جن کے خوشے تہ بہ تہ ہیں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "并生长扶疏的椰枣树，它有累累的果实，"
+    }
+   }
+  },
+  {
+   "arabic": "رِّزۡقٗا لِّلۡعِبَادِۖ وَأَحۡيَيۡنَا بِهِۦ بَلۡدَةٗ مَّيۡتٗاۚ كَذَٰلِكَ ٱلۡخُرُوجُ",
+   "aya": 11,
+   "id": 4641,
+   "tafsir": {
+    "arabic_moyassar": "أنبتنا ذلك رزقًا للعباد يقتاتون به حسب حاجاتهم، وأحيينا بهذا الماء الذي أنزلناه من السماء بلدة قد أجدبت وقحطت، فلا زرع فيها ولا نبات، كما أحيينا بذلك الماء الأرض الميتة نخرجكم يوم القيامة أحياء بعد الموت."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "(আমি এগুলো উৎপন্ন করি) আমার বান্দাদের জন্য রিযকস্বরূপ। আর আমি পানি দ্বারা মৃত শহর সঞ্জীবিত করি। এভাবেই তোমাদের পুনরুত্থান ঘটবে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "as a provision for people, and We revive thereby a dead land; likewise will be the resurrection."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "pour servir de nourriture aux hommes. Par cette eau, Nous redonnons vie à la terre morte. C’est ainsi que les morts seront ressuscités."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(sebagai) rezeki bagi hamba-hamba (Kami), dan Kami hidupkan dengan (air) itu negeri yang mati (tandus). Seperti itulah terjadinya kebangkitan (dari kubur)."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی جس طرح بارش سے مردہ زمین کو زندہ اور شاداب کر دیتے ہیں، اسی طرح قیامت والے دن ہم قبروں سے انسانوں کو زندہ کرکے نکال لیں گے۔",
+     "text": "بندوں کی روزی کے لئے اور ہم نے پانی سے مرده شہر کو زنده کر دیا۔ اسی طرح (قبروں سے) نکلنا ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "用作众仆的给养。我借雨水而使已死的地方复活。死人的复活也是这样的。"
+    }
+   }
+  },
+  {
+   "arabic": "كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوحٖ وَأَصۡحَٰبُ ٱلرَّسِّ وَثَمُودُ",
+   "aya": 12,
+   "id": 4642,
+   "tafsir": {
+    "arabic_moyassar": "كذَّبت قبل هؤلاء المشركين من قريش قومُ نوح وأصحاب البئر وثمود، وعاد وفرعون وقوم لوط، وأصحاب الأيكة قومُ شعيب، وقوم تُبَّع الحِمْيَري، كل هؤلاء الأقوام كذَّبوا رسلهم، فحق عليهم الوعيد الذي توعدهم الله به على كفرهم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তাদের পূর্বে (নবীদেরকে) মিথ্যারোপ করেছিল নূহের সম্প্রদায়, রাস্ এর অধিবাসী ও সামূদ সম্প্রদায়।"
+    },
+    "en": {
+     "footnotes": "[4] i.e., before the pagans of Makkah.\n [5] i.e., people of prophet Shu‘ayb or other people. See footnote 25:38.",
+     "text": "The people of Noah rejected [the truth] before them[4], as well as the companions of the Well[5] and Thamūd,"
+    },
+    "fr": {
+     "footnotes": "[2] Littéralement : les hommes du puits.",
+     "text": "Déjà, avant eux, le peuple de Noé, les habitants d’Ar-Rass[2] et les Thamoud avaient crié au mensonge,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sebelum mereka, kaum Nuh, penduduk Rass dan Samud telah mendustakan (rasul-rasul),"
+    },
+    "ur": {
+     "footnotes": "[1] أَصْحَابُ الرَّسِّ کی تعیین میں مفسرین کےدرمیان بہت اختلاف ہے۔ امام ابن جریر طبری نے اس قول کو ترجیح دی ہےجس میں انہیں اصحاب اخدود قرار دیا گیا ہے، جس کا ذکر سورۂ بروج میں ہے (تفصیل کے لئے دیکھئے ابن کثیر وفتح القدیر، سورۃ الفرقان آیت 38)۔",
+     "text": "ان سے پہلے نوح کی قوم نے اور رس والوں[1] نے اور ﺛمود نے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "在他们之前否认〔使者〕的人，有努哈的宗族、兰斯的居民、赛莫德人、"
+    }
+   }
+  },
+  {
+   "arabic": "وَعَادٞ وَفِرۡعَوۡنُ وَإِخۡوَٰنُ لُوطٖ",
+   "aya": 13,
+   "id": 4643,
+   "tafsir": {
+    "arabic_moyassar": "كذَّبت قبل هؤلاء المشركين من قريش قومُ نوح وأصحاب البئر وثمود، وعاد وفرعون وقوم لوط، وأصحاب الأيكة قومُ شعيب، وقوم تُبَّع الحِمْيَري، كل هؤلاء الأقوام كذَّبوا رسلهم، فحق عليهم الوعيد الذي توعدهم الله به على كفرهم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "(অনুরূপভাবে) ‘আদ, ফির‘আউন ও লূত জাতি (মিথ্যারোপ করেছে)।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and so did ‘Ād, Pharaoh, the people of Lot,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "de même que les ‘Ad, Pharaon et le peuple de Loth,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan (demikian juga) kaum 'Ād, kaum Fir'aun dan kaum Luṭ,"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "اور عاد نے فرعون نے اور برادران لوط نے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "阿德人、法老、鲁特的同胞、"
+    }
+   }
+  },
+  {
+   "arabic": "وَأَصۡحَٰبُ ٱلۡأَيۡكَةِ وَقَوۡمُ تُبَّعٖۚ كُلّٞ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+   "aya": 14,
+   "id": 4644,
+   "tafsir": {
+    "arabic_moyassar": "كذَّبت قبل هؤلاء المشركين من قريش قومُ نوح وأصحاب البئر وثمود، وعاد وفرعون وقوم لوط، وأصحاب الأيكة قومُ شعيب، وقوم تُبَّع الحِمْيَري، كل هؤلاء الأقوام كذَّبوا رسلهم، فحق عليهم الوعيد الذي توعدهم الله به على كفرهم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আইকার অধিবাসী ও তুববা‘ সম্প্রদায়। সকলেই রাসূলদেরকে মিথ্যাবাদী বলেছিল। ফলে তাদের ওপর আমার শাস্তি যথার্থভাবে আপতিত হয়েছে।"
+    },
+    "en": {
+     "footnotes": "[6] i.e., the people of Shu‘ayb (عليه السلام).\n [7] Tubba‘ al-Himyari, an ancient righteous Yemeni king. See 44:37.",
+     "text": "and the dwellers of the Forest[6], and the people of Tubba‘[7]. All of them rejected the messengers, so My warning was fulfilled."
+    },
+    "fr": {
+     "footnotes": "[3] Voir note verset 78, sourate 15.\n[4] Le peuple de Saba, selon Ibn Kathîr.",
+     "text": "les adorateurs d’Al-Aykah[3] et le peuple de Toubba’[4], qui tous ont traité les Messagers d’imposteurs. Ma menace fut donc mise à exécution."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan (juga) penduduk Aikah serta kaum Tubba'. Semuanya telah mendustakan rasul-rasul, maka berlakulah ancaman-Ku (atas mereka)."
+    },
+    "ur": {
+     "footnotes": "[1] أَصْحَابُ الأيْكَةِ کے لئے دیکھئے سورۃ الشعراء، آیت 176 کا حاشیہ۔\n[2] قَوْمُ تُبَّعٍ کے لئے دیکھئے سورۃ الدخان، آیت 37 کا حاشیہ۔\n[3] یعنی ان میں سے ہر ایک نے اپنے اپنے پیغمبر کو جھٹلایا۔ اس میں رسول اللہ (صلى الله عليه وسلم) کےلئے تسلی ہے۔ گویا آپ (صلى الله عليه وسلم) کو کہا جا رہا ہے کہ آپ (صلى الله عليه وسلم) اپنی قوم کی طرف سے اپنی تکذیب پر غمگین نہ ہوں اس لئے کہ یہ کوئی نئی بات نہیں ہے، آپ (صلى الله عليه وسلم) سے پہلے انبیا علیہم السلام کے ساتھ بھی ان کی قوموں نے یہی معاملہ کیا۔ دوسرے اہل مکہ کو تنبیہ ہے کہ پچھلی قوموں نے انبیا علیہم السلام کی تکذیب کی تو دیکھ لو ان کا کیا انجام ہوا؟ کیا تم بھی اپنے لئے یہی انجام پسند کرتے ہو؟ اگر یہ انجام پسند نہیں کرتے تو تکذیب کا راستہ چھوڑ دو اور پیغمبر (صلى الله عليه وسلم) پر ایمان لے آؤ۔",
+     "text": "اور ایکہ[1] والوں نے تبع کی قوم[2] نے بھی تکذیب کی تھی۔ سب نے پیغمبروں کو جھٹلایا[3] پس میرا وعدہٴ عذاب ان پر صادق آگیا."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "丛林的居民和图白的百姓，统统都否认过使者，故我所警告的刑罚，是必然降临的。"
+    }
+   }
+  },
+  {
+   "arabic": "أَفَعَيِينَا بِٱلۡخَلۡقِ ٱلۡأَوَّلِۚ بَلۡ هُمۡ فِي لَبۡسٖ مِّنۡ خَلۡقٖ جَدِيدٖ",
+   "aya": 15,
+   "id": 4645,
+   "tafsir": {
+    "arabic_moyassar": "أفَعَجَزْنا عن ابتداع الخلق الأول الذي خلقناه ولم يكن شيئًا، فنعجز عن إعادتهم خلقًا جديدًا بعد فنائهم؟ لا يعجزنا ذلك، بل نحن عليه قادرون، ولكنهم في حَيْرة وشك من أمر البعث والنشور."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৬) ফলে পুনরুত্থানে আমি কি অপারগ হবো!",
+     "text": "আমি কি প্রথমবার সৃষ্টি করেই ক্লান্ত হয়ে পড়েছি?(৬) বরং তারা নতুন সৃষ্টির বিষয়ে সন্দেহে নিপতিত।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Were We wearied by their first creation? No indeed, yet they are in confusion concerning the second creation."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "N’avons-Nous pas été capable de procéder à la première création pour qu’ils doutent de Notre capacité à créer de nouveau ?"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Maka apakah Kami letih dengan penciptaan yang pertama? (Sama sekali tidak), bahkan mereka dalam keadaan ragu-ragu tentang penciptaan yang baru."
+    },
+    "ur": {
+     "footnotes": "[1] کہ قیامت والے دن دوبارہ پیدا کرنا ہمارے لئے مشکل ہوگا۔ مطلب یہ ہے کہ جب پہلی مرتبہ پیدا کرنا ہمارے لئے مشکل نہیں تھا تو دوبارہ زندہ کرنا تو پہلی مرتبہ پیدا کرنے سے زیادہ آسان ہے۔ جیسے دوسرے مقام پر فرمایا «وَهُوَ الَّذِي يَبْدَأُ الْخَلْقَ ثُمَّ يُعِيدُهُ وَهُوَ أَهْوَنُ عَلَيْهِ» (الروم: 27) سورۂ یٰسین، آیت 78- 79 میں بھی یہ مضمون بیان کیا گیا ہے۔ اور حدیث قدسی میں ہے۔ اللہ تعالیٰ فرماتا ہے ”ابن آدم یہ کہہ کر مجھے ایذا پہنچاتا ہے کہ اللہ مجھے ہر گز دوبارہ پیدا کرنے پر قادر نہیں ہے جس طرح اس نے پہلی مرتبہ مجھے پیدا کیا۔ حالانکہ پہلی مرتبہ پیدا کرنا، دوسری مرتبہ پیدا کرنے سے زیادہ آسان نہیں ہے“ یعنی اگر مشکل ہے تو پہلی مرتبہ پیدا کرنا نہ کہ دوسری مرتبہ (البخاري تفسير سورة الإخلاص)۔\n[2] یعنی یہ اللہ کی قدرت کے منکر نہیں، بلکہ اصل بات یہ ہے کہ انہیں قیامت کے وقوع اور اس میں دوبارہ زندگی کے بارے میں ہی شک ہے۔",
+     "text": "کیا ہم پہلی بار کے پیدا کرنے سے تھک گئے[1] ؟ بلکہ یہ لوگ نئی پیدائش کی طرف سے شک میں ہیں.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我曾因创造而疲倦吗？不然，他们对于再造，是在疑惑中的。"
+    }
+   }
+  },
+  {
+   "arabic": "وَلَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ وَنَعۡلَمُ مَا تُوَسۡوِسُ بِهِۦ نَفۡسُهُۥۖ وَنَحۡنُ أَقۡرَبُ إِلَيۡهِ مِنۡ حَبۡلِ ٱلۡوَرِيدِ",
+   "aya": 16,
+   "id": 4646,
+   "tafsir": {
+    "arabic_moyassar": "ولقد خلقنا الإنسان، ونعلم ما تُحَدِّث به نفسه، ونحن أقرب إليه من حبل الوريد وهو عِرْق في العنق متصل بالقلب."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৭) এখানে نحن বা ‘আমরা’ দ্বারা আল্লাহ নিজেকে বা ফিরিশতাদেরকে বুঝিয়েছেন। আল্লাহ হলে অর্থ, মহান আল্লাহর জ্ঞানের ব্যপ্তি এত বেশি যে, তিনি তার বান্দার গলার ধমনী হতেও অধিক নিকটবর্তী হয়েই তাকে পর্যবেক্ষণ করেন। আর ফিরিশতা হলে তারা তো সদাসর্বদা মানুষের সাথেই থাকেন।[ইবনু কাসীর]",
+     "text": "আর অবশ্যই আমি মানুষকে সৃষ্টি করেছি এবং তার প্রবৃত্তি তাকে যে কুমন্ত্রণা দেয় তাও আমি জানি। আর আমি তার গলার ধমনি হতেও অধিক নিকটবর্তী।(৭)"
+    },
+    "en": {
+     "footnotes": "[8] i.e., We have absolute knowledge of everything about him, or Our angels are closer to him, as mentioned in the next verse.",
+     "text": "We have created man and know what his soul whispers within him, for We are closer to him than his jugular vein[8]."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Ayant créé l’homme, Nous connaissons parfaitement les secrets de son âme. Nous sommes plus proche de lui que sa veine jugulaire,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan sungguh, Kami telah menciptakan manusia dan mengetahui apa yang dibisikkan oleh hatinya, dan Kami lebih dekat kepadanya daripada urat lehernya."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی انسان جو کچھ چھپاتا اور دل میں مستور رکھتا ہے، وہ سب ہم جانتے ہیں۔ وسوسہ، دل میں گزرنے والےخیالات کو کہا جاتا ہے جس کا علم اس انسان کے علاوہ کسی کو نہیں ہوتا۔ لیکن اللہ ان وسوسوں کو بھی جانتا ہے۔ اسی لئے حدیث میں آتا ہے ”اللہ تعالیٰ نے میری امت سےدل میں گزرنے والے خیالات کو معاف فرما دیا ہے یعنی ان پرگرفت نہیں فرمائے گا۔ جب تک وہ زبان سے ان کا اظہار یا ان پر عمل نہ کرے“۔ (البخاري كتاب الإيمان باب إذا حنث ناسيا في الأيمان مسلم، باب تجاوز الله عن حديث النفس والخواطر بالقلب إذا لم تستقر)۔\n[2] وَرِيدٌ شہ رگ یا رگ جان کو کہا جاتا ہے جس کے کٹنے سے موت واقع ہو جاتی ہے۔ یہ رگ حلق کے ایک کنارے سے انسان کے کندھے تک ہوتی ہے۔ اس قرب سے مراد قرب علمی ہے یعنی علم کے لحاظ سے ہم انسان کے بالکل بلکہ اتنے قریب ہیں کہ اس کے نفس کی باتوں کو بھی جانتے ہیں۔ امام ابن کثیر فرماتے ہیں کہ نَحْنُ سے مراد فرشتے ہیں۔ یعنی ہمارے فرشتے انسان کی رگ جان سے بھی قریب ہیں۔ کیونکہ انسان کے دائیں بائیں دو فرشتے ہر وقت موجود رہتے ہیں، وہ انسان کی ہر بات اور عمل کو نوٹ کرتے ہیں يَتَلَقَّى الْمُتَلَقِّيَانِ کے معنی ہیں يَأْخُذَانِ وَيُثَبّتَانِ۔ امام شوکانی نے اس کا مطلب بیان کیا ہے کہ ہم انسان کےتمام احوال کو جانتے ہیں، بغیر اس کے کہ ہم ان فرشتوں کےمحتاج ہوں جن کو ہم نے انسان کے اعمال واقوال لکھنے کے لئے مقرر کیا ہے، یہ فرشتے تو ہم نے صرف اتمام حجت کے لئے مقرر کیے ہیں، دو فرشتوں سےمراد بعض کے نزدیک ایک نیکی اور دوسرا بدی لکھنےکے لئے۔ اور بعض کےنزدیک رات اور دن کے فرشتے مراد ہیں۔ رات کے دو فرشتے الگ اور دن کے دو فرشتے الگ (فتح القدیر)۔",
+     "text": "ہم نے انسان کو پیدا کیا ہے اور اس کے دل میں جو خیاﻻت اٹھتے ہیں ان سے ہم واقف ہیں[1] اور ہم اس کی رگ جان سے بھی زیاده اس سے قریب ہیں.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我确已创造人，我知道他心中的妄想，我比他的命脉还近于他。"
+    }
+   }
+  },
+  {
+   "arabic": "إِذۡ يَتَلَقَّى ٱلۡمُتَلَقِّيَانِ عَنِ ٱلۡيَمِينِ وَعَنِ ٱلشِّمَالِ قَعِيدٞ",
+   "aya": 17,
+   "id": 4647,
+   "tafsir": {
+    "arabic_moyassar": "حين يكتب المَلَكان المترصدان عن يمينه وعن شماله أعماله. فالذي عن اليمين يكتب الحسنات، والذي عن الشمال يكتب السيئات."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "যখন ডানে ও বামে বসা দু’জন লিপিবদ্ধকারী ফিরিশতা পরস্পর (তার আমলনামা) গ্রহণ করবে।"
+    },
+    "en": {
+     "footnotes": "[9] Recording each word and deed.\n [10] There are two angle scribes: one on the right of each person, recording the good deeds, while the other on the left, recording evil deeds. They accompany humans all the time, except when one is intimate with their spouse or uses the bathroom.",
+     "text": "When the two angel scribes, constantly accompanying him[9], one on the right, and the other on the left[10]."
+    },
+    "fr": {
+     "footnotes": "[5] Chargé de consigner ses bonnes actions.\n[6] Chargé d’inscrire ses mauvaises actions.",
+     "text": "au moment où les deux anges, l’un posté sur sa droite[5], l’autre sur sa gauche[6], recueillent ses moindres faits et gestes."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(Ingatlah) ketika dua malaikat mencatat (perbuatannya), yang satu duduk di sebelah kanan dan yang lain di sebelah kiri."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "جس وقت دو لینے والے جا لیتے ہیں ایک دائیں طرف اور ایک بائیں طرف بیٹھا ہوا."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "当坐在右边和左边的两个记录的天使记录各人的言行的时候，"
+    }
+   }
+  },
+  {
+   "arabic": "مَّا يَلۡفِظُ مِن قَوۡلٍ إِلَّا لَدَيۡهِ رَقِيبٌ عَتِيدٞ",
+   "aya": 18,
+   "id": 4648,
+   "tafsir": {
+    "arabic_moyassar": "ما يلفظ من قول فيتكلم به إلا لديه مَلَك يرقب قوله، ويكتبه، وهو مَلَك حاضر مُعَدٌّ لذلك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "সে যে কথাই উচ্চারণ করে তার কাছে সদা উপস্থিত সংরক্ষণকারী (ফিরিশতা) রয়েছে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Not a single word he utters but there is with him a vigilant watcher, ready [to record it]."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Il ne prononce, en effet, aucun mot sans avoir à ses côtés un ange prêt à le consigner."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Tidak ada suatu kata yang diucapkannya melainkan ada di sisinya malaikat pengawas yang selalu siap (mencatat)."
+    },
+    "ur": {
+     "footnotes": "[1] رَقِيبٌ، محافظ، نگران اور انسان کے قول اور عمل کا انتظار کرنے والا۔ عَتِيدٌ حاضر اور تیار۔",
+     "text": "(انسان) منھ سے کوئی لفﻆ نکال نہیں پاتا مگر کہ اس کے پاس نگہبان تیار ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他每说一句话，他面前都有天使当场监察。"
+    }
+   }
+  },
+  {
+   "arabic": "وَجَآءَتۡ سَكۡرَةُ ٱلۡمَوۡتِ بِٱلۡحَقِّۖ ذَٰلِكَ مَا كُنتَ مِنۡهُ تَحِيدُ",
+   "aya": 19,
+   "id": 4649,
+   "tafsir": {
+    "arabic_moyassar": "وجاءت شدة الموت وغَمْرته بالحق الذي لا مردَّ له ولا مناص، ذلك ما كنت منه -أيها الإنسان - تهرب وتروغ."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর মৃত্যুযন্ত্রণা সত্যসহ এসে উপস্থিত হবে। (তখন বলা হবে,) ‘এটাই তো, যা থেকে তুমি পলায়ন করে বেড়াতে।’"
+    },
+    "en": {
+     "footnotes": "[11] When a disbeliever or a heedless person is in death throes, he will realize that resurrection and reckoning are true.",
+     "text": "The throes of death will come with the truth[11]. This is what you were trying to avoid."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Viennent alors les affres de la mort dévoilant toute la vérité : « Voilà ce à quoi tu voulais échapper ! »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan datanglah sakaratulmaut dengan sebenar-benarnya. Itulah yang dahulu hendak kamu hindari."
+    },
+    "ur": {
+     "footnotes": "[1] دوسرے معنی اس کے ہیں، موت کی سختی حق کےساتھ آئے گی، یعنی موت کے وقت، حق واضح اور ان وعدوں کی صداقت ظاہر ہو جاتی ہے جو قیامت اور جنت کے بارے میں انبیا علیہم السلام کرتے رہے ہیں۔\n[2] تَحِيدُ، تَمِيلُ عَنْهُ وَتَفِرُّ، تو اس موت سے بدکتا اور بھاگتا تھا۔",
+     "text": "اور موت کی بے ہوشی حق لے کر آ پہنچی،[1] یہی ہے جس سے تو بدکتا پھرتا تھا.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "临死的昏迷，将昭示真理。这是你一向所逃避的。"
+    }
+   }
+  },
+  {
+   "arabic": "وَنُفِخَ فِي ٱلصُّورِۚ ذَٰلِكَ يَوۡمُ ٱلۡوَعِيدِ",
+   "aya": 20,
+   "id": 4650,
+   "tafsir": {
+    "arabic_moyassar": "ونُفخ في «القرن» نفخة البعث الثانية، ذلك النفخ في يوم وقوع الوعيد الذي توعَّد الله به الكفار."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর শিংগায় ফুঁক দেয়া হবে। এটাই হল প্রতিশ্রুত শাস্তির দিন।"
+    },
+    "en": {
+     "footnotes": "[12] i.e., the second blow that will bring all back to life for judgment.",
+     "text": "And the Trumpet will be blown[12]; that is the Day of [the given] warning."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Il sera soufflé dans la Corne : « Voici le Jour dont vous étiez menacés ! »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan ditiuplah sangkakala. Itulah hari yang diancamkan."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "اور صور پھونک دیا جائے گا۔ وعدہٴ عذاب کا دن یہی ہے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "号角将吹响，那是警告实现之日。"
+    }
+   }
+  },
+  {
+   "arabic": "وَجَآءَتۡ كُلُّ نَفۡسٖ مَّعَهَا سَآئِقٞ وَشَهِيدٞ",
+   "aya": 21,
+   "id": 4651,
+   "tafsir": {
+    "arabic_moyassar": "وجاءت كل نفس معها مَلَكان، أحدهما يسوقها إلى المحشر، والآخر يشهد عليها بما عملت في الدنيا من خير وشر."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর প্রত্যেক ব্যক্তিই সেদিন উপস্থিত হবে, তার সাথে থাকবে চালক একজন ফিরিশতা ও একজন সাক্ষী।"
+    },
+    "en": {
+     "footnotes": "[13] i.e., one driving him for Judgment and another as a witness for his deeds.",
+     "text": "Everyone will come, accompanied by an angel to drive him and another to testify[13]."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Chaque âme viendra alors accompagnée d’un ange chargé de la conduire sur les lieux du Rassemblement et d’un autre chargé de témoigner de ses œuvres."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Setiap orang akan datang bersama (malaikat) penggiring dan (malaikat) saksi."
+    },
+    "ur": {
+     "footnotes": "[1] سَائِقٌ (ہانکنے والا) اور شَهِيدٌ (گواہ) کےبارے میں اختلاف ہے۔ امام طبری کےنزدیک یہ دو فرشتے ہیں۔ ایک انسان کو محشر تک ہانک کر لانے والا اور دوسرا گواہی دینے والا۔",
+     "text": "اور ہر شخص اس طرح آئے گا کہ اس کے ساتھ ایک ﻻنے واﻻ ہوگا اور ایک گواہی دینے واﻻ.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "每个人都要到来，驱逐的天使和见证的天使，将与他同行。"
+    }
+   }
+  },
+  {
+   "arabic": "لَّقَدۡ كُنتَ فِي غَفۡلَةٖ مِّنۡ هَٰذَا فَكَشَفۡنَا عَنكَ غِطَآءَكَ فَبَصَرُكَ ٱلۡيَوۡمَ حَدِيدٞ",
+   "aya": 22,
+   "id": 4652,
+   "tafsir": {
+    "arabic_moyassar": "لقد كنت في غفلة من هذا الذي عاينت اليوم أيها الإنسان، فكشفنا عنك غطاءك الذي غطَّى قلبك، فزالت الغفلة عنك، فبصرك اليوم فيما تشهد قوي شديد."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৮) তাকে বলা হবে: বিভ্রান্তি, মনোবৃত্তি ও ভোগ-বিলাসে লিপ্ত থেকে।",
+     "text": "(৮)অবশ্যই তুমি এ দিবস সম্পর্কে উদাসীন ছিলে। অতএব আমি তোমার (উদাসীনতার) পর্দা তোমার থেকে উন্মোচন করে দিলাম। ফলে আজ তোমার দৃষ্টি খুব প্রখর।"
+    },
+    "en": {
+     "footnotes": "[14] Of heedlessness by seeing the punishment and hardships.",
+     "text": "“You were heedless of this; now We have removed your veil[14], so your vision is sharp Today.”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "« Tu vivais dans l’insouciance de ce Jour, mais Nous t’avons aujourd’hui ouvert les yeux, tu vois donc à présent parfaitement clair. »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sungguh, kamu dahulu lalai tentang (peristiwa) ini, maka Kami singkapkan tutup (yang menutupi) matamu, sehingga penglihatanmu pada hari ini sangat tajam."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "یقیناً تو اس سے غفلت میں تھا لیکن ہم نے تیرے سامنے سے پرده ہٹا دیا پس آج تیری نگاه بہت تیز ہے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你确忽视此事，现在我已揭开你的蒙蔽，所以，你今日的眼光是锐利的。"
+    }
+   }
+  },
+  {
+   "arabic": "وَقَالَ قَرِينُهُۥ هَٰذَا مَا لَدَيَّ عَتِيدٌ",
+   "aya": 23,
+   "id": 4653,
+   "tafsir": {
+    "arabic_moyassar": "وقال المَلَك الكاتب الشهيد عليه: هذا ما عندي من ديوان عمله، وهو لديَّ مُعَدٌّ محفوظ حاضر."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর তার সাথী (ফিরিশতা) বলবে, এই তো আমার কাছে (তোমার আমলনামা) প্রস্তুত।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "His angel-companion will say, “Here is the record ready with me.”"
+    },
+    "fr": {
+     "footnotes": "[7] L’ange qui était témoin de ses œuvres, selon nombre d’exégètes.",
+     "text": "Son compagnon[7] dira : « Voici ses œuvres que j’ai soigneusement consignées. »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan (malaikat) yang menyertainya berkata, \"Inilah (catatan perbuatan) yang ada padaku.\""
+    },
+    "ur": {
+     "footnotes": "[1] یعنی فرشتہ انسان کا سارا ریکارڈ سامنے رکھ دے گا اور کہے گا کہ یہ تیری فرد عمل ہے جو کہ میرے پاس تھی۔",
+     "text": "اس کا ہم نشین (فرشتہ) کہے گا یہ حاضر ہے جو کہ میرے پاس تھا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他的伙伴将说：“这在我面前是现成的。”"
+    }
+   }
+  },
+  {
+   "arabic": "أَلۡقِيَا فِي جَهَنَّمَ كُلَّ كَفَّارٍ عَنِيدٖ",
+   "aya": 24,
+   "id": 4654,
+   "tafsir": {
+    "arabic_moyassar": "يقول الله للمَلَكين السائق والشهيد بعد أن يفصل بين الخلائق: ألقيا في جهنم كل جاحد أن الله هو الإلهُ الحقُّ، كثيرِ الكفر والتكذيب معاند للحق، منَّاع لأداء ما عليه من الحقوق في ماله، مُعْتدٍ على عباد الله وعلى حدوده، شاكٍّ في وعده ووعيده، الذي أشرك بالله، فعبد معه معبودًا آخر مِن خلقه، فألقياه في عذاب جهنم الشديد."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৯) আল্লাহ চালনাকারী ও সাক্ষ্যদাতা উভয় ফিরিশতাকে বলবেন:",
+     "text": "(৯)তোমরা জাহান্নামে নিক্ষেপ করো প্রত্যেক উদ্ধত কাফিরকে,"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "[It will be said to the two angels], “Throw into Hell every obstinate disbeliever,"
+    },
+    "fr": {
+     "footnotes": "[8] Aux deux anges mentionnés au verset 21, précisent nombre d’exégètes.",
+     "text": "Allah dira[8] : « Jetez dans la Géhenne tout mécréant rebelle à la vérité,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(Allah berfirman), \"Lemparkanlah olehmu berdua ke dalam neraka Jahanam, semua orang yang sangat ingkar dan keras kepala,"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "ڈال دو جہنم میں ہر کافر سرکش کو."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你们俩所应当投入火狱的，是每个辜负者、顽固者，"
+    }
+   }
+  },
+  {
+   "arabic": "مَّنَّاعٖ لِّلۡخَيۡرِ مُعۡتَدٖ مُّرِيبٍ",
+   "aya": 25,
+   "id": 4655,
+   "tafsir": {
+    "arabic_moyassar": "يقول الله للمَلَكين السائق والشهيد بعد أن يفصل بين الخلائق: ألقيا في جهنم كل جاحد أن الله هو الإلهُ الحقُّ، كثيرِ الكفر والتكذيب معاند للحق، منَّاع لأداء ما عليه من الحقوق في ماله، مُعْتدٍ على عباد الله وعلى حدوده، شاكٍّ في وعده ووعيده، الذي أشرك بالله، فعبد معه معبودًا آخر مِن خلقه، فألقياه في عذاب جهنم الشديد."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "কল্যাণকর কাজে প্রবল বাধাদানকারী সীমালঙ্ঘনকারী, সন্দেহ পোষণকারীকে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "every withholder of good, transgressor, and doubter,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "si peu enclin à faire le bien, si prompt à transgresser et à douter,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "yang sangat enggan melakukan kebajikan, melampaui batas, dan bersikap ragu-ragu,"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "جو نیک کام سے روکنے واﻻ حد سے گزر جانے واﻻ اور شک کرنے واﻻ تھا."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "吝啬者、过分者、怀疑者、"
+    }
+   }
+  },
+  {
+   "arabic": "ٱلَّذِي جَعَلَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ فَأَلۡقِيَاهُ فِي ٱلۡعَذَابِ ٱلشَّدِيدِ",
+   "aya": 26,
+   "id": 4656,
+   "tafsir": {
+    "arabic_moyassar": "يقول الله للمَلَكين السائق والشهيد بعد أن يفصل بين الخلائق: ألقيا في جهنم كل جاحد أن الله هو الإلهُ الحقُّ، كثيرِ الكفر والتكذيب معاند للحق، منَّاع لأداء ما عليه من الحقوق في ماله، مُعْتدٍ على عباد الله وعلى حدوده، شاكٍّ في وعده ووعيده، الذي أشرك بالله، فعبد معه معبودًا آخر مِن خلقه، فألقياه في عذاب جهنم الشديد."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "যে আল্লাহর সাথে অন্য ইলাহ গ্রহণ করেছিল, তোমরা তাকে কঠিন শাস্তিতে নিক্ষেপ করো।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "who set up with Allah another god. Throw him into the severe punishment.”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "qui vénérait avec Allah d’autres divinités. Qu’il soit, dans le terrible châtiment, précipité. »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "yang mempersekutukan Allah dengan tuhan lain, maka lemparkanlah dia ke dalam azab yang keras.\""
+    },
+    "ur": {
+     "footnotes": "[1] اللہ تعالیٰ اس فرد عمل کی روشنی میں انصاف اور فیصلہ فرمائے گا۔ أَلْقِيَا سے الشَّدِيدُ تک اللہ کا قول ہے۔",
+     "text": "جس نے اللہ کے ساتھ دوسرا معبود بنا لیا تھا پس اسے سخت عذاب میں ڈال دو.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "以别的神灵与安拉同受拜者，你们俩将他投入严厉的刑罚吧！"
+    }
+   }
+  },
+  {
+   "arabic": "۞ قَالَ قَرِينُهُۥ رَبَّنَا مَآ أَطۡغَيۡتُهُۥ وَلَٰكِن كَانَ فِي ضَلَٰلِۭ بَعِيدٖ",
+   "aya": 27,
+   "id": 4657,
+   "tafsir": {
+    "arabic_moyassar": "قال شيطانه الذي كان معه في الدنيا: ربنا ما أضللته، ولكن كان في طريق بعيد عن سبيل الهدى."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তার সঙ্গী (শয়তান) বলবে: ‘হে আমাদের রব! আমি তাকে বিদ্রোহী করে তুলিনি; বরং সে নিজেই ছিল সুদূর পথভ্রষ্টতার মধ্যে।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "His [devil] companion will say, “Our Lord, I did not mislead him, but he himself was far astray.”"
+    },
+    "fr": {
+     "footnotes": "[9] Le démon qui lui suggérait le mal sur terre, selon nombre de commentateurs.",
+     "text": "Son compagnon[9] dira : « Seigneur ! Je ne l’ai pas fourvoyé, mais il était lui-même profondément égaré ! »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(Setan) yang menyertainya berkata (pula), \"Ya Tuhan kami, aku tidak menyesatkannya, tetapi dia sendiri yang berada dalam kesesatan yang jauh.\""
+    },
+    "ur": {
+     "footnotes": "[1] اس لئے اس نے فوراً میری بات مان لی، اگر یہ تیرا مخلص بندہ ہوتا تو میرے بہکاوﮮ میں ہی نہ آتا یہاں قَرِينٌ (ساتھی) سے مراد شیطان ہے۔",
+     "text": "اس کا ہمنشین (شیطان) کہے گا اے ہمارے رب! میں نے اسے گمراه نہیں کیا تھا بلکہ یہ خود ہی دور دراز کی گمراہی میں تھا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他的伙伴将说：“我的养主啊！我没有使他放荡，但他自陷于不近情理的迷误中。”"
+    }
+   }
+  },
+  {
+   "arabic": "قَالَ لَا تَخۡتَصِمُواْ لَدَيَّ وَقَدۡ قَدَّمۡتُ إِلَيۡكُم بِٱلۡوَعِيدِ",
+   "aya": 28,
+   "id": 4658,
+   "tafsir": {
+    "arabic_moyassar": "قال الله تعالى: لا تختصموا لديَّ اليوم في موقف الجزاء والحساب; إذ لا فائدة من ذلك، وقد قَدَّمْتُ إليكم في الدنيا بالوعيد لمن كفر بي وعصاني."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আল্লাহ বলবেন: ‘তোমরা আমার কাছে বাক-বিতণ্ডা করো না। অবশ্যই আমি পূর্বেই তোমাদেরকে সতর্ক করে দিয়েছিলাম।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Allah will say, “Do not argue in My presence, for I had already given you the warning."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Allah leur dira : « Inutile de vous disputer devant Moi, car vous avez suffisamment été avertis par Mes Messagers."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(Allah) berfirman, \"Janganlah kamu bertengkar di hadapan-Ku, dan sungguh, dahulu Aku telah memberikan ancaman kepadamu.\""
+    },
+    "ur": {
+     "footnotes": "[1] یعنی اللہ تعالیٰ کافروں اور ان کے ہم نشین شیطانوں کو کہے گا کہ یہاں موقف حساب یا عدالت انصاف میں لڑنے جھگڑنے کی ضرورت نہیں نہ اس کا کوئی فائدہ ہی ہے، میں نے پہلے ہی رسولوں اور کتابوں کے ذریعے سے ان وعیدوں سے تم کو آگاہ کر دیا تھا۔",
+     "text": "حق تعالیٰ فرمائے گا بس میرے سامنے جھگڑنے کی بات مت کرو میں تو پہلے ہی تمہاری طرف وعید (وعدہٴ عذاب) بھیج چکا تھا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他〔安拉〕说：“你们不要在我面前争论，我确已预先警告你们了。"
+    }
+   }
+  },
+  {
+   "arabic": "مَا يُبَدَّلُ ٱلۡقَوۡلُ لَدَيَّ وَمَآ أَنَا۠ بِظَلَّٰمٖ لِّلۡعَبِيدِ",
+   "aya": 29,
+   "id": 4659,
+   "tafsir": {
+    "arabic_moyassar": "ما يُغيَّر القول لديَّ، ولست أعذِّب أحدًا بذنب أحد، فلا أعذِّب أحدًا إلا بذنبه بعد قيام الحجة عليه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১০) কারো পুণ্য কমিয়ে কিংবা পাপ বাড়িয়ে।",
+     "text": "‘আমার কাছে কথা (ও অঙ্গীকার) রদবদল হয় না। আর আমি (১০) বান্দার প্রতি যুলুমকারীও নই।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "My Word cannot be changed, nor am I unjust to My slaves.”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Mes arrêts ne sauraient être modifiés et Mes serviteurs être injustement châtiés. »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Keputusan-Ku tidak dapat diubah, dan Aku tidak menzalimi hamba-hamba-Ku.\""
+    },
+    "ur": {
+     "footnotes": "[1] یعنی جو وعدے میں نے کیے تھے، ان کے خلاف نہیں ہوگا بلکہ وہ ہر صورت میں پورے ہوں گے اور اسی اصول کے مطابق تمہارے لئےعذاب کا فیصلہ میری طرف سے ہوا ہے جس میں تبدیلی نہیں ہو سکتی۔\n[2] کہ بغیر جرم کےجو انہوں نے نہ کیا ہو اور بغیر گناہ کے جس کا صدور ان سے نہ ہوا ہو، میں ان کو عذاب دے دوں؟ ظلام یہاں ظالم کے معنی میں ہے۔ یا محاورۃ بولا گیا ہے، جیسے عام طور پر کہا جاتا ہے کہ فلاں شخص اپنے غلاموں پر بڑا ظلم کرتا ہے، فلاں شخص بڑا ظالم ہے مقصد، مبالغے کا نہیں بلکہ صرف اس کی طرف سے ظلم کیے جانےکا اظہار ہوتا ہے۔ یا مقصود نفی میں مبالغہ ہے۔ یعنی میں بندوں پر ذرا بھی ظلم کرنے والا نہیں۔",
+     "text": "میرے ہاں بات بدلتی نہیں[1] اور نہ میں اپنے بندوں پر ذرا بھی ﻇلم کرنے واﻻ ہوں.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我的判词是不可变更的，我绝不是亏枉众仆的。”"
+    }
+   }
+  },
+  {
+   "arabic": "يَوۡمَ نَقُولُ لِجَهَنَّمَ هَلِ ٱمۡتَلَأۡتِ وَتَقُولُ هَلۡ مِن مَّزِيدٖ",
+   "aya": 30,
+   "id": 4660,
+   "tafsir": {
+    "arabic_moyassar": "اذكر -أيها الرسول- لقومك يوم نقول لجهنم يوم القيامة: هل امتلأت؟ وتقول جهنم: هل من زيادة من الجن والإنس؟ فيضع الرب -جل جلاله- قدمه فيها، فينزوي بعضها على بعض، وتقول: قط، قط، أي: حسبي، قد امتلأت ليس فيَّ مزيد."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "সেদিন আমি জাহান্নামকে বলবো: ‘তুমি কি পরিপূর্ণ হয়েছ?’ আর সে বলবে: ‘আরো বেশি আছে কি?’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "[Beware of] the Day when We will say to Hell, “Have you reached your fill?” It will say, “Are there any more?”"
+    },
+    "fr": {
+     "footnotes": "[10] Ces paroles signifient soit que l’Enfer, effectivement plein, se demandera comment il pourra accueillir d’autres damnés, soit que l’Enfer réclamera d’autres damnés qu’il sera disposé à accueillir.",
+     "text": "Ce Jour-là, Nous dirons à la Géhenne : « As-tu fait le plein de damnés ? » Et elle répondra : « Peut-on en rajouter[10] ? »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(Ingatlah) pada hari (ketika) Kami bertanya kepada Jahanam, \"Apakah kamu sudah penuh?\" Ia menjawab, \"Masih adakah tambahan?\""
+    },
+    "ur": {
+     "footnotes": "[1] اللہ تعالیٰ نے فرمایا ہے «لأَمْلأَنَّ جَهَنَّمَ مِنَ الْجِنَّةِ وَالنَّاسِ أَجْمَعِينَ» (الم السجدة:1 3) ”میں جہنم کو انسانوں اور جنوں سے بھردوں گا“۔ اس وعدے کا جب ایفا ہو جائے گا اور اللہ تعالیٰ کافر جن وانس کو جہنم میں ڈال دے گا، تو جہنم سےپوچھے گا کہ تو بھر گئی ہےیا نہیں؟ وہ جواب دے گی، کیا کچھ اور بھی ہے؟ یعنی اگرچہ میں بھر گئی ہوں لیکن یا اللہ تیرے دشمنوں کے لئے میرے دامن میں اب بھی گنجائش ہے، جہنم سے اللہ تعالیٰ کی یہ گفتگو اور جہنم کا جواب دینا، اللہ کی قدرت سے قطعاً بعید نہیں ہے۔ حدیث میں بھی آتا ہے ”آگ میں لوگ ڈالے جائیں گے اور جہنم کہے گی: هَلْ مِنْ مَزِيدٍ کیا کچھ اور بھی ہیں؟ (حتی کہ اللہ تعالیٰ جہنم میں اپنا پیر رکھ دے گا، جس سے جہنم پکار اٹھے گی، قَطْ قَطْ یعنی بس، بس“ (صحیح بخاری، تفسیر سورۂ ق) اور جنت کے بارے میں آتا ہے کہ جنت میں ابھی خالی جگہ باقی رہ جائے گی تو اللہ تعالیٰ اسکے لئے نئی مخلوق پیدا فرمائے گا جو وہاں آباد ہوگی۔ (صحيح مسلم كتاب الجنة ، باب النار يدخلها الجبارون، والجنة يدخلها الضعفاء)۔",
+     "text": "جس دن ہم دوزخ سے پوچھیں گے کیا تو بھر چکی؟ وه جواب دے گی کیا کچھ اور زیاده بھی ہے؟[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "在那日，我将对火狱说：“你已填满了吗？”它将说：“还有增加吗？”"
+    }
+   }
+  },
+  {
+   "arabic": "وَأُزۡلِفَتِ ٱلۡجَنَّةُ لِلۡمُتَّقِينَ غَيۡرَ بَعِيدٍ",
+   "aya": 31,
+   "id": 4661,
+   "tafsir": {
+    "arabic_moyassar": "وقُرِّبت الجنة للمتقين مكانًا غير بعيد منهم، فهم يشاهدونها زيادة في المسرَّة لهم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর জান্নাতকে মুত্তাকীদের নিকটবর্তী করা হবে, (সেদিন তাদের জন্যে তা) মোটেই দূরে থাকবে না।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Paradise will be brought near to the righteous, not far off."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Le Paradis, quant à lui, sera placé à proximité des pieux croyants"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sedangkan surga didekatkan kepada orang-orang yang bertakwa pada tempat yang tidak jauh (dari mereka)."
+    },
+    "ur": {
+     "footnotes": "[1] اور بعض نے کہا ہے کہ قیامت ،جس روز جنت قریب کر دی جائے گی، دور نہیں ہے۔ کیونکہ وہ لامحالہ واقع ہو کر رہےگی اور كُلُّ مَا هُوَ آتٍ فَهُوَ قَرِيبٌ اور جو بھی آنے والی چیز ہے، وہ قریب ہی ہے دور نہیں۔ (ابن کثیر)۔",
+     "text": "اور جنت پرہیزگاروں کے لئے بالکل قریب کر دی جائے گی ذرا بھی دور نہ ہوگی.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "乐园将被移到敬畏者的附近，离得不远。"
+    }
+   }
+  },
+  {
+   "arabic": "هَٰذَا مَا تُوعَدُونَ لِكُلِّ أَوَّابٍ حَفِيظٖ",
+   "aya": 32,
+   "id": 4662,
+   "tafsir": {
+    "arabic_moyassar": "يقال لهم: هذا الذي كنتم توعدون به -أيها المتقون- لكل تائب مِن ذنوبه، حافظ لكل ما قَرَّبه إلى ربه، من الفرائض والطاعات، مَن خاف الله في الدنيا ولقيه يوم القيامة بقلب تائب من ذنوبه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "এটাই, যার প্রতিশ্রুতি তোমাদেরকে দেয়া হয়েছিল, প্রত্যেক আল্লাহ অভিমুখী (তাঁর বিধানের) অধিক সংরক্ষণশীলদের জন্য।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "[It will be said], “This is what you were promised; this is for everyone who constantly turned [to Allah] and was dutiful,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "auxquels il sera dit : « Voici ce qui a été promis à tous ceux qui étaient pleins de repentir et de respect pour Nos commandements,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(Kepada mereka dikatakan), \"Inilah nikmat yang dijanjikan kepadamu, (yaitu) kepada setiap hamba yang senantiasa bertobat (kepada Allah) dan memelihara (semua peraturan-peraturan-Nya)."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی اہل ایمان جب جنت کا اور اس کی نعمتوں کا قریب سے مشاہدہ کریں گے تو کہا جائے گا کہ یہی وہ جنت ہے جس کا وعدہ ہر اواب اور حفیظ سے کیا گیا تھا۔ اواب، بہت رجوع کرنے والا، یعنی اللہ کی طرف۔ کثرت سے توبہ واستغفار اور تسبیح وذکر الٰہی کرنے والا۔ خلوت میں اپنے گناہوں کو یاد کرکے اللہ کی بارگاہ میں گڑ گڑانے والا اور ہر مجلس میں استغفار کرنے والا۔ حفیظ ، اپنے گناہوں کو یاد کرکے ان سے توبہ کرنے والا، یا اللہ کے حقوق اور اس کی نعمتوں کو یاد رکھنے والا یا اللہ کے اوامرو نواہی کو یاد رکھنے والا (فتح القدیر)۔",
+     "text": "یہ ہے جس کا تم سے وعده کیا جاتا تھا ہر اس شخص کے لئے جو رجوع کرنے واﻻ اور پابندی کرنے واﻻ ہو.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "这是你们所被应许的，这是赏赐每个归依的守礼者的。"
+    }
+   }
+  },
+  {
+   "arabic": "مَّنۡ خَشِيَ ٱلرَّحۡمَٰنَ بِٱلۡغَيۡبِ وَجَآءَ بِقَلۡبٖ مُّنِيبٍ",
+   "aya": 33,
+   "id": 4663,
+   "tafsir": {
+    "arabic_moyassar": "يقال لهم: هذا الذي كنتم توعدون به - أيها المتقون - لكل تائب مِن ذنوبه، حافظ لكل ما قَرَّبه إلى ربه، من الفرائض والطاعات، مَن خاف الله في الدنيا ولقيه يوم القيامة بقلب تائب من ذنوبه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "যে না দেখেই রহমানকে ভয় করত এবং বিনীত হৃদয়ে (আল্লাহর কাছে) উপস্থিত হতো।"
+    },
+    "en": {
+     "footnotes": "[15] Or while he is in private.",
+     "text": "who feared the Most Compassionate unseen[15], and came with a devoted heart."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "ceux qui, loin des regards, craignaient le Tout Miséricordieux et qui sont venus à Lui le cœur repentant."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(Yaitu) orang yang takut kepada Allah Yang Maha Pengasih, sekalipun tidak kelihatan (olehnya) dan dia datang dengan hati yang bertobat,"
+    },
+    "ur": {
+     "footnotes": "[1] مُنِيبٍ، اللہ کی طرف رجوع کرنے والا اور اس کا اطاعت گزار دل۔ یا بمعنی سلیم، شرک اور معصیت کی نجاستوں سے پاک دل۔",
+     "text": "جو رحمٰن کا غائبانہ خوف رکھتا ہو اور توجہ واﻻ دل ﻻیا ہو.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "秘密敬畏至仁主，且带归依的心而来者，"
+    }
+   }
+  },
+  {
+   "arabic": "ٱدۡخُلُوهَا بِسَلَٰمٖۖ ذَٰلِكَ يَوۡمُ ٱلۡخُلُودِ",
+   "aya": 34,
+   "id": 4664,
+   "tafsir": {
+    "arabic_moyassar": "ويقال لهؤلاء المؤمنين: ادخلوا الجنة دخولا مقرونًا بالسلامة من الآفات والشرور، مأمونًا فيه جميع المكاره، ذلك هو يوم الخلود بلا انقطاع."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "(তাদেরকে বলা হবে,) তোমরা তাতে শান্তির সাথে প্রবেশ করো। এটা অনন্ত জীবনের দিন।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Enter it in peace. This is the Day of eternity.”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Entrez-y en paix ! Voici un jour qui se prolongera éternellement ! »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "masuklah ke (dalam surga) dengan aman dan damai, itulah hari yang abadi.\""
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "تم اس جنت میں سلامتی کے ساتھ داخل ہو جاؤ۔ یہ ہمیشہ رہنے کا دن ہے"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你们平安地进入乐园吧！这是永居〔开始〕之日。"
+    }
+   }
+  },
+  {
+   "arabic": "لَهُم مَّا يَشَآءُونَ فِيهَا وَلَدَيۡنَا مَزِيدٞ",
+   "aya": 35,
+   "id": 4665,
+   "tafsir": {
+    "arabic_moyassar": "لهؤلاء المؤمنين في الجنة ما يريدون، ولدينا على ما أعطيناهم زيادة نعيم، أعظَمُه النظر إلى وجه الله الكريم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১১) অর্থাৎ আর আমার নিকট রয়েছে এমন সব অতিরিক্ত নি‘আমত যা কোন চক্ষু দেখেনি, কোন কান শ্রবণ করেনি, আর না কোন মানুষের অন্তর তা হৃদয়ঙ্গম করেছে। তন্মধ্যে মহান আল্লাহর দর্শন অন্যতম।",
+     "text": "সেখানে তারা যা চাইবে, তাদের জন্য তাই থাকবে এবং আমার কাছে রয়েছে আরও অধিক।(১১)"
+    },
+    "en": {
+     "footnotes": "[16] Of unimaginable pleasures such as looking at the Face of Allah Almighty. See 10:26 and 75:22-23.",
+     "text": "They will have therein all what they wish for, and We have yet more[16]."
+    },
+    "fr": {
+     "footnotes": "[11] Pouvoir contempler le Visage de leur Seigneur, selon la majorité des exégètes.",
+     "text": "Ils y obtiendront tout ce qu’ils désireront et trouveront davantage encore auprès de Nous[11]."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Mereka di dalamnya memperoleh apa yang mereka kehendaki, dan pada Kami ada tambahannya."
+    },
+    "ur": {
+     "footnotes": "[1] اس سے مراد رب تعالیٰ کا دیدار ہے جو اہل جنت کو نصیب ہوگا، جیسا کہ لِلَّذِينَ أَحْسَنُوا الْحُسْنَى وَزِيَادَةٌ (يونس:26) کی تفسیر میں گزرا۔",
+     "text": "یہ وہاں جو چاہیں انھیں ملے گا (بلکہ) ہمارے پاس اور بھی زیاده ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们在乐园里，将有他们意欲的，而且我在那里还有加赐。"
+    }
+   }
+  },
+  {
+   "arabic": "وَكَمۡ أَهۡلَكۡنَا قَبۡلَهُم مِّن قَرۡنٍ هُمۡ أَشَدُّ مِنۡهُم بَطۡشٗا فَنَقَّبُواْ فِي ٱلۡبِلَٰدِ هَلۡ مِن مَّحِيصٍ",
+   "aya": 36,
+   "id": 4666,
+   "tafsir": {
+    "arabic_moyassar": "وأهلكنا قبل هؤلاء المشركين من قريش أممًا كثيرة، كانوا أشد منهم قوة وسطوة، فطوَّفوا في البلاد وسلكوا كل طريق؛ طلبا للهرب من الهلاك، هل من مهرب من عذاب الله حين جاءهم؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১২) মক্কাবাসী মুশরিকদের।",
+     "text": "আমি তাদের (১২) পূর্বে বহু প্রজন্মকে ধ্বংস করে দিয়েছি, যারা শক্তি-সামর্থে এদের চেয়ে অধিক শক্তিশালী ছিল, তারা দেশ-বিদেশ চষে বেড়াত। তাদের কি (শাস্তি থেকে) কোন পলায়নস্থল ছিল?"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "How many nations We destroyed before these [Makkans] who were stronger than them in might! They sought refuge in the land. Did they find any escape?"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Que de peuples avons-Nous anéantis avant eux. Bien plus puissants qu’eux, ceux-ci avaient sillonné le monde et exploité la terre bien plus qu’ils n’ont pu le faire. Ont-ils pu échapper à Nos rigueurs ?"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan betapa banyak umat yang telah Kami binasakan sebelum mereka, (padahal) mereka lebih hebat kekuatannya daripada mereka (umat yang belakangan) ini. Mereka pernah menjelajah di beberapa negeri. Adakah tempat pelarian (dari kebinasaan bagi mereka)?"
+    },
+    "ur": {
+     "footnotes": "[1] فَنَقَّبُوا فِي الْبِلادِ (شہروں میں چلے پھرے) کا ایک مطلب یہ بیان کیا گیا ہے کہ وہ ان اہل مکہ سے زیادہ تجارت وکاروبار کے لئے مختلف شہروں میں پھرتے تھے۔ لیکن ہمارا عذاب آیا تو انہیں کہیں پناہ اور راہ فرار نہیں ملی۔",
+     "text": "اور ان سے پہلے بھی ہم بہت سی امتوں کو ہلاک کر چکے ہیں جو ان سے طاقت میں بہت زیاده تھیں وه شہروں میں ڈھونڈھتے ہی[1] ره گئے، کہ کوئی بھاگنے کا ٹھکانہ ہے؟"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "在他们之前，我毁灭了许多比他们更强悍的世代！他们曾在各地旅行，难道有什么避死的地方吗？"
+    }
+   }
+  },
+  {
+   "arabic": "إِنَّ فِي ذَٰلِكَ لَذِكۡرَىٰ لِمَن كَانَ لَهُۥ قَلۡبٌ أَوۡ أَلۡقَى ٱلسَّمۡعَ وَهُوَ شَهِيدٞ",
+   "aya": 37,
+   "id": 4667,
+   "tafsir": {
+    "arabic_moyassar": "إن في إهلاك القرون الماضية لعبرة لمن كان له قلب يعقل به، أو أصغى السمع، وهو حاضر بقلبه، غير غافل ولا ساهٍ."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "নিশ্চয় এতে তার জন্য উপদেশ রয়েছে, যার হৃদয় আছে অথবা যে মনোযোগসহকারে কর্ণপাত করে এবং উপস্থিতচিত্ত থাকে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Indeed, in that is a reminder for anyone who has a [mindful] heart or lends an attentive ear."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Voilà assurément une leçon pour quiconque est doué de raison et prête une oreille attentive."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sungguh, pada yang demikian itu pasti terdapat peringatan bagi orang-orang yang mempunyai hati atau yang menggunakan pendengarannya, sedang dia menyaksikannya."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی دل بیدار، جو غور وفکر کرکے حقائق کا ادراک کرلے۔\n[2] یعنی توجہ سے وہ وحی الٰہی سنے جس میں گزشتہ امتوں کے واقعات بیان کیے گئے ہیں۔\n[3] یعنی قلب اور دماغ کے لحاظ سے حاضر ہو۔ اس لئے کہ جو بات کو ہی نہ سمجھے، وہ موجود ہوتے ہوئے بھی ایسے ہے جیسے نہیں ہے۔",
+     "text": "اس میں ہر صاحب دل کے لئے عبرت ہے اور اس کے لئے جو دل[1] سے متوجہ ہو کر کان لگائے[2] اور وه حاضر ہو.[3]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "对于有心灵者，或专心静听者，此中确有一种教训。"
+    }
+   }
+  },
+  {
+   "arabic": "وَلَقَدۡ خَلَقۡنَا ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَمَا بَيۡنَهُمَا فِي سِتَّةِ أَيَّامٖ وَمَا مَسَّنَا مِن لُّغُوبٖ",
+   "aya": 38,
+   "id": 4668,
+   "tafsir": {
+    "arabic_moyassar": "ولقد خلقنا السموات السبع والأرض وما بينهما من أصناف المخلوقات في ستة أيام، وما أصابنا من ذلك الخلق تعب ولا نَصَب. وفي هذه القدرة العظيمة دليل على قدرته -سبحانه- على إحياء الموتى من باب أولى."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১৩) ইয়াহূদীরা মিথ্যারোপ করে বলে যে, আল্লাহ ছয় দিনে আসমান-জমিন সৃষ্টি করেছেন এবং সপ্তম দিন শনিবার তিনি বিশ্রাম নিয়েছেন।",
+     "text": "আর অবশ্যই আমি আসমানসমূহ ও জমিন এবং এতদুভয়ের মধ্যবর্তী সবকিছু ছয় দিনে সৃষ্টি করেছি। আর এতে আমাকে কোনরূপ ক্লান্তি স্পর্শ করেনি।(১৩)"
+    },
+    "en": {
+     "footnotes": "[17] It is believed that this verse came in response to the Jews who claimed that after the Lord made the heavens and the earth in six days, He rested on the seventh day. See Exodus 31:17.",
+     "text": "Indeed, We created the heavens and earth and all that is between them in six days, and no weariness touched Us[17]."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Nous avons, en vérité, créé les cieux, la terre et ce qui se trouve entre eux, en six jours sans éprouver la moindre peine."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan sungguh, Kami telah menciptakan langit dan bumi dan apa yang ada di antara keduanya dalam enam masa, dan Kami tidak merasa letih sedikit pun."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "یقیناً ہم نے آسمانوں اور زمین اور جو کچھ اس کے درمیان ہے سب کو (صرف) چھ دن میں پیدا کر دیا اور ہمیں تکان نے چھوا تک نہیں."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我在六日内确已创造了天地万物，我没有感觉一点疲倦。"
+    }
+   }
+  },
+  {
+   "arabic": "فَٱصۡبِرۡ عَلَىٰ مَا يَقُولُونَ وَسَبِّحۡ بِحَمۡدِ رَبِّكَ قَبۡلَ طُلُوعِ ٱلشَّمۡسِ وَقَبۡلَ ٱلۡغُرُوبِ",
+   "aya": 39,
+   "id": 4669,
+   "tafsir": {
+    "arabic_moyassar": "فاصبر -أيها الرسول- على ما يقوله المكذبون، فإن الله لهم بالمرصاد، وصلِّ لربك حامدًا له صلاة الصبح قبل طلوع الشمس وصلاة العصر قبل الغروب، وصلِّ من الليل، وسبِّحْ بحمد ربك عقب الصلوات."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "অতএব এরা যা (যে মিথ্যা) বলে, তাতে তুমি ধৈর্যধারণ করো এবং সূর্যোদয়ের পূর্বে ও সূর্যাস্তের আগে তুমি তোমার রবের প্রশংসাসহ তাসবীহ পাঠ করো।"
+    },
+    "en": {
+     "footnotes": "[18] This and the following verse refer to the times of the five daily prayers; before the sun rises and sets (i.e., the Fajr, Zuhr, and ‘Asr prayers).",
+     "text": "So bear patiently [O Prophet] what they say, and glorify the praise of your Lord before sunrise and before sunset[18]."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Supporte donc patiemment leurs paroles et célèbre, par les louanges, la gloire de ton Seigneur avant le lever du soleil et avant son coucher."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Maka bersabarlah engkau (Muhammad) terhadap apa yang mereka katakan, dan bertasbihlah dengan memuji Tuhanmu sebelum matahari terbit dan sebelum terbenam."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی صبح وشام اللہ کی تسبیح بیان کرو یا عصر اور فجر کی نماز پڑھنے کی تاکید ہے۔",
+     "text": "پس یہ جو کچھ کہتے ہیں آپ اس پر صبر کریں اور اپنے رب کی تسبیح تعریف کے ساتھ بیان کریں سورج نکلنے سے پہلے بھی اور سورج غروب ہونے سے پہلے بھی.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "故你应当忍受他们所说的〔谰言〕。在日出和日落之前，你应当以赞颂你的养主称颂清净。"
+    }
+   }
+  },
+  {
+   "arabic": "وَمِنَ ٱلَّيۡلِ فَسَبِّحۡهُ وَأَدۡبَٰرَ ٱلسُّجُودِ",
+   "aya": 40,
+   "id": 4670,
+   "tafsir": {
+    "arabic_moyassar": "فاصبر -أيها الرسول- على ما يقوله المكذبون، فإن الله لهم بالمرصاد، وصلِّ لربك حامدًا له صلاة الصبح قبل طلوع الشمس وصلاة العصر قبل الغروب، وصلِّ من الليل، وسبِّحْ بحمد ربك عقب الصلوات."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১৪) অর্থাৎ তাহাজ্জুদের সালাত আদায় করো।",
+     "text": "এবং রাতের একাংশেও তুমি তাঁর তাসবীহ পাঠ করো(১৪) এবং (ফরয) সালাতের পরেও।"
+    },
+    "en": {
+     "footnotes": "[19] The night (the Maghrib, ‘Isha’ prayers).",
+     "text": "And glorify Him in the night[19] and after the prayers."
+    },
+    "fr": {
+     "footnotes": "[12] Ce verset et le précédent feraient allusion aux prières obligatoires et surérogatoires.",
+     "text": "Exalte également Sa gloire une partie de la nuit et après chaque prière[12]."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan bertasbihlah kepada-Nya pada malam hari dan setiap selesai salat."
+    },
+    "ur": {
+     "footnotes": "[1] (من) تبعیض کے لئے ہے۔ یعنی رات کے کچھ حصے میں بھی اللہ کی تسبیح کریں یا رات کی نماز (تہجد) پڑھیں۔ جیسے دوسرے مقام پر فرمایا «وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَكَ»(سورة بني إسرائيل: 79) ”رات کو اٹھ کر نماز تہجد پڑھیں جو آپ کے لئے مزید ثواب کا باعث ہے“ بعض کہتے ہیں کہ معراج سے قبل مسلمانوں کے لئے صرف فجر اور عصر کی نماز اور نبی (صلى الله عليه وسلم) کے لئے تہجد کی نماز بھی فرض تھی۔ معراج کے موقعے پر پانچ نمازیں فرض کر دی گئیں۔ (ابن کثیر)۔\n[2] یعنی اللہ کی تسبیح کریں۔ بعض نےاس سے وہ تسبیحات مراد لی ہیں، جن کے پڑھنے کی تاکید نبی (صلى الله عليه وسلم) نے فرض نمازوں کے بعد فرمائی ہے۔ مثلاً 33 مرتبہ سُبْحَانَ اللهِ ۔ 33مرتبہ الْحَمْدُ للهِ اور 34 مرتبہ اللهُ أَكْبَرُ وغیرہ (البخاري كتاب الأذان، باب الذكر بعد الصلاة كتاب الدعوات، باب الدعاء بعد الصلاة - مسلم كتاب المساجد باب استحباب الذكر بعد الصلاة وبيان صفته) مگر یہ تسبیحات اس سورت کے نزول کے بہت عرصہ بعد بتائی گئی تھیں۔ بعض نے کہا کہ یہ ادبار السجود سے مراد مغرب کے بعد دو رکعتیں ہیں۔",
+     "text": "اور رات کے وقت بھی تسبیح کریں[1] اور نماز کے بعد بھی.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "在夜间和叩头后，你应当赞颂他。"
+    }
+   }
+  },
+  {
+   "arabic": "وَٱسۡتَمِعۡ يَوۡمَ يُنَادِ ٱلۡمُنَادِ مِن مَّكَانٖ قَرِيبٖ",
+   "aya": 41,
+   "id": 4671,
+   "tafsir": {
+    "arabic_moyassar": "واستمع -أيها الرسول- يوم ينادي المَلَك بنفخه في «القرن» من مكان قريب، يوم يسمعون صيحة البعث بالحق الذي لا شك فيه ولا امتراء، ذلك يوم خروج أهل القبور من قبورهم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "মনোযোগ সহকারে শ্রবণ করো সে দিনের কথা, যেদিন একজন ঘোষক (ফিরিশতা) নিকটবর্তী কোন স্থান থেকে ডাকতে থাকবে।"
+    },
+    "en": {
+     "footnotes": "[20] The angel who will blow the second trumpet for the Resurrection.",
+     "text": "And listen! On the Day when the Caller will call out from a nearby place[20],"
+    },
+    "fr": {
+     "footnotes": "[13] Chargé de souffler dans la Corne, annonce du Jugement dernier.",
+     "text": "Ecoute attentivement l’appel que lancera l’ange[13] d’un lieu tout proche,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan dengarkanlah (seruan) pada hari (ketika) penyeru (malaikat) menyeru dari tempat yang dekat."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی قیامت کے جو احوال وحی کے ذریعے سے بیان کیے جا رہے ہیں، انہیں توجہ سے سنیں۔\n[2] یہ پکارنے والا اسرافیل فرشتہ ہوگا یا جبرائیل اور یہ ندا وہ ہوگی جس سے لوگ میدان محشر میں جمع ہو جائیں گے۔ یعنی نفخۂ ثانیہ۔\n[3] اس سے بعض نے صخرۂ بیت المقدس مراد لیا ہے، کہتے ہیں یہ آسمان کے قریب ترین جگہ ہے اور بعض کے نزدیک اس کا مطلب یہ ہے کہ ہر شخص یہ آواز اس طرح سنے گا، جیسے اس کےقریب سے ہی آواز آرہی ہے۔ (فتح القدیر) اور یہی درست معلوم ہوتا ہے۔",
+     "text": "اور سن رکھیں[1] کہ جس دن ایک پکارنے[2] واﻻ قریب ہی کی جگہ سے پکارے گا.[3]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你应当倾听，在喊叫者从近处喊叫之日，"
+    }
+   }
+  },
+  {
+   "arabic": "يَوۡمَ يَسۡمَعُونَ ٱلصَّيۡحَةَ بِٱلۡحَقِّۚ ذَٰلِكَ يَوۡمُ ٱلۡخُرُوجِ",
+   "aya": 42,
+   "id": 4672,
+   "tafsir": {
+    "arabic_moyassar": "واستمع -أيها الرسول- يوم ينادي المَلَك بنفخه في \"القرن\" من مكان قريب، يوم يسمعون صيحة البعث بالحق الذي لا شك فيه ولا امتراء، ذلك يوم خروج أهل القبور من قبورهم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১৫) হিসাব ও প্রতিদানের উদ্দেশ্যে মৃতদের।",
+     "text": "সেদিন তারা সত্যিসত্যিই (পুনরুত্থানের) মহাচিৎকার শুনবে। সেটিই (১৫) বের হবার দিন।"
+    },
+    "en": {
+     "footnotes": "[21] See footnote below 50:20.",
+     "text": "the Day when they will hear the Blast [of the second Trumpet] in truth[21]. That is the Day of Resurrection."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "le Jour où les hommes, entendant le Cri terrifiant de l’Heure, quitteront leurs tombes."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(Yaitu) pada hari (ketika) mereka mendengar suara dahsyat dengan sebenarnya. Itulah hari keluar (dari kubur)."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی یہ چیخ یعنی نفخۂ قیامت یقیناً ہوگا جس میں یہ دنیا میں شک کرتے تھے۔ اور یہی دن قبروں سے زندہ ہو کر نکلنے کا ہوگا۔",
+     "text": "جس روز اس تند وتیز چیﺦ کو یقین کے ساتھ سن لیں گے، یہ دن ہوگا نکلنے کا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "在他们听见包含真理的吶喊之日，那是从〔坟中〕出来之日。"
+    }
+   }
+  },
+  {
+   "arabic": "إِنَّا نَحۡنُ نُحۡيِۦ وَنُمِيتُ وَإِلَيۡنَا ٱلۡمَصِيرُ",
+   "aya": 43,
+   "id": 4673,
+   "tafsir": {
+    "arabic_moyassar": "إنَّا نحن نحيي الخلق ونميتهم في الدنيا، وإلينا مصيرهم جميعًا يوم القيامة للحساب والجزاء، يوم تتصدع الأرض عن الموتى المقبورين بها، فيخرجون مسرعين إلى الداعي، ذلك الجمع في موقف الحساب علينا سهل يسير."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আমিই জীবন দান করি এবং আমিই মৃত্যু ঘটাই, আর আমার দিকেই (সকলের) চূড়ান্ত প্রত্যাবর্তন।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Indeed, it is We Who give life and cause death, and to Us is the final return."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "C’est Nous qui donnons la vie et la mort, et c’est à Nous que les hommes feront retour."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sungguh, Kami yang menghidupkan dan mematikan, dan kepada Kami tempat kembali (semua makhluk)."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی دنیا میں موت سےہمکنار کرنا اور آخرت میں زندہ کر دینا، یہ ہمارا ہی کام ہے، اس میں کوئی ہمارا شریک نہیں ہے۔\n[2] وہاں ہم ہر شخص کو اس کے عملوں کے مطابق جزا دیں گے۔ٍ",
+     "text": "ہم ہی جلاتے ہیں اور ہم ہی مارتے ہیں[1] اور ہماری ہی طرف لوٹ پھر کر آنا ہے.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我确是使人生、使人死的，我确是最后的归宿。"
+    }
+   }
+  },
+  {
+   "arabic": "يَوۡمَ تَشَقَّقُ ٱلۡأَرۡضُ عَنۡهُمۡ سِرَاعٗاۚ ذَٰلِكَ حَشۡرٌ عَلَيۡنَا يَسِيرٞ",
+   "aya": 44,
+   "id": 4674,
+   "tafsir": {
+    "arabic_moyassar": "إنَّا نحن نحيي الخلق ونميتهم في الدنيا، وإلينا مصيرهم جميعًا يوم القيامة للحساب والجزاء، يوم تتصدع الأرض عن الموتى المقبورين بها، فيخرجون مسرعين إلى الداعي، ذلك الجمع في موقف الحساب علينا سهل يسير."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "যেদিন যমিন তাদের ওপর থেকে বিদীর্ণ হয়ে যাবে, আর তারা দ্রুত (কবর থেকে) বেরিয়ে আসবে। এভাবে (সবাইকে) একত্র সমবেত করা আমার জন্য অত্যন্ত সহজ।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "On the Day when the earth will be rent asunder for them as they hasten forth [from their graves]; that is an easy gathering for Us."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Ce Jour-là, la terre se fendra, les laissant quitter précipitamment leurs tombes. Il Nous sera alors aisé de les rassembler."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(Yaitu) pada hari (ketika) bumi terbelah, mereka keluar dengan cepat. Yang demikian itu adalah pengumpulan yang mudah bagi Kami."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی اس آواز دینے والے کی طرف دوڑیں گے۔ جس نےآواز دی ہوگی۔ مُسْرِعِينَ إِلَى الْمُنَادِي الَّذِي نَادَاهُمْ (فتح القدير) نبی (صلى الله عليه وسلم) نے فرمایا، جب زمین پھٹے گی تو سب سے پہلے زندہ ہو کر نکلنے والا میں ہوں گا أَنَا أَوَّلُ مَنْ تَنْشَقُّ عَنْهُ الأَرْضُ (صحيح مسلم، كتاب الفضائل، باب تفضيل نبينا صلى الله عليه وسلم على جميع الخلائق)۔",
+     "text": "جس دن زمین پھٹ جائے گی اور یہ دوڑتے ہوئے[1] (نکل پڑیں گے) یہ جمع کر لینا ہم پر بہت ہی آسان ہے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "在大地破裂而他们迅速走出〔坟墓〕之日，那集合的事对于我是容易的。"
+    }
+   }
+  },
+  {
+   "arabic": "نَّحۡنُ أَعۡلَمُ بِمَا يَقُولُونَۖ وَمَآ أَنتَ عَلَيۡهِم بِجَبَّارٖۖ فَذَكِّرۡ بِٱلۡقُرۡءَانِ مَن يَخَافُ وَعِيدِ",
+   "aya": 45,
+   "id": 4675,
+   "tafsir": {
+    "arabic_moyassar": "نحن أعلم بما يقول هؤلاء المشركون مِن افتراء على الله وتكذيب بآياته، وما أنت -أيها الرسول- عليهم بمسلَّط; لتجبرهم على الإسلام، وإنما بُعِثْتَ مبلِّغًا، فذكِّر بالقرآن من يخشى وعيدي; لأن مَن لا يخاف الوعيد لا يذَّكر."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "হে রাসূল! এরা যা বলে আমি সে সম্পর্কে সম্যক অবগত আছি। আর তুমি তাদের ওপর কোন জোর-জবরদস্তিকারী নও। সুতরাং যে আমার (শাস্তির) ধমককে ভয় করে তাকে আল-কুরআনের সাহায্যে উপদেশ দাও।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "We know best what they say, and you are not there to compel them to believe. But remind with the Qur’an those who fear My warning."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Nous connaissons parfaitement leurs allégations. Tu n’as pas, quant à toi, à les contraindre à embrasser la foi. Exhorte simplement par le Coran quiconque redoute l’exécution de Ma menace."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Kami lebih mengetahui tentang apa yang mereka katakan, dan engkau (Muhammad) bukanlah seorang pemaksa terhadap mereka. Maka berilah peringatan dengan Alquran kepada siapa pun yang takut kepada ancaman-Ku."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی آپ (صلى الله عليه وسلم) اس بات کے مکلف نہیں ہیں کہ ان کو ایمان لانے پر مجبور کریں۔ بلکہ آپ (صلى الله عليه وسلم) کا کام صرف تبلیغ ودعوت ہے، وہ کرتے رہیں۔\n[2] یعنی آپ (صلى الله عليه وسلم) کی دعوت وتذکیر سے وہی نصیحت حاصل کرے گا جو اللہ سے اور اس کی وعیدوں سے ڈرتا اور اس کے وعدوں پر یقین رکھتا ہوگا۔ اسی لئےحضرت قتادہ یہ دعا فرمایا کرتے تھے «اللَّهُمَّ اجْعَلْنَا مِمَّنْ يَخَافُ وَعِيدَكَ ، وَيَرْجُو مَوْعُودَكَ يَا بَارُّ يَا رَحِيمُ» ”اے اللہ ہمیں ان لوگوں میں سےکر جو تیرے وعیدوں سے ڈرتے اور تیرے وعدوں کی امید رکھتے ہیں۔ اے احسان کرنے والے رحم فرمانے والے“۔",
+     "text": "یہ جو کچھ کہہ رہے ہیں ہم بخوبی جانتے ہیں اور آپ ان پر جبر کرنے والے نہیں[1] ، تو آپ قرآن کے ذریعے انہیں سمجھاتے رہیں جو میرے وعید (ڈرانے کے وعدوں) سے ڈرتے ہیں.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我全知他们所说的〔谰言〕，你不能强制他们，故你应当以《古兰经》教诲畏惧我的警告的人们。"
+    }
+   }
+  }
+ ],
+ "content_sha256": "sha256:a21aa00e502cc73fb37c8076c8ec3efc3ceaa01cc34851c188602da3fd6ed55f",
+ "name_ar": "ق",
+ "number": 50,
+ "schema": "balligh.library.quran.surah/1"
+}

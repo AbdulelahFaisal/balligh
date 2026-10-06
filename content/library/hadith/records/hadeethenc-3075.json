@@ -1,0 +1,170 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:3e444c2b250a830374cdf7e98bf57240b70697c5fd5cd53adee96aea3aedc75b",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يُخبِرُ حذيفةُ بن اليمان رضي الله عنهما أنه كان مع النبي صلى الله عليه وسلم، فأراد صلى الله عليه وسلم أن يَتبوَّل، فدخل سباطة قوم؛ وهي الموضع الذي يُلقى فيه القمامة والتراب الذي يكنس من المنازل، فتبول وهو واقف، وكان غالب عادته أن يبول قاعدًا. \n\nفتباعد عنه حذيفة، فقال له صلى الله عليه وسلم: اقترب، فاقترب حذيفة منه حتى قام خلفه عند مؤخر قدميه؛ ليكون كالسترة له عن النظر إليه في تلك الحالة. \n\nثم توضأ صلى الله عليه وسلم، وعند غسل الرجلين، اكتفى بالمسح على خفيه -وهما ما يلبس في الرجل من جلد رقيق ونحوه ويكون ساترًا للكعبين- ولم يخلعهما.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "مشروعية المسح على الخفين.",
+  "جواز البول قائمًا بشرط أن لا يصيبَه منه شيء.",
+  "اختيار النبي صلى الله عليه وسلم السباطة وهي مكان المزبلة والكناسة لأنها في الغالب سهلة لا يرتد فيها البول على البائل."
+ ],
+ "id": "hadeethenc-3075",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (1/ 54) (224).\nصحيح مسلم (1/ 228) (273).\nتيسير العلام شرح عمدة الأحكام، للبسام  (ص51).\nتنبيه الأفهام شرح عمدة الأحكام، لابن عثيمين (1/ 61).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3075",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:55:24+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3075"
+ },
+ "source_categories": [
+  {
+   "id": "727",
+   "label": "المسح على الخفين ونحوهما"
+  }
+ ],
+ "source_record_id": "3075",
+ "text": "عَنْ حُذَيْفَةَ رضي الله عنه قَالَ: كُنْتُ مَعَ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فَانْتَهَى إِلَى سُبَاطَةِ قَوْمٍ، فَبَالَ قَائِمًا، فَتَنَحَّيْتُ فَقَالَ: «ادْنُهْ» فَدَنَوْتُ حَتَّى قُمْتُ عِنْدَ عَقِبَيْهِ فَتَوَضَّأَ فَمَسَحَ عَلَى خُفَّيْهِ.",
+ "title": "كنت مع النبي صلى الله عليه وسلم فانتهى إلى سباطة قوم، فبال قائما،",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3075",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:a72ff3337d86e085598c044f998726a0c1464fa83e0e6d0aaf970310647ac926",
+   "explanation": "হুযাইফা ইবনুল ইয়ামান রদিয়াল্লাহু আনহুমা সংবাদ দিচ্ছেন যে, তিনি একবার নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের সাথে ছিলেন, তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রসাব করার ইচ্ছা করলেন, এরপরে তিনি কোন এক কওমের আবর্জনার স্তুপের কাছে গেলেন, এটি হচ্ছে এমন স্থান যেখানে বাড়ী-ঘরের ময়লা ধুলামাটি ঝাড়ু দিয়ে ফেলা হয়। তারপরে তিনি সেখানে দাঁড়িয়ে প্রসাব করলেন। তবে তার অধিকাংশ সময়ের অভ্যাস ছিল, তিনি বসে প্রসাব করতেন।\r\n\r\nতখন হুযাইফা তার থেকে দূরে সরে গেলেন, তবে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বললেন: কাছে আস, তখন হুযাইফা কাছে আসতে থাকলেন, এমনকি তিনি তার পিছনে একদম দুই পায়ের গোড়ালীর নিকটে দাঁড়ালেন, যাতে করে ঐ অবস্থায় তাঁকে দেখা যাওয়ার ব্যাপারে তিনি তার জন্য পর্দার ন্যায় হয়ে যান।\r\n\r\nএরপরে রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অযু করলেন, আর দুই পা ধোয়ার সময়ে তিনি তার দুই পায়ের মোজা না খুলে তার উপরে মাসেহ করে রেখে দিলেন।\n -(خف) তথা মোজা হচ্ছে: পায়ে পরিধান করা হয় এমন বস্তু যা পাতলা চামড়া অথবা অনুরূপ কিছু হতে তৈরী এবং দুই পায়ের টাখনুকে ঢেকে রাখে-।",
+   "grade": "সহীহ",
+   "hints": [
+    "মোজার উপরে মাসেহ করা শরীয়ত সম্মত।\r",
+    "দাঁড়িয়ে প্রসাব করা জায়েয, তবে শর্ত হচ্ছে: প্রসাবের কোন অংশ তার  শরীরে যেন না পৌঁছে ।\r",
+    "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ময়লা-আবর্জনা ও ধুলাবালি ফেলার স্থানকে বেছে নিয়েছিলেন; কারণ সাধারণত এতে প্রসাবকারীর দিকে প্রসাব ফিরে আসে না।"
+   ],
+   "mapping": "same HadeethEnc record id 3075; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:55:33+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3075",
+   "text": "হুযাইফা রদিয়াল্লাহু আনহু হতে বর্ণিত, তিনি বলেছেন: আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের সাথে ছিলাম, তখন তিনি কোন একটি কওমের আবর্জনা স্তুপের কাছে এসে দাঁড়িয়ে প্রসাব করলেন, তখন আমি দূরে সরে দাঁড়ালে তিনি আমাকে বললেন: “কাছে দাঁড়াও”, তখন আমি কাছে এসে একেবারে তাঁর পিছনে দাঁড়ালাম, তারপরে তিনি অযূ করলেন এবং দুটি মোজার উপরে মাসেহ করলেন।",
+   "title": "আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের সাথে ছিলাম, তখন তিনি কোন একটি কওমের আবর্জনা স্তুপের কাছে এসে দাঁড়িয়ে প্রসাব করলেন,",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3075",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:e02384a8b8bf3570a0636541ebf1a022747749ce4b51342d3f20fcd41e72dc5d",
+   "explanation": "Hudhayfah ibn al-Yamān (may Allah be pleased with him and his father) reports that he was with the Prophet (may Allah's peace and blessings be upon him) who wanted to urinate and, thus, entered the dump of some people, i.e., a place where the garbage and the dust swept off homes are thrown. He passed urine while standing, although he would usually urinate while sitting.\r\n\r\nHudhayfah moved away, but he (may Allah's peace and blessings be upon him) said to him: Come close, and Hudhayfah moved close until he was standing behind his heels to act as a barrier for him and let no one see him in such a state.\r\n\r\nThen the Prophet (may Allah's peace and blessings be upon him) made ablution, and on reaching the point of washing the feet, he only wiped over both of his Khuffs - footwear made of soft leather and the like covering the heels—without taking them off.",
+   "grade": "Authentic",
+   "hints": [
+    "Permissibility of wiping over leather socks.\r",
+    "Permissibility of passing urine while standing provided that nothing thereof reaches him.\r",
+    "The Prophet (may Allah's peace and blessings be upon him) chose the dump, i.e., the place where garbage and rubbish are collected, because it is usually easy to urinate there without being affected by the urine."
+   ],
+   "mapping": "same HadeethEnc record id 3075; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:55:32+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3075",
+   "text": "Hudhayfah (may Allah be pleased with him) reported: I was with the Prophet (may Allah's peace and blessings be upon him) when he arrived at the dump of some people and passed urine while standing. I stepped aside, but he said: \"Draw near.\" So, I drew near until I stood behind his heels, and he performed ablution and wiped over his leather socks.",
+   "title": "I was with the Prophet (may Allah's peace and blessings be upon him) when he arrived at the dump of some people and passed urine while standing",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=3075",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:3d9c2761623c801fe3b7cb961ed0b21b5f7ce8cd16d197efb5adc7dfa9468995",
+   "explanation": "Hudhayfah ibn Al Yamân (qu'Allah l'agrée) informe qu'il était avec le Prophète ﷺ lorsque ce dernier ﷺ voulut uriner. Alors, il entra dans une arrière-cour appartenant à des gens. Cet endroit est le lieu où les gens jettent la saleté et la terre qui sont balayées des maisons. Ainsi, il a uriné en étant debout alors qu'en général son habitude était qu'il urine en étant assis.\r\n\r\nHudhayfah s'est alors éloigné de lui. Ensuite, le Prophète ﷺ lui a dit de se rapprocher, alors il s'est rapproché de lui jusqu'à se tenir debout derrière lui, un peu en retrait au niveau de ses pieds pour qu'il fasse office de barrière de sorte que les gens ne le voient pas dans cette situation.\r\n\r\nPuis, il ﷺ a accompli ses ablutions et au moment de laver ses pieds, il s'est contenté d'essuyer ses chaussons - qui est ce que l'on met sur les pieds en cuir fin, ou ce qui y ressemble, et qui couvre les chevilles. Il ne les a pas enlevés.",
+   "grade": "Authentique",
+   "hints": [
+    "La prescription de l'essuyage sur les chaussons.\r",
+    "La permission d'uriner debout à condition que rien n'atteigne la personne.\r",
+    "Le choix du Prophète ﷺ d'aller dans l'arrière-cour qui est le lieu où on jette les ordures et les balayures et où l'urine ne risque pas   d'éclabousser celui qui urine."
+   ],
+   "mapping": "same HadeethEnc record id 3075; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:55:33+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/3075",
+   "text": "D'après Hudhayfah (qu'Allah l'agrée) qui a dit : J'étais avec le Prophète ﷺ lorsqu'il s'isola dans une arrière-cour des gens et alors il urina debout . Il s'est alors mis sur le côté et a dit : \" Rapproche-toi. \" Alors, je me suis rapproché jusqu'à me tenir debout derrière lui et là il a fait ses ablutions et passé sur ses chaussons.",
+   "title": "J'étais avec le Prophète ﷺ lorsqu'il s'isola dans une arrière-cour des gens et alors il urina debout",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3075",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:b3fc2a0d0bd7db3fc868501a4c4beca221d11189258fa3f43791fa482f6c2b35",
+   "explanation": "Ḥużaifah -raḍiyallāhu 'anhu- menuturkan bahwa ia pernah bersama Nabi ﷺ. Lalu beliau ingin kencing, sehingga masuk ke subāṭah suatu kaum. Subāṭah adalah tempat pembuangan sampah dan tanah yang disapu dari rumah. Kemudian beliau kencing berdiri. Tetapi, kebiasaan beliau yang paling umum ialah kencing duduk.\r\n\r\nḤużaifah lalu menjauh dari beliau. Tetapi beliau ﷺ berkata: mendekatlah. Lantas Ḥużaifah mendekat hingga berdiri di belakang tumit beliau sebagai sutrah (penghalang) yang menutupi beliau dari pandangan orang lain pada kondisi tersebut.\r\n\r\nSetelah itu, beliau berwudu. Ketika membasuh kedua kaki, beliau hanya mengusap kedua khuff dan tidak melepasnya. Khuff adalah kasut atau sepatu yang terbuat dari kulit tipis dan semisalnya yang menutupi kedua mata kaki.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Pensyariatan mengusap kedua khuff dalam berwudu.\r",
+    "2- Boleh kencing berdiri dengan syarat jangan sampai terkena air kencing walaupun sedikit.\r",
+    "3- Nabi ﷺ memilih subāṭah, yaitu tempat sampah, karena biasanya tempat seperti itu tidak keras sehingga air kencing yang jatuh tidak terciprat kepada orang yang kencing."
+   ],
+   "mapping": "same HadeethEnc record id 3075; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:55:32+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3075",
+   "text": "Ḥużaifah -raḍiyallāhu 'anhu- meriwayatkan, Aku pernah bersama Nabi ﷺ, lalu beliau pergi ke tempat pembuangan sampah suatu kaum lalu beliau kencing berdiri, sehingga aku pun menjauh. Beliau bersabda, \"Mendekatlah.\" Aku pun mendekat sampai berdiri di sisi kedua tumit beliau, lalu beliau berwudu dan mengusap kedua khuff beliau.",
+   "title": "Aku pernah bersama Nabi ﷺ, lalu beliau pergi ke tempat pembuangan sampah suatu kaum lalu beliau kencing berdiri",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3075",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:10fd6d3fb42e92006bdea59e3ecf3683b1da6ac508a1d4bba4c68750b7903f10",
+   "explanation": "حذیفہ بن یمان رضی اللہ عنہما کہتے ہيں کہ وہ اللہ کے نبی صلی اللہ علیہ و سلم کے ساتھ تھے۔ اسی دوران آپ نے پیشاب کرنے کا ارادہ کیا، تو ایک جگہ گئے، جہاں لوگ گھروں میں جھاڑو لگانے کے بعد جمع ہونے والا کوڑا اور مٹی پھینکا کرتے تھے اور وہاں کھڑے ہو کر پیشاب کیا۔ جب کہ عام طور پر آپ بیٹھ کر ہی پیشاب کیا کرتے تھے۔\r\n\r\nیہ دیکھ کر حذیفہ رضی اللہ عنہ آپ سے دور ہٹنے لگے، تو آپ نے پاس آنے کے لئے کہا۔ چنانچہ وہ بالکل پاس جاکر آپ کے پیچھے ایڑیوں کے پاس کھڑے ہو گئے، تاکہ ایک طرح سے سترہ بن جائيں اور کوئی آپ کو اس حالت میں دیکھ نہ سکے۔\r\n\r\nاس کے بعد آپ نے وضو کیا اور جب پاؤں دھونے کی باری آئی، تو دونوں موزوں کو دھونے کے بجائے ان پر مسح کر لیا۔ موزوں سے مراد چمڑے وغیرہ سے بنى ہوئے پیروں میں پہننے والى چیزیں ہيں، جو دونوں قدموں کو ڈھانپ کر رکھتى ہیں۔",
+   "grade": "صحيح",
+   "hints": [
+    "موزوں پر مسح کی مشروعیت۔\r",
+    "کھڑے ہوکر پیشاب کرنا جائز ہے، بشرطیکہ جسم یا کپڑے پر چھینٹے نہ پڑیں۔\r",
+    "اللہ کے نبی صلی اللہ علیہ و سلم نے کوڑا پھینکنے کی جگہ کا انتخاب اس لیے کیا کہ عام طور پر وہ جگہ نرم ہوتی ہے اور پیشاب کے چھینٹے پیشاب کرنے والے پر پڑنے کا اندیشہ نہيں رہتا۔"
+   ],
+   "mapping": "same HadeethEnc record id 3075; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:55:32+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3075",
+   "text": "حذیفہ رضی اللہ عنہ سے روایت ہے، وہ کہتے ہیں : میں اللہ کے رسول صلی اللہ علیہ و سلم کے ساتھ موجود تھا۔ آپ لوگوں کے کوڑا کرکٹ پھینکنے کی جگہ پر آئے اور کھڑے ہوکر پیشاب کیا۔ میں ذرا دور ہٹ کر کھڑا ہو گیا، تو فرمایا : \"قریب آ جاؤ۔\" چنانجہ میں قریب آکر آپ کی دونوں ایڑیوں کے پاس کھڑا ہو گیا۔ چنانچہ آپ نے وضو کیا اور دونوں موزوں پر مسح کیا۔",
+   "title": "میں اللہ کے رسول صلی اللہ علیہ و سلم کے ساتھ موجود تھا۔ آپ لوگوں کے کوڑا کرکٹ پھینکنے کی جگہ پر آئے اور کھڑے ہوکر پیشاب کیا۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3075",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:67de3d428a4a5d4103fa9517c47eb81917e159a0aca5ce20a9274a0c2b2b34fb",
+   "explanation": "胡宰法·本·叶玛尼（愿主喜悦之）曾与先知一起行走，然后先知意欲解手，便走进了一处堆放垃圾的地方，人们在这里扔垃圾以及从他们家清理出来的土，然后先知（愿主福安之）站着解了手，而先知（愿主福安之）以往都是蹲着小便的。\r\n\r\n胡宰法避开了先知（愿主福安之），然后先知说：“站近一点”，胡宰法便走近了先知，直至站在先知身后，他的脚踝骨处，以便在那种状态下替先知做遮挡。\r\n\r\n随后先知洗了小净，当开始洗脚时，便摸了他的靴子——用薄的皮子制成，穿在脚上的，是遮住脚踝骨的——而没有脱下靴子。",
+   "grade": "正确的",
+   "hints": [
+    "教法允许抹靴子。\r",
+    "允许站着小便，但条件是不要使尿液溅到自己。\r",
+    "先知（愿主福安之）选择垃圾堆放地，那是因为这种地方一般都是平整的，尿液不会反弹至撒尿者的身上。"
+   ],
+   "mapping": "same HadeethEnc record id 3075; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:55:32+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3075",
+   "text": "胡宰法（愿主喜悦之）传述，他说： 我曾与先知（愿主福安之）一道走到了一处堆放垃圾的地方，然后先知站着小便，我就站在了稍远的地方，先知（愿主福安之）说：“站近一点”，我便走近并站在了脚踝骨处，随后先知洗了小净，抹了两靴子。",
+   "title": "我曾与先知（愿主福安之）一道走到了一处堆放垃圾的地方，然后先知站着小便，",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

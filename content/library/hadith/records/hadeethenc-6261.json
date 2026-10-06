@@ -1,0 +1,163 @@
+{
+ "attribution": "رواه البخاري",
+ "content_sha256": "sha256:5911c239e284d9dced39a971400c92fa8ce88ee92c852dda8f49f42396dfefd3",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "حَذَّرَ النبيُّ صلى الله عليه وسلم مِن تأخيرِ صلاةِ العصر عن وقتها مُتَعمِّدًا، وأنَّ من فعل ذلك بَطَل وفَسَدَ عملُه وذهب سُدًى.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "الحث على المحافظة على صلاة العصر في أول وقتها والمبادرة إلى ذلك.",
+  "الوعيد الشديد لمن ترك صلاة العصر، وتفويتها عن وقتها أعظم من تفويت غيرها، فإنها الصلاة الوسطى المخصوصة بالأمر في قوله تعالى: (حَافِظُواْ عَلَى الصَّلَوَاتِ والصَّلاَةِ الْوُسْطَى) [البقرة: 238]."
+ ],
+ "id": "hadeethenc-6261",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (1/ 115) (553).\nمسند أحمد (38/ 152) (23045).\nشرح رياض الصالحين، لابن عثيمين (5/ 56).\nنزهة المتقين شرح رياض الصالحين، لمصطفى الخِن وغيره (2/ 777).\nفيض القدير شرح الجامع الصغير (3/ 206).\nبهجة الناظرين، لسليم الهلالي (2/ 260).\nتطريز رياض الصالحين، لفيصل آل مبارك (ص614).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=6261",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:41+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/6261"
+ },
+ "source_categories": [
+  {
+   "id": "456",
+   "label": "وجوب الصلاة وحكم تاركها"
+  }
+ ],
+ "source_record_id": "6261",
+ "text": "عن بريدة بن الحصيب رضي الله عنه أنه قال: بَكِّرُوا بِصَلَاةِ الْعَصْرِ، فَإِنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَنْ تَرَكَ صَلَاةَ الْعَصْرِ فَقَدْ حَبِطَ عَمَلُهُ».",
+ "title": "من ترك صلاة العصر فقد حبط عمله",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=6261",
+   "arabic_match": "exact",
+   "attribution": "এটি বুখারী বর্ণনা করেছেন।",
+   "content_sha256": "sha256:33d8a5e2c4c18531b6efd0fcff57a7f5a84fb2cc07199c61bfce185e4a3298bc",
+   "explanation": "এ হাদীসে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইচ্ছাকৃতভাবে আসরের সালাত সময় মতো আদায় না করে বিলম্বে আদায় করা থেকে সতর্ক করেছেন। আর যে ব্যক্তি আসরের সালাত বিলম্বে পড়ে বা ছেড়ে দেয় তার আমল বিনষ্ট হয় এবং সে খালি হয়ে যায়।",
+   "grade": "সহীহ",
+   "hints": [
+    "আসরের সালাত প্রথম ওয়াক্তে ও দ্রুত আদায় করতে এবং এ সালাতের প্রতি যত্নবান হতে উৎসাহিত করা হয়েছে।\r",
+    "যে ব্যক্তি আসরের সালাত ত্যাগ করে, তার ব্যাপারে রয়েছে কঠোর হুশিয়ারী। এ সালাত কে তার সময় থেকে পিছিয়ে দেয়া, তা ছাড়া যে কোন জিনিস হাত ছাড়া করার চেয়ে মারাত্মক।কেননা এটি হলো সেই সর্বোত্তম-মধ্যবর্তী সালাত, যে সালাতের ব্যাপারে আল্লাহ তা‘আলা তাঁর বাণীতে বিশেষ নির্দেশ দিয়েছেন: حَافِظُواْ عَلَى الصَّلَوَاتِ والصَّلاَةِ الْوُسْطَى “তোমরা সালাতের প্রতি যত্নবান হও, বিশেষত সর্বশ্রেষ্ট-মধ্যবর্তী সালাতের।” [সূরা আল-বাক্বারাহ, ২৩৮]"
+   ],
+   "mapping": "same HadeethEnc record id 6261; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:56+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/6261",
+   "text": "বুরাইদাহ রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, তিনি বলেন: শীঘ্র ‘আসরের সালাত আদায় করে নাও। কারণ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন: “যে ব্যক্তি ‘আসরের সালাত ছেড়ে দেয় তার ‘আমল বিনষ্ট হয়ে যায়।”",
+   "title": "যে ব্যক্তি ‘আসরের সালাত ছেড়ে দেয় তার ‘আমল বিনষ্ট হয়ে যায়।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=6261",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Al-Bukhāri",
+   "content_sha256": "sha256:e8ad402f0217ef4d24ac42470d589d25be0139629aec996bf71665a586a1957e",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) warned against deliberately delaying the ‘Asr prayer beyond its appointed time and that whoever does so, his deeds will become invalid and will be rendered worthless.",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth urges us to always perform the ‘Asr prayer at its early time and hasten to do so.\r",
+    "It gives a stern warning to anyone who abandons the ‘Asr prayer. Indeed, delaying the ‘Asr prayer beyond its time is greater than delaying other prayers. The middle prayer referred to in the command occurring in the verse reads: {Be mindful of the prayers, especially the middle prayer; and stand before Allah in complete devotion.} [Surat al-Baqarah: 238]"
+   ],
+   "mapping": "same HadeethEnc record id 6261; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:55+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/6261",
+   "text": "Buraydah ibn al-Hasīb (may Allah be pleased with him) said: Offer the ‘Asr prayer early, for the Prophet (may Allah's peace and blessings be upon him) said: \"Whoever abandons the ‘Asr prayer, his deeds will be rendered worthless.\"",
+   "title": "Whoever abandons the ‘Asr prayer, his deeds will be rendered worthless",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=6261",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî",
+   "content_sha256": "sha256:d827146bfc7587b5ec808932256a377e7701e6d967512e132ff52ec7cf10890d",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) a mis en garde contre le fait de volontairement retarder le temps de la prière du 'Aṣr. Quiconque fait cela, son œuvre a été invalidée et corrompue, tout comme elle s'en est allée vainement.",
+   "grade": "Authentique",
+   "hints": [
+    "L'encouragement à être assidu à la prière du 'Aṣr au début de son temps et à s'empresser de l'accomplir.\r",
+    "La sévère menace adressée à quiconque délaisse la prière du 'Aṣr, et manquer de la faire en son temps est plus grave que d'en manquer autre. En effet, elle est la prière médiane dont l'affaire a spécifiquement été mentionnée dans la parole d'Allah, Exalté soit-Il : { Soyez assidus aux Prières, notamment la Prière médiane } [Sourate Al-Baqarah (La Vache) – Coran : 2/238]."
+   ],
+   "mapping": "same HadeethEnc record id 6261; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:56+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/6261",
+   "text": "Bouraydah ibn Al-Ḥaṣîb (qu'Allah l'agrée) relate qu'il a dit : « Accomplissez tôt la prière du 'Aṣr (la prière de l'après-midi). En effet, le Prophète (qu'Allah le couvre d'éloges et le préserve) a dit : \" Quiconque délaisse la prière du 'aṣr, son œuvre a assurément été vaine\". »",
+   "title": "Quiconque délaisse la prière du 'aṣr, son œuvre a assurément été vaine\".",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=6261",
+   "arabic_match": "exact",
+   "attribution": "HR. Bukhari",
+   "content_sha256": "sha256:2155668f66b5acdc41ef4953bdc1573d8b90f6cb4222c53e4eb3d463e6806998",
+   "explanation": "Nabi ﷺ memperingatkan agar tidak mengakhirkan salat Asar dari waktunya dengan sengaja, dan bahwa siapa yang melakukan hal itu maka amalnya telah batal dan sia-sia saja.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Anjuran menjaga salat Asar di awal waktunya dan mengerjakannya dengan segera.\r",
+    "2- Ancaman keras bagi orang yang meninggalkan salat Asar dan mengeluarkannya dari waktunya lebih berat dari menelantarkan salat yang lain karena ia merupakan salat al-wusṭā (pertengahan) yang secara khusus diperintahkan dalam firman Allah Ta'ala: \"Peliharalah semua salat dan salat al-wusṭā.\" [QS. Al-Baqarah: 238]"
+   ],
+   "mapping": "same HadeethEnc record id 6261; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:56+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/6261",
+   "text": "Buraidah bin Al-Ḥuṣaib -raḍiyallāhu 'anhu- berkata, \"Segerakanlah mengerjakan salat Asar karena Nabi ﷺ bersabda, 'Siapa yang meninggalkan salat Asar, niscaya telah batal (gugur) amalnya.'\"",
+   "title": "Siapa yang meninggalkan salat Asar, niscaya telah batal (gugur) amalnya.'",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=6261",
+   "arabic_match": "exact",
+   "attribution": "رواه البخاري",
+   "content_sha256": "sha256:bc51b669e6f293aacec4b15c4a1e4e439660abfdb256579731b46eda17376331",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم  نے جان بوجھ کر عصر کی نماز کو وقت سے مؤخر کرنے سے منع کیا ہے اور بتایا ہے کہ جس نے ایسا کیا، اس کا عمل ضا‏ئع ہو جائے گا۔",
+   "grade": "صحيح",
+   "hints": [
+    "اول وقت میں عصر کی نماز پڑھنے کی ترغیب۔\r",
+    "عصر کی نماز چھوڑنے والے کے لیے بڑی سخت وعید آئی ہے۔ اس نماز کو وقت پر نہ بڑھنا دیگر نمازوں کو وقت پر نہ پڑھنے سے زیادہ بڑا گناہ ہے۔ کیوں کہ یہ وہی درمیانی نماز ہے، جس کے بارے میں خصوصی حکم اللہ تعالی کے اس قول میں دیا گیا ہے : \"نمازوں کی حفاﻇت کرو، بالخصوص درمیان والی نماز کی۔\" [سورہ بقرہ : 238]"
+   ],
+   "mapping": "same HadeethEnc record id 6261; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:55+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/6261",
+   "text": "بریدہ بن حصیب رضی اللہ عنہ سے روایت ہے، وہ کہتے ہیں : \"عصر کی نماز جلدی پڑھا کرو۔ کیوں کہ اللہ کے نبی صلی اللہ علیہ و سلم نے فرمایا: \"جس نے عصر کی نماز چھوڑ دی، اس کا عمل ضا‏ئع ہو گیا۔\"",
+   "title": "جس نے عصر کی نماز چھوڑ دی، اس کا عمل ضا‏ئع ہو گیا۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=6261",
+   "arabic_match": "exact",
+   "attribution": "布哈里辑录",
+   "content_sha256": "sha256:a4fd39453a90c188c6a5700fa96bd10694b98bfca7420d353cd5358ba592eef7",
+   "explanation": "先知（愿主福安之）警告故意推迟晡礼拜，凡故意推迟者，其善功已失效，即徒劳无功。",
+   "grade": "正确的",
+   "hints": [
+    "鼓励坚持、争先在晡礼拜的第一时间内完成晡礼。\r",
+    "对放弃晡礼拜者发出了严厉的警告，相比其他拜功，未在第一时间内完成晡礼拜更加严重，因为它是被称为“中间的拜功”，在古兰经中专门以命令的口吻提起：“你们当谨守许多拜功以及中间的拜功。”{黄牛：238}"
+   ],
+   "mapping": "same HadeethEnc record id 6261; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:55+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/6261",
+   "text": "据布莱德·本·胡塞卜（愿主喜悦之）传述说： 你们当早做晡礼拜，因为先知（愿主福安之）说：“凡放弃晡礼拜者，其善功已失效。”",
+   "title": "凡放弃晡礼拜者，其善功已失效。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

@@ -1,0 +1,52 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-18975",
+ "source_content_sha256": "sha256:e3ac7d234783a58714dc2cc452f55fdbd54ffc4d38a2b5a6d93a70074b4926ef",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:21:37.422561+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 599,
+  "completion_tokens": 424,
+  "total_tokens": 1023,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 599
+ },
+ "latency_ms": 4510,
+ "units": [
+  {
+   "id": "title",
+   "text": "什么是两个作证词的含义？"
+  },
+  {
+   "id": "q0",
+   "text": "问题："
+  },
+  {
+   "id": "q1",
+   "text": "这位来自利雅得的提问者在问题中问道：（作证“除安拉外绝无应受崇拜者，穆罕默德是安拉的使者”）的含义是什么？"
+  },
+  {
+   "id": "a0",
+   "text": "回答："
+  },
+  {
+   "id": "a1",
+   "text": "作证词的含义是：他用自己的舌头和内心作证，除安拉外绝无真正应受崇拜者。他用自己的舌头作证，并用自己的内心相信，除安拉外绝无真正应受崇拜者，即：除安拉外绝无真正应受崇拜者。人们舍安拉而崇拜的偶像、死者、树木、石头、天使或其他的一切都是虚假的，正如至高者所说：⟦Q1⟧ [朝觐章：62]。这就是作证“除安拉外绝无真正应受崇拜者”的含义：你要基于知识、确信和真诚作证，除安拉外绝无真正应受崇拜者，人们舍安拉而崇拜的一切都是虚假的。"
+  },
+  {
+   "id": "a2",
+   "text": "作证（穆罕默德是安拉的使者）的含义是：你要基于知识、确信和真诚作证，穆罕默德·本·阿卜杜拉·本·阿卜杜勒·穆塔里布确是真主派给所有精灵和人类的使者，他是众先知的封印，他之后再无先知（愿主福安之）。是的。"
+  },
+  {
+   "id": "a3",
+   "text": "主持人：愿安拉护佑您。"
+  }
+ ]
+}

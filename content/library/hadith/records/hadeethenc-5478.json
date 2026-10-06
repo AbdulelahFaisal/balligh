@@ -1,0 +1,170 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:062d58e5003a78d3d161ff62a714d3659d8d0ccb292700e434f2f2e937867573",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "سَمِعَ النبيُّ صلى الله عليه وسلم رجلًا ينصح أخاه أن يترك كثرةَ الحياء! فبَيَّن له أن الحياء من الإيمان، وأنه لا يأتي إلا بخير.\n\nوالحياء خُلقٌ يَحْمِلُ على فِعْل الجميل وترك القبيح.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "ما يَمنعُك من الخير لا يُسمَّى حياءً، بل يُسمى خَجَلًا وعَجْزًا وخَوَرًا وجُبْنًا.",
+  "الحياء من الله عز وجل يكون بفعل المأمورات، وترك المحظورات.",
+  "الحياء مِن الخَلق يكون باحترامهم، وإنزالهم منازلهم، واجتناب ما يقبح عادةً."
+ ],
+ "id": "hadeethenc-5478",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (1/ 14) (24).\nصحيح مسلم (1/ 63) (36).\nتوضيح الأحكام من بلوغ المرام، للبسام (7/ 489).\nمنحة العلام في شرح بلوغ المرام، لعبد الله الفوزان (10/ 330).\nفتح ذي الجلال والإكرام، لابن عثيمين (6/ 427).\nسبل السلام بشرح بلوغ المرام، للصنعاني (2/ 689).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=5478",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:54+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/5478"
+ },
+ "source_categories": [
+  {
+   "id": "282",
+   "label": "الأخلاق الحميدة"
+  }
+ ],
+ "source_record_id": "5478",
+ "text": "عن عبد الله بن عمر رضي الله عنهما قال: سَمِعَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ رَجُلًا يَعِظُ أَخَاهُ فِي الْحَيَاءِ، فَقَالَ: «الْحَيَاءُ مِنَ الْإِيمَانِ».",
+ "title": "الحياء من الإيمان",
+ "topic": "conduct",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=5478",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:c1a1bcf149e24aad5d7ea47a3aa8f9e8180dfcc60b53c13c04655fbcff6b565d",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম শুনলেন, এক লোক তার ভাইকে বেশি লজ্জা পরিহার করতে উপদেশ দিচ্ছিল। তখন তিনি বললেন, লজ্জা ঈমানের অঙ্গ। লজ্জাশীলতা শুধু কল্যাণই বয়ে আনে।\r\n\r\nলজ্জাশীলতা একটি সুন্দর চরিত্র যা ভালো কাজ করতে এবং খারাপ কাজ বর্জন করতে উৎসাহিত করে।",
+   "grade": "সহীহ",
+   "hints": [
+    "যে লজ্জা ভালো কাজ করতে বাঁধা দেয় তা মূলত লজ্জাশীতা নয়; বরং তাকে বলে লাজুকতা,অপারগতা, ভীরুতা, এবং কাপুরুষতা।\r",
+    "লজ্জাশীলতা মহান আল্লাহর পক্ষ থেকে একটি বিশেষ গুণ, যা তাঁর আদেশসমূহ পালন করা এবং নিষেধসমূহ বর্জন করার মাধ্যমে অর্জিত হয়।\r",
+    "মাখলূকের জন্য লজ্জাশীলতা হলো তাদেরকে সম্মান করা, তাদের মর্যাদা অনুযায়ী মূল্যায়ন করা এবং সাধারণত যা মন্দ তা বর্জন করা।"
+   ],
+   "mapping": "same HadeethEnc record id 5478; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:38+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/5478",
+   "text": "আব্দুল্লাহ ইবনু ‘উমার রাদিয়াল্লাহু ‘আনহুমা থেকে বর্ণিত, তিনি বলেন: এক ব্যক্তি তার ভাইকে লজ্জার ব্যাপারে উপদেশ দিচ্ছিলেন শুনতে পেয়ে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বললেন: “লজ্জা ঈমানের অঙ্গ।”",
+   "title": "লজ্জা ঈমানের অঙ্গ",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=5478",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:18e990fb6bbfaf8e849d37fd5afd37dd88ff54ac74c859320ffbb832d43ba9c7",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) heard a man advising his brother to refrain from excessive modesty, and he clarified to him that modesty is part of faith and brings nothing but good.\r\n\r\nModesty is a noble manner that prompts one to do what is good and refrain from detestable things.",
+   "grade": "Authentic",
+   "hints": [
+    "What prevents one from doing good is not called modesty; rather, it is shyness, helplessness, weakness, and cowardice.\r",
+    "Modesty towards Allah Almighty is to carry out His commands and shun His prohibitions.\r",
+    "Modesty towards people means respecting and treating them in the way they deserve and avoiding things usually regarded as reprehensible."
+   ],
+   "mapping": "same HadeethEnc record id 5478; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:38+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/5478",
+   "text": "‘Abdullāh ibn ‘Umar (may Allah be pleased with him) reported: The Prophet (may Allah's peace and blessings be upon him) heard a man preaching to his brother about modesty; he said: \"Modesty is part of faith.\"",
+   "title": "Modesty is part of faith",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=5478",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:b957ee34d5893ec32945823d601d78d29615da151999f24302cb31e58694e569",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) a entendu un homme qui conseillait à son frère de délaisser son \"excès\" de pudeur. Il lui a alors expliqué que la pudeur fait partie de la foi et qu'elle n'apporte que du bien.\r\n\r\nLa pudeur est un comportement qui pousse à accomplir ce qui est beau et à délaisser ce qui est laid.",
+   "grade": "Authentique",
+   "hints": [
+    "Ce qui t'empêche de faire le bien ne s'appelle pas de la pudeur ; c'est plutôt de la timidité, de l'impuissance, de la lâcheté et de la couardise.\r",
+    "La pudeur à l'égard d'Allah, Exalté soit-Il, consiste à accomplir ce qui est ordonné, et à délaisser ce qui est interdit.\r",
+    "La pudeur à l'égard des créatures consiste à les respecter, les traiter avec l'égard qu'ils méritent et à s'éloigner de tout ce qui est généralement considéré comme abject et méprisable."
+   ],
+   "mapping": "same HadeethEnc record id 5478; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:38+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/5478",
+   "text": "'AbdouLlâh Ibn 'Oumar (qu'Allah l'agrée, lui et son père) relate : Le Prophète (qu'Allah le couvre d'éloges et le préserve) a entendu un homme qui exhortait son frère au sujet de la pudeur, il a alors dit : «  La pudeur fait partie de la foi. »",
+   "title": "La pudeur fait partie de la foi",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=5478",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:83e035d1f207e5ffd88f13f26d99ff77e79ff9048799c697096e80094565fc04",
+   "explanation": "Nabi ﷺ mendengar seorang laki-laki yang sedang menasihati saudaranya agar tidak banyak malu. Beliau lantas menerangkan bahwa sifat malu bagian dari iman dan bahwa ia tidak mendatangkan kecuali kebaikan.\r\n\r\nMalu adalah sifat yang memicu munculnya perbuatan baik dan hilangnya perbuatan buruk.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Sifat yang menghalangi Anda dari melakukan kebaikan tidak disebut malu, tetapi disebut rasa takut, lemah, hina dan pengecut.\r",
+    "2- Malu kepada Allah ﷻ ialah dengan mengerjakan perintah dan meninggalkan larangan.\r",
+    "3- Malu kepada manusia ialah dengan menghargai mereka, menempatkan mereka sesuai kedudukan mereka, dan menjauhi sesuatu yang dinilai buruk menurut adat kebiasaan."
+   ],
+   "mapping": "same HadeethEnc record id 5478; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:38+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/5478",
+   "text": "Abdullah bin Umar -raḍiyallāhu 'anhumā- meriwayatkan, Nabi ﷺ mendengar seorang laki-laki sedang menasihati saudaranya tentang sifat malu, maka beliau bersabda, \"Sifat malu bagian dari iman.\"",
+   "title": "Sifat malu bagian dari iman",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=5478",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:2c7f125cd6094ae6b093a1cfd8412ecf4e44076dafe54fcf624e95bdbb90a908",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم نے ایک شخص کو اپنے بھائی کو زیادہ حیا نہ کرنے کی نصیحت کرتے ہوئے سنا تو اس کے سامنے یہ واضح کر دیا کہ حیا ایمان کا حصہ ہے اور حیا سے انسان کا بھلا ہی ہوتا ہے۔\r\n\r\nحیا ایک ایسی صفت ہے، جو انسان کو اچھا کام کرنے اور برے کام سے بچنے پر آمادہ کرتی ہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "جو اچھے کام سے روکے، اسے حیا نہیں، بلکہ خجالت، عاجزی، کم زوری اور بزدلی کہيں گے۔\r",
+    "اللہ سے حیا کا مطلب ہے اس کے احکام کی تعمیل کرنا اور اس کی منع کی ہوئی چیزوں سے دور رہنا۔\r",
+    "لوگوں سے حیا کا مطلب ہے ان کا احترام کرنا، ان کو ان کا مناسب مقام دینا اور ان چیزوں سے دور رہنا جن کو عادۃ برا سمجھا جاتا ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 5478; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:38+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/5478",
+   "text": "عبداللہ بن عمر رضی اللہ عنہما سے روایت ہے، وہ کہتے ہيں : اللہ کے نبی صلی اللہ علیہ و سلم نے ایک شخص کو اپنے بھائی کو حیا کے بارے میں سمجھاتے ہوئے سنا، تو فرمایا : \"حیا ایمان کا حصہ ہے۔\"",
+   "title": "حیا ایمان کا حصہ ہے",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=5478",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:10451cc632ae08c58e2f547518a6d4a9acc96396eb34f2dcd0bcb7d322bf9216",
+   "explanation": "先知（愿主福安之）听到有人建议他的兄弟不要太害羞时，明确告诉他，知耻是信仰的一部分，只会带来好处。\r\n\r\n知耻是一种品德，鼓励人做善事，远离恶行。",
+   "grade": "正确的",
+   "hints": [
+    "阻止你做好事的不叫知耻，而是叫胆怯、无能、怯懦。\r",
+    "对真主的羞怯通过履行祂的命令和遵守禁令来实现。\r",
+    "面对人的知耻体现在尊重他人，理解他们的处境，避免不雅行为。"
+   ],
+   "mapping": "same HadeethEnc record id 5478; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:38+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/5478",
+   "text": "据阿卜杜拉·本·欧迈尔（愿主喜悦他俩）传述，他说： “穆圣（愿主福安之）听见一人劝诫他的弟兄要知耻，便说:“廉耻是伊玛尼的一部分｡”",
+   "title": "廉耻是伊玛尼的一部分｡",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

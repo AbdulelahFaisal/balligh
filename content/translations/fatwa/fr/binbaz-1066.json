@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1066",
+ "source_content_sha256": "sha256:18f535414a98bd90ca4f4d99693221080db2101df9fb2a5776e7e380df4e909f",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:28:56.620472+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 672,
+  "completion_tokens": 598,
+  "total_tokens": 1270,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 672
+ },
+ "latency_ms": 5110,
+ "units": [
+  {
+   "id": "title",
+   "text": "Que faire celui qui trouve une brebis égarée ?"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "J'ai trouvé deux têtes de mouton égarées. J'ai interrogé à leur sujet dans plusieurs endroits et au marché aux bestiaux, mais je n'ai trouvé aucun propriétaire. Je vous prie de me donner une fatwa sur ce que je dois en faire."
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Si une personne trouve des têtes de mouton, ou d'autres animaux que le mouton comme les bovins ou autres, dont on craint qu'ils ne s'égarent ou ne se perdent, elle doit les faire connaître pendant une année entière. Si le propriétaire est retrouvé, louange à Allah. S'il n'est pas retrouvé, il lui est permis... Le Prophète – prière et salut d'Allah sur lui – a dit : « Celui qui recueille une bête égarée est lui-même égaré, tant qu'il ne l'a pas fait connaître. »"
+  },
+  {
+   "id": "a2",
+   "text": "Quant aux bovins et aux chameaux, ils se défendent eux-mêmes ; il n'est donc pas nécessaire de s'en occuper ni de les prendre. On les laisse plutôt dans le désert jusqu'à ce que leurs propriétaires les retrouvent, et s'ils sont sur les marchés, leurs propriétaires les y trouveront."
+  },
+  {
+   "id": "a3",
+   "text": "Quant aux moutons, il convient de les faire connaître pendant une année entière. Il en est de même pour les petits animaux de la même catégorie que les moutons, dont on craint la mort... etc. ; on les fait connaître également."
+  },
+  {
+   "id": "a4",
+   "text": "En résumé : il les fait connaître pendant une année entière. S'ils sont reconnus, c'est tant mieux ; sinon, ils lui appartiennent. La rémunération, selon l'avis le plus juste, est à sa charge : la rémunération pour les annoncer et les faire connaître aux gens est à sa charge, prélevée sur les biens qu'il a trouvés. Et s'il les laisse et ne les prend pas, il n'y a pas de mal."
+  }
+ ]
+}

@@ -1,0 +1,170 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:0f7dcae3966d0bf6d95c69aec8effc2fea08af009b534b35246069d625058a5d",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "لم يَكنْ مِن أخلاقِ النبيِّ صلى الله عليه وسلم الكلامُ القبيح، أو الفعلُ القبيح، ولم يكن يَقصدُه ولا يتعمدُه، فهو صلى الله عليه وسلم ذو خلق عظيم.\n\nوكان صلى الله عليه وسلم يقول: إنَّ أفضلَكم عند الله أحسنُكم خُلُقًا، بِبَذْلِ المعروف، وطلاقةِ الوجه، وكَفِّ الأذى واحتماله، ومخالطة الناس بالجميل.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "على المؤمن أن يبتعد عن الفُحْش من الكلام السيِّئ والفعل القبيح.",
+  "كمال خُلُق رسول الله صلى الله عليه وسلم، فلا يَصْدُرُ عنه إلا العمل الصالح والقول الطيب.",
+  "حسن الخلق مَيْدانٌ للتنافس، فمَن سَبَقَ كان من خيار المؤمنين وأكملِهم إيمانًا."
+ ],
+ "id": "hadeethenc-5803",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (4/ 189) (3559).\nصحيح مسلم (4/ 1810) (2321).\nبهجة الناظرين شرح رياض الصالحين، لسليم الهلالي (1/ 672).\nتطريز رياض الصالحين، لفيصل آل مبارك (ص410).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=5803",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:57+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/5803"
+ },
+ "source_categories": [
+  {
+   "id": "282",
+   "label": "الأخلاق الحميدة"
+  }
+ ],
+ "source_record_id": "5803",
+ "text": "عن عبد الله بن عمرو رضي الله عنهما قال: لَمْ يَكُنِ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فَاحِشًا وَلَا مُتَفَحِّشًا، وَكَانَ يَقُولُ: «إِنَّ مِنْ خِيَارِكُمْ أَحْسَنَكُمْ أَخْلَاقًا».",
+ "title": "إن من خياركم أحسنكم أخلاقا",
+ "topic": "conduct",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=5803",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:78213c1ee8fc638602214e49bf0a2976ff5968a6143acbb4ae42848e9f28fa2f",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম কখনোই অশ্লীলভাষী বা অশ্লীল কর্ম সম্পাদনকারী ছিলেন না। তিনি কখনোই অশালীন কাজ করা ও কথা বলার ইচ্ছাও করতেন না। তিনি সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম সর্বদা মহা চরিত্রের অধিকারী ছিলেন।\r\n\r\nনবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলতেন, তোমাদের মধ্যে সেই ব্যক্তিই সর্বোত্তম যে চরিত্রের দিক দিয়ে সবোর্ত্তম। সে জনকল্যাণে কাজ করে, হাস্যোজ্জ্বল চেহারা প্রদর্শন করে, অন্যকে কষ্টদায়ক জিনিস থেকে বিরত থাকে, কষ্ট সহ্য করে এবং মানুষের সাথে সুন্দরভাবে মিশে ইত্যাদি।",
+   "grade": "সহীহ",
+   "hints": [
+    "মুমিনের উচিত অশ্লীল কথা ও কাজ থেকে বিরত থাকা।\r",
+    "রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম পরিপূর্ণ উত্তম চরিত্রের ছিলেন। তাঁর থেকে সর্বদা নেককাজ ও উত্তম কথাই বের হতো।\r",
+    "উত্তম চরিত্র হলো প্রতিযোগিতার ময়দান। সুতরাং যে ব্যক্তি এ প্রতিযোগিতায় বিজয়ী হবে সেই মুমিনদের মধ্যে সর্বোত্তম ও পরিপূর্ণ ঈমানদার হবে।"
+   ],
+   "mapping": "same HadeethEnc record id 5803; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:49+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/5803",
+   "text": "আব্দুল্লাহ ইবনু ‘আমর রাদিয়াল্লাহু ‘আনহুমা থেকে বর্ণিত, তিনি বলেন: “রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম অশ্লীল ছিলেন না এবং অশালীনতা কে প্রশ্রয়ও দিতেন না। তিনি বলতেন: “তোমাদের মধ্যে সেই ব্যক্তিই সর্বোত্তম যে নৈতিকতায় সর্বোত্তম।”",
+   "title": "তোমাদের মধ্যে সেই ব্যক্তিই সর্বোত্তম যে নৈতিকতায় সর্বোত্তম।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=5803",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:dd385168454ac0e604b17c60c0a3ef7e987158678459387921346d3e80a8289d",
+   "explanation": "It was not part of the Prophet's character to speak or act indecently, nor would he deliberately do that. Indeed, he was of exemplary good character.\r\n\r\nThe Prophet (may Allah's peace and blessings be upon him) used to say: The best among you in the sight of Allah are those who possess the best manners; in doing good, having a smiling face, refraining from harming others and bearing harm from them, and associating with people in a pleasant manner.",
+   "grade": "Authentic",
+   "hints": [
+    "A believer is required to keep away from improper speech and reprehensible acts.\r",
+    "The Messenger of Allah (may Allah’s peace and blessings be upon him) possessed perfect manners, and he would only do and say what was good.\r",
+    "Good manners are an arena of competition among the believers. Whoever surpasses others in this regard is one of the best believers and has the most perfect faith among them."
+   ],
+   "mapping": "same HadeethEnc record id 5803; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:49+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/5803",
+   "text": "‘Abdullāh ibn ‘Amr (may Allah be pleased with him) reported: The Prophet (may Allah's peace and blessings be upon him) was neither obscene, nor would he use obscene language, and he used to say: \"Verily, the best of you are those who have the best manners.\"",
+   "title": "Verily, the best of you are those who have the best manners",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=5803",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:41838d631ecb1a010363335b32d22ad0de831ecae67209d5d1a03b8cc3638f6b",
+   "explanation": "Les paroles viles ou les actes vils ne faisaient pas partie des comportements du Prophète (qu'Allah le couvre d'éloges et le préserve) ; il n'y pensait pas, ni ne s'y adonnait volontairement. En effet, le Prophète (qu'Allah le couvre d'éloges et le préserve) était doté d'un comportement éminent.\r\n\r\nIl disait (qu'Allah le couvre d'éloges et le préserve) : \"Le meilleur d'entre vous auprès d'Allah est celui doté du meilleur comportement, œuvrant dans le bien, tenant de belles paroles, ayant un visage souriant, s'abstenant de causer du tort et supportant celui des gens et les côtoyant de la plus belle manière.\"",
+   "grade": "Authentique",
+   "hints": [
+    "Le croyant doit s'éloigner de toute perversité, aussi bien des mauvaises paroles que des actes vils.\r",
+    "La plénitude du comportement du Prophète (qu'Allah le couvre d'éloges et le préserve) de sorte que n'émanaient de lui que des œuvres vertueuses et des bonnes paroles.\r",
+    "Le bon comportement est un terrain pour se concurrencer, quiconque y devance les autres fait partie des meilleurs croyants et de ceux d'entre eux ayant la foi la plus complète."
+   ],
+   "mapping": "same HadeethEnc record id 5803; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:49+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/5803",
+   "text": "'AbdouLlâh ibn 'Amr (qu'Allah l'agrée, lui et son père) relate : Le Messager d’Allah (qu'Allah le couvre d'éloges et le préserve) n’était pas grossier et ne tenait pas non plus de propos déplacés. Il disait : «  Les meilleurs d’entre vous sont certes ceux qui ont les meilleurs comportements. »",
+   "title": "Les meilleurs d’entre vous sont certes ceux qui ont les meilleurs comportements.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=5803",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:e2e4e51eaab4f709d11f591e57a5af37fbc0e9de70fd6650fa29b4e09f92115d",
+   "explanation": "Akhlak dan perilaku Nabi ﷺ tidak mengandung kata-kata keji atau perbuatan keji, beliau tidak pernah menginginkannya maupun menyengajanya karena beliau memiliki akhlak yang agung.\r\n\r\nBeliau ﷺ menyampaikan: Sesungguhnya orang yang paling utama di antara kalian di sisi Allah adalah yang paling baik akhlaknya dengan mencurahkan kebaikan, bermuka ceria, tidak menyakiti dan tidak balas menyakiti, serta berinteraksi yang baik dengan manusia.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Seorang mukmin harus menjauhi kekejian, seperti ucapan jelek dan perbuatan buruk.\r",
+    "2- Kesempurnaan akhlak Rasulullah ﷺ; yaitu tidak ada yang keluar dari beliau kecuali perbuatan bagus dan perkataan baik.\r",
+    "3- Akhlak baik adalah arena perlombaan, siapa yang lebih banyak menerapkannya, maka dialah orang beriman yang terbaik dan yang paling sempurna imannya."
+   ],
+   "mapping": "same HadeethEnc record id 5803; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:49+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/5803",
+   "text": "Abdullah bin 'Amr -raḍiyallāhu 'anhumā- meriwayatkan, \"Nabi ﷺ bukanlah orang yang keji ucapan dan perbuatannya, dan bukan juga suka berbuat keji. Beliau pernah bersabda, 'Sesungguhnya orang terbaik di antara kalian ialah yang paling baik akhlaknya.'\"",
+   "title": "Sesungguhnya orang terbaik di antara kalian ialah yang paling baik akhlaknya.'",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=5803",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:5e105d1db1e855361823870f5765ad7e48fab6e2f2a3d8e564b9466769ba2c8d",
+   "explanation": "برا کام یا بری بات کرنا اللہ کے نبی صلی اللہ علیہ و سلم کے اخلاق کا حصہ نہيں تھا۔ ایسا آپ نہ بالقصد کرتے تھے اور نہ جان بوجھ کر۔ آپ بڑے ہی اخلاق مند تھے۔\r\n\r\nآپ فرمایا کرتے تھے کہ اللہ کے نزدیک تمھارے بیچ افضل شخص وہ ہے، جو اخلاقی اعتبار سے سب سے اچھا ہو۔ یعنی دوسروں کے ساتھ بھلا کرتا ہو، ہنس کر ملتا ہو، کسی کو اذیت نہ پہنچا تا ہو، کوئی اذیت دے تو برداشت کر لیتا ہو اور لوگوں سے گھل مل کر رہتا ہو۔",
+   "grade": "صحيح",
+   "hints": [
+    "مؤمن کو بری بات اور برے کام سے دور رہنا چاہیے۔\r",
+    "اللہ کے رسول صلی اللہ علیہ و سلم کا اخلاقی کمال ہے کہ آپ صلی اللہ علیہ و سلم سے نیکی کے کاموں اور اچھی باتوں کے علاوہ کچھ اور جاری نہيں ہوتا تھا۔\r",
+    "حسن اخلاق میں مقابلہ آرائی اور ایک دوسرے سے آگے بڑھنے کا جذبہ ہونا چاہیے۔ اس میدان میں جو آگے بڑھ گیا، اس کا شمار سب سے اچھے اور کامل ترین ایمان والے لوگوں میں ہو گیا۔"
+   ],
+   "mapping": "same HadeethEnc record id 5803; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:49+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/5803",
+   "text": "عبد اللہ بن عمرو رضی اللہ عنہما سے روایت ہے، وہ کہتے ہیں : اللہ کے نبی صلی اللہ علیہ  و سلم نہ تو فحش گو تھے اور نہ بہ تکلف بد زبانی کرنے والے تھے۔ آپﷺ فرمایا کرتے تھے : ”تم میں سب سے بہتر وہ شخص ہے، جس کے اخلاق سب سے اچھے ہیں“۔",
+   "title": "تم میں سب سے بہتر وہ شخص ہے، جس کے اخلاق سب سے اچھے ہیں“۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=5803",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:e75a78afcbdb61bab98f7fdd0e52d66694b5eaba45f06b3cca9a972ee8ef6502",
+   "explanation": "先知（愿主福安之）的德行中有：不讲脏话，不做丑事，他不曾这样想过，也未曾故意做过。他是具有伟大品德的人。\r\n\r\n先知（愿主福安之）曾说：在安拉看来，你们中最优秀之人便是德行最优美之人，即行善事，面带微笑，不伤害他人且担待之，用美德与人交往。",
+   "grade": "正确的",
+   "hints": [
+    "信士应当远离污言秽语和丑事。\r",
+    "安拉的使者（愿主福安之）的德行之完美，从他那里所发出的只有善行和善言。\r",
+    "美德是可以用以竞争的，凡美德超前之人，便是信仰最完美的最优秀的信士。"
+   ],
+   "mapping": "same HadeethEnc record id 5803; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:49+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/5803",
+   "text": "据阿卜杜拉·本·欧迈尔（愿主喜悦他俩）传述，他说： 先知（愿主福安之）不讲脏话，也不说淫语，他曾说：“你们中最优秀之人便是德行最优美之人。”",
+   "title": "你们中最优秀之人便是德行最优美之人。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

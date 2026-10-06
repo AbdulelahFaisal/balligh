@@ -1,0 +1,383 @@
+{
+ "ayah_count": 11,
+ "ayahs": [
+  {
+   "arabic": "وَٱلضُّحَىٰ",
+   "aya": 1,
+   "id": 6080,
+   "tafsir": {
+    "arabic_moyassar": "أقسم الله بوقت الضحى، والمراد به النهار كله، وبالليل إذا سكن بالخلق واشتد ظلامه. ويقسم الله بما يشاء من مخلوقاته، أما المخلوق فلا يجوز له أن يقسم بغير خالقه، فإن القسم بغير الله شرك. ما تركك -أيها النبي- ربك، وما أبغضك بإبطاء الوحي عنك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "শপথ আলোকোজ্জ্বল দিনের,"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "By the morning sunlight,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Par le jour qui répand sa clarté !"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Demi waktu duha (ketika matahari naik sepenggalan)."
+    },
+    "ur": {
+     "footnotes": "[1] چاشت ( ضُحًى) اس وقت کو کہتے ہیں، جب سورج بلند ہوتا ہے۔ یہاں مراد پورا دن ہے۔",
+     "text": "قسم ہے چاشت کے وقت کی.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "誓以上午，"
+    }
+   }
+  },
+  {
+   "arabic": "وَٱلَّيۡلِ إِذَا سَجَىٰ",
+   "aya": 2,
+   "id": 6081,
+   "tafsir": {
+    "arabic_moyassar": "أقسم الله بوقت الضحى، والمراد به النهار كله، وبالليل إذا سكن بالخلق واشتد ظلامه. ويقسم الله بما يشاء من مخلوقاته، أما المخلوق فلا يجوز له أن يقسم بغير خالقه، فإن القسم بغير الله شرك. ما تركك -أيها النبي- ربك، وما أبغضك بإبطاء الوحي عنك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "শপথ রাতের যখন তা অন্ধকারাচ্ছন্ন (ও নিঝুম) হয়।"
+    },
+    "en": {
+     "footnotes": "[1] And everything becomes still.",
+     "text": "and by the night when it covers with darkness[1],"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Par la nuit qui étend son obscurité !"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan demi malam apabila telah sunyi."
+    },
+    "ur": {
+     "footnotes": "[1] سَجَى کے معنی ہیں سکن، جب ساکن ہو جائے۔ یعنی جب اندھیرا مکمل چھا جائے، کیونکہ اس وقت ہر چیز ساکن ہو جاتی ہے۔",
+     "text": "اور قسم ہے رات کی جب چھا جائے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "誓以黑夜，当其寂静的时候，"
+    }
+   }
+  },
+  {
+   "arabic": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+   "aya": 3,
+   "id": 6082,
+   "tafsir": {
+    "arabic_moyassar": "أقسم الله بوقت الضحى، والمراد به النهار كله، وبالليل إذا سكن بالخلق واشتد ظلامه. ويقسم الله بما يشاء من مخلوقاته، أما المخلوق فلا يجوز له أن يقسم بغير خالقه، فإن القسم بغير الله شرك. ما تركك -أيها النبي- ربك، وما أبغضك بإبطاء الوحي عنك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "হে রাসূল! তোমার রব (ওহী বিরতির মাধ্যমে)তোমাকে পরিত্যাগ করেননি এবং তিনি তোমার ওপর অসন্তুষ্টও হননি।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "your Lord has neither forsaken you [O Prophet] nor hated you;"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Ton Seigneur ne t’a ni abandonné, ni détesté."
+    },
+    "id": {
+     "footnotes": "[910] Ketika turunnya wahyu kepada Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- terhenti untuk sementara waktu, orang-orang musyrik berkata, \"Tuhannya (Muhammad) telah meninggalkannya dan benci kepadanya.\" Maka turunlah ayat ini untuk membantah perkataan orang-orang musyrik.",
+     "text": "Tuhanmu tidak meninggalkan engkau (Muhammad) dan tidak (pula) membencimu.[910]"
+    },
+    "ur": {
+     "footnotes": "[1] جیسا کہ کافر سمجھ رہے ہیں۔",
+     "text": "نہ تو تیرے رب نے تجھے چھوڑا ہے اور نہ وه بیزار ہو گیا ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你的养主没有弃绝你，也没有怨恨你；"
+    }
+   }
+  },
+  {
+   "arabic": "وَلَلۡأٓخِرَةُ خَيۡرٞ لَّكَ مِنَ ٱلۡأُولَىٰ",
+   "aya": 4,
+   "id": 6083,
+   "tafsir": {
+    "arabic_moyassar": "ولَلدَّار الآخرة خير لك من دار الدنيا، ولسوف يعطيك ربك -أيها النبي- مِن أنواع الإنعام في الآخرة، فترضى بذلك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১) এখানে الآخرة এবং الأولى এর অর্থ কয়েকটি হতে পারে: পরবর্তী সময় পূর্ববতী সময়, প্রথম অবস্থা থেকে পরবর্তী অবস্থা।",
+     "text": "আর অবশ্যই তোমার জন্য পরকাল ইহকাল অপেক্ষা উত্তম।(১)"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "the Hereafter is better for you than the present life;"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "L’au-delà te réserve une plus grande félicité."
+    },
+    "id": {
+     "footnotes": "[911] Akhir perjuangan Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- itu akan menjumpai kemenangan-kemenangan, sedang permulaannya penuh dengan kesulitan-kesulitan. Ada pula sebagian mufasir yang mengartikan ākhiratu dengan \"kehidupan akhirat\" beserta segala kesenangannya dan ūlā dengan arti \"kehidupan dunia\".",
+     "text": "Dan sungguh, yang kemudian itu lebih baik bagimu daripada yang permulaan.[911]"
+    },
+    "ur": {
+     "footnotes": "[1] یا آخرت دنیا سے بہتر ہے۔ دونوں مفہوم معانی کے اعتبار سے صحیح ہیں۔",
+     "text": "یقیناً تیرے لئے انجام آغاز سے بہتر ہوگا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "后世于你，确比今世更好；"
+    }
+   }
+  },
+  {
+   "arabic": "وَلَسَوۡفَ يُعۡطِيكَ رَبُّكَ فَتَرۡضَىٰٓ",
+   "aya": 5,
+   "id": 6084,
+   "tafsir": {
+    "arabic_moyassar": "ولَلدَّار الآخرة خير لك من دار الدنيا، ولسوف يعطيك ربك -أيها النبي- مِن أنواع الإنعام في الآخرة، فترضى بذلك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর অচিরেই তোমার রব তোমাকে (তাঁর অনুগ্রহ থেকে) দান করবেন, ফলে তুমি সন্তুষ্ট হবে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and your Lord will certainly give you so much that you will be well pleased."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Ton Seigneur t’accordera de quoi te combler."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan sungguh, kelak Tuhanmu pasti memberikan karunia-Nya kepadamu, sehingga engkau menjadi puas."
+    },
+    "ur": {
+     "footnotes": "[1] اس سے دنیا کی فتوحات اور آخرت کا اجر وثواب مراد ہے۔ اس میں وہ حق شفاعت بھی داخل ہے جو آپ (صلى الله عليه وسلم) کو اپنی امت کے گناہ گاروں کے لئے ملے گا۔",
+     "text": "تجھے تیرا رب بہت جلد (انعام) دے گا اور تو راضی (وخوش) ہو جائے گا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你的养主将来必赏赐你，以至你喜悦。"
+    }
+   }
+  },
+  {
+   "arabic": "أَلَمۡ يَجِدۡكَ يَتِيمٗا فَـَٔاوَىٰ",
+   "aya": 6,
+   "id": 6085,
+   "tafsir": {
+    "arabic_moyassar": "ألم يَجِدْك من قبلُ يتيمًا مات أبوك وأنت حمل في بطن أمك، فآواك ورعاك؟ ووجدك لا تدري ما الكتاب ولا الإيمان، فعلَّمك ما لم تكن تعلم، ووفقك لأحسن الأعمال؟ ووجدك فقيرًا، فساق إليك رزقك، وأغنى نفسك بالقناعة والصبر؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তিনি কি তোমাকে ইয়াতীম অবস্থায় পাননি? অতঃপর তিনি (তোমাকে) আশ্রয় দিয়েছেন।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Did He not find you an orphan then take good care of you?"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Ne t’a-t-Il pas, te trouvant orphelin, entouré d’attentions ?"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungi(mu)."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی باپ کے سہارے سے بھی تو محروم تھا، ہم نے تیری دست گیری اور چارہ سازی کی۔",
+     "text": "کیا اس نے تجھے یتیم پا کر جگہ نہیں دی.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "难道他没有发现你伶仃孤苦，而使你有所归宿？"
+    }
+   }
+  },
+  {
+   "arabic": "وَوَجَدَكَ ضَآلّٗا فَهَدَىٰ",
+   "aya": 7,
+   "id": 6086,
+   "tafsir": {
+    "arabic_moyassar": "ألم يَجِدْك من قبلُ يتيمًا، فآواك ورعاك؟ ووجدك لا تدري ما الكتاب ولا الإيمان، فعلَّمك ما لم تكن تعلم، ووفقك لأحسن الأعمال؟ ووجدك فقيرًا، فساق لك رزقك، وأغنى نفسك بالقناعة والصبر؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(২) ঈমান ও কিতাব সম্পর্কে।",
+     "text": "আর তিনি তোমাকে পেয়েছেন(২) অনভিজ্ঞ (পথহারা) অবস্থায়। অতঃপর তিনি পথনির্দেশ করেছেন।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Did He not find you unguided then guide you?"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Ne t’a-t-Il pas, te trouvant ignorant, enseigné la vraie foi ?"
+    },
+    "id": {
+     "footnotes": "[912] Kebingungan untuk mendapatkan kebenaran yang tidak bisa dicapai oleh akal. Lalu Allah menurunkan wahyu kepada Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-.",
+     "text": "Dan Dia mendapatimu sebagai seorang yang bingung,[912] lalu Dia memberikan petunjuk."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی تجھے دین شریعت اور ایمان کا پتہ نہیں تھا، ہم نے تجھے راہ یاب کیا، نبوت سے نوازا اور کتاب نازل کی، ورنہ اس سے قبل تو ہدایت کے لئے سرگرداں تھا۔",
+     "text": "اور تجھے راه بھوﻻ پا کر ہدایت نہیں دی.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他曾发现你徘徊歧途，而把你引入正路；"
+    }
+   }
+  },
+  {
+   "arabic": "وَوَجَدَكَ عَآئِلٗا فَأَغۡنَىٰ",
+   "aya": 8,
+   "id": 6087,
+   "tafsir": {
+    "arabic_moyassar": "ألم يَجِدْك من قبلُ يتيمًا، فآواك ورعاك؟ ووجدك لا تدري ما الكتاب ولا الإيمان، فعلَّمك ما لم تكن تعلم، ووفقك لأحسن الأعمال؟ ووجدك فقيرًا، فساق لك رزقك، وأغنى نفسك بالقناعة والصبر؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তিনি তোমাকে পেয়েছেন নিঃস্ব অবস্থায়। অতঃপর তিনি অভাবমুক্ত করেছেন।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Did He not find you in need then enrich you?"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Ne t’a-t-Il pas, te trouvant démuni, placé au-dessus du besoin ?"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan Dia mendapatimu sebagai seorang yang kekurangan, lalu Dia memberikan kecukupan."
+    },
+    "ur": {
+     "footnotes": "[1] تونگر کا مطلب ہے، اپنے سوا تجھ کو ہر ایک سے بےنیاز کر دیا، پس تو فقر میں صابر اور غنا میں شاکر رہا۔ جیسے خود نبی (صلى الله عليه وسلم) کا بھی فرمان ہے کہ تونگری، ساز وسامان کی کثرت کا نام نہیں ہے، اصل تونگری دل کی تونگری ہے۔ ( صحيح مسلم، كتاب الزكاة، باب ليس الغنى عن كثرة العرض ) ۔",
+     "text": "اور تجھے نادار پاکر تونگر نہیں بنا دیا؟[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他发现你家境寒苦，而使你衣食丰足。"
+    }
+   }
+  },
+  {
+   "arabic": "فَأَمَّا ٱلۡيَتِيمَ فَلَا تَقۡهَرۡ",
+   "aya": 9,
+   "id": 6088,
+   "tafsir": {
+    "arabic_moyassar": "فأما اليتيم فلا تُسِئْ معاملته، وأما السائل فلا تزجره، بل أطعمه، واقض حاجته، وأما بنعمة ربك التي أسبغها عليك فتحدث بها."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "সুতরাং তুমি ইয়াতীমের প্রতি কঠোর হয়ো না।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "So do not mistreat the orphan,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Prends donc garde de traiter durement l’orphelin"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Maka terhadap anak yatim janganlah engkau berlaku sewenang-wenang."
+    },
+    "ur": {
+     "footnotes": "[1] بلکہ اس کے ساتھ نرمی واحسان کا معاملہ کر۔",
+     "text": "پس یتیم پر تو بھی سختی نہ کیا کر.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "至于孤儿，你不要压迫他；"
+    }
+   }
+  },
+  {
+   "arabic": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنۡهَرۡ",
+   "aya": 10,
+   "id": 6089,
+   "tafsir": {
+    "arabic_moyassar": "فأما اليتيم فلا تُسِئْ معاملته، وأما السائل فلا تزجره، بل أطعمه، واقض حاجته، وأما بنعمة ربك التي أسبغها عليك فتحدث بها."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর ভিক্ষুককে (প্রার্থীকে) তুমি ধমক দিওনা।"
+    },
+    "en": {
+     "footnotes": "[2] i.e., anyone in need who seeks help.",
+     "text": "nor repulse the beggar[2];"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "ou de repousser le mendiant sans nul ménagement."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan terhadap orang yang meminta-minta, janganlah engkau menghardik(nya)."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی اس سے سختی اور تکبر نہ کر، اور نہ درشت اور تلخ لہجہ اختیار کر۔ بلکہ جواب بھی دینا ہو تو پیار اور محبت سے دو۔",
+     "text": "اور نہ سوال کرنے والے کو ڈانٹ ڈپٹ.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "至于求助者，你不要呵斥他，"
+    }
+   }
+  },
+  {
+   "arabic": "وَأَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ",
+   "aya": 11,
+   "id": 6090,
+   "tafsir": {
+    "arabic_moyassar": "فأما اليتيم فلا تُسِئْ معاملته، وأما السائل فلا تزجره، بل أطعمه، واقض حاجته، وأما بنعمة ربك التي أسبغها عليك فتحدث بها."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর তোমার রবের অনুগ্রহ তুমি (অন্যদের নিকট) বর্ণনা করো।"
+    },
+    "en": {
+     "footnotes": "[3] i.e., be grateful to Allah by proclaiming the favors He has given you.",
+     "text": "and proclaim the favors of your Lord[3]."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Et proclame les grâces de ton Seigneur hautement !"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan terhadap nikmat Tuhanmu, hendaklah engkau nyatakan (dengan bersyukur)."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی اللہ نے تجھ پر جو احسانات کئے ہیں، مثلاً ہدایت اور رسالت ونبوت سے نوازا، یتیمی کے باوجود تیری کفالت وسرپرستی کا انتظام کیا۔ تجھے قناعت وتونگری عطا کی وغیرہ۔ انہیں جذبات تشکر وممنونیت کے ساتھ بیان کرتا رہ۔ اس سے معلوم ہوا کہ اللہ کے انعامات کا تذکرہ اور ان کا اظہار اللہ کو پسند ہے لیکن تکبر اور فخر کے طور پر نہیں بلکہ اللہ کے فضل وکرم اور اس کے احسان سے زیر بار ہوتے ہوئے اور اس کی قدرت وطاقت سے ڈرتے ہوئے کہ کہیں وہ ہمیں ان نعمتوں سے محروم نہ کر دے۔",
+     "text": "اور اپنے رب کی نعمتوں کو بیان کرتا ره.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "至于你的养主所赐你的恩典呢，你应当宣示它。"
+    }
+   }
+  }
+ ],
+ "content_sha256": "sha256:91c86b3077318260eef4212d0331791000b4eb44ff9d33ce361642db20160359",
+ "name_ar": "الضحى",
+ "number": 93,
+ "schema": "balligh.library.quran.surah/1"
+}

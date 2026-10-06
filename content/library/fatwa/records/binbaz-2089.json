@@ -1,0 +1,86 @@
+{
+ "answer": [
+  [
+   {
+    "kind": "strong",
+    "text": "ج:"
+   },
+   {
+    "kind": "text",
+    "text": " اختلف العلماء في هذا، والأظهر: أنهما ملكان نزلا ابتلاء وامتحانًا، كما قال الله : "
+   },
+   {
+    "kind": "quran",
+    "text": "وَمَا أُنْزِلَ عَلَى الْمَلَكَيْنِ بِبَابِلَ هَارُوتَ وَمَارُوتَ"
+   },
+   {
+    "kind": "text",
+    "text": " الآية [البقرة:102].\n وقال بعض أهل العلم: إنهما ملِكان من بني آدم ابتلي الناس بهما، والقول الأول هو الأظهر، والقراءة على هذا في القول الأول بفتح اللام، وعلى القول الثاني بكسرها"
+   },
+   {
+    "kind": "noteref",
+    "note": "1",
+    "text": "[1]"
+   },
+   {
+    "kind": "text",
+    "text": "."
+   }
+  ]
+ ],
+ "content_sha256": "sha256:e675c38fd856136f56e9837afd01ad537022c07febf227c5c56de06f282e3d8f",
+ "id": "binbaz-2089",
+ "language": "ar",
+ "notes": [
+  {
+   "id": "1",
+   "runs": [
+    {
+     "kind": "text",
+     "text": "مجموع فتاوى ومقالات الشيخ ابن باز (8/ 115)."
+    }
+   ]
+  }
+ ],
+ "question": [
+  [
+   {
+    "kind": "strong",
+    "text": "س:"
+   },
+   {
+    "kind": "text",
+    "text": " هل هاروت وماروت ملكان أو بشران؟ نرجو بيان القول الراجح من أقوال العلماء في ذلك؟"
+   }
+  ]
+ ],
+ "raw_sha256": "sha256:e15217a43c0d562fce42f9c4ced13a894b01837edf951dadd213822c4779837a",
+ "reuse_basis": "user_confirmed_permission",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.fatwa/2",
+ "source": {
+  "edition": null,
+  "publisher": "binbaz.org.sa",
+  "publisher_name": "موقع الشيخ ابن باز",
+  "retrieved_at": "2026-10-06T03:52:31+00:00",
+  "series": "مجموع الفتاوى",
+  "url": "https://binbaz.org.sa/fatwas/2089/%D9%87%D9%84-%D9%87%D8%A7%D8%B1%D9%88%D8%AA-%D9%88%D9%85%D8%A7%D8%B1%D9%88%D8%AA-%D9%85%D9%84%D9%83%D8%A7%D9%86-%D8%A7%D9%88-%D8%A8%D8%B4%D8%B1%D8%A7%D9%86"
+ },
+ "source_categories": [
+  {
+   "id": "212",
+   "label": "مسائل متفرقة في العقيدة",
+   "url": "https://binbaz.org.sa/categories/objective/212"
+  },
+  {
+   "id": "206",
+   "label": "الإسلام والإيمان",
+   "url": "https://binbaz.org.sa/categories/objective/206"
+  }
+ ],
+ "source_record_id": "2089",
+ "title": "هل هاروت وماروت ملكان أو بشران؟",
+ "topic": "understanding_islam",
+ "translations": {},
+ "type": "fatwa"
+}

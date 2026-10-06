@@ -1,0 +1,4836 @@
+{
+ "count": 150,
+ "exclusions": [
+  {
+   "reason": "grade 'صحيح بمجموع طرقه' is not exactly 'صحيح'",
+   "source_record_id": "4303"
+  },
+  {
+   "reason": "grade 'صحيح بطرقه وشواهده' is not exactly 'صحيح'",
+   "source_record_id": "3346"
+  },
+  {
+   "reason": "grade 'حسن' is not exactly 'صحيح'",
+   "source_record_id": "3265"
+  },
+  {
+   "reason": "grade 'إسناده صحيح' is not exactly 'صحيح'",
+   "source_record_id": "6049"
+  },
+  {
+   "reason": "grade 'حسن' is not exactly 'صحيح'",
+   "source_record_id": "65014"
+  },
+  {
+   "reason": "grade 'حسن' is not exactly 'صحيح'",
+   "source_record_id": "6763"
+  },
+  {
+   "reason": "grade 'إسناده حسن' is not exactly 'صحيح'",
+   "source_record_id": "5928"
+  },
+  {
+   "reason": "grade 'حسن' is not exactly 'صحيح'",
+   "source_record_id": "6362"
+  },
+  {
+   "reason": "grade 'حسن' is not exactly 'صحيح'",
+   "source_record_id": "6762"
+  },
+  {
+   "reason": "grade 'صحيح لغيره' is not exactly 'صحيح'",
+   "source_record_id": "5522"
+  },
+  {
+   "reason": "grade 'حسن بشواهده' is not exactly 'صحيح'",
+   "source_record_id": "10930"
+  },
+  {
+   "reason": "grade 'حسن' is not exactly 'صحيح'",
+   "source_record_id": "3568"
+  },
+  {
+   "reason": "grade 'صحيح بشواهده' is not exactly 'صحيح'",
+   "source_record_id": "5477"
+  },
+  {
+   "reason": "grade 'صحيح لغيره' is not exactly 'صحيح'",
+   "source_record_id": "5510"
+  },
+  {
+   "reason": "grade 'حسن' is not exactly 'صحيح'",
+   "source_record_id": "5363"
+  },
+  {
+   "reason": "grade 'صحيحة' is not exactly 'صحيح'",
+   "source_record_id": "3066"
+  },
+  {
+   "reason": "grade 'صحيح بشواهده' is not exactly 'صحيح'",
+   "source_record_id": "8386"
+  },
+  {
+   "reason": "grade 'حسن' is not exactly 'صحيح'",
+   "source_record_id": "6185"
+  },
+  {
+   "reason": "grade 'حسن' is not exactly 'صحيح'",
+   "source_record_id": "6399"
+  },
+  {
+   "reason": "grade 'حديث أبي ذر حسن.\\nحديث قتادة صحيح.\\nحديث ابن عباس حسن' is not exactly 'صحيح'",
+   "source_record_id": "10108"
+  },
+  {
+   "reason": "grade 'حسن' is not exactly 'صحيح'",
+   "source_record_id": "10035"
+  },
+  {
+   "reason": "grade 'حسن لغيره' is not exactly 'صحيح'",
+   "source_record_id": "5361"
+  },
+  {
+   "reason": "grade 'قال الترمذي: حديث حسن' is not exactly 'صحيح'",
+   "source_record_id": "4302"
+  },
+  {
+   "reason": "grade 'حسن' is not exactly 'صحيح'",
+   "source_record_id": "5519"
+  },
+  {
+   "reason": "grade 'حسن' is not exactly 'صحيح'",
+   "source_record_id": "6108"
+  },
+  {
+   "reason": "grade 'حسن صحيح' is not exactly 'صحيح'",
+   "source_record_id": "5476"
+  },
+  {
+   "reason": "grade 'حسن' is not exactly 'صحيح'",
+   "source_record_id": "5355"
+  },
+  {
+   "reason": "grade 'حديث أبي قتادة: صحيح.\\nحديث ابن أبي أوفى: صحيح' is not exactly 'صحيح'",
+   "source_record_id": "4299"
+  },
+  {
+   "reason": "grade 'حديث ابن عباس: صحيح.\\nحديث النزال: صحيح.\\nحديث عبد الله بن عمرو: حسن' is not exactly 'صحيح'",
+   "source_record_id": "4300"
+  },
+  {
+   "reason": "grade 'حسن' is not exactly 'صحيح'",
+   "source_record_id": "5792"
+  },
+  {
+   "reason": "grade 'صحيح بشواهده' is not exactly 'صحيح'",
+   "source_record_id": "5799"
+  },
+  {
+   "reason": "grade 'حسن' is not exactly 'صحيح'",
+   "source_record_id": "6985"
+  },
+  {
+   "reason": "grade 'صحيحان' is not exactly 'صحيح'",
+   "source_record_id": "5653"
+  },
+  {
+   "reason": "grade 'حسن' is not exactly 'صحيح'",
+   "source_record_id": "5804"
+  },
+  {
+   "reason": "grade 'إسناده حسن' is not exactly 'صحيح'",
+   "source_record_id": "5812"
+  },
+  {
+   "reason": "grade 'حسن' is not exactly 'صحيح'",
+   "source_record_id": "3032"
+  },
+  {
+   "reason": "grade 'صحيحان' is not exactly 'صحيح'",
+   "source_record_id": "3074"
+  },
+  {
+   "reason": "grade 'حسن لغيره' is not exactly 'صحيح'",
+   "source_record_id": "3287"
+  },
+  {
+   "reason": "grade 'قال النووي: بإسناد حسن' is not exactly 'صحيح'",
+   "source_record_id": "6372"
+  },
+  {
+   "reason": "grade 'حسن' is not exactly 'صحيح'",
+   "source_record_id": "5432"
+  },
+  {
+   "reason": "grade 'إسناده حسن' is not exactly 'صحيح'",
+   "source_record_id": "5494"
+  },
+  {
+   "reason": "grade 'حسن لغيره' is not exactly 'صحيح'",
+   "source_record_id": "5500"
+  },
+  {
+   "reason": "grade 'حسن لغيره' is not exactly 'صحيح'",
+   "source_record_id": "5793"
+  },
+  {
+   "reason": "grade 'حسن' is not exactly 'صحيح'",
+   "source_record_id": "10910"
+  }
+ ],
+ "incomplete": false,
+ "notices": [
+  "HadeethEnc.com terms (quoted unchanged from the Terms and Policies dialog of https://hadeethenc.com/en/home, retrieved 2026-10-06T03:38:35+00:00): Terms and Policies: Contents of the translations can be downloaded and re-published, with the following terms and conditions: 1. No modification, addition, or deletion of the content. 2. Clearly referring to the publisher and the source (HadeethEnc.com). 3. Mentioning the version number when re-publishing the translation. 4. Keeping the transcript information inside the document. 5. Notifying the source (HadeethEnc.com) of any note on the translation. 6. Updating the translation according to the latest version issued from the source (HadeethEnc.com). 7. Inappropriate advertisements must not be included when displaying the content of the Prophet’s Hadiths and their translations.",
+  "HadeethEnc.com terms in Arabic (quoted unchanged from https://hadeethenc.com/ar/home, retrieved 2026-10-06T03:38:35+00:00): الشروط والسياسات: يتاح  تنزيل محتوى الترجمات وإعادة نشره، بالشروط والضوابط التالية: 1. عدم التعديل أو الإضافة أو الحذف على المحتوى. 2. الإشارة بوضوح للناشر وللمصدر (HadeethEnc.com). 3. ذكر رقم الإصدار عند إعادة نشر الترجمة. 4. إبقاء معلومات نسخة الترجمة الموجودة داخل المستند. 5. إفادة المصدر (HadeethEnc.com) بأي ملاحظة على الترجمة. 6. تطوير الترجمات وفق النسخ الجديدة الصادرة من المصدر (HadeethEnc.com). 7. عدم تضمين إعلانات لا تليق بمحتوى الأحاديث النبوية وترجماتها عند العرض.",
+  "Publisher and source: HadeethEnc.com (Encyclopedia of Translated Prophetic Hadiths). Every record links its HadeethEnc page (source.url / translations.*.source_url) and the API response it was built from (api_url).",
+  "Version: HadeethEnc's terms require mentioning the version number when re-publishing a translation. The API responses carry no version field (/api/v1 is the API path, not a content version). The official English translation download (https://hadeethenc.com/browse/download/en, served as HadeethEnc.com_en-v1.25.0.xlsx, header 'Last update: 2026-05-10 17:43:35 (v1.25.0)', checked 2026-10-06) is versioned v1.25.0, but HadeethEnc does not state which version the API content is, and the other languages' files were not checked. No version is claimed for the stored content; each record and translation stores its retrieval time and content_sha256, and the identifier to cite is an open question for the publisher.",
+  "Content is stored unchanged: Arabic hadeeth text, attribution, grade, reference, explanation, hints and the word notes (words_meanings, each {word, meaning} exactly as published, language ar) are the publisher's fields verbatim, kept as separate fields; explanations, hints and word notes are HadeethEnc's published commentary, never part of the hadith text.",
+  "A translation is admitted only when its hadeeth_ar equals the selected Arabic record's hadeeth exactly (arabic_match exact) or the response has no hadeeth_ar (arabic_match not_provided, never called exact); a differing hadeeth_ar rejects the translation with no fallback to another narration. Translation word notes are stored only when the response gives its own-language words_meanings; the Arabic words_meanings_ar copy is never stored as a localized note.",
+  "Grades are HadeethEnc's own (grading_authority: HadeethEnc.com (grade field of the published record)); only an Arabic grade field exactly equal to صحيح is admitted. Balligh does not grade hadith.",
+  "Dorar.net cross-checking of wording, reference and grade was not possible (see each record's dorar block); it was not bypassed.",
+  "narrator is null: HadeethEnc has no separate narrator field; the narrator is part of the hadeeth text.",
+  "Translations are HadeethEnc's own translations of the same record id; Balligh creates no translation or explanation. zh-Hans is HadeethEnc language code zh (Simplified Chinese).",
+  "content_sha256 = snapshot.content_hash(object without its content_sha256); a record's hash covers its translations.",
+  "review_status source_preserved: ingestion checks only, no Balligh human, scholarly or language review. reuse_basis hadeethenc_terms: HadeethEnc's own terms apply; the Ibn Baz / Dorar permission does not replace them."
+ ],
+ "records": [
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:e30caa7b6b8fc66fa2df5fda79bb4f67bce45e6d9378449a9733ea88d700aaa6",
+   "file": "records/hadeethenc-2945.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-2945",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:270ac810673490623a6d5c30aa4d71eba0e85c759f8fdecef2ec5f7aeee8c5b2",
+   "title": "إن الله عز وجل ينهاكم أن تحلفوا بآبائكم",
+   "topic": "belief"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:01d8478f145d0cffa42dc4c64b79cc799de52a08d9265ed4d21eaaf3b8edbfdc",
+   "file": "records/hadeethenc-3007.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3007",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:334c7fb7354158dd6ac22f3049462fe98f4f866fa4316a0b07b38fb940c58d35",
+   "title": "أما إني لم أستحلفكم تهمة لكم، ولكنه أتاني جبريل فأخبرني أن الله عز وجل يباهي بكم الملائكة",
+   "topic": "worship"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:82a6dc19e94f57285592e735913a7577f596ac5285c106ee181e54e925e209c4",
+   "file": "records/hadeethenc-3014.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3014",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:ae469e53181fcfd6c6a9e97cc51bb96387759b60db87010435129dfa69918e7f",
+   "title": "دعهما، فإني أدخلتهما طاهرتين",
+   "topic": "worship"
+  },
+  {
+   "attribution": "رواه أبو داود والترمذي والنسائي في الكبرى وأحمد",
+   "content_sha256": "sha256:73e4705c4f116bbe5cec25664cf9768a6ed4b3af4475d0e9f0c830b198be701e",
+   "file": "records/hadeethenc-3017.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3017",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:109fc10c77e27dd54db63b84c58d9afed5f57f31e3f6128c5acb06c2f7c9db81",
+   "title": "إذا أحب الرجل أخاه فليخبره أنه يحبه",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "متفق عليه بجميع رواياته",
+   "content_sha256": "sha256:fddf162c047f516f4364e0358123bbe18be4b6155ca8c2b2edde2b0370ec0b9a",
+   "file": "records/hadeethenc-3062.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3062",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:679ba1954e96dca7a6e0a4d3c54a11da928ab14f4bc174871cbedf0d60a2a314",
+   "title": "حفظت من النبي صلى الله عليه وسلم عشر ركعات",
+   "topic": "worship"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:3e444c2b250a830374cdf7e98bf57240b70697c5fd5cd53adee96aea3aedc75b",
+   "file": "records/hadeethenc-3075.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3075",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:cba418cfbaee26c41e15688c5de16ecdcf130627860a4313a5343923463a86e7",
+   "title": "كنت مع النبي صلى الله عليه وسلم فانتهى إلى سباطة قوم، فبال قائما،",
+   "topic": "worship"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:a92dcad4af17a825710a8e3a67cca3863bd20c48e4ba613ba2f308dc69406857",
+   "file": "records/hadeethenc-3095.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3095",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:65893ae97886b63b72c2b0cdd82e719cc6a287c7bef84f690749dcb8fc069170",
+   "title": "أن رسول الله صلى الله عليه وسلم كان يرفع يديه حذو منكبيه إذا افتتح الصلاة،",
+   "topic": "worship"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:229a10a121badc17a36bb662b46e9a0ef9e64376ead7a809b42548dba28707d0",
+   "file": "records/hadeethenc-3096.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3096",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:55ce51aab80eae5c7403edcdbd71f49aba9650d32cc29c6c8927746426aa8eae",
+   "title": "علمني رسول الله صلى الله عليه وسلم، وكفي بين كفيه، التشهد، كما يعلمني السورة من القرآن",
+   "topic": "worship"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:a6d2317c00285187b17084612090aeabb1fdd092d9b8d92e602cae8e0b9234bf",
+   "file": "records/hadeethenc-3103.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3103",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:4e547061376c9a0aa2af607159ff193fec7818b2b8d49538659da9c74e465def",
+   "title": "اللهم إني أعوذ بك من عذاب القبر، ومن عذاب النار، ومن فتنة المحيا والممات، ومن فتنة المسيح الدجال",
+   "topic": "worship"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:6d1e6717241a119c5decaeca5eadc56e851c132611d81021feebc62b5700edb8",
+   "file": "records/hadeethenc-3104.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3104",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:e0bcb1ae797929c106bbbd669269bcd67a4d0774faa5f8cac7be000d29b51a31",
+   "title": "اللهم باعد بيني وبين خطاياي كما باعدت بين المشرق والمغرب",
+   "topic": "worship"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:23ef7c62ad10a0f49232147e155e3d11475496710301081ed6dd301d347eb44d",
+   "file": "records/hadeethenc-3138.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3138",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn"
+   ],
+   "sha256": "sha256:fe1b5f54f4bdd19b0dfbf7684ddaa75fd27b07cba51c68d0f3fbb50eaca92297",
+   "title": "بادروا بالأعمال فتنا كقطع الليل المظلم،",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:920a855afc3200963c7946c298d01d59d76a955c5f0f80ced92e6c5413904452",
+   "file": "records/hadeethenc-3150.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3150",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:7fef41ee990ee7da5b5a80a541d1101731ed6d01eda8b33899a7c7ea10910c74",
+   "title": "كان النبي صلى الله عليه وسلم إذا دخل الخلاء قال: اللهم إني أعوذ بك من الخبث والخبائث",
+   "topic": "worship"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:56a980ba9da160e4a10906431287dc1a4aae122de4cca5efc8a7f13a3a7e5807",
+   "file": "records/hadeethenc-3272.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3272",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn"
+   ],
+   "sha256": "sha256:88d63823dc92f876e1fe1827820333a5477c827a1684364e59438da9b7355956",
+   "title": "والذي نفس محمد بيده لا يسمع بي أحد من هذه الأمة يهودي ولا نصراني، ثم يموت ولم يؤمن بالذي أرسلت به إلا كان من أصحاب النار",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:485092766e57eec79278a2b431bae5c7a1cd012d9ec5b50cb1fe92f20882e5b1",
+   "file": "records/hadeethenc-3313.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3313",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:aedd00d8f28a7fb85569083f5986b162c9422d83aaffad58bb3d1450cce3f26e",
+   "title": "من توضأ نحو وضوئي هذا ثم صلى ركعتين لا يحدث فيهما نفسه غفر الله له ما تقدم من ذنبه",
+   "topic": "worship"
+  },
+  {
+   "attribution": "رواه البخاري",
+   "content_sha256": "sha256:3fb01404d16f103e85bdeab94fa0a2bfaedb56a99d2c28cb3c00c3ae7cb45632",
+   "file": "records/hadeethenc-3316.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3316",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:8fc5f933b0f5b55c363d03c03dea4504603967a398cf6feca560d36fd5be60c6",
+   "title": "كان رسول الله صلى الله عليه وسلم إذا اغتسل من الجنابة، غسل يديه، وتوضأ وضوءه للصلاة، ثم اغتسل",
+   "topic": "worship"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:f93286fdf1b79ccf46afafc38b88a67d426c4172547c86dd069c953f40820887",
+   "file": "records/hadeethenc-3330.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3330",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:e04052f176399f359f283515aa134d2e8ee043c8a400b5f20e4dfddf4a3dc073",
+   "title": "لعنة الله على اليهود والنصارى، اتخذوا قبور أنبيائهم مساجد",
+   "topic": "belief"
+  },
+  {
+   "attribution": "رواه أحمد",
+   "content_sha256": "sha256:b50929c56bce007d409e92ded52c6a84908de3c8c4400ff8a8aaa006f87cb114",
+   "file": "records/hadeethenc-3336.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3336",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:a1d8a7ee876611ba47af5ed21b934c102f47d9bb5b2f416aee0ca59a813fb4d6",
+   "title": "اللهم لا تجعل قبري وثنا",
+   "topic": "worship"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:9026a2af16ef55716390df196951667c7e0355249d3149c9754f2c84bd529127",
+   "file": "records/hadeethenc-3342.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3342",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:da5f4396bd489d1c5b4eb5a68c7580f83111925efe547b5e0591c645820a80c3",
+   "title": "أنا أغنى الشركاء عن الشرك، من عمل عملا أشرك فيه معي غيري تركته وشركه",
+   "topic": "belief"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:a714b2bf887e0faea3b3fe13ef589fc3df8b490e47cd7b282b516d19d7da44ac",
+   "file": "records/hadeethenc-3347.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3347",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:76cc10c7a48a7901cda3c0ba0910e77756e06c999050908e350ed34574252c4b",
+   "title": "إني أبرأ إلى الله أن يكون لي منكم خليل فإن الله تعالى قد اتخذني خليلا كما اتخذ إبراهيم خليلا",
+   "topic": "belief"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:b607c87571fd65cda6759e5a2dd1050693e11b5229119740e40464e9bfe05af2",
+   "file": "records/hadeethenc-3348.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3348",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:1c6b24f0787eab73dd3692d68c6119569d61ac5a020b665a5f2922e6b3742f35",
+   "title": "كنت رجلا مذاء وكنت أستحيي أن أسأل النبي صلى الله عليه وسلم لمكان ابنته فأمرت المقداد بن الأسود فسأله فقال: يغسل ذكره ويتوضأ",
+   "topic": "worship"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:cd2e186a94f29602517bf7c6e02181bb9fcead0c0afae6296ef3d7f2e6047ffd",
+   "file": "records/hadeethenc-3365.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3365",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:b6deba53f053113dd2849db5931647de0a28ec79201d12827546ecb02bb2c3d5",
+   "title": "أي العمل أحب إلى الله؟ قال: الصلاة على وقتها، قال: ثم أي؟ قال: ثم بر الوالدين قال: ثم أي؟ قال: الجهاد في سبيل الله",
+   "topic": "worship"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:17114548c422367fea3404b01031a00e73995118bfdcc3586a4208e17f5ba490",
+   "file": "records/hadeethenc-3372.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3372",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:ac26b3314d72aa6e989e136b8a250a725cf80d871d59e33fe280e8d7f0dcd194",
+   "title": "أن رجلا أكل عند رسول الله صلى الله عليه وسلم بشماله، فقال: كل بيمينك، قال: لا أستطيع، قال: لا استطعت",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "رواه أبو داود وأحمد",
+   "content_sha256": "sha256:7e058b42f9b1eff36329a7705759ee9a1e5e5bed16b904ad0e01c52b83ab3d29",
+   "file": "records/hadeethenc-3389.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3389",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:416233c5788030fdcff36a9f42b9c209c37d0f9657a7fc3c2a4450a7dca970c6",
+   "title": "فقلنا: أنت سيدنا، فقال: السيد الله، قلنا: وأفضلنا فضلا، وأعظمنا طولا، فقال: قولوا بقولكم، أو بعض قولكم، ولا يستجرينكم الشيطان",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:3034c6e5416a151b75e001e82081c7f7d06112fd6fd2f1a8ffe4a8a03c07db21",
+   "file": "records/hadeethenc-3390.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3390",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:74a59e21edc689c805584e60a7ec35f6f9ffc649cc58c85c71edd7d8b07c8dac",
+   "title": "إنك ستأتي قوما أهل كتاب، فإذا جئتهم فادعهم إلى أن يشهدوا أن لا إله إلا الله، وأن محمدا رسول الله",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:58c7e65dd2eb919ddf69086b2e69a7608eb0ef4b160107be47739af8a2d64304",
+   "file": "records/hadeethenc-3393.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3393",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:8e8b9b1b0d058ab4028c6b1389d8c4b3e1550b5e1ff2fae99165ffecfce01751",
+   "title": "ارفع رأسك وقل يُسمع، وسل تُعط، واشفع تُشفَّع",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "رواه البخاري",
+   "content_sha256": "sha256:1dd48da45893e82a602d588dca667e2f4da6e07d58981e6291ea648a105d1567",
+   "file": "records/hadeethenc-3406.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3406",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:a91cb4471bf966a8bea0ebb6b064cbd8f786ec6dd76c7b876738481726a9bf62",
+   "title": "لا تطروني كما أطرت النصارى ابن مريم؛ فإنما أنا عبده، فقولوا: عبد الله ورسوله",
+   "topic": "belief"
+  },
+  {
+   "attribution": "رواه البخاري",
+   "content_sha256": "sha256:dc1627623facd2c9879af1406166de41997d9d62769f682fc863ca5cdadcb837",
+   "file": "records/hadeethenc-3414.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3414",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:ecaec4efe9e4c8bee3bba7facca46f1f92440db4c728488b907155ea9c96d98c",
+   "title": "أسعد الناس بشفاعتي يوم القيامة، من قال لا إله إلا الله خالصا من قلبه أو نفسه",
+   "topic": "belief"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:955f07f62db17b284fdb307d2655190e1c741abd08a2e188dbb360e7a67c202e",
+   "file": "records/hadeethenc-3419.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3419",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:a09b03a2c315030932f7b0f109b91b9e98d3ceaf76dee1826576e06f86218f81",
+   "title": "من مات وهو يدعو من دون الله ندا دخل النار",
+   "topic": "belief"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:5f61ba8cf8c9c7b52bccdc6f4f354af2cb05ee1aeaa6fee4998c2e3843c17461",
+   "file": "records/hadeethenc-3420.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3420",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:2b1eb1c57239573d62d96e80ef722a3d09ac7ef28e684eb57f3e789ae82b027a",
+   "title": "هلك المتنطعون",
+   "topic": "belief"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:da8effe172a9976cfcbbc2128ed59993da78a3c3f28b623847e34faeb3003a2f",
+   "file": "records/hadeethenc-3422.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3422",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:52688e713c151506fc2a05775c68c58c6989472607a7bcdd10a24bffde686260",
+   "title": "لا عدوى، ولا طيرة، ويعجبني الفأل قال قيل: وما الفأل؟ قال: الكلمة الطيبة",
+   "topic": "belief"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:1fa1c20657d41fe7aad20952874e7b7a8417895f9971eb2c625fccd88ee16296",
+   "file": "records/hadeethenc-3438.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3438",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:c3a0bce57af62d26795c6a749f4c05da495ba71d34931ca4e346cd47898180f6",
+   "title": "عن النبي صلى الله عليه وسلم أنه قال في الأنصار: لا يحبهم إلا مؤمن، ولا يبغضهم إلا منافق، من أحبهم أحبه الله ومن أبغضهم أبغضه الله",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:c612e37185c7c5cef15154cead73eba077a541deba6d8ecfac748148cc90d620",
+   "file": "records/hadeethenc-3444.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3444",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:697790269552cbec3cc0f31835a3687f0b2e3614c3c9c67751e96d56f2603d14",
+   "title": "فتوضأ لهم وضوء النبي صلى الله عليه وسلم",
+   "topic": "worship"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:7e90052790d4ea7c90c923e6e64229dbc7d0a227e3037b2dca8ad69b224464eb",
+   "file": "records/hadeethenc-3461.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3461",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:d25d580e4e678cc0be847115cee4c0acb8adf0763e9ba3b58d34d1bb4fdeee56",
+   "title": "إنما كان يكفيك أن تقول بيديك هكذا ثم ضرب بيديه الأرض ضربة واحدة، ثم مسح الشمال على اليمين، وظاهر كفيه ووجهه",
+   "topic": "worship"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:253140a27fbdae486684c5fb20f8b072386c624bfd9005aa60ea509b1fad73c3",
+   "file": "records/hadeethenc-3480.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3480",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn"
+   ],
+   "sha256": "sha256:f43543513711b26426fcdd1c3e23ececf9cee73be5c4d9276447e2e94f8fa4ad",
+   "title": "ما من نبي بعثه الله في أمة قبلي إلا كان له من أمته حواريون، وأصحاب يأخذون بسنته ويقتدون بأمره",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:1448a0685236239f14ee5adde554207b72025559d2f5d5a2276536298a474361",
+   "file": "records/hadeethenc-3503.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3503",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn"
+   ],
+   "sha256": "sha256:a2228c9840edde87e69c30c53bb8aaec452c1e0a1eb29ecf9af9cd51a92f131e",
+   "title": "أعطيت خمسا لم يعطهن أحد قبلي",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:399886dec8f23c36394e199058f1b90626e910c288d5e981d9aea51f23a72cda",
+   "file": "records/hadeethenc-3512.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3512",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:5b200f4276893992762399f7a11831e6ad11090b2dd1c04d071e4330ca72f437",
+   "title": "بايعت رسول الله صلى الله عليه وسلم على شهادة أن لا إله إلا الله، وأن محمدا رسول الله، وإقام الصلاة، وإيتاء الزكاة، والسمع والطاعة، والنصح لكل مسلم",
+   "topic": "worship"
+  },
+  {
+   "attribution": "رواه النسائي وأحمد",
+   "content_sha256": "sha256:c01a672840528dc6bbb8361958a511336c27bf813c54c888c42ad31fd9f273aa",
+   "file": "records/hadeethenc-3588.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3588",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:1348bebbf6d2b98ca95d7f3a54232dd00e35d0aa7993e51d102f548aad96c25d",
+   "title": "السواك مطهرة للفم، مرضاة للرب",
+   "topic": "worship"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:a7443d8c94c6f80db0319fd6357f25692c16fa607bc3822a8c23667088ae7c8c",
+   "file": "records/hadeethenc-3591.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3591",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:a7bf87aff7fde22f2a913681ba3db6f023cd9ddfb92e9675e6b2ec9e428ad222",
+   "title": "الصلوات الخمس، والجمعة إلى الجمعة، ورمضان إلى رمضان، مكفرات ما بينهن إذا اجتنب الكبائر",
+   "topic": "worship"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:a78a130bb050d78c54deb2fa3923ae603900831cea00ed44d3806e118a2c81a3",
+   "file": "records/hadeethenc-3700.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3700",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:e4ec405ee1eb2b7ae988862f02219eb7f64506950ed54210fe6b8b1beb8a6fd6",
+   "title": "أفلح إن صدق",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:2e66f12c7ee3b1d36aee7ed14f5250f72f4e59d3574eac0bd6e42de084211a19",
+   "file": "records/hadeethenc-3706.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3706",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:73b83d822be1da70af837c84c2cb3960c9833d3c4bebbf19c2118fa045ab58fd",
+   "title": "حق المسلم على المسلم خمس: رد السلام، وعيادة المريض، واتباع الجنائز، وإجابة الدعوة، وتشميت العاطس",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "رواه البخاري",
+   "content_sha256": "sha256:a78c8ea92cd38ce253742bf43d0179c432804cda7fbe90f71243e7113246b708",
+   "file": "records/hadeethenc-3716.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3716",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:9f2f179903337018ac647dffe5ddac855854164a37852d20b1acea84a5006afd",
+   "title": "رحم الله رجلا سمحا إذا باع، وإذا اشترى، وإذا اقتضى",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:d0064cabfc863a709c8a59456e881815cb059d1ef810b5cd70ae3eae8c9b9f44",
+   "file": "records/hadeethenc-3732.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3732",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:a603d69579d34f7ecf244e4cbbb0e7051e9973981ce7ce7e03c7a763058f938e",
+   "title": "عليك بكثرة السجود لله، فإنك لا تسجد لله سجدة، إلا رفعك الله بها درجة، وحط عنك بها خطيئة",
+   "topic": "worship"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:450538eb9c436d358adf59a76e267e8b9c3a8efa6295183ce5d26461b5100dbe",
+   "file": "records/hadeethenc-3753.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-3753",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:a430a314fd72fd898db141dafe1d573ab07da368fee5c0410eebac7ce6f9514b",
+   "title": "كان رجل يداين الناس، فكان يقول لفتاه: إذا أتيت معسرا فتجاوز عنه، لعل الله يتجاوز عنا",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:d20509b25b42199d749d5c63850499f0d9fa2a1d301076067908211ff83da9cf",
+   "file": "records/hadeethenc-4176.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-4176",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:eed8d5492d43a55df5808488ac9b9616347a6f3635c6129b771eff657920dcd0",
+   "title": "فعلام نبايعك؟ قال: على أن تعبدوا الله ولا تشركوا به شيئا، والصلوات الخمس، وتطيعوا وأسر كلمة خفية ولا تسألوا الناس شيئا",
+   "topic": "belief"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:b3c5d8d06d7960987d68b2e4b850948bd2eb0a15173aa0007b885be48b22cfbe",
+   "file": "records/hadeethenc-4196.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-4196",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:d5507176cfd8eceeb05f7a379707fb83f8e8402f4edb210ead8bcaedb9ae6e4a",
+   "title": "من صام رمضان إيمانا واحتسابا غفر له ما تقدم من ذنبه",
+   "topic": "worship"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:6dbfcfb6fb9e16bbc28e7eef98d253af34ae32a42183c05a8d89508ae6f4d083",
+   "file": "records/hadeethenc-4202.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-4202",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:8179193d32f247b4f45c9a663346a7f4750918588787505bda4a7b90540cccc6",
+   "title": "من يقم ليلة القدر إيمانا واحتسابا غفر له ما تقدم من ذنبه",
+   "topic": "worship"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:28e31c0d735a9a0339deb3d5dcf5acc9fd49332027d3d2a957cbb628b9cb0b00",
+   "file": "records/hadeethenc-4211.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-4211",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:b63bfc3320c0907a985f9db7fcaf6e9518c71258ba5f6c2e600969c15737d7f8",
+   "title": "أمرت أن أقاتل الناس حتى يشهدوا أن لا إله إلا الله، وأن محمدا رسول الله، ويقيموا الصلاة، ويؤتوا الزكاة",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:00d222a73e5c7050e606563e42374759709765240f365edde5c9387e74f50284",
+   "file": "records/hadeethenc-4239.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-4239",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:133d06b54d95b2b39778ad842cd669d787aef7aa03bf6f22288087265016550f",
+   "title": "توفي رسول الله صلى الله عليه وسلم وما في بَيْتِي من شيء يأكُلُه ذُو كَبدٍ إلا شَطْرُ شعير في رَفٍّ لي، فأكَلتُ منه حتى طال عليَّ، فَكِلْتُهُ فَفَنِيَ",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:8f2f42ca73fa9b9abfc26cce04a9eb24cc36042720bd87efbe106f22b98b57b2",
+   "file": "records/hadeethenc-4308.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-4308",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:8095406846c2a6e9bc1290483d33a2723272048507ac8f7401e51dc465c02e74",
+   "title": "البر حسن الخلق، والإثم ما حاك في صدرك، وكرهت أن يطلع عليه الناس",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:31f9ceb75e50b457423d76f369df451e250fec02c6af893e42baea0ff1096e7e",
+   "file": "records/hadeethenc-4319.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-4319",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:d3f3b4db4ce8eea9bf5623af902e47dcfb6a1741b7b583092a011f3115f9ddff",
+   "title": "إن الله كتب الإحسان على كل شيء",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:305787b1f30c843730df988d92e5c2467e7e71364d488c9528e3e44c670b50f5",
+   "file": "records/hadeethenc-4558.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-4558",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:c93ebe58b80773619e44958c21f6277702e717c676c68922441a271712cf31df",
+   "title": "أوليس قد جعل الله لكم ما تصدقون؟ إن بكل تسبيحة صدقة، وكل تكبيرة صدقة، وكل تحميدة صدقة، وكل تهليلة صدقة، وأمر بالمعروف صدقة، ونهي عن منكر صدقة، وفي بضع أحدكم صدقة",
+   "topic": "worship"
+  },
+  {
+   "attribution": "رواه البخاري",
+   "content_sha256": "sha256:1368104e3870eb8ff5093d2da640b15ca54330a4e818ed32bb205c057bd38316",
+   "file": "records/hadeethenc-4559.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-4559",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:cb7e81734070e882864ca6cb18ac5826164d6d5a54b303b03cf6f786723a3b0b",
+   "title": "إن مما أدرك الناس من كلام النبوة الأولى: إذا لم تستحي فاصنع ما شئت",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:21728479f9f374ed077f85fc488b2f1533d63a4b78780511c42e42f64d097e53",
+   "file": "records/hadeethenc-4706.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-4706",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:0f463c2fca99c053cf4fa6009f34787da5119e0fa67758a0384b1f684ab974db",
+   "title": "لا تحاسدوا، ولا تناجشوا، ولا تباغضوا، ولا تدابروا، ولا يبع بعضكم على بيع بعض، وكونوا عباد الله إخوانا",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "رواه البخاري",
+   "content_sha256": "sha256:f29373af54f85c3fd6699f2d875f3a9602452228dc473d923f30dcb5c3c57052",
+   "file": "records/hadeethenc-4709.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-4709",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:6c82a71c7bc5b6b3fa53d48a7d72e9f1be71582d3ec18bdd1cf8e2f39afcc6fc",
+   "title": "لا تغضب",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "رواه الترمذي وابن ماجه وأحمد",
+   "content_sha256": "sha256:9a7a41b5481ddfe54de5ef69437444b69a59f81b007804ca1bfe163ba0be8e5c",
+   "file": "records/hadeethenc-4716.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-4716",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:964b7ee9a33f8cc3423aed4a3a9d9bc7947b087b890ac3a559bf302142f5d671",
+   "title": "لا يزال لسانك رطبا من ذكر الله",
+   "topic": "worship"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:faf2f5f1e40b948b51a7cabdbf9e995149d5a3f374c6749513f8200bac21df61",
+   "file": "records/hadeethenc-4717.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-4717",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:47ceb79af07a0d3b42dc05e00b3ef0e2bce22a47fcbc599fec8810f959b9531e",
+   "title": "لا يؤمن أحدكم، حتى يحب لأخيه ما يحب لنفسه",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "رواه الترمذي",
+   "content_sha256": "sha256:65bbcc9fa0247bb052dbc40dd69d5ddf2bd2fd8dd1f651faf89849176f2f2538",
+   "file": "records/hadeethenc-4811.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-4811",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:493d1eb6aba6b278c4f3fa4e063c328b8e9c6a21ea79478779de83eab9415c73",
+   "title": "يا غلام، إني أعلمك كلمات، احفظ الله يحفظك، احفظ الله تجده تجاهك، إذا سألت فاسأل الله، وإذا استعنت فاستعن بالله",
+   "topic": "belief"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:3822ade8417e1d69909d1e8bca50258dc66ba0fa1070b1cab050d0f2329c1f39",
+   "file": "records/hadeethenc-4817.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-4817",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:499d6dbe5fb54faa9d20c4b47d7b4631e398c6be5df469214c94b67d2818aded",
+   "title": "أذنب عبد ذنبا، فقال: اللهم اغفر لي ذنبي",
+   "topic": "worship"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:657e24a175f346b1754f599dcb556762f05320ffabbc62b04d29cdabfb4b059e",
+   "file": "records/hadeethenc-4935.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-4935",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:4bac721eb5a7442967f85d9ffe3c10e86ae71e801e0405f90cc749026c39730a",
+   "title": "إن المقسطين عند الله على منابر من نور، عن يمين الرحمن عز وجل، وكلتا يديه يمين",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "رواه البخاري",
+   "content_sha256": "sha256:25c196a4f37317afc922bb32f7db9887c92f76b05ff7f9c30b162304f4822be4",
+   "file": "records/hadeethenc-4947.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-4947",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:f1b543e4e9b35327e61dfc8cb88b1113009554295a12e712782a3beabd585c17",
+   "title": "كل أمتي يدخلون الجنة إلا من أبى",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:fa5bd98f9c195a1d24c68da5072268db77a80a99e4903b92f11fffee9ddafa57",
+   "file": "records/hadeethenc-5326.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-5326",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:5519b03e6db47501191e268e5a04fe2f7ba9abf5249b8879321fef9ca943b618",
+   "title": "أتدرون ما الغيبة؟، قالوا: الله ورسوله أعلم، قال: ذكرك أخاك بما يكره",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:76047eb313d7aa2188baef4633e9d93ba64b4d6a8f20d1f9accc8e17c29ffebc",
+   "file": "records/hadeethenc-5348.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-5348",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:751cc924c0e3dfbb6df4e56df207502ac4046721d0b41309bcbe0425e08701f4",
+   "title": "لا تحقرن من المعروف شيئا، ولو أن تلقى أخاك بوجه طلق",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:ddbe78a9b9127280748aeaa397b98911a9ab31b0929582398781139e54b75a0f",
+   "file": "records/hadeethenc-5351.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-5351",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:1f48d3c9b76f7d31c53c47109280a3e550b7fb4cbb864d658ff19d2f4ac6a4ac",
+   "title": "ليس الشديد بالصرعة، إنما الشديد الذي يملك نفسه عند الغضب",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:7d3a853b562fa141a83541261f953d0205e5c9a298e1cb341e1fdd9d047e2d4a",
+   "file": "records/hadeethenc-5354.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-5354",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:86accddb8c44ddb60db680c4e72eb77a465a0171d39002c57ec0bd23b5d1c532",
+   "title": "من دل على خير فله مثل أجر فاعله",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:25e68abd9071dabcfa77e5a470ce1376670461467e2906cca52e1e86e188cb55",
+   "file": "records/hadeethenc-5359.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-5359",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:1886cc7f1afebbab8d246b83bc68b15b0fb44d0461d9307e2a372e19319a1014",
+   "title": "سألت النبي صلى الله عليه وسلم: أي الذنب أعظم عند الله؟ قال: أن تجعل لله ندا وهو خلقك",
+   "topic": "belief"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:71243c79b4adbebf1a041c9372e5ebdcd93e3052b0b7fa9f591d3ba81baae429",
+   "file": "records/hadeethenc-5365.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-5365",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:122a486afda73058d52aad8173e28461500f43aefbbfaae110c0630103abee3e",
+   "title": "لا يحل لرجل أن يهجر أخاه فوق ثلاث ليال، يلتقيان، فيعرض هذا ويعرض هذا، وخيرهما الذي يبدأ بالسلام",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:7be8bcc36ebeefa8380ce3723ba5776d282171e1c632a9e509ed689ee9ad66ef",
+   "file": "records/hadeethenc-5377.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-5377",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:6cdc59d8d7abfdc82cb41ecdf598be8b1c89f9d06a9817365e8a82148f7487e7",
+   "title": "إن النبي صلى الله عليه وسلم خرج علينا، فقلنا: يا رسول الله، قد علمنا كيف نسلم عليك، فكيف نصلي عليك؟",
+   "topic": "worship"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:f6c6544d6fbca0e9df94d2c511c266eb6c0d88b464dcd14a88863e79108bc7b1",
+   "file": "records/hadeethenc-5435.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-5435",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:7057864c948d59a7a2264a51e24a84e8946e977fd05104764a1976ef91915645",
+   "title": "من صلى صلاة الصبح فهو في ذمة الله",
+   "topic": "worship"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:356bb8ba57bd1bb715e09995e7998e986a2553e5ed52369a8c9ab4db3e5ba47b",
+   "file": "records/hadeethenc-5437.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-5437",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:3fd090c925073c8af928dc81890dd21b1c086271f708e788bbc9132d49f72e1b",
+   "title": "من كان يؤمن بالله واليوم الآخر فليقل خيرا أو ليصمت",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:2753e3c847e95493203ea4a5efc8209df845f6c9b7f34ac1df31c6890315a09c",
+   "file": "records/hadeethenc-5439.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-5439",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:add7fcc07ab8858bcab9b0ee3060ffa2c23f27f98f546d38299f303286cc6651",
+   "title": "من لا يرحم الناس لا يرحمه الله عز وجل",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:062d58e5003a78d3d161ff62a714d3659d8d0ccb292700e434f2f2e937867573",
+   "file": "records/hadeethenc-5478.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-5478",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:c81caf1ce185b8c6f1358088b376f67d1c52e44d144f1f63011b7f33076fb70a",
+   "title": "الحياء من الإيمان",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:a47dad3c6713100e11eceb216feeddbba5256f44e718c28d212713c029e34520",
+   "file": "records/hadeethenc-5512.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-5512",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:1b8a330a5fa42c61ebd90ad9401b9d3282677a2439ec130480da6d94c81b58fc",
+   "title": "ما نقصت صدقة من مال، وما زاد الله عبدا بعفو إلا عزا، وما تواضع أحد لله إلا رفعه الله",
+   "topic": "worship"
+  },
+  {
+   "attribution": "رواه الترمذي وأحمد",
+   "content_sha256": "sha256:c325d4eeb12b5ddd6050453fe62277fef99a1fbdcc2c344196d9b11a53ba78b7",
+   "file": "records/hadeethenc-5514.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-5514",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:726381dbfd2af4e23ccc2498e3234c6e0bd624f3f49613b889809d285c1ccc97",
+   "title": "من رد عن عرض أخيه رد الله عن وجهه النار يوم القيامة",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:a8c64f94542b4086b3cc78b848b0f959f084e1afe1e81664b185e6ade242ddf4",
+   "file": "records/hadeethenc-5516.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-5516",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:58e21e8c201e3be86520d990447d2f469b8ce2a804a2e2b6142598c3fe6a190e",
+   "title": "من قال: سبحان الله وبحمده، في يوم مائة مرة، حطت خطاياه وإن كانت مثل زبد البحر",
+   "topic": "worship"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:939b3789d7894be47dff0454dc5dd1bd3536a10d73ebf8d438664991a212f92f",
+   "file": "records/hadeethenc-5517.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-5517",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:7cb9c00fd1ba6e62eab88c9269fb63d5109872946358c7d0e7d90dfe31655531",
+   "title": "من قال: لا إله إلا الله وحده لا شريك له، له الملك وله الحمد وهو على كل شيء قدير، عشر مرار",
+   "topic": "worship"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:32cadd147a8310ced866f30ca0312209e7ae8521612843d9335f709bf20b93db",
+   "file": "records/hadeethenc-5545.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-5545",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:7a725eabc7e8638d1f60acb34b13e8561769d6683ac42b02673f45645370bf0d",
+   "title": "إن الله يحب العبد التقي الغني الخفي",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:c35fe4a1d13dd5e5e3a534a92cbb83e6e14d1a62ad44af9968089c7f51c14a08",
+   "file": "records/hadeethenc-5796.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-5796",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:6ccfdf878c32a8903e0df17b2e1d23179dc60220a63f0c6635b2f9de0439d18b",
+   "title": "إن الرفق لا يكون في شيء إلا زانه، ولا ينزع من شيء إلا شانه",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:dc664705a143e6d7055793db709d361f47ba06822e241435779a48d48c4da46f",
+   "file": "records/hadeethenc-5798.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-5798",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:7f4d5eaaa4586aee469a71f3f29463671aee31e0f799bfbc0d0a132af076bb02",
+   "title": "إن الله ليرضى عن العبد أن يأكل الأكلة فيحمده عليها، أو يشرب الشربة فيحمده عليها",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:0f7dcae3966d0bf6d95c69aec8effc2fea08af009b534b35246069d625058a5d",
+   "file": "records/hadeethenc-5803.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-5803",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:78fd2e5267957fdaa2f503b565f7de90d165fdf5b097b7de843c0d0cbd26680c",
+   "title": "إن من خياركم أحسنكم أخلاقا",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:0ae4914fac7b387bd66184650bc4f06bd2e578a6ed66c0923b5188f591b88e83",
+   "file": "records/hadeethenc-5805.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-5805",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:b0f7031eb31f7c373e17f9faf62da8d4a66555242cbb30633caf81cfc03422ee",
+   "title": "قال الله: أنفق يا ابن آدم أنفق عليك",
+   "topic": "worship"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:98bd9462c8dbfc64e0a7f5f50cf09b935269271b13d3f192d8076a6228333e47",
+   "file": "records/hadeethenc-5808.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-5808",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:6393137dd40c217a7ecfefcfe2cae3ea0a4195b15100f5d5e96c28b02929046d",
+   "title": "أن رجلا سأل النبي صلى الله عليه وسلم: أي الإسلام خير؟ قال: تطعم الطعام، وتقرأ السلام على من عرفت ومن لم تعرف",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:1e15950323bdda5ce267880d8da98bff392e87f8240893a3bb9a773457a4b435",
+   "file": "records/hadeethenc-5866.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-5866",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:5162a6081dd1b81e19e2358f712cf3346f9450aec0960967a6f92c559ebc4860",
+   "title": "يسروا ولا تعسروا، وبشروا ولا تنفروا",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "رواه الترمذي وأحمد",
+   "content_sha256": "sha256:caa75471fd7ac8a9c425ab0adaed0aaac5ee78c4fba74cedf69f46389f5a10aa",
+   "file": "records/hadeethenc-5927.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-5927",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:760c5fafca96c8c67f89e0a4a9979bb5429bb36e6a9921f34726fc787f231ee3",
+   "title": "والذي نفسي بيده لتركبن سنة من كان قبلكم",
+   "topic": "belief"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:303929764c0028970a913dba5777801fe5fc982f0a3b2befaa599075caa66a97",
+   "file": "records/hadeethenc-5931.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-5931",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:02af76d749f3b90d700fcd30ff74fb5a9111988eef2d244b50958e1fddb27e59",
+   "title": "أشد الناس عذابا عند الله يوم القيامة الذين يضاهون بخلق الله",
+   "topic": "belief"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:0e6fd860311ddacbf9b09f510b273cd9da00d7f515b26b0b8166bbec88c3698f",
+   "file": "records/hadeethenc-5934.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-5934",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:00a909f899a11507446c461b1189280bed624343074c15b349d925f379bc5ce4",
+   "title": "ألا أبعثك على ما بعثني عليه رسول الله صلى الله عليه وسلم؟ أن لا تدع تمثالا إلا طمسته، ولا قبرا مشرفا إلا سويته",
+   "topic": "belief"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:5e118a25c514ace8c270ae93d8fa142a6ee85530e823c20100ce6509eafcf522",
+   "file": "records/hadeethenc-6203.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-6203",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:34d4bf6754da2c8eb429fec79eb7927eee89eaa0860481cfd07b93bdc7a12080",
+   "title": "كان رسول الله صلى الله عليه وسلم يهلل بهن دبر كل صلاة",
+   "topic": "worship"
+  },
+  {
+   "attribution": "رواه البخاري",
+   "content_sha256": "sha256:5911c239e284d9dced39a971400c92fa8ce88ee92c852dda8f49f42396dfefd3",
+   "file": "records/hadeethenc-6261.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-6261",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:527f079240306015372ca8aa68bd75170c909706a6147b0a508b7424be4d0730",
+   "title": "من ترك صلاة العصر فقد حبط عمله",
+   "topic": "worship"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:02ddc43ff625541098a45224c8f8b23d61740706475035a09e7f4310d3dd80e2",
+   "file": "records/hadeethenc-6263.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-6263",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:72f4d77517127d95680cc6bda149f304774845ba18161ef43be2e47626074f52",
+   "title": "من توضأ فأحسن الوضوء خرجت خطاياه من جسده حتى تخرج من تحت أظفاره",
+   "topic": "worship"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:0896215cf28800e7c475eeab24521642e1d993a8c0b65380c3397363f4ace9cc",
+   "file": "records/hadeethenc-6468.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-6468",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:a561e1e36a7f21adfb30650b07c8ee05868906ea0285fd96fd28ced761174d11",
+   "title": "الإيمان بضع وسبعون أو بضع وستون شعبة، فأفضلها قول لا إله إلا الله، وأدناها إماطة الأذى عن الطريق",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:c92dbdeb744db534e8ebbcf5e9bd723f4e0beeaaba2116f2d2a50ca2cdfb43cc",
+   "file": "records/hadeethenc-6761.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-6761",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:114eb94f40869c4f5d697e928700b06ff58c763d9b32e265b4d610527d5c55e4",
+   "title": "لا يبقين في رقبة بعير قلادة من وتر أو قلادة إلا قطعت",
+   "topic": "belief"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:8db113a5832dc4ce731538ccf8aa148d4c904ad8060354b088dc5853b640d0ea",
+   "file": "records/hadeethenc-6765.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-6765",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:96188fb39aec4f11ecfb8c2322b184e9dd98a303e111664fba60b5ec349740db",
+   "title": "من قال: لا إله إلا الله، وكفر بما يعبد من دون الله حرم ماله ودمه، وحسابه على الله",
+   "topic": "belief"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:c4a4dcf38d136a7799cd4dfc6fb70092b3bdc6d69ce52b1543fce280b1f1074f",
+   "file": "records/hadeethenc-8918.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-8918",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:1cab054cc1abf1dcde29a49637c92cf56e20c47a4ac9b138d5751be193057297",
+   "title": "تلك الكلمة من الحق يخطفها الجني فيقرها في أذن وليه قر الدجاجة، فيخلطون فيها أكثر من مائة كذبة",
+   "topic": "belief"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:7fe3f2b2cdaf036ce2f4836f141373cfd5c882bfd2667653f6a8fbbd0654b53a",
+   "file": "records/hadeethenc-10015.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-10015",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:110300c6938d78d51294980a599ee577fa02ec718696dbb7e0b8533281d499cf",
+   "title": "امكثي قدر ما كانت تحبسك حيضتك، ثم اغتسلي",
+   "topic": "worship"
+  },
+  {
+   "attribution": "رواه الدارقطني",
+   "content_sha256": "sha256:b073e62a06bd3ab581e0ba439f512d91a10142e17d65813adb711c161b849a84",
+   "file": "records/hadeethenc-10044.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-10044",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:d70ab16b7e8f16b181ac7cee9f5be135b44f6d35d8766bbf08028d236a5d64f1",
+   "title": "استنزهوا من البول؛ فإن عامة عذاب القبر منه",
+   "topic": "worship"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:f868dab192b88a21198d7d28ae583636341018baa14f794420192946c2c5cfdc",
+   "file": "records/hadeethenc-10098.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-10098",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:f18ee31c56673057e3ee2fa75e21e540c757b2e19d2c919c61b2981edc95c6c7",
+   "title": "ما من أحد يشهد أن لا إله إلا الله وأن محمدا رسول الله صدقا من قلبه إلا حرمه الله على النار",
+   "topic": "belief"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:f40c2ae03b80f4e2f368bc8c1ef785089cd65ba2e9e493781091f91a99336a17",
+   "file": "records/hadeethenc-10101.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-10101",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn"
+   ],
+   "sha256": "sha256:67ec616b5aa667650fbe73ea030ea645444e197d40a7c894bb7959a50dc26eba",
+   "title": "المسلم من سلم المسلمون من لسانه ويده، والمهاجر من هجر ما نهى الله عنه",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:fc4cb5960fa370b50df69f30d324be936aba90eb4e2a1159f7753a2000ee9675",
+   "file": "records/hadeethenc-10647.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-10647",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:12bd854a55cc7aec507aa389b295a105086c61232a18b5c7ba773c42fb9fd37a",
+   "title": "لا تجلسوا على القبور، ولا تصلوا إليها",
+   "topic": "belief"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:5fafb906bf2cf578746c790ade9e923ac94d289bf3554843bfeae2d3dbe464bd",
+   "file": "records/hadeethenc-10887.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-10887",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:f92afde75ddd0ce863d4fa622c3ae51198ef9bb2c74afab59d6bf62904ddf343",
+   "title": "أولئك قوم إذا مات فيهم العبد الصالح، أو الرجل الصالح، بنوا على قبره مسجدا",
+   "topic": "belief"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:af9c4a8c81705dbdd565208f811d0afefbd2c67b2082ec55b2477a19cfa518b5",
+   "file": "records/hadeethenc-10947.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-10947",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:2dd048db336dff446d899d95f5c89ed86ef6d0c2d228b90f99c74d7424a31a60",
+   "title": "اللهم أنت السلام، ومنك السلام، تباركت ذا الجلال والإكرام",
+   "topic": "worship"
+  },
+  {
+   "attribution": "رواه البخاري",
+   "content_sha256": "sha256:64681fc047a9359686e44a7acb7226a9785a02058af96b73a2073639cd2960bf",
+   "file": "records/hadeethenc-10951.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-10951",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:0bb02a698130c5a7c493edb336897d21b7607b9f1bfea0c5bdef3f5f160372b9",
+   "title": "صل قائما، فإن لم تستطع فقاعدا، فإن لم تستطع فعلى جنب",
+   "topic": "worship"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:8886284d412bca83b9b4ca5510f9d8081fe1abf6302470d1885430f56d881b90",
+   "file": "records/hadeethenc-11287.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-11287",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:9bd087dda47f90ab1fe694fb3472c0bc5f1cda1263d863f54ed6a118dfe9bee7",
+   "title": "هل تسمع النداء بالصلاة؟ فقال: نعم، قال: فأجب",
+   "topic": "worship"
+  },
+  {
+   "attribution": "رواه الترمذي",
+   "content_sha256": "sha256:0a8cdc47f714757886c8af2a6de124200a6cfb0342db3a4f6f86156b5b608d0f",
+   "file": "records/hadeethenc-11310.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-11310",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:e0cf30159a2f12d5f0b02e94cb86758603491bc22fab724378f02828f08211a6",
+   "title": "إذا أتى أحدكم الصلاة والإمام على حال، فليصنع كما يصنع الإمام",
+   "topic": "worship"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:65653f80c9125d8c2c8712a37b6e75c63680dc575472c2e86573604701634e8e",
+   "file": "records/hadeethenc-58120.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-58120",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:bbd0f3f44b47800c94f6509ff369888c2157ddac22b9e2b5206f483212a61984",
+   "title": "يا غلام، سم الله، وكل بيمينك، وكل مما يليك",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:c3da14120898b534ed44bbeb9e06b728b2a64cc187d7ac108d868df24c42fc05",
+   "file": "records/hadeethenc-65000.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65000",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:43a1cd4c020b6295190c8c3a59e65c30fbb2f08355e637ad969a40e280a3590b",
+   "title": "بني الإسلام على خمس",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:c047b5f7c159f41d9c26a551ce46342d80796887160f41b50ce3f0bca0501ae5",
+   "file": "records/hadeethenc-65001.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65001",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:37195c4f1ac1db80e7b0656b7079a9c9d7e58722bf4307f7ff9c530d2d4765a7",
+   "title": "من رأى منكم منكرا فليغيره بيده، فإن لم يستطع فبلسانه، فإن لم يستطع فبقلبه، وذلك أضعف الإيمان",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:b3261d0e31de0233af357b79b27fafdf06440c25c775eeb0ce98e2539b7d1a69",
+   "file": "records/hadeethenc-65002.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65002",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:d22ff5d7fc703bf689ae5d64ad5c8c77efb8d9552b24df6d21151df45979c1ea",
+   "title": "من أحسن في الإسلام لم يؤاخذ بما عمل في الجاهلية، ومن أساء في الإسلام أخذ بالأول والآخر",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:2d105cf6e7e0db9f5f188e4db1464682c40f0ca3e19bcfd0b868277b0e36fa0f",
+   "file": "records/hadeethenc-65003.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65003",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:b36f7b5d432112e5a547cead61899d62f26e7fa4b7e11154d0a732cfe1345ed8",
+   "title": "أرأيت إذا صليت الصلوات المكتوبات، وصمت رمضان، وأحللت الحلال، وحرمت الحرام",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:f0a0f23f7b738bc2ca0674ab8c01ab081ff056b514cd6be4f961d41d3665e58d",
+   "file": "records/hadeethenc-65004.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65004",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:31b0963802c59f13087f7d814686bdac3881fb0e873a06fba6ac89a48ee8f7cd",
+   "title": "الطهور شطر الإيمان، والحمد لله تملأ الميزان، وسبحان الله والحمد لله تملآن أو تملأ ما بين السماوات والأرض",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "رواه أبو داود والترمذي وابن ماجه",
+   "content_sha256": "sha256:65ff97723331c14287133c34907903f28c46c708e56eaa3d5dd926246bf0430c",
+   "file": "records/hadeethenc-65005.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65005",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:d4f4e01ef3508a4c9f27d860eb76db1fdf645d60f43be4be4af33df1c73dd38b",
+   "title": "ألا هل عسى رجل يبلغه الحديث عني وهو متكئ على أريكته فيقول: بيننا وبينكم كتاب الله",
+   "topic": "belief"
+  },
+  {
+   "attribution": "رواه أبو يعلى والطبراني والضياء المقدسي",
+   "content_sha256": "sha256:f39b144f1d827ca0bd077807fd8e386b7347fa0332a306f5b5fa9c4a71a81e93",
+   "file": "records/hadeethenc-65006.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65006",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:b7003e0a5f924e595930ebbc69f7a0ec8d4e57c3876e226d9db816702c63124f",
+   "title": "يا رسول الله، ما تركت حاجة ولا داجة إلا قد أتيت، قال: أليس تشهد أن لا إله إلا الله وأن محمدا رسول الله؟",
+   "topic": "belief"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:6d988a98f47b7857243ea806af092d2cd0350eda013fad456490a2f8abbe2c6d",
+   "file": "records/hadeethenc-65007.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65007",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:dbc4f11403e5f2e4d9765da1b77b6d93afa0b4ef9c11451fdb2c494652193fe8",
+   "title": "فإن حق الله على العباد أن يعبدوه ولا يشركوا به شيئا، وحق العباد على الله أن لا يعذب من لا يشرك به شيئا",
+   "topic": "belief"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:84b53bfc5f9363e251a5e6bdb82809ddbe292a49a6b57ad9a61e893034a9ce85",
+   "file": "records/hadeethenc-65008.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65008",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:b5788c8bcc48486501144e567e5d2693645e6726b35f41e706cc5e8367b17710",
+   "title": "من مات لا يشرك بالله شيئا دخل الجنة، ومن مات يشرك بالله شيئا دخل النار",
+   "topic": "belief"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:2c58e3a4019e8861cb7066d5668c43957b1a7cd961ae8fd4cd9fb4f93f042386",
+   "file": "records/hadeethenc-65009.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65009",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:576c6550590685ba319aff7e3908692e852ee87e55bb5c8402b733eb43dbd81b",
+   "title": "إنه لم يقل يوما: رب اغفر لي خطيئتي يوم الدين",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:e2a2d79526941848d59186b29e613fdb4cf5de0f26d7d1e27881c8defcf418e4",
+   "file": "records/hadeethenc-65010.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65010",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:67377ddb1cc1bb9a51f81422e7c6a5c1bb0c17889b81f4c5635a92b5e3b7e98a",
+   "title": "هل تدرون ماذا قال ربكم؟ قالوا: الله ورسوله أعلم، قال: أصبح من عبادي مؤمن بي وكافر",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:109d27b99c9b36825d56cd8c08090b1b64604d2606fcc6d5c39bcf19673d7c09",
+   "file": "records/hadeethenc-65011.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65011",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:0bded6a4ee02023c4501dfd419025af9c3ba7da0c6b9c53b05fe8e8f9527934c",
+   "title": "إنا نجد في أنفسنا ما يتعاظم أحدنا أن يتكلم به، قال: وقد وجدتموه؟ قالوا: نعم، قال: ذاك صريح الإيمان",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:dc8d9f8eff25b95a5933160daa50baaaeecbf51d8934b19b87b0d4353c12d5c1",
+   "file": "records/hadeethenc-65013.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65013",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:36199b0db492237901264723d61d401e1299a6d1a35b519c601a5581d7e173cc",
+   "title": "يأتي الشيطان أحدكم فيقول: من خلق كذا؟ من خلق كذا؟ حتى يقول: من خلق ربك؟ فإذا بلغه فليستعذ بالله ولينته",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:8708df1211a79ea9e5ebe8e25e5610d304d665fdd152aefc022ed6d50d6bf87e",
+   "file": "records/hadeethenc-65015.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65015",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:bb48439958ac6d356cd8e1a30541a6d739cd26a96ed85dfc10b02b3685496ba0",
+   "title": "إن الله لا يظلم مؤمنا حسنة، يعطى بها في الدنيا ويجزى بها في الآخرة",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:17d78351cea849ee0b31b5ffab0677e7d911d3f455dd6084274b52a76b1b5a6e",
+   "file": "records/hadeethenc-65016.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65016",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:6ea5a71a1c22e77dbf8e6beae500b444bd1e17215539f62fdd04a5f99aad3a23",
+   "title": "أسلمت على ما سلف من خير",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "رواه الحاكم والطبراني",
+   "content_sha256": "sha256:f69672907cda8cc231cf9ca266b08a64371041bceafe770be7e6526bc25a3ad4",
+   "file": "records/hadeethenc-65020.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65020",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:571373450bbd49ed62a000edca8e1e2ea6f51d6f2041604caf2ee316089efeb6",
+   "title": "إن الإيمان ليخلق في جوف أحدكم كما يخلق الثوب الخلق، فاسألوا الله أن يجدد الإيمان في قلوبكم",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:28ee7513f7cca1a0fe696bb17a777169a189df0c3028c425fad2fcde668421d7",
+   "file": "records/hadeethenc-65031.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65031",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:e4764c2c178286dc64003684bed37ec7708a01a5a513219402a58c1bf9ca1a85",
+   "title": "إني على الحوض حتى أنظر من يرد علي منكم، وسيؤخذ ناس دوني، فأقول: يا رب مني ومن أمتي",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "رواه الترمذي وابن ماجه",
+   "content_sha256": "sha256:cc61c9a4366bcc6722dfe436c5f6dc3967776be888bb6e7ba3942419d95c12a7",
+   "file": "records/hadeethenc-65033.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65033",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:e213eba7a2cf92504745da8e8d7095722eff0965d15f551ee57f155316a20784",
+   "title": "إن الله سيخلص رجلا من أمتي على رءوس الخلائق يوم القيامة",
+   "topic": "belief"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:4cc7220d3b21953aa58a9d466adb7f2364f16dc4a13a35c40a584912b5ec8068",
+   "file": "records/hadeethenc-65037.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65037",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:e45a1a9eb9f7ef8ba4c648f9f6598bf36521dd283ca3c748240f0cb0aa765194",
+   "title": "حدثنا رسول الله صلى الله عليه وسلم وهو الصادق المصدوق: أن خلق أحدكم يجمع في بطن أمه أربعين يوما وأربعين ليلة",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:aed977ab799dfd6461af2401bafc45f10b928db29b8424fb5db65cc6b25cf1fb",
+   "file": "records/hadeethenc-65038.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65038",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:37fdd4d16c41a989f64abc85436f90d39c5da984174fe867bc7ec9fef07dcc10",
+   "title": "كتب الله مقادير الخلائق قبل أن يخلق السماوات والأرض بخمسين ألف سنة",
+   "topic": "belief"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:bd84d4f4d3a553a0165fb87ad3ee7d0eaa469f802b538ff4c2dd2f5921806519",
+   "file": "records/hadeethenc-65039.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65039",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:d8e2d8caec0ab998e3bdc5eb6d9b355233fcef378a767cf232ee6f32a5e8019b",
+   "title": "كل شيء بقدر، حتى العجز والكيس، أو الكيس والعجز",
+   "topic": "belief"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:3d7d6daf29786a139bf63f0b3882a88479a4e33f9215e031b944d9eb0eb3b402",
+   "file": "records/hadeethenc-65044.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65044",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:aa2d55452df310ab0c832d3ff15b42892c4b4a39f7011a4c0bf6c57ed1c0599c",
+   "title": "وأنا ضمام بن ثعلبة أخو بني سعد بن بكر",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:15420d791d409bcb1f18fc5cbabfb06cd9ad54a7fc70ab5dc3b43410dfd68100",
+   "file": "records/hadeethenc-65050.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65050",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:f7bb8c2a679a7a338c6cf41da7faf6233e133d076f08a9b51ecb52efe8d01305",
+   "title": "أنزل على رسول الله صلى الله عليه وسلم وهو ابن أربعين",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:961a518f53699b25e1de85e23eb4827c676b3ad75d0021157e356d971b2d4077",
+   "file": "records/hadeethenc-65068.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65068",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:97dd07f3f59ac39e354c7bba262d2454da6a447eb8c6eae897fe066b5898eef8",
+   "title": "أليس الذي أمشاه على الرجلين في الدنيا قادرا على أن يمشيه على وجهه يوم القيامة؟",
+   "topic": "belief"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:859d1dd56b607426a1a2f17fddbd4b2e9d73c7a1671e01b56a8bc7f6a09ddf69",
+   "file": "records/hadeethenc-65069.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65069",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:bef602dc3bdcb105ec3d25f374b2b50b7374ced9bed27b880d5176625aa23f76",
+   "title": "قل: لا إله إلا الله، أشهد لك بها يوم القيامة",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:d58f7429e9f4db2a2cbccb5bf7294b667eea4f5445e96d749c1d1543cade9ef4",
+   "file": "records/hadeethenc-65071.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65071",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:58cf6c1371e5b9ab479707089674866b95e9e119a7d062f5855fc7f27fbdd1f8",
+   "title": "إن الذي تقول وتدعو إليه لحسن، لو تخبرنا أن لما عملنا كفارة",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "رواه أبو داود",
+   "content_sha256": "sha256:da412b51c0ac1be1581f3232023ce447c15b91c7449e7c37c893397e375b0ca8",
+   "file": "records/hadeethenc-65077.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65077",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:069a3f68b771c141f4f7bdaa907f2ab5ce6632907dce8b34e09604edc84e56a7",
+   "title": "اكتب، فوالذي نفسي بيده، ما يخرج منه إلا حق",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "رواه البخاري",
+   "content_sha256": "sha256:6e0ddee06be5e74dc3eed67e1de318e9c3ea4b1751be3bd50737f5ec153215fb",
+   "file": "records/hadeethenc-65080.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65080",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:837aacff4c6dd17ac6644580b7885adbba9a6ff6742ba38124c1185e73523a04",
+   "title": "كان النبي صلى الله عليه وسلم يتوضأ عند كل صلاة",
+   "topic": "worship"
+  },
+  {
+   "attribution": "رواه البخاري",
+   "content_sha256": "sha256:ed06ae09a2b11bea78cacab3d4700b903573ef5231262b13ad9f9a1b62b60975",
+   "file": "records/hadeethenc-65081.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65081",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:e71a9937d8de918776561286a73597b63954ce149cffd3bb992d18078aa2dafd",
+   "title": "توضأ النبي صلى الله عليه وسلم مرة مرة",
+   "topic": "worship"
+  },
+  {
+   "attribution": "رواه البخاري",
+   "content_sha256": "sha256:25288d4cde67755e147e1f60984146978a04e515b7d9ab0ba9d2f93993ad5996",
+   "file": "records/hadeethenc-65082.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65082",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:b4fba4c1f0191332496af625bfa4b4e3b28b8c08f80596000ef7d7b12e88544a",
+   "title": "أن النبي صلى الله عليه وسلم توضأ مرتين مرتين",
+   "topic": "worship"
+  },
+  {
+   "attribution": "رواه أبو داود والترمذي والنسائي",
+   "content_sha256": "sha256:1b4ca58c39e71ee41f0155d35def5964968a0f8e294eef627059d6daf9490ab7",
+   "file": "records/hadeethenc-65085.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65085",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:34418811f353f97062a3f814400debcf2599c01cad53c74b75f49971792d3c2e",
+   "title": "أتيت النبي صلى الله عليه وسلم أريد الإسلام، فأمرني أن أغتسل بماء وسدر",
+   "topic": "worship"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:973805f4775191c371935c4f501aeacfd37fdb90abf8d2243c12c1f9e289cd67",
+   "file": "records/hadeethenc-65105.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65105",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:72e5e592641c99b0f41e58c39be61d9ae388afb63b8421379156a05586f7a236",
+   "title": "ذاك شيطان يقال له خنزب، فإذا أحسسته فتعوذ بالله منه، واتفل على يسارك ثلاثا",
+   "topic": "worship"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:ef635493f16783e6f0ba7acddaf21ba60028c86ae8b241ee794d0aa588835f58",
+   "file": "records/hadeethenc-65124.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65124",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:1e5adcdc3a1a3c3a27dd992e59c711d73591dbc1632da2a492dbafc028683e9c",
+   "title": "أربع من كن فيه كان منافقا خالصا، ومن كانت فيه خلة منهن كانت فيه خلة من نفاق حتى يدعها: إذا حدث كذب، وإذا عاهد غدر، وإذا وعد أخلف، وإذا خاصم فجر",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:09fdbf6762436f515f6a5e0f8cb9c590bc51193aa8c5066edd103205894db1be",
+   "file": "records/hadeethenc-65355.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-65355",
+   "locales": [
+    "ar"
+   ],
+   "sha256": "sha256:ae1cd7ecef267c8ec5c51adac5e16f7287a02718b8595a7df39ade40edfd10ea",
+   "title": "ما بال أقوام يتنزَّهون عن الشيء أصنعه",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "رواه أبو داود",
+   "content_sha256": "sha256:7f14cb875522c892592c45899db9066b45f579936a8d63a7eadd6375105629c7",
+   "file": "records/hadeethenc-66212.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-66212",
+   "locales": [
+    "ar"
+   ],
+   "sha256": "sha256:d41f4549d1111a938f4eee619d26af706b1f02b8b99398241bb3313dad89683b",
+   "title": "إذا زنى الرجل خرج منه الإيمان كان عليه كالظلة، فإذا أقلع رجع إليه الإيمان",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:54b316c92e64f36d3ede6af589ed3b1af0df4b28e8166463adfbf4750bb22716",
+   "file": "records/hadeethenc-66239.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-66239",
+   "locales": [
+    "ar"
+   ],
+   "sha256": "sha256:2a9e62923e36963ba419fd04db910b2a57a1c6fab0a3ee8c2878741dab9bda44",
+   "title": "لا يزني الزاني حين يزني وهو مؤمن",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "رواه أبو داود والترمذي والنسائي وأحمد",
+   "content_sha256": "sha256:04c975253ff6ebf68e9c9ce7478b75af7a0639a66367ba39e691db6527c39c06",
+   "file": "records/hadeethenc-66397.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-66397",
+   "locales": [
+    "ar"
+   ],
+   "sha256": "sha256:fb76ee115c06047bb1101b137373de2eac465bf39bd9f4dab73249c86cdf86e1",
+   "title": "ابغوني الضعفاء",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "رواه البخاري ومسلم",
+   "content_sha256": "sha256:05e41edb55e82eec9df91c46c3bb303b25bd7ba13d0bbcad510de4239f9bd0b8",
+   "file": "records/hadeethenc-66512.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-66512",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:625f8160901ec96c1a3950045f6f98875fd75c9110baf3852367c6c3cfe82660",
+   "title": "بني الإسلام على خمس",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:a4252e331eabfbed533b0ea3f3e0532f9c0b6a00b0f1ec5cfefe3162b98924a2",
+   "file": "records/hadeethenc-66520.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-66520",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:b3d71077b41a10a6253f566ec35710959ab7580284a637f761986d73e14dd69e",
+   "title": "لا يؤمن أحدكم، حتى يحب لأخيه ما يحب لنفسه",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:5c2bc6cde5591e6f1dfd4f39636e7125e43ef411ed568c4a5f28dab5fc4b8e04",
+   "file": "records/hadeethenc-66521.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-66521",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:7eb312fd559d5c1530946c6295b5b80a0142a52a7bdc64a36381f6c8cc63c6f2",
+   "title": "إن الله كتب الإحسان على كل شيء",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "رواه الترمذي وغيره",
+   "content_sha256": "sha256:04cf6d125ece411895aa95eba88566b7b9ab70557f7e373eae30d13a66c72334",
+   "file": "records/hadeethenc-66522.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-66522",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:49d20c28a2464b56d18322a82d48cd34365762b2924e1a35b51799e04669b573",
+   "title": "يا غلام إني أعلمك كلمات: احفظ الله يحفظك، احفظ الله تجده تجاهك، إذا سألت فاسأل الله، وإذا استعنت فاستعن بالله",
+   "topic": "belief"
+  },
+  {
+   "attribution": "رواه البخاري",
+   "content_sha256": "sha256:2dad0c112f780997924e562c179f15b3e2b6de8f57ed23b4b1ffd14f9c3e85bd",
+   "file": "records/hadeethenc-66523.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-66523",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:e6d866bb67294a0ffc09aac94295166e8dbdc2963c856e59f95b834f79e47cc1",
+   "title": "إن مما أدرك الناس من كلام النبوة الأولى: إذا لم تستحي فاصنع ما شئت",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:baacece48b587de727d4cb31a37f251e2f3c8b6dae3ed5f92cf7cd63dfca0714",
+   "file": "records/hadeethenc-66525.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-66525",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:d47bbc9d5bdf29a3bdcc5a4f962754e4d89fb1862135a1e39335edded0214e7c",
+   "title": "أرأيت إذا صليت المكتوبات، وصمت رمضان، وأحللت الحلال، وحرمت الحرام",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:b2cbef5cfab2814832788ae233c5c7c9cf59359bae49f07a5ff18962a5bc6297",
+   "file": "records/hadeethenc-66526.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-66526",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:df702ea61595820c5e0c761ee20576092793c4426eb5f97413ec8565008ff7af",
+   "title": "الطهور شطر الإيمان، والحمد لله تملأ الميزان، وسبحان الله والحمد لله تملآن أو تملأ ما بين السماء والأرض",
+   "topic": "worship"
+  },
+  {
+   "attribution": "رواه الترمذي",
+   "content_sha256": "sha256:9dbf3f3fa88848dc4dc04e2b699422b5428ce97fab11430b8b9340ce6e50bb67",
+   "file": "records/hadeethenc-66530.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-66530",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:47983816bdcbed7b9eae56f4a7b881807f651a27ac3690718df7c8f0ce95a9f3",
+   "title": "لقد سألت عن عظيم، وإنه ليسير على من يسره الله عليه",
+   "topic": "understanding_islam"
+  },
+  {
+   "attribution": "الحديث الأول: رواه مسلم، والحديث الثاني: رواه أحمد والدارمي.",
+   "content_sha256": "sha256:a891d72ec306fb903dcf96ddb77797d1cb929d49cdb2a06817af5189f4ce78f1",
+   "file": "records/hadeethenc-66540.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-66540",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:3d34e086be3f7fbc383be40c346cc84a7bc42c08acf093e03f6ea3a19af728e2",
+   "title": "البر: حسن الخلق، والإثم ما حاك في صدرك، وكرهت أن يطلع عليه الناس",
+   "topic": "conduct"
+  },
+  {
+   "attribution": "رواه أحمد والترمذي وابن ماجه وابن حبان",
+   "content_sha256": "sha256:6099c767c0f288d8445e24c3da534cb0a87b29563ed2ea7da0d65348857bc2cc",
+   "file": "records/hadeethenc-66541.json",
+   "grade": "صحيح",
+   "id": "hadeethenc-66541",
+   "locales": [
+    "ar",
+    "en",
+    "ur",
+    "zh-Hans",
+    "id",
+    "bn",
+    "fr"
+   ],
+   "sha256": "sha256:286f23e1d66a8eaab785b12baed5916c07355ae9887f43255c73ae8833364e99",
+   "title": "لا يزال لسانك رطبا من ذكر الله",
+   "topic": "worship"
+  }
+ ],
+ "schema": "balligh.library.hadith.index/2",
+ "selection": {
+  "admission_rule": "Arabic grade field exactly 'صحيح'; any other value or a missing grade is excluded",
+  "arabic_match": {
+   "exact": 869,
+   "mismatch": 0,
+   "not_provided": 0
+  },
+  "candidates": 806,
+  "candidates_not_decided": 612,
+  "categories": [
+   {
+    "entries_considered": 28,
+    "id": "88",
+    "label": "الإسلام",
+    "list_total": 28,
+    "list_url": "https://hadeethenc.com/api/v1/hadeeths/list/?language=ar&category_id=88&page=1&per_page=100",
+    "parent_id": "65",
+    "topic": "understanding_islam"
+   },
+   {
+    "entries_considered": 2,
+    "id": "91",
+    "label": "معنى الإيمان",
+    "list_total": 2,
+    "list_url": "https://hadeethenc.com/api/v1/hadeeths/list/?language=ar&category_id=91&page=1&per_page=100",
+    "parent_id": "65",
+    "topic": "understanding_islam"
+   },
+   {
+    "entries_considered": 2,
+    "id": "95",
+    "label": "الإحسان",
+    "list_total": 2,
+    "list_url": "https://hadeethenc.com/api/v1/hadeeths/list/?language=ar&category_id=95&page=1&per_page=100",
+    "parent_id": "65",
+    "topic": "understanding_islam"
+   },
+   {
+    "entries_considered": 8,
+    "id": "94",
+    "label": "شعب الإيمان",
+    "list_total": 8,
+    "list_url": "https://hadeethenc.com/api/v1/hadeeths/list/?language=ar&category_id=94&page=1&per_page=100",
+    "parent_id": "65",
+    "topic": "understanding_islam"
+   },
+   {
+    "entries_considered": 11,
+    "id": "92",
+    "label": "زيادة الإيمان ونقصانه",
+    "list_total": 11,
+    "list_url": "https://hadeethenc.com/api/v1/hadeeths/list/?language=ar&category_id=92&page=1&per_page=100",
+    "parent_id": "65",
+    "topic": "understanding_islam"
+   },
+   {
+    "entries_considered": 28,
+    "id": "81",
+    "label": "نبينا محمد صلى الله عليه وسلم",
+    "list_total": 28,
+    "list_url": "https://hadeethenc.com/api/v1/hadeeths/list/?language=ar&category_id=81&page=1&per_page=100",
+    "parent_id": "62",
+    "topic": "understanding_islam"
+   },
+   {
+    "entries_considered": 49,
+    "id": "73",
+    "label": "توحيد الألوهية",
+    "list_total": 49,
+    "list_url": "https://hadeethenc.com/api/v1/hadeeths/list/?language=ar&category_id=73&page=1&per_page=100",
+    "parent_id": "59",
+    "topic": "belief"
+   },
+   {
+    "entries_considered": 18,
+    "id": "271",
+    "label": "فضائل التوحيد",
+    "list_total": 18,
+    "list_url": "https://hadeethenc.com/api/v1/hadeeths/list/?language=ar&category_id=271&page=1&per_page=100",
+    "parent_id": "265",
+    "topic": "belief"
+   },
+   {
+    "entries_considered": 8,
+    "id": "72",
+    "label": "توحيد الربوبية",
+    "list_total": 8,
+    "list_url": "https://hadeethenc.com/api/v1/hadeeths/list/?language=ar&category_id=72&page=1&per_page=100",
+    "parent_id": "59",
+    "topic": "belief"
+   },
+   {
+    "entries_considered": 9,
+    "id": "79",
+    "label": "النبوة",
+    "list_total": 9,
+    "list_url": "https://hadeethenc.com/api/v1/hadeeths/list/?language=ar&category_id=79&page=1&per_page=100",
+    "parent_id": "62",
+    "topic": "belief"
+   },
+   {
+    "entries_considered": 13,
+    "id": "86",
+    "label": "مراتب القضاء والقدر",
+    "list_total": 13,
+    "list_url": "https://hadeethenc.com/api/v1/hadeeths/list/?language=ar&category_id=86&page=1&per_page=100",
+    "parent_id": "64",
+    "topic": "belief"
+   },
+   {
+    "entries_considered": 27,
+    "id": "75",
+    "label": "الملائكة",
+    "list_total": 27,
+    "list_url": "https://hadeethenc.com/api/v1/hadeeths/list/?language=ar&category_id=75&page=1&per_page=100",
+    "parent_id": "60",
+    "topic": "belief"
+   },
+   {
+    "entries_considered": 100,
+    "id": "133",
+    "label": "الطهارة",
+    "list_total": 161,
+    "list_url": "https://hadeethenc.com/api/v1/hadeeths/list/?language=ar&category_id=133&page=1&per_page=100",
+    "parent_id": "121",
+    "topic": "worship"
+   },
+   {
+    "entries_considered": 100,
+    "id": "134",
+    "label": "الصلاة",
+    "list_total": 560,
+    "list_url": "https://hadeethenc.com/api/v1/hadeeths/list/?language=ar&category_id=134&page=1&per_page=100",
+    "parent_id": "121",
+    "topic": "worship"
+   },
+   {
+    "entries_considered": 100,
+    "id": "137",
+    "label": "الصيام",
+    "list_total": 107,
+    "list_url": "https://hadeethenc.com/api/v1/hadeeths/list/?language=ar&category_id=137&page=1&per_page=100",
+    "parent_id": "121",
+    "topic": "worship"
+   },
+   {
+    "entries_considered": 78,
+    "id": "136",
+    "label": "الزكاة",
+    "list_total": 78,
+    "list_url": "https://hadeethenc.com/api/v1/hadeeths/list/?language=ar&category_id=136&page=1&per_page=100",
+    "parent_id": "121",
+    "topic": "worship"
+   },
+   {
+    "entries_considered": 28,
+    "id": "278",
+    "label": "فضائل الذكر",
+    "list_total": 28,
+    "list_url": "https://hadeethenc.com/api/v1/hadeeths/list/?language=ar&category_id=278&page=1&per_page=100",
+    "parent_id": "265",
+    "topic": "worship"
+   },
+   {
+    "entries_considered": 98,
+    "id": "282",
+    "label": "الأخلاق الحميدة",
+    "list_total": 98,
+    "list_url": "https://hadeethenc.com/api/v1/hadeeths/list/?language=ar&category_id=282&page=1&per_page=100",
+    "parent_id": "266",
+    "topic": "conduct"
+   },
+   {
+    "entries_considered": 16,
+    "id": "273",
+    "label": "فضائل بر الوالدين",
+    "list_total": 16,
+    "list_url": "https://hadeethenc.com/api/v1/hadeeths/list/?language=ar&category_id=273&page=1&per_page=100",
+    "parent_id": "265",
+    "topic": "conduct"
+   },
+   {
+    "entries_considered": 53,
+    "id": "287",
+    "label": "آداب الكلام والصمت",
+    "list_total": 53,
+    "list_url": "https://hadeethenc.com/api/v1/hadeeths/list/?language=ar&category_id=287&page=1&per_page=100",
+    "parent_id": "267",
+    "topic": "conduct"
+   },
+   {
+    "entries_considered": 35,
+    "id": "286",
+    "label": "آداب السلام والاستئذان",
+    "list_total": 35,
+    "list_url": "https://hadeethenc.com/api/v1/hadeeths/list/?language=ar&category_id=286&page=1&per_page=100",
+    "parent_id": "267",
+    "topic": "conduct"
+   },
+   {
+    "entries_considered": 53,
+    "id": "290",
+    "label": "آداب الأكل والشرب",
+    "list_total": 53,
+    "list_url": "https://hadeethenc.com/api/v1/hadeeths/list/?language=ar&category_id=290&page=1&per_page=100",
+    "parent_id": "267",
+    "topic": "conduct"
+   }
+  ],
+  "decisions": [
+   [
+    "66512",
+    "88",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "65003",
+    "94",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "6468",
+    "92",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "66525",
+    "88",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "65004",
+    "94",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "65001",
+    "92",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "4947",
+    "81",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "66530",
+    "88",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "65002",
+    "92",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "3389",
+    "81",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "3390",
+    "88",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "3438",
+    "94",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "65000",
+    "88",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "65010",
+    "94",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "65031",
+    "94",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "65011",
+    "92",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "3700",
+    "88",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "65020",
+    "92",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "4211",
+    "88",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "65044",
+    "81",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "4303",
+    "88",
+    "understanding_islam",
+    "excluded: grade 'صحيح بمجموع طرقه' is not exactly 'صحيح'"
+   ],
+   [
+    "65050",
+    "81",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "65077",
+    "81",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "65009",
+    "88",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "65013",
+    "88",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "65015",
+    "88",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "65016",
+    "88",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "65037",
+    "88",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "65069",
+    "88",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "65071",
+    "88",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "3330",
+    "73",
+    "belief",
+    "admitted"
+   ],
+   [
+    "66522",
+    "72",
+    "belief",
+    "admitted"
+   ],
+   [
+    "4811",
+    "86",
+    "belief",
+    "admitted"
+   ],
+   [
+    "3342",
+    "73",
+    "belief",
+    "admitted"
+   ],
+   [
+    "10098",
+    "271",
+    "belief",
+    "admitted"
+   ],
+   [
+    "5359",
+    "72",
+    "belief",
+    "admitted"
+   ],
+   [
+    "65038",
+    "86",
+    "belief",
+    "admitted"
+   ],
+   [
+    "3347",
+    "73",
+    "belief",
+    "admitted"
+   ],
+   [
+    "65007",
+    "271",
+    "belief",
+    "admitted"
+   ],
+   [
+    "65005",
+    "79",
+    "belief",
+    "admitted"
+   ],
+   [
+    "3406",
+    "73",
+    "belief",
+    "admitted"
+   ],
+   [
+    "65008",
+    "271",
+    "belief",
+    "admitted"
+   ],
+   [
+    "3414",
+    "73",
+    "belief",
+    "admitted"
+   ],
+   [
+    "65033",
+    "271",
+    "belief",
+    "admitted"
+   ],
+   [
+    "5931",
+    "72",
+    "belief",
+    "admitted"
+   ],
+   [
+    "3419",
+    "73",
+    "belief",
+    "admitted"
+   ],
+   [
+    "3346",
+    "271",
+    "belief",
+    "excluded: grade 'صحيح بطرقه وشواهده' is not exactly 'صحيح'"
+   ],
+   [
+    "65039",
+    "86",
+    "belief",
+    "admitted"
+   ],
+   [
+    "3265",
+    "75",
+    "belief",
+    "excluded: grade 'حسن' is not exactly 'صحيح'"
+   ],
+   [
+    "3420",
+    "73",
+    "belief",
+    "admitted"
+   ],
+   [
+    "5934",
+    "73",
+    "belief",
+    "admitted"
+   ],
+   [
+    "65006",
+    "271",
+    "belief",
+    "admitted"
+   ],
+   [
+    "65068",
+    "72",
+    "belief",
+    "admitted"
+   ],
+   [
+    "6049",
+    "73",
+    "belief",
+    "excluded: grade 'إسناده صحيح' is not exactly 'صحيح'"
+   ],
+   [
+    "65014",
+    "271",
+    "belief",
+    "excluded: grade 'حسن' is not exactly 'صحيح'"
+   ],
+   [
+    "6761",
+    "73",
+    "belief",
+    "admitted"
+   ],
+   [
+    "6763",
+    "73",
+    "belief",
+    "excluded: grade 'حسن' is not exactly 'صحيح'"
+   ],
+   [
+    "6765",
+    "73",
+    "belief",
+    "admitted"
+   ],
+   [
+    "8918",
+    "73",
+    "belief",
+    "admitted"
+   ],
+   [
+    "10647",
+    "73",
+    "belief",
+    "admitted"
+   ],
+   [
+    "10887",
+    "73",
+    "belief",
+    "admitted"
+   ],
+   [
+    "2945",
+    "73",
+    "belief",
+    "admitted"
+   ],
+   [
+    "3422",
+    "73",
+    "belief",
+    "admitted"
+   ],
+   [
+    "4176",
+    "73",
+    "belief",
+    "admitted"
+   ],
+   [
+    "5927",
+    "73",
+    "belief",
+    "admitted"
+   ],
+   [
+    "5928",
+    "73",
+    "belief",
+    "excluded: grade 'إسناده حسن' is not exactly 'صحيح'"
+   ],
+   [
+    "6362",
+    "73",
+    "belief",
+    "excluded: grade 'حسن' is not exactly 'صحيح'"
+   ],
+   [
+    "6762",
+    "73",
+    "belief",
+    "excluded: grade 'حسن' is not exactly 'صحيح'"
+   ],
+   [
+    "66526",
+    "133",
+    "worship",
+    "admitted"
+   ],
+   [
+    "66541",
+    "278",
+    "worship",
+    "admitted"
+   ],
+   [
+    "5512",
+    "136",
+    "worship",
+    "admitted"
+   ],
+   [
+    "4817",
+    "278",
+    "worship",
+    "admitted"
+   ],
+   [
+    "4196",
+    "137",
+    "worship",
+    "admitted"
+   ],
+   [
+    "5805",
+    "136",
+    "worship",
+    "admitted"
+   ],
+   [
+    "5516",
+    "278",
+    "worship",
+    "admitted"
+   ],
+   [
+    "3313",
+    "133",
+    "worship",
+    "admitted"
+   ],
+   [
+    "4202",
+    "137",
+    "worship",
+    "admitted"
+   ],
+   [
+    "5517",
+    "278",
+    "worship",
+    "admitted"
+   ],
+   [
+    "3336",
+    "134",
+    "worship",
+    "admitted"
+   ],
+   [
+    "3588",
+    "133",
+    "worship",
+    "admitted"
+   ],
+   [
+    "3007",
+    "278",
+    "worship",
+    "admitted"
+   ],
+   [
+    "6263",
+    "133",
+    "worship",
+    "admitted"
+   ],
+   [
+    "3591",
+    "134",
+    "worship",
+    "admitted"
+   ],
+   [
+    "10044",
+    "133",
+    "worship",
+    "admitted"
+   ],
+   [
+    "5435",
+    "134",
+    "worship",
+    "admitted"
+   ],
+   [
+    "6203",
+    "134",
+    "worship",
+    "admitted"
+   ],
+   [
+    "3014",
+    "133",
+    "worship",
+    "admitted"
+   ],
+   [
+    "6261",
+    "134",
+    "worship",
+    "admitted"
+   ],
+   [
+    "4716",
+    "278",
+    "worship",
+    "admitted"
+   ],
+   [
+    "5522",
+    "278",
+    "worship",
+    "excluded: grade 'صحيح لغيره' is not exactly 'صحيح'"
+   ],
+   [
+    "10930",
+    "134",
+    "worship",
+    "excluded: grade 'حسن بشواهده' is not exactly 'صحيح'"
+   ],
+   [
+    "10947",
+    "134",
+    "worship",
+    "admitted"
+   ],
+   [
+    "10951",
+    "134",
+    "worship",
+    "admitted"
+   ],
+   [
+    "3568",
+    "136",
+    "worship",
+    "excluded: grade 'حسن' is not exactly 'صحيح'"
+   ],
+   [
+    "3150",
+    "133",
+    "worship",
+    "admitted"
+   ],
+   [
+    "11287",
+    "134",
+    "worship",
+    "admitted"
+   ],
+   [
+    "65105",
+    "278",
+    "worship",
+    "admitted"
+   ],
+   [
+    "11310",
+    "134",
+    "worship",
+    "admitted"
+   ],
+   [
+    "3316",
+    "133",
+    "worship",
+    "admitted"
+   ],
+   [
+    "3348",
+    "133",
+    "worship",
+    "admitted"
+   ],
+   [
+    "5477",
+    "278",
+    "worship",
+    "excluded: grade 'صحيح بشواهده' is not exactly 'صحيح'"
+   ],
+   [
+    "3444",
+    "133",
+    "worship",
+    "admitted"
+   ],
+   [
+    "5510",
+    "278",
+    "worship",
+    "excluded: grade 'صحيح لغيره' is not exactly 'صحيح'"
+   ],
+   [
+    "3461",
+    "133",
+    "worship",
+    "admitted"
+   ],
+   [
+    "5363",
+    "136",
+    "worship",
+    "excluded: grade 'حسن' is not exactly 'صحيح'"
+   ],
+   [
+    "4558",
+    "278",
+    "worship",
+    "admitted"
+   ],
+   [
+    "3062",
+    "134",
+    "worship",
+    "admitted"
+   ],
+   [
+    "3066",
+    "134",
+    "worship",
+    "excluded: grade 'صحيحة' is not exactly 'صحيح'"
+   ],
+   [
+    "3095",
+    "134",
+    "worship",
+    "admitted"
+   ],
+   [
+    "3096",
+    "134",
+    "worship",
+    "admitted"
+   ],
+   [
+    "3103",
+    "134",
+    "worship",
+    "admitted"
+   ],
+   [
+    "3104",
+    "134",
+    "worship",
+    "admitted"
+   ],
+   [
+    "3365",
+    "134",
+    "worship",
+    "admitted"
+   ],
+   [
+    "8386",
+    "133",
+    "worship",
+    "excluded: grade 'صحيح بشواهده' is not exactly 'صحيح'"
+   ],
+   [
+    "3512",
+    "134",
+    "worship",
+    "admitted"
+   ],
+   [
+    "6185",
+    "137",
+    "worship",
+    "excluded: grade 'حسن' is not exactly 'صحيح'"
+   ],
+   [
+    "6399",
+    "137",
+    "worship",
+    "excluded: grade 'حسن' is not exactly 'صحيح'"
+   ],
+   [
+    "10108",
+    "137",
+    "worship",
+    "excluded: grade 'حديث أبي ذر حسن.\\nحديث قتادة صحيح.\\nحديث ابن عباس حسن' is not exactly 'صحيح'"
+   ],
+   [
+    "3732",
+    "134",
+    "worship",
+    "admitted"
+   ],
+   [
+    "10015",
+    "133",
+    "worship",
+    "admitted"
+   ],
+   [
+    "10035",
+    "133",
+    "worship",
+    "excluded: grade 'حسن' is not exactly 'صحيح'"
+   ],
+   [
+    "65080",
+    "133",
+    "worship",
+    "admitted"
+   ],
+   [
+    "65081",
+    "133",
+    "worship",
+    "admitted"
+   ],
+   [
+    "65082",
+    "133",
+    "worship",
+    "admitted"
+   ],
+   [
+    "65085",
+    "133",
+    "worship",
+    "admitted"
+   ],
+   [
+    "66520",
+    "282",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "3017",
+    "287",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "3706",
+    "286",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "5798",
+    "290",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "66521",
+    "282",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "5326",
+    "287",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "5365",
+    "286",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "58120",
+    "290",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "66523",
+    "282",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "66540",
+    "282",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "5361",
+    "273",
+    "conduct",
+    "excluded: grade 'حسن لغيره' is not exactly 'صحيح'"
+   ],
+   [
+    "3372",
+    "290",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "3716",
+    "282",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "3753",
+    "282",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "5808",
+    "286",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "4302",
+    "282",
+    "conduct",
+    "excluded: grade 'قال الترمذي: حديث حسن' is not exactly 'صحيح'"
+   ],
+   [
+    "5519",
+    "287",
+    "conduct",
+    "excluded: grade 'حسن' is not exactly 'صحيح'"
+   ],
+   [
+    "6108",
+    "286",
+    "conduct",
+    "excluded: grade 'حسن' is not exactly 'صحيح'"
+   ],
+   [
+    "4319",
+    "282",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "4709",
+    "282",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "4935",
+    "282",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "5348",
+    "282",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "5351",
+    "282",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "5354",
+    "282",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "65124",
+    "287",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "5437",
+    "282",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "5439",
+    "282",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "5476",
+    "282",
+    "conduct",
+    "excluded: grade 'حسن صحيح' is not exactly 'صحيح'"
+   ],
+   [
+    "5355",
+    "286",
+    "conduct",
+    "excluded: grade 'حسن' is not exactly 'صحيح'"
+   ],
+   [
+    "4299",
+    "290",
+    "conduct",
+    "excluded: grade 'حديث أبي قتادة: صحيح.\\nحديث ابن أبي أوفى: صحيح' is not exactly 'صحيح'"
+   ],
+   [
+    "5478",
+    "282",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "4300",
+    "290",
+    "conduct",
+    "excluded: grade 'حديث ابن عباس: صحيح.\\nحديث النزال: صحيح.\\nحديث عبد الله بن عمرو: حسن' is not exactly 'صحيح'"
+   ],
+   [
+    "5514",
+    "282",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "5545",
+    "282",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "5792",
+    "282",
+    "conduct",
+    "excluded: grade 'حسن' is not exactly 'صحيح'"
+   ],
+   [
+    "5796",
+    "282",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "5799",
+    "282",
+    "conduct",
+    "excluded: grade 'صحيح بشواهده' is not exactly 'صحيح'"
+   ],
+   [
+    "6985",
+    "287",
+    "conduct",
+    "excluded: grade 'حسن' is not exactly 'صحيح'"
+   ],
+   [
+    "5803",
+    "282",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "5866",
+    "282",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "5653",
+    "290",
+    "conduct",
+    "excluded: grade 'صحيحان' is not exactly 'صحيح'"
+   ],
+   [
+    "4308",
+    "282",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "4559",
+    "282",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "4717",
+    "282",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "5804",
+    "282",
+    "conduct",
+    "excluded: grade 'حسن' is not exactly 'صحيح'"
+   ],
+   [
+    "5812",
+    "282",
+    "conduct",
+    "excluded: grade 'إسناده حسن' is not exactly 'صحيح'"
+   ],
+   [
+    "3032",
+    "282",
+    "conduct",
+    "excluded: grade 'حسن' is not exactly 'صحيح'"
+   ],
+   [
+    "3074",
+    "282",
+    "conduct",
+    "excluded: grade 'صحيحان' is not exactly 'صحيح'"
+   ],
+   [
+    "3287",
+    "282",
+    "conduct",
+    "excluded: grade 'حسن لغيره' is not exactly 'صحيح'"
+   ],
+   [
+    "6372",
+    "290",
+    "conduct",
+    "excluded: grade 'قال النووي: بإسناد حسن' is not exactly 'صحيح'"
+   ],
+   [
+    "5432",
+    "282",
+    "conduct",
+    "excluded: grade 'حسن' is not exactly 'صحيح'"
+   ],
+   [
+    "5494",
+    "282",
+    "conduct",
+    "excluded: grade 'إسناده حسن' is not exactly 'صحيح'"
+   ],
+   [
+    "5500",
+    "282",
+    "conduct",
+    "excluded: grade 'حسن لغيره' is not exactly 'صحيح'"
+   ],
+   [
+    "5793",
+    "282",
+    "conduct",
+    "excluded: grade 'حسن لغيره' is not exactly 'صحيح'"
+   ],
+   [
+    "4706",
+    "282",
+    "conduct",
+    "admitted"
+   ],
+   [
+    "5377",
+    "134",
+    "worship",
+    "admitted"
+   ],
+   [
+    "3075",
+    "133",
+    "worship",
+    "admitted"
+   ],
+   [
+    "10910",
+    "134",
+    "worship",
+    "excluded: grade 'حسن' is not exactly 'صحيح'"
+   ],
+   [
+    "66212",
+    "91",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "65355",
+    "95",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "3272",
+    "81",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "66239",
+    "91",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "66397",
+    "95",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "3138",
+    "94",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "3480",
+    "92",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "3393",
+    "81",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "10101",
+    "92",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "3503",
+    "81",
+    "understanding_islam",
+    "admitted"
+   ],
+   [
+    "4239",
+    "81",
+    "understanding_islam",
+    "admitted"
+   ]
+  ],
+  "deferred_incomplete_translations": [
+   "2754",
+   "2935",
+   "2952",
+   "2954",
+   "2989",
+   "3015",
+   "3023",
+   "3036",
+   "3038",
+   "3042",
+   "3046",
+   "3047",
+   "3051",
+   "3064",
+   "3073",
+   "3081",
+   "3111",
+   "3112",
+   "3119",
+   "3125",
+   "3131",
+   "3260",
+   "3276",
+   "3351",
+   "3353",
+   "3356",
+   "3368",
+   "3369",
+   "3388",
+   "3413",
+   "3415",
+   "3436",
+   "3455",
+   "3456",
+   "3463",
+   "3478",
+   "3479",
+   "3493",
+   "3533",
+   "3535",
+   "3537",
+   "3556",
+   "3563",
+   "3565",
+   "3569",
+   "3572",
+   "3579",
+   "3580",
+   "3585",
+   "3621",
+   "3653",
+   "3688",
+   "3709",
+   "3728",
+   "3729",
+   "3730",
+   "3757",
+   "3758",
+   "3769",
+   "3770",
+   "3772",
+   "3775",
+   "3852",
+   "3853",
+   "3916",
+   "4182",
+   "4183",
+   "4209",
+   "4219",
+   "4247",
+   "4252",
+   "4290",
+   "4291",
+   "4294",
+   "4298",
+   "4301",
+   "4439",
+   "4449",
+   "4450",
+   "4459",
+   "4505",
+   "4507",
+   "4519",
+   "4522",
+   "4523",
+   "4524",
+   "4526",
+   "4530",
+   "4531",
+   "4533",
+   "4534",
+   "4541",
+   "4546",
+   "4547",
+   "4548",
+   "4719",
+   "4816",
+   "4829",
+   "4925",
+   "4927",
+   "4928",
+   "4940",
+   "4948",
+   "4952",
+   "4960",
+   "4966",
+   "5036",
+   "5204",
+   "5214",
+   "5218",
+   "5345",
+   "5349",
+   "5352",
+   "5384",
+   "5402",
+   "5440",
+   "5442",
+   "5446",
+   "5450",
+   "5451",
+   "5452",
+   "5453",
+   "5454",
+   "5651",
+   "5652",
+   "5659",
+   "5734",
+   "5735",
+   "5773",
+   "5776",
+   "5806",
+   "5810",
+   "5823",
+   "5834",
+   "5844",
+   "5846",
+   "5862",
+   "5880",
+   "5908",
+   "5911",
+   "5912",
+   "5933",
+   "5979",
+   "6005",
+   "6013",
+   "6029",
+   "6057",
+   "6141",
+   "6183",
+   "6213",
+   "6217",
+   "6218",
+   "6328",
+   "6405",
+   "6407",
+   "6764",
+   "6984",
+   "6986",
+   "6987",
+   "6988",
+   "8264",
+   "8272",
+   "8317",
+   "8318",
+   "8356",
+   "8359",
+   "8360",
+   "8361",
+   "8379",
+   "8380",
+   "8382",
+   "8383",
+   "8390",
+   "8391",
+   "8394",
+   "8395",
+   "8396",
+   "8397",
+   "8399",
+   "8414",
+   "8869",
+   "8873",
+   "8877",
+   "8878",
+   "8887",
+   "8910",
+   "8925",
+   "8927",
+   "8928",
+   "8947",
+   "8952",
+   "8953",
+   "8960",
+   "8961",
+   "8962",
+   "10012",
+   "10013",
+   "10033",
+   "10051",
+   "10102",
+   "10103",
+   "10111",
+   "10120",
+   "10121",
+   "10415",
+   "10543",
+   "10637",
+   "10643",
+   "10644",
+   "10645",
+   "10650",
+   "10652",
+   "10871",
+   "10880",
+   "10881",
+   "10884",
+   "10896",
+   "10898",
+   "11213"
+  ],
+  "dorar": {
+   "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+   "status": "not_verified"
+  },
+  "grade_distribution": {
+   "إسناده حسن": 3,
+   "إسناده صحيح": 1,
+   "حديث أبي ذر حسن.\nحديث قتادة صحيح.\nحديث ابن عباس حسن": 1,
+   "حديث أبي قتادة: صحيح.\nحديث ابن أبي أوفى: صحيح": 1,
+   "حديث ابن عباس: صحيح.\nحديث النزال: صحيح.\nحديث عبد الله بن عمرو: حسن": 1,
+   "حسن": 19,
+   "حسن بشواهده": 1,
+   "حسن صحيح": 1,
+   "حسن لغيره": 4,
+   "صحيح": 150,
+   "صحيح بشواهده": 3,
+   "صحيح بطرقه وشواهده": 1,
+   "صحيح بمجموع طرقه": 1,
+   "صحيح لغيره": 2,
+   "صحيحان": 2,
+   "صحيحة": 1,
+   "قال الترمذي: حديث حسن": 1,
+   "قال النووي: بإسناد حسن": 1
+  },
+  "hadeeth_ar_mismatch_rejected": [],
+  "maximum": 200,
+  "minimum": 100,
+  "missing_translations": [
+   {
+    "locale": "en",
+    "reason": "not listed in the record's translations",
+    "source_record_id": "66212"
+   },
+   {
+    "locale": "ur",
+    "reason": "not listed in the record's translations",
+    "source_record_id": "66212"
+   },
+   {
+    "locale": "zh-Hans",
+    "reason": "not listed in the record's translations",
+    "source_record_id": "66212"
+   },
+   {
+    "locale": "id",
+    "reason": "not listed in the record's translations",
+    "source_record_id": "66212"
+   },
+   {
+    "locale": "bn",
+    "reason": "not listed in the record's translations",
+    "source_record_id": "66212"
+   },
+   {
+    "locale": "fr",
+    "reason": "not listed in the record's translations",
+    "source_record_id": "66212"
+   },
+   {
+    "locale": "en",
+    "reason": "not listed in the record's translations",
+    "source_record_id": "65355"
+   },
+   {
+    "locale": "ur",
+    "reason": "not listed in the record's translations",
+    "source_record_id": "65355"
+   },
+   {
+    "locale": "zh-Hans",
+    "reason": "not listed in the record's translations",
+    "source_record_id": "65355"
+   },
+   {
+    "locale": "id",
+    "reason": "not listed in the record's translations",
+    "source_record_id": "65355"
+   },
+   {
+    "locale": "bn",
+    "reason": "not listed in the record's translations",
+    "source_record_id": "65355"
+   },
+   {
+    "locale": "fr",
+    "reason": "not listed in the record's translations",
+    "source_record_id": "65355"
+   },
+   {
+    "locale": "fr",
+    "reason": "not listed in the record's translations",
+    "source_record_id": "3272"
+   },
+   {
+    "locale": "en",
+    "reason": "not listed in the record's translations",
+    "source_record_id": "66239"
+   },
+   {
+    "locale": "ur",
+    "reason": "not listed in the record's translations",
+    "source_record_id": "66239"
+   },
+   {
+    "locale": "zh-Hans",
+    "reason": "not listed in the record's translations",
+    "source_record_id": "66239"
+   },
+   {
+    "locale": "id",
+    "reason": "not listed in the record's translations",
+    "source_record_id": "66239"
+   },
+   {
+    "locale": "bn",
+    "reason": "not listed in the record's translations",
+    "source_record_id": "66239"
+   },
+   {
+    "locale": "fr",
+    "reason": "not listed in the record's translations",
+    "source_record_id": "66239"
+   },
+   {
+    "locale": "en",
+    "reason": "not listed in the record's translations",
+    "source_record_id": "66397"
+   },
+   {
+    "locale": "ur",
+    "reason": "not listed in the record's translations",
+    "source_record_id": "66397"
+   },
+   {
+    "locale": "zh-Hans",
+    "reason": "not listed in the record's translations",
+    "source_record_id": "66397"
+   },
+   {
+    "locale": "id",
+    "reason": "not listed in the record's translations",
+    "source_record_id": "66397"
+   },
+   {
+    "locale": "bn",
+    "reason": "not listed in the record's translations",
+    "source_record_id": "66397"
+   },
+   {
+    "locale": "fr",
+    "reason": "not listed in the record's translations",
+    "source_record_id": "66397"
+   },
+   {
+    "locale": "fr",
+    "reason": "not listed in the record's translations",
+    "source_record_id": "3138"
+   },
+   {
+    "locale": "fr",
+    "reason": "not listed in the record's translations",
+    "source_record_id": "3480"
+   },
+   {
+    "locale": "zh-Hans",
+    "reason": "rejected translation response: translation field 'explanation' is missing or blank",
+    "source_record_id": "3393"
+   },
+   {
+    "locale": "fr",
+    "reason": "not listed in the record's translations",
+    "source_record_id": "10101"
+   },
+   {
+    "locale": "fr",
+    "reason": "not listed in the record's translations",
+    "source_record_id": "3503"
+   },
+   {
+    "locale": "zh-Hans",
+    "reason": "rejected translation response: translation field 'explanation' is missing or blank",
+    "source_record_id": "4239"
+   }
+  ],
+  "rationale": "Beginner-relevant HadeethEnc subcategories for people exploring Islam and new Muslims: what Islam, iman and ihsan are and the Prophet (understanding_islam); tawhid, prophethood, angels and qadar basics (belief); purification, prayer, fasting, zakat and remembrance (worship); good character, parents, speech, greetings and eating manners (conduct). Candidates are taken in the publisher's list order, interleaved across the categories of each topic, first-seen category wins for duplicates, records listed in all six Balligh translation languages are preferred, and only records whose Arabic grade field is exactly صحيح are admitted.",
+  "target": 150,
+  "topic_map": {
+   "133": "worship",
+   "134": "worship",
+   "136": "worship",
+   "137": "worship",
+   "271": "belief",
+   "273": "conduct",
+   "278": "worship",
+   "282": "conduct",
+   "286": "conduct",
+   "287": "conduct",
+   "290": "conduct",
+   "72": "belief",
+   "73": "belief",
+   "75": "belief",
+   "79": "belief",
+   "81": "understanding_islam",
+   "86": "belief",
+   "88": "understanding_islam",
+   "91": "understanding_islam",
+   "92": "understanding_islam",
+   "94": "understanding_islam",
+   "95": "understanding_islam"
+  },
+  "topic_quotas": {
+   "belief": 35,
+   "conduct": 40,
+   "understanding_islam": 30,
+   "worship": 45
+  },
+  "word_notes": {
+   "arabic_word_notes": 56,
+   "records_with_words_meanings": 29,
+   "translations_with_localized_words_meanings": 0
+  }
+ }
+}

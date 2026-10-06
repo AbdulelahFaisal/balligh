@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3649",
+ "source_content_sha256": "sha256:4a0771a1fa5229fa55bde6cc248b77e5d519aa9d4f5dff981c90d9c1899f3d24",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:23:14.990716+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 877,
+  "completion_tokens": 806,
+  "total_tokens": 1683,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 877
+ },
+ "latency_ms": 7775,
+ "units": [
+  {
+   "id": "title",
+   "text": "Sifat Wudu Nabi shallallahu 'alaihi wa sallam"
+  },
+  {
+   "id": "q0",
+   "text": "T: Saya mohon penjelasan tentang tata cara wudu dan salat berdasarkan apa yang sahih dari Nabi ﷺ; karena sangat dibutuhkan, semoga Allah membalas Anda dengan kebaikan?"
+  },
+  {
+   "id": "a0",
+   "text": "J: Segala puji bagi Allah Tuhan semesta alam, selawat dan salam semoga tercurah kepada Nabi kita Muhammad, kepada keluarga dan para sahabatnya. Amma ba'du:\nTelah sahih dari Nabi ﷺ apa yang menunjukkan bahwa beliau pada awal wudu membasuh kedua telapak tangannya tiga kali disertai niat wudu, dan membaca basmalah; karena itu yang disyariatkan, dan diriwayatkan dari beliau ﷺ melalui banyak jalur bahwa beliau bersabda: Tidak ada wudu bagi orang yang tidak menyebut nama Allah padanya.\nMaka disyariatkan bagi orang yang berwudu untuk menyebut nama Allah di awal wudu, dan sebagian ulama mewajibkan hal itu jika ingat. Jika dia lupa atau tidak tahu, maka tidak mengapa. Kemudian berkumur-kumur dan menghirup air ke hidung tiga kali, membasuh wajah tiga kali, lalu membasuh kedua tangan beserta siku tiga kali, dimulai dengan yang kanan lalu kiri, kemudian mengusap kepala dan kedua telinga satu kali, lalu membasuh kedua kaki beserta mata kaki tiga kali, dimulai dengan yang kanan."
+  },
+  {
+   "id": "a1",
+   "text": "Jika dia mencukupkan dengan satu kali atau dua kali, maka tidak mengapa; karena Nabi ﷺ berwudu satu kali-satu kali, dua kali-dua kali, dan tiga kali-tiga kali, dan terkadang membasuh sebagian anggota tubuhnya dua kali dan sebagian lainnya tiga kali. Hal itu menunjukkan bahwa dalam perkara ini ada kelapangan, segala puji bagi Allah, tetapi tiga kali lebih utama. Ini jika tidak terjadi buang air kecil atau besar. Jika terjadi sesuatu dari itu, maka dia memulai dengan istinja' (membersihkan kotoran) kemudian berwudu seperti yang disebutkan.\nAdapun kentut, tidur, menyentuh kemaluan, dan makan daging unta, semua itu tidak disyariatkan istinja', tetapi cukup wudu syar'i yang telah kami sebutkan. Setelah wudu, disyariatkan bagi mukmin dan mukminah untuk mengucapkan: Aku bersaksi bahwa tidak ada tuhan yang berhak disembah selain Allah semata, tidak ada sekutu bagi-Nya, dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya. Ya Allah, jadikanlah aku termasuk orang-orang yang bertobat, dan jadikanlah aku termasuk orang-orang yang bersuci, karena hal itu sahih dari Nabi ﷺ.\nDan disyariatkan bagi orang yang berwudu untuk salat dua rakaat, yang disebut: sunah wudu. Jika dia salat setelah wudu sunah rawatib, maka itu sudah mencukupi dari sunah wudu⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "Dari program Nur 'ala ad-Darb, kaset nomor (844), (Majmu' Fatawa wa Maqalat Syaikh Ibn Baz 10/98)."
+  }
+ ]
+}

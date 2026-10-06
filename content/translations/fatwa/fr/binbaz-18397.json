@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-18397",
+ "source_content_sha256": "sha256:5654b1d1bfd127e75eaa2e9e0ee3d81ea0baef2b38ade21fb856aadcb4a54bd2",
+ "locale": "fr",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:24:57.055177+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 803,
+  "completion_tokens": 852,
+  "total_tokens": 1655,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 803
+ },
+ "latency_ms": 7691,
+ "units": [
+  {
+   "id": "title",
+   "text": "Comment formuler l'intention (niyyah) pendant la nuit pour le jeûne"
+  },
+  {
+   "id": "q0",
+   "text": "Question :"
+  },
+  {
+   "id": "q1",
+   "text": "Éclairez-nous sur l'intention du jeûne. J'ai entendu un hadith dont le sens est : « Quiconque n'a pas formulé l'intention de jeûner pendant la nuit, son jeûne n'est pas valable. » Comment se fait la formulation de l'intention pendant la nuit ? Est-ce dans le cœur ou par la parole ? Quel est le jugement pour celui qui a oublié l'intention pendant la nuit et l'a formulée au moment du suhûr (repas pré-dawn) ? Le jeûne de celui qui s'est réveillé exactement à l'heure de l'adhan du fajr et n'a pas eu l'occasion de prendre le suhûr, mais s'est seulement rincé la bouche et a jeûné, est-il valable ? Cela est-il valable pour le Ramadan, le jeûne surérogatoire ou le jeûne votif ? Qu'Allah vous récompense en bien."
+  },
+  {
+   "id": "a0",
+   "text": "Réponse :"
+  },
+  {
+   "id": "a1",
+   "text": "Le sens du hadith est qu'il formule l'intention pendant la nuit, même s'il ne la formule que peu avant l'aube. S'il a formulé l'intention de jeûner le lendemain vers la fin de la nuit, au milieu de la nuit ou au début de la nuit, il a accompli l'intention. Cela s'applique au jeûne obligatoire."
+  },
+  {
+   "id": "a2",
+   "text": "Quant au jeûne surérogatoire, il n'est pas obligatoire de formuler l'intention pendant la nuit. S'il formule l'intention pendant la journée, avant de manger ou avant de faire quoi que ce soit qui rompt le jeûne, il n'y a pas de mal à formuler l'intention en cours de journée, car il est rapporté dans le Sahih de Muslim, d'après Aïcha (qu'Allah soit satisfait d'elle) : « Le Prophète (paix et salut d'Allah sur lui) entra chez elle un jour et dit : 'Avez-vous quelque chose ?' Elle répondit : 'Non.' Il dit : 'Alors je jeûne.' » Il jeûna donc à partir du milieu de la journée. Si une personne se réveille le matin sans avoir consommé aucun élément qui rompt le jeûne — ni nourriture, ni boisson, ni autre chose — puis formule l'intention de jeûner en cours de journée, il n'y a aucun inconvénient à cela, et le jeûne lui est compté à partir du moment où il a formulé l'intention. La récompense du jeûneur lui est inscrite à partir du moment où il a formulé l'intention. Cela concerne le jeûne surérogatoire."
+  },
+  {
+   "id": "a3",
+   "text": "En revanche, pour le Ramadan, les jeûnes votifs, les expiations et le rattrapage du Ramadan, il est indispensable de formuler l'intention pendant la nuit, car il est obligatoire de jeûner toute la journée, et cela ne se réalise qu'avec une intention qui précède le jour. Oui."
+  },
+  {
+   "id": "a4",
+   "text": "Présentateur : Qu'Allah vous récompense en bien."
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "answer": [
+  [
+   {
+    "kind": "strong",
+    "text": "الجواب:"
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "الحب والبغض لعمله؛ إن كان مؤمنًا؛ أحبه لإيمانه، وإن كان كافرًا؛ أبغضه لكفره، لا من أجل نسبه، ولا من أجل كونه أبيض أو أسود، لا. يحب لإيمانه وتقواه، وإن كان أقبح الناس صورة، ويبغض لكفره وضلاله، وإن كان أحسن الناس صورة، وإن كان أكثرهم مالًا."
+   }
+  ]
+ ],
+ "content_sha256": "sha256:6cf793844705de0d8d3f40834c85f06d79fb8c569cc4e942ed73ea655ae7e6c2",
+ "id": "binbaz-3446",
+ "language": "ar",
+ "notes": [],
+ "question": [
+  [
+   {
+    "kind": "strong",
+    "text": "السؤال:"
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "هل يكون الحب والبغض لنفس الشخص، أم لعمله؟"
+   }
+  ]
+ ],
+ "raw_sha256": "sha256:cbd8a3306699d4cc671b0f303dd20ec7ae6de135bfc72582bd071bcfa51b0d0f",
+ "reuse_basis": "user_confirmed_permission",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.fatwa/2",
+ "source": {
+  "edition": null,
+  "publisher": "binbaz.org.sa",
+  "publisher_name": "موقع الشيخ ابن باز",
+  "retrieved_at": "2026-10-06T03:52:37+00:00",
+  "series": "فتاوى الجامع الكبير",
+  "url": "https://binbaz.org.sa/fatwas/3446/%D8%A7%D9%84%D8%AD%D8%A8-%D9%88%D8%A7%D9%84%D8%A8%D8%BA%D8%B6-%D9%8A%D9%83%D9%88%D9%86-%D9%84%D8%B9%D9%85%D9%84-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5-%D9%84%D8%A7-%D9%84%D8%B0%D8%A7%D8%AA%D9%87"
+ },
+ "source_categories": [
+  {
+   "id": "208",
+   "label": "الربوبية والألوهية",
+   "url": "https://binbaz.org.sa/categories/objective/208"
+  }
+ ],
+ "source_record_id": "3446",
+ "title": "الحب والبغض يكون لعمل الشخص لا لذاته",
+ "topic": "belief",
+ "translations": {},
+ "type": "fatwa"
+}

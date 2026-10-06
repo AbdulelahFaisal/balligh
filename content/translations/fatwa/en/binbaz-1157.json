@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1157",
+ "source_content_sha256": "sha256:d0250bac18f4e28c6e2f7cf370e7703c68498393594c4783c3804fcf340a1851",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:30:41.289670+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 1286,
+  "completion_tokens": 1157,
+  "total_tokens": 2443,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 1286
+ },
+ "latency_ms": 10019,
+ "units": [
+  {
+   "id": "title",
+   "text": "Major Sins Affect the Servant’s Islam"
+  },
+  {
+   "id": "q0",
+   "text": "Question: What is the ruling on committing some sins, especially major ones? Does that affect the servant’s adherence to Islam?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer: Yes, it affects that. Committing major sins such as adultery, drinking alcohol, killing a person without right, consuming usury, backbiting, tale-bearing, and other sins affects one’s monotheism and belief in Allah and weakens it. However, a Muslim does not become a disbeliever by any of that as long as he does not deem it lawful, contrary to the Khawarij, who declare a Muslim a disbeliever for committing a sin such as adultery, theft, disobedience to parents, and other major sins even if he does not deem them lawful. This is a grave error from the Khawarij. Ahlus-Sunnah wal-Jama‘ah do not declare him a disbeliever for that nor do they deem him to abide in the Fire forever. Rather, they say he is deficient in faith and monotheism, but he does not commit major disbelief; rather there is deficiency and weakness in his faith.\nFor this reason, Allah prescribed for the adulterer the hadd punishment of flogging: if he is a virgin, he is flogged one hundred lashes and exiled for a year. Likewise, the drinker of intoxicants is flogged and not killed. Likewise, the thief has his hand cut off and is not killed. If adultery, drinking intoxicants, and theft necessitated major disbelief, they would be killed, because the Prophet ﷺ said: “Whoever changes his religion, kill him,” narrated by Imam al-Bukhari, may Allah have mercy on him, in his Sahih. This indicates that these sins are not apostasy; rather they weaken and diminish faith. For this reason, Allah prescribed disciplining them with these hadd punishments so that they may repent, return to their Lord, and refrain from what their Lord, glorified be He, has forbidden them.\nThe Mu‘tazilah said: The sinner is in a station between two stations, but he will abide in the Fire forever if he dies upon it. They contradicted Ahlus-Sunnah and agreed with the Khawarij in that, and both factions have strayed from the path.\nThe correct view is the first statement, which is the statement of Ahlus-Sunnah wal-Jama‘ah: that he is a sinner with weak faith, in great danger of Allah’s wrath and punishment, but he is not a disbeliever with major disbelief, which is apostasy from Islam, nor will he abide in the Fire forever like the disbelievers if he dies upon any of those sins. Rather, he is under Allah’s will: if He wills, He forgives him, and if He wills, He punishes him according to the sins upon which he died; then He brings him out of the Fire, and no one abides in it forever and ever except the disbelievers. Then, after the punishment that Allah has decreed for him passes, Allah brings him out of the Fire into Paradise. This is the statement of the people of truth, and this is what the reports from the Messenger of Allah ﷺ have been mass-transmitted about, contrary to the Khawarij and Mu‘tazilah. Allah says: ⟦Q1⟧ [an-Nisa:48]. Thus, He, glorified be He, has made that which is less than polytheism subject to His will.\nAs for the one who dies upon major polytheism, he will abide in the Fire forever, and Paradise is forbidden for him, because Allah, glorified be He, says: ⟦Q2⟧ [al-Ma’idah:72], and He, glorified be He, says: ⟦Q3⟧ [at-Tawbah:17]. The verses on this meaning are many.\nAs for the sinner, if he enters the Fire, he remains in it for as long as Allah wills, and he does not abide forever like the disbelievers, but his stay may be prolonged. This is a specific temporary abiding, not like the abiding of the disbelievers, as He, glorified be He, said in the verse of al-Furqan when He mentioned the polytheist, the murderer, and the adulterer: ⟦Q4⟧ [al-Furqan:68-69]. Thus, it is a temporary abiding that has an end.\nAs for the polytheist, his abiding is everlasting forever and ever. Therefore, He, glorified be He, said regarding the polytheists in Surah al-Baqarah: ⟦Q5⟧ [al-Baqarah:167], and He, glorified be He, said in Surah al-Ma’idah regarding the disbelievers: ⟦Q6⟧ [al-Ma’idah:37]⟦N7⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "(Majmu‘ Fatawa wa Maqalat ash-Shaykh Ibn Baz 5/338)"
+  }
+ ]
+}

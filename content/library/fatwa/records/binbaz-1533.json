@@ -1,0 +1,64 @@
+{
+ "answer": [
+  [
+   {
+    "kind": "strong",
+    "text": "الجواب:"
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "ما نعلم في التعانق أصلًا إلا عادة جرى عليها الناس، إنما المسنون الدعاء بالقبول إذا قابل أخاه، ودعا له بالقبول؛ فهذا من فعل السلف، أما المعانقة لأجل هذا الخصوص لا أعلم لها أصلًا، إنما هي عادة للناس."
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "فالأفضل المصافحة، ويكتفى بها عند اللقاء، يصافح أخاه، ويقول له: هنأك الله بهذا العيد، بارك الله لك في هذا العيد، أو تقبل الله منا ومنك، وما أشبه ذلك، لا بأس به."
+   }
+  ]
+ ],
+ "content_sha256": "sha256:bf4150f2e48cace2a1035dc85fb707833c3b9e73cc2431d60f17ce2ae729f5d6",
+ "id": "binbaz-1533",
+ "language": "ar",
+ "notes": [],
+ "question": [
+  [
+   {
+    "kind": "strong",
+    "text": "السؤال:"
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "نرى الناس في الأعياد يتعانقون، ولو لم يكن بعضهم قادمًا من سفر، وقد يكون الوقت الذي يفصل بينهم قصير، وقت الصلاة، ثم يتعانقون بعد صلاة العيد، نرجو بيان الحقيقة؟"
+   }
+  ]
+ ],
+ "raw_sha256": "sha256:a8eb08327e87ab074b631f5f28dce59c3cb62111bffd0025523b669037924b5c",
+ "reuse_basis": "user_confirmed_permission",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.fatwa/2",
+ "source": {
+  "edition": null,
+  "publisher": "binbaz.org.sa",
+  "publisher_name": "موقع الشيخ ابن باز",
+  "retrieved_at": "2026-10-06T03:52:46+00:00",
+  "series": "فتاوى الجامع الكبير",
+  "url": "https://binbaz.org.sa/fatwas/1533/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%86%D9%82%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A7%D8%B9%D9%8A%D8%A7%D8%AF"
+ },
+ "source_categories": [
+  {
+   "id": "228",
+   "label": "الآداب والأخلاق المحمودة",
+   "url": "https://binbaz.org.sa/categories/objective/228"
+  }
+ ],
+ "source_record_id": "1533",
+ "title": "حكم المعانقة في الأعياد",
+ "topic": "conduct",
+ "translations": {},
+ "type": "fatwa"
+}

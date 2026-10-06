@@ -1,0 +1,178 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:28ee7513f7cca1a0fe696bb17a777169a189df0c3028c425fad2fcde668421d7",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يُبيِّن النبي صلى الله عليه وسلم بأنَّه سيكون يوم القيامة على حوضه لينظُرَ مَن يأتي مِن أمَّته إلى الحوض، \nوسَيُؤخَذ ناسٌ بالقرب منه عليه الصَّلاة والسلام فيقول: يا رب منّي ومِن أُمَّتي، \nفيُقال: هل عَلِمْت ما عملوا بعد مفارقتهم إيّاك، والله ما زالوا يرجعون على أدبارِهم ويرتَدُّون عن دينِهم، فلا هم مِنك، ولا مِن أمَّتِك.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "رحمة النبي صلى الله عليه وسلم بأمته وحرصه عليهم.",
+  "خطورة مخالفة ما كان عليه النبي صلى الله عليه وسلم.",
+  "الحث على التمسك بسنة النبي صلى الله عليه وسلم."
+ ],
+ "id": "hadeethenc-65031",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (8/ 121) (6593)، صحيح مسلم (4/ 1793) (2292)، عمدة القاري (23/144)، البحر المحيط الثجاج (37/322).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=65031",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:30+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/65031"
+ },
+ "source_categories": [
+  {
+   "id": "63",
+   "label": "الإيمان باليوم الآخر"
+  },
+  {
+   "id": "85",
+   "label": "الحياة الآخرة"
+  },
+  {
+   "id": "94",
+   "label": "شعب الإيمان"
+  }
+ ],
+ "source_record_id": "65031",
+ "text": "عَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ رَضِيَ اللَّهُ عَنْهُمَا، قَالَتْ: قَالَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «إِنِّي عَلَى الحَوْضِ حَتَّى أَنْظُرَ مَنْ يَرِدُ عَلَيَّ مِنْكُمْ، وَسَيُؤْخَذُ نَاسٌ دُونِي، فَأَقُولُ: يَا رَبِّ مِنِّي وَمِنْ أُمَّتِي، فَيُقَالُ: هَلْ شَعَرْتَ مَا عَمِلُوا بَعْدَكَ، وَاللَّهِ مَا بَرِحُوا يَرْجِعُونَ عَلَى أَعْقَابِهِمْ».",
+ "title": "إني على الحوض حتى أنظر من يرد علي منكم، وسيؤخذ ناس دوني، فأقول: يا رب مني ومن أمتي",
+ "topic": "understanding_islam",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=65031",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:65487feff243ae3a24e5f9cf8df5b2a9cb67c15f9ca7bfc85395513a84207324",
+   "explanation": "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বর্ণনা করেছেন যে, কিয়ামাতের দিনে তার হাউযের কাছে তিনি উপনীত হবেন, যাতে তিনি তার উম্মাতের মধ্য হতে হাউযের কাছে আসা ব্যক্তিদেরকে দেখতে পান। এমতাবস্থায় নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের কাছে থাকা কিছু মানুষকে দূরে নিয়ে যাওয়া হবে। তখন তিনি বলবেন: হে আমার রব! (তারা) আমার লোক এবং আমার উম্মাত। তখন বলা হবে: তুমি কী জান যে,  তাদের থেকে তোমার পৃথক হওয়ার পরে কী আমল করেছিল? আল্লাহর কসম! তারা তাৎক্ষণিক তাদের পিছনে ফিরে গিয়েছিল, এবং দীন থেকে মুরতাদ হয়ে গিয়েছিল< সুতরাং তারা তোমার লোকও নয় আবার তারা তোমার উম্মাতও নয়।",
+   "grade": "সহীহ",
+   "hints": [
+    "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের উম্মাতের প্রতি দয়া ও তাদের (মুক্তির) প্রতি আগ্রহ।\r",
+    "হাদীসটিতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের সুন্নাতের বিরোধীতার ভয়াবহতা রয়েছে।\r",
+    "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের সুন্নাতকে আঁকড়ে ধরার প্রতি উৎসাহ দেওয়া হয়েছে।"
+   ],
+   "mapping": "same HadeethEnc record id 65031; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:07+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/65031",
+   "text": "আসমা বিনতু আবী বাকর রদিয়াল্লাহু ‘আনহুমা হতে বর্ণিত, তিনি বলেছেন: নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন: “আমি হাউযের কাছে উপস্থিত হব, এমনকি আমি তোমাদের মধ্য হতে আমার নিকটে আগত ব্যক্তিদেরকে দেখতে পাব আর তারপরই একদল মানুষকে দূরে সরিয়ে নেওয়া হবে। তখন আমি বলব: হে আমার রব! আমার লোক, আমার উম্মাতের অন্তর্ভুক্ত। তখন বলা হবে: তুমি কী অনুধাবন করতে পেরেছ যে, তারা তোমার পরে কী ধরণের আমল করেছে? আল্লাহর কসম, তারা তাদের পিছনের দিকে অতিদ্রুত ছিটকে পড়েছিল।”",
+   "title": "“আমি হাউযের কাছে উপস্থিত হব, এমনকি আমি তোমাদের মধ্য হতে আমার নিকটে আগত ব্যক্তিদেরকে দেখতে পাব আর তারপরই একদল মানুষকে দূরে সরিয়ে নেওয়া হবে। তখন আমি বলব: হে আমার রব! আমার লোক, আমার উম্মাতের অন্তর্ভুক্ত",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=65031",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:04e7d9dc0098adb08654a0be99c34ecec8332f8b2174d520d648cefe4dc5d42a",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) points out that he will be at his Cistern on the Day of Judgment to see those among his Ummah who will come to it. Some people will be held back close to the Prophet (may Allah's peace and blessings be upon him), who will say: My Lord, they belong to me and my Ummah. It will be said: Do you know what they did after you left them? By Allah, they quickly turned back upon their heels and abandoned their religion. So, they do not belong to you or to your Ummah.",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth shows the Prophet's mercy toward his Ummah and his care for them.\r",
+    "It points out the danger of departing from the Prophet's course.\r",
+    "It urges us to hold onto the Sunnah of the Prophet (may Allah's peace and blessings be upon him)."
+   ],
+   "mapping": "same HadeethEnc record id 65031; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:06+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/65031",
+   "text": "Asmā’ bint Abi Bakr (may Allah be pleased with her) reported: The Prophet (may Allah’s peace and blessings be upon him) said: \"I will be at the Cistern so that I see who among you will come to me. But some people will be barred from reaching me. Thereupon, I will say: 'O Lord, they belong to me and my Ummah.' It will be said: 'Do you know what they did after you? By Allah, they quickly turned back upon their heels.'\"",
+   "title": "I will be at the Cistern so that I see who among you will come to me. But some people will be barred from reaching me. Thereupon, I will say: 'O Lord, they belong to me and my Ummah",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=65031",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:36c7a4d9372b1ff6ca4158340758bb95fa2ccfa3bd01014e6ef79c94a558d05d",
+   "explanation": "Le Prophète (qu’Allah le couvre d’éloges et le préserve) explique qu'il sera, au Jour de la Résurrection, auprès de son Bassin afin de regarder qui de sa communauté y viendra. Des gens à sa proximité (qu’Allah le couvre d’éloges et le préserve) seront saisis et il dira : \"Ô Seigneur ! Ils sont de moi et de ma communauté !\" Il lui sera alors dit : \"As-tu eu connaissance de ce qu'ils ont fait après leur séparation d'avec toi ? Par Allah ! Ils n'ont pas cessé de revenir sur leurs talons !\" et d'apostasier de leur religion. Ils ne sont donc ni de toi, ni de ta communauté !",
+   "grade": "Authentique",
+   "hints": [
+    "La miséricorde du Prophète (qu’Allah le couvre d’éloges et le préserve) pour sa communauté et son grand souci à l'égard de celle-ci.\r",
+    "Le danger d'être en dissidence avec ce sur ce quoi était le Prophète (qu’Allah le couvre d’éloges et le préserve).\r",
+    "L'incitation à s'attacher à la Tradition du Prophète (qu’Allah le couvre d’éloges et le préserve)."
+   ],
+   "mapping": "same HadeethEnc record id 65031; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:07+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/65031",
+   "text": "Asmâ' la fille de Aboû Bakr (qu'Allah l'agrée, elle et son père) relate que le Prophète (qu’Allah le couvre d’éloges et le préserve) a dit : « Je serai certes près du Bassin afin de regarder qui de vous passe auprès de moi, des gens seront saisis à mon niveau et je dirai alors : \"Ô Seigneur ! Ils sont de moi et de ma communauté ! - On me dira : As-tu idée de ce qu'ils ont fait après toi ? Par Allah ! Ils n'ont pas cessé de revenir sur leurs talons !\" »",
+   "title": "Je serai certes près du Bassin afin de regarder qui de vous passe auprès de moi, des gens seront saisis à mon niveau et je dirai alors : \"Ô Seigneur ! Ils sont de moi et de ma communauté !",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=65031",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:c82367fd96c1a12ede39c0b966d18bf4aee642bae61d708d74835fa583af72dd",
+   "explanation": "Nabi ﷺ menjelaskan bahwa kelak di hari kiamat beliau akan berada di telaganya untuk melihat siapa di antara umatnya yang datang ke telaga tersebut. Ada sejumlah orang dijauhkan dan dilarang mendekati beliau ﷺ sehingga beliau berkata: Wahai Tuhanku, mereka itu golonganku dan termasuk umatku. Maka dikatakan: Apakah engkau mengetahui apa yang mereka lakukan setelah berpisah denganmu? Demi Allah, mereka senantiasa kembali ke belakang dan murtad dari agama mereka. Mereka bukan golonganmu dan bukan juga termasuk umatmu.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Kasih sayang dan perhatian Nabi ﷺ kepada umatnya.\r",
+    "2- Bahaya menyelisihi petunjuk Nabi ﷺ.\r",
+    "3- Anjuran untuk berpegang teguh dengan Sunnah Nabi ﷺ."
+   ],
+   "mapping": "same HadeethEnc record id 65031; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:06+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/65031",
+   "text": "Asmā` binti Abu Bakar -raḍiyallāhu 'anhumā- meriwayatkan, Nabi ﷺ bersabda, \"Sungguh aku berada di telaga agar dapat melihat siapa yang datang kepadaku di antara kalian. Akan tetapi, ada sejumlah orang yang dijauhkan dariku, sehingga aku mengatakan, 'Ya Tuhanku, mereka itu termasuk golonganku, termasuk umatku.' Maka dikatakan, 'Apakah engkau mengetahui apa yang mereka lakukan sepeninggalmu. Demi Allah, mereka terus-menerus berbalik ke belakang.'\"",
+   "title": "Sungguh aku berada di telaga agar dapat melihat siapa yang datang kepadaku di antara kalian. Akan tetapi, ada sejumlah orang yang dijauhkan dariku, sehingga aku mengatakan, 'Ya Tuhanku, mereka itu termasuk golonganku, termasuk umatku.'",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=65031",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:9fd4c6cf94aa2a1d429272c81ca13599e03fe278f6c022ce31693a01cd80edd0",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ وسلم بتا رہے ہيں کہ قیامت کے دن آپ اپنے حوض پر ہوں گے، تاکہ دیکھیں کہ آپ کی امت کے کون لوگ حوض پر آتے ہیں۔ اس دن کچھ لوگوں کو آپ علیہ الصلاۃ والسلام کو قریب آنے سے روک دیا جائے گا، تو آپ فرمائیں گے : اے میرے رب! یہ میرے لوگ اور میری امت کے افراد ہیں! چناں چہ آپ سے کہا جائے گا: کیا آپ کو پتہ ہے کہ آپ کے جانے کے بعد انہوں نے کون سے اعمال کیے؟ اللہ کی قسم! یہ مسلسل الٹے پاؤں لوٹتے رہے اور اپنے دین سے پھرتے رہے۔ نہ یہ آپ میں سے ہیں اور نہ یہ آپ کی امت کے افراد ہیں۔",
+   "grade": "صحيح",
+   "hints": [
+    "امت کے تئیں نبی صلی اللہ علیہ وسلم کی رحمت اور فکر مندی۔\r",
+    "اللہ کے نبی صلی اللہ علیہ وسلم کی سنت و طریقہ کی مخالفت کی سنگینی۔\r",
+    "اللہ کے نبی صلی اللہ علیہ وسلم کی سنت کو لازم پکڑنے کی ترغیب۔"
+   ],
+   "mapping": "same HadeethEnc record id 65031; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:06+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/65031",
+   "text": "اسما بنت ابو بکر رضی اللہ عنہما کہتی ہیں کہ اللہ کے نبی صلی اللہ علیہ و سلم نے فرمایا: \"میں حوض پر موجود ہوں گا اور دیکھوں گا کہ تم میں سے کون میرے پاس آتا ہے۔ پھر کچھ لوگوں کو مجھ سے الگ کر دیا جائے گا۔ میں کہوں گا : اے میرے رب! یہ تو میرے آدمی اور میری امت کے لوگ ہیں\"۔ مجھ سے کہا جائے گا : کیا آپ کو معلوم ہے کہ انہوں نے آپ کے بعد کیا کیا کام کیے تھے؟ اللہ کی قسم! یہ مسلسل الٹے پاؤں لوٹتے رہے\"۔",
+   "title": "میں حوض پر موجود ہوں گا اور دیکھوں گا کہ تم میں سے کون میرے پاس آتا ہے۔ پھر کچھ لوگوں کو مجھ سے الگ کر دیا جائے گا۔ میں کہوں گا : اے میرے رب! یہ تو میرے آدمی اور میری امت کے لوگ ہیں",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=65031",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:6295d0bbb776d2b0b5db3f613ff6f32f6e3e5c16ed5b309831238a1b78010395",
+   "explanation": "先知（愿主福安之）阐明，在复生日，他将在天池边等候他的民族中到达天池的人。 有些人将被阻止接近先知（愿主福安之），他说：主啊！我的，我的民族。 此时有人说：你可知道他们在你离开以后的所作所为吗？以安拉发誓，他们已转身背叛教门，他们不属于你，也不属于你的民族。",
+   "grade": "正确的",
+   "hints": [
+    "先知（愿主福安之）疼爱他的民族，渴望对他们的疼爱。\r",
+    "违背先知（愿主福安之）之道路的危险。\r",
+    "鼓励坚守先知（愿主福安之）之圣行。"
+   ],
+   "mapping": "same HadeethEnc record id 65031; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:06+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/65031",
+   "text": "据艾斯玛·宾特·艾布·伯克尔（愿主喜悦他俩）传述说：先知（愿主福安之）说： “的确我将站在天池旁，观看你们当中谁会到我这里，有些人将会被阻止不能与我相见。我说：主啊！我的，我的民族。此时有人说：你可知道在你之后他们的作为吗？以安拉发誓，他们已转身背叛。”",
+   "title": "“的确我将站在天池旁，观看你们当中谁会到我这里，有些人将会被阻止不能与我相见。我说：主啊！我的，我的民族",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

@@ -1,0 +1,166 @@
+{
+ "adapter_version": "g4b-adapter-1",
+ "honorific_map": {
+  "U+F049": "سبحانه وتعالى",
+  "U+F055": "عز وجل",
+  "U+F074": "رضي الله عنه",
+  "U+F079": "رضي الله عنهم"
+ },
+ "rejected": [
+  {
+   "collection": "fatwa",
+   "reason": "The complete page contains an elided follow-up question ('السؤال: ...؟') whose answer refers to an unnamed weak hadith; the unit cannot carry its own context and excerpting is not allowed.",
+   "record_id": "binbaz-3521"
+  },
+  {
+   "collection": "fatwa",
+   "reason": "Fits completely (30 words) but the answer is one repetitive sentence; too thin to plausibly support three cards and a question.",
+   "record_id": "binbaz-10220"
+  },
+  {
+   "collection": "hadith",
+   "reason": "Dorar comparison found a qualified wording variant (الذبحة/الذبح, وليرح/فليرح); not verification of this record.",
+   "record_id": "hadeethenc-4319"
+  },
+  {
+   "collection": "hadith",
+   "reason": "Wording corresponds but the reference differs (Muslim 1732 vs 1734); kept out until resolved.",
+   "record_id": "hadeethenc-5866"
+  },
+  {
+   "collection": "hadith",
+   "reason": "Corresponds to an al-Albani record that Dorar marks بنحوه; attribution to Muslim's exact wording stays qualified.",
+   "record_id": "hadeethenc-66521"
+  },
+  {
+   "collection": "quran",
+   "reason": "Quran text is never eligible for generic lesson generation.",
+   "record_id": "*"
+  },
+  {
+   "collection": "quran_translation",
+   "reason": "Quran translations are never eligible for generic lesson generation.",
+   "record_id": "*"
+  },
+  {
+   "collection": "book",
+   "reason": "Books (including the English book) are never eligible for generic lesson generation.",
+   "record_id": "*"
+  }
+ ],
+ "representation": "fatwa: question paragraphs, then answer paragraphs, each paragraph the exact concatenation of its run texts (noteref runs keep their visible marker such as [1]); paragraphs whose text is only whitespace are omitted; paragraphs are joined by a blank line (\\n\\n). If notes exist, a blank line, the line 'الحواشي:', then one line per note in source order: '[<note id>] ' followed by the exact concatenation of its run texts. hadith: the record text field only (Prophetic wording with its narrator preamble); explanation, hints, word meanings, attribution, grade and reference are metadata and never part of the text. In both, each of U+F049, U+F055, U+F074, U+F079 is replaced by exactly the mapped words (no added spaces); any other private-use character makes the unit ineligible. No other change, trimming or normalization is applied.",
+ "schema": "balligh.library.lesson-adapters/1",
+ "units": [
+  {
+   "adapter_version": "g4b-adapter-1",
+   "canonical_url": "https://binbaz.org.sa/fatwas/18975/%D9%85%D8%A7-%D9%85%D8%B9%D9%86%D9%89-%D8%A7%D9%84%D8%B4%D9%87%D8%A7%D8%AF%D8%AA%D9%8A%D9%86",
+   "collection": "fatwa",
+   "file": "records/binbaz-18975.json",
+   "file_sha256": "sha256:92f806dc0d086c0f7c6f3fdcdaa4eb47b34005c453c3ec2e7ce194ff96e6e4ca",
+   "id": "lib-fatwa-18975",
+   "included_fields": [
+    "question",
+    "answer",
+    "notes"
+   ],
+   "record_content_sha256": "sha256:e3ac7d234783a58714dc2cc452f55fdbd54ffc4d38a2b5a6d93a70074b4926ef",
+   "record_id": "binbaz-18975",
+   "segments": 7,
+   "selection_reason": "Complete question and answer (no notes); defines each testimony with a cited ayah; audience review: strong_beginner, reason supported.",
+   "text_sha256": "037a99df7e9cb2761cd1e1ce32c89447496f4053ac23a0e01680dd40cca94148",
+   "words": 156
+  },
+  {
+   "adapter_version": "g4b-adapter-1",
+   "canonical_url": "https://binbaz.org.sa/fatwas/3982/%D9%85%D8%A7-%D8%A7%D9%84%D8%AD%D8%AF-%D8%A7%D9%84%D8%A7%D8%AF%D9%86%D9%89-%D9%84%D9%84%D9%82%D9%8A%D8%A7%D9%85-%D8%A8%D9%88%D8%A7%D8%AC%D8%A8-%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%AF%D8%A9-%D9%84%D9%84%D9%87-%D8%AA%D8%B9%D8%A7%D9%84%D9%89",
+   "collection": "fatwa",
+   "file": "records/binbaz-3982.json",
+   "file_sha256": "sha256:e390f077de3032f4349a8ba636a76ae12114ff4d4fc389d509f8599a1e6a49c4",
+   "id": "lib-fatwa-3982",
+   "included_fields": [
+    "question",
+    "answer",
+    "notes"
+   ],
+   "record_content_sha256": "sha256:6441447dba6aafe3400479851f72e9ffa818f84e893007f7e0bb0563112484ef",
+   "record_id": "binbaz-3982",
+   "segments": 9,
+   "selection_reason": "Complete question and answer (no notes); states the minimum (obligations, avoiding prohibitions) and the three ranks; audience review: strong_beginner.",
+   "text_sha256": "2bb5c152ae9d9327ebbd95b7d352dbd75a4cda860507dd46d231b09290fb3ad1",
+   "words": 106
+  },
+  {
+   "adapter_version": "g4b-adapter-1",
+   "canonical_url": "https://binbaz.org.sa/fatwas/2774/%D8%AD%D9%83%D9%85-%D9%85%D9%86-%D9%86%D8%A7%D9%85-%D8%B9%D9%86-%D8%B5%D9%84%D8%A7%D8%A9-%D8%A7%D9%84%D8%B5%D8%A8%D8%AD-%D8%AD%D8%AA%D9%89-%D8%AE%D8%B1%D8%AC-%D9%88%D9%82%D8%AA%D9%87%D8%A7",
+   "collection": "fatwa",
+   "file": "records/binbaz-2774.json",
+   "file_sha256": "sha256:7f30d180044794af1cd1c87e812f758b1383d86273c8c1f368de14f3f920a7fe",
+   "id": "lib-fatwa-2774",
+   "included_fields": [
+    "question",
+    "answer",
+    "notes"
+   ],
+   "record_content_sha256": "sha256:1090ab0e4652540b7dd325e02f61896872db697b6a5bdbfc2a126cc3279fc8fa",
+   "record_id": "binbaz-2774",
+   "segments": 5,
+   "selection_reason": "Complete question and answer (no notes); gives the ruling with the quoted prophetic statement and event; audience review: strong_beginner.",
+   "text_sha256": "cd750f792020ba4cd8a4e021cd152607270a781e02afcf9fbee4729638011486",
+   "words": 90
+  },
+  {
+   "adapter_version": "g4b-adapter-1",
+   "canonical_url": "https://hadeethenc.com/ar/browse/hadith/10101",
+   "collection": "hadith",
+   "external_check": "Coordinator comparison 2026-10-06: Prophetic wording and companion attribution correspond to https://dorar.net/hadith/sharh/7256. Source comparison only, not a human scholarly review.",
+   "file": "records/hadeethenc-10101.json",
+   "file_sha256": "sha256:67ec616b5aa667650fbe73ea030ea645444e197d40a7c894bb7959a50dc26eba",
+   "id": "lib-hadith-10101",
+   "included_fields": [
+    "text"
+   ],
+   "record_content_sha256": "sha256:f40c2ae03b80f4e2f368bc8c1ef785089cd65ba2e9e493781091f91a99336a17",
+   "record_id": "hadeethenc-10101",
+   "segments": 1,
+   "selection_reason": "Coordinator Dorar comparison: wording and attribution correspond; complete short Prophetic text with narrator preamble.",
+   "text_sha256": "ba5f30eb61eceb15de669fd01f1865f50da77dd84f49aed97eeccc676a0a7bfb",
+   "words": 29
+  },
+  {
+   "adapter_version": "g4b-adapter-1",
+   "canonical_url": "https://hadeethenc.com/ar/browse/hadith/5351",
+   "collection": "hadith",
+   "external_check": "Coordinator comparison 2026-10-06: Prophetic wording and companion attribution correspond to https://dorar.net/h/SllC88XC. Source comparison only, not a human scholarly review.",
+   "file": "records/hadeethenc-5351.json",
+   "file_sha256": "sha256:1f48d3c9b76f7d31c53c47109280a3e550b7fb4cbb864d658ff19d2f4ac6a4ac",
+   "id": "lib-hadith-5351",
+   "included_fields": [
+    "text"
+   ],
+   "record_content_sha256": "sha256:ddbe78a9b9127280748aeaa397b98911a9ab31b0929582398781139e54b75a0f",
+   "record_id": "hadeethenc-5351",
+   "segments": 1,
+   "selection_reason": "Coordinator Dorar comparison: wording and attribution correspond; complete short Prophetic text with narrator preamble.",
+   "text_sha256": "9c04aaed5d7ba98624f7777fa0c48360b0d0a46e6aaa37651377565f4993a2b8",
+   "words": 24
+  },
+  {
+   "adapter_version": "g4b-adapter-1",
+   "canonical_url": "https://hadeethenc.com/ar/browse/hadith/65000",
+   "collection": "hadith",
+   "external_check": "Coordinator comparison 2026-10-06: Prophetic wording and companion attribution correspond to https://dorar.net/h/TCubdkk0. Source comparison only, not a human scholarly review.",
+   "file": "records/hadeethenc-65000.json",
+   "file_sha256": "sha256:43a1cd4c020b6295190c8c3a59e65c30fbb2f08355e637ad969a40e280a3590b",
+   "id": "lib-hadith-65000",
+   "included_fields": [
+    "text"
+   ],
+   "record_content_sha256": "sha256:c3da14120898b534ed44bbeb9e06b728b2a64cc187d7ac108d868df24c42fc05",
+   "record_id": "hadeethenc-65000",
+   "segments": 1,
+   "selection_reason": "Coordinator Dorar comparison: wording and attribution correspond; complete Prophetic text (five pillars) with narrator preamble.",
+   "text_sha256": "86dd9cf27136371b953f05f6e69706b025bced556a69655326adc422e9b2d334",
+   "words": 38
+  }
+ ]
+}

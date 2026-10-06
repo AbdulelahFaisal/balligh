@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2774",
+ "source_content_sha256": "sha256:1090ab0e4652540b7dd325e02f61896872db697b6a5bdbfc2a126cc3279fc8fa",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:23:52.649168+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 523,
+  "completion_tokens": 286,
+  "total_tokens": 809,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 523
+ },
+ "latency_ms": 3835,
+ "units": [
+  {
+   "id": "title",
+   "text": "关于睡过晨礼直到其时间结束的教法规定"
+  },
+  {
+   "id": "q0",
+   "text": "问题："
+  },
+  {
+   "id": "q1",
+   "text": "我睡过了晨礼，直到上午才醒来。我可以在醒来时补礼，还是要在其正常时间礼？"
+  },
+  {
+   "id": "a0",
+   "text": "回答："
+  },
+  {
+   "id": "a1",
+   "text": "如果一个人睡过了一拜，然后醒来，那么他应当在醒来时补礼，连同其圣行拜一起礼。因为先知ﷺ说：“谁睡过了一拜，或忘记了它，就应当在记起时礼它，除此之外没有其他罚赎。”"
+  },
+  {
+   "id": "a2",
+   "text": "先知ﷺ在某次战役或旅行中睡过了晨礼，直到太阳升起才醒来。他——愿主福安之——起身，命令比拉勒念宣礼，大家做了小净，礼了圣行拜，然后念成拜词，像在正常时间一样礼了拜——愿主福安之。"
+  }
+ ]
+}

@@ -1,0 +1,163 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:920a855afc3200963c7946c298d01d59d76a955c5f0f80ced92e6c5413904452",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "كانَ النبيُّ صلى الله عليه وسلم إذا أراد دُخولَ المكانِ الذي سيَقضي فيه حاجتَه، بَولًا أو غائِطًا، استعاذ بالله، والتجأ إليه أنْ يَقِيَه شَرَّ الشياطين من ذكور وإناث، \nوفُسِّر الخبث والخبائث أيضًا بالشر وبالنجاسات.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "استحباب هذا الدعاء عند إرادة دخول الخلاء.",
+  "جميع الخلق مفتقرون إلى ربهم في دفع ما يؤذيهم أو يضرهم في كل أحوالهم."
+ ],
+ "id": "hadeethenc-3150",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (1/ 40) (142).\nصحيح مسلم (1/ 283) (375).\nالإلمام بشرح عمدة الأحكام، لإسماعيل الأنصاري (1/ 23).\nتيسير العلام شرح عمدة الأحكام، للبسام (ص36).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3150",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:43+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3150"
+ },
+ "source_categories": [
+  {
+   "id": "435",
+   "label": "آداب قضاء الحاجة"
+  }
+ ],
+ "source_record_id": "3150",
+ "text": "عَنْ أَنَسٍ رضي الله عنه قَألَ: كَانَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ إِذَا دَخَلَ الخَلاَءَ قَالَ: «اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الخُبُثِ وَالخَبَائِثِ».",
+ "title": "كان النبي صلى الله عليه وسلم إذا دخل الخلاء قال: اللهم إني أعوذ بك من الخبث والخبائث",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3150",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:9ca03caaff9f57b0b9fcf08ba8d07c60a74c85f6d6ce05ec329ed328dfa96d56",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম যখন পেশাব বা পায়খানায় প্রবেশ করতে ইচ্ছা করতেন, তখন তিনি আল্লাহর কাছে আশ্রয় চাইতেন, যাতে আল্লাহ তাঁকে পুরুষ ও নারী শয়তানের অনিষ্টতা থেকে রক্ষা করেন। الخبث والخبائث এর ব্যাখ্যায় কেউ কেউ অকল্যাণ ও অপবিত্রতা বলেছেন।",
+   "grade": "সহীহ",
+   "hints": [
+    "পেশাব বা পায়খানায় প্রবেশের সময় এ দু‘আ পাঠ করা মুস্তাহাব।\r",
+    "সমস্ত সৃষ্টিজগৎ যাবতিয় ক্ষতি থেকে রক্ষা পেতে বা সকল পরিস্থিতিতে তার রক্ষার জন্যে তাদের রবের কাছে তারা মুখাপেক্ষী।"
+   ],
+   "mapping": "same HadeethEnc record id 3150; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:04+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3150",
+   "text": "আনাস রাদিয়াল্লাহু ‘আনহু হতে বর্ণিত, তিনি বলেছেন: রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম যখন টয়লেটে প্রবেশ করতেন, তখন বলতেন:\n“ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الخُبُثِ وَالخَبَائِثِ ”\n“হে আল্লাহ! আমি আপনার নিকট অপবিত্র জিনিস বা শয়তান নর-নারী থেকে  আশ্রয় গ্রহণ করছি।”",
+   "title": "রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম যখন টয়লেটে প্রবেশ করতেন, তখন বলতেন:\n“ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الخُبُثِ وَالخَبَائِثِ ”\n“হে আল্লাহ! আমি আপনার নিকট অপবিত্র জিনিস বা শয়তান নর-নারী থেকে  আশ্রয় গ্রহণ করছি।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3150",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:0d57a6078ef43bac480cb2ab86bda4a434507095b960c639331fc2de4a1932e4",
+   "explanation": "Whenever the Prophet (may Allah's peace and blessings be upon him) wanted to enter the place where he would relieve himself, either urinating or defecating, he would seek refuge with Allah and resort to Him to protect him from the evil of the male and female devils. The \"Khubuth\" and \"Khabā’ith\" were also said to mean evil and impurities.",
+   "grade": "Authentic",
+   "hints": [
+    "It is recommended to say this supplication upon entering the bathroom.\r",
+    "All creatures need their Lord in all of their affairs to ward off whatever could hurt or harm them."
+   ],
+   "mapping": "same HadeethEnc record id 3150; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:04+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3150",
+   "text": "Anas (may Allah be pleased with him) reported: The Prophet (may Allah's peace and blessings be upon him) used to say before entering the bathroom: \"Allāhumma inni a‘ūdhu bika min al-khubuth wa al-khabā’ith (O Allah, I seek refuge in You from the male and female devils).\"",
+   "title": "The Prophet (may Allah's peace and blessings be upon him) used to say before entering the bathroom: \"Allāhumma inni a‘ūdhu bika min al-khubuth wa al-khabā’ith (O Allah, I seek refuge in You from the male and female devils)",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=3150",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:c52966b096b28a62126cae7c35f5ff4aa7f81e461bc44cc23cb42fe44badf39d",
+   "explanation": "Lorsque le Prophète ﷺ voulait entrer aux toilettes pour y effectuer son besoin, que ce soit d'urines ou de selles, il cherchait refuge auprès d'Allah et se réfugiait auprès de Lui pour qu'Il le protège du mal des démons, mâles et femelles. Les démons mâles et femelles ont aussi été interprétés comme étant le mal et les impuretés.",
+   "grade": "Authentique",
+   "hints": [
+    "La recommandation de cette invocation au moment d'entrer aux toilettes.\r",
+    "L'ensemble des créatures sont dans le besoin de leur Seigneur pour repousser tout ce qui peut leur nuire ou leur porter préjudice dans toutes leurs situations."
+   ],
+   "mapping": "same HadeethEnc record id 3150; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:04+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/3150",
+   "text": "D'après Anas (qu'Allah l'agrée) qui a dit : « Lorsque le Prophète ﷺ entrait aux toilettes, il disait : « Ô Allah ! Certes, je me réfugie auprès de Toi contre les démons, mâles et femelles. »",
+   "title": "Lorsque le Prophète ﷺ entrait aux toilettes, il disait : « Ô Allah ! Certes, je me réfugie auprès de Toi contre les démons, mâles et femelles.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3150",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:70f0c87cd30889738397c4e08acc982923d2599b5a25e5a0720f1e0603ca43f9",
+   "explanation": "Nabi ﷺ biasa ketika akan masuk ke tempat buang hajat, baik buang air kecil maupun besar, beliau berlindung dan berdoa kepada Allah agar dilindungi dari keburukan setan laki-laki dan perempuan. \"Al-Khubuṡ\" dan \"al-khabā`iṡ\" juga ditafsirkan sebagai keburukan dan najis.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Anjuran membaca doa ini ketika akan masuk kamar kecil.\r",
+    "2- Semua makhluk bergantung kepada Tuhan mereka untuk mengusir semua yang menyakiti atau membahayakan mereka di semua keadaan."
+   ],
+   "mapping": "same HadeethEnc record id 3150; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:04+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3150",
+   "text": "Anas -raḍiyallāhu 'anhu- meriwayatkan, Nabi ﷺ biasa ketika masuk kamar kecil membaca, \"Allāhumma innī a'użu bika minal-khubuṡi wal-khabā`iṡ (Ya Allah, aku berlindung kepada-Mu dari setan laki-laki dan perempuan).\"",
+   "title": "Nabi ﷺ biasa ketika masuk kamar kecil membaca, \"Allāhumma innī a'użu bika minal-khubuṡi wal-khabā`iṡ (Ya Allah, aku berlindung kepada-Mu dari setan laki-laki dan perempuan)",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3150",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:649c5917d2dbb5369dbdf4b9475096394bf3c510f3180ce138bd90913b5c5142",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم جب اس جگہ میں داخل ہونے کا ارادہ کرتے، جہاں قضائے حاجت کرنی ہوتی، تو اللہ کی پناہ مانگتے اور دعا کرتے کہ آپ کو خبیث جنوں اور خبیث جنیوں کی برائی سے بچائے۔ اس دعا میں آئے ہوئے الفاظ \"الخبث\" اور \"الخبائث\" کی تفسیر برائی اور نجاستوں سے بھی کی گئی ہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "قضائے حاجت کی جگہ میں داخل ہونے کا ارادہ کرتے وقت یہ دعا پڑھنا مستحب ہے۔\r",
+    "ساری مخلوق تمام حالتوں میں اذیت ناک یا نقصان دہ چیزوں سے حفاظت کے لیے اپنے رب کے محتاج ہيں۔"
+   ],
+   "mapping": "same HadeethEnc record id 3150; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:04+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3150",
+   "text": "انس رضی اللہ عنہ سے روایت ہے، وہ کہتے ہیں: اللہ کے نبی صلی اللہ علیہ و سلم جب قضائے حاجت کی جگہ میں داخل ہوتے، تو یہ دعا پڑھتے : \"اے اللہ! میں ناپاک جنوں اور ناپاک جنیوں سے تیری پناہ مانگتا ہوں۔\"",
+   "title": "اللہ کے نبی صلی اللہ علیہ و سلم جب قضائے حاجت کی جگہ میں داخل ہوتے، تو یہ دعا پڑھتے : \"اے اللہ! میں ناپاک جنوں اور ناپاک جنیوں سے تیری پناہ مانگتا ہوں۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3150",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:a9e772bba82eafe9d03c0cca2fb1330aea0901988343a6995df6e1e5009cd4e2",
+   "explanation": "当先知（愿主福安之）打算入厕所时，无论是小便还是大便，他都会求助于安拉，并且请求安拉保护他免受男女魔鬼的伤害。 男女恶魔在这里也解释为“邪恶”和“污秽”。",
+   "grade": "正确的",
+   "hints": [
+    "当进入卫生间时做这个祈祷是嘉行。\r",
+    "所有的被造物在各种情况下都依赖于他们的主，要求庇护他们免遭伤害。"
+   ],
+   "mapping": "same HadeethEnc record id 3150; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:04+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3150",
+   "text": "据艾奈斯·本·马力克（愿主喜悦他）的传述：他说： 先知（愿主福安之）进入厕所时说：“安拉啊，我寻求你的庇护，免受男女恶魔之害。”",
+   "title": "先知（愿主福安之）进入厕所时说：“安拉啊，我寻求你的庇护，免受男女恶魔之害。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

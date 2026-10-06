@@ -1,0 +1,174 @@
+{
+ "attribution": "رواه البخاري",
+ "content_sha256": "sha256:25288d4cde67755e147e1f60984146978a04e515b7d9ab0ba9d2f93993ad5996",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "كان النبيُّ صلى الله عليه وسلم في بعض أحيانِه إذا توضأ غَسَلَ كلَّ عضو من أعضاء الوضوء مرتين، فيَغْسِل الوجهَ -ومنه المضمضة والاستنشاق- واليدين والرجلين مرتين.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "الواجب في غسل الأعضاء مرة واحدة وما زاد فهو مستحب.",
+  "مشروعية الوضوء مرتين مرتين في بعض الأحيان.",
+  "المشروع في مسح الرأس مرة واحدة."
+ ],
+ "id": "hadeethenc-65082",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (1/ 43) (158)، إرشاد الساري لشرح صحيح البخاري (1/ 244).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=65082",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:54:27+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/65082"
+ },
+ "source_categories": [
+  {
+   "id": "443",
+   "label": "سنن وآداب الوضوء"
+  },
+  {
+   "id": "444",
+   "label": "صفة الوضوء"
+  }
+ ],
+ "source_record_id": "65082",
+ "text": "عَنْ ‌عَبْدِ اللهِ بْنِ زَيْدٍ رضي الله عنه: أَنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ تَوَضَّأَ مَرَّتَيْنِ مَرَّتَيْنِ.",
+ "title": "أن النبي صلى الله عليه وسلم توضأ مرتين مرتين",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=65082",
+   "arabic_match": "exact",
+   "attribution": "এটি বুখারী বর্ণনা করেছেন।",
+   "content_sha256": "sha256:855ba69665b42b0563939b573c77b8757872ec287a2330d42e777194cddfef1e",
+   "explanation": "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কোন কোন সময় যখন উযূ করতেন, উযূর অঙ্গসমূহ হতে প্রত্যেক অঙ্গকে দু’বার করে ধুতেন—কুলি করা ও নাকে পানি দেওয়া চেহারার অন্তর্ভুক্ত—, এবং দুই হাত ও দুই পা দুইবার (ধুতেন)।",
+   "grade": "সহীহ",
+   "hints": [
+    "অঙ্গসমূহ ধোয়ার ক্ষেত্রে ওয়াজিব হলো একবার। আর যা বেশী হবে তা মুস্তাবাহ।\r",
+    "কখনো কখনো অঙ্গগুলো দুইবার দুইবার ধৌত করা বৈধ।\r",
+    "মাথা মাসেহ করার ক্ষেত্রে বৈধ হলো একবার।"
+   ],
+   "mapping": "same HadeethEnc record id 65082; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:29+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/65082",
+   "text": "আব্দুল্লাহ বিন জায়েদ রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত: নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উযূতে দু’বার দু’বার করে ধুয়েছেন।",
+   "title": "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উযূতে দু’বার দু’বার করে ধুয়েছেন।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=65082",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Al-Bukhāri",
+   "content_sha256": "sha256:c683c59bb0aa2fa681f8e55fa8d192c0f3c967462738c70664434510a8c9b81a",
+   "explanation": "When the Prophet (may Allah's peace and blessings be upon him) performed ablution, he would sometimes wash each body part of the parts of ablution once - washing the face - including rinsing the mouth and sniffing water into the nostrils - and the hands and feet twice.",
+   "grade": "Authentic",
+   "hints": [
+    "It is obligatory to wash the body parts of ablution at least once. However, more than once is recommended.\r",
+    "It is permissible to sometimes wash the body parts of ablution twice.\r",
+    "It is prescribed to wipe over the head once."
+   ],
+   "mapping": "same HadeethEnc record id 65082; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:29+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/65082",
+   "text": "‘Abdullāh ibn Zayd (may Allah be pleased with him) reported: The Prophet (may Allah’s peace and blessings be upon him) performed ablution by washing the body parts twice.",
+   "title": "The Prophet (may Allah’s peace and blessings be upon him) performed ablution by washing the body parts twice",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=65082",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî",
+   "content_sha256": "sha256:41ade4b88c10f6130cd6b46dd35a530f94a5a4d1b1add5b681720473f19e0fe1",
+   "explanation": "De temps à autre, lorsque le Prophète ﷺ accomplissait ses ablutions il lavait chacun de ses membres deux fois ; ainsi, il lavait son visage - notamment : le gargarisme et l'expulsion de l'eau du nez - ses mains et ses pieds deux fois.",
+   "grade": "Authentique",
+   "hints": [
+    "L'obligation concernant le lavage des membres est minimum d'une fois et si la personne ajoute à cela, ceci est alors recommandé.\r",
+    "La prescription des ablutions en deux fois de temps à autre.\r",
+    "Ce qui est prescrit concernant l'essuyage de la tête est d'une seule fois."
+   ],
+   "mapping": "same HadeethEnc record id 65082; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:30+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/65082",
+   "text": "D'après 'AbdaLlah ibn Zayd (qu'Allah l'agrée) qui a dit : Le Prophète ﷺ a effectué ses ablutions en deux fois.",
+   "title": "Le Prophète ﷺ a effectué ses ablutions en deux fois",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=65082",
+   "arabic_match": "exact",
+   "attribution": "HR. Bukhari",
+   "content_sha256": "sha256:125cd3de04e1fe4fef6619c29e8586d632d0461954091084c1ecc81d201cae21",
+   "explanation": "Di sebagian waktu ketika berwudu, Nabi ﷺ membasuh masing-masing anggota wudu sebanyak dua kali. Beliau membasuh wajah -termasuk kumur-kumur dan menghirup air ke dalam hidung-, tangan dan kaki sebanyak dua kali.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Yang wajib dalam membasuh anggota wudu ialah satu kali, selebihnya hukumnya mustahab.\r",
+    "2- Boleh berwudu dua kali-dua kali di sebagian waktu.\r",
+    "3- Yang disyariatkan dalam mengusap kepala ialah satu kali."
+   ],
+   "mapping": "same HadeethEnc record id 65082; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:29+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/65082",
+   "text": "Abdullah bin Zaid -raḍiyallāhu 'anhu- meriwayatkan, \"Nabi ﷺ berwudu dua kali-dua kali.\"",
+   "title": "Nabi ﷺ berwudu dua kali-dua kali",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=65082",
+   "arabic_match": "exact",
+   "attribution": "رواه البخاري",
+   "content_sha256": "sha256:42cf9d6f58cf0679757b4fe500b11501010c09eaa01aa3cae2bdc68f45f3a065",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم وضو کرتے وقت کبھی کبھی وضو کے اعضا کو دو دو بار دھویا کرتے تھے۔ چنانچہ اپنے چہرے کو دو بار دھوتے (جس میں کلی کرنا اور ناک میں پانی ڈال کر ناک جھاڑنا بھی شامل ہے) اور اپنے ہاتھوں اور پیروں کو بھی دو دو بار دھوتے۔",
+   "grade": "صحيح",
+   "hints": [
+    "اعضائے وضو کو ایک ایک بار دھونا واجب اور ایک سے زیادہ بار دھونا مستحب ہے۔\r",
+    "وضو کے اعضا کو کبھی کبھی دو دو بار بھی دھونا مشروع ہے۔\r",
+    "سر کا مسح ایک ہی بار کرنا مشروع ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 65082; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:29+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/65082",
+   "text": "عبد اللہ بن زید رضی اللہ عنہ سے روایت ہے کہ اللہ کے نبی صلی اللہ علیہ و سلم نے وضو کے اعضا کو دو دو بار دھویا۔",
+   "title": "اللہ کے نبی صلی اللہ علیہ و سلم نے وضو کے اعضا کو دو دو بار دھویا۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=65082",
+   "arabic_match": "exact",
+   "attribution": "布哈里辑录",
+   "content_sha256": "sha256:c47edcd0b53d9f704c7b8386bb6681fdbef8021d8130c0925a3134377594aa0b",
+   "explanation": "先知（愿主福安之）有些时候洗小净时，每个肢体洗两次，然后洗脸，其中包括漱口和呛鼻，及洗双手和双脚两次。",
+   "grade": "正确的",
+   "hints": [
+    "小净主命是洗一次，一次以上为可嘉。\r",
+    "有些时候洗小净洗每个肢体两次是教法认可的。\r",
+    "规定抹头一次。"
+   ],
+   "mapping": "same HadeethEnc record id 65082; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:29+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/65082",
+   "text": "据阿卜杜拉·本·宰德（愿主喜悦之）传述： 先知（愿主福安之）洗了小净各部位两次。",
+   "title": "先知（愿主福安之）洗了小净各部位两次。",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

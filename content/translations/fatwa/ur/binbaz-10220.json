@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-10220",
+ "source_content_sha256": "sha256:dce4f55a155bb5c4f05e91a806ba7417d619591a0752fd30b31ae33a29daf7a8",
+ "locale": "ur",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:26:26.968245+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 380,
+  "completion_tokens": 236,
+  "total_tokens": 616,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 380
+ },
+ "latency_ms": 3016,
+ "units": [
+  {
+   "id": "title",
+   "text": "جو شخص روزے کی نیت کرے اور سحری نہ کھائے اس کا حکم"
+  },
+  {
+   "id": "q0",
+   "text": "سوال:"
+  },
+  {
+   "id": "q1",
+   "text": "جو شخص طلوع آفتاب سے پہلے بیدار ہوا اور روزے کی نیت کی، کیا اس کا روزہ صحیح ہے؟"
+  },
+  {
+   "id": "a0",
+   "text": "جواب:"
+  },
+  {
+   "id": "a1",
+   "text": "ہاں، اس کا روزہ صحیح ہے، چاہے اس نے سحری نہ کھائی ہو، الحمد للہ، ہاں، اصل دارومدار نیت پر ہے، کیونکہ اعمال کا دارومدار نیتوں پر ہے، الحمد للہ، ہاں۔"
+  }
+ ]
+}

@@ -1,0 +1,163 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:8886284d412bca83b9b4ca5510f9d8081fe1abf6302470d1885430f56d881b90",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "أتَى رجُلٌ أعْمَى إلى النبيِّ صلى الله عليه وسلم، فقال: يا رسول الله ليس عندي مَن يُساعدني ويأخذ بيدي إلى المسجد، في الصلوات الخمس، يريد أنْ يُرخِّصَ له النبيُّ صلى الله عليه وسلم في ترك الجماعة، فَرَخَّصَ له، فلمَّا أَدْبَرَ ناداه وقال: هل تسمع الأذان بالصلاة؟ قال: نعم، قال: فأجب المُنادي بالصلاة.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "وجوب صلاة الجماعة؛ لأن الرُّخصة لا تكون إلا من شيء لازم وواجب.",
+  "قوله: «فأجب» لمن يسمع النداء يدل على وجوب صلاة الجماعة؛ لأن الأصل بالأمر للوجوب."
+ ],
+ "id": "hadeethenc-11287",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (1/ 452) (653).\nشرح النووي على مسلم (5/ 155).\nفتح ذي الجلال والإكرام، شرح بلوغ المرام، لابن عثيمين (2/ 254).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=11287",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:43+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/11287"
+ },
+ "source_categories": [
+  {
+   "id": "469",
+   "label": "فضل صلاة الجماعة وأحكامها"
+  }
+ ],
+ "source_record_id": "11287",
+ "text": "عن أبي هريرة رضي الله عنه قال: أَتَى النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ رَجُلٌ أَعْمَى، فَقَالَ: يَا رَسُولَ اللهِ، إِنَّهُ لَيْسَ لِي قَائِدٌ يَقُودُنِي إِلَى الْمَسْجِدِ، فَسَأَلَ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَنْ يُرَخِّصَ لَهُ فَيُصَلِّيَ فِي بَيْتِهِ، فَرَخَّصَ لَهُ، فَلَمَّا وَلَّى دَعَاهُ، فَقَالَ: «هَلْ تَسْمَعُ النِّدَاءَ بِالصَّلَاةِ؟» فَقَالَ: نَعَمْ، قَالَ: «فَأَجِبْ».",
+ "title": "هل تسمع النداء بالصلاة؟ فقال: نعم، قال: فأجب",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=11287",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:d710f2acf68297656cd64b172d688eba5f4c4111610478210c0571536cde4248",
+   "explanation": "এক অন্ধ লোক নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের কাছে এসে বললেন: হে আল্লাহর রাসূল! আমার এমন কোন লোক নেই, যে আমাকে হাত ধরে পাঁচ ওয়াক্ত সালাত আদায় করতে মসজিদে নিয়ে আসবে। তিনি রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের কাছে জামা‘আতে উপস্থিত না হওয়ার অনুমতি প্রার্থনা করলেন। তিনি তাকে অনুমতি দিলেন। লোকটি চলে যাচ্ছিল, তখন রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাকে ডাকলেন এবং জিজ্ঞাসা করলেন: তুমি কি সালাতের আযান শুনতে পাও? তিনি বললেন, হ্যাঁ। তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন: তবে তুমি আযানের সাড়া দিবে অর্থাৎ জামা’আতে উপস্থিত হবে।",
+   "grade": "সহীহ",
+   "hints": [
+    "জামা‘আতে সালাত আদায় করা ওয়াজিব। কেননা কোন জরুরী ও অত্যাবশ্যকীয় কাজের ক্ষেত্রেই রুখসত তথা অনুমতির প্রয়োজন হয়।\r",
+    "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের বাণী: «فأجب» “তবে তুমি (জামা’আতে) উপস্থিত হবে” এর দ্বারা প্রমাণ হয় যে, যে ব্যক্তি আযান শুনবে তার জন্য জামা‘আতে উপস্থিত হয়ে সালাত আদায় করা ওয়াজিব। কেননা আদেশসূচকের মূল হলো ওয়াজিব তথা অত্যাবশ্যকীয় হওয়া।"
+   ],
+   "mapping": "same HadeethEnc record id 11287; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:05+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/11287",
+   "text": "আবূ হুরায়রা রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, তিনি বলেন: এক অন্ধ ব্যক্তি নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের কাছে এসে বললেন: হে আল্লাহর রাসূল! আমার এমন কোন লোক নেই, যে আমাকে মসজিদে নিয়ে আসবে। তারপর তিনি রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের কাছে নিজ ঘরে সালাত আদায়ের অনুমতি চাইলেন। তিনি তাকে অনুমতি দিলেন। লোকটি চলে যাচ্ছিল, তখন রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাকে ডাকলেন এবং জিজ্ঞাসা করলেন: “তুমি কি সালাতের আযান শুনতে পাও?” তিনি বললেন, হ্যাঁ। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, “তবে তুমি (জামা’আতে) উপস্থিত হবে।”",
+   "title": "তুমি কি সালাতের আযান শুনতে পাও?” তিনি বললেন, হ্যাঁ। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, “তবে তুমি (জামা’আতে) উপস্থিত হবে।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=11287",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:1094d9e262f6d9703dc1c29e13e2c4955c4d25ad343037a83f74d362dbd609d6",
+   "explanation": "A blind man came to the Prophet (may Allah's peace and blessings be upon him) and said: O Messenger of Allah, I am blind and have no one to help me and take me by the hand to the mosque for the five prayers. He sought a dispensation from the Prophet (may Allah's peace and blessings be upon him) to not attend the prayer in congregation. As he gave him the dispensation and the man turned his back to leave, the Prophet (may Allah's peace and blessings be upon him) called him and asked: Do you hear the Adhān? The man replied in the affirmative. So, the Prophet (may Allah's peace and blessings be upon him) said: Then, respond to the caller to prayer.",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth highlights the obligation of the congregational prayer, for a dispensation can only be sought for something due and obligatory.\r",
+    "His words \"Then respond\" for those who hear the Adhān indicate that praying in congregation is obligatory, for a command basically denotes obligation."
+   ],
+   "mapping": "same HadeethEnc record id 11287; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:04+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/11287",
+   "text": "Abu Hurayrah (may Allah be pleased with him) reported: A blind man came to the Prophet (may Allah's peace and blessings be upon him) and said: \"O Messenger of Allah, I have no one to lead me to the mosque.\" He asked the Messenger of Allah (may Allah's peace and blessings be upon him) to allow him to pray at home, which the Messenger of Allah did. When the man was leaving, the Prophet (may Allah's peace and blessings be upon him) called him back and said: \"Do you hear the Adhān?\" He replied in the affirmative. Thereupon, he said: \"Then respond to it.\"",
+   "title": "Do you hear the Adhān?\" He replied in the affirmative. Thereupon, he said: \"Then respond to it",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=11287",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:ce5d701a3d54f1532d965e112f3fbb42181bf704ac6e444ef29b627ed68d61ee",
+   "explanation": "Un homme aveugle vint trouver le Prophète (qu'Allah le couvre d'éloges et le préserve) et dit : « Ô Messager d’Allah ! Je n’ai personne pour m'aider et me prendre la main jusqu'à la mosquée pour les cinq prières. » Il voulait que le Prophète (qu'Allah le couvre d'éloges et le préserve) lui permette d'être exempté de la prière en groupe et il lui en donna la permission. Lorsqu'il se retourna, il l’appela et lui demanda : « Est-ce que tu entends l’appel à la prière ? - Il répondit : Oui ! - Il dit : Alors, réponds à celui qui appelle à la prière. »",
+   "grade": "Authentique",
+   "hints": [
+    "L'obligation de la prière en groupe, parce que la permission ne peut concerner qu'une chose imposée et obligatoire.\r",
+    "Sa parole : \" Alors, réponds \" à quiconque entend l'appel prouve l'obligation de la prière en groupe ; parce que la base de l'ordre est l'obligation."
+   ],
+   "mapping": "same HadeethEnc record id 11287; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:05+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/11287",
+   "text": "Aboû Hourayrah (qu'Allah l'agrée) relate : « Une personne aveugle vint trouver le Prophète (qu'Allah le couvre d'éloges et le préserve) et dit : \" Ô Messager d’Allah ! Je n’ai pas de guide pour me conduire à la mosquée ! \" Il demanda alors au Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) de lui accorder la facilité de prier dans sa demeure et il la lui accorda. Au moment où l’aveugle tourna le dos pour s'en aller, il l’appela et lui demanda : «  Est-ce que tu entends l’appel à la prière ? - « Oui » dit l’aveugle. « Alors, réponds-y ! »",
+   "title": "Est-ce que tu entends l’appel à la prière ? - « Oui » dit l’aveugle. « Alors, réponds-y !",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=11287",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:83920cfbb84f2fd375a85b3705c5184ff6bf9fcf6e2352919dd9b2f58dfb0704",
+   "explanation": "Seorang laki-laki buta datang kepada Nabi ﷺ lalu berkata: Wahai Rasulullah, aku tidak mempunyai orang yang membantuku dan menuntunku ke masjid untuk mengerjakan salat lima waktu. Dia berharap Nabi ﷺ akan memberinya keringanan agar tidak mengikuti salat berjemaah. Beliau pun memberinya keringanan. Ketika orang itu pergi, beliau memanggilnya dan bertanya: Apakah engkau mendengar azan panggilan salat? Dia menjawab: Ya. Beliau bersabda: Jika demikian, penuhilah panggilan salat!",
+   "grade": "Sahih",
+   "hints": [
+    "1- Kewajiban salat berjemaah, karena rukhsah tidak berlaku kecuali pada sesuatu yang harus dan wajib.\r",
+    "2- Sabda beliau \"maka penuhilah\" kepada orang yang mendengar azan; menunjukkan wajibnya salat berjemaah karena hukum asal perintah menunjukkan hukum wajib."
+   ],
+   "mapping": "same HadeethEnc record id 11287; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:05+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/11287",
+   "text": "Abu Hurairah -raḍiyallāhu 'anhu- meriwayatkan, Seorang laki-laki buta datang kepada Nabi ﷺ lalu berkata, \"Wahai Rasulullah! Sesungguhnya aku tidak memiliki penuntun yang menuntunku pergi ke masjid.\" Lantas ia meminta kepada Rasulullah ﷺ untuk memberinya keringanan mengerjakan salat di rumah, sehingga beliau memberinya keringanan. Namun, ketika orang tersebut beranjak pergi, beliau memanggilnya kembali kemudian bertanya, \"Apakah engkau mendengar seruan azan?\" Ia menjawab, \"Ya.\" Beliau bersabda, \"Maka, penuhilah!\"",
+   "title": "Apakah engkau mendengar seruan azan?\" Ia menjawab, \"Ya.\" Beliau bersabda, \"Maka, penuhilah!",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=11287",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:16cc997a7b6bba39262cc7808024a9fe52235b5e21b786d088ed1bff94c84251",
+   "explanation": "ایک نابینا شخص اللہ کے نبی صلی اللہ علیہ و سلم کے پاس آیا اور کہنے لگا کہ اے اللہ کے رسول! میرے پاس کوئی ایسا شخص نہیں ہے، جو میری مدد کرے اور پانچ وقت کی فرض نمازوں کے لیے ہاتھ پکڑ کر مجھے مسجد لے آیا کرے۔ دراصل وہ چاہتا تھا کہ آپ اسے جماعت میں شامل نہ ہونے کی اجازت دے دیں۔ آپ نے اجازت دے بھی دی۔ لیکن جب وہ جانے لگا، تو اسے بلایا اور پوچھا کہ کیا تم نماز کی اذان سنتے ہو؟ جب انھوں نے ہاں میں جواب دیا، تو فرمایا : نماز کی ندا لگانے والے کی ندا قبول کرو۔",
+   "grade": "صحيح",
+   "hints": [
+    "جماعت کے ساتھ نماز پڑھنا واجب ہے، کیوں کہ رخصت کسی ایسی چیز میں دی جاتی ہے، جو واجب و لازم ہو۔\r",
+    "حدیث کے الفاظ \"(نماز کی ندا لگانے والے کی ندا) قبول کرو۔\" یہ بتاتے ہيں کہ اذان سننے والے پر جماعت کے ساتھ نماز پڑھنا واجب ہے، کیوں کہ امر (حکم) اصلا وجوب پر دلالت کرتا ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 11287; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:05+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/11287",
+   "text": "ابو ہریرہ رضی اللہ عنہ سے روایت ہے، وہ کہتے ہيں : اللہ کے نبی صلی اللہ علیہ و سلم کے پاس ایک نابینا شخص آیا اور کہنے لگا کہ اے اللہ کے رسول! میرے پاس کوئی رہبر نہيں ہے، جو مجھے مسجد لے آئے۔ چنانچہ اس نے اللہ کے رسول صلی اللہ علیہ و سلم سے گزارش کی کہ آپ اسے گھر میں نماز پڑھنے کی رخصت دے دیں۔ آپ نے اسے رخصت دے بھی دی۔ لیکن جب وہ جانے لگا، تو آپ نے اسے بلایا اور پوچھا : \"کیا تم نماز کی اذان سنتے ہو؟\" اس نے جواب دیا : جی، سنتا تو ہوں، تو آپ نے کہا : \"(نماز کی ندا لگانے والے کی ندا) قبول کرو۔\"",
+   "title": "کیا تم نماز کی اذان سنتے ہو؟\" اس نے جواب دیا : جی، سنتا تو ہوں، تو آپ نے کہا : \"(نماز کی ندا لگانے والے کی ندا) قبول کرو۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=11287",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:21463eca6ff2c7925bff8658e914970c60bc021fc08720a3e6ce30ac8c7cf1b1",
+   "explanation": "一位盲人来见先知（愿主福安之），他说：安拉的使者啊！我这儿没有人帮助我，五番拜功时带着我去清真寺。所他请求使者（愿主福安之）允许他放弃集体礼拜，然后使者便允许之，当盲人正要转身离开时，使者又叫住了他并问道：“你能听到喧礼吗？”他说：能。先知（愿主福安之）说：“你当应答喧礼员的号召。”",
+   "grade": "正确的",
+   "hints": [
+    "集体礼拜是必须的，因为“许可”必须要有不可抗拒的理由才能成立。\r",
+    "他说：“你当应答”，这句话针对所有听见喧礼之人，证明集体礼拜是必须的，因为“命令”的原理即是“必须”。"
+   ],
+   "mapping": "same HadeethEnc record id 11287; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:05+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/11287",
+   "text": "据艾布·胡莱勒（愿主喜悦之）传述说： 一位盲人来见先知（愿主福安之），他说：安拉的使者啊！没有人带着我去清真寺。所以他请求使者（愿主福安之）允许他在家里做礼拜。然后使者便允许之，当这位盲人转身离开时，先知（愿主福安之）叫住了他说道：“你能听见喧礼声吗？”他说：能。使者（愿主福安之）说：“当应答喧礼。”",
+   "title": "你能听见喧礼声吗？”他说：能。使者（愿主福安之）说：“当应答喧礼。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

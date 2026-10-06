@@ -1,0 +1,188 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:5c2bc6cde5591e6f1dfd4f39636e7125e43ef411ed568c4a5f28dab5fc4b8e04",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يُخبرُ النبيُّ صلى الله عليه وسلم أن الله تعالى أوجبَ علينا الإحسانَ في كل الأشياء، والإحسان: هو مراقبة الله على الدوام، في عبادته وفي بذل الخير وكف الأذى عن المخلوقين، ومن ذلك الإحسان في القتل والذبح.\nفالإحسان في القتل عند القصاص: بأن يختار أسهلَ الطُّرُق وأخَفَّها وأسرعَها زهوقًا للمقتول.\nوالإحسان في الذبح عند الذكاة: بأن يرفق بالبهيمة بإحداد الآلة، وألّا تُحَدَّ أمام الذبيحة وهي تنظر إليها، وألَّا تُذبح وهناك من الماشية ما ينظر إليها.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "رحمة الله عزّ وجل ولطفه بالخلق.",
+  "إحسان القتل والذبح بأن يكون على الوجه المشروع.",
+  "كمال الشريعة واشتمالها على كل خير، ومن ذلك رحمة الحيوان والرفق به.",
+  "النهي عن المُثْلة بالإنسان بعد قتله.",
+  "تحريم كل ما فيه تعذيب للحيوان."
+ ],
+ "id": "hadeethenc-66521",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (3/ 1548) (1955).\nالتحفة الربانية في شرح الأربعين حديثا النووية (ص38).\nشرح الأربعين النووية، لابن عثيمين (ص185).\nفتح القوي المتين في شرح الأربعين وتتمة الخمسين، للعباد (ص65).\nفتح الباري، لابن حجر (9/ 644).\nشرح النووي على مسلم (13/ 107).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=66521",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:49+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/66521"
+ },
+ "source_categories": [
+  {
+   "id": "215",
+   "label": "التذكية"
+  },
+  {
+   "id": "282",
+   "label": "الأخلاق الحميدة"
+  }
+ ],
+ "source_record_id": "66521",
+ "text": "عَنْ أَبِي يَعْلَى شَدَّادِ بْنِ أَوْسٍ رَضِيَ اللَّهُ عَنْهُ عَنْ رَسُولِ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «إِنَّ اللهَ كَتَبَ الْإِحْسَانَ عَلَى كُلِّ شَيْءٍ، فَإِذَا قَتَلْتُمْ فَأَحْسِنُوا القِتْلَةَ، وَإِذَا ذَبَحْتُمْ فَأَحْسِنُوا الذِّبْحَةَ، وَلْيُحِدَّ أَحَدُكُمْ شَفْرَتَهُ، وَلْيُرِحْ ذَبِيحَتَهُ».",
+ "title": "إن الله كتب الإحسان على كل شيء",
+ "topic": "conduct",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=66521",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:871c6cd8cfc87ff706e46e957215a2fc7a47fb5eda17941f0600c881444c789f",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম সংবাদ দিয়েছেন যে, আল্লাহ তা‘আলা প্রত্যেক বস্তুর প্রতি ইহসান করা আমাদের উপর ফরয করে দিয়েছেন। আর ইহসান হলো: ইবাদাতের সময় তার উপর আল্লাহর নিবিড় পর্যবেক্ষণ উপলব্দি করা এবং সৃষ্টিজীবের প্রতি কল্যাণ সাধন ও কষ্ট প্রতিহত করা। হত্যা ও জবাইয়ের সময় ইহসান করা এরই অন্তর্ভুক্ত।\r\n\r\nকিসাসের হত্যার সময় ইহসান: হত্যার জন্য সবচেয়ে সহজ, অতিশয় হালকা ও দ্রুত উপায়ে জান বের হওয়ার পদ্ধতি গ্রহণ করা।\r\n\r\nজবাই করার সময়ে ইহসান: ধারালো অস্ত্র ব্যবহার করে পশুর প্রতি সদয় হওয়া, যে পশুকে জবাই করা হবে তার সামনে এমনভাবে অস্ত্র ধার না করা, যা উক্ত পশু দেখতে পায় এবং অন্য পশুর সম্মুখেও কোন পশু জবাই করা অনুচিত যা উক্ত পশু দেখতে পায়।",
+   "grade": "সহীহ",
+   "hints": [
+    "সৃষ্টিজগতের প্রতি মহান আল্লাহর দয়া ও কোমলতা।\r",
+    "হত্যা ও জবাইর ক্ষেত্রে ইহসান হবে শরী‘আহ অনুমোদিত পদ্ধতিতে হত্যা ও জবাই করা।\r",
+    "সকল কল্যাণের প্রতি ইসলামী শরী‘আহর পরিপূর্ণতা ও ব্যাপকতার প্রমাণ। পশু-পাখির প্রতি রহম ও কোমলতা এর অন্যতম।\r",
+    "কোন ব্যক্তিকে হত্যার পরে তার দেহ থেকে অঙ্গবিকৃতি করা নিষেধ।\r",
+    "প্রাণীকে শাস্তি দেয় এমন সব কিছু হারাম।"
+   ],
+   "mapping": "same HadeethEnc record id 66521; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:13+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/66521",
+   "text": "আবূ ইয়ালা শাদ্দাদ ইবনু আওস রদিয়াল্লাহু ‘আনহু রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেন, তিনি বলেছেন: “নিশ্চয়ই আল্লাহ প্রতিটি বস্তুর প্রতি দয়া করাকে ফরয করে দিয়েছেন। সুতরাং তোমরা যখন হত্যা করবে,তখন সুন্দরভাবে হত্যা করো এবং যখন জবাই করবে, তখন ভালোভাবে জবাই করো। তোমাদের প্রত্যেকে যেন নিজ ছুরি ধারাল করে নেয় এবং যবেহকৃত পশুকে আরাম দেয়।”",
+   "title": "“নিশ্চয়ই আল্লাহ প্রতিটি বস্তুর প্রতি দয়া করাকে ফরয করে দিয়েছেন",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=66521",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:8e2953dfbd56ef0e65e66f781273be9153252680125f4408013199040229e3b1",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) informs that Allah Almighty prescribed ihsān (kindness/excellence) upon us in everything. Ihsān: It is constantly being heedful of Allah in worshipping Him, doing good, and abstaining from harming other created beings. An aspect of this is ihsān in killing and slaughtering.\r\n\r\nIhsān in killing, for legal retribution, is to choose the easiest method which causes the least suffering to the one being killed and the quickest in taking his life.\r\n\r\nIhsān in slaughtering animals is to show kindness toward the animal by sharpening the blade and not sharpening it while the animal is looking on, and not slaughtering an animal while another animal is looking.",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth shows Allah's mercy and kindness toward His creation.\r",
+    "Ihsān in killing and slaughtering is to do it in the manner prescribed by the Shariah.\r",
+    "The Shariah is perfect and comprises all forms of goodness, one of which is mercy and kindness toward animals.\r",
+    "It is prohibited to mutilate a person after killing him.\r",
+    "Anything that causes suffering to animals is prohibited."
+   ],
+   "mapping": "same HadeethEnc record id 66521; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:12+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/66521",
+   "text": "Abu Ya‘la Shaddād ibn Aws (may Allah be pleased with him) reported that the Messenger of Allah (ﷺ) said: \"Indeed, Allah has enjoined Ihsān (kindness/excellence) in all things. So, when you kill, kill with kindness; and when you slaughter, slaughter with kindness. Let one of you sharpen his blade and spare the animal he slaughters suffering.\"",
+   "title": "Indeed, Allah has enjoined Ihsān (kindness/excellence) in all things",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=66521",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:a24972e1b4ff008560a75b68c11494e4cc08efd43fd1a819ffabff560fa6bfde",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) informe qu'Allah, Exalté soit-Il, nous a rendu obligatoire la bienfaisance en toute chose. Et la bienfaisance, c'est d'avoir à l'esprit qu'Allah nous observe continuellement, qu'il s'agisse de l'adoration qu'on lui voue, du bien que l'on déploie et du fait de s'abstenir de causer toute forme de tort à l'égard des créatures. Et la bienfaisance dans la manière de tuer et de sacrifier en fait partie.\r\n\r\nAinsi donc, la bienfaisance dans le fait de tuer lors du talion, c'est de choisir la plus facile, la plus légère et la plus rapide des manières qui soit quant à la mise à mort de la personne à tuer.\r\n\r\nQuant à la bienfaisance dans le sacrifice au moment d'égorger, c'est le fait de se montrer doux envers la bête, d'aiguiser les outils sans le faire devant elle pendant qu'elle les regarde ; et c'est aussi le fait de ne pas l'égorger alors que d'autres bêtes la regardent.",
+   "grade": "Authentique",
+   "hints": [
+    "La miséricorde d'Allah, Exalté soit-Il, Sa bonté et Sa bienveillance envers les créatures.\r",
+    "La bienfaisance dans la manière de tuer et de sacrifier, à savoir que cela doit être effectué de la manière prescrite.\r",
+    "La perfection de la Législation et le fait qu'elle englobe tout bien ; y compris la miséricorde et la douceur envers les animaux.\r",
+    "L'interdiction de mutiler l'homme après l'avoir tué.\r",
+    "L'interdiction de tout ce qui constitue une torture pour l'animal."
+   ],
+   "mapping": "same HadeethEnc record id 66521; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:13+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/66521",
+   "text": "D’après Abû Ya‘la Shaddâd b. Aws — qu’Allah l’agrée —, d’après le Messager d’Allah ﷺ : « Allah a prescrit l’excellence (al‑iḥsân) en toute chose. Lorsque vous tuez, tuez de la meilleure manière ; et lorsque vous égorgez, égorgez de la meilleure manière ; que chacun aiguise sa lame et apaise sa bête. »",
+   "title": "Allah a prescrit l’excellence (al‑iḥsân) en toute chose",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=66521",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:85537017ee34cdff7c35b727a9188f2bb8d9b0900e1e496f889590c2777798f7",
+   "explanation": "Nabi ﷺ mengabarkan bahwa Allah Ta'ala telah mewajibkan berbuat ihsan pada segala sesuatu. Ihsan ialah menanamkan rasa selalu diawasi oleh Allah di dalam beribadah, memberikan kebaikan, dan tidak menyakiti makhluk lain, termasuk di dalamnya berbuat baik ketika membunuh dan menyembelih.\r\n\r\nBerbuat baik dalam membunuh pada saat kisas ialah dengan memilih cara paling mudah dan paling ringan serta yang paling cepat menghilangkan nyawa orang yang dibunuh.\r\n\r\nBerbuat baik dalam menyembelih pada saat penyembelihan ialah dengan bersikap lembut kepada hewan, yaitu dengan menajamkan alat penyembelih dan tidak menajamkannya di hadapan hewan yang akan disembelih sementara ia melihatnya. Demikian juga dengan tidak menyembelihnya sementara ada hewan lain yang melihatnya.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Besarnya rahmat dan kasih sayang Allah ﷻ kepada makhluk.\r",
+    "2- Berbuat baik ketika membunuh dan menyembelih ialah dengan mengerjakannya sesuai syariat.\r",
+    "3- Kesempurnaan dan kecakupan syariat Islam atas semua kebaikan, di antaranya kasih sayang dan sikap lembut kepada hewan.\r",
+    "4- Larangan memutilasi manusia setelah dibunuh.\r",
+    "5- Pengharaman semua tindakan yang mengandung penyiksaan terhadap hewan."
+   ],
+   "mapping": "same HadeethEnc record id 66521; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:13+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/66521",
+   "text": "Abu Ya'lā Syaddād bin Aus -raḍiyallāhu 'anhu- meriwayatkan dari Rasulullah ﷺ bahwa beliau bersabda, \"Sesungguhnya Allah telah mewajibkan berbuat ihsan (baik) terhadap segala sesuatu. Sebab itu, jika kalian membunuh, bunuhlah dengan cara yang baik, dan jika kalian menyembelih, maka sembelihlah dengan cara yang baik pula. Hendaklah seseorang di antara kalian menajamkan pisaunya dan menenangkan hewan sembelihannya.\"",
+   "title": "Sesungguhnya Allah telah mewajibkan berbuat ihsan (baik) terhadap segala sesuatu",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=66521",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:7404570c207ca0654328597ba880ecaf6ba8fc45880f91f45a95e96af308498d",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم بتا رہے ہیں کہ اللہ تعالی نے ہمارے اوپر تمام چیزوں میں احسان فرض کیا ہے۔ جب کہ احسان کا مطلب ہے ہمیشہ اللہ تعالی کا دھیان اپنے ذہن میں رکھنا۔ اس کی عبادت کرتے وقت اور بھلائی کرتے وقت اور لوگوں کی تکلیف دور کرتے وقت۔ قتل اور ذبح کرتے وقت احسان کرنا بھی اس میں داخل ہے۔\r\n\r\nکسی کو بطور قصاص قتل کرتے وقت احسان یہ ہے کہ قتل کا سب سے آسان، سب سے ہلکا اور سب سے تیز طریقہ اختیار کیا جائے۔\r\n\r\nجب کہ ذبح کرتے وقت احسان یہ ہے کہ جانور پر رحم کرتے ہوئے ہتھیار کو تیز کر لیا جائے، ہتھیار کو ذبیحے کی نظروں کے سامنے تیز نہ کیا جائے اور ایک جانور کے سامنے دوسرا جانور ذبح نہ کیا جائے۔",
+   "grade": "صحيح",
+   "hints": [
+    "مخلوق پر اللہ کا لطف و کرم۔\r",
+    "قتل اور ذبح کا بہتر طریقہ یہ ہے کہ ان دونوں کاموں کو شریعت کے بتائے ہوئے طریقے کے مطابق کیا جائے۔\r",
+    "اسلامی شریعت ایک مکمل شریعت ہے اور اس کے اندر ہر طرح کی بھلائی موجود ہے، جس کی ایک مثال جانور کے ساتھ رحم و کرم کا برتاؤ بھی ہے۔\r",
+    "قتل کے بعد انسان کے جسمانی اعضا کو کاٹنا (مثلہ) منع ہے۔\r",
+    "ہر وہ کام حرام ہے، جس میں جانور کو عذاب دینے کا پہلو پایا جائے۔"
+   ],
+   "mapping": "same HadeethEnc record id 66521; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:12+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/66521",
+   "text": "ابو یعلی شداد بن اوس رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: ”بے شک اللہ نے ہر کام کو اچھے طریقے سے کرنا ضروری قرار دیا ہے۔ لہٰذا جب تم قتل کرو تو اچھے طریقے سے قتل کرو اور جب جانور ذبح کرو تو اچھے طریقے سے ذبح کرو۔ تمہیں چاہیے کہ اپنی چھری تیز کر لو اور ذبح ہونے والے جانور کو آرام پہنچاؤ۔“",
+   "title": "”بے شک اللہ نے ہر کام کو اچھے طریقے سے کرنا ضروری قرار دیا ہے",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=66521",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:c3212964504f0461ed327c51eb66ea5eb660bc4832d2f4a8bd5e5f507a9ba330",
+   "explanation": "先知（愿主福安之）告知我们：伟大的真主规定我们要在一切事物中都要臻至至善，而至善的意思是：时刻敬畏安拉（似真主在时刻监察着仆人的一切），无论是在其功修、善举，还是在停止伤害其它被造物时，其中也包括在宰杀方面臻至至善。\r\n\r\n杀人偿命时的死刑方面，至善便是：为受刑者选择最简单、最轻、最快执行死刑的方式。\r\n\r\n在进行宰杀时的行善是用锋利的工具轻柔地对待牲畜，不要在牲畜面前显示宰杀工具，也不要在其他牲畜面前进行宰杀。",
+   "grade": "正确的",
+   "hints": [
+    "伟大真主的仁慈和对被造物的慈爱。\r",
+    "杀戮和宰杀的行善就是按照合法的方式进行。\r",
+    "教法的完美及其所包含的一切善良之事，其中包括对待动物的仁慈和关怀。\r",
+    "禁止在杀死一个人后残害他。\r",
+    "禁止一切对动物造成折磨的行为。"
+   ],
+   "mapping": "same HadeethEnc record id 66521; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:12+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/66521",
+   "text": "传自艾布·雅阿拉·沙达德·本·奥斯（愿安拉喜悦他），他传述安拉的使者（愿主福安之）说： “安拉确已在万事中规定了行善。你们战争厮杀时，当以善好的方式厮杀；你们若要宰牲，当以善好的方式宰牲。你们当中每一个人都应磨快自己的刀刃，让被宰之物快速死亡。”",
+   "title": "“安拉确已在万事中规定了行善。",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

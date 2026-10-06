@@ -1,0 +1,47 @@
+{
+ "attribution": "رواه أبو داود",
+ "content_sha256": "sha256:7f14cb875522c892592c45899db9066b45f579936a8d63a7eadd6375105629c7",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "قال النبي صلى الله عليه وسلم: عندما يزني الرجل يخرج منه الإيمان ولا يفارقه، بل يقف فوق رأسه كالظل، فإذا توقف وانتهى عن الزنى رجع إليه الإيمان، ويرجع ناقصًا عما كان قبل خروجه منه، فإن الإيمان ينقص بالمعصية كما يزيد بالطاعة، وهذا النفي للإيمان الواجب، ليس لأصل الإيمان ولا لكمال الإيمان.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "من زنى دخل في هذا الوعيد وخرج منه الإيمان حتى يقلع عنه، فيعود له الإيمان ناقصًا، حتى يتوب.",
+  "من اعتاد على الزنا فهو منذر بزوال الإيمان منه بالكلية."
+ ],
+ "id": "hadeethenc-66212",
+ "language": "ar",
+ "narrator": null,
+ "reference": "سنن أبي داود (7/ 76) (4690)، فتح الباري لابن حجر (12/ 61)، شرح سنن أبي داود لابن رسلان (18/ 219).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=66212",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:56:02+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/66212"
+ },
+ "source_categories": [
+  {
+   "id": "91",
+   "label": "معنى الإيمان"
+  }
+ ],
+ "source_record_id": "66212",
+ "text": "عَنْ أَبِي هُرَيْرَةَ، يَقُولُ: قَالَ رَسُولُ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «إِذَا زَنَى الرَّجُلُ خَرَجَ مِنْهُ الْإِيمَانُ، كَانَ عَلَيْهِ كَالظُّلَّةِ، فَإِذَا أَقْلَعَ رَجَعَ إِلَيْهِ الْإِيمَانُ».",
+ "title": "إذا زنى الرجل خرج منه الإيمان كان عليه كالظلة، فإذا أقلع رجع إليه الإيمان",
+ "topic": "understanding_islam",
+ "translations": {},
+ "type": "hadith",
+ "words_meanings": [
+  {
+   "meaning": " ترك.",
+   "word": "أقلع"
+  }
+ ],
+ "words_meanings_language": "ar"
+}

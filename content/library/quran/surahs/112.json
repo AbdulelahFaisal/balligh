@@ -1,0 +1,145 @@
+{
+ "ayah_count": 4,
+ "ayahs": [
+  {
+   "arabic": "قُلۡ هُوَ ٱللَّهُ أَحَدٌ",
+   "aya": 1,
+   "id": 6222,
+   "tafsir": {
+    "arabic_moyassar": "قل -أيها الرسول-: هو الله المتفرد بالألوهية والربوبية والأسماء والصفات، لا يشاركه أحد فيها."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "হে রাসূল! তুমি বলো: তিনিই আল্লাহ, এক-অদ্বিতীয়।"
+    },
+    "en": {
+     "footnotes": "[1] He is Alone, without a partner, indivisible and distinct from all else. The only true deity, unique in His essence, attributes, and actions.",
+     "text": "Say: “He is Allah, the One[1];"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Dis : « Allah est la seule et unique divinité."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Katakanlah (Muhammad), \"Dialah Allah, Yang Maha Esa."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "آپ کہہ دیجئے کہ وه اللہ تعالیٰ ایک (ہی) ہے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你说：他是安拉，是独一的；"
+    }
+   }
+  },
+  {
+   "arabic": "ٱللَّهُ ٱلصَّمَدُ",
+   "aya": 2,
+   "id": 6223,
+   "tafsir": {
+    "arabic_moyassar": "الله الذي كَمُل في صفات الشَّرَف والمجد والعظمة، الذي يقصده الخلائق في قضاء الحوائج والرغائب."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আল্লাহ কারো মুখাপেক্ষী নন, সকলেই তাঁর মুখাপেক্ষী।"
+    },
+    "en": {
+     "footnotes": "[2] He is absolute, perfect, complete, self-sufficient; the one eternally and constantly required and sought; all existence depend upon Him; all matters ultimately return to Him.",
+     "text": "Allah, the Eternal Refuge[2]."
+    },
+    "fr": {
+     "footnotes": "[1] Celui vers lequel se tournent toutes les créatures afin qu’Il réponde à leurs besoins.",
+     "text": "Allah est le Maître dont nul ne peut se passer[1]."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Allah tempat meminta segala sesuatu."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی سب اس کے محتاج ہیں، وہ کسی کا محتاج نہیں۔",
+     "text": "اللہ تعالیٰ بے نیاز ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "安拉是万物所仰赖的；"
+    }
+   }
+  },
+  {
+   "arabic": "لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ",
+   "aya": 3,
+   "id": 6224,
+   "tafsir": {
+    "arabic_moyassar": "ليس له ولد ولا والد ولا صاحبة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১) অর্থাৎ তাঁর কোন সন্তান নেই এবং তাঁর কোন পিতাও নেই।",
+     "text": "তিনি কাউকে জন্ম দেননি এবং তাঁকেও জন্ম দেয়া হয়নি।(১)"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "He neither begets nor is He begotten,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Il n’a pas engendré, ni été Lui-même engendré."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(Allah) tidak beranak dan tidak pula diperanakkan."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی نہ اس سے کوئی چیز نکلی ہے نہ وہ کسی چیز سے نکلا ہے۔",
+     "text": "نہ اس سے کوئی پیدا ہوا نہ وه کسی سے پیدا ہوا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他没有生产，也没有被生产；"
+    }
+   }
+  },
+  {
+   "arabic": "وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ",
+   "aya": 4,
+   "id": 6225,
+   "tafsir": {
+    "arabic_moyassar": "ولم يكن له مماثلا ولا مشابهًا أحد من خلقه، لا في أسمائه ولا في صفاته، ولا في أفعاله، تبارك وتعالى وتقدَّس."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর তাঁর সমতুল্য-সদৃশ কেউ নেই।"
+    },
+    "en": {
+     "footnotes": "[3] The Prophet (ﷺ) says that reading this surah (surat al-Ikhlās) equals reading one third of the Qur’an. [Al-Bukhāri and Muslim]",
+     "text": "and there is none comparable to Him.”[3]"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Et nul dans Sa création n’est à même de L’égaler. »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan tidak ada sesuatu yang setara dengan Dia.\""
+    },
+    "ur": {
+     "footnotes": "[1] اس کی ذات میں، نہ اس کی صفات میں اور نہ اس کے افعال میں۔ «لَيْسَ كَمِثْلِهِ شَيْءٌ» (الشورى:11) حدیث قدسی میں ہے کہ اللہ تعالیٰ فرماتا ہے: ”انسان مجھے گالی دیتا ہے یعنی میرے لئے اولاد ثابت کرتا ہے، حالانکہ میں ایک ہوں بےنیاز ہوں، میں نےکسی کو جنا ہے نہ کسی سے پیدا ہوا ہوں اور نہ کوئی میرا ہمسر ہے“۔ ( صحيح البخاري تفسير سورة قل هو الله أحد) اس سورت میں ان کا بھی رد ہوگیا جو متعدد خداوں کے قائل ہیں اور جو اللہ کے لئے اولاد ثابت کرتے ہیں اور جو اس کو دوسروں کا شریک گردانتے ہیں اور ان کا بھی جو سرے سے وجود باری تعالیٰ ہی کے قائل نہیں۔",
+     "text": "اور نہ کوئی اس کا ہمسر ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "没有任何物可以做他的匹敌。"
+    }
+   }
+  }
+ ],
+ "content_sha256": "sha256:e8cc9175ce0c24f21f9abb1cf59c3182de3fc16760e976c5f1b2bfd798d5459f",
+ "name_ar": "الإخلاص",
+ "number": 112,
+ "schema": "balligh.library.quran.surah/1"
+}

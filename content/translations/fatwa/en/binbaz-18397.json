@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-18397",
+ "source_content_sha256": "sha256:5654b1d1bfd127e75eaa2e9e0ee3d81ea0baef2b38ade21fb856aadcb4a54bd2",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:24:14.843885+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 803,
+  "completion_tokens": 649,
+  "total_tokens": 1452,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 803
+ },
+ "latency_ms": 6162,
+ "units": [
+  {
+   "id": "title",
+   "text": "How to make the intention for fasting at night"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "Please advise us about the intention for fasting. I heard a hadith whose meaning says: \"Whoever does not make the intention to fast at night, there is no fasting for him.\" So how is the intention made at night: in the heart or verbally? What is the ruling on someone who forgot the intention at night and made it at the time of suhoor? Is the fasting valid for someone who woke up exactly at the time of the Fajr adhan and did not have a chance for suhoor, but only rinsed his mouth and fasted? Is that valid if it is in Ramadan, voluntary fasting, or a vowed fast? May Allah reward you with good."
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "The meaning of the hadith is that he should intend at night, even if he does not intend except close to Fajr. Whenever he intends, it is true that he made the intention at night. So if he intends at the end of the night, in the middle of the night, or at the beginning of the night that he will fast tomorrow, then he has intended, and this all applies if it is an obligatory fast."
+  },
+  {
+   "id": "a2",
+   "text": "However, if the fast is voluntary, then it is not required to intend at night. If he intends during the day before eating, before doing anything that breaks the fast, there is no harm in intending during the day, because it is established in Sahih Muslim from Aisha, may Allah be pleased with her, that the Prophet ﷺ entered upon her one day and said: \"Do you have anything?\" She said: \"No.\" He said: \"Then I am fasting.\" So he fasted during the day, peace and blessings be upon him. Thus, if a person wakes up and has not done anything that breaks the fast—neither eating, nor drinking, nor anything else—and then intends to fast during the day, there is no harm in that, and the fast is written for him from the time he intended; the reward of the fasting person is written for him from the time he intended. This is for voluntary fasting."
+  },
+  {
+   "id": "a3",
+   "text": "As for Ramadan, vowed fasts, expiations, and making up missed days of Ramadan, the intention must be made at night, because it is obligatory to fast the entire day, and this can only be achieved with an intention that precedes the day. Yes."
+  },
+  {
+   "id": "a4",
+   "text": "Presenter: May Allah reward you with good. "
+  }
+ ]
+}

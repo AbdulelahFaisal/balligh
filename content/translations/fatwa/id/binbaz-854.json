@@ -1,0 +1,40 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-854",
+ "source_content_sha256": "sha256:0a8800750c460d83024d40a1bdd4c4a360ddbdce8039f1dcbbd5c7666b1c0efc",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:25:21.773848+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 645,
+  "completion_tokens": 506,
+  "total_tokens": 1151,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 645
+ },
+ "latency_ms": 5667,
+ "units": [
+  {
+   "id": "title",
+   "text": "Mengganti Nama Setelah Memeluk Islam"
+  },
+  {
+   "id": "q0",
+   "text": "T: Dari Abdul Aziz bin Abdullah bin Baz kepada saudara yang terhormat, H - M - L, semoga Allah memberinya taufik. Semoga keselamatan, rahmat Allah, dan berkah-Nya tercurah kepada Anda. Amma ba'du:\nIni adalah jawaban atas surat Anda yang mulia tertanggal 13/9/1409 H, yang berisi pertanyaan tentang hukum mengganti nama seseorang yang baru masuk Islam dari namanya yang lama menjadi nama Islami, dan apakah itu wajib atau tidak?"
+  },
+  {
+   "id": "a0",
+   "text": "J: Saya beritahukan kepada Anda bahwa tidak ada dalil syar'i yang mengharuskan wajibnya mengganti nama orang yang telah diberi petunjuk oleh Allah kepada Islam, kecuali jika ada sesuatu yang menuntut hal itu secara syariat, seperti menisbatkan penghambaan kepada selain Allah, seperti Abdul Masih dan semacamnya, atau namanya tidak disukai untuk dipakai dan ada yang lebih baik darinya, seperti Hazn diganti dengan Sahl, dan semacamnya dari nama-nama yang tidak disukai untuk dipakai. Akan tetapi, penggantian nama yang menghambakan diri kepada selain Allah hukumnya wajib, sedangkan selain itu termasuk dalam kategori dianjurkan dan lebih utama. Termasuk dalam bagian kedua adalah nama-nama yang terkenal dipakai oleh orang-orang Nasrani dan ketika didengar, orang mengira pemiliknya adalah seorang Nasrani, maka menggantinya sangat tepat.\nSemoga Allah memberikan taufik kepada semua kepada apa yang Dia cintai dan ridai, dan menganugerahkan kepada kami dan Anda pemahaman dalam agama dan keteguhan di atasnya. Semoga keselamatan, rahmat Allah, dan berkah-Nya tercurah kepada Anda.⟦N1⟧"
+  },
+  {
+   "id": "n0.0",
+   "text": "(Majmu' Fatawa wa Maqalat Syaikh Ibnu Baz: 4/153)"
+  }
+ ]
+}

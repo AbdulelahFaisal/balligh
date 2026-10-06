@@ -1,0 +1,167 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:9026a2af16ef55716390df196951667c7e0355249d3149c9754f2c84bd529127",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يُخبِرُ النبيُّ صلى الله عليه وسلم أنَّ الله تبارك وتعالى قال بأنه أغنى الشركاء عن الشرك، فهو الغني عن كل شيء، وأنَّ الإنسانَ إذا عَمِل عملًا من الطاعات وجَعَلَه لله ولغير الله؛ تَركَه اللهُ ولم يقبلْه منه، وردَّه على صاحبِه؛ \nفيجبُ إخلاصُ العمل لله تعالى؛ لأنه سبحانه لا يَقبل إلا ما كان خالصًا لوجهِه الكريم.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "التحذير من الشرك بجميع أشكاله، وأنه مانعٌ من قبول العمل.",
+  "استشعار غنى الله وعظمته مما يعين على الإخلاص في العمل."
+ ],
+ "id": "hadeethenc-3342",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (4/ 2289) (2985).\nشرح النووي على مسلم (18/ 115).\nالملخص في شرح كتاب التوحيد، لصالح الفوزان (ص287).\nالجديد في شرح كتاب التوحيد، لمحمد القرعاوي (ص325).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3342",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:33+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3342"
+ },
+ "source_categories": [
+  {
+   "id": "73",
+   "label": "توحيد الألوهية"
+  },
+  {
+   "id": "314",
+   "label": "أعمال القلوب"
+  }
+ ],
+ "source_record_id": "3342",
+ "text": "عن أبي هريرة رضي الله عنه قال: قال رسول الله صلى الله عليه وسلم: «قَالَ اللهُ تَبَارَكَ وَتَعَالَى: أَنَا أَغْنَى الشُّرَكَاءِ عَنِ الشِّرْكِ، مَنْ عَمِلَ عَمَلًا أَشْرَكَ فِيهِ مَعِي غَيْرِي تَرَكْتُهُ وَشِرْكَهُ».",
+ "title": "أنا أغنى الشركاء عن الشرك، من عمل عملا أشرك فيه معي غيري تركته وشركه",
+ "topic": "belief",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3342",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:a2854146adb464ce233c5d5d5c87fdd1446df51336523063fe05d1ac3012f028",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম এ হাদীসে বর্ণনা করেছেন যে, আল্লাহ তাবারাকা ওয়া তা‘আলা বলেছেন: তিনি অংশীদারদের চেয়ে অংশীদারিত্ব [শির্ক] থেকে অধিক অমুখাপেক্ষী। তিনি সবকিছু থেকেই অমুখাপেক্ষী। মানুষ যখন কোন আনুগত্যের(নেকীর) কাজ করে এবং তাতে যদি সে আল্লাহ ও আল্লাহ ব্যতীত অন্য কারো উদ্দেশ্য করে, তাহলে আল্লাহ তা বর্জন করেন, তিনি তার এ আমল কবুল করেন না এবং তিনি তা আমলকারীর দিকে ফিরিয়ে দেন। সুতরাং একমাত্র আল্লাহর সন্তুষ্টির উদ্দেশ্যে আমল করা ফরয; কেননা আল্লাহ সুবহানাহু ওয়া তা‘আলা একমাত্র তাঁর সম্মানিত চেহারার উদ্দেশ্যে কৃত আমলসমূহ কবুল করেন।",
+   "grade": "সহীহ",
+   "hints": [
+    "শিরকের সকল প্রকারের থেকে সতর্ক করা হয়েছে এবং এটি আমল কবুল না হওয়ার কারণ।\r",
+    "আল্লাহর অমুখাপেক্ষিতা ও তাঁর বড়ত্ব অনুভব করা, যা আমলের ক্ষেত্রে ইখলাস আনায়ন করতে সাহায্য করে।"
+   ],
+   "mapping": "same HadeethEnc record id 3342; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:20+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3342",
+   "text": "আবূ হুরাইরা রদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, তিনি বলেন: রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম বলেছেন: “আল্লাহ তাবারাকা ওয়া তা‘আলা বলেন, আমি অংশীদারদের চেয়ে অংশীদারিত্ব [শির্ক] থেকে অধিক অমুখাপেক্ষী। কেউ যদি এমন কাজ করে, যাতে সে আমার সঙ্গে অন্য কাউকে অংশীদার স্থাপন করে, তাহলে আমি তাকে তার অংশীদারিত্ব [শির্ক] সহ বর্জন করে থাকি।’’ [1]",
+   "title": "আমি অংশীদারদের চেয়ে অংশীদারিত্ব [শির্ক] থেকে অধিক অমুখাপেক্ষী। কেউ যদি এমন কাজ করে, যাতে সে আমার সঙ্গে অন্য কাউকে অংশীদার স্থাপন করে, তাহলে আমি তাকে তার অংশীদারিত্ব [শির্ক] সহ বর্জন করে থাকি",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3342",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:33cb6a9362900dc7fbb4ce98f90d50e1c5ff6b0332809fbeec702ddc98f208a2",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) informs that Allah Almighty said: I am the One Who is most free from want of partners. He is Self-Sufficient beyond the need for anything; and if a person performs any good deed and devotes it to Allah and others, Allah discards this deed and does not accept it from him, and He turns it back to him. So, we should make our deeds sincerely devoted to Allah Almighty, for He only accepts what is done purely for His sake.",
+   "grade": "Authentic",
+   "hints": [
+    "This serves as a warning about polytheism in all its forms and means that it prevents virtuous deeds from being accepted.\r",
+    "Our sense of Allah's self-sufficiency and greatness helps us do honorable deeds with sincerity to Him."
+   ],
+   "mapping": "same HadeethEnc record id 3342; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:19+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3342",
+   "text": "Abu Hurayrah (may Allah be pleased with him) reported: The Messenger of Allah (may Allah's peace and blessings be upon him) said: \"Allah Almighty said: 'I am the One Who is most free from want of partners. So, he who does something for the sake of someone else beside Me, I discard him and his polytheism.'\"",
+   "title": "I am the One Who is most free from want of partners. So, he who does something for the sake of someone else beside Me, I discard him and his polytheism.'",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=3342",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:9e19e798e23cc6b5ef1aad502d4b8b1c4b01d72fc3f149788d9c63547e47c724",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) informe qu'Allah, Béni et Exalté soit-Il, a dit être Celui qui se passe le plus qu'on Lui donne des associés. Il est en effet le Riche, Celui qui se passe de toute chose ; et lorsque l'homme accomplit un acte d'obéissance, le vouant à Allah et à autre qu'Allah [en même temps], Allah le délaisse alors, lui et son œuvre, et ne l'accepte pas ; elle lui est plutôt renvoyée. La sincérité, lorsque l'on œuvre pour Allah, Exalté soit-Il, est une obligation. Ceci, car Il n'accepte (Gloire et Pureté à Lui) que ce qui est sincèrement accompli pour Son noble Visage.",
+   "grade": "Authentique",
+   "hints": [
+    "La mise en garde contre le polythéisme sous tous ses aspects et le fait que celui-ci empêche l'acceptation de l'œuvre accomplie.\r",
+    "Le fait de ressentir la richesse d'Allah et Sa grandeur fait partie de ce qui aide à être sincère dans l'œuvre."
+   ],
+   "mapping": "same HadeethEnc record id 3342; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:20+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/3342",
+   "text": "Aboû Hourayrah (qu'Allah l'agrée) relate que Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) a dit : \"Allah, Béni et Exalté soit-Il, a dit : \"Je suis Celui qui Se passe le plus qu'on Lui donne des associés ! Quiconque accomplit une action dans laquelle il M’associe qui ou quoi que ce soit, Je l’abandonne lui et son  son association !\"",
+   "title": "Je suis Celui qui Se passe le plus qu'on Lui donne des associés ! Quiconque accomplit une action dans laquelle il M’associe qui ou quoi que ce soit, Je l’abandonne lui et son  son association !",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3342",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:f166b5d86ba16de98de55d91a4381d03a05320edb894a89045d72f13aea8b79a",
+   "explanation": "Nabi ﷺ mengabarkan bahwa Allah -Tabāraka wa Ta'ālā- berfirman, bahwa Dia Zat yang paling tidak butuh kepada sekutu. Dia tidak butuh kepada segala sesuatu. Ketika seseorang mengerjakan suatu amal ketaatan dan ia menjadikannya untuk Allah dan selain Allah, niscaya Allah akan meninggalkannya dan tidak menerimanya serta amalannya tertolak. Seseorang wajib memurnikan amal kepada Allah Ta'ala, karena Allah tidak menerima kecuali amal yang murni demi wajah-Nya yang Maha Mulia.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Larangan melakukan kesyirikan dalam bentuk apapun, dan kesyirikan merupakan penghalang diterimanya amal.\r",
+    "2- Menghadirkan kemahakayaan Allah serta keagungan-Nya termasuk tindakan yang akan membantu keikhlasan dalam beramal."
+   ],
+   "mapping": "same HadeethEnc record id 3342; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:19+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3342",
+   "text": "Abu Hurairah -raḍiyallāhu 'anhu- meriwayatkan, bahwasanya Rasulullah ﷺ bersabda, Allah berfirman, \"Aku adalah Zat yang paling tidak butuh kepada sekutu. Siapa yang mengerjakan amalan yang di dalamnya dia menyekutukan-Ku dengan yang lain, maka Aku tinggalkan ia bersama perbuatan syiriknya itu.\"",
+   "title": "Aku adalah Zat yang paling tidak butuh kepada sekutu. Siapa yang mengerjakan amalan yang di dalamnya dia menyekutukan-Ku dengan yang lain, maka Aku tinggalkan ia bersama perbuatan syiriknya itu",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3342",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:5c740b7bec475b4a874b8eeb1d590de1134931c4844be3ea7dfe60e22397ab75",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم بتا رہے ہیں کہ اللہ تبارک و تعالی نے فرمایا ہے کہ وہ تمام شریکوں سے زیادہ شرک سے بے نیاز ہے۔ وہ ہر چیز سے بے نیاز ہے۔ جب انسان نیکی کا کوئی کام کرتا ہے اور اسے اللہ اور غیراللہ دونوں کے لیے کرتا ہے، تو اسے اللہ قبول نہیں کرتا، بلکہ عمل کرنے والے کے منہ پر دے مارتا ہے۔ اس لیے کوئی بھی کام کرتے وقت خالص اللہ کی رضامندی کا حصول سامنے رکھنا چاہیے، کیوں کہ اللہ اسی عمل کو قبول کرتا ہے، جو خالص اسی کی رضامندی کے حصول کے لیے کیا جائے۔",
+   "grade": "صحيح",
+   "hints": [
+    "اس میں تمام طرح کے شرک سے متنبہ کیا گیا ہے اور بتایا گیا ہے کہ شرک عمل کی قبولیت کی راہ میں رکاوٹ بنتا ہے۔\r",
+    "اللہ کی بے نیازی اور عظمت کا احساس عمل کے اندر اخلاص پیدا کرنے میں ممد و مددگار ہوتا ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 3342; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:19+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3342",
+   "text": "ابو ہریرہ رضی اللہ عنہ سے روایت ہے، وہ کہتے ہیں کہ اللہ کے رسول ﷺ نے فرمایا: \"اللہ تعالی کا ارشاد ہے : میں تمام شریکوں سے بڑھ کر شرک سے بے نیاز ہوں۔ جو کوئی ایسا عمل کرے، جس میں میرے ساتھ کسی دوسرے کو بھی شریک کرے، میں اس کو اور اس کے شرک کو چھوڑ دیتا ہوں۔\"",
+   "title": "میں تمام شریکوں سے بڑھ کر شرک سے بے نیاز ہوں۔ جو کوئی ایسا عمل کرے، جس میں میرے ساتھ کسی دوسرے کو بھی شریک کرے، میں اس کو اور اس کے شرک کو چھوڑ دیتا ہوں",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3342",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:73ffa488aa7c8e3defae59bdaa20406a21e4953b14d8c419309232b73727341d",
+   "explanation": "先知（愿主福安之）叙述道，崇高伟大的安拉说：他是最无求于举伴者的举办的，他无求于万物。一个人在做功修时，将功修同时归于了安拉以及安拉以外之物，那么安拉已抛弃他，不会接受他的功修，并将功修挡回给其主人。 务必虔诚为安拉而工作，因为清高的安拉只接受虔诚为安拉之喜悦而做的工作。",
+   "grade": "正确的",
+   "hints": [
+    "警惕各类形式的以物配主，因为它影响功修被接受。\r",
+    "感受安拉之无求和伟大，有助于更加虔诚的工作。"
+   ],
+   "mapping": "same HadeethEnc record id 3342; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:19+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3342",
+   "text": "据艾布·胡莱勒（愿主喜悦之）传述自安拉的使者（愿主福安之）说： “崇高伟大的安拉说：我是最无求于举伴的，凡在功修当中将我与他物相提举伴者，我已抛弃他和他的举办物。”",
+   "title": "我是最无求于举伴的，凡在功修当中将我与他物相提举伴者，我已抛弃他和他的举办物",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

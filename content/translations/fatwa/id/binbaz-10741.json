@@ -1,0 +1,60 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-10741",
+ "source_content_sha256": "sha256:ab489899ab50e70528b0185e42af0fccee060c119715bea587089f48baad2875",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:29:30.897020+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 915,
+  "completion_tokens": 878,
+  "total_tokens": 1793,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 915
+ },
+ "latency_ms": 8381,
+ "units": [
+  {
+   "id": "title",
+   "text": "Apa saja konsekuensi dari: La ilaha illallah?"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Penanya menanyakan pertanyaan ini dan berkata: Apa saja konsekuensi dari: La ilaha illallah? "
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Kalimat ini adalah kalimat yang paling agung, yaitu kalimat tauhid. Seorang hamba tidak masuk ke dalam Islam kecuali dengan merealisasikannya dan mengimaninya, serta mengimani bahwa tidak ada sesembahan yang berhak disembah selain Allah. Ini adalah kalimat pertama yang didakwahkan oleh para rasul. Kalimat pertama yang didakwahkan oleh para rasul adalah kalimat ini: La ilaha illallah. Allah Ta'ala berfirman: ⟦Q1⟧ [Al-Anbiya:25] dan Dia Subhanahu berfirman: ⟦Q2⟧ [An-Nahl:36]. Nabi kita Muhammad ﷺ ketika Allah mengutusnya, kalimat pertama yang beliau dakwahkan adalah: La ilaha illallah, disertai iman kepadanya dan bahwa beliau adalah Rasulullah. Kalimat ini menuntut pengiklasan ibadah hanya kepada Allah semata, dan mengimani bahwa Dialah yang berhak disembah, Dialah Rabb semesta alam, Dialah Yang Maha Menciptakan lagi Maha Mengetahui, dan Dialah yang berhak untuk diibadahi dan ditaati perintah-Nya. Kalimat ini menuntut seorang hamba untuk mengimani bahwa Allah adalah Pencipta hamba, dan bahwa Dia telah menyiapkan surga dan neraka baginya, dan bahwa dia pasti akan bertemu dengan Rabbnya; maka bisa jadi ke surga, atau ke neraka."
+  },
+  {
+   "id": "a2",
+   "text": "Kalimat ini adalah pokok agama, landasan millah, dan simpul tali yang kuat. Maka wajib beriman dengannya, meyakini maknanya, bahwa tidak ada sesembahan yang hak selain Allah. Keyakinan ini menuntut untuk menaati perintah-perintah dan menjauhi larangan-larangan, ketaatan ... kepada Allah yang hak, yang engkau imani bahwa Dialah sesembahanmu yang hak. Kalimat ini menuntut engkau untuk menunaikan hak-Nya dengan beribadah kepada-Nya melalui salatmu, puasamu, zakatmu, hajimu, puasamu, dan selain itu. Makna ta'alluh adalah ta'abbud (beribadah). Makna La ilaha illallah, yaitu: tidak ada yang diibadahi dengan hak selain Allah, maksudnya: tidak ada sesembahan yang hak selain Allah. "
+  },
+  {
+   "id": "a3",
+   "text": "Maka wajib atasmu untuk mengilahkan-Nya, beribadah kepada-Nya dengan salatmu, puasamu, zakatmu, hajimu, jihadmu, dan seluruh ibadahmu. Engkau khususkan untuk Rabb  dan engkau sembah Dia semata. Engkau mengharap pahala-Nya dan takut siksa-Nya ."
+  },
+  {
+   "id": "a4",
+   "text": "Demikian pula di antara konsekuensinya adalah engkau mengimani apa yang Allah haramkan atasmu berupa syirik dan maksiat, serta menjauhi dan mewaspadainya. Ya."
+  },
+  {
+   "id": "a5",
+   "text": "Pembawa acara: Semoga Allah membalas Anda dengan kebaikan. "
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "answer": [
+  [
+   {
+    "kind": "strong",
+    "text": "الجواب:"
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "نعم صومه صحيح، ولو ما تسحر، الحمد لله، نعم، العمدة على النية، فالأعمال بالنيات، الحمد لله، نعم. "
+   }
+  ]
+ ],
+ "content_sha256": "sha256:dce4f55a155bb5c4f05e91a806ba7417d619591a0752fd30b31ae33a29daf7a8",
+ "id": "binbaz-10220",
+ "language": "ar",
+ "notes": [],
+ "question": [
+  [
+   {
+    "kind": "strong",
+    "text": "السؤال:"
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "من استيقظ قبل شروق الشمس، وهو ينوي الصيام، فهل صيامه صحيح؟"
+   }
+  ]
+ ],
+ "raw_sha256": "sha256:df96255f92bea4618df11b7cddcea8aecf8d19bee394727c5873d3b81b9f8777",
+ "reuse_basis": "user_confirmed_permission",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.fatwa/2",
+ "source": {
+  "edition": null,
+  "publisher": "binbaz.org.sa",
+  "publisher_name": "موقع الشيخ ابن باز",
+  "retrieved_at": "2026-10-06T05:08:43+00:00",
+  "series": "نور على الدرب",
+  "url": "https://binbaz.org.sa/fatwas/10220/%D8%AD%D9%83%D9%85-%D9%85%D9%86-%D9%86%D9%88%D9%89-%D8%A7%D9%84%D8%B5%D9%8A%D8%A7%D9%85-%D9%88%D9%84%D9%85-%D9%8A%D8%AA%D8%B3%D8%AD%D8%B1"
+ },
+ "source_categories": [
+  {
+   "id": "88",
+   "label": "النية في الصيام",
+   "url": "https://binbaz.org.sa/categories/fiqhi/88"
+  }
+ ],
+ "source_record_id": "10220",
+ "title": "حكم من نوى الصيام ولم يتسحر",
+ "topic": "worship",
+ "translations": {},
+ "type": "fatwa"
+}

@@ -1,0 +1,183 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:6dbfcfb6fb9e16bbc28e7eef98d253af34ae32a42183c05a8d89508ae6f4d083",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يُخبِرُ النبيُّ صلى الله عليه وسلم عن فضل قيام ليلة القدر التي تكون في العشر الأواخر من رمضان، وأنَّ مَن اجتهد فيها بالصلاة والدعاء وقراءة القرآن والذكر، مؤمنًا بها وبما جاء في فضلها، راجيًا بعمله ثوابَ الله تعالى، لا رياء ولا سُمعة، فإنه يُغفر له ما سَبَقَ مِن ذنوبِه.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "فضل ليلة القَدْر والحَث على  قيامها.",
+  "الأعمال الصالحة لا تُقبل إلا مع صِدْقِ النيَّات.",
+  "فضل الله ورحمته، فإنّ مَن قام ليلة القدر إيمانًا واحتسابًا غُفر له ما تقدم من ذنبه."
+ ],
+ "id": "hadeethenc-4202",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (1/ 16) (35).\nصحيح مسلم (1/ 523) (760).\nكنوز رياض الصالحين، لمجموعة من الباحثين (14/ 435).\nبهجة الناظرين، لسليم الهلالي (2/ 337).\nنزهة المتقين، (2/ 846).\nشرح النووي على مسلم (6/ 40).\nشرح رياض الصالحين، لابن عثيمين (5/ 220).\nشرح صحيح البخاري، لابن بطال (4/ 21).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=4202",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:40+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/4202"
+ },
+ "source_categories": [
+  {
+   "id": "484",
+   "label": "قيام الليل"
+  },
+  {
+   "id": "526",
+   "label": "العشر الأواخر من رمضان"
+  }
+ ],
+ "source_record_id": "4202",
+ "text": "عن أبي هريرة رضي الله عنه قال: قال رسول الله صلى الله عليه وسلم: «مَنْ يَقُمْ لَيْلَةَ الْقَدْرِ إِيمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ»",
+ "title": "من يقم ليلة القدر إيمانا واحتسابا غفر له ما تقدم من ذنبه",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=4202",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:719b6b6e5f7282e60d2a152bf59d57452167de36d0c9f0d22e80886e940c78b8",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম (এ হাদীসে) লাইলাতুল কদরে রাত জেগে সালাত আদায়ের ফযিলত সম্পর্কে সংবাদ দিয়েছেন, যা রমযানের শেষ দশকে হয়ে থাকে। তাছাড়া যে ব্যক্তি এ রাতের যেসব ফযিলত রয়েছে সেগুলোর ব্যাপারে বিশ্বাসের সাথে সালাত, দু‘আ, কুরআন তিলাওয়াত ও ‍যিকিরের মাধ্যমে কঠোর প্রচেষ্টায় রত থাকবে এবং এসব আমলের দ্বারা মহান আল্লাহর কাছে প্রতিদান আশা করবে, যেখানে কোন প্রকার রিয়া (লৌকিকতা) ও সুম‘আ (সুনাম) এর প্রত্যাশা থাকবে না, তাহলে তার পূর্ববর্তী গুনাহসমূহ মাফ করে দেয়া হবে।",
+   "grade": "সহীহ",
+   "hints": [
+    "এ হাদীসে লাইলাতুল কদর ও এ রাতে ইবাদতের মধ্যে রাত জাগার ফযিলত বর্ণিত হয়েছে।\r",
+    "বিশুদ্ধ নিয়্যাত ব্যতীত নেক আমলসমূহ কবুল করা হয় না।\r",
+    "মহান আল্লাহর অপরিসীম অনুগ্রহ ও রহমত, যে ব্যক্তি ঈমানের সাথে সাওয়াব লাভের আশায় লাইলাতুল ক্বদরে রাত জেগে ইবাদত করবে, তার পূর্ববর্তী গুনাহসমূহ মাফ করে দেওয়া হবে।"
+   ],
+   "mapping": "same HadeethEnc record id 4202; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:45+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/4202",
+   "text": "আবূ হুরায়রা রদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন: “যে ব্যক্তি ঈমানের সাথে সাওয়াব লাভের আশায় লাইলাতুল ক্বদরে রাত জেগে দাঁড়িয়ে সালাত আদায় করে, তার পূর্ববর্তী গুনাহসমূহ মাফ করে দেয়া হয়।”",
+   "title": "“যে ব্যক্তি ঈমানের সাথে সাওয়াব লাভের আশায় লাইলাতুল ক্বদরে রাত জেগে দাঁড়িয়ে সালাত আদায় করে, তার পূর্ববর্তী গুনাহসমূহ মাফ করে দেয়া হয়।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=4202",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:c8b2bcf4e81dab76204557da5baa960ba5794470dc3c8a7453db69d33f54ca4c",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) tells about the merit of Qiyām al-Layl in the Night of Decree, which lies in the last ten days of Ramadan; that whoever engages in a lot of prayer, supplication, Qur'an recitation, and dhikr in this night, believing in it and its reported merit, seeking Allah's reward by his deed, without show-off or pursuit of reputation among people, his previous sins will be forgiven.",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth points out the merit of the Night of Decree and urges us to perform Qiyām al-Layl therein.\r",
+    "Righteous deeds are not accepted without sincere intentions.\r",
+    "It shows Allah's grace and mercy, for whoever performs Qiyām on the Night of Decree out of faith and in pursuit of reward, his past sins will be forgiven."
+   ],
+   "mapping": "same HadeethEnc record id 4202; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:45+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/4202",
+   "text": "Abu Hurayrah (may Allah be pleased with him) reported: The Messenger of Allah (may Allah's peace and blessings be upon him) said: \"Whoever performs Qiyām (night prayer) in the Night of Decree, out of faith and in pursuit of reward, his past sins will be forgiven.\"",
+   "title": "Whoever performs Qiyām (night prayer) in the Night of Decree, out of faith and in pursuit of reward, his past sins will be forgiven",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=4202",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:7c5af4b016851ecaed0847b55f81b9b2bd2c33a97c2b02e6445fa3df3b295aee",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) informe du mérite de veiller la Nuit du Destin, qui se trouve dans les dix dernières nuits de Ramadan, et que quiconque s'efforce d'y prier, d'invoquer, d'y lire le Coran et d'évoquer Allah tout en croyant ce qui a été rapporté de son mérite et en espérant à travers son œuvre la rétribution d'Allah, Exalté soit-Il, sans ostentation ni vanité, ses péchés précédents lui seront alors pardonnés.",
+   "grade": "Authentique",
+   "hints": [
+    "Le mérite de la Nuit du Destin et l'incitation à la veiller.\r",
+    "Les œuvres vertueuses ne sont acceptées qu'avec des intentions véridiques.\r",
+    "La grâce d'Allah et Sa miséricorde. En effet, quiconque veille la Nuit du Destin en ayant foi et en espérant la récompense, ses péchés précédents lui seront alors pardonnés."
+   ],
+   "mapping": "same HadeethEnc record id 4202; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:45+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/4202",
+   "text": "Aboû Hourayrah (qu'Allah l'agrée) relate que le Messager d'Allah  (qu'Allah le couvre d'éloges et le préserve) a dit : \"Quiconque veille la Nuit du Destin en ayant foi et en espérant la récompense, ses péchés précédents lui sont pardonnés.\"",
+   "title": "Quiconque veille la Nuit du Destin en ayant foi et en espérant la récompense, ses péchés précédents lui sont pardonnés",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=4202",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:fe8379ab2a6cd338c912d4133b84ae5b482ed677e224274642e92ee2dee01aa2",
+   "explanation": "Nabi ﷺ mengabarkan keutamaan beribadah di malam lailatulkadar yang berada pada sepuluh malam terakhir Ramadan, yaitu siapa yang bersungguh-sungguh pada malam itu dengan mengerjakan salat, doa, membaca Al-Qur`an dan zikir karena mengimaninya dan keutamaan-keutamaannya yang disebutkan dengan mengharapkan pahala dari Allah Ta'ala, bukan karena riya maupun sumah, maka dosa-dosanya yang telah lalu akan diampuni.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Keutamaan lailatulkadar serta anjuran untuk menghidupkannya dengan ibadah.\r",
+    "2- Amal saleh tidak akan diterima kecuali bersama niat ikhlas.\r",
+    "3- Besarnya karunia dan rahmat Allah, yaitu orang yang menghidupkan lailatulkadar karena iman dan mengharap pahala akan diampuni dosa-dosanya yang telah lalu."
+   ],
+   "mapping": "same HadeethEnc record id 4202; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:45+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/4202",
+   "text": "Abu Hurairah -raḍiyallāhu 'anhu- meriwayatkan, Rasulullah ﷺ bersabda, \"Siapa yang salat pada malam lailatulkadar karena iman dan mengharap pahala, maka akan diampuni dosa-dosanya yang telah lalu.\"",
+   "title": "Siapa yang salat pada malam lailatulkadar karena iman dan mengharap pahala, maka akan diampuni dosa-dosanya yang telah lalu",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=4202",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:eef6306a6d41ca94428d2f369207955fb5c1bd1be08eae035269e9674fd9c54e",
+   "explanation": "اللہ کے نبی ﷺ یہاں شب قدر کی فضیلت بیان کر رہے ہيں، جو ماہِ رمضان کی آخری دس راتوں میں سے کوئی ایک رات ہوا کرتی ہے۔ اس رات کی فضیلت یہ ہے کہ جس نے اس رات کی فضیلت پر یقین رکھتے ہوئے اور اللہ تعالیٰ کی خوش نودی حاصل کرنے کی نیت سے اس میں جاگ کر نماز پڑھی، دعا کی، قرآن کی تلاوت کی، ذکر و اذکار میں مشغول رہا اور اپنے عمل کو ریاکاری اور شہرت طلبی کی آلائشوں سے پاک رکھا، تو اس کے پچھلے گناہ معاف کر دیے جائیں گے۔",
+   "grade": "صحيح",
+   "hints": [
+    "شب قدر کی فضیلت اور اس میں قیام کی ترغیب۔\r",
+    "نیک اعمال اسی وقت قبولیت سے سرفراز ہوتے ہيں، جب انہیں نیک نیتی کے ساتھ انجام دیا جائے۔\r",
+    "اللہ تعالیٰ  کا فضل اور اس کی رحمت ہی ہے کہ ایمان کے ساتھ اور اجر وثواب کی نیت سے شب قدر میں قیام کرنے والے کے پچھلے گناہ معاف کر دیے جاتے ہیں۔"
+   ],
+   "mapping": "same HadeethEnc record id 4202; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:45+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/4202",
+   "text": "ابو ہریرہ رضی اللہ عنہ سے روایت ہے، وہ کہتے ہیں کہ اللہ کے رسول ﷺ نے فرمایا: \"جوایمان کے ساتھ اور اجر و ثواب کے حصول کی نیت سے شب قدر میں قیام کرتا ہے، اس کے پچھلے گناہ معاف کر دیے جائیں گے\"۔",
+   "title": "جوایمان کے ساتھ اور اجر و ثواب کے حصول کی نیت سے شب قدر میں قیام کرتا ہے، اس کے پچھلے گناہ معاف کر دیے جائیں گے\"۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=4202",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:85e9b481c290169c8f1db265063431b19e9f5f368f41155a618acaaed8c1137e",
+   "explanation": "先知穆罕默德（愿主福安之）告知了在斋月最后十天的高贵之夜礼夜间拜的优越之处，那些在这段时间里努力礼拜、祈祷、诵读《古兰经》和记念真主的人，他们坚信这段时间的重要性，并期待着他们的行为会得到真主的赏赐，而不是为了沽名钓誉，那么他们过去所犯的罪过将被赦免。",
+   "grade": "正确的",
+   "hints": [
+    "高贵之夜的优越性和鼓励礼夜间拜。\r",
+    "善行只有在虔诚的举意下才会被接受。\r",
+    "真主的恩惠和仁慈，谁为了真诚的信仰和追求（真主的）回赐，在盖德尔夜礼副功拜的人，他以往的罪过已被饶恕。"
+   ],
+   "mapping": "same HadeethEnc record id 4202; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:45+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/4202",
+   "text": "据艾布·胡莱勒（愿主喜悦之）传述，真主的使者（愿主福安之）说： 为了真诚的信仰和追求（真主的）回赐，在盖德尔夜礼副功拜的人，他以往的罪过已被饶恕。",
+   "title": "为了真诚的信仰和追求（真主的）回赐，在盖德尔夜礼副功拜的人，他以往的罪过已被饶恕。",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [
+  {
+   "meaning": " تصديقًا بالله وبوعده.",
+   "word": "إيمانًا"
+  },
+  {
+   "meaning": " طلبًا للثواب والأجر من الله عز وجل.",
+   "word": "احتسابًا"
+  }
+ ],
+ "words_meanings_language": "ar"
+}

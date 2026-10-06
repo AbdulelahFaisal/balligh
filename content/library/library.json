@@ -1,0 +1,39 @@
+{
+ "collections": {
+  "fatwa": {
+   "count": 100,
+   "index_sha256": "sha256:67bbd793b6a4360283d86f9447404295d0aebd6dfa2c337c3b4537a217434760"
+  },
+  "hadith": {
+   "count": 150,
+   "index_sha256": "sha256:f797b999c4eca57a30d8c9ac1ff8d1559779fed444b5fce98042dff8ef373def"
+  },
+  "quran": {
+   "editions": [
+    "english_rwwad",
+    "urdu_junagarhi",
+    "chinese_suliman",
+    "indonesian_affairs",
+    "bengali_rwwad",
+    "french_rashid"
+   ],
+   "index_sha256": "sha256:f573d90187a5b2527b1de82e83a3d7b4f157b59e4eeb6ee577d87f62eb647cf4",
+   "range": {
+    "ayah_count": 6236,
+    "kind": "full",
+    "surah_count": 114,
+    "surah_first": 1,
+    "surah_last": 114
+   }
+  }
+ },
+ "schema": "balligh.library.catalog/1",
+ "snapshot": {
+  "collections": [
+   "quran",
+   "fatwa",
+   "hadith"
+  ],
+  "id": "sha256:b88b4b1166a5fc5410d052f6249943b2d6aaa13fc39487cbf81ecdacf57f2b0d"
+ }
+}

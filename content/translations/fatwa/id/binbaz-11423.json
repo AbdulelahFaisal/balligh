@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-11423",
+ "source_content_sha256": "sha256:9eab42b034464482796fb37e0978f5e88a00436e16cead27ab89b2744e2a4705",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:21:05.744280+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 697,
+  "completion_tokens": 590,
+  "total_tokens": 1287,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 697
+ },
+ "latency_ms": 5737,
+ "units": [
+  {
+   "id": "title",
+   "text": "Penjelasan Makna Islam"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Penanya perempuan yang menyimbolkan namanya dengan (M) berkata: Saya mohon penjelasan makna Islam?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Islam artinya: berserah diri kepada Allah dengan tauhid (mengesakan-Nya), dan tunduk kepada-Nya dengan ketaatan secara rendah hati dan patuh. Inilah makna Islam. Dikatakan: 'Aslama fulanun li fulan', yaitu dia merendahkan diri kepadanya, tunduk kepadanya, dan memberikan apa yang dimintanya. Maka Islam maknanya: merendahkan diri kepada Allah, tunduk kepada Allah dengan mentauhidkan-Nya, ikhlas kepada-Nya, menaati perintah-perintah-Nya, dan meninggalkan larangan-larangan-Nya. Inilah Islam. Allah Ta'ala berfirman: ⟦Q1⟧ [Ali 'Imran: 19], dan seorang muslim dinamakan muslim karena dia tunduk kepada Allah, merendah dan taat kepada-Nya Subhanahu dalam melaksanakan apa yang diperintahkan dan meninggalkan apa yang dilarang."
+  },
+  {
+   "id": "a2",
+   "text": "Islam juga dimutlakkan pada semua yang diperintahkan Allah dan Rasul-Nya, berupa shalat, puasa, haji, iman, dan lainnya. Semuanya disebut Islam, sebagaimana firman Allah: ⟦Q2⟧ [Ali 'Imran: 19], dan firman-Nya: ⟦Q3⟧ [Al-Ma'idah: 3], dan firman-Nya: ⟦Q4⟧ [Ali 'Imran: 85]."
+  },
+  {
+   "id": "a3",
+   "text": "Maka muslim adalah orang yang tunduk kepada perintah Allah dalam perkataan, perbuatan, dan keyakinan. Islam adalah ketundukan kepada perintah Allah, penyerahan diri kepada perintah Allah, dan perendahan diri kepada perintah Allah dari segala sisi. Ya."
+  },
+  {
+   "id": "a4",
+   "text": "Pembawa acara: Semoga Allah membalas Anda dengan kebaikan, Yang Mulia Syaikh."
+  }
+ ]
+}

@@ -1,0 +1,126 @@
+{
+  "stations": "Tahap pelajaran",
+  "done": "selesai",
+  "notYet": "belum",
+  "markRead": "Saya sudah membaca kartu",
+  "nextTerms": "Berikutnya: memahami istilah",
+  "nextQuestion": "Berikutnya: pertanyaan pemahaman",
+  "termsNone": "Pelajaran ini tidak memiliki istilah.",
+  "termsHelp": "Buka istilah untuk melihat maknanya dan asalnya.",
+  "termsCount": "Membuka {{opened}} dari {{total}} istilah.",
+  "summaryTitle": "Kemajuan Anda dalam pelajaran ini",
+  "summary": {
+    "read": "Ditandai sudah dibaca",
+    "notRead": "Belum ditandai sudah dibaca",
+    "solved": "Dijawab dengan benar",
+    "tried": "Sudah mencoba; belum benar",
+    "notAnswered": "Belum dijawab"
+  },
+  "complete": "Anda telah menyelesaikan ketiga tahap pelajaran ini.",
+  "completedCount": "{{done}} dari 3 tahap selesai",
+  "revisit": "Kunjungi lagi: {{station}}",
+  "localNote": "Kemajuan hanya mencatat apa yang Anda lakukan di peramban ini: menandai bacaan, membuka istilah, dan jawaban Anda. Ini bukan nilai atau ukuran belajar, dan tidak termasuk dalam berkas ekspor.",
+  "reset": "Atur ulang kemajuan saya",
+  "resetFailed": "Catatan kemajuan tidak dapat dihapus dari peramban ini. Kemajuan di halaman ini sudah diatur ulang.",
+  "storage": {
+    "saved": "Kemajuan disimpan di peramban ini saja.",
+    "unavailable": "Peramban ini tidak mengizinkan aplikasi menyimpan kemajuan. Kemajuan hanya bertahan selama halaman ini terbuka.",
+    "corrupt": "Kemajuan tersimpan di peramban ini tidak dapat dibaca dan dibiarkan apa adanya. Kemajuan hanya bertahan selama halaman ini terbuka sampai Anda mengatur ulang.",
+    "write_failed": "Kemajuan tidak dapat disimpan di peramban ini. Kemajuan hanya bertahan selama halaman ini terbuka."
+  },
+  "reviewNoticeAck": "Diakui secara lokal oleh {{label}}. Ini pengakuan yang dinyatakan sendiri, bukan identitas terverifikasi atau tinjauan ilmiah.",
+  "reviewNoticeDraft": "Pratinjau teknis: belum ada yang mengakui versi ini. Gunakan untuk memeriksa pelajaran, bukan untuk mengajar.",
+  "nav": {
+    "learn": "Belajar",
+    "library": "Perpustakaan",
+    "prepare": "Siapkan pelajaran",
+    "sources": "Sumber & batasan",
+    "teacherSteps": "Langkah menyiapkan pelajaran"
+  },
+  "home": {
+    "title": "Memahami Islam melalui sumber yang dapat dikenali",
+    "body": "Baca sumber terbitan dalam bahasa Anda bila terjemahannya ada, dan ubah sumber yang sesuai menjadi pelajaran singkat yang ditinjau guru sebelum dibagikan.",
+    "learnTitle": "Belajar",
+    "learnBody": "Mulailah dengan pilihan singkat bacaan pertama yang disusun dengan cermat, atau lanjutkan dari tempat Anda berhenti.",
+    "learnCta": "Mulai belajar",
+    "libraryTitle": "Perpustakaan",
+    "libraryBody": "Al-Qur'an dengan terjemahan terbitan yang disebutkan namanya, kumpulan tanya jawab berbahasa Arab, dan hadis dengan penjelasan penerbitnya.",
+    "libraryCta": "Buka perpustakaan",
+    "prepareTitle": "Siapkan pelajaran",
+    "prepareBody": "Untuk guru: pilih sumber terdaftar, tinjau draf terhadap sumbernya, lalu pratinjau dan unduh.",
+    "prepareCta": "Siapkan pelajaran"
+  },
+  "coverage": "Antarmuka tersedia dalam 7 bahasa; cakupan konten berbeda: tanya jawab adalah catatan terbitan berbahasa Arab saja, terjemahan hadis berbeda per catatan, dan makna Al-Qur'an berasal dari enam edisi terbitan yang disebutkan namanya.",
+  "kinds": "Terjemahan terbitan berasal dari penerbit yang disebutkan. Draf AI adalah teks hasil generasi yang belum ditinjau. Pengakuan lokal hanya mencatat bahwa penyusun di perangkat ini membandingkan draf dengan sumbernya.",
+  "page": {
+    "title": "Mulai belajar",
+    "intro": "Pilihan kecil langkah pertama dari perpustakaan: dua surah pendek, beberapa jawaban terbitan yang jelas, dan hadis. Setiap langkah membuka sumber lengkap.",
+    "start": "Mulai dari langkah 1",
+    "noQuiz": "Membaca tidak memerlukan kuis. Posisi tersimpan menunjukkan tempat Anda berhenti, bukan seberapa banyak yang Anda pahami.",
+    "continueLabel": "Lanjutkan membaca",
+    "continue": "Lanjutkan dari tempat terakhir",
+    "continueStale": "Posisi tersimpan Anda tidak lagi cocok dengan sumber saat ini, jadi tidak ditawarkan.",
+    "loading": "Memuat langkah pertama…",
+    "error": "Langkah pertama tidak dapat dimuat.",
+    "stepsTitle": "Langkah pertama",
+    "basis": "Urutan bacaan editorial berdasarkan tinjauan teks lengkap dengan bantuan model. Ini bukan kurikulum dan bukan persetujuan ulama."
+  },
+  "levels": {
+    "foundation": "Dasar",
+    "practical_beginner": "Langkah praktis pertama"
+  },
+  "collections": {
+    "quran": "Al-Qur'an",
+    "fatwa": "Tanya jawab",
+    "hadith": "Hadis"
+  },
+  "topics": {
+    "opening_prayer": "Al-Fatihah: surah yang dibaca di setiap salat",
+    "what_islam_means": "Arti Islam",
+    "testimonies": "Makna dua kalimat syahadat",
+    "oneness": "Keesaan Allah",
+    "pillars": "Rukun Islam",
+    "wudu_steps": "Wudu langkah demi langkah",
+    "missed_prayer_sleep": "Tertidur hingga melewatkan salat Subuh",
+    "obligations_first": "Kewajiban dahulu, lalu ibadah sunah",
+    "good_conduct": "Akhlak yang baik",
+    "names_after_islam": "Nama setelah masuk Islam"
+  },
+  "cautions": {
+    "obligation_vs_preference": "Jawaban ini membedakan yang wajib dari yang hanya dianjurkan."
+  },
+  "languages": "Tersedia dalam: {{languages}}",
+  "arabicOnly": "Hanya bahasa Arab (sumber terbitan)",
+  "step": "Langkah {{n}} dari {{total}} langkah pertama",
+  "next": "Berikutnya: {{topic}}",
+  "back": "Semua langkah pertama",
+  "teacher": {
+    "badge": {
+      "teacher_context": "Konteks guru",
+      "advanced_reference": "Rujukan lanjutan",
+      "adult_situational_reference": "Rujukan situasional untuk dewasa",
+      "family_specific": "Kasus keluarga khusus"
+    },
+    "notice": "Disimpan lengkap sebagai rujukan. Tinjauan editorial mengarahkannya ke bacaan dengan bimbingan guru, bukan ke belajar mandiri langkah pertama.",
+    "reasonLabel": "Catatan tinjauan (bahasa Inggris)"
+  },
+  "prepare": {
+    "body": "Catatan ini terdaftar sebagai sumber lengkap untuk menyiapkan pelajaran.",
+    "cta": "Siapkan pelajaran",
+    "none": "Penyiapan pelajaran tidak tersedia untuk catatan ini; hanya sumber lengkap yang terdaftar yang dapat disiapkan."
+  },
+  "stepsDone": "Anda telah sampai di akhir langkah pertama.",
+  "readingStorage": {
+    "malformed": "Posisi bacaan tersimpan tidak dapat dibaca. Data itu dibiarkan apa adanya dan tidak dipakai.",
+    "unavailable": "Peramban ini tidak menyimpan posisi bacaan Anda; posisi hanya disimpan selama halaman ini terbuka.",
+    "write_failed": "Posisi bacaan Anda tidak dapat disimpan; posisi hanya disimpan selama halaman ini terbuka."
+  },
+  "readingPlace": {
+    "save": "Simpan posisi saya di sini",
+    "saved": "Posisi Anda di sini tersimpan.",
+    "savedSession": "Posisi hanya disimpan selama halaman ini tetap terbuka.",
+    "invalid": "Posisi ini tidak dapat disimpan.",
+    "missing": "Posisi yang disimpan tidak ditemukan dalam teks ini, jadi halaman dibuka dari awal.",
+    "stale": "Posisi yang Anda simpan tidak lagi cocok dengan versi teks ini, jadi halaman dibuka dari awal."
+  }
+}

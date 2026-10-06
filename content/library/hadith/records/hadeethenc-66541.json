@@ -1,0 +1,184 @@
+{
+ "attribution": "رواه أحمد والترمذي وابن ماجه وابن حبان",
+ "content_sha256": "sha256:6099c767c0f288d8445e24c3da534cb0a87b29563ed2ea7da0d65348857bc2cc",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "شَكَى رجلٌ إلى النبيِّ صلى الله عليه وسلم بأن نوافل العبادات قد كَثرت عليه حتى عجز عنها لضعفه، ثم سألَ النبيَّ صلى الله عليه وسلم أنْ يَدلَّه على عملٍ يسيرٍ مُسْتجلِبٍ لثواب كثير يتعلق به ويستمسك.\nفأرشده صلى الله عليه وسلم بأن يكون لسانه طَرِيًّا متحركًا من دوام ذكر الله سبحانه وتعالى في كل وقت وحال؛ من تسبيح وتحميد واستغفار ودعاء ونحو ذلك.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "فضل المداومة على ذكر الله تعالى.",
+  "من عظيم فضل الله تيسير أسباب الأجر.",
+  "تفاضل العباد في نصيبهم من أبواب البر والخير.",
+  "كثرة ذكر الله باللسان تسبيحًا وتحميدًا وتهليلًا وتكبيرًا وغير ذلك مع مواطأة القلب يقوم مقام كثير من نوافل الطاعات.",
+  "مراعاته صلى الله عليه وسلم للسائلين بإجابة كلٍّ بما يناسبه."
+ ],
+ "id": "hadeethenc-66541",
+ "language": "ar",
+ "narrator": null,
+ "reference": "سنن الترمذي (5/ 318) (3375).\nسنن ابن ماجه (4/ 707) (3793).\nمسند أحمد (29/ 226) (17680).\nجامع العلوم والحكم في شرح خمسين حديثا من جوامع الكلم، لابن رجب الحنبلي (2/ 510).\nالتحفة الربانية في شرح الأربعين حديثًا النووية، لإسماعيل الأنصاري (ص104).\nفتح القوي المتين في شرح الأربعين وتتمة الخمسين، للنووي وابن رجب (ص154).\nالأحاديث الأربعون النووية وعليها الشرح الموجز المفيد، لعبد الله بن صالح المحسن (ص93).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=66541",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:39+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/66541"
+ },
+ "source_categories": [
+  {
+   "id": "278",
+   "label": "فضائل الذكر"
+  }
+ ],
+ "source_record_id": "66541",
+ "text": "عَنْ عَبْدِ اللَّهِ بْنِ بُسْرٍ رَضِيَ اللَّهِ عَنْهُ قَالَ: أَتَى النَّبِيَّ رَجُلٌ، فَقَالَ: يَا رَسُولَ اللَّهِ! إِنَّ شَرَائِعَ الإِسْلَامِ قَدْ كَثُرَتْ عَلَيْنَا، فَبَابٌ نَتَمَسَّكُ بِهِ جَامِعٌ؟ قَالَ: «لاَ يَزَالُ لِسَانُكَ رَطْبًا مِنْ ذِكْرِ اللَّهِ». \nوفي رواية: مِنْ حَدِيثِ مُعَاذِ بْنِ جَبَلٍ رَضِيَ اللَّهُ عَنْهُ: آخِرُ مَا فَارَقْتُ عَلَيْهِ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ قُلْتُ: أَيُّ الأَعْمَالِ خَيْرٌ وَأَقْرَبُ إِلَى اللَّهِ؟ قَالَ: «أَنْ تَمُوتَ وَلِسَانُكَ رَطْبٌ مِنْ ذِكْرِ اللَّهِ عَزَّ وَجَلَّ».",
+ "title": "لا يزال لسانك رطبا من ذكر الله",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=66541",
+   "arabic_match": "exact",
+   "attribution": "এটি আহমাদ, তিরমিযী, ইবন মাজাহ ও ইবন হিব্বান বর্ণনা করেছেন।",
+   "content_sha256": "sha256:2353c1971e6d6a45a49a6de1a0e83b52d73a2512ede6876dff2ad9663494d4b6",
+   "explanation": "একজন লোক নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের নিকট অভিযোগ করল যে, নফল ইবাদত তার ওপর এতো বেশী হয়ে গেছে যে তিনি তার দুর্বলতার কারণে সেগুলো পালনে অক্ষম হয়ে পড়েছেন। তারপর নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাকে অটল থাকা ও আঁকড়ে ধরার জন্য বেশী সাওয়াব আনয়নকারী কিছু অল্প আমলের নির্দেশ করলেন।\r\n\r\nতাই তিনি সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাকে সর্বদা আল্লাহ তা‘আলার যিকিরের দ্বারা তার জিহ্বা নরম এবং তাজা রাখতে নির্দেশ করেছেন; যেমন তাসবীহ পাঠ করা, তাহমীদ পাঠ করা, ইস্তেগফার করা, দোয়া করা প্রভৃতি।",
+   "grade": "সহীহ",
+   "hints": [
+    "অনবরত আল্লাহ তা‘আলার যিকিরে থাকার ফযীলত।\r",
+    "আল্লাহ তা‘আলার মহান অনুগ্রহের একটি হল সাওয়াবের উপায়গুলো সহজতর করা।\r",
+    "কল্যাণ ও সাওয়াবের ময়দানে বান্দাদের সামর্থ্য লাভের মধ্যে পার্থক্য।\r",
+    "অন্তরের সম্মিলনে জিহ্বা দ্বারা তাসবীহ, তাহমীদ তাহলীল, তাকবীর ইত্যাদির মাধ্যমে আল্লাহর অধিক যিকির করা অনেক নফল ইবাদতের স্থলাভিশিক্ত হয়।\r",
+    "তিনি সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম প্রত্যেককে তার উপযুক্ত উত্তর প্রদান করে প্রশ্নকারীদের যত্ন নিয়েছেন।"
+   ],
+   "mapping": "same HadeethEnc record id 66541; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:41+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/66541",
+   "text": "আবদুল্লাহ ইবনু বুসর রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, তিনি বলেন: এক ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের কাছে এসে বলল, হে আল্লাহর রাসূল! ইসলামের বিধানসমূহ আমার ওপর অনেক বেশি হয়ে গেছে। একটি পরিপূর্ণ অধ্যায় আছে কি যেটা আমি দৃঢ়ভাবে আঁকড়ে ধরতে পারি? তিনি বললেন: \"তোমার জিহ্বা যেন সর্বদা আল্লাহর জিকিরে সিক্ত থাকে।\" অন্য বর্ণনায় মু‘আয ইবন জাবাল রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত: তিনি বলেন: রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের কাছ থেকে আমি যখন বিদায় নেই, তখন আমি তাঁকে জিজ্ঞেস করেছিলাম: ‘কোন আমল সর্বোত্তম এবং আল্লাহর সবচেয়ে নিকটবর্তী?’ তিনি বললেন: “তুমি এমন অবস্থায় মৃত্যু বরণ করো— যখন তোমার জিহ্বা আল্লাহ তাআলার জিকিরে ভিজে থাকে”।",
+   "title": "তোমার জিহ্বা যেন সর্বদা আল্লাহর জিকিরে সিক্ত থাকে",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=66541",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Ahmad, At-Tirmidhi, Ibn Mājah, and Ibn Ḥibbān",
+   "content_sha256": "sha256:d384f3492600837f4adbdb8e67547c26a0b1f7ecf526fcfab788cd543d11dee5",
+   "explanation": "A man complained to the Prophet (may Allah's peace and blessings be upon him) that the supererogatory acts of worship had become too much for him and that he could not perform them given his weakness. He, then, asked the Prophet (may Allah's peace and blessings be upon him) to guide him to an easy deed that would bring abundant rewards so he could adhere and hold on to it.\r\n\r\nHe (may Allah's peace and blessings be upon him) advised him to keep his tongue moist and moving by remembering Allah Almighty recurrently at all times and in all states by glorifying and praising Him, seeking forgiveness from Him, supplicating Him, etc.",
+   "grade": "Authentic",
+   "hints": [
+    "The merit of remembering Allah Almighty constantly.\r",
+    "Facilitating the means of attaining reward is part of Allah's great favor.\r",
+    "People vary in terms of their share of righteousness and goodness.\r",
+    "Remembering Allah frequently by the tongue, through Tasbīh (glorification of Allah), Tahmīd (praising Allah), Tahlīl (declaring the oneness of Allah), and Takbīr (proclaiming the greatness of Allah), besides other forms of Dhikr, along with the agreement of the heart, can replace many of the supererogatory acts of worship.\r",
+    "The Prophet (may Allah's peace and blessings be upon him) was so considerate in dealing with the questioners, as he would answer each in the way that was suitable for him."
+   ],
+   "mapping": "same HadeethEnc record id 66541; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:40+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/66541",
+   "text": "‘Abdullah ibn Busr (may Allah be pleased with him) reported: A man came to the Prophet (ﷺ) and said: O Messenger of Allah, indeed, the laws of Islam are too many for us, so give us something comprehensive that we can hold on to. He said: \"Keep your tongue moist with the remembrance of Allah.\" Another version reads: From the Hadīth of Mu‘ādh ibn Jabal (may Allah be pleased with him): The last thing upon which I parted from the Messenger of Allah (ﷺ) was that I asked: Which deeds are best and closest to Allah? He said: \"That you die while your tongue is moist with the remembrance of Allah, the Exalted and Majestic.\"",
+   "title": "Keep your tongue moist with the remembrance of Allah",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=66541",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Ahmad, At-Tirmidhî, Ibn Mâjah et Ibn Hibbân",
+   "content_sha256": "sha256:68a75155d0b26909ebaddf7c80142a70bf6ee84704011272aee1b1fa504e88cb",
+   "explanation": "Un homme s'est plaint au Prophète ﷺ que les adorations surérogatoires étaient nombreuses sur lui de sorte qu'il était incapable de toutes les accomplir en raison de sa faiblesse. Alors, il a demandé au Prophète ﷺ de lui indiquer une œuvre facile qui procurerait une grande rétribution et à laquelle il pourrait s'y accrocher et surtout s'y attacher.\r\n\r\nAlors, le Prophète ﷺ l'a orienté vers le fait que sa langue ne cesse d'être humide en bougeant continuellement dans le rappel d'Allah (Glorifié et Élevé soit-Il), à chaque instant et en toute situation. Que ce soit une glorification d'Allah, une proclamation de Sa louange, une imploration de Son pardon, une invocation, et ce qui y ressemble.",
+   "grade": "Authentique",
+   "hints": [
+    "Le mérite de la continuité et la régularité dans le rappel d'Allah, Élevé soit-Il.\r",
+    "Parmi l'immense grâce d'Allah [sur Ses serviteurs], il y a la facilité des causes d'obtention de la récompense.\r",
+    "La différence entre les serviteurs dans leur part acquise des portes de la bonté et du bien.\r",
+    "Le fréquent rappel d'Allah par la langue, notamment : la proclamation de la gloire d'Allah, Sa louange, Son Unicité, Sa grandeur, etc. tout en enfermant le cœur dans cela, alors ceci remplace beaucoup d'actes d'obéissance surérogatoires.\r",
+    "L'attention accordée par le Prophète ﷺ aux questionneurs de sorte qu'il répondait à chacun selon ce qui lui convenait."
+   ],
+   "mapping": "same HadeethEnc record id 66541; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:41+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/66541",
+   "text": "D’après ‘Abd Allâh b. Busr — qu’Allah l’agrée —, un homme dit : « Ô Messager d’Allah ! Les prescriptions de l’Islam sont nombreuses pour nous ; indique‑moi une porte globale à laquelle m’attacher. » Il dit : « Que ta langue reste toujours humide du rappel d’Allah. » Et dans une version, d’après Mu‘âdh b. Jabal — qu’Allah l’agrée —, j’ai dit : « Quelle est l’œuvre la meilleure et la plus rapprochée d’Allah ? » Il répondit : « Une mort dont la langue est humide du rappel d’Allah. »",
+   "title": "Que ta langue reste toujours humide du rappel d’Allah",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=66541",
+   "arabic_match": "exact",
+   "attribution": "HR. Ahmad, Tirmizi, Ibnu Majah, dan Ibnu Hibban",
+   "content_sha256": "sha256:29087e5d618c757549b208acb774b7da78b4b382f39ebbc8939ee88cc156d4ec",
+   "explanation": "Seorang laki-laki datang mengadu kepada Nabi ﷺ bahwa ibadah-ibadah sunah baginya sangat banyak sehingga ia sampai tidak mampu mengerjakannya karena kelemahannya. Kemudian ia meminta kepada Nabi ﷺ agar ditunjuki suatu amalan ringan yang dapat mendatangkan pahala banyak untuk dijadikan sebagai pegangan.\r\n\r\nMaka beliau ﷺ membimbingnya agar lisannya selalu digerakkan untuk terus-menerus berzikir kepada Allah Ta'ala di setiap waktu dan keadaan berupa tasbih, tahmid, istigfar, doa dan lain sebagainya.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Keutamaan terus-menerus berzikir kepada Allah Ta'ala.\r",
+    "2- Di antara karunia besar Allah ialah dimudahkan sebab-sebab pahala.\r",
+    "3- Perbedaan bagian setiap hamba dalam mendapatkan pintu-pintu kebaikan dan kebajikan.\r",
+    "4- Banyak berzikir kepada Allah dengan lisan dalam bentuk tasbih, tahmid, tahlil, takbir, dan lain sebagainya yang diikuti dengan kehadiran hati dapat menggantikan banyak amalan sunah.\r",
+    "5- Perhatian Nabi ﷺ kepada para penanya dengan menjawab setiap orang dengan jawaban yang sesuai dengan kondisinya."
+   ],
+   "mapping": "same HadeethEnc record id 66541; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:41+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/66541",
+   "text": "Abdullah bin Busr -raḍiyallāhu 'anhu- meriwayatkan: Seorang lelaki datang kepada Nabi ﷺ seraya berkata, \"Wahai Rasulullah, sesungguhnya syariat-syariat Islam bagi kami sangat banyak, apakah ada satu bab lengkap yang bisa kita pegang?\" Beliau bersabda, \"Senantiasa lisanmu basah dengan zikir kepada Allah.\" Dalam riwayat lain dari hadis Mu'āż bin Jabal -raḍiyallāhu 'anhu-, ia meriwayatkan: Hal terakhir yang menjadi perpisahanku dengan Rasulullah ﷺ adalah ucapanku kepada beliau, \"Amalan apa yang terbaik dan lebih dekat dengan Allah?\" Beliau menjawab, \"Dirimu mati dalam kondisi lisanmu basah dengan zikir kepada Allah ﷻ.\"",
+   "title": "Senantiasa lisanmu basah dengan zikir kepada Allah",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=66541",
+   "arabic_match": "exact",
+   "attribution": "اسے احمد، ترمذی، ابن ماجہ اور ابن حبان نے روایت کیا ہے۔",
+   "content_sha256": "sha256:534ec66ada4e50b84318ddee5988d085ae4aaad992121b99e5b00eaff797b4b9",
+   "explanation": "ایک شخص نے اللہ کے نبی صلی اللہ علیہ و سلم کے حضور شکایت کی کہ اسے نفل عبادتیں اتنی زیادہ لگتی ہیں کہ اپنے ضعف کی وجہ سے انھیں انجام دے نہيں سکتا۔ پھر گزارش کی کہ آپ اسے کوئی چھوٹا سا عمل بتا دیں، جس سے بہت سارے ثواب حاصل ہو جائيں اور جسے وہ مضبوطی سے پکڑے رہیں۔\r\n\r\nلہذا اللہ کے رسول صلی اللہ علیہ و سلم نے اس کی رہ نمائی اس جانب کی کہ ہمیشہ اس کی زبان اللہ کے ذکر سے تر اور ہر وقت اور ہر حال میں اللہ کے ذکر میں مشغول رہے۔ ذکر میں سبحان اللہ، الحمد للہ، استغفر اللہ اور دعا وغیرہ شامل ہيں۔",
+   "grade": "صحيح",
+   "hints": [
+    "اللہ کے ذکر پر مداومت برتنے کی فضیلت۔\r",
+    "اللہ کا ایک بڑا احسان یہ ہے کہ اس نے خیر کے اسباب آسان فرما دیے ہیں۔\r",
+    "خیر و بھلائی اور نیکی کے کاموں میں بندے ایک دوسرے سے الگ الگ درجات کے حامل ہوا کرتے ہيں۔\r",
+    "کثرت سے اور حضور قلب کے ساتھ سبحان اللہ، الحمد للہ، لاالہ الا اللہ اور اللہ اکبر وغیرہ کہنا بہت سی نفلی عبادتوں کے برابر ہے۔\r",
+    "اللہ کے نبی صلی اللہ علیہ و سلم سوال کرنے والوں کا خیال کرتے ہوئے ہر سائل کو وہی جواب دیتے، جو اس کے لیے مناسب ہو۔"
+   ],
+   "mapping": "same HadeethEnc record id 66541; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:40+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/66541",
+   "text": "عبد اللہ بن بسر رضی اللہ عنہ سے مرفوعا روایت ہے کہ نبی ﷺ کے پاس ایک آدمی آیا اور کہنے لگا: یا رسول اللہ! امور اسلام تو بہت زیادہ ہیں۔ کوئی ایسا جامع عمل بتائیں، جسے ہم لازم پکڑیں! آپ ﷺ نے فرمایا: \"تمھاری زبان ہر وقت اللہ عز و جل کے ذکر سے تر رہے\"۔ معاذ رضی اللہ عنہ سے مروی ایک روایت میں ہے؛ وہ کہتے ہيں: اللہ کے رسول ﷺ سے جدا ہوتے وقت میں نے آخری بات یہ پوچھی کہ کون سا عمل اللہ کے نزدیک سب سے بہتر اور اللہ سے سب سے قریب کرنے والا ہے؟ آپ ﷺ نے جواب دیا: \"تمھاری موت اس حالت میں ہو کہ تمھاری زبان اللہ عز و جل کے ذکر سے تر رہے۔\"",
+   "title": "تمھاری زبان ہر وقت اللہ عز و جل کے ذکر سے تر رہے",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=66541",
+   "arabic_match": "exact",
+   "attribution": "艾哈迈德、提尔米兹、伊本·马哲和伊本·希班辑录",
+   "content_sha256": "sha256:7ceac261362d99cbd28f2be56eb066379339adaed221a65ca43d7b4607d5763f",
+   "explanation": "一个人向先知（愿主福安之）诉说，副功功修实在太多，他无力做到。然后请先知（愿主福安之）指引他一件简单易行、且有丰厚的回赐之事，这样他便可以坚持为之。\r\n\r\n先知（愿主福安之）便指示他，无论何时何地，让他每时每刻都记念安拉，诵念：清赞词、赞美词、求恕词和其他的一些祷词。",
+   "grade": "正确的",
+   "hints": [
+    "经常记念崇高安拉之贵。\r",
+    "安拉的巨大恩惠中就有获得回赐的途径变得容易。\r",
+    "仆人们在善行和好事中的份额是不尽相同的。\r",
+    "经常口头记念安拉，即：赞颂安拉清静，赞美安拉，赞主独一，赞主尊大等，同时内心诚信，它能取代许多副功。\r",
+    "先知（愿主福安之）照顾询问者之状况，给每一个人都给出相适宜的回答。"
+   ],
+   "mapping": "same HadeethEnc record id 66541; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:41+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/66541",
+   "text": "据阿卜杜拉·本·布斯尔（愿主喜悦他）传述：有一个人来到先知（愿主福安之）面前，说：“安拉的使者啊！伊斯兰的教律对我们来说已经很多了，请告诉我们一个能可以谨守的聚汇的一件事吧。” 先知（愿主福安之）说： “让你的舌头因记念安拉而常常润湿。》 在另一段传述中，据穆阿兹·本·贾巴勒（愿主喜悦他）传述：我与安拉的使者（愿主福安之）分别时的最后一件事，是我问他说：“哪种行为最好，且最接近安拉？”他说：“就是当你死亡时，你的舌头仍然因记念安拉而湿润。”",
+   "title": "“让你的舌头因记念安拉而常常润湿。",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

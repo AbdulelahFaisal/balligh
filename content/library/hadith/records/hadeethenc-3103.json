@@ -1,0 +1,191 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:a6d2317c00285187b17084612090aeabb1fdd092d9b8d92e602cae8e0b9234bf",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "كانَ النبيُّ صلى الله عليه وسلم يَستعيذُ بالله مِن أربع، بعد التشهد الأخير وقبل السلام في الصلاة، وأَمَرَنا أن نستعيذَ بالله منها، \n\nالأولى: مِن عذاب القبر. \n\nالثانية: مِن عذاب النار وذلك يوم القيامة. \n\nالثالثة: مِن فتنة المَحيا مِن شَهَوات الدنيا المحرمة ومن شبهاتها المُضِلَّة، ومن فتنة المَمَات، أي ساعة الاحتضار، من الزيغ عن الإسلام أو السنة، أو فتنة القبر كسؤال المَلَكين. \n\nالرابعة: فتنة المسيح الدَّجَّال الذي يَخْرُج في آخر الزمان، يَبتلي الله به عباده؛ وخَصَّه بالذكر لعظيم فتنته وإضلاله.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "هذه الاستعاذة من مهمات الأدعية وجوامعها، لاشتمالها على الاستعاذة من شرور الدنيا والآخرة.",
+  "ثبوت عذاب القبر وأنه حق.",
+  "خطورة الفتن وأهمية الاستعانة بالله والدعاء للنجاة منها.",
+  "إثبات خروج الدَّجَّال وعظم فتنته.",
+  "استحباب هذا الدعاء عقب التشهد الأخير.",
+  "استحباب الدعاء بعد العمل الصالح."
+ ],
+ "id": "hadeethenc-3103",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (2/ 99) (1377).\nصحيح مسلم (1/ 412) (588).\nالإلمام بشرح عمدة الأحكام، لإسماعيل الأنصاري (1/ 172).\nتيسير العلام شرح عمدة الأحكام، للبسام (ص212).\nخلاصة الكلام شرح عمدة الأحكام، لفيصل آل مبارك (ص96).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3103",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:48+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3103"
+ },
+ "source_categories": [
+  {
+   "id": "465",
+   "label": "أذكار الصلاة"
+  }
+ ],
+ "source_record_id": "3103",
+ "text": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: كَانَ رَسُولُ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَدْعُو وَيَقُولُ: «اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ القَبْرِ، وَمِنْ عَذَابِ النَّارِ، وَمِنْ فِتْنَةِ المَحْيَا وَالمَمَاتِ، وَمِنْ فِتْنَةِ المَسِيحِ الدَّجَّالِ».\nوفِي لَفْظٍ لِمُسْلِمٍ: «إِذَا فَرَغَ أَحَدُكُمْ مِنَ التَّشَهُّدِ الْآخِرِ، فَلْيَتَعَوَّذْ بِاللهِ مِنْ أَرْبَعٍ: مِنْ عَذَابِ جَهَنَّمَ، وَمِنْ عَذَابِ الْقَبْرِ، وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، وَمِنْ شَرِّ الْمَسِيحِ الدَّجَّالِ».",
+ "title": "اللهم إني أعوذ بك من عذاب القبر، ومن عذاب النار، ومن فتنة المحيا والممات، ومن فتنة المسيح الدجال",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3103",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:fdf6400229e44988fdc6832fb8e7486afc995a4ac14ab9fa98f7ba413bbd937c",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম শেষ বৈঠকে তাশাহহুদের পরে এবং সালাম ফিরানোর আগে নিম্নোক্ত চারটি বিষয় থেকে আল্লাহর কাছে আশ্রয় প্রার্থনা করতেন এবং তিনি আমাদেরকেও এগুলো থেকে আল্লাহর কাছে আশ্রয় প্রার্থনা করতে আদেশ দিয়েছেন।\r\n\r\nপ্রথম: কবরের আযাব থেকে আশ্রয় চাইতেন।\r\n\r\nদ্বিতীয়: কিয়ামতের দিন জাহান্নামের আযাব থেকে।\r\n\r\nতৃতীয়: জীবনের ফিতনা থেকে, দুনিয়ার হারাম প্রবৃত্তি এবং বিভ্রান্তিকর সন্দেহজনক বিষয়াদি থেকে এবং এবং মৃত্যুর ফিতনা থেকে, অর্থাৎ মৃত্যুর সময় যখন উপস্থিত হবে তখনকার ফিতনা থেকে, যেমন: ইসলাম বা সুন্নাহ থেকে বিপথগামী হওয়া বা কবরের ফিতনা থেকে, যেমন দুই ফিরিশতার জিজ্ঞাসাবাদ পানাহ চাইতেন।\r\n\r\nচতুর্থ: মাসীহ দাজ্জাল এর ফিতনা থেকে, যে আখেরি যামানায় বের হবে। আল্লাহ তার দ্বারা তাঁর বান্দাহদেরকে পরীক্ষা করবেন। তার ফিতনার কথা বিশেষ করে উল্লেখ করার কারণ হলো: দাজ্জালের ফিতনা খুবই ভয়ংকর এবং মারাত্মক পথভ্রষ্টকারী।",
+   "grade": "সহীহ",
+   "hints": [
+    "এ চারটি বিষয় থেকে আশ্রয় চাওয়া খুবই গুরুত্বপূর্ণ ও অর্থবহ দু‘আ। কেননা এতে দুনিয়া ও আখিরাতের সকল প্রকারের অকল্যাণ থেকে পানাহ চাওয়া একত্রিত হয়েছে।\r",
+    "হাদীসটি দ্বারা কবরের আযাব প্রমাণিত এবং কবরের আযাব সত্য।\r",
+    "ফিতনার ভয়াবহতা ও আল্লাহর কাছে এসব ফিতনা থেকে আশ্রয় চাওয়া এবং এর থেকে নাজাতের জন্যে দু‘আ করা।\r",
+    "দাজ্জালের বের হওয়া হাদীসটি দ্বারা প্রমাণিত এবং তার ফিতনা অত্যন্ত ভয়ংকর ফিতনা হবে।\r",
+    "শেষ বৈঠকের শেষে এসব দু‘আ পড়া মুস্তাহাব।\r",
+    "ভালো কাজের পরে দু‘আ পড়া মুস্তাহাব।"
+   ],
+   "mapping": "same HadeethEnc record id 3103; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:04+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3103",
+   "text": "আবূ হুরাইরাহ রাদিয়াল্লাহু ‘আনহু হতে বর্ণিত, তিনি বলেছেন: “নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম দু’আ করতেন ও বলতেনঃ, \nاللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ القَبْرِ، وَمِنْ عَذَابِ النَّارِ، وَمِنْ فِتْنَةِ المَحْيَا وَالمَمَاتِ، وَمِنْ فِتْنَةِ المَسِيحِ الدَّجَّالِ\n‘হে আল্লাহ ! আমি আপনার সমীপে আশ্রয় চাচ্ছি কবরের আযাব থেকে, জাহান্নামের আযাব থেকে, জীবন ও মরণের ফিতনা থেকে এবং মাসীহ দাজ্জাল এর ফিতনা থেকে। \nমুসলিমের বর্ণনায় আছে: \n «إِذَا فَرَغَ أَحَدُكُمْ مِنَ التَّشَهُّدِ الْآخِرِ، فَلْيَتَعَوَّذْ بِاللهِ مِنْ أَرْبَعٍ: مِنْ عَذَابِ جَهَنَّمَ، وَمِنْ عَذَابِ الْقَبْرِ، وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، وَمِنْ شَرِّ الْمَسِيحِ الدَّجَّالِ».\nরাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন: “যখন তোমাদের কেউ সালাতে তাশাহুদ পড়া শেষ করবে, তখন চারটি বিষয় থেকে আল্লাহর নিকট আশ্রয় প্রার্থনা করবে: জাহান্নামের আযাব থেকে, কবরের আযাব থেকে, জীবন-মৃত্যুর ফিতনা থেকে এবং মাসীহ দাজ্জালের অনিষ্ট থেকে।”",
+   "title": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ القَبْرِ، وَمِنْ عَذَابِ النَّارِ، وَمِنْ فِتْنَةِ المَحْيَا وَالمَمَاتِ، وَمِنْ فِتْنَةِ المَسِيحِ الدَّجَّالِ\n‘হে আল্লাহ ! আমি আপনার সমীপে আশ্রয় চাচ্ছি কবরের আযাব থেকে, জাহান্নামের আযাব থেকে, জীবন ও মরণের ফিতনা থেকে এবং মাসীহ দাজ্জাল",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3103",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:9e16c547b7ee16fb8a5b5fe74e29656ae13c3b3d3457df76b23f4232dfed7d6e",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) used to seek refuge with Allah from four things after reciting the last Tashahhud and before ending the prayer, and he commanded us to do the same.\r\n\r\nFirst: from the punishment of the grave.\r\n\r\nSecond: from the punishment of Hellfire on the Day of Judgment.\r\n\r\nThird: from the trials of life, including its forbidden desires and its misleading doubts, and from the trials of death, i.e., the time of dying, including deviation from Islam or from the Sunnah, or the trial of the grave like the questioning of the two angels.\r\n\r\nFourth: from the trial of the Antichrist who will come at the end of time as an affliction from Allah to test His slaves. The Antichrist was mentioned in particular because of the gravity of his trial and misguidance.",
+   "grade": "Authentic",
+   "hints": [
+    "This form of Isti‘ādhah (seeking refuge with Allah) is among the most important and most comprehensive supplications as it includes seeking refuge from the evils of this worldly life and the Hereafter.\r",
+    "Affirmation of the punishment of the grave and that it is real.\r",
+    "The gravity of the trials and the importance of seeking Allah's help and supplicating Him to be saved from such trials.\r",
+    "Proving the emergence of the Dajjāl (Antichrist) and the severity of his trial.\r",
+    "It is recommended to recite this supplication after the last Tashahhud.\r",
+    "It is recommended to make Du‘ā’ (supplication) after performing a righteous deed."
+   ],
+   "mapping": "same HadeethEnc record id 3103; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:03+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3103",
+   "text": "Abu Hurayrah (may Allah be pleased with him) reported: The Messenger of Allah (may Allah's peace and blessings be upon him) used to say the following supplication: \"Allāuhumma inni a‘ūdhu bika min ‘adhāb al-qabr, wa min ‘adhāb an-nār, wa min fitnat al-mahya wa al-mamāt, wa min fitnat al-masīh ad-dajjāl (O Allah, I seek refuge with You from the punishment of the grave, the punishment of the Fire, the trials of life and death, and the trial of the Dajjāl (Antichrist).\" A wording of Muslim reads: \"When any of you completes the last Tashahhud, let him seek refuge with Allah from four things: the punishment of Hellfire, the punishment of the grave, the trials of life and death, and the evil of the Antichrist.\"",
+   "title": "Allāuhumma inni a‘ūdhu bika min ‘adhāb al-qabr, wa min ‘adhāb an-nār, wa min fitnat al-mahya wa al-mamāt, wa min fitnat al-masīh ad-dajjāl",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=3103",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:bc0c3259f635f65f99fd1189bc77159494516017c193bd313b8f3326926065ea",
+   "explanation": "Dans la prière, après le dernier Tachahoud et avant le salut, le Prophète ﷺ cherchait refuge auprès d'Allah contre quatre choses et il nous a ordonnés nous aussi de rechercher refuge auprès d'Allah contre celles-ci :\r\n\r\nLa première : le châtiment de la tombe.\r\n\r\nLa deuxième : le châtiment de l'Enfer et cela concerne le Jour de la Résurrection.\r\n\r\nLa troisième : l'épreuve de la vie parmi les plaisirs mondains interdits et les ambiguïtés qui égarent ; et l'épreuve de la mort, c'est-à-dire : au moment de l'agonie de la mort contre le fait de dévier de l'Islam ou de la Tradition, ou encore l'épreuve de la tombe comme les questions des deux Anges.\r\n\r\nLa quatrième : l'épreuve du faux-messie qui sortira à la fin des temps et par lequel Allah éprouvera Ses serviteurs. Le Prophète ﷺ l'a spécifiquement mentionné en raison de son immense épreuve et du fait qu'il égarera les gens.",
+   "grade": "Authentique",
+   "hints": [
+    "Cette recherche du refuge fait partie des invocations les plus importantes et les plus globales, car elle englobe la recherche du refuge contre les maux de ce bas monde et ceux de l’au-delà.\r",
+    "La confirmation du châtiment de la tombe et le fait qu'il est réalité.\r",
+    "Le danger des épreuves et l'importance de rechercher refuge auprès d'Allah et d'invoquer afin d'en être sauvé.\r",
+    "Le caractère avéré de la sortie du faux-messie et la grandeur de son épreuve.\r",
+    "La recommandation de cette invocation après le Tachahoud final.\r",
+    "La recommandation de l'invocation après l'accomplissement de toute œuvre vertueuse."
+   ],
+   "mapping": "same HadeethEnc record id 3103; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:04+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/3103",
+   "text": "D'après Abû Hurayrah (qu'Allah l'agrée) qui a dit : « Le Messager d'Allah  ﷺ invoquait Allah et disait : \"  Ô Allah ! Je me réfugie auprès de toi contre le châtiment de la tombe, contre le châtiment de l'Enfer, contre l'épreuve de la vie et de la mort et contre la tentation du Faux-Messie . » Et dans une version de Muslim : « Lorsque quelqu'un termine le dernier tachahoud, qu'il demande à Allah de le protéger de quatre choses [et dise] : Ô Allah ! Contre le châtiment de la Géhenne et contre le châtiment de la tombe, et contre l'épreuve de la vie et de la mort et contre le mal du Faux-Messie. »",
+   "title": "Ô Allah ! Je me réfugie auprès de toi contre le châtiment de la tombe, contre le châtiment de l'Enfer, contre l'épreuve de la vie et de la mort et contre la tentation du Faux-Messie",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3103",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:e3abb2322cf03ecd7d8d0fcfe8a12e7e6c0523d657716c980e7fe80880d12c8c",
+   "explanation": "Nabi ﷺ berlindung kepada Allah dari empat perkara setelah doa tasyahud akhir sebelum salam dalam salat dan beliau memerintahkan kita agar berlindung kepada Allah dari 4 hal, yaitu:\r\n\r\n- Pertama: siksa kubur.\r\n\r\n- Kedua: siksa neraka yang terjadi di hari Kiamat.\r\n\r\n- Ketiga: fitnah ketika hidup berupa syahwat dunia yang diharamkan serta syubhat-syubhatnya yang menyesatkan, dan dari fitnah ketika kematian, yaitu saat sekarat, supaya tidak tergelincir dari Islam atau Sunnah, ataupun fitnah kubur seperti pertanyaan dua malaikat.\r\n\r\n- Keempat: fitnah Almasih Dajal yang akan keluar di akhir zaman. Allah menguji hamba-hamba-Nya dengan Dajal tersebut. Nabi menyebutnya secara khusus karena besarnya fitnah dan penyesatannya.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Doa perlindungan ini termasuk di antara doa yang penting dan universal karena mencakup permohonan perlindungan dari seluruh keburukan dunia dan akhirat.\r",
+    "2- Adanya azab kubur secara valid.\r",
+    "3- Bahaya fitnah serta pentingnya memohon perlindungan kepada Allah dan berdoa agar selamat darinya.\r",
+    "4- Menetapkan bahwa Dajal akan keluar dengan membawa fitnah yang besar.\r",
+    "5- Anjuran membaca doa ini setelah doa tasyahud akhir.\r",
+    "6- Anjuran berdoa setelah melakukan amal saleh."
+   ],
+   "mapping": "same HadeethEnc record id 3103; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:04+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3103",
+   "text": "Abu Hurairah -raḍiyallāhu 'anhu- meriwayatkan, Rasulullah ﷺ biasa berdoa dengan membaca, \"Allāhumma innī a'ūżu bika min 'ażābil-qabri, wa min 'ażābin-nār, wa min fitnatil-maḥyā wal-mamāt, wa min fitnatil-masīḥ ad-dajjāl (Ya Allah! Sesungguhnya aku berlindung kepada-Mu dari azab kubur, azab neraka, fitnah ketika hidup dan mati, dan dari fitnah Almasih Dajal).\" Dalam lafaz Muslim lainnya, \"Apabila salah seorang kalian telah selesai dari doa tasyahud akhir, hendaklah ia berlindung kepada Allah dari empat perkara: azab neraka Jahanam, azan kubur, fitnah ketika hidup dan mati, dan dari keburukan Almasih Dajal.\"",
+   "title": "Allāhumma innī a'ūżu bika min 'ażābil-qabri, wa min 'ażābin-nār, wa min fitnatil-maḥyā wal-mamāt, wa min fitnatil-masīḥ ad-dajjāl (Ya Allah! Sesungguhnya aku berlindung kepada-Mu dari azab kubur, azab neraka, fitnah ketika hidup dan mati, dan dari fitnah Almasih Dajal)",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3103",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:4242a8c25754402698aa2f954455badad3587a6fa719e7620eaf7d75492e828c",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم نماز میں آخری تشہد کے بعد اور سلام سے پہلے چار چیزوں سے اللہ کی پناہ مانگتے تھے اور ہمیں بھی ان سے اللہ کی پناہ مانگنے کا حکم دیا ہے۔\r\n\r\n1- قبر کے عذاب سے۔\r\n\r\n2- جہنم کے عذاب سے۔ یعنی قیامت کے دن۔\r\n\r\n3- زندگى کے فتنے سے، جیسے اس کی حرام خواہشات اور گمراہ کن شبہات سے- اور موت کے فتنے سے، یعنی حالت نزع میں اسلام یا سنت سے بھٹک جانے سے یا پھر قبر کے فتنے سے، جیسے دونوں فرشتوں کے سوال سے۔\r\n\r\n4- مسیح دجال کے فتنے سے، جو آخری زمانے میں نکلے گا اور جس کے ذریعے اللہ اپنے بندوں کو آزمائے گا۔ یہاں بطور خاص دجال کا ذکر اس لیے کیا گیا ہے کہ اس کا فتنہ بڑا بھیانک فتنہ ہوگا اور وہ لوگوں کو بہت بڑے پیمانے پر گمراہ کرے گا۔",
+   "grade": "صحيح",
+   "hints": [
+    "یہ دعا ایک بہت ہی اہم اور جامع ترین دعا ہے، کیوں کہ یہ دنیا اور آخرت کی برائیوں سے پناہ مانگنے پر مشتمل ہے۔\r",
+    "قبر کے عذاب کا ثبوت اور اس کا حق ہونا۔\r",
+    "فتنوں کا نقصان اور اللہ کی پناہ مانگنے اور فتنوں سے نجات پانے کی دعا کی اہمیت۔\r",
+    "دجال کے ظہور اور اس کے فتنے کے بڑا ہونے کا ثبوت۔\r",
+    "آخری تشہد کے بعد اس دعا کو پڑھنا مستحب ہے۔\r",
+    "عمل صالح کے بعد دعا کرنا مستحب ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 3103; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:04+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3103",
+   "text": "ابو ہریرہ رضی اللہ عنہ سے روایت ہے، وہ کہتے ہيں: اللہ کے رسول صلی اللہ علیہ و سلم دعا کرتے تھے اور کہتے تھے : \"اے اللہ! میں تیری پناہ مانگتا ہوں قبر کے عذاب سے، جہنم کے عذاب سے، زندگی اور موت کے فتنے سے اور مسیح دجال کے فتنے سے\"۔ جب کہ صحیح مسلم میں ایک روایت ہے : \"جب تم میں سے کوئی آخری تشہد سے فارغ ہو، تو چار چیزوں سے اللہ کی پناہ مانگے : جہنم کے عذاب سے، قبر کے عذاب سے، زندگی اور موت کے فتنے سے اور مسیح دجال کی برائی سے۔\"",
+   "title": "اے اللہ! میں تیری پناہ مانگتا ہوں قبر کے عذاب سے، جہنم کے عذاب سے، زندگی اور موت کے فتنے سے اور مسیح دجال کے فتنے سے",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3103",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:b21f1d74365fc00a9616c4d31f2a9d9ec0d81b1c242d4b9be45cf335d14b72ff",
+   "explanation": "先知（愿主福安之）在完成最后的太善胡德，道赛俩目出拜前，他常常寻求安拉的保护，免受四种事物的伤害，他也命令我们要这样寻求安拉的保护。\r\n\r\n第一：保护免受坟墓的刑罚。\r\n\r\n第二：保护免受末日时火狱的刑罚。\r\n\r\n第三：生活的考验：比如：今世被禁止的欲望，以及使人迷误的模棱两可之事；死亡的考验：即临终时刻，不要偏离伊斯兰教或圣行；或者坟墓中的考验，比如：两位天使的拷问。\r\n\r\n第四：麦西哈旦扎里的考验，他将在末日时光出现，安拉用它来考验他的仆人，之所以特别提到它，因为它的考验和迷误是巨大的。",
+   "grade": "正确的",
+   "hints": [
+    "这个求助词是重要的，全面的祈祷词，因为它包括了寻求庇护免受今世和后世的伤害。\r",
+    "肯定墓穴之刑罚，它是真实的。\r",
+    "考验的危险和托靠安拉的重要性，并祈求从中得救。\r",
+    "肯定旦扎里的出现和他的巨大考验。\r",
+    "最后的台善胡德之后念诵这个祈祷词是嘉行。\r",
+    "行善之后做祈祷为可嘉。"
+   ],
+   "mapping": "same HadeethEnc record id 3103; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:04+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3103",
+   "text": "据艾布·胡莱勒（愿主喜悦他）说： 先知（愿主福安之）常常祈祷说：“我的主啊，我求你保护我免受坟墓的惩罚，免受火狱的刑罚，免受生死的考验，免受麦西哈旦扎里的考验。” 在穆斯林圣训记载：“当你完成最后的太善胡德时，你当寻求安拉保护，免受四种事物的伤害：免受火狱的惩罚，免受坟墓的惩罚，免受生死的考验，免受麦西哈旦扎里的邪恶。”",
+   "title": "我的主啊，我求你保护我免受坟墓的惩罚，免受火狱的刑罚，免受生死的考验，免受麦西哈旦扎里的考验。",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

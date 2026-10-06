@@ -1,0 +1,961 @@
+{
+ "ayah_count": 28,
+ "ayahs": [
+  {
+   "arabic": "قُلۡ أُوحِيَ إِلَيَّ أَنَّهُ ٱسۡتَمَعَ نَفَرٞ مِّنَ ٱلۡجِنِّ فَقَالُوٓاْ إِنَّا سَمِعۡنَا قُرۡءَانًا عَجَبٗا",
+   "aya": 1,
+   "id": 5448,
+   "tafsir": {
+    "arabic_moyassar": "قل -أيها الرسول-: أوحى الله إليَّ أنَّ جماعة من الجن قد استمعوا لتلاوتي للقرآن، فلما سمعوه قالوا لقومهم: إنا سمعنا قرآنًا بديعًا في بلاغته وفصاحته وحكمه وأحكامه وأخباره، يدعو إلى الحق والهدى، فصدَّقنا بهذا القرآن وعملنا به، ولن نشرك بربنا الذي خلقنا أحدًا في عبادته."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "হে রাসূল! (তোমার উম্মতকে) বলো: ‘আমার প্রতি ওহী করা হয়েছে যে, নিশ্চয় জিনদের একটি দল মনোযোগ সহকারে (আল-কুরআন তিলাওয়াত) শুনেছে। অতঃপর তারা (নিজ জাতির কাছে গিয়ে) বলেছে: ‘আমরা তো এক বিস্ময়কর কুরআন শুনেছি,"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Say, “It has been revealed to me that a group of jinn listened [to the Qur’an,] and they said, ‘Indeed, we have heard a wondrous recitation"
+    },
+    "fr": {
+     "footnotes": "[1] A leurs semblables, à leur retour auprès d’eux. Voir sourate 46, verset 29.",
+     "text": "Dis : « Il m’a été révélé qu’un groupe de djinns, après m’avoir écouté réciter le Coran, ont affirmé[1] : “Nous avons entendu une lecture étonnante"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Katakanlah (Muhammad), \"Telah diwahyukan kepadaku bahwa sekumpulan jin telah mendengarkan (bacaan),\" lalu mereka berkata, \"Kami telah mendengarkan bacaan yang menakjubkan (Al-Qur`an),"
+    },
+    "ur": {
+     "footnotes": "[1] یہ واقعہ سورۂ احقاف:29 کے حاشیہ میں گزر چکا ہے کہ نبی (صلى الله عليه وسلم) وادی نخلہ صحابہ کرام کو فجر کی نماز پڑھا رہے تھے کہ کچھ جنوں کا وہاں سے گزر ہوا تو انہوں نے آپ (صلى الله عليه وسلم) کا قرآن سنا۔ جس سے وہ متاثر ہوئے۔ یہاں بتلایا جا رہا ہے کہ اس وقت جنوں کا قرآن سننا، آپ کے علم میں نہیں آیا، بلکہ وحی کے ذریعے سے ان کو اس سے آگاہ فرمایا گیا۔\n[2] عجبا 'مصدر ہے بطور مبالغہ یا مضاف محذوف ہے ۔ذا عجب یا مصدر اسم فاعل کے معنی ہے معجبا مطلب کہ ہم نے ایسا قرآن سنا ہے جو فصاحت و بلاغت میں بڑا عجیب ہے یا مواعظ کے اعتبار سے عجیب ہے یا برکت کے لحاظ نہایت تعجب انگیز ہے ۔(فتح القدیر)",
+     "text": "(اے محمد صلی اللہ علیہ وسلم) آپ کہہ دیں کہ مجھے وحی کی گئی ہے کہ جنوں کی ایک جماعت[1] نے (قرآن) سنا اور کہا کہ ہم نے عجیب قرآن سنا ہے.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你说：“我曾奉到启示：有几个精灵已经静听，并且说：‘我们确已听见奇异的《古兰经》，"
+    }
+   }
+  },
+  {
+   "arabic": "يَهۡدِيٓ إِلَى ٱلرُّشۡدِ فَـَٔامَنَّا بِهِۦۖ وَلَن نُّشۡرِكَ بِرَبِّنَآ أَحَدٗا",
+   "aya": 2,
+   "id": 5449,
+   "tafsir": {
+    "arabic_moyassar": "قل -أيها الرسول-: أوحى الله إليَّ أنَّ جماعة من الجن قد استمعوا لتلاوتي للقرآن، فلما سمعوه قالوا لقومهم: إنا سمعنا قرآنًا بديعًا في بلاغته وفصاحته وحكمه وأحكامه وأخباره، يدعو إلى الحق والهدى، فصدَّقنا بهذا القرآن وعملنا به، ولن نشرك بربنا الذي خلقنا أحدًا في عبادته."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "‘যা সত্যের দিকে হিদায়াত করে; তাই আমরা এর প্রতি ঈমান এনেছি। আর আমরা কখনো আমাদের রবের সাথে কাউকে শরীক করব না।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "that guides to the right way, so we have believed in it, and we will never associate anyone with our Lord."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "propre à assurer notre salut et à laquelle nous avons cru. Nous n’associerons donc nulle divinité au culte de notre Seigneur !"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(yang) memberi petunjuk kepada jalan yang benar, lalu kami beriman kepadanya. Dan kami sekali-kali tidak akan mempersekutukan sesuatu pun dengan Tuhan kami,"
+    },
+    "ur": {
+     "footnotes": "[1] یہ قرآن کی دوسری صفت ہے کہ وہ راہ راست یعنی حق کو واضح کرتا ہے یا اللہ کی معرفت عطا کرتا ہے۔\n[2] یعنی ہم نے سن کر اس بات کی تصدیق کر دی کہ واقعی یہ اللہ کا کلام ہے کسی انسان کا نہیں اس میں کفار کو توبیخ وتنبیہ ہے کہ جن تو ایک مرتبہ ہی سن کر قرآن پر ایمان لے آئے 'تھیڑی سی آیات دن کر ہی ان کا کایا پلٹ گئی اور وہ یہ بھی سمجھ گئے کہ یہ کسی انسان کا بنایا ہواکلام نہیں ہےلیکن انسانوں کو، خاص کر ان کے سرداروں کو اس قرآن سے کوئی فائدہ نہیں ہوا حالانکہ نبی (صلى الله عليه وسلم) کی زبان مبارک سے متعدد بار انہوں نے قرآن سنا۔ علاوہ ازیں خو د آپ (صلى الله عليه وسلم) بھی ان ہی میں سے تھے اور ان ہی کی زبان میں آپ ان کو قرآن سناتے تھے۔\n[3] نہ مخلوق میں سے نہ کسی اور معبود کو اس لیے کہ وہ اپنی ربوبیت میں متفرد ہے۔",
+     "text": "جو راه راست کے طرف رہنمائی کرتا ہے[1] ۔ ہم اس پر ایمان ﻻ چکے[2] (اب) ہم ہرگز کسی کو بھی اپنے رب[3] کا شریک نہ بنائیں گے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "它能导人于正道，故我们信仰它，我们绝不以任何物配我们的主。’"
+    }
+   }
+  },
+  {
+   "arabic": "وَأَنَّهُۥ تَعَٰلَىٰ جَدُّ رَبِّنَا مَا ٱتَّخَذَ صَٰحِبَةٗ وَلَا وَلَدٗا",
+   "aya": 3,
+   "id": 5450,
+   "tafsir": {
+    "arabic_moyassar": "وأنه تعالَتْ عظمة ربنا وجلاله، ما اتخذ زوجة ولا ولدًا."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "‘আর নিশ্চয় আমাদের রবের মর্যাদা সমুচ্চ। তিনি কাউকে স্ত্রী কিংবা সন্তান হিসেবে গ্রহণ করেননি।’"
+    },
+    "en": {
+     "footnotes": "[1] “Jadd” of Our Lord means His Glory, Grandeur, and Command.",
+     "text": "And that He – our exalted and glorified Lord[1] – has neither taken a wife nor a child;"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Notre Seigneur, exalté soit-Il, ne s’est donné ni compagne, ni enfant."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan sesungguhnya Mahatinggi keagungan Tuhan kami, Dia tidak beristri dan tidak beranak.\""
+    },
+    "ur": {
+     "footnotes": "[1] جد کے معنی عظمت وجلال کے ہیں یعنی ہمارے رب کی شان اس سے بہت بلند ہے کہ اس کی اولاد یا بیوی ہو۔ گویا جنوں نے ان مشرکوں کی غلطی کو واضح کیا جو اللہ کی طرف بیوی یا اولاد کی نسبت کرتے تھے، انہوں نے ان دونوں کمزویوں سے ربکی تنزیہ و تقدیس کی۔",
+     "text": "اور بیشک ہمارے رب کی شان بڑی بلند ہے نہ اس نے کسی کو (اپنی) بیوی بنایا ہے نہ بیٹا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "赞颂我们的养主的尊严！超绝万物，他没有择取妻室，也没有择取儿女。"
+    }
+   }
+  },
+  {
+   "arabic": "وَأَنَّهُۥ كَانَ يَقُولُ سَفِيهُنَا عَلَى ٱللَّهِ شَطَطٗا",
+   "aya": 4,
+   "id": 5451,
+   "tafsir": {
+    "arabic_moyassar": "وأن سفيهنا -وهو إبليس- كان يقول على الله تعالى قولا بعيدًا عن الحق والصواب، مِن دعوى الصاحبة والولد."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "‘আর আমাদের মধ্যকার নির্বোধেরা আল্লাহর ব্যাপারে অবাস্তব (শিরকী) কথা- বার্তা বলত।’"
+    },
+    "en": {
+     "footnotes": "[2] i.e., Satan tempted humans to believe that Allah has a wife and children, and that the angels are Allah's daughters.",
+     "text": "and that the fool among us [i.e., Satan] used to say outrageous things about Allah[2],"
+    },
+    "fr": {
+     "footnotes": "[2] Ou : Satan.",
+     "text": "Des insensés parmi nous[2] proféraient simplement sur Allah d’infâmes mensonges."
+    },
+    "id": {
+     "footnotes": "[872] Mengatakan bahwa Allah mempunyai istri dan anak. Menurut Ibnu Kasir, perkataan ini diucapkan sebelum jin itu masuk Islam.",
+     "text": "Dan sesungguhnya orang yang bodoh di antara kami dahulu selalu mengucapkan (perkataan) yang melampaui batas terhadap Allah,[872]"
+    },
+    "ur": {
+     "footnotes": "[1] سَفِيهُنَا (ہمارے بےوقوف) سے بعض نے شیطان مراد لیا ہے اور بعض نے ان کے ساتھی جن اور بعض نے بطور جنس؛ یعنی ہر وہ شخص جو یہ گمان باطل رکھتا ہے کہ اللہ کی اولاد ہے۔ شَطَطًا کے کئ معنی کئے گئے ہیں، ظلم، جھوٹ، باطل، کفر میں مبالغہ وغیرہ۔ مقصد، راہ اعتدال سے دوری اور حد سے تجاوز ہے۔ مطلب یہ ہے کہ یہ بات کہ اللہ کی اولاد ہے ان بےوقوفوں کی بات ہے جو راہ اعتدال سے دور، حد متجاوز اور کاذب و افترا پرداز ہیں۔",
+     "text": "اور یہ کہ ہم میں کا بیوقوف اللہ کے بارے میں خلاف حق باتیں کہا کرتا تھا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我们中的庸愚，常以悖谬的事诬蔑安拉，"
+    }
+   }
+  },
+  {
+   "arabic": "وَأَنَّا ظَنَنَّآ أَن لَّن تَقُولَ ٱلۡإِنسُ وَٱلۡجِنُّ عَلَى ٱللَّهِ كَذِبٗا",
+   "aya": 5,
+   "id": 5452,
+   "tafsir": {
+    "arabic_moyassar": "وأنَّا حَسِبْنا أن أحدًا لن يكذب على الله تعالى، لا من الإنس ولا من الجن في نسبة الصاحبة والولد إليه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১) ফলে তাদের অন্ধ অনুকরণে আমরা আল্লাহর স্ত্রী ও সন্তান হওয়ার ব্যাপারটিকে সত্য বলে মনে করতাম।",
+     "text": "‘অথচ আমরা তো ধারণা করতাম যে, কোন মানুষ ও জিন কখনো আল্লাহ সম্পর্কে মিথ্যা আরোপ করতে পারে না।’(১)"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "although we thought that humans and jinn would never tell lies about Allah."
+    },
+    "fr": {
+     "footnotes": "[3] En lui attribuant une compagne et des enfants.",
+     "text": "Nous pensions pourtant que ni les hommes ni les djinns ne pouvaient mentir sur Allah[3]."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan sesungguhnya kami mengira, bahwa manusia dan jin itu tidak akan mengatakan perkataan yang dusta terhadap Allah,"
+    },
+    "ur": {
+     "footnotes": "[1] اسی لئے ہم اس کی تصدیق کرتے رہے اور اللہ کے بارے میں یہ عقیدہ رکھے رہے۔ حتٰی کہ ہم نے قرآن سنا تو پھر ہم پر اس عقیدے کا باطل ہونا واضح ہوا۔",
+     "text": "اور ہم تو یہی سمجھتے رہے کہ ناممکن ہے کہ انسانوں اور جنات اللہ پر جھوٹی باتیں لگائیں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我们曾猜想人和精灵绝不诬蔑安拉。"
+    }
+   }
+  },
+  {
+   "arabic": "وَأَنَّهُۥ كَانَ رِجَالٞ مِّنَ ٱلۡإِنسِ يَعُوذُونَ بِرِجَالٖ مِّنَ ٱلۡجِنِّ فَزَادُوهُمۡ رَهَقٗا",
+   "aya": 6,
+   "id": 5453,
+   "tafsir": {
+    "arabic_moyassar": "وأنه كان رجال من الإنس يستجيرون برجال من الجن، فزاد رجالُ الجنِّ الإنسَ باستعاذتهم بهم خوفًا وإرهابًا ورعبًا. وهذه الاستعاذة بغير الله، التي نعاها الله على أهل الجاهلية، من الشرك الأكبر، الذي لا يغفره الله إلا بالتوبة النصوح منه. وفي الآية تحذير شديد من اللجوء إلى السحرة والمشعوذين وأشباههم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর নিশ্চয় কতিপয় (মূর্খ) মানুষ কতিপয় জিনের আশ্রয় নিত, ফলে তারা জিনদের অহংকার বাড়িয়ে দিয়েছিল।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "And there were some men who used to seek refuge with some jinn, but they only increased them in burden."
+    },
+    "fr": {
+     "footnotes": "[4] La rébellion et la transgression des djinns. Autre sens : ce qui ne fit qu’ajouter à l’égarement et à la terreur des hommes.",
+     "text": "Certains hommes imploraient la protection de certains djinns, ce qui ne fit qu’ajouter à leur rébellion[4]."
+    },
+    "id": {
+     "footnotes": "[873] Ada di antara orang-orang Arab apabila mereka melintasi tempat yang sunyi, mereka minta perlindungan kepada jin yang mereka anggap berkuasa di tempat itu.",
+     "text": "dan sesungguhnya ada beberapa orang laki-laki dari kalangan manusia yang meminta perlindungan[873] kepada beberapa laki-laki dari jin, tetapi mereka (jin) menjadikan mereka (manusia) bertambah sesat."
+    },
+    "ur": {
+     "footnotes": "[1] زمانہ جاہلیت میں ایک رواج یہ بھی تھا کہ وہ سفر پر کہیں جاتےتو جس وادی یں قیام کرتے'وہاںھنات سے پناہ طلب کرتے 'جیسے علاقے کے بڑے آدمی اور رئیس سے پناہ طلب کی جاتی ہے ۔اسلام نے اس کو ختم کیا اور صرف ایک اللہ سے پناہ طلب کرنے کی تاکید کی۔\n[2] یعنی جب جنات نے یہ دیکھا کہ انسان ہم سے ڈرتے ہیں اور ہماری پناہ طلب کرتے ہیں تو ان کی سرکشی اور تکبر میں اضافہ ہوگیا۔رھقا، یہاں سرکشی ،طغیانی اور تکبر کے مفہوم میں ہے ۔اس کے اصل معنی ہیں گناہ اور محارم کو ڈانکھنا یعنی ان کا ارتکاب کرنا۔",
+     "text": "بات یہ ہے کہ چند انسان بعض جنات سے پناه طلب کیا کرتے تھے[1] جس سے جنات اپنی سرکشی میں اور بڑھ گئے.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "人类中曾有一些男人，求庇护于一些男精灵，因而使他们更加悖逆。"
+    }
+   }
+  },
+  {
+   "arabic": "وَأَنَّهُمۡ ظَنُّواْ كَمَا ظَنَنتُمۡ أَن لَّن يَبۡعَثَ ٱللَّهُ أَحَدٗا",
+   "aya": 7,
+   "id": 5454,
+   "tafsir": {
+    "arabic_moyassar": "وأن كفار الإنس حسبوا كما حسبتم -يا معشر الجن- أن الله تعالى لن يبعث أحدًا بعد الموت."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "‘আর নিশ্চয় তারা (কতিপয় জিনরা) ধারণা করেছিল যেমন তোমরা (কতিপয় মানুষ) ধারণা করেছ যে, আল্লাহ কাউকে কখনই পুনরুত্থিত করবেন না।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "They thought, just like you [jinn] thought that Allah would never send any messenger."
+    },
+    "fr": {
+     "footnotes": "[5] Ou : ne ressusciterait pas les morts.",
+     "text": "Comme vous, ils pensaient qu’Allah ne susciterait plus jamais de Messager[5]."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan sesungguhnya mereka (jin) mengira seperti kamu (orang musyrik Mekkah) yang juga mengira bahwa Allah tidak akan membangkitkan kembali siapa pun (pada hari Kiamat)."
+    },
+    "ur": {
+     "footnotes": "[1] بعث کے دونوں مفہوم ہو سکتے ہیں جیسا کہ ترجمے سے واضح ہے۔",
+     "text": "اور (انسانوں) نے بھی تم جنوں کی طرح گمان کر لیا تھا کہ اللہ کسی کو نہ بھیجے گا (یا کسی کو دوباره زنده نہ کرے گا).[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "那些男人曾像你们一样猜想安拉绝不使任何死者复活。”"
+    }
+   }
+  },
+  {
+   "arabic": "وَأَنَّا لَمَسۡنَا ٱلسَّمَآءَ فَوَجَدۡنَٰهَا مُلِئَتۡ حَرَسٗا شَدِيدٗا وَشُهُبٗا",
+   "aya": 8,
+   "id": 5455,
+   "tafsir": {
+    "arabic_moyassar": "وأنَّا -معشر الجن- طلبنا بلوغ السماء؛ لاستماع كلام أهلها، فوجدناها مُلئت بالملائكة الكثيرين الذين يحرسونها، وبالشهب المحرقة التي يُرمى بها مَن يقترب منها."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর নিশ্চয়ই আমরা (ঊর্ধ্বজগতের সংবাদ জানতে চোরাই পথে) আসমানে পৌঁছাতে চেয়েছিলাম; কিন্তু দেখলাম, তা কঠোর প্রহরী ও উল্কাপিণ্ডে পরিপূর্ণ করে দেওয়া হয়েছে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "We have sought to reach heaven but found it filled with stern guards and flaming fire."
+    },
+    "fr": {
+     "footnotes": "[6] Comme à notre habitude, afin d’écouter les secrets célestes.\n[7] Les anges.",
+     "text": "Mais, ayant tenté de nous approcher du ciel[6], nous l’avons trouvé puissamment protégé par des gardiens[7] et des météores."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan sesungguhnya kami (jin) telah mencoba mengetahui (rahasia) langit, maka kami mendapatinya penuh dengan penjagaan yang kuat dan panah-panah api,"
+    },
+    "ur": {
+     "footnotes": "[1] حَرَسٌ، حَارِسٌ (چوکیدارنگران)کی اور شُهُبٌ، شِهَابٌ (شعلہ)کی جمع ہے یعنی آسمانوں پر فرشتے چوکیداری کرتے ہیں کہ آسمانوں کی کوئی بات کوئی اور نہ سن لے اور یہ ستارے آسمان پر جانے والے شیاطین پر شعلہ بن کر گرتے ہیں۔",
+     "text": "اور ہم نے آسمان کو ٹٹول کر دیکھا تو اسے سخت چوکیداروں اور سخت شعلوں سے پر پایا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "“我们曾试探天，发现天上布满坚强的卫士和灿烂的星宿。"
+    }
+   }
+  },
+  {
+   "arabic": "وَأَنَّا كُنَّا نَقۡعُدُ مِنۡهَا مَقَٰعِدَ لِلسَّمۡعِۖ فَمَن يَسۡتَمِعِ ٱلۡأٓنَ يَجِدۡ لَهُۥ شِهَابٗا رَّصَدٗا",
+   "aya": 9,
+   "id": 5456,
+   "tafsir": {
+    "arabic_moyassar": "وأنا كنا قبل ذلك نتخذ من السماء مواضع; لنستمع إلى أخبارها، فمن يحاول الآن استراق السمع يجد له شهابًا بالمرصاد، يُحرقه ويهلكه. وفي هاتين الآيتين إبطال مزاعم السحرة والمشعوذين، الذين يدَّعون علم الغيب، ويغررون بضعفة العقول؛ بكذبهم وافترائهم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "‘আর আমরা ইতঃপূর্বে তো (ঊর্ধ্বজগতের) সংবাদ শোনার জন্য আসমানের বিভিন্ন ঘাটিতে বসতাম; কিন্তু এখন যে শুনতে চাইবে, সে তার জন্য জ্বলন্ত উল্কাপিণ্ড প্রস্তুত পাবে।’"
+    },
+    "en": {
+     "footnotes": "[3] After the Prophet Muhammad (ﷺ) was sent as a messenger, the jinn who used to eavesdrop on heaven and then pass it on to fortune-tellers came to an end.",
+     "text": "We used to take up positions there for eavesdropping, but now anyone who eavesdrops will find a flaming fire waiting for him[3]."
+    },
+    "fr": {
+     "footnotes": "[8] Avant l’avènement du Prophète.",
+     "text": "Nous pouvions auparavant[8] y prendre place pour écouter les secrets célestes. Mais quiconque tente aujourd’hui de surprendre l’un de ces secrets doit affronter un météore prêt à le foudroyer."
+    },
+    "id": {
+     "footnotes": "[874] Waktu setelah Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- diutus menjadi rasul.",
+     "text": "dan sesungguhnya kami (jin) dahulu dapat menduduki beberapa tempat di langit itu untuk mencuri dengar (berita-beritanya). Tetapi sekarang[874] siapa (mencoba) mencuri dengar (seperti itu) pasti akan menjumpai panah-panah api yang mengintai (untuk membakarnya)."
+    },
+    "ur": {
+     "footnotes": "[1] اور آسمانی باتوں کی کچھ گن سن پا کر کاہنوں کو بتلا دیا کرتے تھے جس میں وہ اپنی طرف سے سو جھوٹ ملا دیا کرتے تھے۔\n[2] لیکن بعثت محمدیہ کے بعد یہ سلسلہ بند کر دیا گیا، اب جو بھی اس نیت سے اوپر جاتا ہے، شعلہ اس کی تاک میں ہوتا ہے اور ٹوٹ کر اس پر گرتا ہے۔",
+     "text": "اس سے پہلے ہم باتیں سننے کے لیے آسمان میں جگہ جگہ بیٹھ جایا کرتے تھے[1] ۔ اب جو بھی کان لگاتا ہے وه ایک شعلے کو اپنی تاک میں پاتا ہے.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我们曾为窃听而常常坐在天上可坐的地方。现在谁去窃听，谁就发现一颗灿烂的星宿在等着他。"
+    }
+   }
+  },
+  {
+   "arabic": "وَأَنَّا لَا نَدۡرِيٓ أَشَرٌّ أُرِيدَ بِمَن فِي ٱلۡأَرۡضِ أَمۡ أَرَادَ بِهِمۡ رَبُّهُمۡ رَشَدٗا",
+   "aya": 10,
+   "id": 5457,
+   "tafsir": {
+    "arabic_moyassar": "وأننا -معشر الجن- لا نعلم: أشرًّا أراد الله أن ينزله بأهل الأرض، أم أراد بهم خيرًا وهدى؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর নিশ্চয়ই আমরা (এ কঠোর পাহারার কারণ) বুঝতে পারছিলাম না—পৃথিবীতে যারা রয়েছে তাদের জন্য কোনো অকল্যাণ চাওয়া হয়েছে, নাকি তাদের রব তাদের জন্য সৎপথের ইচ্ছা করেছেন।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "We do not know whether evil is intended for those on earth, or their Lord intends good for them."
+    },
+    "fr": {
+     "footnotes": "[9] Ces phénomènes sont le signe que.",
+     "text": "Nous ne savons pas si[9] l’on veut du mal aux habitants de la terre ou si leur Seigneur leur veut simplement du bien."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan sesungguhnya kami (jin) tidak mengetahui (adanya penjagaan itu) apakah keburukan yang dikehendaki bagi orang yang di bumi ataukah Tuhan mereka menghendaki kebaikan baginya."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی اس حراست آسمانی سے مقصد اہل زمین کے لئے کسی شر کے منصوبے کو پایہ تکمیل تک پہچانا یعنی ان پر عذاب نازل کرنا یا بھلائی کا ارادہ یعنی رسول کا بھیجنا ہے۔",
+     "text": "ہم نہیں جانتے کہ زمین والوں کے ساتھ کسی برائی کا اراده کیا گیا ہے یا ان کے رب کا اراده ان کے ساتھ بھلائی کا ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我们不知道，究竟是大地上的万物将遭患难呢？还是他们的养主欲引他们于正道呢？"
+    }
+   }
+  },
+  {
+   "arabic": "وَأَنَّا مِنَّا ٱلصَّٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَۖ كُنَّا طَرَآئِقَ قِدَدٗا",
+   "aya": 11,
+   "id": 5458,
+   "tafsir": {
+    "arabic_moyassar": "وأنا منا الأبرار المتقون، ومنا قوم دون ذلك كفار وفساق، كنا فرقًا ومذاهب مختلفة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "‘আর নিশ্চয় আমাদের মধ্যে রয়েছে কতিপয় সৎকর্মশীল এবং কতিপয় এর ব্যতিক্রম (পাপিষ্ঠ কাফির)। আমরা ছিলাম বিভিন্ন মত ও পথের অনুসারী।’"
+    },
+    "en": {
+     "footnotes": "[4] In beliefs and religious duties.",
+     "text": "Among us are some who are righteous and some who are otherwise, for we follow divergent ways[4]."
+    },
+    "fr": {
+     "footnotes": "[10] Autre sens : sont éloignés de toute vertu.",
+     "text": "Certains, parmi nous, sont vertueux tandis que d’autres le sont moins[10]. Nous suivons en effet des voies divergentes."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan sesungguhnya di antara kami (jin) ada yang saleh dan ada (pula) kebalikannya. Kami menempuh jalan yang berbeda-beda."
+    },
+    "ur": {
+     "footnotes": "[1] قِدَدٌ چیز کا ٹکڑا(صَارَ القَوْمُ قِدَدًا) 'اس وقت بولتے ہیں جب ان کے احوال ایک دوسرے سے مختلف ہوں ،یعنی ہم متفرق جماعتوں میں بٹے ہوئے ہیں مطلب یہ کہ جنات میں بھی مسلمان، کافر، یہودی، عیسائی، مجوسی وغیرہ ہیں، بعض کہتے ہیں ان میں بھی مسلمانوں کی طرح قدریہ، مرحبئہ اور رافضہ و غیرہ ہیں (فتح القدیر)",
+     "text": "اور یہ کہ (بیشک) بعض تو ہم میں نیکو کار ہیں اور بعض اس کے برعکس بھی ہیں، ہم مختلف طریقوں سے بٹے ہوئے ہیں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我们中有善良的，有次于善良的，我们是分为许多派别的。"
+    }
+   }
+  },
+  {
+   "arabic": "وَأَنَّا ظَنَنَّآ أَن لَّن نُّعۡجِزَ ٱللَّهَ فِي ٱلۡأَرۡضِ وَلَن نُّعۡجِزَهُۥ هَرَبٗا",
+   "aya": 12,
+   "id": 5459,
+   "tafsir": {
+    "arabic_moyassar": "وأنا أيقنا أن الله قادر علينا، وأننا في قبضته وسلطانه، فلن نفوته إذا أراد بنا أمرًا أينما كنا، ولن نستطيع أن نُفْلِت مِن عقابه هربًا إلى السماء، إن أراد بنا سوءًا."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "‘আর আমরা এ দৃঢ় বিশ্বাস রাখি যে, আমরা কিছুতেই জমিনের মধ্যে আল্লাহকে অপারগ করতে পারব না এবং পালিয়েও কখনো তাকে অপারগ করতে পারব না।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "We have realized that we can never escape Allah on earth, nor can we ever escape Him by fleeing."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Nous savons à présent que nous ne pouvons nous opposer à la volonté d’Allah sur terre, ni Lui échapper."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan sesungguhnya kami (jin) telah menduga, bahwa kami tidak akan mampu melepaskan diri (dari kekuasaan) Allah di bumi dan tidak (pula) dapat lari melepaskan diri (dari)-Nya."
+    },
+    "ur": {
+     "footnotes": "[1] ظن، یہاں علم اور یقین کے معنی میں ہے، جیسے اور بھی بعض مقامات پر ہے۔",
+     "text": "اور ہم نے سمجھ لیا[1] کہ ہم اللہ تعالیٰ کو زمین میں ہرگز عاجز نہیں کرسکتے اور نہ ہم بھاگ کر اسے ہرا سکتے ہیں."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我们坚信我们在大地上绝不能使安拉无奈，也绝不能逃之夭夭而使他无可奈何。"
+    }
+   }
+  },
+  {
+   "arabic": "وَأَنَّا لَمَّا سَمِعۡنَا ٱلۡهُدَىٰٓ ءَامَنَّا بِهِۦۖ فَمَن يُؤۡمِنۢ بِرَبِّهِۦ فَلَا يَخَافُ بَخۡسٗا وَلَا رَهَقٗا",
+   "aya": 13,
+   "id": 5460,
+   "tafsir": {
+    "arabic_moyassar": "وإنا لما سمعنا القرآن آمنَّا به، وأقررنا أنه حق مِن عند الله، فمن يؤمن بربه، فإنه لا يخشى نقصانًا من حسناته، ولا ظلمًا يلحقه بزيادة في سيئاته."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "‘আর নিশ্চয় আমরা যখন হিদায়াতের বাণী (আল-কুরআন) শুনলাম, তখন এর প্রতি ঈমান আনলাম। আর যে তার রবের প্রতি ঈমান আনে, সে না কোন ক্ষতির আশঙ্কা করবে এবং (পাপ বাড়িয়ে) না কোন অন্যায়ের।’"
+    },
+    "en": {
+     "footnotes": "[5] i.e., nor will the sins of another be placed upon him.",
+     "text": "When we heard the guidance [of the Qur’an], we believed in it. Whoever believes in his Lord will have no fear of curtailment [from his reward] or injustice[5]."
+    },
+    "fr": {
+     "footnotes": "[11] Le Coran.\n[12] De ses bonnes actions.\n[13] En se voyant ajouter des péchés qu’il n’a pas commis.",
+     "text": "Lorsque nous avons entendu le message de vérité[11], nous y avons cru. Or, quiconque croit en son Seigneur ne doit redouter ni d’être frustré[12], ni d’être lésé[13]."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan sesungguhnya ketika kami (jin) mendengar petunjuk (Al-Qur`an), kami beriman kepadanya. Maka barangsiapa beriman kepada Tuhan, maka tidak perlu ia takut rugi atau berdosa."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی نہ اس بات کا اندیشہ ہے کہ ان کی نیکیوں کے اجر و ثواب میں کوئی کمی کر دی جائے گی اور نہ اس بات کا خوف کہ ان کی برائیوں میں اضافہ ہو جائے گا۔",
+     "text": "ہم تو ہدایت کی بات سنتے ہی اس پر ایمان ﻻئے چکے اور جو بھی اپنے رب پر ایمان ﻻئے گا اسے نہ کسی نقصان کا اندیشہ ہے نہ ﻇلم وستم کا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "当我们听见正道的时候，我们已信仰它。谁信仰他的养主，谁不怕克扣，也不怕受辱。"
+    }
+   }
+  },
+  {
+   "arabic": "وَأَنَّا مِنَّا ٱلۡمُسۡلِمُونَ وَمِنَّا ٱلۡقَٰسِطُونَۖ فَمَنۡ أَسۡلَمَ فَأُوْلَٰٓئِكَ تَحَرَّوۡاْ رَشَدٗا",
+   "aya": 14,
+   "id": 5461,
+   "tafsir": {
+    "arabic_moyassar": "وأنا منا الخاضعون لله بالطاعة، ومنا الجائرون الظالمون الذين حادوا عن طريق الحق، فمن أسلم وخضع لله بالطاعة، فأولئك الذين قصدوا طريق الحق والصواب، واجتهدوا في اختياره فهداهم الله إليه، وأما الجائرون عن طريق الإسلام فكانوا وَقودًا لجهنم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "‘আর নিশ্চয় আমাদের মধ্যে কিছু সংখ্যক আছে (আল্লাহর অনুগত) মুসলিম এবং আমাদের মধ্যে কিছু সংখ্যক সীমালঙ্ঘনকারী (কাফির)। কাজেই যারা ইসলাম গ্রহণ করেছে, তারাই সরল-সঠিক পথ বেছে নিয়েছে।’"
+    },
+    "en": {
+     "footnotes": "[6] i.e., deviant from the right way.",
+     "text": "Among us are some who are Muslims and some who are deviant[6]. Those who accepted Islam have sought the true guidance,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Certains, parmi nous, se sont soumis, tandis que d’autres se sont détournés du droit chemin. Ceux qui se sont soumis sont ceux qui étaient en quête de vérité."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan di antara kami ada yang Islam dan ada yang menyimpang dari kebenaran. Siapa yang Islam, maka mereka itu telah memilih jalan yang lurus."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی جو نبوت محمدیہ پر ایمان لائے وہ مسلمان، اور اس کے منکر بے انصاف ہیں۔قاسط،ظالم اور غیر منصف اور مقسط ،عادل یعنی ثلاثی مجرم سے ہوا تو معنی ظلم کرنے کے اور مزید فیہ سے ہوا تو انصاف کرنے کے۔",
+     "text": "ہاں ہم میں بعض تو مسلمان ہیں اور بعض بےانصاف ہیں[1] پس جو فرماں بردار ہوگئے انہوں نے تو راه راست کا قصد کیا."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我们中有顺服的，有乖张的。凡顺服的，此等人都是有志于正道的。"
+    }
+   }
+  },
+  {
+   "arabic": "وَأَمَّا ٱلۡقَٰسِطُونَ فَكَانُواْ لِجَهَنَّمَ حَطَبٗا",
+   "aya": 15,
+   "id": 5462,
+   "tafsir": {
+    "arabic_moyassar": "وأنا منا الخاضعون لله بالطاعة، ومنا الجائرون الظالمون الذين حادوا عن طريق الحق، فمن أسلم وخضع لله بالطاعة، فأولئك الذين قصدوا طريق الحق والصواب، واجتهدوا في اختياره فهداهم الله إليه، وأما الجائرون عن طريق الإسلام فكانوا وَقودًا لجهنم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর যারা সীমালঙ্ঘনকারী (সত্য থেকে বিচ্যুত), তারা জাহান্নামের জ্বালানি হবে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "but those who are deviant, they will be fuel for Hell.’”"
+    },
+    "fr": {
+     "footnotes": "[14] Ici prend fin le long monologue des djinns révélé au Prophète.",
+     "text": "Quant à ceux qui se sont détournés, ils alimenteront le feu de la Géhenne”. »[14]"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan adapun yang menyimpang dari kebenaran, maka mereka menjadi bahan bakar bagi neraka Jahanam.\""
+    },
+    "ur": {
+     "footnotes": "[1] اس سے معلوم ہوا کہ انسانوں کی طرح جنات بھی دوزخ اور جنت میں جانے والے ہوں گے ان میں جو کافر ہیں وہ جہنم میں اور مسلمان جنت میں جائیں گے یہاں تک جنات کی گفتگو ختم ہوگئی۔اب آگے پھر اللہ کا کلام ہے۔",
+     "text": "اور جو ﻇالم ہیں وه جہنم کا ایندھن بن گئے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "至于乖张的，将作火狱的燃料。”"
+    }
+   }
+  },
+  {
+   "arabic": "وَأَلَّوِ ٱسۡتَقَٰمُواْ عَلَى ٱلطَّرِيقَةِ لَأَسۡقَيۡنَٰهُم مَّآءً غَدَقٗا",
+   "aya": 16,
+   "id": 5463,
+   "tafsir": {
+    "arabic_moyassar": "وأنه لو سار الكفار من الإنس والجن على طريقة الإسلام، ولم يحيدوا عنها لأنزلنا عليهم ماءً كثيرًا، ولوسَّعنا عليهم الرزق في الدنيا؛ لنختبرهم: كيف يشكرون نعم الله عليهم؟ ومن يُعرض عن طاعة ربه واستماع القرآن وتدبره، والعمل به يدخله عذابًا شديدًا شاقًّا."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "‘আর তারা যদি (ইসলামের) সঠিক পথে অবিচল থাকত, তাহলে আমি অবশ্যই তাদেরকে প্রচুর পরিমাণে পানি পান করাতাম।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "“If they had remained steadfast on the right way, We would have given them abundant rain,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Or, si les impies suivaient le droit chemin, Nous ne manquerions pas de les combler de Nos faveurs"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan sekiranya mereka tetap berjalan lurus di atas jalan itu (agama Islam), niscaya Kami akan mencurahkan kepada mereka air yang cukup."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "اور (اے نبی یہ بھی کہہ دو) کہ اگر لوگ راه راست پر سیدھے رہتے تو یقیناً ہم انہیں بہت وافر پانی پلاتے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "假如他们遵循正道，我必赏赐他们丰富的雨水，"
+    }
+   }
+  },
+  {
+   "arabic": "لِّنَفۡتِنَهُمۡ فِيهِۚ وَمَن يُعۡرِضۡ عَن ذِكۡرِ رَبِّهِۦ يَسۡلُكۡهُ عَذَابٗا صَعَدٗا",
+   "aya": 17,
+   "id": 5464,
+   "tafsir": {
+    "arabic_moyassar": "وأنه لو سار الكفار من الإنس والجن على طريقة الإسلام، ولم يحيدوا عنها لأنزلنا عليهم ماءً كثيرًا، ولوسَّعنا عليهم الرزق في الدنيا؛ لنختبرهم: كيف يشكرون نعم الله عليهم؟ ومن يُعرض عن طاعة ربه واستماع القرآن وتدبره، والعمل به يدخله عذابًا شديدًا شاقًّا."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "যাতে আমি তা দিয়ে তাদেরকে পরীক্ষা করতে পারি। আর যে তার রবের স্মরণ (আল-কুরআন) থেকে মুখ ফিরিয়ে নেয়, তাকে তিনি কঠিন শাস্তিতে (জাহান্নামে) প্রবেশ করাবেন।"
+    },
+    "en": {
+     "footnotes": "[7] As to whether they will be grateful for Allah's provisions or not.\n [8] i.e., the Qur’an and obedience to Him.",
+     "text": "as a test for them[7]. But whoever turns away from the remembrance of his Lord[8], He will make him suffer an arduous punishment."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "afin de les mettre à l’épreuve. Mais quiconque se détourne du message de son Seigneur sera plongé dans d’insupportables tourments."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dengan (cara) itu Kami hendak menguji mereka. Dan barangsiapa berpaling dari peringatan Tuhannya, niscaya akan dimasukkan-Nya ke dalam azab yang sangat berat."
+    },
+    "ur": {
+     "footnotes": "[1] أَنْ لَوِ اسْتَقَامُوا، أَنَّهُ اسْتَمَعَ نَفَرٌ مِنَ الْجِنِّ پر عطف ہے یعنی یہ بات بھی میری طرف وحی کی گئی ہے کہ ۔۔الطریقہ سے مراد راہ راست یعنی اسلام ہے۔ غدق کے معنی کثیر۔ وافر پانی سے مطلب دنیوی خوش حالی ہے۔ یعنی دنیا کا مال و اسباب دے کر ہم ان کی آزمائش کرتے۔ جیسے دوسرے مقام پر فرمایا: «وَلَوْ أَنَّ أَهْلَ الْقُرَى آمَنُوا وَاتَّقَوْا لَفَتَحْنَا عَلَيْهِمْ بَرَكَاتٍ مِنَ السَّمَاءِ وَالأَرْضِ» (الأعراف:96) یہی بات اہل کتاب کے ضمن میں بھی فرمائی گئی ہے۔ سورۂ مائدہ، 66۔ بعض کہتے ہیں کہ اس آیت کا نزول اس وقت ہوا تھا جب کفار قریش پر قحط سالی مسلط کردی گئی تھی۔ الطریقۃ کے دوسرے معنی گمراہی کے راستے کے کئے گئے ہیں۔ اس معنی کے لحاظ سے یہ مادی خوش حالی استدراج کے طور پر ہوگی۔ جیسے دوسرے مقام پر فرمایا: «فَلَمَّا نَسُوا مَا ذُكِّرُوا بِهِ فَتَحْنَا عَلَيْهِمْ أَبْوَابَ كُلِّ شَيْءٍ» الآية (الأنعام:44) «أَيَحْسَبُونَ أَنَّمَا نُمِدُّهُمْ بِهِ مِنْ مَالٍ وَبَنِينَ ، نُسَارِعُ لَهُمْ فِي الْخَيْرَاتِ» (المؤمنون:55-56)\n[2] صَعَدًا، أَيْ: عَذَابًا شَاقًّا شَدِيدًا مُوجِعًا مُؤْلِمًا ،(ابن کثیر) نہایت سخت الم ناک عذاب۔",
+     "text": "تاکہ ہم اس میں انہیں آزمالیں[1] ، اور جو شخص اپنے پروردگار کے ذکر سے منھ پھیر لے گا تو اللہ تعالیٰ اسے سخت عذاب میں مبتلا کردے گا.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "以便我以雨水考验他们。谁退避他的养主的教训，他将使谁入在严峻的刑罚中。"
+    }
+   }
+  },
+  {
+   "arabic": "وَأَنَّ ٱلۡمَسَٰجِدَ لِلَّهِ فَلَا تَدۡعُواْ مَعَ ٱللَّهِ أَحَدٗا",
+   "aya": 18,
+   "id": 5465,
+   "tafsir": {
+    "arabic_moyassar": "وأن المساجد لعبادة الله وحده، فلا تعبدوا فيها غيره، وأخلصوا له الدعاء والعبادة فيها؛ فإن المساجد لم تُبْنَ إلا ليُعبَدَ اللهُ وحده فيها، دون من سواه، وفي هذا وجوب تنزيه المساجد من كل ما يشوب الإخلاص لله، ومتابعة رسوله محمد صلى الله عليه وسلم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর নিশ্চয় মসজিদগুলো আল্লাহর জন্যই (নির্দিষ্ট)। কাজেই (সেখানে) তোমরা আল্লাহর সাথে অন্য কাউকে ডেকো না।"
+    },
+    "en": {
+     "footnotes": "[9] \"Masjid\" here means every place of worship on earth.",
+     "text": "The mosques[9] are for Allah alone, so do not supplicate anyone along with Allah."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Les mosquées étant exclusivement consacrées au culte d’Allah, n’y vénérez nul autre que Lui."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan sesungguhnya masjid-masjid itu adalah untuk Allah. Maka janganlah kamu menyembah apa pun di dalamnya selain Allah."
+    },
+    "ur": {
+     "footnotes": "[1] مسجد کے معنی ہیں سجدہ گاہ۔ سجدہ بھی ایک رکن نماز ہے اس لیے نماز پڑھنے کی جگہ مسجد کہا جاتا ہے آیت کا مطلب واضح ہے کہ مسجدوں کا مقصد صرف ایک اللہ کی عبادت ہے اس لیے مسجدوں میں کسی اور کی عبادت کسی اور سے دعا ومناجات 'کسی اور (رضي الله عنه) سے استغاثہ و استمداد جائز نہیں۔یہ امور ویسے تو مطلقا ہی ممنوع ہیں اور کہیں بھی غیر اللہ کی عبادت جائز نہیں ہے لیکن مسجدوں کا بطور خاص اس لئے ذکر کیا ہے کہ ان کے قیام کا مقصد ہی اللہ کی عبادت ہے ۔اگر یہاں بھی غیر اللہ کو پکارنا شروع کر دیا گیا تو یہ نہایت ہی قبیح او ظالمانہ حرکت ہوگی ۔لیکن بدقسمتی سے بعض نادان مسلمان اب مسجدوں میں بھی اللہ کے ساتھ دوسروں کو بھی مدد کے لئے پکارتے ہیں ۔بلکہ مسجدوں میں ایسے کتبے آویزاں کیے ہوئے ہیں جن میں اللہ کو چھوڑ کر دوسروں سے استغاثہ کیا گیا ہے ۔آہ! فَلْيَبْكِ عَلَى الإِسْلامِ مَنْ كَانَ بَاكِيًا۔",
+     "text": "اور یہ کہ مسجدیں صرف اللہ ہی کے لئے خاص ہیں پس اللہ تعالیٰ کے ساتھ کسی اور کو نہ پکارو.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "一切清真寺，都是安拉的，故你们同安拉不要祈祷任何物。"
+    }
+   }
+  },
+  {
+   "arabic": "وَأَنَّهُۥ لَمَّا قَامَ عَبۡدُ ٱللَّهِ يَدۡعُوهُ كَادُواْ يَكُونُونَ عَلَيۡهِ لِبَدٗا",
+   "aya": 19,
+   "id": 5466,
+   "tafsir": {
+    "arabic_moyassar": "وأنه لما قام محمد صلى الله عليه وسلم، يعبد ربه، كاد الجن يكونون عليه جماعات متراكمة، بعضها فوق بعض ; مِن شدة ازدحامهم لسماع القرآن منه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর যখন আল্লাহর বান্দা তাঁকে আহ্বান করার জন্য (সালাতে) দাঁড়িয়েছিল, তখন তারা তার ওপর গাদাগাদি করে ভিড় করার উপক্রম হয়েছিল।"
+    },
+    "en": {
+     "footnotes": "[10] Crowding in the manner of locusts on top of one another in order to hear him (ﷺ). It refers to the jinn or to the Arabs pagans.",
+     "text": "Yet when the slave of Allah stood up supplicating Him, they swarmed around him[10].”"
+    },
+    "fr": {
+     "footnotes": "[15] Le pronom « ils » désigne ici soit les djinns, qui ont failli se jeter sur le Prophète afin de l’écouter réciter le Coran, soit les païens de la Mecque, qui ont failli l’agresser lorsqu’il s’est levé pour leur prêcher l’islam.",
+     "text": "Lorsque le serviteur d’Allah s’est levé pour L’invoquer, ils ont failli se jeter sur lui[15]."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan sesungguhnya ketika hamba Allah (Muhammad) berdiri menyembah-Nya (melaksanakan salat), mereka (jin-jin) itu berdesakan mengerumuninya."
+    },
+    "ur": {
+     "footnotes": "[1] عَبْدُاللّٰہِ سے مراد رسول اللہ (صلى الله عليه وسلم) ہیں اور مطلب ہے کہ انس و جن مل کر چاہتے ہیں کہ اللہ کے اس نور کو اپنی پھونکوں سے بجھا دیں، لیکن امام ابن کثیر نے اسے رجوع کرنا قرار دیا ہے۔",
+     "text": "اور جب اللہ کا بنده اس کی عبادت کے لیے کھڑا ہوا تو قریب تھا کہ وه بھیڑ کی بھیڑ بن کر اس پر پل پڑیں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "当安拉的仆人起来祈祷的时候，他们〔为了听诵〕几乎要堆叠在他身上。"
+    }
+   }
+  },
+  {
+   "arabic": "قُلۡ إِنَّمَآ أَدۡعُواْ رَبِّي وَلَآ أُشۡرِكُ بِهِۦٓ أَحَدٗا",
+   "aya": 20,
+   "id": 5467,
+   "tafsir": {
+    "arabic_moyassar": "قل -أيها الرسول- لهؤلاء الكفار: إنما أعبد ربي وحده، ولا أشرك معه في العبادة أحدًا."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "হে রাসূল! তুমি (এসব মুশরিকদেরকে) বলো: ‘নিশ্চয় আমি আমার রবকেই ডাকি এবং তাঁর সাথে কাউকে শরীক করি না।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Say [O Prophet], “I only supplicate my Lord and I do not associate anyone with Him.”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Dis : « Je voue un culte exclusif à mon Seigneur, sans associer d’autres que Lui à Son adoration. »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Katakanlah (Muhammad), \"Sesungguhnya aku hanya menyembah Tuhanku dan aku tidak mempersekutukan sesuatu pun dengan-Nya.\""
+    },
+    "ur": {
+     "footnotes": "[1] یعنی جب سب آپ کی عداوت پر اتر آئے ہیں تو آپ کہہ دو کہ میں تو صرف اپنے رب کی عبادت کرتا ہوں اسی سے پناہ طلب کرتا ہوں اور اسی پر بھروسہ کرتا ہوں۔",
+     "text": "آپ کہہ دیجئے کہ میں تو صرف اپنے رب ہی کو پکارتا ہوں اور اس کے ساتھ کسی کو شریک نہیں کرتا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你说：“我只祈祷我的养主，我不以任何物配他。”"
+    }
+   }
+  },
+  {
+   "arabic": "قُلۡ إِنِّي لَآ أَمۡلِكُ لَكُمۡ ضَرّٗا وَلَا رَشَدٗا",
+   "aya": 21,
+   "id": 5468,
+   "tafsir": {
+    "arabic_moyassar": "قل -أيها الرسول- لهم: إني لا أقدر أن أدفع عنكم ضرًا، ولا أجلب لكم نفعًا، قل: إني لن ينقذني من عذاب الله أحد إن عصيته، ولن أجد من دونه ملجأ أفرُّ إليه مِن عذابه، لكن أملك أن أبلغكم عن الله ما أمرني بتبليغه لكم، ورسالتَه التي أرسلني بها إليكم. ومَن يعص الله ورسوله، ويُعرض عن دين الله، فإن جزاءه نار جهنم لا يخرج منها أبدًا."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "হে রাসূল! তুমি (তাদেরকে) বলো: ‘নিশ্চয় আমি তোমাদের জন্য না কোন অকল্যাণ করার ক্ষমতা রাখি এবং না কোন কল্যাণ করার।’"
+    },
+    "en": {
+     "footnotes": "[11] i.e., grant you goodness and guidance.",
+     "text": "Say, “I have no power to harm or benefit you[11].”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Dis-leur : « Je ne peux ni vous préserver d’un mal, ni vous procurer un bien. »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Katakanlah (Muhammad), \"Aku tidak kuasa menolak mudarat maupun mendatangkan kebaikan kepadamu.\""
+    },
+    "ur": {
+     "footnotes": "[1] یعنی مجھے تمہاری ہدایت یا گمراہی کا یا کسی اور نفع نقصان کا اختیار نہیں ہے میں تو صرف اس کا ایک بندہ ہوں جسے اللہ نے وحی ورسالت کے لیے چن لیا ہے۔",
+     "text": "کہہ دیجئے کہ مجھے تمہارے کسی نقصان نفع کا اختیار نہیں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你说：“我不能为你们主持祸福。”"
+    }
+   }
+  },
+  {
+   "arabic": "قُلۡ إِنِّي لَن يُجِيرَنِي مِنَ ٱللَّهِ أَحَدٞ وَلَنۡ أَجِدَ مِن دُونِهِۦ مُلۡتَحَدًا",
+   "aya": 22,
+   "id": 5469,
+   "tafsir": {
+    "arabic_moyassar": "قل- أيها الرسول- لهم: إني لا أقدر أن أدفع عنكم ضرًا، ولا أجلب لكم نفعًا، قل: إني لن ينقذني من عذاب الله أحد إن عصيته، ولن أجد من دونه ملجأ أفرُّ إليه مِن عذابه، لكن أملك أن أبلغكم عن الله ما أمرني بتبليغه لكم، ورسالتَه التي أرسلني بها إليكم. ومَن يعص الله ورسوله، ويُعرض عن دين الله، فإن جزاءه نار جهنم لا يخرج منها أبدًا."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "হে রাসূল! বলো: ‘(আমি আল্লাহর অবাধ্য হলে)নিশ্চয় আল্লাহর কাছ থেকে কেউ আমাকে রক্ষা করতে পারবে না এবং তিনি ছাড়া কখনো আমি কোন আশ্রয়ও পাবো না।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Say, “None can ever protect me from Allah [if I should disobey Him], nor can I ever find refuge except in Him."
+    },
+    "fr": {
+     "footnotes": "[16] Si je Lui désobéissais.",
+     "text": "Dis : « Nul ne saurait me protéger du châtiment d’Allah[16] et je ne pourrais moi-même trouver de refuge contre Ses rigueurs."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Katakanlah (Muhammad), \"Sesungguhnya tidak ada sesuatu pun yang dapat melindungiku dari (azab) Allah dan aku tidak akan memperoleh tempat berlindung selain dari-Nya."
+    },
+    "ur": {
+     "footnotes": "[1] اگر میں اس کی نافرمانی کروں اور وہ مجھے اس پر وہ عذاب دینا چاہے۔",
+     "text": "کہہ دیجئے کہ مجھے ہرگز کوئی اللہ سے بچا نہیں سکتا[1] اور میں ہرگز اس کے سوا کوئی جائے پناه بھی پا نہیں سکتا."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你说：“任何人不能保护我不受安拉的惩罚；除他外，我绝不能发现任何避难所。"
+    }
+   }
+  },
+  {
+   "arabic": "إِلَّا بَلَٰغٗا مِّنَ ٱللَّهِ وَرِسَٰلَٰتِهِۦۚ وَمَن يَعۡصِ ٱللَّهَ وَرَسُولَهُۥ فَإِنَّ لَهُۥ نَارَ جَهَنَّمَ خَٰلِدِينَ فِيهَآ أَبَدًا",
+   "aya": 23,
+   "id": 5470,
+   "tafsir": {
+    "arabic_moyassar": "قل- أيها الرسول- لهم: إني لا أقدر أن أدفع عنكم ضرًا، ولا أجلب لكم نفعًا، قل: إني لن ينقذني من عذاب الله أحد إن عصيته، ولن أجد من دونه ملجأ أفرُّ إليه مِن عذابه، لكن أملك أن أبلغكم عن الله ما أمرني بتبليغه لكم، ورسالتَه التي أرسلني بها إليكم. ومَن يعص الله ورسوله، ويُعرض عن دين الله، فإن جزاءه نار جهنم لا يخرج منها أبدًا."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "‘কেবল আল্লাহর বাণী ও তাঁর রিসালাত পৌঁছানোই আমার দায়িত্ব। আর যে আল্লাহ ও তাঁর রাসূলকে অমান্য করে, তার জন্য রয়েছে জাহান্নামের আগুন। তাতে তারা চিরস্থায়ী হবে।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "I only convey what I receive from Allah and His messages.” And whoever disobeys Allah and His Messenger will certainly be in the Fire of Hell, abiding therein forever."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Je peux seulement vous transmettre le message qu’Allah m’a confié. Quiconque désobéira ensuite à Allah et Son Messager sera voué au feu de la Géhenne où il demeurera à jamais. »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(Aku hanya) menyampaikan (peringatan) dari Allah dan risalah-Nya. Dan barangsiapa mendurhakai Allah dan Rasul-Nya maka sesungguhnya dia akan mendapat (azab) neraka Jahanam, mereka kekal di dalamnya selama-lamanya.\""
+    },
+    "ur": {
+     "footnotes": "[1] یہ لا أَمْلكُ لَكُمْ سے مستثنیٰ ہے یہ بھی ممکن ہے کہ لن یجیرنی سے مدتثنیٰ ہو 'یعنی اللہ سے کوئی چیز بچا سکتی ہے تو وہ یہی ہے کہ تبلیغ رسالت کا وہ فریحہ بجا لاؤں جس کی ادائیگی الللہ نے مجھ پر واجب کی ہے ۔ رساتہٖ کا عطف اللہ پر ہے یا بلا غا 'پر یا پھر عبارت اس طرح ہے۔ إِلا أَنْ أُبَلِّغَ عَنِ اللهِ وَأَعْمَلَ بِرَسَالَتِهِ ٖ۔(فتح القدیر)",
+     "text": "البتہ (میرا کام) اللہ کی بات اور اس کے پیغامات (لوگوں کو) پہنچا دینا ہے[1] ، (اب) جو بھی اللہ اور اس کے رسول کی نہ مانے گا اس کے لیے جہنم کی آگ ہے جس میں ایسے لوگ ہمیشہ رہیں گے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "〔我〕只能传达从安拉降示的通知和使命。谁违抗安拉和他的使者，谁必受火狱的刑罚，而且永居其中。"
+    }
+   }
+  },
+  {
+   "arabic": "حَتَّىٰٓ إِذَا رَأَوۡاْ مَا يُوعَدُونَ فَسَيَعۡلَمُونَ مَنۡ أَضۡعَفُ نَاصِرٗا وَأَقَلُّ عَدَدٗا",
+   "aya": 24,
+   "id": 5471,
+   "tafsir": {
+    "arabic_moyassar": "حتى إذا أبصر المشركون ما يوعدون به من العذاب، فسيعلمون عند حلوله بهم: مَن أضعف ناصرًا ومعينًا وأقل جندًا؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "অবশেষে যখন তারা (কিয়ামতের) সেই বিষয়টি প্রত্যক্ষ করবে, যার প্রতিশ্রুতি তাদের দেওয়া হয়েছে, তখন তারা জানতে পারবে, কার সাহায্যকারী অধিক দুর্বল এবং কার সংখ্যা কম।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Until when they see what they were promised, they will realize who is weaker in helpers and fewer in number."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Voyant le châtiment dont ils étaient menacés, les païens sauront alors qui dispose des soutiens les plus fragiles et des partisans les moins nombreux."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sehingga apabila mereka melihat (azab) yang diancamkan kepadanya, maka mereka akan mengetahui siapakah yang lebih lemah penolongnya dan lebih sedikit jumlahnya."
+    },
+    "ur": {
+     "footnotes": "[1] یا مطلب یہ ہے کہ یہ نبی (صلى الله عليه وسلم) اور مومنین کی عداوت اور اپنے کفر پر مصر رہیں گے، یہاں تک کہ دنیا یا آخرت میں وہ عذاب دیکھ لیں گے، جس کا ان سے وعدہ کیا جاتا ہے۔\n[2] یعنی اس وقت ان کو پتہ لگے گا کہ مومنوں کا مددگار کمزور ہے یا مشرکوں کا؟ اہل توحید کی تعداد کم ہے یا غیر اللہ کے پجاریوں کی۔ مطلب یہ ہے کہ پھر مشرکین کا تو سرے سے کوئی مددگار ہی نہیں ہوگا اور اللہ کے ان گنت لشکروں کے مقابلے میں ان مشرکین کی تعداد بھی آٹے میں نمک کے برابر ہوگی۔",
+     "text": "(ان کی آنکھ نہ کھلے گی) یہاں تک کہ اسے دیکھ لیں جس کا ان کو وعده دیا جاتا ہے[1] پس عنقریب جان لیں گے کہ کس کا مددگار کمزور اور کس کی جماعت کم ہے.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "待他们看见他们所被警告的〔刑罚〕的时候，他们就知道谁是更弱助的、更寡的。”"
+    }
+   }
+  },
+  {
+   "arabic": "قُلۡ إِنۡ أَدۡرِيٓ أَقَرِيبٞ مَّا تُوعَدُونَ أَمۡ يَجۡعَلُ لَهُۥ رَبِّيٓ أَمَدًا",
+   "aya": 25,
+   "id": 5472,
+   "tafsir": {
+    "arabic_moyassar": "قل -أيها الرسول- لهؤلاء المشركين: ما أدري أهذا العذاب الذي وُعدتم به قريب زمنه، أم يجعل له ربي مدة طويلة؟ وهو سبحانه عالم بما غاب عن الأبصار، فلا يظهر على غيبه أحدًا من خلقه، إلا من اختاره الله لرسالته وارتضاه، فإنه يُطلعهم على بعض الغيب، ويرسل من أمام الرسول ومن خلفه ملائكة يحفظونه من الجن; لئلا يسترقوه ويهمسوا به إلى الكهنة; ليعلم الرسول صلى الله عليه وسلم، أن الرسل قبله كانوا على مثل حاله من التبليغ بالحق والصدق، وأنه حُفظ كما حُفظوا من الجن، وأن الله سبحانه أحاط علمه بما عندهم ظاهرًا وباطنًا من الشرائع والأحكام وغيرها، لا يفوته منها شيء، وأنه تعالى أحصى كل شيء عددًا، فلم يَخْفَ عليه منه شيء."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(২) কিয়ামত কখন সংঘটিত হবে, তা একমাত্র আল্লাহই জানেন।",
+     "text": "হে রাসূল!বলো: ‘আমি (নিজেই) জানি না, তোমাদেরকে যার (কিয়ামতের) প্রতিশ্রুতি দেয়া হয়েছে, তা কি নিকটবর্তী, নাকি এর জন্য আমার রব কোন দীর্ঘ মেয়াদ নির্ধারণ করবেন?(২)"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Say, “I do not know if what you are promised is near or my Lord has appointed a distant time for it."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Dis-leur : « Je ne sais si le châtiment dont vous êtes menacés est imminent ou si mon Seigneur lui a assigné un terme plus éloigné. »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Katakanlah (Muhammad), \"Aku tidak mengetahui, apakah azab yang diancamkan kepadamu itu sudah dekat ataukah Tuhanku menetapkan waktunya masih lama.\""
+    },
+    "ur": {
+     "footnotes": "[1] مطلب یہ ہے کہ عذاب یا قیامت کا علم، یہ غیب سے تعلق رکھتا ہے جس کو صرف اللہ تعالٰی ہی جانتا ہے کہ وہ قریب ہے یا دور؟",
+     "text": "کہہ دیجئے کہ مجھے معلوم نہیں کہ جس کا وعده تم سے کیا جاتا ہے وه قریب ہے یا میرا رب اس کے لیے دور کی مدت مقرر کرے گا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你说：“我不知道你们被警告的刑罚是临近的呢？还是我的养主将为它规定一个期限呢？"
+    }
+   }
+  },
+  {
+   "arabic": "عَٰلِمُ ٱلۡغَيۡبِ فَلَا يُظۡهِرُ عَلَىٰ غَيۡبِهِۦٓ أَحَدًا",
+   "aya": 26,
+   "id": 5473,
+   "tafsir": {
+    "arabic_moyassar": "قل -أيها الرسول- لهؤلاء المشركين: ما أدري أهذا العذاب الذي وُعدتم به قريب زمنه، أم يجعل له ربي مدة طويلة؟ وهو سبحانه عالم بما غاب عن الأبصار، فلا يظهر على غيبه أحدًا من خلقه، إلا من اختاره الله لرسالته وارتضاه، فإنه يُطلعهم على بعض الغيب، ويرسل من أمام الرسول ومن خلفه ملائكة يحفظونه من الجن؛ لئلا يسترقوه ويهمسوا به إلى الكهنة؛ ليعلم الرسول صلى الله عليه وسلم، أن الرسل قبله كانوا على مثل حاله من التبليغ بالحق والصدق، وأنه حُفظ كما حُفظوا من الجن، وأن الله سبحانه أحاط علمه بما عندهم ظاهرًا وباطنًا من الشرائع والأحكام وغيرها، لا يفوته منها شيء، وأنه تعالى أحصى كل شيء عددًا، فلم يَخْفَ عليه منه شيء."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তিনি সমস্ত অদৃশ্যের জ্ঞানী, আর তিনি তাঁর অদৃশ্যের জ্ঞান কারো কাছে প্রকাশ করেন না।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "[He is] the Knower of the unseen, He does not reveal His unseen to anyone,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Lui seul connaît les mystères de l’univers qu’Il ne révèle à personne,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dia Mengetahui yang gaib, tetapi Dia tidak memperlihatkan kepada siapa pun tentang yang gaib itu."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "وه غیب کا جاننے واﻻ ہے اور اپنے غیب پر کسی کو مطلع نہیں کرتا."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "〔他〕是全知幽玄的，他不让任何人窥见他的幽玄，"
+    }
+   }
+  },
+  {
+   "arabic": "إِلَّا مَنِ ٱرۡتَضَىٰ مِن رَّسُولٖ فَإِنَّهُۥ يَسۡلُكُ مِنۢ بَيۡنِ يَدَيۡهِ وَمِنۡ خَلۡفِهِۦ رَصَدٗا",
+   "aya": 27,
+   "id": 5474,
+   "tafsir": {
+    "arabic_moyassar": "قل -أيها الرسول- لهؤلاء المشركين: ما أدري أهذا العذاب الذي وُعدتم به قريب زمنه، أم يجعل له ربي مدة طويلة؟ وهو سبحانه عالم بما غاب عن الأبصار، فلا يظهر على غيبه أحدًا من خلقه، إلا من اختاره الله لرسالته وارتضاه، فإنه يُطلعهم على بعض الغيب، ويرسل من أمام الرسول ومن خلفه ملائكة يحفظونه من الجن؛ لئلا يسترقوه ويهمسوا به إلى الكهنة؛ ليعلم الرسول صلى الله عليه وسلم، أن الرسل قبله كانوا على مثل حاله من التبليغ بالحق والصدق، وأنه حُفظ كما حُفظوا من الجن، وأن الله سبحانه أحاط علمه بما عندهم ظاهرًا وباطنًا من الشرائع والأحكام وغيرها، لا يفوته منها شيء، وأنه تعالى أحصى كل شيء عددًا، فلم يَخْفَ عليه منه شيء."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৩) অর্থাৎ আল্লাহ তাঁর রাসূলদেরকে কোনো কোনো গায়িবের সংবাদ প্রকাশ করেন।",
+     "text": "তবে তাঁর মনোনীত রাসূল ছাড়া।(৩) আর তিনি তখন তার সামনে ও তার পিছনে প্রহরী (ফিরিশতা) নিযুক্ত করেন।"
+    },
+    "en": {
+     "footnotes": "[12] Protecting him so that others do not know what he was informed of the unseen.",
+     "text": "except the messenger whom He chooses, then He appoints angel-guards before him and behind him[12]"
+    },
+    "fr": {
+     "footnotes": "[17] Auxquels Il dévoile une partie seulement des mystères à travers notamment la Révélation.\n[18] Au moment où leur sont révélés ces mystères, précisent certains exégètes.",
+     "text": "hormis à ceux qu’Il choisit comme Messagers[17], qu’Il place sous la protection vigilante d’anges gardiens postés devant et derrière eux[18]."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Kecuali kepada rasul yang diridai-Nya, maka sesungguhnya Dia mengadakan penjaga-penjaga (malaikat) di depan dan di belakangnya."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی اپنے پیغمبر کو بعض امور غیب سے مطلع کر دیا جاتا ہے جن کا تعلق یا تو اس کے فرائض رسالت سے ہوتا ہے یا وہ اس کی رسالت کی صداقت کی دلیل ہوتے ہیں اور ظاہر بات ہے کہ اللہ کے مطلع کرنے سے پیغمبر عالم الغیب نہیں ہو سکتا۔کیونکہ پیغمبر بھی اگر عالم الغیب ہو تو پھر اللہ کی طرف سے غیب کے اظہار کا کوئی مطلب ہی نہیں اس لئے عالم الغیب صرف اللہ ہی کی ذات ہے جیسا کہ یہاں بھی اس کی صراحت فرمائی گئی ہے۔\n[2] یعنی نزول وحی کے وقت پیغمبر کے آگے پیچھے فرشتے ہوتے ہیں اور شیاطین اور جنات کو وحی کی باتیں سننے نہیں دیتے۔",
+     "text": "سوائے اس پیغمبر کے جسے وه پسند کرلے[1] لیکن اس کے بھی آگے پیچھے پہرے دار مقرر کردیتا ہے.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "除非他所喜悦的使者，因为他派遣卫队，在使者的前面和后面行走，"
+    }
+   }
+  },
+  {
+   "arabic": "لِّيَعۡلَمَ أَن قَدۡ أَبۡلَغُواْ رِسَٰلَٰتِ رَبِّهِمۡ وَأَحَاطَ بِمَا لَدَيۡهِمۡ وَأَحۡصَىٰ كُلَّ شَيۡءٍ عَدَدَۢا",
+   "aya": 28,
+   "id": 5475,
+   "tafsir": {
+    "arabic_moyassar": "قل -أيها الرسول- لهؤلاء المشركين: ما أدري أهذا العذاب الذي وُعدتم به قريب زمنه، أم يجعل له ربي مدة طويلة؟ وهو سبحانه عالم بما غاب عن الأبصار، فلا يظهر على غيبه أحدًا من خلقه، إلا من اختاره الله لرسالته وارتضاه، فإنه يُطلعهم على بعض الغيب، ويرسل من أمام الرسول ومن خلفه ملائكة يحفظونه من الجن؛ لئلا يسترقوه ويهمسوا به إلى الكهنة؛ ليعلم الرسول صلى الله عليه وسلم، أن الرسل قبله كانوا على مثل حاله من التبليغ بالحق والصدق، وأنه حُفظ كما حُفظوا من الجن، وأن الله سبحانه أحاط علمه بما عندهم ظاهرًا وباطنًا من الشرائع والأحكام وغيرها، لا يفوته منها شيء، وأنه تعالى أحصى كل شيء عددًا، فلم يَخْفَ عليه منه شيء."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "যাতে প্রকাশ পায় যে, তারা (রাসূলগণ) তাদের রবের বার্তাসমূহ পৌঁছে দিয়েছেন। আর তাদের কাছে যা আছে, তা তিনি সম্পূর্ণরূপে পরিবেষ্টন করে রেখেছেন এবং তিনি প্রতিটি জিনিসের সংখ্যা নিখুঁতভাবে হিসাব করে রেখেছেন।"
+    },
+    "en": {
+     "footnotes": "[13] Or \"So He may make evident.\"",
+     "text": "to ensure[13] that the messengers fully conveyed the messages of their Lord. He encompasses in His knowledge all about them, and keeps count of all things.”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Il sait ainsi que les prophètes ont bien transmis le message de leur Seigneur. Rien d’ailleurs de ce qui les concerne ne Lui échappe, Lui qui connaît dans le plus petit détail Sa Création."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Agar Dia mengetahui, bahwa rasul-rasul itu sungguh, telah menyampaikan risalah Tuhannya, sedang (ilmu-Nya) meliputi apa yang ada pada mereka, dan Dia menghitung segala sesuatu satu persatu."
+    },
+    "ur": {
+     "footnotes": "[1] لِيَعْلَمَ میں ضمیر کا مرجع کون ہے؟ بعض کے نزدیک رسول اللہ (صلى الله عليه وسلم) تاکہ آپ جان لیں کہ آپ سے پہلے رسولوں نے بھی اللہ کا پیغام اسی طرح پہنچایا جس طرح آپ نے پہنچایا۔ یا نگران فرشتوں نے اپبے رب ک کا پیغام پیغمبروں تک پہنچایا دیا ہے۔ اور بعض نے اللہ کو مرجع بنایا ہے کہ اللہ تعالٰی اپنے پیغمبروں کی فرشتوں کے ذریعے حفاظت فرماتا ہے۔ تاکہ وہ فریضہ رسالت کی ادائگی سحیح طریقے کر سکیں ۔نیز وہ اس وحی کی بھی حفاظت فرماتا ہے جو پیغمبروں کو کی جاتی ہے تاکہ وہ جان جائے کہ انہوں نے اہنے رب کے پیغامات لوگوں تک ٹھیک ٹھیک پہنچادیے ہیں یا فرشتوں نے پیغمبروں تک وحی پہنچادی ہے ۔اللہ کو اگر چہ پہلے ہی ہر چیز کا علم ہے لیکن ایسے موقعوں ہر اللہ کے جاننے کا مطلب اس کے تحقیق کا عام مشاہدہ ہے 'جیسے «لِنَعْلَمَ مَنْ يَتَّبِعُ الرَّسُولَ» ( البقرة: 143) اور «وَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ آمَنُوا وَلَيَعْلَمَنَّ الْمُنَافِقِينَ» (سورة العنكبوت: 11) وغیرہ آیات میں میں ہے۔(ابن کثیر)\n[2] فرشتوں کے پاس کی یا پیغمبروں کے پاس کی۔\n[3] کیونکہ وہی عالم الغیب ہے، جو ہو چکا اور آئندہ ہوگا، سب کا اس نے شمار کر رکھا ہے۔ یعنی اسکے علم میں ہے۔",
+     "text": "تاکہ ان کے اپنے رب کے پیغام پہنچا دینے کا علم ہو جائے[1] اللہ تعالیٰ نے ان کے آس پاس (کی تمام چیزوں) کا احاطہ کر رکھا ہے[2] اور ہر چیز کی گنتی شمار کر رکھا ہے.[3]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "以便他知道他们确已传达了他们的养主的使命，并且周知他们所有的言行，而且统计万物的数目。”"
+    }
+   }
+  }
+ ],
+ "content_sha256": "sha256:416eee9f47d9695845c1fb37e4195f9d0033decc2beaa82d8c715fda756bab35",
+ "name_ar": "الجن",
+ "number": 72,
+ "schema": "balligh.library.quran.surah/1"
+}

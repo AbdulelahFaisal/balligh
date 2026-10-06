@@ -1,0 +1,338 @@
+.bl-lx {
+  display: grid;
+  grid-template-columns: 236px minmax(0, 1fr);
+  gap: clamp(1.25rem, 3vw, 2.75rem);
+  align-items: start;
+}
+.bl-lx__rail {
+  position: sticky;
+  top: 5.5rem;
+  padding: 1.25rem 0.9rem;
+  border-radius: var(--bl-r-lg);
+  background: linear-gradient(180deg, var(--bl-teal-900), var(--bl-teal-950));
+  color: var(--bl-on-teal);
+  box-shadow: var(--bl-lift-2);
+}
+.bl-lx__steps {
+  position: relative;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 1rem;
+}
+.bl-lx__steps::before {
+  content: "";
+  position: absolute;
+  inset-block: 30px;
+  inset-inline-start: 28px;
+  width: 1px;
+  background: oklch(0.6 0.05 195 / 0.5);
+}
+.bl-root .bl-lx__step {
+  color: var(--bl-on-teal);
+  text-decoration: none;
+}
+.bl-lx__step:hover {
+  background: oklch(0.42 0.06 196 / 0.35);
+}
+.bl-lx__step[data-done="true"] .bl-rail__num {
+  border-color: var(--bl-on-teal);
+}
+.bl-lx__step-state {
+  font-size: 0.8rem;
+  color: var(--bl-on-teal-soft);
+}
+.bl-lx__main {
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+.bl-lx__head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem 1.5rem;
+}
+.bl-lx__heading {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem 1rem;
+}
+.bl-lx__eyebrow {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--bl-muted);
+  letter-spacing: 0.02em;
+}
+.bl-lx__row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 0.75rem;
+}
+.bl-lx__muted {
+  margin: 0;
+  font-size: 0.88rem;
+  color: var(--bl-muted);
+}
+.bl-lx__strong {
+  font-weight: 600;
+}
+.bl-lx__ok {
+  color: var(--bl-teal-800);
+}
+.bl-lx__alert {
+  font-weight: 600;
+  color: var(--bl-clay);
+}
+.bl-lx__link {
+  margin-inline-start: auto;
+  color: var(--bl-teal-800);
+  text-decoration: underline;
+}
+.bl-lx__notices {
+  display: grid;
+  gap: 0.5rem;
+  margin-top: -0.5rem;
+}
+.bl-lx__notice {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--bl-ink-soft);
+}
+.bl-lx__notice--ai {
+  padding: 0.6rem 0.9rem;
+  border: 1px solid var(--bl-clay);
+  border-radius: var(--bl-r-md);
+  background: var(--bl-clay-wash);
+  color: var(--bl-ink);
+}
+.bl-lx__lesson {
+  display: grid;
+  gap: 2.75rem;
+}
+.bl-lx__title {
+  font-size: clamp(1.9rem, 1.1rem + 2.4vw, 3.4rem);
+}
+.bl-lx__station {
+  scroll-margin-top: 6rem;
+}
+.bl-lx__station .bl-station__title {
+  font-size: 1.15em;
+}
+.bl-lx__station .bl-station__title:focus-visible {
+  outline: 2px solid var(--bl-teal-600);
+  outline-offset: 4px;
+}
+.bl-lx__paper .bl-paper__text {
+  font-size: 1.65em;
+  line-height: 1.3;
+}
+.bl-lx__lesson:lang(ar) .bl-paper__text,
+.bl-lx__lesson:lang(ur) .bl-paper__text,
+.bl-lx__lesson:lang(bn) .bl-paper__text,
+.bl-lx__lesson:lang(zh-Hans) .bl-paper__text {
+  font-family: inherit;
+}
+.bl-lx__paper .bl-quote {
+  margin: 0 0 1rem;
+}
+.bl-lx__note-line {
+  margin: 1rem 0 0;
+  font-size: 0.9em;
+  color: var(--bl-muted);
+}
+.bl-lx__card-foot {
+  margin-top: 1.25rem;
+  padding-top: 0.9rem;
+  border-top: 1px solid var(--bl-rule);
+  font-size: 0.95rem;
+}
+.bl-lx__actions {
+  margin-top: 1.25rem;
+}
+.bl-lx__terms {
+  list-style: none;
+  margin: 0.9rem 0 0;
+  padding: 0;
+}
+.bl-lx__terms .bl-term__en {
+  font-size: 1.35em;
+}
+.bl-lx__terms .bl-term__meaning {
+  font-size: 1.05em;
+}
+.bl-lx__terms .bl-term__meaning > p {
+  margin: 0 0 0.6rem;
+}
+.bl-lx__quiz {
+  font-size: 1em;
+}
+.bl-lx__fieldset {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  min-width: 0;
+}
+.bl-lx__quiz .bl-quiz__prompt {
+  float: none;
+  font-size: 1.45em;
+}
+.bl-lx__quiz .bl-choice {
+  font-size: 1.05em;
+  text-align: start;
+  cursor: pointer;
+}
+.bl-lx__radio {
+  width: 1.15rem;
+  height: 1.15rem;
+  flex-shrink: 0;
+  accent-color: var(--bl-teal-800);
+}
+.bl-lx__quiz-actions {
+  margin-top: 1rem;
+}
+.bl-lx__evidence {
+  margin-top: 1rem;
+}
+.bl-lx__evidence > summary {
+  cursor: pointer;
+  list-style: none;
+}
+.bl-lx__evidence-body {
+  padding: 0.75rem 0.25rem 0;
+}
+.bl-lx__progress {
+  padding-top: 0.5rem;
+}
+.bl-lx__progress-card {
+  display: grid;
+  gap: 0.75rem;
+  padding: 1.25rem 1.5rem;
+  border-radius: var(--bl-r-lg);
+  background: var(--bl-paper);
+  box-shadow: var(--bl-edge), var(--bl-lift-2);
+}
+.bl-lx__progress-card p {
+  margin: 0;
+}
+.bl-lx__progress-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.4rem;
+  font-size: 0.95rem;
+}
+.bl-lx__progress-list li {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem 0.6rem;
+}
+.bl-lx__author {
+  border: 1px dashed var(--bl-rule-strong);
+  border-radius: var(--bl-r-md);
+  background: var(--bl-paper);
+}
+.bl-lx__author-summary {
+  display: flex;
+  align-items: center;
+  min-height: 48px;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--bl-teal-900);
+}
+.bl-lx__author-body {
+  display: grid;
+  gap: 0.75rem;
+  padding: 0 1rem 1rem;
+}
+.bl-lx__station {
+  container: lx-station / inline-size;
+}
+.bl-lx__lesson .bl-stage__source .bl-source {
+  overflow-wrap: anywhere;
+}
+.bl-lx__lesson .bl-stage__source .bl-source__head {
+  flex-wrap: wrap;
+  gap: 0.25rem 0.75rem;
+}
+.bl-lx__lesson[dir="ltr"] .bl-stage__source .bl-source {
+  padding-left: 1.6rem;
+  padding-right: 3.25rem;
+}
+.bl-lx__lesson[dir="rtl"] .bl-stage__source .bl-source {
+  padding-left: 3.25rem;
+  padding-right: 1.6rem;
+}
+@container lx-station (max-width: 640px) {
+  .bl-lx__lesson .bl-stage {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-areas: "main" "source";
+    gap: 1rem;
+  }
+  .bl-lx__lesson .bl-stage > :not(.bl-stage__source) {
+    margin-inline-start: 0;
+  }
+  .bl-lx__lesson .bl-stage__source {
+    padding-top: 0;
+  }
+  .bl-lx__lesson[dir] .bl-stage__source .bl-source {
+    padding-left: 1.1rem;
+    padding-right: 1.1rem;
+  }
+}
+
+@media (max-width: 899px) {
+  .bl-lx {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1rem;
+  }
+  .bl-lx__rail {
+    position: static;
+    padding: 0.5rem;
+  }
+  .bl-lx__steps {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0.35rem;
+  }
+  .bl-lx__steps::before {
+    display: none;
+  }
+  .bl-lx__step.bl-rail__step {
+    flex-direction: column;
+    align-items: center;
+    gap: 0.25rem;
+    min-height: 48px;
+    padding: 0.4rem 0.25rem;
+    text-align: center;
+  }
+  .bl-lx__step .bl-rail__num {
+    width: 30px;
+    height: 30px;
+    font-size: 0.85rem;
+  }
+  .bl-lx__step .bl-rail__label {
+    font-size: 0.85rem;
+    align-items: center;
+  }
+  .bl-lx__step-state {
+    font-size: 0.72rem;
+  }
+  .bl-lx__lesson {
+    gap: 2rem;
+  }
+  .bl-lx__paper .bl-paper__text {
+    font-size: 1.3em;
+  }
+  .bl-lx__progress-card {
+    padding: 1rem;
+  }
+}

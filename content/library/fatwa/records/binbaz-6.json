@@ -1,0 +1,65 @@
+{
+ "answer": [
+  [
+   {
+    "kind": "text",
+    "text": "ج: الطريق بحمد الله ميسر فعلى المؤمن أن يحاسب نفسه، ويلزمها الحق، ويتأثر بالمطبقين للنصوص على أنفسهم، فيستقيم على توحيد الله والإخلاص له ويلزم العمل بذلك، ويدعو إليه، حتى يثبت عليه، ويكون سجية له لا يضره بعد ذلك من أراد أن يعوقه عن هذا أو يلبس عليه.\n المهم أن يعنى بهذا الأمر ويحاسب نفسه، وأن يعرفه جيدا حتى لا تلتبس عليه الأمور، وحتى لا تروج عليه الشبهات"
+   },
+   {
+    "kind": "noteref",
+    "note": "1",
+    "text": "[1]"
+   },
+   {
+    "kind": "text",
+    "text": "."
+   }
+  ]
+ ],
+ "content_sha256": "sha256:c9d37b4a1ec0322fd006d7c656231c520fd43f347c4645caa77aa1d0f42a132c",
+ "id": "binbaz-6",
+ "language": "ar",
+ "notes": [
+  {
+   "id": "1",
+   "runs": [
+    {
+     "kind": "text",
+     "text": "مجموع فتاوى ابن باز (1/ 49)."
+    }
+   ]
+  }
+ ],
+ "question": [
+  [
+   {
+    "kind": "text",
+    "text": "س: يقول السائل: جزاكم الله خيرًا على محاضرتكم الوافية، وجعلها الله في ميزان أعمالكم، وسؤالي هو: كيف السبيل إلى معرفة حقيقة التوحيد اعتقادا وسلوكا وعملا؟"
+   }
+  ]
+ ],
+ "raw_sha256": "sha256:508afad46e17efc7746e60655abbaf1f4616aff05dea0d28d276406b69208cc2",
+ "reuse_basis": "user_confirmed_permission",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.fatwa/2",
+ "source": {
+  "edition": null,
+  "publisher": "binbaz.org.sa",
+  "publisher_name": "موقع الشيخ ابن باز",
+  "retrieved_at": "2026-10-06T03:52:34+00:00",
+  "series": "مجموع الفتاوى",
+  "url": "https://binbaz.org.sa/fatwas/6/%D8%A7%D9%84%D8%B3%D8%A8%D9%8A%D9%84-%D8%A7%D9%84%D9%89-%D9%85%D8%B9%D8%B1%D9%81%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D8%AF%D8%A7-%D9%88%D8%B3%D9%84%D9%88%D9%83%D8%A7-%D9%88%D8%B9%D9%85%D9%84%D8%A7"
+ },
+ "source_categories": [
+  {
+   "id": "208",
+   "label": "الربوبية والألوهية",
+   "url": "https://binbaz.org.sa/categories/objective/208"
+  }
+ ],
+ "source_record_id": "6",
+ "title": "السبيل إلى معرفة  التوحيد اعتقادًا وسلوكًا وعملًا",
+ "topic": "belief",
+ "translations": {},
+ "type": "fatwa"
+}

@@ -1,0 +1,170 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:f6c6544d6fbca0e9df94d2c511c266eb6c0d88b464dcd14a88863e79108bc7b1",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يُخْبِرُ النبيُّ صلى الله عليه وسلم أنَّ مَن صلى الفجر فهو في حِفْظ الله وحراستِه وحمايته، يدافع عنه، وينتصر له.\n\nثم حَذَّرَ عليه الصلاة والسلام مِن نَقْضِ هذا العهدِ وإبطاله، إما بترك صلاة الفجر، أو بالتعرُّض لمصليها والاعتداء عليه، فإنَّ مَن فَعَلَ ذلك فقد خَرَِقَ هذا الجِوار، واستحق الوعيد الشديد بأن يَطلُبَه الله بما فَرَّطَ في حقه، ومَن يطلبه الله يُدركه، ثم يلقيه على وجهه في النار.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "بيان أهمية صلاة الفجر وفضيلتها.",
+  "التحذير الشديد من التعرض بسوء لمن صلى الفجر.",
+  "انتقام الله تعالى ممن يتعرض لعباده الصالحين."
+ ],
+ "id": "hadeethenc-5435",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (1/ 454) (657).\nالمعجم الأوسط (4/ 5) (3464).\nنزهة المتقين شرح رياض الصالحين (1/ 249).\nشرح رياض الصالحين، لابن عثيمين (2/ 561).\nبهجة الناظرين شرح رياض الصالحين، لسليم الهلالي (1/ 323).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=5435",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:41+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/5435"
+ },
+ "source_categories": [
+  {
+   "id": "457",
+   "label": "فضل الصلاة"
+  }
+ ],
+ "source_record_id": "5435",
+ "text": "عن جُندب بن عبد الله القَسْرِِي رضي الله عنه قال: قال رسول الله صلى الله عليه وسلم: «مَنْ صَلَّى صَلَاةَ الصُّبْحِ فَهُوَ فِي ذِمَّةِ اللهِ، فَلَا يَطْلُبَنَّكُمُ اللهُ مِنْ ذِمَّتِهِ بِشَيْءٍ، فَإِنَّهُ مَنْ يَطْلُبْهُ مِنْ ذِمَّتِهِ بِشَيْءٍ يُدْرِكْهُ، ثُمَّ يَكُبَّهُ عَلَى وَجْهِهِ فِي نَارِ جَهَنَّمَ».",
+ "title": "من صلى صلاة الصبح فهو في ذمة الله",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=5435",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:2ef6bd847aedf0fdbe8d563ff28ec76e43d5e422b6c9cf195bbabe0e4e152707",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বর্ণনা করেছেন, যে ব্যক্তি ফজরের সালাত আদায় করলো সে আল্লাহর হেফাযত, যিম্মাদারি ও সংরক্ষণে থাকলো। তিনি তার থেকে বিপদাপদ দূর করবেন এবং তাকে সাহায্য করবেন।\r\n\r\nঅতপর নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম সাবধান করেছেন যে, ফজরের সালাত ত্যাগ করে অথবা মুসল্লির প্রতি সীমালঙ্ঘন করে বা তাকে লাঞ্ছিত করে যে ব্যক্তি আল্লাহর সাথে কৃত ওয়াদা ভঙ্গ করে, যে ব্যক্তি এমন করবে সে ব্যক্তি নিরাপত্তার দেয়াল ভেঙ্গে ফেলল যার ফলে সে   কঠোর শাস্তির উপযুক্ত হবে। আর তিনি তার বিপক্ষে এমন অধিকারসমূহের ব্যাপারে বাদী হবেন যা সে লংঘন করেছে। আর আল্লাহ যার বিপক্ষে বাদী হবেন তাকে তিনি নিশ্চিতভাবেই পাকড়াও করবেন। অতঃপর তিনি তাকে উপুড় করে জাহান্নামের আগুনে ফেলবেন।",
+   "grade": "সহীহ",
+   "hints": [
+    "হাদীসে ফজরের সালাতের গুরুত্ব ও ফযিলত বর্ণনা করা হয়েছে।\r",
+    "যে ব্যক্তি ফজরের সালাত আদায় করে,  তার যদি কেও মন্দ ও ক্ষতি করার ইচ্ছাতে  মুখামুখি হয়, তার জন্য কঠোর সতর্কতা রয়েছে এ হাদীসে।\r",
+    "যারা আল্লাহর নেককার বান্দাহদের বিরুদ্ধে লাগে, আল্লাহ তার থেকে প্রতিশোধ নেন।"
+   ],
+   "mapping": "same HadeethEnc record id 5435; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:52+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/5435",
+   "text": "জুনদুব ইবনু আব্দুল্লাহ আল-কাসরী রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন: “যে ব্যক্তি ফজরের সালাত আদায় করলো সে আল্লাহর যিম্মাদারিতে থাকলো। অতএব আল্লাহ যেন আপন যিম্মাদারীর কোন বিষয় সম্পর্কে তোমাদের বিপক্ষে বাদী না হন। কারণ তিনি যার বিপক্ষে আপন দায়িত্বের কোন ব্যাপারে বাদী হবেন, তাকে (নিশ্চিত) ধরতে পারবেনই। অতঃপর তিনি তাকে উপুড় করে জাহান্নামের আগুনে ফেলবেন।”",
+   "title": "“যে ব্যক্তি ফজরের সালাত আদায় করলো সে আল্লাহর যিম্মাদারিতে থাকলো",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=5435",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:17de8f923c5c597225c1f6aced6e72fa507721ea325069a45d5810fe1b8d6143",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) informs that whoever offers the Fajr prayer is preserved, guarded, and protected by Allah, defending and supporting him.\r\n\r\nThen, he warns that whoever violates and revokes this covenant, either by failing to perform the Fajr prayer or by harming or attacking one who has performed it, has infringed upon this protection and is therefore worthy of the stern warning that Allah will seize him, due to his failure to observe Allah's right. He will throw him on his face in Hellfire.",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth shows the significance and merit of the Fajr prayer.\r",
+    "It gives a stern warning against hurting anyone who has offered the Fajr prayer.\r",
+    "Allah Almighty takes revenge against those who harm His righteous servants."
+   ],
+   "mapping": "same HadeethEnc record id 5435; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:52+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/5435",
+   "text": "Jundub ibn ‘Abdullāh al-Qasri (may Allah be pleased with him) reported: The Messenger of Allah (may Allah's peace and blessings be upon him) said: \"Whoever performs the Fajr prayer is under the protection of Allah; so, do not infringe upon Allah's protection in any respect, for whoever infringes upon Allah's protection in any respect, He will seize him and throw him on his face in Hellfire.\"",
+   "title": "Whoever performs the Fajr prayer is under the protection of Allah",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=5435",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:fdb5fe98c80e9b97e7d94707b96abd9e5ecea00eb74af3fdb8865abcb6c8d14f",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) informe que quiconque accomplit la prière de l'aube est préservé par Allah, sous Sa garde et Sa protection, Il le défend et le secourt.\r\n\r\nEnsuite, il a averti (qu'Allah le couvre d'éloges et le préserve) que quiconque viole cet engagement et l'annule, soit en délaissant la prière de l'aube, soit en s'en prenant à ceux qui l'ont accomplie et en transgressant contre eux, quiconque donc accomplit cela a assurément transgressé cette proximité et mérité que la menace sévère s'applique sur lui. Allah lui demandera des comptes concernant Ses droits au sujet desquels il s'est montré négligeant, et lorsqu'Allah demande des comptes, Il les obtient ; ensuite, Il le culbutera sur son visage en Enfer.",
+   "grade": "Authentique",
+   "hints": [
+    "L'explication de l'importance de la prière de l'aube et son mérite.\r",
+    "La sévère mise en garde contre le fait de nuire à quelqu'un qui a accompli la prière de l'aube.\r",
+    "La vengeance d'Allah, Exalté soit-Il, contre quiconque s'en prend à Ses serviteurs vertueux."
+   ],
+   "mapping": "same HadeethEnc record id 5435; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:53+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/5435",
+   "text": "Joundoub ibn 'AbdiLlâh Al-Qasrî (qu'Allah l'agrée) relate que le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) a dit : « Quiconque a accompli la prière de l’aube est placé sous la protection d’Allah. Qu’Allah n’ait rien à exiger de vous concernant cette protection qu’Il a accordée. En effet, celui dont Allah exigera des comptes à son sujet, Il l’obtiendra, puis Il le culbutera sur son visage dans le feu de la Géhenne ! »",
+   "title": "Quiconque a accompli la prière de l’aube est placé sous la protection d’Allah",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=5435",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:9594ae5aba800654405074c3b59b8d9cdfccaafd1166ad807bcf568a555011f2",
+   "explanation": "Nabi ﷺ mengabarkan bahwa orang yang melaksanakan salat Subuh berada dalam penjagaan dan perlindungan Allah, Dia akan senantiasa membela dan menolongnya.\r\n\r\nKemudian beliau ﷺ mengingatkan agar jangan sampai membatalkan perjanjian itu, baik dengan meninggalkan salat Subuh atau mengganggu dan menzalimi orang yang mengerjakannya, karena orang yang melakukan hal itu telah membatalkan jaminan tersebut dan berhak mendapatkan ancaman keras, yaitu akan dituntut oleh Allah lantaran telah melalaikan hak-Nya, sedangkan orang yang dituntut oleh-Nya pasti akan tertangkap, kemudian Dia menelungkupkannya ke dalam api neraka.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Menjelaskan urgensi dan keutamaan salat Subuh.\r",
+    "2- Peringatan keras terhadap orang yang berbuat buruk kepada orang yang melaksanakan salat Subuh.\r",
+    "3- Balasan Allah Ta'ala terhadap orang yang mengganggu hamba-hamba-Nya yang saleh."
+   ],
+   "mapping": "same HadeethEnc record id 5435; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:52+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/5435",
+   "text": "Jundub bin Abdullah Al-Qasriy -raḍiyallāhu 'anhu- meriwayatkan, Rasulullah ﷺ bersabda, “Siapa yang melaksanakan salat subuh, maka dia berada dalam jaminan (lindungan) Allah. Oleh karena itu, jangan sampai Allah menuntut kalian dengan jaminan-Nya (karena tidak melaksanakan salat Subuh). Sungguh, siapa yang Allah tuntut dengan jaminan-Nya, Allah pasti akan menemukannya, kemudian Allah menelungkupkan wajahnya ke dalam neraka Jahanam.”",
+   "title": "“Siapa yang melaksanakan salat subuh, maka dia berada dalam jaminan (lindungan) Allah",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=5435",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:50d397f8b8b76af6a20aa716111d5981552e20b54779a7c6c5870452f4be25a0",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم بتا رہے ہیں کہ جس نے فجر کی نماز پڑھ لی، وہ اللہ کے تحفظ اور نگرانی میں ہوتا ہے۔ اللہ اس کا دفاع کرتا ہے اور اس  کے لیے انتقام لیتا ہے۔\r\n\r\nپھر اللہ کے رسول صلی اللہ علیہ و سلم نے اس عہد کو توڑنے سے منع کیا، جس کی ایک شکل یہ ہے کہ فجر کی نماز چھوڑ دی جائے اور دوسری شکل یہ ہے کہ فجر کی نماز پڑھنے والے کو تکلیف پہنچائی جائے یا اس پر دست درازی کی جائے۔ کیوں کہ جس نے ایسا کیا، اس نے اس دیوار کو توڑا اور اس سخت وعید کا مستحق ہو گیا کہ اللہ اسے اپنے حق میں کوتاہی کرنے کی وجہ سے طلب کرے گا اور جسے اللہ طلب کرے گا، اسے وہ پا ہی لے گا اور پھر اوندھے منہ جہنم کی آگ میں ڈال دے گا۔",
+   "grade": "صحيح",
+   "hints": [
+    "فجر کی نماز کی فضیلت و اہمیت۔\r",
+    "اس حدیث میں فجر کی نماز پڑھنے والے کے ساتھ بد سلوکی کرنے کی سخت ممانعت آئی ہے۔\r",
+    "اللہ اپنے نیک بندوں کو ایذا پہنچانے والوں سے انتقام لیتا ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 5435; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:52+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/5435",
+   "text": "جندب بن عبداللہ قَسری رضی اللہ عنہ سے روایت ہے، وہ کہتے ہيں کہ اللہ کے رسول صلی اللہ علیہ و سلم نے فرمایا : ”جس نے صبح کی نماز پڑھی، وہ اللہ کی پناہ میں آگیا۔ لہذا یہ موقع نہ آنے پائے کہ اللہ کی ذمہ داری میں کسی طور خلل انداز ہونے کی وجہ سے وہ تمہارے درپے ہو جائے۔ اگر اللہ اپنی ذمہ داری میں خلل انداز ہونے پر کسی کے درپے ہو جائے، تو اسے وہ بالآخر پکڑ ہی لیتا ہے اور اوندھے منہ جہنم میں ڈال دیتا ہے“۔",
+   "title": "”جس نے صبح کی نماز پڑھی، وہ اللہ کی پناہ میں آگیا",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=5435",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:fa7d8c4697fddc31971af9015433607ec8c88d4919d3b91c4b42a147d5f71397",
+   "explanation": "先知（愿主福安之）告诉我们，完成晨礼拜的人将在安拉的保护和守护之下，安拉将护卫他和援助他。\r\n\r\n然后，先知（愿主福安之）警告说，违反和废止这一约定，即以放弃晨礼拜，阻碍或侵犯礼晨礼拜者，那么这样毁约者，应受到真主严厉的警告，真主将会因轻贱他的权益而拿问，而真主拿问之人，必将会被抓住，然后将其抛入火狱。",
+   "grade": "正确的",
+   "hints": [
+    "阐明晨礼拜的重要性及其贵重。\r",
+    "严厉警告恶意对待礼晨礼拜者。\r",
+    "真主会报复伤害其清廉的仆人者。"
+   ],
+   "mapping": "same HadeethEnc record id 5435; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:52+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/5435",
+   "text": "据淳德布·阿卜杜拉·盖斯勒（愿主喜悦之）传述，他说：真主的使者（愿主福安之）说： “谁做了晨礼，谁就在真主的保护之下，真主绝不允许你们丝毫侵犯他的保护。谁侵犯真主的保护，真主将会将其抓住，抛进火狱。”",
+   "title": "“谁做了晨礼，谁就在真主的保护之下",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

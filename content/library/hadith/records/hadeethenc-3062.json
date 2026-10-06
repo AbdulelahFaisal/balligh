@@ -1,0 +1,171 @@
+{
+ "attribution": "متفق عليه بجميع رواياته",
+ "content_sha256": "sha256:fddf162c047f516f4364e0358123bbe18be4b6155ca8c2b2edde2b0370ec0b9a",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يُبَيِّنُ عبدُ الله بن عمر رضي الله عنهما: أنَّ مِن النوافل التي حفظها عن النبي صلى الله عليه وسلم عشر ركعات وتسمى السنن الرواتب، \nركعتين قبل الظهر، وركعتين بعدها، \nوركعتين بعد المغرب في بيتِه، \nوركعتين بعد العشاء في بيتِه، \nوقبل الفجر ركعتين، \nفتمَّتْ عشر ركعات. \nوأما صلاة الجمعة فيصلي بعدها ركعتين.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "استحباب هذه الرواتب، والمواظبة عليها.",
+  "مشروعية أداء السنة في البيت."
+ ],
+ "id": "hadeethenc-3062",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (2/ 58-59) (1180، 1181).\nصحيح مسلم (2/ 601) (882).\nتيسير العلام شرح عمدة الأحكام، للبسام (ص112).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3062",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:46+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3062"
+ },
+ "source_categories": [
+  {
+   "id": "473",
+   "label": "صلاة التطوع"
+  },
+  {
+   "id": "668",
+   "label": "هديه صلى الله عليه وسلم في الصلاة"
+  },
+  {
+   "id": "678",
+   "label": "هديه صلى الله عليه وسلم في النكاح ومعاشرته أهله"
+  }
+ ],
+ "source_record_id": "3062",
+ "text": "عَنِ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: حَفِظْتُ مِنَ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَشْرَ رَكَعَاتٍ: رَكْعَتَيْنِ قَبْلَ الظُّهْرِ، وَرَكْعَتَيْنِ بَعْدَهَا، وَرَكْعَتَيْنِ بَعْدَ المَغْرِبِ فِي بَيْتِهِ، وَرَكْعَتَيْنِ بَعْدَ العِشَاءِ فِي بَيْتِهِ، وَرَكْعَتَيْنِ قَبْلَ صَلاَةِ الصُّبْحِ، وَكَانَتْ سَاعَةً لاَ يُدْخَلُ عَلَى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِيهَا، حَدَّثَتْنِي حَفْصَةُ أَنَّهُ كَانَ إِذَا أَذَّنَ المُؤَذِّنُ وَطَلَعَ الفَجْرُ صَلَّى رَكْعَتَيْنِ، وَفِي لَفْظٍ: أَنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ كَانَ يُصَلِّي بَعْدَ الْجُمُعَةِ رَكْعَتَيْنِ.",
+ "title": "حفظت من النبي صلى الله عليه وسلم عشر ركعات",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3062",
+   "arabic_match": "exact",
+   "attribution": "এর সকল বর্ণনা মুত্তাফাকুন আলাইহি (সহীহ বুখারী ও মুসলিম)",
+   "content_sha256": "sha256:191c7495036016b3842ed3eea6b9e84071b1b381782ecb07c02252ecf1044cf8",
+   "explanation": "ইবনু উমার রাদিয়াল্লাহু ‘আনহুমা বলেন: নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম যেসব নফল সালাত নিয়মিত আদায় করতেন, তা দশ রাক‘আত। এগুলোকে ‘সুনানুর রাওয়াতিব’ তথা নিয়মিত আদায়কৃত সুন্নাত সালাত বলা হয়। যুহরের ফরয সালাতের পূর্বে দু’রাক‘আত, পরে দু’ রাক‘আত। মাগরিবের পরে তাঁর ঘরে দু’রাক‘আত সুন্নাত আদায়। ‘ইশার ফরয সালাতের পরে দু’রাক‘আত তাঁর ঘরে আদায়। আর দু’রাক‘আত ফজরের(ফরজ) সালাতের পূর্বে। এভাবে সর্বমোট দশ রাক‘আত নফল সালাত পরিপূর্ণ হয়। অন্যদিকে জুমু‘আর ফরয সালাতের পরে তিনি দু’রাকা’আত সালাত আদায় করতেন।",
+   "grade": "সহীহ",
+   "hints": [
+    "ফরয সালাতের সাথে সংশ্লিষ্ট এসব সুন্নত সালাতসমূহ নিয়মিত পড়া মুস্তাহাব।\r",
+    "সুন্নাত সালাত ঘরে আদায় করা শরী‘আহসম্মত।"
+   ],
+   "mapping": "same HadeethEnc record id 3062; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:55+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3062",
+   "text": "ইবনু উমার রাদিয়াল্লাহু ‘আনহুমা থেকে বর্ণিত, তিনি বলেন: ”নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম হতে আমি দশ রাক‘আত সালাত আমার স্মৃতিতে সংরক্ষণ করে রেখেছি। যুহরের পূর্বে দু’রাক‘আত, পরে দু’ রাক‘আত, মাগরিবের পরে দু’রাক‘আত তাঁর ঘরে, ‘ইশার পরে দু’রাক‘আত তাঁর ঘরে এবং দু’রাক‘আত সকালের (ফজরের) সালাতের পূর্বে। আর সময়টি ছিল এমন, যখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের নিকট (সচরাচর) কোন লোককে প্রবেশ করতে দেয়া হতো না।\nতবে উম্মুল মু’মিনীন হাফসা রাদিয়াল্লাহু ‘আনহা আমার কাছে বর্ণনা করেছেন যে, যখন মুআয্‌যিন আযান দিতেন এবং ফজর (সুবহে-সাদিক) উদিত হতো, তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু’ রাকা’আত সালাত আদায় করতেন। \nঅপর বর্ণনায় আছে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জুম‘আর পরে দু’রাকা’আত সালাত  আদায় করতেন।",
+   "title": "”নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম হতে আমি দশ রাক‘আত সালাত আমার স্মৃতিতে সংরক্ষণ করে রেখেছি।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3062",
+   "arabic_match": "exact",
+   "attribution": "Al-Bukhari and Muslim with all its versions",
+   "content_sha256": "sha256:1517c0075349ec5917cee272e7415e0dcdbfe0d94a9b349420c7547f15b761e1",
+   "explanation": "‘Abdullah ibn ‘Umar (may Allah be pleased with him and his father) clarifies that some of the voluntary prayers he memorized from the Prophet (may Allah's peace and blessings be upon him) were ten Rak‘ahs, which are called \"As-Sunan ar-Rawātib\" (regular Sunnah prayers). They are: two Rak‘ahs before Zhuhr and two after it, two Rak‘ahs after Maghrib at his home, two Rak‘ahs after ‘Ishā’ at his home, and two Rak‘ahs before Fajr, and these are ten Rak‘ahs in total. As for the Friday prayer, he used to offer two Rak‘ahs after it.",
+   "grade": "Authentic",
+   "hints": [
+    "It is recommended to perform the mentioned Rawātib (regular Sunnah prayers) on a regular basis.\r",
+    "It is permissible to perform the Sunnah prayer at home."
+   ],
+   "mapping": "same HadeethEnc record id 3062; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:55+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3062",
+   "text": "Ibn ‘Umar (may Allah be pleased with him and his father) reported: I memorized from the Prophet (may Allah's peace and blessings be upon him) ten Rak‘ahs (units of prayer): two Rak‘ahs before Zhuhr and two Rak‘ahs after it, two Rak‘ahs after Maghrib at his home, two Rak‘ahs after ‘Ishā’ at his home, and two Rak‘ahs before the Fajr prayer, an hour when none was allowed to enter upon the Prophet (may Allah's peace and blessings be upon him). Hafsah told me that after the muezzin would make Adhān (call to prayer) and after the break of dawn, the Prophet (may Allah's peace and blessings be upon him) used to offer two Rak‘ahs. Another wording reads: The Prophet (may Allah's peace and blessings be upon him) used to offer two Rak‘ahs after the Friday prayer.",
+   "title": "I memorized from the Prophet (may Allah's peace and blessings be upon him) ten Rak‘ahs (units of prayer)",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=3062",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim dans l'ensemble de ses versions",
+   "content_sha256": "sha256:03d33c4ade880c47572acb92539648c387086fe37c44b6318103367bb48ee3d0",
+   "explanation": "'AbdaLlah ibn 'Umar (qu'Allah les agrée tous les deux) explique qu'il a mémorisées du Prophète ﷺ dix prières surérogatoires qui sont appelées : \" As-Sunan Ar-Rawâtib \". Deux unités de prière avant le Dhuhr et deux unités de prière après. Deux unités de prière après le Maghreb chez soi. Deux unités de prière après le 'Ichâ' chez soi. Deux unités de prière avant Al Fajr. Ainsi, cela fait deux unités de prière. En ce qui concerne la prière du Vendredi, la personne accomplit deux unités de prière après celle-ci [chez lui].",
+   "grade": "Authentique",
+   "hints": [
+    "La recommandation de ces prières dites : \" Ar-Rawâtib \" et le fait d'y être assidu.\r",
+    "La prescription de s'acquitter de ces prières surérogatoires chez soi."
+   ],
+   "mapping": "same HadeethEnc record id 3062; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:55+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/3062",
+   "text": "D'après Ibn 'Umar (qu'Allah les agrée tous les deux) : « J’ai retenu du Prophète ﷺ dix unités de prière  : deux unités de prière avant et après la prière du midi ; deux unités de prière après la prière du coucher chez lui ; deux unités de prière après la prière du soir [toujours] chez lui ; et deux unités de prière avant la prière de l'aube, moment durant lequel personne n'entrait chez le Prophète ﷺ. » Hafsah (qu'Allah l'agrée) m’a raconté que lorsque le muezzin avait appelé à la prière et l'aube s'était levée, alors le Prophète ﷺ accomplissait deux unités de prière. Et dans une version : \" Le Prophète ﷺ accomplissait deux unités de prière chez lui après la prière du Vendredi. \"",
+   "title": "J’ai retenu du Prophète ﷺ dix unités de prière",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3062",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih di semua riwayatnya",
+   "content_sha256": "sha256:d2b0c53e2334164f4eccee88d6ebbf4c4876571717cbaf3b5f47b1737bdf0db5",
+   "explanation": "Abdullah bin Umar -raḍiyallāhu 'anhumā- menerangkan bahwa di antara salat sunah yang dihafalnya dari Nabi ﷺ ialah sepuluh rakaat. Salat-salat itu disebut salat sunah rawatib, yaitu 2 rakaat sebelum Zuhur dan 2 rakaat setelahnya, 2 rakaat setelah Magrib di rumahnya, 2 rakaat setelah Isya di rumahnya, dan 2 rakaat sebelum salat Subuh. Semuanya berjumlah sepuluh rakaat. Adapun pada salat Jumat, beliau mengerjakan salat dua rakaat setelahnya.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Anjuran mengerjakan salat sunah rawatib dan merutinkannya.\r",
+    "2- Sunah menunaikan salat sunah di rumah."
+   ],
+   "mapping": "same HadeethEnc record id 3062; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:55+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3062",
+   "text": "Ibnu Umar -raḍiyallāhu 'anhuma- berkata, \"Aku menghafal dari Nabi ﷺ sepuluh rakaat: 2 rakaat sebelum Zuhur dan 2 rakaat setelahnya, 2 rakaat setelah Magrib di rumahnya, 2 rakaat setelah Isya di rumahnya, dan 2 rakaat sebelum Subuh. Waktu-waktu tersebut adalah waktu Nabi ﷺ tidak ditemui. Aku diceritakan oleh Ḥafṣah bahwa apabila muazin telah mengumandangkan azan dan fajar telah terbit, beliau mengerjakan salat dua rakaat.\" Dalam redaksi lainnya: \"Nabi ﷺ mengerjakan salat dua rakaat setelah salat Jumat.\"",
+   "title": "Aku menghafal dari Nabi ﷺ sepuluh rakaat",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3062",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه بجميع رواياته",
+   "content_sha256": "sha256:9338a19b7f3b63a888dd8d143857baa2bb280012c9d208a0bebfa0e7e176c314",
+   "explanation": "عبداللہ بن عمر رضی اللہ عنہما بتا رہے ہیں کہ انھوں نے اللہ کے رسول صلی اللہ علیہ و سلم سے نوافل کی دس رکعتیں محفوظ کی ہیں، جنھیں سنن رواتب کہا جاتا ہے۔ دو رکعت ظہر سے پہلے اور دو رکعت ظہر کے بعد۔ دو رکعت مغرب کے بعد گھر میں۔ دو رکعت عشا کے بعد گھر میں۔ دو رکعت فجر سے پہلے۔ اس طرح کل دس رکعتیں ہوئیں۔ رہی بات جمعے کی نماز کی، تو اس کے بعد آپ دو رکعت پڑھا کرتے تھے۔",
+   "grade": "صحيح",
+   "hints": [
+    "ان سنن رواتب کا مستحب ہونا اور ان کی پابندی کرنا۔\r",
+    "سنت نماز گھر میں پڑھنے کی مشروعیت۔"
+   ],
+   "mapping": "same HadeethEnc record id 3062; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:55+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3062",
+   "text": "عبداللہ بن عمر رضی اللہ عنہما سے روایت ہے، وہ کہتے ہیں : میں نے اللہ کے نبی صلی اللہ علیہ و سلم سے دس رکعتیں محفوظ کی ہیں۔  دو رکعت ظہر سے پہلے، دو رکعت اس کے بعد، دو رکعت مغرب کے بعد گھر میں، دو رکعت عشا کے بعد گھر میں اور دو رکعت صبح کی نماز سے پہلے۔ دراصل یہ ایسا وقت تھا، جب اللہ کے نبی صلی اللہ علیہ و سلم کے یہاں کوئی جاتا نہيں تھا۔ مجھے حفصہ رضی اللہ عنہا نے بتایا کہ جب مؤذن اذان دیتا اور فجر طلوع ہو جاتا، تو آپ دو رکعت پڑھتے۔ جب کہ ایک روایت کے الفاظ ہيں : اللہ کے نبی صلی اللہ علیہ و سلم جمعہ کے بعد دو رکعت پڑھتے تھے۔",
+   "title": "میں نے اللہ کے نبی صلی اللہ علیہ و سلم سے دس رکعتیں محفوظ کی ہیں",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3062",
+   "arabic_match": "exact",
+   "attribution": "所有传述均由两大圣训集共同辑录",
+   "content_sha256": "sha256:fae4a9c098a9f582f1c6b0d3e5136c505bb652730ec92f7a32d9629ddecc7df0",
+   "explanation": "阿卜杜拉·本·奥马尔（愿主喜悦他们）解释说：从先知（愿主福安之）那里我背记了十番拜功，这些拜功被称为强调的圣行。 晌礼拜前两拜及其后两拜。 昏礼拜后在家做两拜。 在家宵礼拜后的两拜。 晨礼拜前的两拜。 一共是十拜。 至于主麻拜，则在主麻之后礼两拜。",
+   "grade": "正确的",
+   "hints": [
+    "这些强调性的拜功是嘉行，要坚持不懈地履行。\r",
+    "规定圣行拜在家中礼"
+   ],
+   "mapping": "same HadeethEnc record id 3062; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:55+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3062",
+   "text": "据伊本·欧麦尔（愿主喜悦他）的传述：他说： 我从先知（愿主福安之）那里记下了十个拜功：晌礼前的两番拜功，晌礼后两番拜功，昏礼拜后礼在家中两番拜功，宵礼拜后在家两番拜，晨礼前的两番拜功。有一个时间段，没人进入到先知（愿主福安之）的家，哈菲萨告诉我，当宣礼员为晨礼宣礼后，先知（愿主福安之）会礼两拜，还有一种说法是，先知（愿主福安之）在主麻拜后礼两拜。",
+   "title": "我从先知（愿主福安之）那里记下了十个拜功：",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

@@ -1,0 +1,126 @@
+{
+  "stations": "Lesson stations",
+  "done": "done",
+  "notYet": "not yet",
+  "markRead": "I have read the cards",
+  "nextTerms": "Next: understand a term",
+  "nextQuestion": "Next: the comprehension question",
+  "termsNone": "This lesson has no terms.",
+  "termsHelp": "Open a term to see its meaning and where it comes from.",
+  "termsCount": "Opened {{opened}} of {{total}} terms.",
+  "summaryTitle": "Your progress in this lesson",
+  "summary": {
+    "read": "Marked as read",
+    "notRead": "Not marked as read yet",
+    "solved": "Answered correctly",
+    "tried": "Tried; not answered correctly yet",
+    "notAnswered": "Not answered yet"
+  },
+  "complete": "You have completed the three stations of this lesson.",
+  "completedCount": "{{done}} of 3 stations completed",
+  "revisit": "Revisit: {{station}}",
+  "localNote": "Progress records only what you did in this browser: marking the reading, opening terms and your answer. It is not a grade or a measure of learning, and it is not part of the exported file.",
+  "reset": "Reset my progress",
+  "resetFailed": "The progress record could not be removed from this browser. Progress on this page was reset.",
+  "storage": {
+    "saved": "Progress is saved in this browser only.",
+    "unavailable": "This browser does not let the app save progress. It is kept only while this page is open.",
+    "corrupt": "Saved progress in this browser could not be read and was left untouched. Progress is kept only while this page is open until you reset it.",
+    "write_failed": "Progress could not be saved in this browser. It is kept only while this page is open."
+  },
+  "reviewNoticeAck": "Acknowledged locally by {{label}}. This is a self-declared acknowledgment, not a verified identity or a scholarly review.",
+  "reviewNoticeDraft": "Technical preview: no one has acknowledged this version. Use it to check the lesson, not to teach from it.",
+  "nav": {
+    "learn": "Learn",
+    "library": "Library",
+    "prepare": "Prepare a lesson",
+    "sources": "Sources & limits",
+    "teacherSteps": "Lesson preparation steps"
+  },
+  "home": {
+    "title": "Understand Islam through identifiable sources",
+    "body": "Read published sources in your language where a translation exists, and turn suitable sources into short lessons a teacher reviews before sharing.",
+    "learnTitle": "Learn",
+    "learnBody": "Begin with a short, deliberate selection of first readings, or continue where you stopped.",
+    "learnCta": "Start learning",
+    "libraryTitle": "Library",
+    "libraryBody": "The Quran with named published translations, an Arabic question-and-answer collection and hadith with their publisher's notes.",
+    "libraryCta": "Open the library",
+    "prepareTitle": "Prepare a lesson",
+    "prepareBody": "For teachers: choose a registered source, review the draft against it, then preview and download.",
+    "prepareCta": "Prepare a lesson"
+  },
+  "coverage": "The interface has 7 languages; content coverage differs: the questions and answers are Arabic-only published records, hadith translations vary by record, and Quran meanings come from six named published editions.",
+  "kinds": "A published translation comes from its named publisher. An AI draft is unreviewed generated text. A local acknowledgment records only that a preparer on this device compared a draft with its source.",
+  "page": {
+    "title": "Start learning",
+    "intro": "A small first-step selection from the library: two short surahs, a few clear published answers and hadith. Each step opens the full source.",
+    "start": "Start with step 1",
+    "noQuiz": "Reading needs no quiz. A saved place shows where you stopped, not what you understood.",
+    "continueLabel": "Continue reading",
+    "continue": "Continue where you stopped",
+    "continueStale": "Your saved place no longer matches the current source, so it is not offered.",
+    "loading": "Loading first steps…",
+    "error": "First steps could not be loaded.",
+    "stepsTitle": "First steps",
+    "basis": "An editorial reading order based on a model-assisted review of the full texts. It is not a curriculum and not a scholarly approval."
+  },
+  "levels": {
+    "foundation": "Foundation",
+    "practical_beginner": "Practical first step"
+  },
+  "collections": {
+    "quran": "Quran",
+    "fatwa": "Question and answer",
+    "hadith": "Hadith"
+  },
+  "topics": {
+    "opening_prayer": "The Opening: the prayer recited in every prayer",
+    "what_islam_means": "What Islam means",
+    "testimonies": "The meaning of the two testimonies",
+    "oneness": "The oneness of God",
+    "pillars": "The pillars of Islam",
+    "wudu_steps": "Wudu step by step",
+    "missed_prayer_sleep": "Sleeping through the dawn prayer",
+    "obligations_first": "Obligations first, then voluntary worship",
+    "good_conduct": "Good conduct",
+    "names_after_islam": "Keeping your name after entering Islam"
+  },
+  "cautions": {
+    "obligation_vs_preference": "The answer separates what is required from what is only recommended."
+  },
+  "languages": "Available in: {{languages}}",
+  "arabicOnly": "Arabic only (published source)",
+  "step": "Step {{n}} of {{total}} in First steps",
+  "next": "Next: {{topic}}",
+  "back": "All first steps",
+  "teacher": {
+    "badge": {
+      "teacher_context": "Teacher context",
+      "advanced_reference": "Advanced reference",
+      "adult_situational_reference": "Adult situational reference",
+      "family_specific": "Family-specific case"
+    },
+    "notice": "Kept complete as a reference. Editorial review routes it to teacher-guided reading, not to first-step self-study.",
+    "reasonLabel": "Review note (English)"
+  },
+  "prepare": {
+    "body": "This record is registered as a complete source for lesson preparation.",
+    "cta": "Prepare a lesson",
+    "none": "Lesson preparation is not available for this record; only registered complete sources can be prepared."
+  },
+  "stepsDone": "You have reached the end of the first steps.",
+  "readingStorage": {
+    "malformed": "Your saved reading place could not be read. It was left unchanged and is not used.",
+    "unavailable": "This browser is not saving your reading place; it is kept only while this page stays open.",
+    "write_failed": "Your reading place could not be saved; it is kept only while this page stays open."
+  },
+  "readingPlace": {
+    "save": "Save my place here",
+    "saved": "Your place here is saved.",
+    "savedSession": "Place kept only while this page stays open.",
+    "invalid": "This place could not be saved.",
+    "missing": "The saved place was not found in this text, so the page opens at the beginning.",
+    "stale": "Your saved place no longer matches this version of the text, so the page opens at the beginning."
+  }
+}

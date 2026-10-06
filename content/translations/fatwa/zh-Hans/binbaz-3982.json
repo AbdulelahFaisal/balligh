@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3982",
+ "source_content_sha256": "sha256:6441447dba6aafe3400479851f72e9ffa818f84e893007f7e0bb0563112484ef",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:22:14.187123+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 615,
+  "completion_tokens": 336,
+  "total_tokens": 951,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 615
+ },
+ "latency_ms": 4484,
+ "units": [
+  {
+   "id": "title",
+   "text": "履行对真主的崇拜义务的最低限度是什么？"
+  },
+  {
+   "id": "q0",
+   "text": "问题："
+  },
+  {
+   "id": "q1",
+   "text": "若未达到以下崇拜的最低限度，被造物便不能实现造物主在⟦Q1⟧〔播种者章：56〕中所说的目的，这个最低限度是什么？"
+  },
+  {
+   "id": "a0",
+   "text": "回答："
+  },
+  {
+   "id": "a1",
+   "text": "最低限度是履行主命、远离禁戒。如果履行了主命并远离了禁戒，他就没有任何罪责，被称为“中正者”，属于善人之列。"
+  },
+  {
+   "id": "a2",
+   "text": "如果再增加，履行了可嘉之事，远离了可憎之事，就成为“争先者”和“近主者”，属于最高阶层。\n阶层有三：\n一、违抗者阶层：他们是亏待自身的人。\n二、中正的行善者阶层：他们只履行了主命、远离了禁戒。\n三、最高阶层，即众使者及其追随者中的“争先者”和“近主者”：他们积极行善，履行主命，在各种善行中竞争，远离禁戒，避开可憎和可疑之事。这些人就是最高阶层。"
+  }
+ ]
+}

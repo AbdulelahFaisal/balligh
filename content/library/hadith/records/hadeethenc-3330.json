@@ -1,0 +1,185 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:f93286fdf1b79ccf46afafc38b88a67d426c4172547c86dd069c953f40820887",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "تُخبِرُنا عائشةُ أم المؤمنين وابنُ عباس رضي الله عنهما أنه حينما حَضرتْ النبيَّ صلى الله عليه وسلم الوفاةُ جعل يضع قطعةَ قماشٍ على وجهه، فإذا صعُب عليه التَّنفُّس بسبب سكرات الموت أزالها عن وجهه، فقال في تلك الحال الشديدة: لَعَنَ اللهُ اليهود والنصارى، وطَرَدَهم من رحمته؛ وذلك لأنهم اتخذوا قبور أنبيائهم مساجد؛ وذلك بالبناء عليها أو الصلاة عندها أو إليها. ولولا خطورة الأمر لَمَا ذكره في مثل هذا المقام، لذا نهى النبيُّ صلى الله عليه وسلم أمتَه عن مشابهة ذلك الفعل؛ لأنه من فعل اليهود والنصارى، ولأنه ذريعة موصلة للشرك بالله عز وجل.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "أن هذا من وصاياه الأخيرة مما يدل على أهميتها والعناية بها.",
+  "النهي الأكيد، والتحريم الشديد من اتخاذ القبور مساجد، وقصد الصلاة عندها غير صلاة الجنازة؛ فذلك ذريعة إلى تعظيم الميت والطواف بقبره والتمسح بأركانه والنداء باسمه، وكل ذلك من الشرك ووسائله.",
+  "شدة اهتمام رسول الله صلى الله عليه وسلم واعتنائه بالتوحيد وخوفِه مِن تعظيم القبور؛ لأن ذلك يفضي إلى الشرك.",
+  "أن الله -تعالى- صان نبيه -عليه الصلاة والسلام- عن أن يُعْمَلَ الشرك عند قبره، فألهم أصحابه ومن بعدهم، أن يصونوا قبره من أن يبرز.",
+  "النهي عن التشبه باليهود والنصارى، وأن البناء على القبور من سننهم.",
+  "من اتخاذ القبور مساجد الصلاة عندها وإليها، ولو لم يُبْنَ مسجدٌ."
+ ],
+ "id": "hadeethenc-3330",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (1/ 95) (435)،  (2/ 102) (1390).\nصحيح مسلم (1/ 377) (531)، (1/ 376) (529).\nالملخص في شرح كتاب التوحيد، للشيخ صالح الفوزان (ص170).\nالجديد في شرح كتاب التوحيد، لمحمد بن عبد العزيز السليمان القرعاوي (ص185).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3330",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:32+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3330"
+ },
+ "source_categories": [
+  {
+   "id": "73",
+   "label": "توحيد الألوهية"
+  }
+ ],
+ "source_record_id": "3330",
+ "text": "عن عائشة أم المؤمنين وعبد الله بن عباس رضي الله عنهما قالا: لَمَّا نَزَلَ بِرَسُولِ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ طَفِقَ يَطْرَحُ خَمِيصَةً لَهُ عَلَى وَجْهِهِ، فَإِذَا اغْتَمَّ بِهَا كَشَفَهَا عَنْ وَجْهِهِ، فَقَالَ وَهُوَ كَذَلِكَ: «لَعْنَةُ اللَّهِ عَلَى اليَهُودِ وَالنَّصَارَى، اتَّخَذُوا قُبُورَ أَنْبِيَائِهِمْ مَسَاجِدَ» يُحَذِّرُ مَا صَنَعُوا.",
+ "title": "لعنة الله على اليهود والنصارى، اتخذوا قبور أنبيائهم مساجد",
+ "topic": "belief",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3330",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:436690088087c12aff868c3276106eb7ac0c77e1b58ff8aba94fd9f5314b5105",
+   "explanation": "‘আয়িশা ও ইবনু আব্বাস রাদিয়াল্লাহু ‘আনহুম আমাদের সংবাদ দিচ্ছেন,  যখন নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের মৃত্যু হাজির হলো তখন তিনি একটি কাপড়ের অংশ তার মুখমন্ডলের ওপর রাখছিলেন। মৃত্যু যন্ত্রণার ফলে শ্বাস-প্রশ্বাস গ্রহণ করা কঠিন হলে তা নিজ চেহারা থেকে সরিয়ে দিচ্ছিলেন। তিনি এই কঠিন অবস্থায় বললেন, আল্লাহ ইহুদী ও খ্রিস্টানদের ওপর লানত করুন এবং তাদেরকে তার রহমত থেকে বঞ্চিত করুন। কারণ, তারা তাদের নবীদের কবরের ওপর মসজিদ নির্মাণ করেছে। বিষয়টি ভয়ঙ্কর না হলে এই অবস্থায় তা উল্লেখ করতেন না। একারণেই তাঁর উম্মাতকে ঐ কর্মের সাথে সাদৃশ্যপূর্ণ আমল করা থেকে নিষেধ করেছেন। কারণ, তা ইহুদী ও খ্রিস্টানদের কর্ম। অধিকন্তু তা আল্লাহ তা‘আলার সাথে শিরকের উকরণ যা সেদিকেই নিয়ে যায়।",
+   "grade": "সহীহ",
+   "hints": [
+    "নবী ও সৎব্যক্তিদের কবরকে সালাত আদায়ের মসজিদ বানানো নিষিদ্ধ। কারণ, তা শিরকের উপকরণ।\r",
+    "তাওহীদের প্রতি নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের কঠিন যত্ন ও গুরুত্বারোপ করা। কারণ, তা শিরকের দিকে ধাবিতকারী।\r",
+    "ইহুদী খৃষ্টান এবং যারা তাদের মতো কবরের উপর পাকা করে মাজার নির্মান ও ওলীর কবরস্থানে মসজিদ বানায় তাদেরকে অভিশাপ করা বৈধ।\r",
+    "কবরসমূহের ওপর সৌধ-মাজার নির্মাণ করা ইহুদী ও খ্রিস্টানদের রীতি।হাদীসটিতে তাদের সাথে সাদৃশ্য গ্রহণ করতে  নিষেধ করা হয়েছে।\r",
+    "কবরের নিকট ও কবরের দিকে ফিরে সালাত আদায় কবরকে মসজিদ বানানোর শামিল, যদিও মসজিদ নির্মান না করা হয়।"
+   ],
+   "mapping": "same HadeethEnc record id 3330; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:17+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3330",
+   "text": "আয়িশাহ ও ’আবদুল্লাহ ইবনু ’আব্বাস রাদিয়াল্লাহু ‘আনহুমা হতে বর্ণিত,তাঁরা উভয়ে বলেছেন , নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর মৃত্যু যন্ত্রণা শুরু হলে তিনি তাঁর একটা চাদর নিজ মুখমন্ডলের ওপর নিক্ষেপ করতে থাকেন। যখন শ্বাস বন্ধ হবার উপক্রম হয়, তখন মুখ হতে চাদর সরিয়ে দেন। এই অবস্থায় তিনি বললেনঃ “ইয়াহুদী ও নাসারাদের ওপর আল্লাহর অভিশাপ, তারা তাদের নবীদের কবরকে মসজিদ বানিয়েছে”। (এ বলে) তারা যে কার্যকলাপ করত তা হতে সতর্ক করেছিলেন।",
+   "title": "ইয়াহুদী ও নাসারাদের ওপর আল্লাহর অভিশাপ, তারা তাদের নবীদের কবরকে মসজিদ বানিয়েছে",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3330",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:db48364b4cb3a862c774b7ad68216eb46cce2e788a11ee5deec50ecb74e56ce7",
+   "explanation": "'Ā’ishah and 'Abdullāh ibn' Abbās (may Allah be pleased with both of them) inform us that when the Prophet (may Allah's peace and blessings be upon him) was close to breathing his last, he kept drawing a piece of cloth upon his face. When he found it hard to breathe due to the throes of death, he would remove it from his face. While being in that tough condition, he said: May Allah curse the Jews and the Christians and expel them out of His mercy. Were it not for the seriousness of this matter, he would not mention it in a situation like that. Hence, the Prophet (may Allah's peace and blessings be upon him) forbade his Ummah from emulating this act, because it was done by the Jews and the Christians and because it is a means conducive to association of partners with Allah Almighty.",
+   "grade": "Authentic",
+   "hints": [
+    "It is prohibited to take the graves of the prophets and pious people as places of worship where prayer is offered to Allah, for this is a means to Shirk (polytheism).\r",
+    "The Messenger of Allah (may Allah’s peace and blessings be upon him) was so attentive and careful about Tawhīd (monotheism) and so fearful about exalting the graves, for this leads to Shirk.\r",
+    "It is permissible to curse the Jews and the Christians and those who follow them in building over the graves and taking them as places of worship.\r",
+    "Building over the graves is one of the customs of the Jews and the Christians, and imitating them is prohibited in this Hadīth.\r",
+    "Offering prayer at the graves or towards them falls under taking the graves as places of worship, even if no mosque is built there."
+   ],
+   "mapping": "same HadeethEnc record id 3330; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:16+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3330",
+   "text": "‘Ā’ishah and ‘Abdullāh ibn ‘Abbās (may Allah be pleased with both of them) reported: As the Messenger of Allah (may Allah's peace and blessings be upon him) was about to breathe his last breath, he kept drawing his sheet over his face. When he felt uneased, he would uncover his face and say in that very state: \"May the curse of Allah be upon the Jews and the Christians, for they took the graves of their prophets as places of worship.\" He wanted to warn against what they did.",
+   "title": "May the curse of Allah be upon the Jews and the Christians, for they took the graves of their prophets as places of worship",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=3330",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:5a1518241baa2e76687ffbdc901947fea262267e680df070476f4a82088867cc",
+   "explanation": "Aïcha et Ibn 'Abbâs (qu'Allah les agrée) nous informe qu'au moment où la mort s'est présentée au Prophète ﷺ,  il a mis un morceau de tissu sur son visage et lorsqu'il a éprouvé des difficultés à respirer à cause des affres de la mort, il l'ôta de son visage. Et dans cet état difficile, il a dit : \" Qu'Allah maudisse les Juifs et les Chrétiens et qu'Il les bannisse de Sa miséricorde. \" Cela parce qu'ils ont construit des lieux de culte sur les tombes de leurs prophètes, et si ce n'était la gravité de l'affaire, il n'aurait pas mentionné cela en un tel moment. C'est pourquoi, le Prophète ﷺ a interdit à sa communauté de leur ressembler dans cet acte parce que c'est un acte des Juifs et des Chrétiens et parce que c'est un prétexte qui conduit au polythéisme vis-à-vis d'Allah ﷻ.",
+   "grade": "Authentique",
+   "hints": [
+    "L'interdiction de prendre les tombes des prophètes et des vertueux en tant que lieux de culte et d'y prier pour Allah à l'intérieur parce que cela est un moyen qui mène au polythéisme.\r",
+    "La grande préoccupation et l'attention du Messager d'Allah ﷺ au monothéisme ainsi que sa crainte de la vénération des tombes parce que cela conduit au polythéisme.\r",
+    "La permission de maudire les Juifs et les Chrétiens et quiconque a commis le même acte qu'eux dans la construction sur les tombes et de prendre celles-ci comme lieux de culte.\r",
+    "La construction sur les tombes fait partie des traditions des Juifs et des Chrétiens. Et dans le hadith, il y a une interdiction de leur ressembler.\r",
+    "L'interdiction de prendre les tombes comme lieux de culte, de prier à l'interieur ou dans leur direction même si un lieu de culte n'a pas été construit dessus."
+   ],
+   "mapping": "same HadeethEnc record id 3330; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:17+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/3330",
+   "text": "D'après 'Aïcha et 'AbdaLlah ibn 'Abbâs (qu'Allah les agrée tous les deux) qui ont dit : « Alors que le Messager d'Allah ﷺ était sur le point de mourir, il se recouvrait le visage avec une étoffe et quand elle l'étouffait, il l'enlevait et disait - et il en est certes ainsi - : «  Que la malédiction d'Allah soit sur les Juifs et les Chrétiens ! Ils ont pris les tombes de leurs Prophètes comme lieu de culte.  » Il mettait en garde contre ce qu'ils avaient fait.",
+   "title": "Que la malédiction d'Allah soit sur les Juifs et les Chrétiens ! Ils ont pris les tombes de leurs Prophètes comme lieu de culte",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3330",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:3b9bdbca07269039961d35bee06eec1d761bf6a569750a7994dc3101c5474af0",
+   "explanation": "Aisyah dan Ibnu 'Abbās -raḍiyallāhu 'anhum- mengabarkan, bahwa ketika kematian menghampiri Nabi ﷺ, beliau segera meletakkan sehelai kain di mukanya. Apabila beliau sulit bernapas lantaran sakratulmaut, beliau menyingkirkan kain itu dari mukanya. Pada keadaan sulit itu, beliau bersabda: Allah telah melaknat orang-orang Yahudi dan Nasrani serta mengusir mereka dari rahmat-Nya karena mereka membangun masjid di atas kubur nabi-nabi mereka. Kalau bukan karena bahaya perkara ini, tentu beliau tidak akan mengingatkannya di keadaan seperti ini. Oleh karena itu, Nabi ﷺ melarang umatnya agar tidak meniru perbuatan itu karena merupakan perilaku kaum Yahudi dan Nasrani, juga karena ia merupakan sarana yang dapat mengantarkan pada kesyirikan kepada Allah ﷻ.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Larangan menjadikan kuburan para nabi dan orang-orang saleh sebagai masjid tempat melaksanakan salat kepada Allah karena ia merupakan sarana menuju kesyirikan.\r",
+    "2- Tingginya perhatian Rasulullah ﷺ terhadap masalah tauhid serta kekhawatiran beliau terhadap tindakan mengagungkan kubur karena hal itu dapat mengantarkan kepada kesyirikan.\r",
+    "3- Boleh melaknat orang-orang Yahudi dan Nasrani serta orang-orang yang melakukan perbuatan seperti perbuatan mereka berupa membuat bangunan di atas kuburan dan menjadikannya sebagai masjid.\r",
+    "4- Membuat bangunan di atas kuburan termasuk kebiasaan kaum Yahudi dan Nasrani, dan di dalam hadis ini terdapat larangan meniru mereka.\r",
+    "5- Termasuk bentuk menjadikan kuburan sebagai masjid ialah salat di sisi kuburan dan menghadap kuburan walaupun tidak dibangun masjid padanya."
+   ],
+   "mapping": "same HadeethEnc record id 3330; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:17+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3330",
+   "text": "Aisyah dan Abdullah bin 'Abbās -raḍiyallāhu 'anhumā- meriwayatkan, Ketika ajal datang kepada Rasulullah ﷺ, beliau meletakkan kain di wajahnya. Apabila susah bernafas, beliau membukanya. Dalam keadaan demikian, beliau bersabda, \"Laknat Allah kepada orang-orang Yahudi dan Nasrani, mereka menjadikan kuburan nabi-nabi mereka sebagai masjid.\" Beliau hendak memperingatkan apa yang telah mereka lakukan.",
+   "title": "Laknat Allah kepada orang-orang Yahudi dan Nasrani, mereka menjadikan kuburan nabi-nabi mereka sebagai masjid",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3330",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:414883cb333c1f23f46b94f8966b57ddf4ecb414b277e76a5277089c2218c2d1",
+   "explanation": "عائشہ اور عبداللہ بن عباس رضی اللہ عنہم بتا رہے ہیں کہ جب اللہ کے نبی صلی اللہ علیہ و سلم کے انتقال کا وقت آیا، تو آپ اپنے چہرے پر کپڑے کا ایک ٹکڑا رکھنے لگے۔ پھر جب موت کی تکلیفوں کی وجہ سے سانس لینے میں دشواری ہونے لگی، تو اسے اپنے چہرے سے ہٹا دیا۔ پھر اسی مشکل حالت میں آپ نے فرمایا : اللہ کی لعنت ہو یہودیوں اور عیسائیوں پر۔ یعنی اللہ ان کو اپنی رحمت سے دور رکھے۔ ایسا اس لیے کہ انھوں نے اپنے نبیوں کی قبروں کے اوپر مسجدیں بنا ڈالیں۔ یہاں یہ یاد رہے کہ اگر قبروں کے اوپر مسجد تعمیر کرنے کا مس‏ئلہ ایک سنگین مسئلہ نہ ہوتا، تو آپ اس مشکل گھڑی میں اس کا ذکر نہ کرتے۔ اس مسئلے کی سنگینی کو دیکھتے ہوئے ہی آپ نے اپنی امت کو یہودیوں اور عیسائیوں کے نقش قدم پر چلتے ہوئے اس طرح کا کام کرنے سے منع کیا ہے۔ اس کام سے منع کرنے کی ایک دوسری وجہ یہ ہے کہ اس سے شرک کے دروازے کھلتے ہیں۔",
+   "grade": "صحيح",
+   "hints": [
+    "نبیوں اور اللہ کے نیک بندوں کی قبروں کو مسجد بنا کر ان کے اندر اللہ کے لیے نماز پڑھنا منع ہے، کیوں کہ یہ شرک کےدروازے اور وسائل  ہيں۔\r",
+    "توحید پر اللہ کے رسول صلی اللہ علیہ و سلم کی پوری توجہ اور قبروں کی تعظیم سے آپ کا ڈر، کیوں کہ یہ شرک کا دروازہ اور ذریعہ ہے۔\r",
+    "یہودیوں، عیسائیوں اور ان کے نقش قدم پر چلتے ہوئے قبروں پر عمارت کھڑی کرنے والوں اور ان کو مسجد بنانے والوں پر لعنت کرنا جائز ہے۔\r",
+    "قبروں پر عمارت بنانا یہودیوں اور عیسائیوں کا طور طریقہ ہے اور حدیث میں اس سے منع کیا گيا ہے۔\r",
+    "قبروں کو مسجد بنانے کی ایک شکل ان کے پاس اور ان کی جانب منہ کرکے نماز پڑھنا بھی ہے، چاہے تعمیر کھڑی نہ بھی کی جائے۔"
+   ],
+   "mapping": "same HadeethEnc record id 3330; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:16+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3330",
+   "text": "عائشہ اور عبداللہ بن عباس رضی اللہ عنہم سے روایت ہے، دونوں کہتے ہیں: جب اللہ کے رسول ﷺ کی وفات کا وقت آیا، تو آپ اپنی ایک چادر اپنے چہرے پر ڈالنے لگے اور جب اس سے منہ ڈھک جانے کی وجہ سے دم گھٹنے لگتا، تو اسے اپنے چہرے سے ہٹا دیتے۔ اسی (بے چینی) کی حالت میں آپ نے فرمایا : ”یہود ونصاری پر اللہ کی لعنت ہو، انہوں نے اپنے نبیوں کی قبروں کو مسجد بنالیا“۔ (راوی کہتے ہیں کہ) آپ ﷺ اپنی امت کو یہود و نصاریٰ کے عمل سے خبردار کر رہے تھے۔",
+   "title": "یہود ونصاری پر اللہ کی لعنت ہو، انہوں نے اپنے نبیوں کی قبروں کو مسجد بنالیا",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3330",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:f7cf7e52709ddef338618d0b4320bf582361311dab7624b34117eadb7b5ce05f",
+   "explanation": "阿伊莎和伊本·阿巴斯（愿安拉喜悦他们）告诉我们，先知（愿主福安之）在弥留之际，他开始将一块布盖在了自己的脸上，当他呼吸困难时，便取了下来，这是死亡时的昏晕。然后使者在病重的状态下说道：安拉诅咒了犹太人和基督教徒，即：得不到安拉的怜悯。那是因为他们在他们先知的坟墓上建造了清真寺。如果不是此种行为危险之大，使者便不会这种状态下提到此事。因此先知（愿主福安之）禁止他的民族做类似的行为，因为这是属于犹太人和基督教徒的行为，这会导致以物配主。",
+   "grade": "正确的",
+   "hints": [
+    "禁止将众先知和清廉者的坟墓作为清真寺，在其中为安拉礼拜，因为那是导致以物配主的媒介。\r",
+    "安拉的使者（愿主福安之）非常重视认主独一，担心人们会过分的尊崇坟墓，因为那将导致以物配主。\r",
+    "可以诅咒犹太人和基督教徒，以及那些做了类似他们工作的人，如：在坟墓上造建筑物，并将其作为清真寺。\r",
+    "在坟墓上修建是犹太人和基督徒的行为，而圣训则禁止我们效仿他们。\r",
+    "在坟墓跟前，或面对着坟墓礼拜，属于将坟墓作为清真寺之范畴，即使并没有建造清真寺也罢。"
+   ],
+   "mapping": "same HadeethEnc record id 3330; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:16+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3330",
+   "text": "据阿伊莎和阿卜杜拉·本·阿巴斯（愿主喜悦他俩）传述说： 当启示降临使者（愿主福安之）时，他将自己的一件外套盖在了脸上，当他喘不过气时，便将外套取了下来，然后就在这种情况下他说：“安拉诅咒犹太人和基督教徒，他们将他们先知的坟墓当成了清真寺。”他警告了他们的所作所为。",
+   "title": "安拉诅咒犹太人和基督教徒，他们将他们先知的坟墓当成了清真寺。",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

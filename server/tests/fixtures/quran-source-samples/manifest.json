@@ -1,0 +1,287 @@
+{
+ "responses": [
+  {
+   "file": "translations-list.json",
+   "url": "https://quranenc.com/api/v1/translations/list",
+   "retrieved_at": "2026-10-06T03:37:45+00:00",
+   "sha256": "044933a028f2cd47b66260ec6e5503a364e53710069ef214b16636849bc357ee",
+   "bytes": 65890,
+   "content_type": "application/json; charset=utf-8",
+   "from_cache": true
+  },
+  {
+   "file": "translations-list-bn.json",
+   "url": "https://quranenc.com/api/v1/translations/list/bn",
+   "retrieved_at": "2026-10-06T03:40:12+00:00",
+   "sha256": "d0305b6cafd7c4b172fdeac50e7db7b8f0a6d229659eafd8fa4582cfc4a6b919",
+   "bytes": 19,
+   "content_type": "application/json; charset=utf-8",
+   "from_cache": true
+  },
+  {
+   "file": "translations-list-ar.json",
+   "url": "https://quranenc.com/api/v1/translations/list/ar",
+   "retrieved_at": "2026-10-06T03:40:12+00:00",
+   "sha256": "d0305b6cafd7c4b172fdeac50e7db7b8f0a6d229659eafd8fa4582cfc4a6b919",
+   "bytes": 19,
+   "content_type": "application/json; charset=utf-8",
+   "from_cache": true
+  },
+  {
+   "file": "sura/english_rwwad/001.json",
+   "url": "https://quranenc.com/api/v1/translation/sura/english_rwwad/1",
+   "retrieved_at": "2026-10-06T03:38:24+00:00",
+   "sha256": "bccd8aee1cc7059a59676033dc589d9fd6f06b4664e2780e72dbda4487bacf17",
+   "bytes": 3685,
+   "content_type": "application/json; charset=utf-8",
+   "from_cache": true
+  },
+  {
+   "file": "sura/english_rwwad/078.json",
+   "url": "https://quranenc.com/api/v1/translation/sura/english_rwwad/78",
+   "retrieved_at": "2026-10-06T03:37:44+00:00",
+   "sha256": "21af889a4c6db46a0b2d397ccf3808f490c23dedbc70595dc1544ab8c0c6577b",
+   "bytes": 15261,
+   "content_type": "application/json; charset=utf-8",
+   "from_cache": true
+  },
+  {
+   "file": "sura/english_rwwad/114.json",
+   "url": "https://quranenc.com/api/v1/translation/sura/english_rwwad/114",
+   "retrieved_at": "2026-10-06T03:38:24+00:00",
+   "sha256": "3ec40052f3b2ed425460ff359e4cca36627460a7512109e7c475e09673383f34",
+   "bytes": 1767,
+   "content_type": "application/json; charset=utf-8",
+   "from_cache": true
+  },
+  {
+   "file": "sura/urdu_junagarhi/001.json",
+   "url": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/1",
+   "retrieved_at": "2026-10-06T03:38:25+00:00",
+   "sha256": "5524bbfdf7b33a8dbc0e5a81be5bb37216b7393b181aed9413fb852e9f9bfe76",
+   "bytes": 57411,
+   "content_type": "application/json; charset=utf-8",
+   "from_cache": true
+  },
+  {
+   "file": "sura/urdu_junagarhi/078.json",
+   "url": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/78",
+   "retrieved_at": "2026-10-06T03:37:44+00:00",
+   "sha256": "898e9317e388cd2cd8af5433fa57ab91aa7f514e0d5546bcc214bfdf55ba986d",
+   "bytes": 56972,
+   "content_type": "application/json; charset=utf-8",
+   "from_cache": true
+  },
+  {
+   "file": "sura/urdu_junagarhi/114.json",
+   "url": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/114",
+   "retrieved_at": "2026-10-06T03:38:24+00:00",
+   "sha256": "507062251c7096cc7f0e7d1e1ad28ffce73ac9c7babd8d7b2743c2f9f90607ea",
+   "bytes": 16351,
+   "content_type": "application/json; charset=utf-8",
+   "from_cache": true
+  },
+  {
+   "file": "sura/chinese_suliman/001.json",
+   "url": "https://quranenc.com/api/v1/translation/sura/chinese_suliman/1",
+   "retrieved_at": "2026-10-06T03:38:25+00:00",
+   "sha256": "9b83462b837901ec1323f6cb7880b5d27a17abfd5a3600748b61207b5c9d99ff",
+   "bytes": 2725,
+   "content_type": "application/json; charset=utf-8",
+   "from_cache": true
+  },
+  {
+   "file": "sura/chinese_suliman/078.json",
+   "url": "https://quranenc.com/api/v1/translation/sura/chinese_suliman/78",
+   "retrieved_at": "2026-10-06T03:37:44+00:00",
+   "sha256": "be4246a27da3b2b18606d9b5bc297117066e8bdab91f85f204c13ea534a66b0d",
+   "bytes": 15895,
+   "content_type": "application/json; charset=utf-8",
+   "from_cache": true
+  },
+  {
+   "file": "sura/chinese_suliman/114.json",
+   "url": "https://quranenc.com/api/v1/translation/sura/chinese_suliman/114",
+   "retrieved_at": "2026-10-06T03:38:24+00:00",
+   "sha256": "26a7f45d2bbdf08148888e06404b57aee5e03b374592db89566ca02e0658e755",
+   "bytes": 1767,
+   "content_type": "application/json; charset=utf-8",
+   "from_cache": true
+  },
+  {
+   "file": "sura/indonesian_affairs/001.json",
+   "url": "https://quranenc.com/api/v1/translation/sura/indonesian_affairs/1",
+   "retrieved_at": "2026-10-06T03:38:25+00:00",
+   "sha256": "94d2be603ddb83c6556d609f673d51a9bd8593022a6936a61033324bdaf4ef02",
+   "bytes": 3039,
+   "content_type": "application/json; charset=utf-8",
+   "from_cache": true
+  },
+  {
+   "file": "sura/indonesian_affairs/078.json",
+   "url": "https://quranenc.com/api/v1/translation/sura/indonesian_affairs/78",
+   "retrieved_at": "2026-10-06T03:37:45+00:00",
+   "sha256": "cd16bd685c9295fe8793f892a56e3768fd399c8cc2ef63b8c398e5afaa6339e4",
+   "bytes": 15452,
+   "content_type": "application/json; charset=utf-8",
+   "from_cache": true
+  },
+  {
+   "file": "sura/indonesian_affairs/114.json",
+   "url": "https://quranenc.com/api/v1/translation/sura/indonesian_affairs/114",
+   "retrieved_at": "2026-10-06T03:38:24+00:00",
+   "sha256": "c2ad413ccfcc97d833774096a916bf5b4ba2dfad6f107f851ba1129103cacd00",
+   "bytes": 1628,
+   "content_type": "application/json; charset=utf-8",
+   "from_cache": true
+  },
+  {
+   "file": "sura/bengali_rwwad/001.json",
+   "url": "https://quranenc.com/api/v1/translation/sura/bengali_rwwad/1",
+   "retrieved_at": "2026-10-06T03:38:25+00:00",
+   "sha256": "d22d6766f3e9ecf9a3c1c8bd119e4a8f556bb52c31c9a965bee8386183b4c8a3",
+   "bytes": 4370,
+   "content_type": "application/json; charset=utf-8",
+   "from_cache": true
+  },
+  {
+   "file": "sura/bengali_rwwad/078.json",
+   "url": "https://quranenc.com/api/v1/translation/sura/bengali_rwwad/78",
+   "retrieved_at": "2026-10-06T03:37:45+00:00",
+   "sha256": "266f10bb2d41c8b6373a0bfc3241c8584176f4820cb81ef75cf80c0804087a34",
+   "bytes": 24423,
+   "content_type": "application/json; charset=utf-8",
+   "from_cache": true
+  },
+  {
+   "file": "sura/bengali_rwwad/114.json",
+   "url": "https://quranenc.com/api/v1/translation/sura/bengali_rwwad/114",
+   "retrieved_at": "2026-10-06T03:38:24+00:00",
+   "sha256": "08be04cc10eea24c386d9dfdd777d473fb4e15aaf698ba4a6d00ac367cdcbbba",
+   "bytes": 3165,
+   "content_type": "application/json; charset=utf-8",
+   "from_cache": true
+  },
+  {
+   "file": "sura/french_rashid/001.json",
+   "url": "https://quranenc.com/api/v1/translation/sura/french_rashid/1",
+   "retrieved_at": "2026-10-06T03:38:25+00:00",
+   "sha256": "a218707dbeb03d92cdeccb647bd9cf781b7235c5f2e1fd336240c4535bbc5716",
+   "bytes": 3606,
+   "content_type": "application/json; charset=utf-8",
+   "from_cache": true
+  },
+  {
+   "file": "sura/french_rashid/078.json",
+   "url": "https://quranenc.com/api/v1/translation/sura/french_rashid/78",
+   "retrieved_at": "2026-10-06T03:37:45+00:00",
+   "sha256": "97868741d1509670c656e24d736bec632edc4dd56839071af88c5078b7ce182f",
+   "bytes": 15707,
+   "content_type": "application/json; charset=utf-8",
+   "from_cache": true
+  },
+  {
+   "file": "sura/french_rashid/114.json",
+   "url": "https://quranenc.com/api/v1/translation/sura/french_rashid/114",
+   "retrieved_at": "2026-10-06T03:38:24+00:00",
+   "sha256": "3147b59af9d2b42e05ad8d0222d3d67a450b2f1946f6bd3e6654a45f8205376a",
+   "bytes": 1887,
+   "content_type": "application/json; charset=utf-8",
+   "from_cache": true
+  },
+  {
+   "file": "sura/arabic_moyassar/001.json",
+   "url": "https://quranenc.com/api/v1/translation/sura/arabic_moyassar/1",
+   "retrieved_at": "2026-10-06T03:38:25+00:00",
+   "sha256": "7b130c75c96b578780159b53534ee76569897cdf787730a9a3b3784a24689725",
+   "bytes": 12446,
+   "content_type": "application/json; charset=utf-8",
+   "from_cache": true
+  },
+  {
+   "file": "sura/arabic_moyassar/078.json",
+   "url": "https://quranenc.com/api/v1/translation/sura/arabic_moyassar/78",
+   "retrieved_at": "2026-10-06T03:37:45+00:00",
+   "sha256": "9603b65928dbf42d481c9ce997015065ebf00c68eda6099b1701eef6a431a362",
+   "bytes": 49407,
+   "content_type": "application/json; charset=utf-8",
+   "from_cache": true
+  },
+  {
+   "file": "sura/arabic_moyassar/114.json",
+   "url": "https://quranenc.com/api/v1/translation/sura/arabic_moyassar/114",
+   "retrieved_at": "2026-10-06T03:38:24+00:00",
+   "sha256": "14833adff2645da7254627d7730430cc953f4476656d28aaaf48564cef4016f7",
+   "bytes": 2773,
+   "content_type": "application/json; charset=utf-8",
+   "from_cache": true
+  },
+  {
+   "file": "aya/english_rwwad-001-007.json",
+   "url": "https://quranenc.com/api/v1/translation/aya/english_rwwad/1/7",
+   "retrieved_at": "2026-10-06T03:50:06+00:00",
+   "sha256": "d038b469fc78aa795302365da1dde4bfe2a407b6daa56bf9b9198e4b140ca723",
+   "bytes": 916,
+   "content_type": "application/json; charset=utf-8",
+   "from_cache": true
+  }
+ ],
+ "pages_not_stored": [
+  {
+   "url": "https://quranenc.com/en/home/api/",
+   "retrieved_at": "2026-10-06T03:40:11+00:00",
+   "sha256": "f6da5376cb1272aafaf827433cda22b893e9997cd8103dabf042bc0eca166946",
+   "bytes": 307610,
+   "content_type": "text/html; charset=UTF-8",
+   "stored": false
+  },
+  {
+   "url": "https://quranenc.com/en/home",
+   "retrieved_at": "2026-10-06T03:42:11+00:00",
+   "sha256": "06dbfeaddf1481e73d81ff0d05d3ae06f66313af68c729fa64c112fa6d89e2e6",
+   "bytes": 1487578,
+   "content_type": "text/html; charset=UTF-8",
+   "stored": false
+  },
+  {
+   "url": "https://quranenc.com/ar",
+   "retrieved_at": "2026-10-06T03:52:04+00:00",
+   "sha256": "3cdd5a6e86ba83341efb4eae47581661b773ce0b3c9acd97f8aa369ab4612f02",
+   "bytes": 1521303,
+   "content_type": "text/html; charset=UTF-8",
+   "stored": false
+  },
+  {
+   "url": "https://quranenc.com/ar/home",
+   "retrieved_at": "2026-10-06T03:42:59+00:00",
+   "sha256": "bbde51c1308fe37809ee62d057f9ffde967ea67bfbe8c483948bd95f9104e838",
+   "bytes": 1521653,
+   "content_type": "text/html; charset=UTF-8",
+   "stored": false
+  },
+  {
+   "url": "https://quranenc.com/en/browse/bengali_rwwad",
+   "retrieved_at": "2026-10-06T03:41:27+00:00",
+   "sha256": "3747ab9d59ced6c83d64406cd77bd5fd0b8b19cb4591e9084bacd929a4c05e2c",
+   "bytes": 451640,
+   "content_type": "text/html; charset=UTF-8",
+   "stored": false
+  },
+  {
+   "url": "https://quranenc.com/en/browse/arabic_moyassar",
+   "retrieved_at": "2026-10-06T03:41:27+00:00",
+   "sha256": "e41b36a328439db6d5133c85e135ffef16387a5fd3aa3ea6f4af923bb99b926f",
+   "bytes": 450681,
+   "content_type": "text/html; charset=UTF-8",
+   "stored": false
+  },
+  {
+   "url": "https://quranenc.com/ar/browse/arabic_moyassar",
+   "retrieved_at": "2026-10-06T03:41:27+00:00",
+   "sha256": "fb26961d0ca94de258dc27e1f66f0300fee81836198b000603c2687d70ef4ae8",
+   "bytes": 454558,
+   "content_type": "text/html; charset=UTF-8",
+   "stored": false
+  }
+ ]
+}

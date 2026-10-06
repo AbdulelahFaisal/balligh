@@ -1,0 +1,175 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:f40c2ae03b80f4e2f368bc8c1ef785089cd65ba2e9e493781091f91a99336a17",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "أَخْبَرَ النبيُّ صلى الله عليه وسلم أنَّ المسلمَ كاملَ الإسلامِ هو مَن سَلِم المسلمون من لسانه فلا يَسُبُّهم، ولا يَلعنُهم، ولا يغتابهم، ولا يسعى بينهم بأيِّ نوع من أنواع الأذى بلسانه، \nوسلِموا مِن يده فلا يَعتدي عليهم، ولا يأخذ أموالَهم بغير حق، وما أشبه ذلك، \nوالمهاجر من ترك ما حرَّم الله تعالى.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "كمال الإسلام لا يكون إلا بِعَدَم إِلْحاقِ الأذى بالآخرين ماديًّا كان أو معنويًّا.",
+  "خص اللسان واليد بالذكر؛ لكثرة أخطائهما وأضرارهما، فإنَّ معظم الشرور تصدر عنهما.",
+  "الحث على ترك المعاصي والتزام ما أمر الله تعالى به.",
+  "أفضل المسلمين مَن أدَّى حقوق الله تعالى وحقوق المسلمين.",
+  "الاعتداء قد يكون قولًا أو فعلًا.",
+  "الهجرة الكاملة هي هَجْرُ ما حرَّم الله تعالى."
+ ],
+ "id": "hadeethenc-10101",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (1/ 11) (10).\nصحيح مسلم (1/ 65) (40).\nنزهة المتقين شرح رياض الصالحين، لمجموعة من الباحثين (1/ 236).\nشرح رياض الصالحين، لابن عثيمين (2/ 511).\nبهجة الناظرين شرح رياض الصالحين، لسليم الهلالي (1/ 306).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=10101",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:56:02+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/10101"
+ },
+ "source_categories": [
+  {
+   "id": "92",
+   "label": "زيادة الإيمان ونقصانه"
+  },
+  {
+   "id": "282",
+   "label": "الأخلاق الحميدة"
+  },
+  {
+   "id": "287",
+   "label": "آداب الكلام والصمت"
+  }
+ ],
+ "source_record_id": "10101",
+ "text": "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو رَضِيَ اللَّهُ عَنْهُمَا عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «المُسْلِمُ مَنْ سَلِمَ المُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ، وَالمُهَاجِرُ مَنْ هَجَرَ مَا نَهَى اللَّهُ عَنْهُ».",
+ "title": "المسلم من سلم المسلمون من لسانه ويده، والمهاجر من هجر ما نهى الله عنه",
+ "topic": "understanding_islam",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=10101",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:4534141709e83877d0a4087705d1b3f7d99eba3b53acd3fe4556705c73b4e759",
+   "explanation": "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জানিয়েছেন , পূর্ণাঙ্গ মুসলিম হলো সেই ব্যক্তি, যার জিহ্বা ও হাত থেকে অন্য মুসলিমরা নিরাপদ থাকে। অর্থাৎ, সে তাদের গালি দেয় না, অভিশাপ দেয় না, তাদের গিবত করে না এবং তার জিহ্বা দিয়ে তাদেরকে কোনো প্রকারের কষ্ট দেয়না বা ক্ষতি করে না। এবং তার হাত থেকেও তারা নিরাপদ থাকে, অর্থাৎ সে তাদের উপর যুলুম করে না, তাদের সম্পদ অন্যায়ভাবে গ্রহণ করে না এবং এজাতীয় অন্য কোনো কাজ করে না। আর মুহাজির হল সেই ব্যক্তি, যে আল্লাহ তাআলা যা নিষিদ্ধ করেছেন তা পরিত্যাগ করে।",
+   "grade": "সহীহ",
+   "hints": [
+    "ইসলামের পূর্ণতা তখনই অর্জিত হয়, যখন অন্যকে শারীরিক বা মানসিকভাবে কষ্ট না দেওয়া হয়।\r",
+    "জিহ্বা ও হাতের কথা বিশেষভাবে উল্লেখ করা হয়েছে, কারণ এ দুটির মাধ্যমে বেশিরভাগ গুনাহ ও ক্ষতি সংঘটিত হয়।\r",
+    "গুনাহ পরিত্যাগ করা এবং আল্লাহ তাআলার আদেশ মেনে চলার প্রতি উৎসাহ দেওয়া হয়েছে।\r",
+    "সর্বোত্তম মুসলিম হল সেই ব্যক্তি, যে আল্লাহ তাআলার হক এবং মুসলিমদের হক যথাযথভাবে আদায় করে।\r",
+    "যুলুম বা অত্যাচার কথার মাধ্যমেও হতে পারে, আবার কাজের মাধ্যমেও হতে পারে।\r",
+    "প্রকৃত হিজরত হল আল্লাহ তাআলা যা নিষিদ্ধ করেছেন তা পরিত্যাগ করা।"
+   ],
+   "mapping": "same HadeethEnc record id 10101; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:56:06+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/10101",
+   "text": "আব্দুল্লাহ ইবনু ’আমর রাদিয়াল্লাহু ‘আনহুমা নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেন, তিনি বলেছেন: “প্রকৃত মুসলিম সে, যার মুখ ও হাত থেকে সকল মুসলিম নিরাপদ থাকে। আর প্রকৃত মুহাজির সে, যে আল্লাহ যা থেকে নিষেধ করেছেন তা ত্যাগ করে।”",
+   "title": "“প্রকৃত মুসলিম সে, যার মুখ ও হাত থেকে সকল মুসলিম নিরাপদ থাকে। আর প্রকৃত মুহাজির সে, যে আল্লাহ যা থেকে নিষেধ করেছেন তা ত্যাগ করে।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=10101",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:9d1dec6408d9d6ece84b9d6ae6e6be12bcb3787be14691083280b4ee67b9f1fa",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) informed that a true and perfect Muslim is the one from whose tongue Muslims are safe, so he does not insult, curse, or backbite them and does not hurt them with his tongue in any way. They are also safe from his hand, as he does not assault them or take their properties wrongfully, or the like. As for the emigrant, he is the one who abandons what Allah Almighty has prohibited.",
+   "grade": "Authentic",
+   "hints": [
+    "One's Islam is perfect only when he does not harm others physically or morally.\r",
+    "The tongue and the hand were mentioned in particular given their frequent mistakes and harms, as they are the source of most of  the evil.\r",
+    "Encouraging the abandonment of sins and adherence to the commands of Allah Almighty.\r",
+    "The best Muslims are those who fulfill the rights of Allah Almighty and the rights of the Muslims.\r",
+    "Assault could be verbal or physical.\r",
+    "The perfect emigration is abandoning what Allah Almighty has forbidden."
+   ],
+   "mapping": "same HadeethEnc record id 10101; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:56:05+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/10101",
+   "text": "‘Abdullah ibn ‘Amr (may Allah be pleased with him and his father) reported that the Prophet (may Allah's peace and blessings be upon him) said: \"A Muslim is the one from whose tongue and hand Muslims are safe, and a Muhājir (emigrant) is the one who abandons what Allah has forbidden.\"",
+   "title": "A Muslim is the one from whose tongue and hand Muslims are safe, and a Muhājir (emigrant) is the one who abandons what Allah has forbidden",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=10101",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:6765a33feb516ce33051bdd3c7da6ebcb2f46014b0b0ce56946f3643857a5b15",
+   "explanation": "Nabi ﷺ mengabarkan bahwa muslim yang sempurna keislamannya adalah orang yang kaum muslimin lainnya selamat dari lisannya sehingga ia tidak mencaci, melaknat, dan menggunjing mereka, serta tidak melakukan upaya apa pun yang menyakiti dengan lisannya. Demikian juga mereka selamat dari tangannya, ia tidak menzalimi mereka dan tidak mengambil harta mereka tanpa alasan yang benar dan lain sebagainya. Sedangkan orang yang berhijrah ialah yang meninggalkan semua yang diharamkan oleh Allah Ta'ala.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Kesempurnaan Islam tidak akan terwujud kecuali dengan tidak menyakiti orang lain secara lahir maupun batin.\r",
+    "2- Penyebutan lisan dan tangan secara khusus karena banyaknya kesalahan dan keburukan keduanya, yaitu mayoritas keburukan bersumber dari keduanya.\r",
+    "3- Dorongan untuk meninggalkan kemaksiatan dan menaati semua perintah Allah Ta'ala.\r",
+    "4- Kaum muslimin yang paling utama adalah yang menunaikan hak Allah Ta'ala dan hak kaum muslimin.\r",
+    "5- Perbuatan melampaui batas dapat berupa ucapan maupun perbuatan.\r",
+    "6- Hijrah yang sempurna ialah meninggalkan semua yang diharamkan oleh Allah Ta'ala."
+   ],
+   "mapping": "same HadeethEnc record id 10101; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:56:06+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/10101",
+   "text": "Abdullah bin 'Amr -raḍiyallāhu 'anhumā- meriwayatkan, Nabi ﷺ bersabda, \"Seorang muslim adalah orang yang tidak menyakiti kaum muslimin lainnya, entah dengan lisan ataupun tangannya. Orang yang berhijrah itu adalah yang meninggalkan apa yang dilarang oleh Allah.\"",
+   "title": "Seorang muslim adalah orang yang tidak menyakiti kaum muslimin lainnya, entah dengan lisan ataupun tangannya. Orang yang berhijrah itu adalah yang meninggalkan apa yang dilarang oleh Allah",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=10101",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:f0fbb957c922aba115a05940272864f6932b61a2745793dfded0e919be8c8c39",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم نے بتایا کہ کامل مسلمان وہ ہے جس کی زبان سے مسلمان محفوظ رہيں۔ نہ انھیں گالی دے، نہ ان پر لعنت کرے، نہ ان کی غیبت کرے اور نہ ان کو کسی اور طرح سے زبانی اذیت پہنچائے۔ اسی طرح اس کے ہاتھ سے بھی مسلمان محفوظ رہیں۔ نہ ان پر ظلم کرے، نہ ناحق ان کے مال پر قبضہ کرے اور نہ اس طرح کا کوئی دوسرا کام کرے۔ اصل مہاجر وہ ہے جو اللہ کی حرام کی ہوئی چيزیں چھوڑ دے۔",
+   "grade": "صحيح",
+   "hints": [
+    "مکمل مسلمان ہونے کے لیے ضروری ہے کہ انسان دوسری کو اذیت نہ دے۔ اذیت مادی ہو یا معنوی۔\r",
+    "زبان اور ہاتھ کا ذکر بطور خاص اس لیے کیا گیا ہے کہ انسان کے ان دونوں اعضا سے بہت سی غلطیاں سرزد ہوتی ہیں اور ان کے ذریعے بہت سے نقصانات پہنچائے جاتے ہیں۔ درحقیقت بیش تر برائياں انھیں دونوں اعضا سے سرزد ہوتی ہیں۔\r",
+    "گناہوں سے بچنے اور اللہ تعالی کے اوامر کا التزام کرنے کی ترغیب۔\r",
+    "سب سے افضل مسلمان وہ ہے، جو اللہ تعالی کے حقوق اور مسلمانوں کے حقوق ادا کرے۔\r",
+    "ظلم کبھی قولی ہوتا ہے اور کبھی عملی۔\r",
+    "کامل ہجرت یہ ہے کہ انسان اللہ کی حرام کی ہوئی چیزیں چھوڑ دے۔"
+   ],
+   "mapping": "same HadeethEnc record id 10101; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:56:05+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/10101",
+   "text": "عبداللہ بن عمرو رضی اللہ عنہما سے روایت ہے کہ اللہ کے رسول ﷺ نے فرمایا : \"(کامل) مسلمان وہ ہے جس کے ہاتھ اور زبان (کی ایذا رسانی) سے مسلمان محفوظ رہیں اور (حقیقی) مہاجر وہ ہے جس نے ان تمام چیزوں کو چھوڑ دیا جن سے اللہ تعالیٰ نے منع فرمایا ہے۔\"",
+   "title": "(کامل) مسلمان وہ ہے جس کے ہاتھ اور زبان (کی ایذا رسانی) سے مسلمان محفوظ رہیں اور (حقیقی) مہاجر وہ ہے جس نے ان تمام چیزوں کو چھوڑ دیا جن سے اللہ تعالیٰ نے منع فرمایا ہے۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=10101",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:5613795c77ddd519a67228bf1951622c2a309eab739dff40ea30f654648d4170",
+   "explanation": "先知（愿主福安之）说道，具有完美伊斯兰的穆斯林，是那些不以其口伤害其他穆斯林之人，即：不谩骂他人，不诅咒他人，不背谈他人，不在口头上给他人制造任何形式的伤害。 不以其手伤害他人的人，即：不攻击他们，不无理地强占他人之财产等物。 迁士是那些放弃安拉的禁令者。",
+   "grade": "正确的",
+   "hints": [
+    "伊斯兰的完美在于不伤害他人，无论是实际的还是象征意义的伤害。\r",
+    "特别提到了手和口，是因为此两者所犯的错误之多，因为大多数的伤害均出自双手和口。\r",
+    "鼓励放弃违抗安拉，谨守安拉的命令。\r",
+    "最优越的穆斯林是完成了对安拉的义务，也完成了对穆斯林大众的义务。\r",
+    "侵犯也许是语言，也许是行为。\r",
+    "完美的迁徙是远离安拉的禁令。"
+   ],
+   "mapping": "same HadeethEnc record id 10101; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:56:05+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/10101",
+   "text": "阿卜杜拉·本·阿穆尔（愿主喜悦他俩）传述，先知（愿主福安之）说： “穆斯林是那些不以其口和手伤害其他穆斯林的人，迁士是那些远离安拉的禁令之人。”",
+   "title": "“穆斯林是那些不以其口和手伤害其他穆斯林的人，迁士是那些远离安拉的禁令之人。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1066",
+ "source_content_sha256": "sha256:18f535414a98bd90ca4f4d99693221080db2101df9fb2a5776e7e380df4e909f",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:28:35.520298+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 675,
+  "completion_tokens": 410,
+  "total_tokens": 1085,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 675
+ },
+ "latency_ms": 5052,
+ "units": [
+  {
+   "id": "title",
+   "text": "发现走失的羊只时该怎么办？"
+  },
+  {
+   "id": "q0",
+   "text": "问："
+  },
+  {
+   "id": "q1",
+   "text": "我发现两只走失的羊，在几个地方和羊市都打听过主人，但没有找到。请给我裁决：我该怎么处理它们？"
+  },
+  {
+   "id": "a0",
+   "text": "答："
+  },
+  {
+   "id": "a1",
+   "text": "如果一个人发现若干只羊，或羊以外的如牛等，担心它们会走失或丢失，他应当寻认主人一整年。如果找到了主人，则一切赞颂全归真主；如果没找到，则允许他……先知（愿主福安之）说：“收留走失物者，只要不公开声明寻主，他也是迷误者。”"
+  },
+  {
+   "id": "a2",
+   "text": "至于牛和骆驼，它们能自我保护；所以无需照管和收留，而应将其留在荒野，直到其主人找到它们。如果它们在市场里，其主人也会找到它们。"
+  },
+  {
+   "id": "a3",
+   "text": "至于羊，他应当公开声明寻主一整年，同样的还有与羊同类的小动物，担心它们会死亡……等等；他也应当公开声明寻主。"
+  },
+  {
+   "id": "a4",
+   "text": "总之：他应当公开声明寻主一整年，如果找到了主人则好；否则归他所有。关于费用，正确的主张是由他承担，喊叫、在人群中声明寻主的费用由他承担，从他所捡到的这份财物中支付。如果他不拾取，也无妨。"
+  }
+ ]
+}

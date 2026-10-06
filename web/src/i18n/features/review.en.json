@@ -1,0 +1,7 @@
+{
+  "outline": "Lesson outline",
+  "jump": "Jump to evidence",
+  "basedOn": "Based on",
+  "evidenceUnavailable": "Evidence unavailable: no recorded span matches the original text, and no substitute is shown.",
+  "card": "Card {{n}}"
+}

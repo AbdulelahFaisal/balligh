@@ -1,0 +1,84 @@
+{
+ "answer": [
+  [
+   {
+    "kind": "strong",
+    "text": "ج:"
+   },
+   {
+    "kind": "text",
+    "text": " يجزئ ذلك إذا نوى الطهارتين، والأفضل أن يتوضأ أولا ثم يغتسل، كما هو فعل النبي ﷺ؛ لأنه أكمل، ولا حرج من استعمال الصابون والشامبو والسدر، ونحو ذلك مما يزال به الأوساخ."
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "وفق الله الجميع"
+   },
+   {
+    "kind": "noteref",
+    "note": "1",
+    "text": "[1]"
+   },
+   {
+    "kind": "text",
+    "text": "."
+   }
+  ]
+ ],
+ "content_sha256": "sha256:82dccb06a8f4f8c29464d6831325d0fa6622db49d016bae4e20d71b8724cbebc",
+ "id": "binbaz-3807",
+ "language": "ar",
+ "notes": [
+  {
+   "id": "1",
+   "runs": [
+    {
+     "kind": "text",
+     "text": "نشرت في المجلة العربية في العدد (218) لشهر ربيع الأول من عام 1416هـ، (مجموع فتاوى ومقالات الشيخ ابن باز 10/ 173)."
+    }
+   ]
+  }
+ ],
+ "question": [
+  [
+   {
+    "kind": "strong",
+    "text": "س:"
+   },
+   {
+    "kind": "text",
+    "text": " الأخ: ع. ص. س. من ثادق في المملكة العربية السعودية يقول في سؤاله: اغتسلت من الجنابة بالصابون والشامبو، فهل يجزئ هذا الغسل عن الوضوء إذا نويت ذلك؟"
+   }
+  ]
+ ],
+ "raw_sha256": "sha256:99c7903d74e96624cd35fbea76df2ce321a6d9e7d8998a99667d2cc2fea7524f",
+ "reuse_basis": "user_confirmed_permission",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.fatwa/2",
+ "source": {
+  "edition": "مجموع فتاوى ومقالات الشيخ ابن باز 10/ 173",
+  "publisher": "binbaz.org.sa",
+  "publisher_name": "موقع الشيخ ابن باز",
+  "retrieved_at": "2026-10-06T05:08:41+00:00",
+  "series": "مجموع الفتاوى",
+  "url": "https://binbaz.org.sa/fatwas/3807/%D8%A7%D9%84%D8%BA%D8%B3%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A8%D8%A9-%D9%88%D8%BA%D9%8A%D8%B1%D9%87%D8%A7-%D9%87%D9%84-%D9%8A%D8%AC%D8%B2%D9%89-%D8%B9%D9%86-%D8%A7%D9%84%D9%88%D8%B6%D9%88%D8%A1"
+ },
+ "source_categories": [
+  {
+   "id": "18",
+   "label": "الغسل",
+   "url": "https://binbaz.org.sa/categories/fiqhi/18"
+  },
+  {
+   "id": "14",
+   "label": "فروض الوضوء وصفته",
+   "url": "https://binbaz.org.sa/categories/fiqhi/14"
+  }
+ ],
+ "source_record_id": "3807",
+ "title": "الغسل من الجنابة وغيرها هل يجزئ عن الوضوء",
+ "topic": "worship",
+ "translations": {},
+ "type": "fatwa"
+}

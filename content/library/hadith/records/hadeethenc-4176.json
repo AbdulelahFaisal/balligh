@@ -1,0 +1,163 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:d20509b25b42199d749d5c63850499f0d9fa2a1d301076067908211ff83da9cf",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "كانَ النبيُّ صلى الله عليه وسلم في عَدَدٍ مِن الصحابة فَطَلَبَ منهم ثلاث مرات أن يُبايعوه ويعاهدوه على التزام أمور: \n\nالأول: عبادة الله وحده بامتثال أوامره واجتناب نواهيه، وألا يشركوا به شيئًا. \n\nالثاني: إقامة الصلوات الخمس المفروضات في اليوم والليلة. \n\nالثالث: السمع والطاعة بالمعروف لِمَن ولي أمرَ المسلمين. \n\nالرابع: إنزال جميعِ حاجاتِهم بالله وعدم سؤال الناس منها شيئًا، وخفض النبي صلى الله عليه وسلم بها صوته. \n\nوقد عمل الصحابة رضي الله عنهم بما بايعوا عليه، حتى قال راوي الحديث: فلقد رأيتُ بعضَ أولئك الصحابة يسقط سَوْطُ أحدِهم، فما يسأل أحدًا يناوله إياه بل ينزل ويأخذه بنفسه.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "الحثّ على ترك سؤال الناس، والتنزُّه عن جميع ما يسمى سؤالًا، والاستغناء عن الناس ولو كان في أمر يسير.",
+  "السؤال المنهي عنه: السؤال المتعلِّق بالأمور الدنيوية، فلا يتناول السؤال عن العلم وأمور الدين."
+ ],
+ "id": "hadeethenc-4176",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (2/ 721) (1043).\nبهجة الناظرين، لسليم الهلالي (1/ 588).\nنزهة المتقين، مجموعة من الباحثين (1/ 463).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=4176",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:37+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/4176"
+ },
+ "source_categories": [
+  {
+   "id": "73",
+   "label": "توحيد الألوهية"
+  }
+ ],
+ "source_record_id": "4176",
+ "text": "عَنْ أَبِي مُسْلِمٍ الْخَوْلَانِيِّ، قَالَ: حَدَّثَنِي الْحَبِيبُ الْأَمِينُ، أَمَّا هُوَ فَحَبِيبٌ إِلَيَّ، وَأَمَّا هُوَ عِنْدِي فَأَمِينٌ، عَوْفُ بْنُ مَالِكٍ الْأَشْجَعِيُّ رضي الله عنه قَالَ: كُنَّا عِنْدَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، تِسْعَةً أَوْ ثَمَانِيَةً أَوْ سَبْعَةً، فَقَالَ: «أَلَا تُبَايِعُونَ رَسُولَ اللهِ؟» وَكُنَّا حَدِيثَ عَهْدٍ بِبَيْعَةٍ، فَقُلْنَا: قَدْ بَايَعْنَاكَ يَا رَسُولَ اللهِ، ثُمَّ قَالَ: «أَلَا تُبَايِعُونَ رَسُولَ اللهِ؟» فَقُلْنَا: قَدْ بَايَعْنَاكَ يَا رَسُولَ اللهِ، ثُمَّ قَالَ: «أَلَا تُبَايِعُونَ رَسُولَ اللهِ؟» قَالَ: فَبَسَطْنَا أَيْدِيَنَا وَقُلْنَا: قَدْ بَايَعْنَاكَ يَا رَسُولَ اللهِ، فَعَلَامَ نُبَايِعُكَ؟ قَالَ: «عَلَى أَنْ تَعْبُدُوا اللهَ وَلَا تُشْرِكُوا بِهِ شَيْئًا، وَالصَّلَوَاتِ الْخَمْسِ، وَتُطِيعُوا -وَأَسَرَّ كَلِمَةً خَفِيَّةً- وَلَا تَسْأَلُوا النَّاسَ شَيْئًا» فَلَقَدْ رَأَيْتُ بَعْضَ أُولَئِكَ النَّفَرِ يَسْقُطُ سَوْطُ أَحَدِهِمْ، فَمَا يَسْأَلُ أَحَدًا يُنَاوِلُهُ إِيَّاهُ.",
+ "title": "فعلام نبايعك؟ قال: على أن تعبدوا الله ولا تشركوا به شيئا، والصلوات الخمس، وتطيعوا وأسر كلمة خفية ولا تسألوا الناس شيئا",
+ "topic": "belief",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=4176",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:0da45fd1db41add2ee368db4b748ee1c62e480cdaf5e5e7e78cf192ad2cebfa5",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম কয়েকজন সাহাবীদের সাথে ছিলেন। তিনি তাদের কাছে কিছু বিষয়ের উপর দৃঢ় থাকতে বাই‘আত ও অঙ্গীকার গ্রহণ করতে তিনবার অনুরোধ করেন:\r\n\r\nপ্রথম: এক আল্লাহর আদেশ-নিষেধ মান্য করে শুধু তাঁরই ইবাদত করবে এবং তাঁর সাথে কোনো কিছুকে শরীক করবে না।\r\n\r\nদ্বিতীয়: দিনে-রাতে ফরযকৃত পাঁচ ওয়াক্ত সালাত আদায় করবে।\r\n\r\nতৃতীয়: আল্লাহ যাকে মুসলিমদের কর্তৃত্বের অধিকারী বানিয়েছেন, উত্তমভাবে তার আনুগত্য করবে।\r\n\r\nচতুর্থ: তোমাদের সকলের অভাব আল্লাহর কাছে পেশ করবে এবং মানুষের কাছে কিছু চাইবে না। নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এ কথাটি তাদেরকে চুপিসারে বললেন।\r\n\r\nসাহাবীগণ তাদের কৃত বাই‘আতের উপর আমল করেছেন। এমনকি হাদীসের বর্ণনাকারী বলেন: অতঃপর আমি বাই‘আত গ্রহণকারী সাহাবীদের মধ্যে কিছু লোককে দেখেছি যে, তাঁদের কারো চাবুক যদি যমীনে পড়ে যেত, তাহলে তিনি কাউকে তা উঠিয়ে দিতে বলতেন না; বরং নিজেই সওয়ারি থেকে নেমে তা উঠিয়ে নিতেন।",
+   "grade": "সহীহ",
+   "hints": [
+    "মানুষের কাছে কোন কিছু চাওয়া পরিহার করতে, মানুষের থেকে যে কোন ধরনের প্রার্থনা থেকে মুক্ত  এবং সামান্য জিনিস হলেও মানুষের কাছে না চেয়ে অমুখাপেক্ষী থাকতে উৎসাহিত করা হয়েছে এখানে।\r",
+    "মানুষের কাছে নিষিদ্ধ চাওয়া বলতে জাগতিক বিষয় সম্পর্কিত চাওয়া। তবে নিষিদ্ধ চাওয়ার মধ্যে ইলম ও দ্বীনি বিষয়সমূহ অন্তর্ভুক্ত করে না।"
+   ],
+   "mapping": "same HadeethEnc record id 4176; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:35+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/4176",
+   "text": "আবূ মুসলিম আল-খাওলানী রহ. থেকে বর্ণিত, তিনি বলেন, আমাকে একজন প্রিয় ও বিশ্বস্ত ব্যক্তি হাদীস বর্ণনা করেছেন। বর্ণনাকারী আমার কাছে খুব প্রিয় ব্যক্তি এবং তিনি আমার কাছে খুবই বিশ্বস্ত। তিনি হলেন আওফ ইবন মালিক আল-আশজা‘ঈ রাদিয়াল্লাহু ‘আনহু, তিনি বলেন: একদা আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসল্লামের নিকট নয়জন অথবা আটজন অথবা সাতজন লোক ছিলাম। তিনি বললেন, “তোমরা কি আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসল্লামের কাছে বাই‘আত করবে না?” (হাদীসের বর্ণনাকারী বলেন) অথচ আমরা সদ্য বাই‘আতকারী ছিলাম। সুতরাং আমরা বললাম, ‘হে আল্লাহর রfসূল! আমরা তো আপনার কাছে বাই‘আত করেছি।’ পুনরায় তিনি বললেন, “তোমরা কি আল্লাহর রাসূলের কাছে বাই‘আত করবে না?” সুতরাং আমরা নিজেদের হাতগুলো বাড়িয়ে দিলাম ও বললাম, ‘হে আল্লাহর রfসূল! আমরা আপনার কাছে বাই‘আত করেছি। সুতরাং এখন কোন কথার ওপর আপনার কাছে বাই‘আত করব?’ তিনি বললেন, “এ কথার ওপর যে, তোমরা এক আল্লাহরই ইবাদত করবে এবং তাঁর সাথে কোনো কিছুকে শরীক করবে না, পাঁচ ওয়াক্ত সালাত আদায় করবে এবং আল্লাহর আনুগত্য করবে।” আর একটি কথা তিনি চুপিসারে বললেন, “তোমরা লোকদের নিকট কিছু চাইবে না।” অতঃপর আমি (বাই‘আত গ্রহণকারীদের) মধ্যে কিছু লোককে দেখেছি যে, তাঁদের কারো চাবুক যদি জমিনে পড়ে যেত, তাহলে তিনি কাউকে তা উঠিয়ে দিতে বলতেন না।",
+   "title": "সুতরাং এখন কোন কথার ওপর আপনার কাছে বাই‘আত করব?’ তিনি বললেন, “এ কথার ওপর যে, তোমরা এক আল্লাহরই ইবাদত করবে এবং তাঁর সাথে কোনো কিছুকে শরীক করবে না, পাঁচ ওয়াক্ত সালাত আদায় করবে এবং আল্লাহর আনুগত্য করবে।” আর একটি কথা তিনি চুপিসারে বললেন, “তোমরা লোকদের নিকট কিছু চাইবে না।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=4176",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:db3b4b6f58f90f300fa5be5bd570c636aa083a897073ddf6cdc5f44283871d22",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) was with some of the Companions and he asked them three times to give him the pledge of allegiance and covenant to be committed to certain things, which are:\r\n\r\nFirst: To worship Allah alone, by obeying His commands and avoiding His prohibitions, and not to associate any partners with Him.\r\n\r\nSecond: To establish the five obligatory prayers every day and night.\r\n\r\nThird: To hear and obey those who are in charge of Muslims in what is good.\r\n\r\nFourth: To ask Allah Almighty for all their needs without asking people for anything, and the Prophet (may Allah's peace and blessings be upon him) said it in a low voice.\r\n\r\nThe Companions (may Allah be pleased with them) acted upon what they had given the pledge to do to the extent that made the Hadīth narrator say: Verily, I saw some of these Companions when the whip of any of them fell, he would not ask anyone to hand it to him; rather, he would dismount and pick it up himself.",
+   "grade": "Authentic",
+   "hints": [
+    "Encouraging abstention from asking people and being far above whatever could be called \"begging\" and not needing people even in the slightest of matters.\r",
+    "The forbidden act of asking is that which is related to worldly affairs, not the one related to knowledge and religious matters."
+   ],
+   "mapping": "same HadeethEnc record id 4176; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:34+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/4176",
+   "text": "Abu Muslim al-Khawlāni reported: The dear and trustworthy one, as he is dear to me and I deem him trustworthy, ‘Awf ibn Mālik al-Ashja‘i (may Allah be pleased to him) said to me: We were with the Messenger of Allah (may Allah's peace and blessings be upon him), and we were nine, eight, or seven. He said: \"Will you not give the pledge of allegiance to the Messenger of Allah?\" We recently gave him a pledge of allegiance, so we said: We have already given you the pledge of allegiance, O Messenger of Allah. Then, he said: \"Will you not give the pledge of allegiance to the Messenger of Allah?\" We said: We have already given you the pledge of allegiance, O Messenger of Allah. Then, he said: \"Will you not give the pledge of allegiance to the Messenger of Allah?\" He said: We extended our hands and said: We have already given you the pledge of allegiance, O Messenger of Allah. So, for what should we give you the pledge of allegiance? He said: \"To worship Allah and not associate any partners with Him; the five prayers; to obey - and he said in a low tone - and to not ask people for anything.\" Indeed, I saw some of these people not asking anyone to hand them even the whip if it fell from one of them.\"",
+   "title": "So, for what should we give you the pledge of allegiance? He said: \"To worship Allah and not associate any partners with Him; the five prayers; to obey - and he said in a low tone - and to not ask people for anything",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=4176",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:ff045b108994174fd398dfec30c346d39e016c14416a698b02df3bbf2e201232",
+   "explanation": "Le Prophète ﷺ était parmi un nombre de Compagnons (qu'Allah les agrée) lorsqu'il leur demanda trois fois de lui prêter allégeance et de s'engager auprès de lui de s'attacher aux affaires suivantes :\r\n\r\nLa première : l'adoration d'Allah, Seul, en appliquant Ses injonctions et en évitant Ses interdictions et en ne Lui associant rien.\r\n\r\nLa deuxième  : l'accomplissement des cinq prières obligatoires, durant le jour et la nuit.\r\n\r\nLa troisième : l'écoute et l'obéissance dans ce qui est convenable envers quiconque dirige l'affaire des musulmans.\r\n\r\nLa quatrième : le fait de soumettre tous leurs besoins à Allah et de ne rien demander aux hommes. Et le Prophète ﷺ baissa sa voix au moment de leur demander cela.\r\n\r\nEt les Compagnons (qu'Allah les agrée) ont appliqué cela et lui ont prêté allégeance de sorte que le rapporteur de ce hadith a dit : \" Et assurément, j’ai vu certains de ces Compagnons, lorsque le fouet de l’un d’entre eux tombait par terre, il ne demandait à personne de le lui ramasser ; plutôt, il descendait de sa monture et le récupérait lui-même. »",
+   "grade": "Authentique",
+   "hints": [
+    "L'incitation à ne pas demander aux gens et s'abstenir de tout ce qu'on appelle : la sollicitation en se passant des gens, même si cela concerne une affaire infime et minime.\r",
+    "La demande qui est interdite concerne la demande qui est liée aux affaires mondaines. En effet, demander à propos de la science et des affaires religieuses n'est pas inclus dans cela."
+   ],
+   "mapping": "same HadeethEnc record id 4176; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:35+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/4176",
+   "text": "D'après Abû Muslim Al Khawlânî qui a dit : le bien-aimé, le digne de confiance m'a raconté ; en effet, il est aimé auprès de moi et il est aussi digne de confiance selon moi : ‘Awf ibn Mâlik Al Achja’î (qu’Allah l’agrée) a dit : : « Nous étions neuf, ou huit, ou sept auprès du Messager d’Allah ﷺ alors il nous a dit : « N’allez-vous donc pas prêter allégeance au Messager d’Allah ? » Or, nous lui avions déjà prêté serment peu auparavant. Nous avons donc dit : « Nous t’avons déjà prêté allégeance, ô Messager d’Allah ! » Il a répété : « N’allez-vous donc pas prêter allégeance au Messager d’Allah ? » Alors, nous avons tendu nos mains et nous lui avons dit : « Nous t’avons déjà prêté serment, ô Messager d'Allah  ; à quel sujet devons-nous donc prêter serment ? » Il a dit : « Vous vous engagez à adorer Allah, sans rien Lui associer, à accomplir les cinq prières et à obéir à Allah… - Là, il chuchota une parole -… et à ne rien demander aux gens ! »   Dès lors, j’ai vu certains de ceux qui étaient présents, lorsque l’un d’entre eux faisait tomber son fouet, il ne demandait à personne de le lui ramasser. »",
+   "title": "; à quel sujet devons-nous donc prêter serment ? » Il a dit : « Vous vous engagez à adorer Allah, sans rien Lui associer, à accomplir les cinq prières et à obéir à Allah… - Là, il chuchota une parole -… et à ne rien demander aux gens !",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=4176",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:2859e096398e4ab1a3a949ae2507dd25b140e97f7f2ddebf4b2f2eceff8c72ce",
+   "explanation": "Nabi ﷺ sedang bersama sejumlah orang sahabat, lalu beliau meminta mereka agar berbaiat dan berjanji sebanyak tiga kali untuk berkomitmen terhadap sejumlah perkara:\r\n\r\nPertama: Beribadah kepada Allah semata, dengan melaksanakan perintah-Nya dan meninggalkan larangan-Nya serta tidak menyekutukan-Nya dengan sesuatu apa pun.\r\n\r\nKedua: Mendirikan salat fardu lima kali dalam sehari semalam.\r\n\r\nKetiga: Mendengar dan taat terkait hal yang makruf kepada pimpinan kaum muslimin.\r\n\r\nKeempat: Mengembalikan semua kebutuhan mereka kepada Allah dan tidak memintanya sedikit pun kepada manusia, dan Nabi ﷺ melirihkan suaranya saat menyampaikannya.\r\n\r\nPara sahabat -raḍiyallāhu 'anhum- telah melaksanakan baiat mereka itu, sampai perawi hadis mengatakan: Sungguh aku melihat beberapa orang dari mereka, dan ada cambuk milik salah satu dari mereka jatuh, lalu pemiliknya tidak meminta bantuan kepada siapa pun untuk mengambilkannya, melainkan ia turun dan mengambilnya sendiri.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Anjuran agar tidak meminta kepada manusia dan menjauhi segala hal yang disebut meminta, serta tidak perlu meminta bantuan orang lain walau dalam perkara kecil.\r",
+    "2- Perbuatan meminta yang dilarang ialah meminta perihal dunia. Bertanya tentang ilmu dan urusan agama, tidak termasuk dalam larangan ini."
+   ],
+   "mapping": "same HadeethEnc record id 4176; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:35+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/4176",
+   "text": "Abu Muslim Al-Khaulāni meriwayatkan, ia berkata, \"Al-Ḥabīb Al-Amīn bercerita kepadaku; bagiku ia merupakan sosok orang tercinta dan dia di sisiku orang yang amanah, bahwasanya Auf bin Mālik Al-Asyja'i -raḍiyallāhu 'anhu- berkata, \"Kami sedang duduk bersembilan, berdelapan, atau bertujuh bersama Rasulullah ﷺ. Beliau bersabda, 'Apakah kalian tidak mau membaiat Rasulullah?' Padahal kami baru saja berbaiat. Kami berkata, 'Bukankah kami sudah membaiatmu, wahai Rasulullah?' Beliau kembali bersabda, 'Tidakkah kalian membaiat Rasulullah?' Lantas kami mengulurkan tangan sambil berkata, 'Kami membaiatmu, wahai Rasulullah. Untuk hal apa kami berbaiat kepadamu?' Beliau bersabda, 'Kalian akan menyembah Allah dan tidak menyekutukan-Nya dengan sesuatu apa pun, menunaikan salat lima waktu, melakukan ketaatan -beliau membisikkan satu kalimat-, dan tidak meminta sesuatu pun kepada manusia!' Sungguh, aku melihat sebagian orang-orang itu, cambuk milik seorang mereka jatuh dan ia tidak mau meminta bantuan kepada orang lain untuk mengambilkan cambuknya.\"",
+   "title": "Untuk hal apa kami berbaiat kepadamu?' Beliau bersabda, 'Kalian akan menyembah Allah dan tidak menyekutukan-Nya dengan sesuatu apa pun, menunaikan salat lima waktu, melakukan ketaatan -beliau membisikkan satu kalimat-, dan tidak meminta sesuatu pun kepada manusia!",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=4176",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:fa94619a6df205c9aff1ac88e1587d7bda6279f0cec412e3aa77a5f26fb5eb99",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم چند صحابہ کے ساتھ تھے کہ اسی درمیان آپ نے تین دفعہ ان سے بیعت کرنے اور کچھ چیزوں کی پابندی کرنے کا عہد لینے کے لئے کہا، جو اس طرح ہیں :\r\n\r\n1- ایک اللہ کی عبادت اس کے احکام کی تعمیل کرتے ہوئے اور اس کی منع کی ہوئی چیزوں سے دور رہتے ہوئے کرنا اور کسی کو اس کا شریک نہ ٹھہرانا۔\r\n\r\n2- دن اور رات میں فرض پانچ نمازیں ادا کرنا۔\r\n\r\n3- شریعت کے دائرے میں رہ کر مسلم حکمرانوں کی اطاعت کرنا۔\r\n\r\n4- اپنی ساری ضرورتیں اللہ سے مانگنا اور لوگوں کے سامنے ہاتھ پھیلانے سے گریز کرنا۔ یہ بات اللہ کے رسول صلی اللہ علیہ و سلم نے دھیمی آواز میں کہی۔\r\n\r\nصحابہ نے اللہ کے نبی صلی اللہ علیہ و سلم سے جن باتوں پر بیعت کی تھی، ان پر اس طرح عمل کر کے دکھایا کہ راوی حدیث کا کہنا ہے : ان صحابہ میں سے بعض کا حال میں نے یہ دیکھا کہ اگر ان کا کوڑا گر جاتا، تو اسے بھی کسی سے اٹھاکر مانگنا گوارا نہيں کرتے۔ وہ خود سواری سے اتر کر اٹھا لیتے۔",
+   "grade": "صحيح",
+   "hints": [
+    "لوگوں سے مانگنے سے گریز کرنے، مانگنے کے زمرے میں آنے والی تمام چیزوں سے دور رہنے اور چھوٹی موٹی چیزوں میں بھی لوگوں سے بے نیاز رہنے کی ترغیب۔\r",
+    "یہاں جس سوال سے منع کیا گیا ہے، اس کا تعلق دنیوی امور سے ہے۔ اس کے دائرے میں علم اور دینی امور نہيں آتے۔"
+   ],
+   "mapping": "same HadeethEnc record id 4176; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:34+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/4176",
+   "text": "ابو مسلم خولانی سے روایت ہے، وہ کہتے ہيں : مجھے حبیب و امین نے بتایا ہے۔ وہ میرے نزدیک حبیب بھی ہے اور امین بھی۔ عوف بن مالک رضی اللہ عنہ نے بتایا: ہم نو، آٹھ یا سات لوگ رسول اللہ ﷺ کے پاس موجود تھے کہ آپ ﷺ نے فرمایا : \"کیا تم رسول اللہ ﷺ سے بیعت نہیں کروگے؟\" حالاں کہ ہم نے انہیں دنوں آپ ﷺ سے بیعت کی تھی۔ لہذا ہم نے کہا : اے اللہ کے رسول ﷺ! ہم آپ سے بیعت کر چکے ہیں۔ لیکن آپ ﷺ نے پھر فرمایا : \"کیا تم اللہ کے رسول ﷺ سے بیعت نہیں کروگے؟\" چنانچہ ہم نے اپنے ہاتھ پھیلا دیے اور کہا : ویسے تو ہم پہلے آپ سے بیعت کر چکے ہیں۔ لیکن اب بتائیں کہ آپ سے کس چیز کی بیعت کریں؟ آپ ﷺ نے فرمایا : ”اس بات پر کہ تم اللہ کی عبادت کرو گے، اس کے ساتھ کسی کو شریک نہ کرو گے، پانچوں نمازیں ادا کرو گے اور اطاعت گزار رہو گے اور ایک جملہ آہستہ آواز میں کہا کہ لوگوں سے کچھ نہیں مانگو گے“۔ (راوی کہتے ہیں:) اس کے بعد میں نے اس جماعت میں سے کچھ لوگوں کو دیکھا کہ ان کا کوڑا گر جاتا، تب بھی کسی سے اسے اٹھا کر دینے کے لئے نہ کہتے۔",
+   "title": "لیکن اب بتائیں کہ آپ سے کس چیز کی بیعت کریں؟ آپ ﷺ نے فرمایا : ”اس بات پر کہ تم اللہ کی عبادت کرو گے، اس کے ساتھ کسی کو شریک نہ کرو گے، پانچوں نمازیں ادا کرو گے اور اطاعت گزار رہو گے اور ایک جملہ آہستہ آواز میں کہا کہ لوگوں سے کچھ نہیں مانگو گے“۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=4176",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:318bed54d49d9dc2f3b83acdd6a8ec9c4ffbb8f79d7e864b052c632b76fd4037",
+   "explanation": "先知（愿主福安之）曾与数位圣门弟子在一起，他向他们三次要求与他结约，然后他们与使者结约将坚守以下事项：\r\n\r\n第一：崇拜独一的安拉，服从他的命令，远离他的禁令，不要以任何物举伴他。\r\n\r\n第二：完成一天内五时的主命拜功。\r\n\r\n第三：合理合法的听命和服从穆斯林的主事者。\r\n\r\n第四：向安拉祈求他们所有的需求，不要向人们祈求丝毫。先知（愿主福安之）讲此话时降低他的声音。\r\n\r\n圣门弟子们确已遵行了他们与使者所缔结的约言，甚至圣训的传述人说：我确已看见这些圣门弟子，他们中一个人的鞭子掉在了地上，他也不会要求任何人替他捡起来，而是自己下马然后亲自捡起。",
+   "grade": "正确的",
+   "hints": [
+    "鼓励人们不要向人们祈求，使人们远离所有可称之为祈求的事物，彻底无求于他人，即使是些微的事情。\r",
+    "禁止的祈求：有关今世事物的祈求，祈求不包括向人询问知识和宗教之事物。"
+   ],
+   "mapping": "same HadeethEnc record id 4176; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:35+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/4176",
+   "text": "艾布·穆斯林·豪倆尼传述，他说：受人喜爱的诚实的——他是我喜爱的人，在我看来他是诚实的人——奥夫·本·马利克·艾什哲伊（愿主喜悦之）告诉我，他说： 我们曾在安拉的使者（愿主福安之）身边，当时是九人，或八人，或七人，然后他说：“难道你们不与安拉的使者结约吗？”我们当时刚完成结约，我们说：“安拉的使者啊！我们已与你缔结了约会。”然后他说：“难道你们不与安拉的使者结约吗？”我们说：“安拉的使者啊！我们已与你缔结了约会。”然后他说：“难道你们不与安拉的使者结约吗？”他说：我们铺开了我们的双手，我们说：“安拉的使者啊！我们已与你缔结了约会。”我们要与你为何事而结约呢？他说：“你们当崇拜安拉，不要举伴他丝毫，礼五时的拜功，你们要服从——他降低了声音——，你们不要向人们祈求任何物。”我确已看到他们部分的鞭子掉在了地上，却没有让任何人替他捡起来。",
+   "title": "我们要与你为何事而结约呢？他说：“你们当崇拜安拉，不要举伴他丝毫，礼五时的拜功，你们要服从——他降低了声音——，你们不要向人们祈求任何物。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

@@ -1,0 +1,52 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-11287",
+ "source_content_sha256": "sha256:b26bb5b0eaade453d702a608ce15da4f0389daac93fedfea64aafe8d6a21340b",
+ "locale": "zh-Hans",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:30:10.543664+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 617,
+  "completion_tokens": 383,
+  "total_tokens": 1000,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 617
+ },
+ "latency_ms": 4383,
+ "units": [
+  {
+   "id": "title",
+   "text": "“天堂中有一扇门叫做‘瑞炎（Al-Rayyan）’”——这是什么意思？"
+  },
+  {
+   "id": "q0",
+   "text": "问题："
+  },
+  {
+   "id": "q1",
+   "text": "提问者在问题中说：圣训中提到：“天堂中有一扇门叫做‘瑞炎’，只有斋戒者才能进入。”这句话的意思是：斋戒者指的是只在斋月封斋的人，还是也包括封副功斋的人，比如星期一、星期四和每月的十三、十四、十五日？请给予解答，愿真主回赐你们。"
+  },
+  {
+   "id": "a0",
+   "text": "回答："
+  },
+  {
+   "id": "a1",
+   "text": "这里指的是封主命斋的人，他们坚持封主命斋，即斋月的斋戒，以及真主规定的其他斋戒，如罚赎斋和许愿斋。这些人有一扇门——瑞炎门，他们将从这扇门进入，当他们进入后，门就关闭了。"
+  },
+  {
+   "id": "a2",
+   "text": "如果他们还有其他的善功，他们也会从其他许多门被召唤进入，但他们也从这扇门——斋戒之门进入。一个信士若立行拜功、交纳天课、封斋月的斋戒、敬畏真主，他会从所有的门被召唤进入，但这扇门只有那些坚持履行主命斋戒的斋戒者才能进入。是的。"
+  },
+  {
+   "id": "a3",
+   "text": "主持人：愿真主赐你们美好的回赐。"
+  }
+ ]
+}

@@ -1,0 +1,179 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:e30caa7b6b8fc66fa2df5fda79bb4f67bce45e6d9378449a9733ea88d700aaa6",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "أَخْبَرَ النبيُّ صلى الله عليه وسلم أَنَّ اللهَ تعالى يَنهى عن الحَلِف بالآباء، فمَن أراد الحلف فلا يحلف إلا بالله، ولا يحلف بغيره. \nثم ذكر عُمَرُ بن الخطاب رضي الله عنه أنَّه لم يحلِفْ بها منذُ سَمِعَ رسولَ الله صلى الله عليه وسلم ينهى عن ذلك، لا مُتعمِّدًا ولا ناقِلًا عن غيرِِه حَلِفَه بغيرِ الله.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "تحْريمُ الحلِف بغيرِ الله، وخصَّ الحلِف بِالآباء لأنَّه من عاداتِ الجَاهِلِيةِ.",
+  "الحَلِف: هو القَسَم بالله أو بأسماء الله أو بصفات الله على أمر من الأمور لتأكيده.",
+  "فَضِيلةُ عُمَر رضي الله عنه بِسُرْعَةِ امْتِثَالِه وَحُسْنِ فَهْمِهِ وتَوَرُّعِه."
+ ],
+ "id": "hadeethenc-2945",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (8/ 132) (6647).\nصحيح مسلم (3/ 1266) (1646).\nتيسير العلام شرح عمدة الأحكام، للبسام (ص684).\nالإلمام بشرح عمدة الأحكام، لإسماعيل الأنصاري (2/ 134).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=2945",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:37+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/2945"
+ },
+ "source_categories": [
+  {
+   "id": "73",
+   "label": "توحيد الألوهية"
+  }
+ ],
+ "source_record_id": "2945",
+ "text": "عَنْ عُمَرَ بْنِ الْخَطَّابِ رضي الله عنه قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «إِنَّ اللهَ عَزَّ وَجَلَّ يَنْهَاكُمْ أَنْ تَحْلِفُوا بِآبَائِكُمْ»، قَالَ عُمَرُ: فَوَاللهِ مَا حَلَفْتُ بِهَا مُنْذُ سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنْهَا ذَاكِرًا وَلَا آثِرًا.",
+ "title": "إن الله عز وجل ينهاكم أن تحلفوا بآبائكم",
+ "topic": "belief",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=2945",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:51f96f07bf7451d954d3385da69f16201125c38440e0704016e282d09ce0dfc5",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এ হাদীসে জানিয়েছেন যে, নিশ্চয়ই মহান আল্লাহ পিতা-পিতামহের নামে কসম করতে নিষেধ করেছেন। সুতরাং কারো কসম করতে হলে সে যেন মহান আল্লাহর নামে কসম করে। তিনি ব্যতীত অন্য কারো নামে যেন কসম না করে। অতঃপর উমার রাদিয়াল্লাহু ‘আনহু উল্লেখ করেন, তিনি যখন থেকে রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামকে তা থেকে নিষেধ করতে শুনেছেন, তখন থেকে সেচ্ছায় বা কেও আল্লাহ ছাড়া অন্যের কসম করেছেন আর তা তিনি মুখ দিয়ে বর্ণনা করেছেন এমনটি হয়নি।",
+   "grade": "সহীহ",
+   "hints": [
+    "আল্লাহ ব্যতীত অন্য কারো নামে কসম করা হারাম। হাদীসে বিশেষভাবে পিতৃপুরুষের কথা উল্লেখ করা হয়েছে; কারণ জাহেলী যুগে এটি তাদের অভ্যাস ছিলো।\r",
+    "কসম হলো: আল্লাহর নামের দ্বারা বা তাঁর অন্যান্য নামসমূহের দ্বারা অথবা তাঁর সিফাতসমূহের দ্বারা শপথ করে কোন ব্যাপারে তাগিদ আরোপ করা।\r",
+    "হাদীসে ‘উমার রাদিয়াল্লাহু ‘আনহুর মর্যাদা বর্ণিত হয়েছে, যেহেতু তিনি তাৎক্ষণিক ব্যাপারটি আমল করেছেন, উত্তমরূপে বুঝেছেন এবং বিষয়টি নিজে পরিহার করেছেন।"
+   ],
+   "mapping": "same HadeethEnc record id 2945; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:33+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/2945",
+   "text": "‘উমার বিন খাত্তাব রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন: “নিশ্চয়ই মহান আল্লাহ তোমাদের পিতা-পিতামহের নামে কসম করতে নিষেধ করেছেন।” উমার রাদিয়াল্লাহু ‘আনহু বলেন: আল্লাহর কসম! যখন থেকে আমি রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামকে এ কথা বলতে শুনেছি, তখন থেকে আমি সেচ্ছায় বা ভুলক্রমে কখনোই তাদের নামে কসম করিনি।",
+   "title": "“নিশ্চয়ই মহান আল্লাহ তোমাদের পিতা-পিতামহের নামে কসম করতে নিষেধ করেছেন।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=2945",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:ddb5cab2d1a1f57e93666eeb2c0823eaace59be3fdbb47dbbad0ff77e696277e",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) informed us that Allah Almighty forbids swearing by the forefathers. So, whoever wants to swear should swear by Allah only and none but Him. ‘Umar ibn al-Khattāb, then, mentioned that ever since he heard the Prophet (may Allah's peace and blessings be upon him) prohibit it, he never swore by other than Allah neither intentionally nor by reporting such an oath on behalf of others.",
+   "grade": "Authentic",
+   "hints": [
+    "The prohibition of swearing by other than Allah, especially by the forefathers was a habit practiced in the pre-Islamic era of ignorance.\r",
+    "Swearing means taking an oath by Allah, His Names, or His Attributes regarding some matter as a form of affirmation.\r",
+    "The superiority of ‘Umar (may Allah be pleased with him), given his quick compliance, good understanding, and prudence."
+   ],
+   "mapping": "same HadeethEnc record id 2945; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:32+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/2945",
+   "text": "‘Umar ibn al-Khattāb (may Allah be pleased with him) reported that the Messenger of Allah (may Allah's peace and blessings be upon him) said: \"Indeed, Allah Almighty forbids you to swear by your forefathers.\" ‘Umar said: By Allah, I have never sworn by that since I heard that the Messenger of Allah (may Allah's peace and blessings be upon him) forbade it, neither deliberately nor reporting it from others.",
+   "title": "Indeed, Allah Almighty forbids you to swear by your forefathers",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=2945",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:5c2946223a324aa41fdef5362a33b42412e5b0b636005e009230c3342bfacba2",
+   "explanation": "Le Prophète ﷺ a informé qu'Allah ﷻ interdit de jurer par les pères / les aïeux. Ainsi, quiconque souhaite jurer, alors qu'il ne jure que par Allah et qu'il ne jure pas par autrui. Ensuite, 'Umar ibn Al khattâb (qu'Allah l'agrée) mentionna qu'il ne jura plus par cela après avoir entendu le Messager d'Allah ﷺ interdire cela. Il ne le fit plus, ni volontairement ni en transmettant de quiconque qui aurait juré par autre qu'Allah.",
+   "grade": "Authentique",
+   "hints": [
+    "L'interdiction de jurer par un autre qu'Allah, plus spécifiquement de jurer par les pères / les aïeux parce que cela fait partie des habitudes de la période du paganisme préislamique.\r",
+    "Le serment est le fait jurer par Allah, ou par les noms d'Allah, ou par Ses attributs, concernant une affaire sur laquelle on veut insister.\r",
+    "Le mérite d'Umar (qu'Allah l'agrée) dans la rapidité de sa mise en pratique, sa bonne compréhension et son fort scrupule."
+   ],
+   "mapping": "same HadeethEnc record id 2945; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:33+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/2945",
+   "text": "D'après 'Umar ibn Al Khattâb (qu'Allah l’agrée) qui a dit : le Messager d'Allah ﷺ a dit : « Certes, Allah ﷻ vous interdit de jurer par vos ancêtres  ! » 'Umar (qu'Allah l’agrée) a dit : « Par Allah ! Je n'ai plus juré par mes ancêtres depuis que j'ai entendu le Messager d'Allah ﷺ interdire cela. »",
+   "title": "Certes, Allah ﷻ vous interdit de jurer par vos ancêtres",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=2945",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:ff914ce9931c311f6f97ee29c5b40609877a38f710a50edfda57993ebd665697",
+   "explanation": "Nabi ﷺ mengabarkan bahwa Allah Ta'ala melarang bersumpah dengan nenek moyang. Siapa yang hendak bersumpah, jangan bersumpah kecuali dengan nama Allah dan tidak bersumpah dengan selain-Nya. Kemudian Umar bin Al-Khaṭṭāb -raḍiyallāhu 'anhu- menyebutkan bahwa ia tidak pernah lagi bersumpah dengan itu sejak mendengar Rasulullah ﷺ melarangnya, baik sengaja maupun dalam bentuk nukilan sumpah orang lain dengan selain nama Allah.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Pengharaman bersumpah dengan selain nama Allah. Terkait larangan ini, bersumpah dengan nenek moyang disebutkan khusus karena itu merupakan kebiasaan kaum jahiliah.\r",
+    "2- Sumpah ialah bersumpah dengan Allah atau nama-nama Allah maupun sifat-sifat-Nya dalam suatu urusan dengan tujuan menegaskannya.\r",
+    "3- Keutamaan Umar -raḍiyallāhu 'anhu- dalam hal kesegeraannya menaati perintah Rasulullah ﷺ, baiknya pemahamannya, dan ketinggian sifat waraknya."
+   ],
+   "mapping": "same HadeethEnc record id 2945; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:33+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/2945",
+   "text": "Umar bin al-Khaṭṭāb -raḍiyallāhu 'anhu- meriwayatkan, Rasulullah ﷺ bersabda, \"Sungguh Allah ﷻ melarang kalian bersumpah dengan nenek moyang kalian.\" Umar berkata, \"Demi Allah! Tidak pernah lagi aku bersumpah dengan nenek moyang sejak aku mendengar Rasulullah ﷺ melarangnya, baik sengaja ataupun dalam bentuk nukilan.\"",
+   "title": "Sungguh Allah ﷻ melarang kalian bersumpah dengan nenek moyang kalian",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=2945",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:666b6258a1b68f9bf6ecac1cba18b901a46bb08dedcd87a7deb9bd59951cb6fa",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم نے بتایا کہ اللہ تعالی نے باپ دادوں کی قسم کھانے سے منع کیا ہے۔ لہذا جسے قسم کھانی ہو، وہ اللہ کی قسم کھائے۔ کسی اور کی نہیں۔ بعد ازاں عمر بن خطاب رضی اللہ عنہ نے بتایا کہ جس دن سے انھوں نے اللہ کے رسول صلی اللہ علیہ و سلم کو باپ دادوں کی قسم کھانے سے منع کرتے ہوئے سنا ہے، انھوں نے باپ دادوں کی قسم نہيں کھائی ہے۔ نہ جان بوجھ کر اور نہ کسی دوسرے کے ذریعے غیراللہ کی کھائی ہوئی قسم کو نقل کرتے ہوئے۔",
+   "grade": "صحيح",
+   "hints": [
+    "اللہ کے علاوہ کسی اور کی قسم کھانا حرام ہے۔ آپ نے یہاں باپ دادوں کا ذکر اس لیے کیا ہے کہ زمانۂ جاہلیت میں باپ دادوں کی قسم کھانا ایک عام بات تھی۔\r",
+    "عربی لفظ \"الحَلِف\" کے معنی ہیں، کسی بات کی تاکید کے لیے اللہ، اس کے اسما یا صفات کی قسم کھانا۔\r",
+    "عمر رضی اللہ عنہ کی یہ فضیلت کہ وہ اللہ کے رسول صلی اللہ علیہ و سلم کے احکامات کو فورا بجا لاتے، شرعی اسرار و رموز کو سمجھتے اور پرہیزگاری کی بہترین مثال پیش کرتے تھے۔"
+   ],
+   "mapping": "same HadeethEnc record id 2945; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:32+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/2945",
+   "text": "عمر بن خطاب رضی اللہ عنہ سے روایت ہے، وہ کہتے ہيں کہ اللہ کے رسول صلی اللہ علیہ و سلم نے فرمایا : \"اللہ عز و جل تمھیں اپنے باپ دادوں کی قسم کھانے سے منع کرتا ہے۔\" عمر رضی اللہ عنہ کہتے ہیں : اللہ کی قسم! جب سے میں  نے اللہ کے رسول صلی اللہ علیہ و سلم کو اس سے منع کرتے سنا ہے، کبھی باپ دادوں کی قسم نہیں کھائی۔ نہ جان بوجھ کر اور نہ کسی کی قسم نقل کرتے ہوئے۔",
+   "title": "اللہ عز و جل تمھیں اپنے باپ دادوں کی قسم کھانے سے منع کرتا ہے",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=2945",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:15899454fa94a1f5851ef8fc92d2869ee1e80c70a654b1ed175f31a66e6276a3",
+   "explanation": "先知（愿主福安之）叙述道，伟大的安拉禁止以父辈的名义发誓，如果有人想要发誓，只能以安拉的名义发誓，不得以其它之名发誓。 然后，欧麦尔·本·哈塔布（愿主喜悦他）提到，自从他听到安拉的使者（愿主福安之）禁止此类誓言以来，他从未故意的或转述他人的发誓而以安拉以外的事物发誓。",
+   "grade": "正确的",
+   "hints": [
+    "不允许以安拉以外的事物发誓，特别是以父辈发誓，因为这是古代蒙昧时期的习俗。\r",
+    "发誓：即：因某事而以安拉之尊名或属性发誓，以肯定之。\r",
+    "欧麦尔（愿主喜悦之）之优越在于迅速遵守命令，良好的理解力和谨慎行事。"
+   ],
+   "mapping": "same HadeethEnc record id 2945; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:32+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/2945",
+   "text": "欧麦尔·本·哈塔卜（愿主喜悦他）传述：安拉的使者（愿主福安之）说： “安拉禁止你们以自己父辈之名义而发誓。”欧麦尔说：“我以安拉发誓，自从我听见先知（愿主赐福安之）警告不要这样做以来，无论是有意的或是转述他人言，我都没有以父辈之名而发誓。”",
+   "title": "“安拉禁止你们以自己父辈之名义而发誓。",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [
+  {
+   "meaning": " عامِدًا.",
+   "word": "ذاكِرًا"
+  },
+  {
+   "meaning": " حاكِيًا عن غَيْرِي أنَّه حَلَفَ بها.",
+   "word": "آثِرًا"
+  }
+ ],
+ "words_meanings_language": "ar"
+}

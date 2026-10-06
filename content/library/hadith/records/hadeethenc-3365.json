@@ -1,0 +1,174 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:cd2e186a94f29602517bf7c6e02181bb9fcead0c0afae6296ef3d7f2e6047ffd",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "سُئلَ النبيُّ صلى الله عليه وسلم: أيُّ العمل أحب إلى الله؟ \nفقال: الصلاة المفروضة في وقتِها الذي حَدَّده الشارع، \nثم بر الوالدين، بالإحسان إليهما، والقيام بحقهما، وترك عقوقهما، \nثم الجهاد في سبيل الله، لإعلاء كلمة الله عز وجل، والدفاع عن دين الإسلام وأهله، وإظهار شعائره، وذلك بالنفس والمال.\n\nقال ابن مسعود رضي الله عنه: أخبرني بهذه الأعمال؛ ولو قلت له: ثم أي؟ لزادني.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "تَفَاضُل الأعمال فيما بينها بحسب محبة الله لها.",
+  "حثُّ المسلم على الحرص على الأعمال الأفضل فالأفضل.",
+  "تَتَفاوَتُ إجاباتُ النبيِّ صلى الله عليه وسلم عن أفضل الأعمال بحسب اختلاف الأشخاص وأحوالهم، وما هو أكثر نفعًا لكل واحد منهم."
+ ],
+ "id": "hadeethenc-3365",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (1/ 112) (527).\nصحيح مسلم (1/ 90) (85).\nالإلمام بشرح عمدة الأحكام، لإسماعيل الأنصاري (1/ 70).\nتيسير العلام شرح عمدة الأحكام، للبسام (ص84).\nتنبيه الأفهام شرح عمدة الأحكام، لابن عثيمين (1/ 108).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3365",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:54:08+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3365"
+ },
+ "source_categories": [
+  {
+   "id": "277",
+   "label": "فضائل الأعمال الصالحة"
+  },
+  {
+   "id": "457",
+   "label": "فضل الصلاة"
+  }
+ ],
+ "source_record_id": "3365",
+ "text": "عَنْ عَبْدِ اللَّهِ بِن مَسْعُودٍ رضي الله عنه قَالَ: سَأَلْتُ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: أَيُّ العَمَلِ أَحَبُّ إِلَى اللَّهِ؟ قَالَ: «الصَّلاَةُ عَلَى وَقْتِهَا»، قَالَ: ثُمَّ أَيٌّ؟ قَالَ: «ثُمَّ بِرُّ الوَالِدَيْنِ» قَالَ: ثُمَّ أَيٌّ؟ قَالَ: «الجِهَادُ فِي سَبِيلِ اللَّهِ» قَالَ: حَدَّثَنِي بِهِنَّ، وَلَوِ اسْتَزَدْتُهُ لَزَادَنِي.",
+ "title": "أي العمل أحب إلى الله؟ قال: الصلاة على وقتها، قال: ثم أي؟ قال: ثم بر الوالدين قال: ثم أي؟ قال: الجهاد في سبيل الله",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3365",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:af258bad687c6732d4c6dc71473728bd54a4fcc2bfad10411fa78387654888f3",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামকে জিজ্ঞেস করা হয়েছে, আল্লাহর কাছে কোন আমলটি উত্তম? তিনি বললেন: “ফরয সালাত শরী‘আহ নির্ধারিত সময়ে আদায় করা। অতঃপর পিতামাতার সাথে সদ্ব্যবহার করা ও তাঁদের প্রতি ইহসান করা, তাঁদের হকসমূহ যথাযথভাবে আদায় করা এবং তাঁদের অবাধ্য না হওয়া। অতঃপর উত্তম কাজ হলো মহান আল্লাহর কালিমাকে সুউচ্চ করতে, দ্বীন ইসলাম ও মুসলিমদের পক্ষে, ইসলামের নিদর্শনসমূহ প্রকাশ করতে জান ও মাল দ্বারা আল্লাহর পথে জিহাদ করা।\r\n\r\nইবনু মাস‘ঊ রাদিয়াল্লাহু ‘আনহু বলেন: রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে এ আমলগুলোর সংবাদ দিয়েছেন। আমি যদি তাঁকে আরো বলতাম তারপর কোনটি,  তাহলে তিনি আমাকে আরো বেশী বলতেন।",
+   "grade": "সহীহ",
+   "hints": [
+    "আল্লাহর ভালোবাসার মাত্রা হিসেবে কাজের মর্যাদার তারতম্য হয়।\r",
+    "উত্তম থেকে সর্বোত্তম কাজের প্রতি মুসলিম কে আগ্রহ ও অনুপ্রেরণা দেয়া ।\r",
+    "ব্যক্তি ও অবস্থার ভিন্নতার কারণে রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের জবাবের পার্থক্য পরিলক্ষিত হয়েছে। যে কাজগুলো তাদের মধ্যে প্রত্যেকের জন্যে অধিক উপকারি তিনি তাদেরকে সে কাজগুলোকে সর্বোত্তম কাজ হিসেবে আখ্যা দিয়েছেন।"
+   ],
+   "mapping": "same HadeethEnc record id 3365; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:13+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3365",
+   "text": "আব্দুল্লাহ ইবন মাস‘ঊদ রাদিয়াল্লাহু ‘আনহু হতে বর্ণিত, তিনি বলেন: سَأَلْتُ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: أَيُّ العَمَلِ أَحَبُّ إِلَى اللَّهِ؟ قَالَ: «الصَّلاَةُ عَلَى وَقْتِهَا»، قَالَ: ثُمَّ أَيٌّ؟ قَالَ: «ثُمَّ بِرُّ الوَالِدَيْنِ» قَالَ: ثُمَّ أَيٌّ؟ قَالَ: «الجِهَادُ فِي سَبِيلِ اللَّهِ» قَالَ: حَدَّثَنِي بِهِنَّ، وَلَوِ اسْتَزَدْتُهُ لَزَادَنِي.\n‘আমি নবী কে প্রশ্ন করলাম,আল্লাহর নিকট কোন আমলটি সর্বাধিক প্রিয়?’ তিনি বললেন, “যথা সময়ে সালাত আদায় করা।” আমি আবার জিজ্ঞেস করলাম, ’তারপর কোনটি?’ তিনি বললেন, “পিতামাতার সাথে সদ্ব্যবহার করা।” আমি আবার জিজ্ঞেস করলাম, ’তারপর কোনটি?’ তিনি বললেন, “আল্লাহর পথে জিহাদ করা। তিনি বলেন, এতটুকু তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বলেছেন। যদি আমি আরো জিজ্ঞেস করতাম তাহলে তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে আরো বলতেন।",
+   "title": "কে প্রশ্ন করলাম,আল্লাহর নিকট কোন আমলটি সর্বাধিক প্রিয়?’ তিনি বললেন, “যথা সময়ে সালাত আদায় করা।” আমি আবার জিজ্ঞেস করলাম, ’তারপর কোনটি?’ তিনি বললেন, “পিতামাতার সাথে সদ্ব্যবহার করা।” আমি আবার জিজ্ঞেস করলাম, ’তারপর কোনটি?’ তিনি বললেন, “আল্লাহর পথে জিহাদ করা।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3365",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:75101b66fb750ff0566113cd452c4cd86e2f9a62e9dc795855a908a9819fb7f2",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) was asked: Which deed is dearest to Allah? He said: Offering the obligatory prayer at its appointed time prescribed by the Legislator. Then, being dutiful to one's parents by being kind to them, fulfilling their rights, and refraining from being undutiful to them. Then, making Jihad in the cause of Allah with one's life and wealth to make Allah's word supreme, defend the religion of Islam and its people, and spread its rituals.\r\n\r\nIbn Mas‘ūd (may Allah be pleased with him) said: He informed me of these deeds, and if I had said to him: Then, what comes next? he would have informed me of more.",
+   "grade": "Authentic",
+   "hints": [
+    "Deeds vary in their merit according to how dear they are to Allah.\r",
+    "Urging Muslims to be keen on performing deeds according to their degree of superiority.\r",
+    "The Prophet's replies concerning the best of deeds vary according to the various questioners, their conditions, and what is more beneficial to each of them."
+   ],
+   "mapping": "same HadeethEnc record id 3365; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:13+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3365",
+   "text": "‘Abdullah ibn Mas‘ūd (may Allah be pleased with him) reported: I asked the Prophet (may Allah's peace and blessings be upon him): Which deed is dearest to Allah? He said: \"Offering prayer at its earliest appointed time.\" I said: Then, what comes next? He said: \"Dutifulness to one's parents.\" I said: Then, what comes next? He said: \"Jihad in the way of Allah.\"  He said: These were the things he said to me, and if I had asked him for more, he would have given me more.",
+   "title": "Which deed is dearest to Allah? He said: \"Offering prayer at its earliest appointed time.\" I said: Then, what comes next? He said: \"Dutifulness to one's parents.\" I said: Then, what comes next? He said: \"Jihad in the way of Allah",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=3365",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:a48ac2366f23125bd5af00e3b24070aa53d30e1819a30a9d764887c51d8e110a",
+   "explanation": "Le Prophète ﷺ a été interrogé : « Quelle est l’œuvre la plus aimée auprès d’Allah ? » Il répondit : \" [Accomplir] La prière obligatoire dans son temps, celle qui a été définie par le Législateur ; ensuite, la piété filiale en étant bienfaisant envers les parents, en s'acquittant de leur droit et en ne leur désobéissant pas ; puis, le combat dans le sentier d’Allah pour élever la parole d'Allah ﷻ, défendre la religion de l'Islam et ses adhérents et manifester clairement ses préceptes, et cela corps et biens. \"\r\n\r\nIbn Mas'ûd (qu'Allah l'agrée) a dit : \" Il ﷺ m’a informé de ces œuvres et si je lui avais dit : \" Et quoi d'autre ? Alors, il m’aurait rajouté. \"",
+   "grade": "Authentique",
+   "hints": [
+    "La différence de mérite entre les œuvres en fonction de l'amour d'Allah pour celles-ci.\r",
+    "L'incitation du musulman à être assidu aux œuvres, celles qui sont les plus méritoires à celles qui sont moindres.\r",
+    "La différence de réponses du Prophète ﷺ concernant les meilleurs œuvres en fonction de la différence des personnes et de leurs situations et de celles qui contiennent le plus de bénéfices pour chacun d'entre eux."
+   ],
+   "mapping": "same HadeethEnc record id 3365; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:14+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/3365",
+   "text": "D'après 'AbduLlah ibn Masʽûd (qu'Allah l'agrée) qui a dit : « J'ai demandé au Prophète ﷺ : \"  Quelle est l’œuvre la plus aimée auprès d’Allah ? \" Il répondit : \" [Accomplir] La prière à l’heure. \" J'ai continué : \" Ensuite, laquelle ? \" Il répondit : \" La piété filiale. \" J'ai poursuivi : \" Ensuite, laquelle ? \" Il répondit : \" Le combat dans le sentier d’Allah. \"  Il [Ibn Mas'ûd] a dit : Le Prophète ﷺ m’a dit ces paroles et si je lui en avais demandé plus, il m’en aurait dit plus. »",
+   "title": "Quelle est l’œuvre la plus aimée auprès d’Allah ? \" Il répondit : \" [Accomplir] La prière à l’heure. \" J'ai continué : \" Ensuite, laquelle ? \" Il répondit : \" La piété filiale. \" J'ai poursuivi : \" Ensuite, laquelle ? \" Il répondit : \" Le combat dans le sentier d’Allah.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3365",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:64fcc9f58140d4c35cbbad839cbc9b5f4ede535def8b864c60a770d0e99f9165",
+   "explanation": "Nabi ﷺ ditanya, \"Amal apakah yang paling dicintai oleh Allah?\" Beliau bersabda: Salat fardu pada waktunya sebagaimana yang ditetapkan oleh Allah. Kemudian berbakti pada kedua orang tua dengan cara berbuat baik kepada mereka, menunaikan hak mereka dan tidak durhaka pada keduanya. Kemudian berjihad di jalan Allah untuk meninggikan kalimat Allah ﷻ, membela agama Islam dan pemeluknya, dan menampakkan syiar-syiarnya dengan jiwa dan harta.\r\n\r\nIbnu Mas'ūd -raḍiyallāhu 'anhu- berkata: Beliau mengabariku amalan-amalan itu; sekiranya aku mengatakan lagi \"kemudian apa?\", niscaya beliau akan menambahkannya padaku.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Adanya perbedaan keutamaan antar amalan sesuai dengan kecintaan Allah padanya.\r",
+    "2- Mendorong seorang muslim agar gigih melakukan amal-amal yang paling afdal lalu yang di bawahnya.\r",
+    "3- Jawaban Nabi ﷺ tentang amalan paling afdal berbeda-beda mengikuti perbedaan orang dan keadaan serta yang paling bermanfaat bagi setiap orang di antara mereka."
+   ],
+   "mapping": "same HadeethEnc record id 3365; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:13+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3365",
+   "text": "Abdullah bin Mas'ūd -raḍiyallāhu 'anhu- meriwayatkan, Aku bertanya kepada Nabi ﷺ, \"Amal apakah yang paling dicintai oleh Allah?\" Beliau bersabda, \"Salat pada waktunya.\" Dia bertanya, \"Kemudian amal apa?\" Beliau menjawab, \"Kemudian berbakti kepada kedua orang tua.\" Dia bertanya lagi, \"Kemudian amal apa?\" Beliau menjawab, \"Berjihad di jalan Allah.\" Ibnu Mas'ūd berkata, \"Beliau menyampaikan itu kepadaku. Seandainya aku meminta tambahan, niscaya beliau akan tambahkan.\"",
+   "title": "Amal apakah yang paling dicintai oleh Allah?\" Beliau bersabda, \"Salat pada waktunya.\" Dia bertanya, \"Kemudian amal apa?\" Beliau menjawab, \"Kemudian berbakti kepada kedua orang tua.\" Dia bertanya lagi, \"Kemudian amal apa?\" Beliau menjawab, \"Berjihad di jalan Allah",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3365",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:968486cd7b6d5dedb92034c852b4c479d626882fbf1a4760d56780721d8398a9",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم سے پوچھا گیا کہ اللہ کے نزدیک کون سا عمل سے سے زیادہ محبوب ہے؟ تو آپ نے جواب دیا : فرض نماز کو شارع کی جانب سے معتین کیے گئے اوقات میں پڑھنا۔ پھر والدین کی فرماں برداری کرنا، بایں طور کہ ان کے ساتھ اچھا برتاؤ کیا جائے، ان کے حقوق ادا کیے جائيں اور ان کی نافرمانی سے بچا جائے۔ پھر اللہ کے راستے میں جہاد کرنا، تاکہ اللہ کے کلمہ کو سربلند کیا جا سکے، اسلام اور مسلمانوں کا دفاع کیا جا سکے اور اسلامی شعائر کا اظہار ہو سکے۔ جہاد نفس اور مال دونوں سے ہوتا ہے۔\r\n\r\nعبداللہ بن مسعود رضی اللہ عنہ کہتے ہیں : اللہ کے نبی صلی اللہ علیہ وسلم نے مجھے ان اعمال کے بارے میں بتایا۔ اگر میں اس سے آگے پوچھتا، تو آپ آگے بھی بتاتے۔",
+   "grade": "صحيح",
+   "hints": [
+    "اعمال کی فضیلت میں اس ناحیے سے کمی بیشی ہوتی ہے کہ کون سا عمل اللہ کو کتنا محبوب ہے۔\r",
+    "مسلمان کو اس بات کی ترغیب دی گئی ہے کہ وہ اعمال کا، ان کی فضیلت کی ترتیب کو مدنظر کو رکھتے حریص رہے۔\r",
+    "سب سے اچھا عمل کیا ہے، اس سوال کے جواب میں اللہ کے نبی صلی اللہ علیہ و سلم  نے الگ الگ باتیں اشخاص اور حالات کو سامنے رکھتے ہوئے کہی ہيں۔ جس کے لیے جو عمل زیادہ مفید تھا، اس کے لیے اسے سب سے اچھا عمل بتایا۔"
+   ],
+   "mapping": "same HadeethEnc record id 3365; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:13+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3365",
+   "text": "عبد اللہ بن مسعود رضی اللہ عنہ سے روایت ہے، وہ کہتے ہیں: میں نے اللہ کے نبی صلی اللہ علیہ و سلم سے پوچھا کہ کون سا عمل اللہ کے نزدیک سب سے محبوب ہے؟ تو آپ نے جواب دیا: \"وقت پر نماز پڑھنا۔\" انھوں نے پوچھا کہ پھر کون سا؟ تو آپ نے جواب دیا: \"والدین کی فرماں برداری کرنا۔\" انھوں نے پوچھا کہ پھر کون سا؟ تو آپ نے جواب دیا: \"اللہ کے راستے میں جہاد کرنا۔\" ان کا کہنا ہے کہ آپ نے مجھے ان کاموں کے بارے میں بتایا۔ اگر میں مزید پوچھتا، تو آپ اور بھی بتاتے۔",
+   "title": "کون سا عمل اللہ کے نزدیک سب سے محبوب ہے؟ تو آپ نے جواب دیا: \"وقت پر نماز پڑھنا۔\" انھوں نے پوچھا کہ پھر کون سا؟ تو آپ نے جواب دیا: \"والدین کی فرماں برداری کرنا۔\" انھوں نے پوچھا کہ پھر کون سا؟ تو آپ نے جواب دیا: \"اللہ کے راستے میں جہاد کرنا",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3365",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:90a3785f056d42aa2becaf7ad7c0195167a379d7887c81c497e2282b2203abb4",
+   "explanation": "有人问先知（愿主福安之）：“哪种工作是最受安拉喜爱的？” 他回答说：“在教法规定的时间内完成主命拜。” 然后是孝顺父母，善待他们，立行对他们的权利，不可忤逆他们。 其次是为主道奋斗，以升高安拉之言词，捍卫伊斯兰教及其信徒，彰显其标识，这需要付出生命与财产。\r\n\r\n伊本·麦斯欧德（愿主喜悦他）说：他告诉我这些工作，如果我问他：“然后呢？”他会继续告诉我。",
+   "grade": "正确的",
+   "hints": [
+    "工作之间的优先次序取决于安拉对它的喜悦。\r",
+    "鼓励穆斯林努力以最优越的工作开始，然后以此类推。\r",
+    "先知（愿主福安之）对于最优越的工作的回答，会因不同的人和不同的情况而有所不同，即告诉每个人最有益于他的工作。"
+   ],
+   "mapping": "same HadeethEnc record id 3365; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:13+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3365",
+   "text": "据阿卜杜拉·本·麦斯欧德（愿主喜悦他）传述，他说： “我问先知（愿主福安之）道：‘哪种工作最受安拉喜欢？’他回答说：‘按时礼拜。’我又问：‘其次呢？’他回答说：‘孝敬父母。’我说：‘再其次是什么？’他回答说：‘为安拉之道奋斗。’‘假如我再多问几个问题，他定一一作答。”",
+   "title": "：‘哪种工作最受安拉喜欢？’他回答说：‘按时礼拜。’我又问：‘其次呢？’他回答说：‘孝敬父母。’我说：‘再其次是什么？’他回答说：‘为安拉之道奋斗。’‘",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

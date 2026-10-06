@@ -1,0 +1,58 @@
+{
+ "answer": [
+  [
+   {
+    "kind": "strong",
+    "text": "الجواب:"
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "إذا كان مأمومًا ما عليه شيء، أما إذا كان إمامًا، أو منفردًا فيأتي بركعة، بدل الركعة التي سقطت منها الفاتحة، أما إن كان مأمومًا، فالمأموم تابع لإمامه، إذا نسي، أو فاته القيام؛ أجزأه، ما أدرك مع الإمام. "
+   }
+  ]
+ ],
+ "content_sha256": "sha256:13bb4563032bb2b8ff2052a19e6bc7ccf3226547ad23df5ca58564ad8da8ede1",
+ "id": "binbaz-3005",
+ "language": "ar",
+ "notes": [],
+ "question": [
+  [
+   {
+    "kind": "strong",
+    "text": "السؤال:"
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "كذلك إذا نسي الفاتحة، فهل يأتي بركعة أخرى تحل محلها؟ وهل يسجد سجود السهو؟ "
+   }
+  ]
+ ],
+ "raw_sha256": "sha256:3160e8e8d98f9da6f50c82d5a3d6fcd413b94169d2c485853a6082be5355caa4",
+ "reuse_basis": "user_confirmed_permission",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.fatwa/2",
+ "source": {
+  "edition": null,
+  "publisher": "binbaz.org.sa",
+  "publisher_name": "موقع الشيخ ابن باز",
+  "retrieved_at": "2026-10-06T05:08:43+00:00",
+  "series": "فتاوى الجامع الكبير",
+  "url": "https://binbaz.org.sa/fatwas/3005/%D8%AD%D9%83%D9%85-%D9%85%D9%86-%D9%86%D8%B3%D9%8A-%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D8%AD%D8%A9"
+ },
+ "source_categories": [
+  {
+   "id": "34",
+   "label": "القراءة في الصلاة",
+   "url": "https://binbaz.org.sa/categories/fiqhi/34"
+  }
+ ],
+ "source_record_id": "3005",
+ "title": "حكم من نسي قراءة الفاتحة",
+ "topic": "worship",
+ "translations": {},
+ "type": "fatwa"
+}

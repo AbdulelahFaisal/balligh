@@ -1,0 +1,175 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:5e118a25c514ace8c270ae93d8fa142a6ee85530e823c20100ce6509eafcf522",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "كان رسولُ الله صلى الله عليه وسلم يُهلِّلُ بعد تسليمِه من كلِّ صلاةٍ مكتوبةٍ بهذا الذكر العظيم، ومعناه: \n\n\"لا إله إلا الله\": يعني لا معبود بحق إلا الله. \n\n\"وحده لا شريك له\" أي: إنه لا مشارك له في ألوهيته وربوبيته وأسمائه وصفاته. \n\n\"له الملك\" أي: له الملك المُطْلَق العام الشامل الواسع، ملك السموات والأرض وما بينهما. \n\n\"وله الحمد\" أي: هو المُتصف بالكمال المطلق، المحمود بالكمال محبةً وتعظيمًا على كل حال، في السراء، وفي الضراء. \n\n\"وهو على كل شيء قدير\": فقُدرته كاملة وتامَّة من كل وجهٍ، لا يُعجزه شيءٌ، ولا يمتنع عليه أمرٌ من الأمور. \n\n\"لا حول ولا قوة إلا بالله\" أي: لا تَحَوُّل من حالٍ إلى حال، ومن معصية الله إلى طاعته، ولا قوة إلا بالله فهو المعين وعليه التُّكْلان. \n\n\"لا إله إلا الله، ولا نعبد إلا إياه\": تأكيد على معنى الألوهية ونفي الشرك، وأنه لا يستحق العبادة سواه. \n\n\"له النعمة وله الفضل\": فهو الذي يخلق النِّعَم ويملكها، ويتفضَّل بها على من يشاء من عباده.\n\n\"وله الثناء الحسن\": على ذاته وصفاته وأفعاله ونعمه، وعلى كل حال.\n\n\"لا إله إلا الله، مخلصين له الدين\": أي موحِّدين لا رياء ولا سمعة في طاعة الله. \n\n\"ولو كره الكافرون\"، أي: ثابتين على توحيد الله وعبادته ولو كره الكافرون.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "استحباب المحافظة على هذا الذكر بعد كل صلاة مكتوبة.",
+  "المسلم يَعْتَزُّ بدينِهِ ويُظْهِرُ شعائرَه، ولو كره الكافرون.",
+  "إذا وَرَدَتْ في الحديث كلمةُ: \"دُبر الصلاة\"، فإن كان ما في الحديث ذِكْرًا فالأصل أن يكون بعد السلام، وإن كان دعاءً فيكون قبل السلام من الصلاة."
+ ],
+ "id": "hadeethenc-6203",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (1/ 415) (594).\nسبل السلام شرح بلوغ المرام، للصنعاني (1/ 293).\nكنوز رياض الصالحين، لمجموعة من الباحثين (17/ 61).\nنزهة المتقين شرح رياض الصالحين، لمصطفى الخِن وغيره (2/ 973).\nبهجة الناظرين، لسليم الهلالي (2/ 499).\nمرقاة المفاتيح شرح مشكاة المصابيح، لعلي القاري (2/ 762).\nشرح رياض الصالحين، لابن عثيمين (5/ 492).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=6203",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:41+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/6203"
+ },
+ "source_categories": [
+  {
+   "id": "465",
+   "label": "أذكار الصلاة"
+  }
+ ],
+ "source_record_id": "6203",
+ "text": "عَنْ ‌أَبِي الزُّبَيْرِ قَالَ: كَانَ ‌ابْنُ الزُّبَيْرِ يَقُولُ فِي دُبُرِ كُلِّ صَلَاةٍ حِينَ يُسَلِّمُ: «لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ، لَا إِلَهَ إِلَّا اللهُ، ‌وَلَا ‌نَعْبُدُ ‌إِلَّا إِيَّاهُ، لَهُ النِّعْمَةُ وَلَهُ الْفَضْلُ وَلَهُ الثَّنَاءُ الْحَسَنُ، لَا إِلَهَ إِلَّا اللهُ مُخْلِصِينَ لَهُ الدِّينَ وَلَوْ كَرِهَ الْكَافِرُونَ» وَقَالَ: «كَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يُهَلِّلُ بِهِنَّ دُبُرَ كُلِّ صَلَاةٍ».",
+ "title": "كان رسول الله صلى الله عليه وسلم يهلل بهن دبر كل صلاة",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=6203",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:d6c4571ee31b1d6bb4c0a86201895aa294d1df71042499f502132985abf7db27",
+   "explanation": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রত্যেক ফরয সালাতের সালামের পর এ সব মহান যিকিরসমূহের দ্বারা আল্লাহর প্রশংসা করতেন। এ যিকিরের অর্থ হলো:\r\n\r\n(لا إله إلا الله) অর্থাৎ আল্লাহ ছাড়া প্রকৃত কোন মাবূদ নেই।\r\n\r\n(وحده لا شريك له) “তিনি একক, তাঁর কোনই শরীক নেই” অর্থাৎ তাঁর উলুহিয়্যাত-ইবাদত সমূহ, রুরুবিয়্যাত - কর্মসমূহ এবং আসমা ওয়াস-সিফাত-নাম ও সিফতসমূহের মধ্যে কেউ অংশীদার নেই।\r\n\r\n(له الملك) “তিনিই সার্বভৌম ক্ষমতার মালিক” অর্থাৎ সকল প্রকারের পরিপূর্ণ ব্যাপক মালিকানা একমাত্র তাঁরই, তাঁরই রয়েছে আসমান, জমিন ও এ দুভয়ের মধ্যকার সব কিছুর একচ্ছত্র মালিকানা।\r\n\r\n(وله الحمد) “সব প্রশংসা তাঁরই প্রাপ্য।” অর্থাৎ তিনি সর্বময় ব্যাপক পরিপূর্ণতার গুণে গুণান্বিত। তিনি স্বচ্ছল ও অসচ্ছল সর্বাবস্থায় ভালোবাসা ও সম্মান সহ পূর্ণমাত্রায় প্রশংসিত।\r\n\r\n(وهو على كل شيء قدير) “তিনি সবকিছুর ওপর ক্ষমতাবান।” তাঁর ক্ষমতা সকল দিক থেকে পরিপূর্ণ ও পূর্ণাঙ্গ; কোন কিছুই তাঁকে অক্ষম করতে পারে না, কোন কিছুই তাঁকে কিছু থেকে বাধা দিতে পারে না।\r\n\r\n(لا حول ولا قوة إلا بالله) “আল্লাহ ছাড়া কোন পরিবর্তনের সামর্থ ও কোন শক্তি নেই।” অর্থাৎ এক অবস্থা থেকে অন্য অবস্থায় পরিবর্তনকারী, গুনাহ থেকে আনুগত্যের দিকে নিয়ে যাওয়ার তিনি ব্যতীত আর কেউ নেই। তিনিই একমাত্র সাহায্যকারী এবং তাঁর উপরই তাওয়াক্কুল ও ভরসা।\r\n\r\n(لا إله إلا الله، ولا نعبد إلا إياه) “আল্লাহ ছাড়া প্রকৃত কোন মাবূদ নেই। তাঁকে ছাড়া আর কারোই ইবাদাত করি না।এতে রয়েছে” একমাত্র তাঁরই ইবাদতের মর্মে  সুদৃঢ়তা ও যাবতিয় শিরকের প্রত্যাখ্যান। কেননা নিশ্চয়ই তিনি ব্যতীত আর কেউ ইবাদতের উপযুক্ত নেই।\r\n\r\n(له النعمة وله الفضل) “সকল নি‘আমত ও অনুগ্রহ তাঁরই” তিনিই নি‘আমতরাজি সৃষ্টি করেছেন এবং সেগুলোর মালিক একমাত্র তিনিই। তিনেই তাঁর বান্দাহদের যাকে ইচ্ছে তাকে সেসব নি‘আমত দ্বারা অনুগ্রহ এবং মর্যাদা প্রদান করেন।\r\n\r\n(وله الثناء الحسن) “যাবতীয় উত্তম প্রশংসা তাঁরই” তাঁর সত্বায়, সিফাত, কর্ম ও নি‘আমতসমূহে এবং সর্বাবস্থায়।\r\n\r\n(لا إله إلا الله، مخلصين له الدين) “আল্লাহ ছাড়া প্রকৃত কোন মাবূদ নেই। আমরা একনিষ্ঠভাবে তাঁরই ইবাদত করি”। অর্থাৎ আল্লাহর আনুগত্যে আমরা তাওহীদবাদী (একমাত্র তাঁরই ইবাদত করি), কোন লৌকিতা ও সুনামের উদ্দেশ্যে তাঁর ইবাদত ও আনুগত্য করি না।\r\n\r\n(ولو كره الكافرون) “যদিও কাফিররা তা অপছন্দ করে।” আল্লাহর তাওহীদ ও তাঁর ইবাদতের উপর সুদৃঢ় থাকি; যদিও তা কাফিরগণ অপছন্দ করে।",
+   "grade": "সহীহ",
+   "hints": [
+    "প্রত্যেক ফরয সালাতের পর এ যিকিরগুলো নিয়মিত পাঠ করা মুস্তাহাব।\r",
+    "মুসলিম তার দীন নিয়ে  আত্মসম্মান বোধ করে এবং দীনের নিদর্শনসমূহ তুলে ধরে; যদিও কাফিররা তা অপছন্দ করে।\r",
+    "হাদীসে (دُبر الصلاة) “প্রত্যেক সালাতের পরে” শব্দটি যখন বর্ণিত হবে, তখন যদি হাদীসে যিকির বুঝাই, তবে মূল হলো তা সালাম ফিরানোর পর হবে। আর দু‘আ বুঝালে তা সালাম ফিরানোর পূর্বে সালাতের মধ্যেই হবে।"
+   ],
+   "mapping": "same HadeethEnc record id 6203; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:54+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/6203",
+   "text": "আবূ যুবায়ের রাদিয়াল্লাহু ‘আনহু বলেন: ইবনু যুবায়র রাদিয়াল্লাহু ‘আনহু প্রত্যেক ওয়াক্ত সালাতে সালাম ফিরানোর পর বলতেন: («لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ، لَا إِلَهَ إِلَّا اللهُ، ‌وَلَا ‌نَعْبُدُ ‌إِلَّا إِيَّاهُ، لَهُ النِّعْمَةُ وَلَهُ الْفَضْلُ وَلَهُ الثَّنَاءُ الْحَسَنُ، لَا إِلَهَ إِلَّا اللهُ مُخْلِصِينَ لَهُ الدِّينَ وَلَوْ كَرِهَ الْكَافِرُونَ») অর্থাৎ আল্লাহ ছাড়া প্রকৃত কোন মাবূদ নেই। তিনি একক ও তাঁর কোন শরীক নেই। তিনিই সার্বভৌম ক্ষমতার মালিক। সব প্রশংসা তারই প্রাপ্য। তিনি সবকিছুর ওপর ক্ষমতাবান। আল্লাহ ছাড়া এক অবস্থা থেকে অন্য অবস্থায় রিবর্তন হওয়ার কোন শক্তি নেই। আল্লাহ ছাড়া প্রকৃত কোন মাবূদ নেই। তাকে ছাড়া আর কারো ইবাদাত করি না; তাঁরই যত নেয়ামত, তাঁরই অনুগ্রহ ও তাঁরই উত্তম যত প্রশংসা, আল্লাহ \n ছাড়া আর সত্য কোন মাবূদ নেই, তাঁরই জন্য খালেস দীন যদিও কাফিরদের তা পছন্দ নয়।\nআর তিনি (ইবনুয যুবায়র) বলেছেন: রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রত্যেক ওয়াক্ত সালাতের পরে কথাগুলো বলে আল্লাহর প্রশংসা করতেন।",
+   "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রত্যেক ওয়াক্ত সালাতের পরে কথাগুলো বলে আল্লাহর প্রশংসা করতেন।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=6203",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:fb76477ed180914456c934efcfa535bf3305b23c69278db5e941eea6c97086ea",
+   "explanation": "The Messenger of Allah (may Allah's peace and blessings be upon him) used to celebrate Allah's oneness after making taslīm at the end of every obligatory prayer with this great dhikr, which means:\r\n\r\n\"There is no god but Allah\" means: None is truly worthy of worship except Allah.\r\n\r\n\"Alone, with no partner\" means: There is no partner with Him in His divinity, lordship, names, and attributes.\r\n\r\n\"To Him belongs the dominion\" means: The absolute, general, inclusive, and all-encompassing dominion, the dominion of the heavens and the earth and what is between them belongs to Him.\r\n\r\n\"And praise is due to Him\" means: The absolute perfection belongs to Him, and He is the One praised for His perfection out of love and exaltation in all conditions, good or bad.\r\n\r\n\"And He has power over all things\" means His power is complete and absolute in every aspect, and nothing escapes His power or can resist His Will.\r\n\r\n\"There is no power or strength except through Allah\" means There cannot be any shift from one condition to another and from disobedience to Allah to obedience to Him, and there is no power except through Allah; He is the One Who gives help and should be relied upon.\r\n\r\n\"There is no god but Allah, and we worship none but Him\": It affirms the meaning of divinity and the negation of polytheism and that none but Him deserves to be worshiped.\r\n\r\n\"To Him belongs the favor, to Him belongs the grace\": He is the One Who creates the blessings and possesses them and He bestows them, as a favor from Him, upon whomever of His servants He wishes.\r\n\r\n\"And to Him belongs all excellent praise\": For His essence, attributes, actions, and blessings, and for every condition.\r\n\r\n\"There is no god but Allah; we are sincerely devoted to Him\" means that we are believers in His Oneness, without showing off or pursuing a good reputation among people for our obedience to Allah.\r\n\r\n\"Even if the disbelievers may dislike it\" means: We firmly adhere to the belief in Allah's Oneness, even if the disbelievers detest it.",
+   "grade": "Authentic",
+   "hints": [
+    "It is recommended to persistently say this dhikr after every obligatory prayer\r",
+    "A Muslim should be proud of his religion and manifest its rituals, even if the disbelievers dislike that.\r",
+    "When the phrase \"after the prayer\" occurs in a Hadīth, if the Hadīth contains dhikr, it should primarily be said after taslīm; and if it is a supplication, it should be said before taslīm."
+   ],
+   "mapping": "same HadeethEnc record id 6203; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:53+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/6203",
+   "text": "Abu az-Zubayr reported: Ibn az-Zubayr (may Allah be pleased with him) used to say after every prayer after making taslīm: “Lā ilāha illa Allah wahdahu lā sharīka lahu, lahu al-mulk wa lahu al-hamd wa huwa ‘ala kolli shay‘in qadīr; lā hawla wa lā quwwata illa billāh, lā ilāha illa Allah, wa lā na‘budu illa iyyāh, lahu an-ni‘mah wa al-fadl, wa lahu ath-thanā’ al-hasan; lā ilāha illa Allah, mukhlisīn lahu ad-dīn wa law kariha al-kāfirūn (There is no god but Allah, alone, with no partner. To Him belongs the dominion, and praise is due to Him, and He has power over all things. There is no power or strength except through Allah. There is no god but Allah, and we worship none but Him. To Him belongs the blessing, to Him belongs the grace, and to Him belongs all excellent praise. There is no god but Allah; we are sincerely devoted to Him, even if the disbelievers may dislike it).\" And he said: \"The Messenger of Allah (may Allah's peace and blessings be upon him) used to celebrate Allah’s oneness with these words after every prayer.\"",
+   "title": "The Messenger of Allah (may Allah's peace and blessings be upon him) used to celebrate Allah’s oneness with these words after every prayer",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=6203",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:dc586c58771fb7f667441219ee4ae451b43d8e66f41e31e35adbc002e69ce231",
+   "explanation": "Le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) proclamait l'Unicité d'Allah après son salut de chaque prière prescrite. Il le faisait en prononçant cette évocation considérable dont le sens est :\r\n\r\n\" Il n'est de divinité qu'Allah \" : qui signifie que rien ni personne n'est digne d'être adoré à l'exception d'Allah.\r\n\r\n\" Seul et sans associé \", c'est-à-dire : que rien ni personne n'est associé à Lui dans Sa Divinité, Sa Seigneurie, Ses Noms et Ses Attributs.\r\n\r\n\" À Lui la Royauté \", c'est-à-dire : Il détient la Royauté absolue, générale, globale et vaste. C'est la Royauté des cieux et de la Terre et ce qu'il y a entre les deux.\r\n\r\n\" Et à Lui la Louange \", c'est-à-dire : Il est Celui décrit par la perfection absolue ; Celui qui est loué à la perfection, par amour et considération, quelles que soient les circonstances, dans l'aisance et dans l'adversité.\r\n\r\n\" Et Il a pouvoir sur toute chose \" : Son omnipotence est complète et parfaite sous tout point de vue. Rien ne Le réduit à l'impuissance et rien ne Lui est impossible.\r\n\r\n\" Il n'est de Puissance ni de Force que par Allah. \" C'est-à-dire : Rien ne passe d'un état à un autre, d'une désobéissance à Allah à Son obéissance, et il n'est de force que par Allah. Il est donc Celui qui aide et sur Lequel on se repose.\r\n\r\n\" Il n'est de divinité qu'Allah, et nous n'adorons que Lui. \" : C'est une affirmation du sens de la divinité ainsi qu'une infirmation du polythéisme. Et la confirmation que rien ni personne ne mérite l'adoration si ce n'est Lui.\r\n\r\n\" À Lui le bienfait, à Lui la grâce. \" Il est Celui qui crée les bienfaits et les détient, et Il les accorde à qui Il veut de Ses serviteurs.\r\n\r\n\" et à Lui le bel éloge. \" Pour Lui-même, Ses Attributs, Ses actes et Ses bienfaits et en toute circonstance.\r\n\r\n\" Il n'est de divinité qu'Allah. Nous Lui vouons un culte exclusif. \" C'est-à-dire : Nous sommes des monothéistes et il n'y a ni ostentation, ni vanité dans l'obéissance à Allah.\r\n\r\n\" quelle qu'en soit l'aversion qu'en éprouvent les mécréants. \" C'est-à-dire : Nous sommes fermes sur l'Unicité d'Allah et Son adoration,  en dépit de l'aversion qu'en éprouvent les mécréants.",
+   "grade": "Authentique",
+   "hints": [
+    "La recommandation d'être assidu à ce rappel après chaque prière prescrite.\r",
+    "Le musulman est fier de sa religion et il manifeste ses préceptes en dépit de l'aversion des mécréants.\r",
+    "Lorsque l'expression : \" après la prière \" est rapportée dans un hadith, si son contenu est une évocation, la base est qu'elle soit dite suite au salut final ; et s'il s'agit d'une invocation, c'est qu'elle soit dite avant le salut de la prière."
+   ],
+   "mapping": "same HadeethEnc record id 6203; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:54+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/6203",
+   "text": "Aboû Az-Zoubayr relate : Ibn Az-Zoubayr (qu'Allah l'agrée) disait après chaque prière, au moment où il prononçait le salut final : « Il n'est de divinité qu'Allah, Seul et sans associé ; à Lui la Royauté et à Lui la Louange et Il est capable sur toute chose ; il n'est de Force, ni de Puissance que par Allah ; il n'est de divinité qu'Allah et nous n'adorons que Lui ; à Lui le bienfait, à Lui la grâce, et à Lui le plus beau des éloges ; il n'est de divinité [digne d'adoration] qu'Allah, nous Lui vouons un culte exclusif, quelle qu'en soit l'aversion qu'en éprouvent les mécréants. » Il disait : « Le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) proclamait l'Unicité d'Allah en disant ces paroles après chaque prière. »",
+   "title": "Le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) proclamait l'Unicité d'Allah en disant ces paroles après chaque prière.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=6203",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:aef0e73aa49a757bf7c6d17ee9fb48341a8c5db4ff4443d8bb08aeee8ed0d988",
+   "explanation": "Rasulullah ﷺ biasa berzikir setelah salam di setiap salat fardu dengan zikir yang agung ini. Maknanya adalah:\r\n\r\n\"Lā ilāha illallāh\"; artinya: tidak ada sembahan yang benar kecuali Allah.\r\n\r\nWahdahu lā sharīka lahu (Dia semata, tidak ada sekutu bagi-Nya), yakni tidak ada sekutu bagi-Nya terkait uluhiah, rububiah serta nama dan sifat-sifat-Nya.\r\n\r\nLahu al-mulku (Milik-Nya seluruh kerajaan), yakni milik-Nya kerajaan yang mutlak, universal, dan tanpa batas, Dia yang memiliki langit dan bumi berikut semua yang ada di antara keduanya.\r\n\r\nWa lahu al-ḥamdu (Bagi-Nya seluruh pujian), yakni Dia yang memiliki sifat-sifat kesempurnaan yang mutlak, yang terpuji dengan kesempurnaan, dengan penuh cinta dan pengagungan dalam segala keadaan, ketika lapang dan sulit.\r\n\r\nWa huwa ‘alā kulli shay’in qadīr (Dia Mahakuasa atas segala sesuatu), yaitu kemahakuasaan-Nya sempurna dari segala sisi, tidak ada sesuatu pun yang membuat-Nya lemah dan tidak ada satu urusan pun yang mustahil bagi-Nya.\r\n\r\nLā ḥawla wa lā quwwata illā billāh (Tiada upaya dan kekuatan kecuali dengan pertolongan Allah), yakni tidak ada kuasa untuk berpindah dari satu keadaan kepada keadaan lainnya, dari bermaksiat kepada Allah menuju ketaatan kepada-Nya, dan tidak ada kekuatan kecuali dengan pertolongan Allah. Dialah Yang Maha Penolong dan hanya kepada-Nya tempat berserah diri.\r\n\r\nLā ilāha illallāh, wa-lā na‘budu illā iyāhu (Tidak ada sembahan yang berhak disembah kecuali Allah, dan kami tidak menyembah kecuali Dia). Ini merupakan penegasan terhadap makna uluhiah dan penafian kesyirikan, bahwa tidak ada yang berhak mendapatkan ibadah selain Allah.\r\n\r\nLahu an-ni‘matu wa lahu al-faḍlu (Milik-Nya seluruh nikmat, bagi-Nya seluruh karunia), yaitu Dialah yang menciptakan dan memiliki semua nikmat, lalu Dia pula yang memberikannya kepada siapa yang dikehendaki-Nya di antara hamba-hamba-Nya.\r\n\r\nWa lahu at-ṡanā`u al-ḥasan (Kepunyaan-Nya seluruh pujian yang bagus), yaitu terkait zat-Nya, sifat-Nya, perbuatan-Nya dan nikmat-nikmat-Nya dalam segala keadaan.\r\n\r\nLā ilāha illallāh mukhliṣīn lahu ad-dīn (Tiada sembahan yang berhak disembah kecuali Allah dengan memurnikan agama untuk-Nya), yakni menauhidkan Allah tanpa ada sifat ria dan sumah dalam ketaatan kepada-Nya.\r\n\r\nWa-law kariha al-kāfirūn (Meskipun orang-orang kafir tidak menyukai), yakni kami tetap kokoh menauhidkan Allah dan beribadah kepada-Nya walaupun orang-orang kafir tidak menyukai hal ini.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Anjuran merutinkan zikir ini setiap selesai salat wajib.\r",
+    "2- Seorang muslim bangga dengan agamanya dan menampakkan syiar-syiarnya, walaupun orang-orang kafir tidak menyukai hal itu.\r",
+    "3- Apabila disebutkan di dalam hadis kalimat \"di akhir salat\", jika yang disebutkan di dalam hadis itu berupa zikir maka biasanya maksudnya ialah setelah salam, tetapi jika berupa doa maka maksudnya ialah sebelum salam di dalam salat."
+   ],
+   "mapping": "same HadeethEnc record id 6203; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:54+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/6203",
+   "text": "Abu Az-Zubair meriwayatkan, Ibnu Az-Zubair biasa mengucapkan di penghujung setiap salat ketika usai salam, \"Lā ilāha illallāhu waḥdahu lā syarīka lahu, lahul-mulku wa lahul-ḥamdu wa huwa 'alā kulli syai`in qadīr, lā ḥaula wa lā quwwata illā billāh, lā ilāha illallāh, wa lā na'budu illā iyyāhu, lahun-ni'matu wa lahul-faḍlu, wa lahuṡ-ṡanā`ul-hasan, lā ilāha illallāhu mukhliṣīna lahud-dīn wa lau karihal-kāfirūn (Tiada sembahan yang berhak disembah kecuali Allah semata, tiada sekutu bagi-Nya, milik-Nya seluruh kerajaan, kepunyaan-Nya semua pujian, dan Dia Mahakuasa atas segala sesuatu. Tiada daya dan kekuatan kecuali dengan pertolongan Allah. Tidak ada sembahan yang berhak disembah kecuali Allah, dan kami tidak menyembah kecuali Dia. Bagi-Nya segala nikmat, milik-Nya seluruh karunia, dan kepunyaan-Nya pujian yang bagus. Tidak ada sembahan yang berhak disembah kecuali Allah dengan memurnikan agama untuk-Nya, meskipun orang-orang kafir tidak menyukai).\" Ia mengatakan, \"Rasulullah ﷺ bertahlil dengan kalimat-kalimat ini di akhir setiap salat.\"",
+   "title": "Rasulullah ﷺ bertahlil dengan kalimat-kalimat ini di akhir setiap salat",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=6203",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:5cb8db6ea6d80d26a14f400f008207c1630832756007aea514ac18fcd2a3072e",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم ہر فرض نماز سے سلام پھیرنے کے بعد اس عظیم ذکر کے ذریعے اللہ کی پاکی بیان کرتے تھے، جس کے معنی ہیں:\r\n\r\n\"لا إله إلا الله\" : اللہ کے علاوہ کوئی سچا معبود نہیں ہے۔\r\n\r\n\"وحده لا شريك له\" : وہ اکیلا ہے اور الوہیت، ربوبیت اور اسما و صفات میں اس کا کوئی شریک نہيں ہے۔\r\n\r\n\"له الملك\" : اسی کے لیے مطلق، عام، ہمہ گیر اور وسیع بادشاہت ہے۔ آسمانوں، زمین اور ان کے بیچ کی ساری چیزوں کی بادشاہت۔\r\n\r\n\"وله الحمد\" : وہ کمال مطلق کے وصف سے متصف ہے۔ اس کا کمال‘ محبت اور تعظیم کے ساتھ ہر حال میں بیان کیا جائے گا۔ خوشی میں بھی اور غمی میں بھی۔\r\n\r\n\"وهو على كل شيء قدير\" : اس کی قدرت ہر اعتبار سے مکمل اور تام ہے۔ اسے کوئی بے بس نہیں کر سکتا۔ ایسا کوئی کام نہيں، جو وہ نہ کر سکے۔\r\n\r\n\"لا حول ولا قوة إلا بالله\" : ایک حالت سے دوسری حالت میں جانے اور اللہ کی نافرمانی کی راہ کو چھوڑ کر اس کی فرماں برداری کی راہ اپنانے کی طاقت اللہ کی توفیق کے بغیر کسی کے پاس نہيں ہے۔ وہی اصل مددگار ہے اور اسی پر سارا بھروسہ ہے۔\r\n\r\n\"لا إله إلا الله، ولا نعبد إلا إياه\" : اس بات کی تاکید کہ بس اللہ ہی عبادت کے لائق ہے، اس کا کوئی شریک نہيں ہے اور اس کے سوا کوئی عبادت کے لائق نہیں ہے۔\r\n\r\n\"له النعمة وله الفضل\" : وہی نعمتیں پیدا کرتا ہے اور وہی نعمتوں کا مالک ہے۔ وہ اپنے جس بندے کو چاہتا ہے اپنے فضل و کرم سے نعمتیں عطا کرتا ہے۔\r\n\r\n\"وله الثناء الحسن\" : اسی کی اچھی تعریف ہے ہر حال میں، اس کی ذات، صفات، افعال اور نعمتوں پر۔\r\n\r\n\"لا إله إلا الله، مخلصين له الدين\" ہم خالص طور پر اسی کی عبادت کرتے ہيں۔ اللہ کی عبادت کو ریا اور شہرت طلبی کی آلائشوں سے پاک رکھتے ہيں۔\r\n\r\n\"ولو كره الكافرون\": ہم اللہ کو ایک ماننے اور اس کی عبادت کرنے کی روش پر ثابت قدم رہيں گے،  چاہے کافروں کو برا ہی کیوں نہ لگے۔",
+   "grade": "صحيح",
+   "hints": [
+    "ہر فرض نماز کے بعد اس ذکر کی پابندی کرنا مستحب ہے۔\r",
+    "ایک مسلمان اپنے دین پر فخر کرتا اور اس کے شعائر کا بر ملا اظہار کرتا ہے، چاہے کافروں کو برا ہی کیوں نہ لگے۔\r",
+    "جب حدیث کے اندر \"دُبر الصلاة\" (نماز کے بعد) کے الفاظ آئيں اور حدیث میں جس چیز کا ذکر ہوا ہو وہ ذکر ہو، تو اصلا اس سے مراد سلام پھیرنے کے بعد ہوگا۔ لیکن اگر وہ دعا ہو، تو مراد سلام پسے پہلے ہوگا۔"
+   ],
+   "mapping": "same HadeethEnc record id 6203; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:53+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/6203",
+   "text": "ابو الزبیر کہتے ہيں : عبداللہ بن زبیر رضی اللہ تعالیٰ عنہما ہر نماز کے وقت سلام پھیرنے کے بعد یہ دعا پڑھتے : ”لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ لَا إِلَهَ إِلَّا اللَّهُ وَلَا نَعْبُدُ إِلَّا إِيَّاهُ وَلَهُ النِّعْمَةُ وَلَهُ الْفَضْلُ وَلَهُ الثَّنَاءُ الْحَسَنُ لَا إِلَهَ إِلَّا اللَّهُ مُخْلِصِينَ لَهُ الدِّينَ وَلَوْ كَرِهَ الْكَافِرُونَ“ (اللہ کے سوا کوئی عبادت کے لائق نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں، اسی کی بادشاہت ہے، اسی کے لیے تمام تعریفیں ہیں اور وہ ہر چیز پر قادر ہے۔ گناہ سے بچنے کی طاقت اور نیکی کرنے کی قدرت صرف اللہ کی توفیق سے ملتی ہے۔ اللہ کے سوا کوئی سچا معبود نہیں، ہم صرف اسی کی عبادت کرتے ہیں، ہر نعمت کا مالک وہی ہے اور سارا فضل اسی کی ملکیت ہے اور اسی کے لیے بہترين تعريف ہے۔ اللہ کے سوا کوئی سچا معبود نہیں، ہم خالص اسی کی عبادت کرنے والے ہیں، اگرچہ کافر ناپسند کریں۔) وہ فرماتے: نبی ﷺ ہر نماز کے بعد یہ کلمات کہا کرتے تھے۔",
+   "title": "نبی ﷺ ہر نماز کے بعد یہ کلمات کہا کرتے تھے۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=6203",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:5035ab6af7ba3bd5d9d67cedd0eaeddc49930e5b697b49d08e64bdf662974716",
+   "explanation": "安拉的使者（愿主福安之）每番主命拜出赛俩目以后都诵念这些祷词，其意思：\r\n\r\n“除安拉外，绝无应受崇拜的主”：除安拉以外，绝无真应受崇拜的主宰。\r\n\r\n“独一无二的主”：任何人不得分享他的养育权、受拜权及尊名和属性。\r\n\r\n“一切权利统归于他”：绝对、全面的权利统归于他，即：众天与大地以及天地间的权柄。\r\n\r\n“一切赞颂统归于他”：安拉具备绝对的完美，无论任何状况，无论秘密还是公开，在喜爱和尊崇方面，他都是受到完美的赞颂的。\r\n\r\n“他是全能于万事的主”：安拉的能力是绝对完美的，任何物都不能难倒他，任何事都不能阻止他。\r\n\r\n“无法无力，唯凭安拉”：各类状况之间的转换，从违抗安拉到顺从之，这一切事情都只能凭借安拉之能力，他是帮助者，我们只依靠于他。\r\n\r\n“除安拉外，绝无应受崇拜的主，我们只崇拜他”：强调了受拜权的意义，否认了以物配主，安拉以外的任何物都不得应受崇拜。\r\n\r\n“一切恩惠和恩泽统归于他”：安拉创造了恩惠并掌管之，他将其赐予他所意欲的任何仆人。\r\n\r\n“一切工作优美的赞颂统归于他”：对他本体、属性、行为和恩惠的赞颂，以及在任何状况下对他的赞颂。\r\n\r\n“除安拉以外，绝无应受崇拜的主，我们为他而虔诚的遵守教门”：在服从安拉方面做到认主独一，无沽名钓誉。\r\n\r\n“即使否认者憎恶也罢！”：坚守认主独一，坚守崇拜安拉，即使否认者们厌恶也罢！",
+   "grade": "正确的",
+   "hints": [
+    "主命拜后坚持诵念该祷词为可嘉。\r",
+    "穆斯林当以自己的教门而感到荣耀，当时刻彰显教门之标识，即使否认者厌恶也罢！\r",
+    "当圣训中提到“拜功后”这一单词时，如果在圣训中谈论的是记念词，原则上是出赛俩目以后诵念。如果提到的是祈祷词，则应当是在出赛俩目以前，在拜功当中诵念。"
+   ],
+   "mapping": "same HadeethEnc record id 6203; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:53+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/6203",
+   "text": "据艾布·祖拜尔传述说： 伊本·祖拜尔每次礼拜出赛俩目后念： “除安拉外，绝无应受崇拜的主，他独一无二，一切权力和赞颂统归于他。他是全能于万事的主，无法无力，唯凭安拉，除安拉外，绝无应受崇拜的主。我们只崇拜他，一切恩惠和恩泽统归于他，一切优美的颂词统归于他。除安拉以外，绝无应受崇拜的主，我们为他而虔诚的遵守教门，即使否认者憎恶也罢。”伊本·祖拜尔还说：安拉的使者（愿主福安之）每番拜后都诵念这些祷词。",
+   "title": "安拉的使者（愿主福安之）每番拜后都诵念这些祷词。",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [
+  {
+   "meaning": " تكرار المدح والذكر.",
+   "word": "الثناء"
+  }
+ ],
+ "words_meanings_language": "ar"
+}

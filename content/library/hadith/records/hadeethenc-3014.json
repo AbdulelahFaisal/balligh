@@ -1,0 +1,188 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:82a6dc19e94f57285592e735913a7577f596ac5285c106ee181e54e925e209c4",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "كان النبي صلى الله عليه وسلم في أَحَدِ أسفارِه فتوضأ، \nفلما بلغ غسل الرجلين مَدَّ المغيرةُ بن شعبة رضي الله عنه يديه لِنَزْعِ ما كان على قَدَمِ النبيِّ صلى الله عليه وسلم مِن خُفٍّ لغسل رجليه! \nفقال النبي صلى الله عليه وسلم: اتركهما ولا تنزعهما، فإني أدخلت رِجْلَيَّ في الخُفين وأنا على طهارة، \nفمسح النبي صلى الله عليه وسلم على خفيه بَدل غسل رجليه.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "مشروعية المسح على الخفين يكون عند الوضوء من حَدَثٍ أصغر، وأما الاغتسال للحدث الأكبر فلابد من غسل القدمين.",
+  "المسح يكون مرة واحدة بإمرار اليد مبلولة على أعلى الخف دون أسفله.",
+  "يشترط للمسح على الخفين أن يكون لبسهما بعد وضوء تامٍّ غَسَلَ فيه قدميه بالماء، وأن يكون الخف طاهرًا، ساترًا لمحل الفرض من القدم، وأنْ يكون مسحهما في الحَدَث الأصغر لا في الجنابة أو ما يوجب الغُسل، وأنْ يكون المسح في الوقت المحدَّد شرعًا وهو يومٌ وليلةٌ للمُقيم وثلاثة أيام بلياليها للمسافر.",
+  "يقاس على الخفين كل ما يستر الرجلين من الجوارب وغيرها، فيجوز المسح عليها.",
+  "حسن خلق النبي صلى الله عليه وسلم وتعليمه، حيث منع المغيرة من خلعهما، وبيَّن له السبب: أنه أدخلهما طاهرتين؛ لتطمئن نفسه، ويعرف الحكم."
+ ],
+ "id": "hadeethenc-3014",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (1/ 52) (206).\nصحيح مسلم (1/ 230) (274).\nتيسير العلام شرح عمدة الأحكام، لعبد الله البسام (ص50).\nالإلمام بشرح عمدة الأحكام، لإسماعيل الأنصاري (1/ 36).\nخلاصة الكلام شرح عمدة الأحكام، لفيصل آل مبارك (ص27).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3014",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:41+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3014"
+ },
+ "source_categories": [
+  {
+   "id": "292",
+   "label": "آداب وأحكام السفر"
+  },
+  {
+   "id": "727",
+   "label": "المسح على الخفين ونحوهما"
+  }
+ ],
+ "source_record_id": "3014",
+ "text": "عَنْ المُغِيرَةِ رضي الله عنه قَالَ: كُنْتُ مَعَ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِي سَفَرٍ، فَأَهْوَيْتُ لِأَنْزِعَ خُفَّيْهِ، فَقَالَ: «دَعْهُمَا، فَإِنِّي أَدْخَلْتُهُمَا طَاهِرَتَيْنِ» فَمَسَحَ عَلَيْهِمَا.",
+ "title": "دعهما، فإني أدخلتهما طاهرتين",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3014",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:4afd82753adaa4d10dbffdd430f62b158f764615e79e3852d0358b829eb1f0a5",
+   "explanation": "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কোন এক সফরে ছিলেন। অতঃপর তিনি অযু করলেন। যখন রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের দু’পা ধৌত করার পালা আসলো, তখন মুগীরাহ ইবন শু‘বাহ রাদিয়াল্লাহু ‘আনহু তাঁর পায়ের মোজা দু’টি খুলতে হাত বাড়িয়ে দিলেন, যাতে তিনি তাঁর পা ধৌত করতে পারেন। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন: ও দু’টো থাক, এ দু’টো খুলো না; কারণ আমি ওজু অবস্থায় উভয় পা মোজা দুটিতে প্রবেশ করেছিলাম। অতঃপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর উভয় পা না ধুয়ে মোজার উপর মাসেহ করলেন।",
+   "grade": "সহীহ",
+   "hints": [
+    "মোজার উপর মাসেহ তখনই শরী‘আহ অনুমোদিত হবে যখন তা ছোট অপবিত্রতা থেকে অযুর মাধ্যমে পবিত্র হওয়ার জন্যে করা হবে। কিন্তু বড় অপবিত্রতার জন্যে গোসলের প্রয়োজন হলে তখন অবশ্যই পা ধৌত করতে হবে।\r",
+    "মোজার উপর মাসেহ করতে ভিজা হাত পায়ের মোজার উপরিভাগে টেনে নিতে হবে। মোজার নিচের অংশে নয়।\r",
+    "মোজার উপর মাসেহ করার শর্ত হলো,(1) এটি পূর্ণ অযুর পরে পরিধান করা, যে অযুতে পা পানি দ্বারা ধৌত করা হয়েছে। (2)মোজাটি স্বয়ং পবিত্র হওয়া,(3)অযুর জন্যে পা ধৌত করার পূর্ণ অংশ ঢেকে থাকা।(4) এর দ্বারা ছোট অপবিত্রতা থেকে পবিত্র হওয়ার জন্যে মাসেহ করা; বড় অপবিত্রতা থেকে বা যে কারণে গোসল ফরয হয়, তাতে না করা।(5) শরী‘আহ নির্ধারিত সময়ের মধ্যে মাসেহ করা। আর তা হলো: মুকীমের জন্যে একদিন একরাত এবং মুসাফিরের জন্যে তিনদিন তিনরাত।\r",
+    "চামড়ার মোজার উপর মাসেহের উপরে অন্যান্য মোজাকে কিয়াস করা, যা দ্বারা দু’পা ঢেকে থাকে। সুতরাং সেসব মোজা দ্বারাও মাসেহ করা জায়েয।\r",
+    "হাদীসে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের উত্তম আখলাক ও শিক্ষা ফুটে উঠেছে। কেননা তিনি মুগীরাহ রাদিয়াল্লাহু ‘আনহুকে মোজা খুলতে নিষেধ করেছেন এবং এর কারণও বর্ণনা করেছেন যে, তিনি তা ওজু অবস্থায় পরিধান করেছেন। যাতে তিনি তাকে আত্মিক প্রশান্তি দিতে পারেন এবং বিষয়টির হুকুম জানাতে পারেন।"
+   ],
+   "mapping": "same HadeethEnc record id 3014; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:55+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3014",
+   "text": "মুগীরাহ রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, তিনি বলেন: আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে কোন এক সফরে ছিলাম। (উযূ করার সময়) আমি তাঁর মোজা দু’টি খুলার জন্য ঝুকলে  তিনি বললেন:\nও দু’টো থাক, আমি পবিত্র(ওজু) অবস্থায় ও দু’টি পরেছিলাম।\" (এই বলে) তিনি তার উপর মাসেহ করলেন।",
+   "title": "ও দু’টো থাক, আমি পবিত্র(ওজু) অবস্থায় ও দু’টি পরেছিলাম।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3014",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:710b33f55aca7768d47bf1772c08d8475052e3cdf93cff113d0dc9b972055660",
+   "explanation": "In one of his journeys, the Prophet (may Allah's peace and blessings be upon him) was performing ablution. On reaching the part of washing the feet, Al-Mughīrah ibn Shu‘bah (may Allah be pleased with him) stretched his hands to take off the Prophet's leather socks to wash his feet. However, the Prophet (may Allah's peace and blessings be upon him) said: Leave them and do not take them off, for I had put them on while being in a state of Tahārah (ritual purity). Hence, the Prophet (may Allah's peace and blessings be upon him) wiped over his leather socks instead of washing his feet.",
+   "grade": "Authentic",
+   "hints": [
+    "The permissibility of wiping over the leather socks when performing ablution from minor Hadath (ritual impurity), but when taking a ritual bath from major Hadath, the feet must be washed.\r",
+    "Wiping is done by passing the wet hand once over the surface of the leather sock, not its bottom.\r",
+    "The conditions for wiping over leather socks are: wearing them after having performed a complete ablution where the feet are washed with water, the leather socks must be pure and cover the area that must be washed in ablution, wiping over them in case of minor Hadath not in case of Janābah (impurity due to sexual discharge) or what requires a ritual bath, and wiping over them during the period prescribed by Shariah, namely one day and night for the resident and three days and nights for the traveler.\r",
+    "What applies to leather socks applies also to all footwear including socks and others. It is permissible to wipe over them.\r",
+    "Good moral character of the Prophet (may Allah's peace and blessings be upon him) and his teaching method, as he forbade Al-Mughīrah from taking off his leather socks and told him the reason, that he put them on when his feet were in the state of ritual purity, so that he be reassured and know the ruling."
+   ],
+   "mapping": "same HadeethEnc record id 3014; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:55+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3014",
+   "text": "Al-Mughīrah (may Allah be pleased with him) reported: Once I was in the company of the Prophet (may Allah's peace and blessings be upon him) on a journey and I bent down to take off his leather socks, but he said: \"Leave them, for I had put them on when they were in the state of purity.\" So, he wiped over them.",
+   "title": "Leave them, for I had put them on when they were in the state of purity",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=3014",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:8a9faf71d46fcf43be2cb2990cb0fa1945790288203ec6bcd8b9de553d1c4160",
+   "explanation": "Lors d'un de ses voyages, le Prophète ﷺ effectua ses ablutions. Lorsqu'Al Mughîrah ibn Chu'bah (qu'Allah l'agrée) arriva au lavage des pieds, il étendit ses mains pour enlever les chaussons en cuir que le Prophète ﷺ portait afin de laver ses pieds. Mais le Prophète ﷺ a dit : \" Laisse-les et ne les enlève pas car j'ai mis mes pieds dans mes chaussons en cuir en étant en état de pureté. \" Alors, le Prophète ﷺ essuya ses chaussons en cuir au lieu de se laver les pieds.",
+   "grade": "Authentique",
+   "hints": [
+    "La prescription d'essuyer les chaussons en cuir est au moment des ablutions en cas d'impureté mineure. En effet, en cas de lavage suite à une impureté majeure, alors la personne doit se laver les pieds.\r",
+    "L'essuyage se fait en une seule fois en passant les mains humides sur les chaussons en cuir [les chaussettes, etc.] sans passer en dessous.\r",
+    "La condition de l'essuyage des chaussons en cuir est que la personne les ait mis après avoir accompli parfaitement les ablutions mineures et s'être lavé les pieds avec de l'eau. De même, les chaussons en cuir doivent être purs et bien recouvrir toute l'anatomie obligatoire du pied. L'essuyage des chaussons doit uniquement concerner l'impureté mineure et non pas tout ce qui concerne une situation d'impureté majeure comme l'état de \" Janâbah \" ou tout ce qui rend obligatoire le lavage en entier du corps. De même, l'essuyage doit avoir lieu dans le temps qui a été délimité par la Législation, à savoir : un jour et une nuit pour la personne résidente ; et trois jours et trois nuits pour la personne en voyage.\r",
+    "Tout ce qui recouvre les pieds, notamment les chaussettes ou autres, entre dans le même cas que les chaussons en cuir, c'est-à-dire : il est aussi permis de les essuyer.\r",
+    "Le bon comportement du Prophète ﷺ et son bon enseignement de sorte qu'il ﷺ a interdit à Al Mughîrah d'enlever ces chaussons en cuir et il ﷺ lui a expliqué la cause, à savoir : il les a enfilés en étant en état de pureté. Cela, pour tranquilliser Al Mughîrah et lui faire connaître le décret de cet acte."
+   ],
+   "mapping": "same HadeethEnc record id 3014; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:55+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/3014",
+   "text": "D'après Al Mughîrah (qu'Allah l'agrée) qui a dit : \" J'étais en voyage avec le Prophète ﷺ ; je me suis alors baissé pour lui enlever ses sandales. Il a alors dit : \"  Laisse-les, car je les ai chaussées alors qu'ils étaient purs  \" Alors, il les essuya [en passant ses mains dessus].",
+   "title": "Laisse-les, car je les ai chaussées alors qu'ils étaient purs",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3014",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:7921b2a48140487663c239704b2a4a7ba7de3fe6b1507e42dcc72510ff149601",
+   "explanation": "Dalam sebuah perjalanannya, Nabi ﷺ berwudu. Ketika akan membasuh kaki, Al-Mugīrah bin Syu'bah -raḍiyallāhu 'anhu- mengulurkan kedua tangannya untuk melepas khuff yang ada di kaki Nabi ﷺ agar kaki beliau dapat dibasuh. Namun, Nabi ﷺ bersabda, \"Biarkan keduanya, jangan dilepas; karena aku memasukkan kedua kakiku ke dalam khuff dalam keadaan suci.\" Lantas Nabi ﷺ mengusap kedua khuff tersebut sebagai ganti membasuh kedua kaki.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Boleh mengusap khuff ketika berwudu dari hadas kecil, adapun mandi karena hadas besar maka harus dengan membasuh kaki.\r",
+    "2- Mengusap khuff dilakukan satu kali-satu kali dengan menjalankan tangan yang basah di bagian atas khuff tanpa bagian bawahnya.\r",
+    "3- Dalam mengusap khuff, disyaratkan:  - Khuff dipakai setelah berwudu secara sempurna dengan membasuh kedua kaki dengan air.  - Khuff dipakai dalam keadaan suci. - Khuff tersebut menutup seluruh bagian kaki yang wajib dibasuh. - Pengusapannya dilakukan pada hadas kecil, bukan pada junub atau lainnya yang mewajibkan mandi. - Mengusap dilakukan pada batasan waktu yang disyariatkan, yaitu satu hari satu malam bagi orang mukim dan tiga hari tiga malam bagi musafir.\r",
+    "4- Semua yang menutup kaki seperti kaos kaki dan semisalnya dapat dianalogikan dengan khuff, sehingga semua itu bisa diusap.\r",
+    "5- Baiknya akhlak Nabi ﷺ serta metode pengajaran beliau, yaitu beliau melarang Al-Mugīrah melepas khuff beliau seraya menjelaskan sebabnya, yaitu bahwa beliau memasukkan kedua kakinya dalam keadaan suci, agar hati Al-Mugīrah tenang dan mengetahui hukum tersebut."
+   ],
+   "mapping": "same HadeethEnc record id 3014; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:55+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3014",
+   "text": "Al-Mugīrah -raḍiyallāhu 'anhu- meriwayatkan, Aku pernah bersama Nabi ﷺ dalam sebuah perjalanan. Aku merunduk untuk melepas sepasang khuff (sepatu kulit) beliau, maka beliau bersabda, \"Biarkan keduanya karena aku memasukkan kedua kakiku ke dalam keduanya dalam keadaan suci.\" Lalu beliau mengusap bagian atas kedua khuff tersebut.",
+   "title": "Biarkan keduanya karena aku memasukkan kedua kakiku ke dalam keduanya dalam keadaan suci",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3014",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:1ee63b068a1947944076eaac2fb0c4be9748af373ebb90067a48a6ff4569c412",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم ایک سفر میں تھے۔ سفر کے دوران آپ نے وضو کیا۔ وضو کرتے ہوئے جب پاؤں دھونے کی باری آئی، تو مغیرہ بن شعبہ رضی اللہ عنہ  نے آپ کے موزوں کو اتارنے کے لیے ہاتھ بڑھایا، تاکہ آپ اپنے پیروں کو دھو سکیں۔ ان کو ہاتھ بڑھاتے ہوئے دیکھ کر اللہ کے نبی صلی اللہ علیہ و سلم نے فرمایا: انھیں رہنے دو۔ ان کو مت اتارو۔ کیوں کہ جب میں  نے موزے پہنے تھے، اس وقت میں باوضو تھا۔ چنانچہ اللہ کے رسول صلی اللہ علیہ و سلم  نے اپنے پیروں کو دھونے کے بجائے ان پر مسح کیا۔",
+   "grade": "صحيح",
+   "hints": [
+    "وضو کے وقت موزوں پر مسح کی اجازت صرف حدث اصغر دور کرنے کے لیے ہے۔ رہی بات حدث اکبر کی، جس میں غسل واجب ہوتا ہے، تو اس میں دونوں پیروں کو دھونا ضروری ہے۔\r",
+    "مسح کرتے وقت تر ہاتھوں کو موزے کے اوپری حصے پر ایک بار پھیرنا ہے۔ ہاتھوں کو موزوں کے نچلے حصے پر نہيں پھیرنا ہے۔\r",
+    "موزوں پر مسح کرنے کے لیے شرط یہ ہے کہ موزوں کو مکمل وضو، جس میں قدموں کو دھویا گیا ہو، کے بعد پہنا گیا ہو، موزے پاک ہوں، قدم کے اس حصے کو چھپاتے ہوں جسے وضو کرتے وقت دھونا ضروری ہے، مسح حدث اکبر نہیں بلکہ حدث اصغر دور کرنے کے لیے کیا جائے اور شریعت کی جانب سے متعین وقت کے اندر کیا جائے۔ شریعت نے مقیم کے لیے ایک دن اور ایک رات، جب کہ مسافر کے لیے تین دن اور تین رات مسح کرنے کی اجازت دی ہے۔\r",
+    "\"خفین\" یعنی چمڑے کے موزوں پر قیاس کرتے ہوئے دوسری چیزوں سے بنے ہوئے موزوں پر بھی مسح کرنا جائز ہوگا۔\r",
+    "اللہ کے نبی صلی اللہ علیہ و سلم کا حسن اخلاق اور حسن تعلیم کہ مغیرہ رضی اللہ عنہ کو موزے اتارنے سے منع کیا، تو ساتھ میں اس کی وجہ بھی بتا دی کہ موزے طہارت کی حالت میں پہنے گئے ہیں، تاکہ ان کو اطمینان ہو جائے اور مسئلہ بھی معلوم ہو جائے۔"
+   ],
+   "mapping": "same HadeethEnc record id 3014; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:55+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3014",
+   "text": "مغیرہ رضی اللہ عنہ سے روایت ہے، وہ کہتے ہيں : میں ایک سفر میں اللہ کے نبی ﷺ کے ساتھ تھا۔ میں نے آپ ﷺ کے موزے اتارنے کے لیے ہاتھ بڑھایا، تو آپ ﷺ نے فرمایا : \"انہیں رہنے دو۔ میں نے ان کے اندر اپنے پاؤں طہارت کی حالت میں داخل کیے تھے\"۔ پھر آپ نے موزوں پر مسح فرمایا۔",
+   "title": "انہیں رہنے دو۔ میں نے ان کے اندر اپنے پاؤں طہارت کی حالت میں داخل کیے تھے",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3014",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:716f135847c732a76ffa51fa3e3bcf287e20ba9b24666ee922f556c01656c160",
+   "explanation": "先知（愿主福安之）在一次旅程中做了小净。 当洗到两只脚时，穆吉拉·本·沙尔巴（愿主喜悦他）伸出他的手，要脱掉先知（愿主福安之）脚上的鞋子，以便洗他的双脚。 先知（愿主福安之）说：“让它们留着，不要脱掉它们，因为我是处于清洁状态下，穿上这两只鞋的。” 然后，先知（愿主福安之）用手抹了他的鞋子代替洗脚。",
+   "grade": "正确的",
+   "hints": [
+    "在做小净时，抹皮袜是合法的，但在做大净时，必须洗脚。\r",
+    "抹皮袜子应该只进行一次，即用湿手在皮袜子的上面抹而非抹底部。\r",
+    "抹皮袜子的条件是：完整的做完小净以后，其中就包括洗脚，然后在穿上皮袜子，其次袜子要干净，要遮盖住洗脚的主命部位，并且只在洗小净的情况下进行抹，而不是在大净或需要洗大净的情况下。此外，抹应在法定的时间内进行，对于居住者是一天一夜，对于旅行者是三天三夜。\r",
+    "所有覆盖脚部的东西，如袜子等，都可类比于皮袜子，是可以抹的。\r",
+    "先知（愿主福安之）的良好品德和他的教导，在阻止穆吉拉去脱掉他的鞋时得到了体现，并向他解释了原因：因为他在清洁的状态下穿上了鞋子，这样他就能够安心。"
+   ],
+   "mapping": "same HadeethEnc record id 3014; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:55+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3014",
+   "text": "据穆吉拉（愿主喜悦他）的传述：他说： 我和先知（愿主福安之）一次外出，我想替他脱掉他的皮袜，他说：“别脱，我洗了脚后才穿上皮袜子的。”他只抹了皮袜子。",
+   "title": "别脱，我洗了脚后才穿上皮袜子的。",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

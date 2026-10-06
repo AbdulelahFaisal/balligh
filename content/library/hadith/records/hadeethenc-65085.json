@@ -1,0 +1,177 @@
+{
+ "attribution": "رواه أبو داود والترمذي والنسائي",
+ "content_sha256": "sha256:1b4ca58c39e71ee41f0155d35def5964968a0f8e294eef627059d6daf9490ab7",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "جاء قيسُ بن عاصم إلى النبيِّ صلى الله عليه وسلم وهو يريد أن يُسْلِم، فأمرَه النبيُّ صلى الله عليه وسلم أن يَغتسِلَ بماء وشَجَرِ السِدْر؛ لكون أوراقِهِِ تُستَعمل في التنظيف؛ ولِمَا له من رائحة طيبة.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "مشروعيَّة اغتسال الكافر عند دخوله في الإسلام.",
+  "شرف الإسلام واهتمامه بالجسد والرُّوح معًا.",
+  "اختلاط الماء بالأشياء الطّاهرة لا يخرِجه عن الطّهوريَّة.",
+  "يقوم مقام السدر المنظفات الحديثة، كالصابون ونحوه."
+ ],
+ "id": "hadeethenc-65085",
+ "language": "ar",
+ "narrator": null,
+ "reference": "سنن أبي داود (1/ 266) (355)، سنن الترمذي (1/ 595) (605)، سنن النسائي (1/ 109) (188)، معالم السنن (1/111)، ذخيرة العقبى (4/131)، شرح سنن أبي داود للعباد (54/ 10).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=65085",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:54:27+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/65085"
+ },
+ "source_categories": [
+  {
+   "id": "448",
+   "label": "موجبات الغسل"
+  }
+ ],
+ "source_record_id": "65085",
+ "text": "عن قيس بن عاصم رضي الله عنه قال: أتيتُ النبيَّ صلى الله عليه وسلم أُريدُ الإسلامَ، فأَمَرَني أن أغتَسِلَ بماءٍ وسِدرٍ.",
+ "title": "أتيت النبي صلى الله عليه وسلم أريد الإسلام، فأمرني أن أغتسل بماء وسدر",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=65085",
+   "arabic_match": "exact",
+   "attribution": "এটি আবূ দাউদ, তিরমিযী ও নাসায়ী বর্ণনা করেছেন।",
+   "content_sha256": "sha256:a18c3d831d542e1dbeac6c1d49e997eb7e27fedbf422aa7a0d1ebf7eb51514c1",
+   "explanation": "কাইস বিন ’আসিম ইসলাম গ্রহণ করার ইচ্ছে নিয়ে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের নিকট আসেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বরই পাতা মিশ্রিত পানি দ্বারা গোসল করার নির্দেশ দান করেন। কারণ, বরই পাতা পরিস্কার-পরিচ্ছন্নতায় ব্যবহার করা হয়, অধিকন্তু তার রয়েছে সুবাস ও সুগন্ধি।",
+   "grade": "সহীহ",
+   "hints": [
+    "কাফিরের ইসলামে প্রবেশ করার সময় গোসল করার বিধান প্রমাণিত হয়।\r",
+    "ইসলামের সম্মান ও গুরুত্ব শরীর ও রুহ উভয় দ্বারা এক সাথে হয়ে থাকে।\r",
+    "পানির সাথে অন্য পবিত্র বস্তু মিশিয়ে দিলে তার পবিত্রতা দূর হয় না।\r",
+    "আধুনিক পরিচ্ছন্নতার সামগ্রী, যেমন সাবান ইত্যাদি বরই পাতার স্থলাভিষিক্ত হবে।"
+   ],
+   "mapping": "same HadeethEnc record id 65085; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:31+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/65085",
+   "text": "কাইস বিন ’আসিম রাদিয়াল্লাহু ‘আনহু সূত্রে বর্ণিত, তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট ইসলাম গ্রহণ করতে এলাম, তিনি আমাকে বরই পাতা মেশানো পানি দিয়ে গোসল করার নির্দেশ দিলেন।",
+   "title": "আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট ইসলাম গ্রহণ করতে এলাম, তিনি আমাকে বরই পাতা মেশানো পানি দিয়ে গোসল করার নির্দেশ দিলেন।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=65085",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Abu Dāwūd, At-Tirmidhi, and An-Nasā’i",
+   "content_sha256": "sha256:42f0a25a5d91c492049a728b5502e03a83da9d845f6dabfc58b1c29876bc2c33",
+   "explanation": "Qays ibn 'Āsim came to the Prophet (may Allah's peace and blessings be upon him) with the intention to embrace Islam. So, the Prophet (may Allah's peace and blessings be upon him) instructed him to bathe with water and lote tree leaves, which are used for cleaning and have a good scent.",
+   "grade": "Authentic",
+   "hints": [
+    "It is prescribed for a disbeliever who wants to enter Islam to take a bath.\r",
+    "Islam is honorable and careful about both the body and the spirit.\r",
+    "Mixing water with other pure materials does not affect its state of purification.\r",
+    "Modern detergents, like soap, can take the place of the lote trees."
+   ],
+   "mapping": "same HadeethEnc record id 65085; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:31+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/65085",
+   "text": "Qays ibn ‘Āsim (may Allah be pleased with him) reported: I came to the Prophet (may Allah’s peace and blessings be upon him) with the intention of embracing Islam. He commanded me to take a bath with water and the leaves of a lote tree.",
+   "title": "I came to the Prophet (may Allah’s peace and blessings be upon him) with the intention of embracing Islam. He commanded me to take a bath with water and the leaves of a lote tree",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=65085",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Abû Dâwud, At-Tirmidhî et An-Nassâ'î",
+   "content_sha256": "sha256:71182c61ca4fac592553a9ce0fc6674a06737787797804760cebc6b82feadbda",
+   "explanation": "Qays ibn 'Âsim (qu'Allah l'agrée) est venu auprès du Prophète ﷺ alors qu'il voulait se convertir, alors le Prophète ﷺ lui a ordonné de se laver avec de l'eau et de l'arbre du jujubier du fait que l'on utilise ses feuilles pour être propre et parce que cet arbre exhale une bonne odeur.",
+   "grade": "Authentique",
+   "hints": [
+    "La prescription du lavage du mécréant au moment où celui-ci se convertit à l'Islam.\r",
+    "La noblesse de l'Islam et l'importance qu'il a accordé au corps et à l'esprit ensemble.\r",
+    "Le fait de mélanger de l'eau à des choses pures ne fait pas perdre le caractère pur de l'eau.\r",
+    "Les produits contemporains de lavage comme le savon et ont le même statut que le jujubier."
+   ],
+   "mapping": "same HadeethEnc record id 65085; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:32+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/65085",
+   "text": "D'après Qays ibn 'Âsim (qu'Allah l'agrée) qui a dit : \" Je suis venu au Prophète ﷺ afin d'embrasser l'islam, alors il m'a ordonné de me laver avec de l'eau et du jujubier. \"",
+   "title": "Je suis venu au Prophète ﷺ afin d'embrasser l'islam, alors il m'a ordonné de me laver avec de l'eau et du jujubier.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=65085",
+   "arabic_match": "exact",
+   "attribution": "HR. Abu Daud, Tirmizi, dan Nasai",
+   "content_sha256": "sha256:34707e4d48da9ede0c5ea44d7148071acd3052267b52f268ffe04673c850f38b",
+   "explanation": "Qais bin 'Āṣim datang menghadap Nabi ﷺ untuk masuk Islam. Lalu Nabi ﷺ memerintahkannya agar mandi dengan air dan pohon bidara karena daunnya digunakan untuk membersihkan dan juga memiliki aroma yang harum.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Syariat mandi bagi orang kafir ketika masuk Islam.\r",
+    "2- Kemuliaan Islam dan perhatiannya pada fisik dan roh sekalian.\r",
+    "3- Percampuran air dengan sesuatu yang suci tidak mengeluarkannya dari kesucian.\r",
+    "4- Bidara dapat digantikan dengan pembersih-pembersih modern seperti sabun dan semisalnya."
+   ],
+   "mapping": "same HadeethEnc record id 65085; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:31+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/65085",
+   "text": "Qais bin 'Āṣim -raḍiyallāhu 'anhu- berkata, \"Aku datang menemui Nabi ﷺ untuk menyatakan Islam, maka beliau memerintahkanku untuk mandi dengan air dan bidara.\"",
+   "title": "Aku datang menemui Nabi ﷺ untuk menyatakan Islam, maka beliau memerintahkanku untuk mandi dengan air dan bidara",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=65085",
+   "arabic_match": "exact",
+   "attribution": "رواه أبو داود والترمذي والنسائي",
+   "content_sha256": "sha256:d87d77b0948801b3959989dc0bab4f41b2f0b4849a83547a966288ce4491204e",
+   "explanation": "قیس بن عاصم اسلام قبول کرنے کے ارادے سے اللہ کے رسول صلی اللہ علیہ و سلم کے پاس آئے، تو آپ نے ان کو پانی اور بیری کے پتوں سے غسل کرنے کا حکم دیا، کیوں کہ بیری کے پتوں کا استعمال صفائی کے لیے ہوتا ہے اور اس سے اچھی بو بھی آتی ہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "کافر کا اسلام قبول کرتے وقت غسل کرنا مشروع ہے۔\r",
+    "اسلام ایک عالی مرتبت دین ہے، جو بیک وقت جسم اور روح دونوں کا خیال رکھتا ہے۔\r",
+    "پانی کے ساتھ پاک چیزوں کے ملنے سے پانی پاک کرنے کی صلاحیت نہیں کھوتا۔\r",
+    "صفائی کے لیے استعمال ہونے والی جدید چیزیں، جیسے صابن وغیرہ بیری کے پتوں کے قائم مقام سمجھی جائیں گی۔"
+   ],
+   "mapping": "same HadeethEnc record id 65085; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:31+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/65085",
+   "text": "قیس بن عاصم رضی اللہ عنہ سے روایت ہے، وہ کہتے ہیں : میں اسلام قبول کرنے کے مقصد سے نبی کریم ﷺ کی خدمت میں حاضر ہوا، تو آپ ﷺ نے مجھے حکم دیا کہ میں پانی میں بیری کے پتے ملا کر غسل کروں۔",
+   "title": "میں اسلام قبول کرنے کے مقصد سے نبی کریم ﷺ کی خدمت میں حاضر ہوا، تو آپ ﷺ نے مجھے حکم دیا کہ میں پانی میں بیری کے پتے ملا کر غسل کروں۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=65085",
+   "arabic_match": "exact",
+   "attribution": "艾布·达吾德、提尔米兹和奈萨仪辑录",
+   "content_sha256": "sha256:cdcf70231ef0d1c9ecdd2eae5ea08685c0ad53227f1d022f06ac4d5c627c4d0e",
+   "explanation": "盖斯·本·阿遂木来见先知（愿主福安之），他想皈依伊斯兰教，然后先知（愿主福安之）便命令他用皂角水洗了大净，因为皂角树的叶子具有清洁效果，能给人带来芬芳的味道。",
+   "grade": "正确的",
+   "hints": [
+    "教法规定不信教者皈依伊斯兰教时必须洗大净。\r",
+    "伊斯兰教的高尚，对于身心予以同样的重视。\r",
+    "往水中添加一些干净的东西，水不会失去其清洁的特性。\r",
+    "现代的一些清洁用品可代替皂角，比如香皂等。"
+   ],
+   "mapping": "same HadeethEnc record id 65085; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:31+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/65085",
+   "text": "据盖斯·本·阿遂木（愿主喜悦之）传述说： 我来见先知（愿主福安之），想皈依伊斯兰教，然后先知（愿主福安之）命令我用皂角水洗了大净。",
+   "title": "我来见先知（愿主福安之），想皈依伊斯兰教，然后先知（愿主福安之）命令我用皂角水洗了大净。",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

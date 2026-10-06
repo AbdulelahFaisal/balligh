@@ -1,0 +1,58 @@
+{
+ "answer": [
+  [
+   {
+    "kind": "strong",
+    "text": "الجواب:"
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "لا، ما هو بالبدن وأيش يبغى بالبدن؟! القوة قوة العمل، لو كان أقوى من الفيل ولكن ما يأمر ولا ينهى؛ فهو ما يسمى قويًّا؛ يسمى ضعيفًا.\n (دروس شرح بلوغ المرام، كتاب الجامع)"
+   }
+  ]
+ ],
+ "content_sha256": "sha256:7e90c2504fd942523be1f61a36674b10a522ae9da1a0255e8bcf67ce41819778",
+ "id": "binbaz-6720",
+ "language": "ar",
+ "notes": [],
+ "question": [
+  [
+   {
+    "kind": "strong",
+    "text": "السؤال:"
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "من قال بأن القوة في المؤمن القوي تدخل في قوة البدن؟"
+   }
+  ]
+ ],
+ "raw_sha256": "sha256:4fec16398f7e91de1fe3fb43cdb43c83fe1890705df22b42460d8e890dd9076c",
+ "reuse_basis": "user_confirmed_permission",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.fatwa/2",
+ "source": {
+  "edition": null,
+  "publisher": "binbaz.org.sa",
+  "publisher_name": "موقع الشيخ ابن باز",
+  "retrieved_at": "2026-10-06T03:52:32+00:00",
+  "series": "فتاوى الدروس",
+  "url": "https://binbaz.org.sa/fatwas/6720/%D9%85%D8%A7-%D8%A7%D9%84%D9%82%D9%88%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D9%85%D9%88%D8%AF%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D9%85%D9%86"
+ },
+ "source_categories": [
+  {
+   "id": "206",
+   "label": "الإسلام والإيمان",
+   "url": "https://binbaz.org.sa/categories/objective/206"
+  }
+ ],
+ "source_record_id": "6720",
+ "title": "ما القوة المحمودة في المؤمن؟",
+ "topic": "understanding_islam",
+ "translations": {},
+ "type": "fatwa"
+}

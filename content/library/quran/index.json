@@ -1,0 +1,941 @@
+{
+ "arabic": {
+  "label": "Arabic text as returned by QuranEnc (identical across the six imported editions)",
+  "source": "QuranEnc arabic_text"
+ },
+ "editions": [
+  {
+   "api_template": "https://quranenc.com/api/v1/translation/sura/english_rwwad/{surah}",
+   "ayah_count": 6236,
+   "browse_url": "https://quranenc.com/en/browse/english_rwwad",
+   "description": "Translated by the team of the Rowwad Translation Center, in cooperation with the Rabwah Dawah Association, the Islamic Content Service Association in Languages, and the IslamHouse.com website.",
+   "direction": "ltr",
+   "footnote_ayahs": 2215,
+   "key": "english_rwwad",
+   "last_update": 1773348325,
+   "locale": "en",
+   "metadata_source": "https://quranenc.com/api/v1/translations/list",
+   "retrieved_at": "2026-10-06T03:39:52+00:00",
+   "title": "English Translation - Rowwad Translation Center",
+   "version": "1.0.19"
+  },
+  {
+   "api_template": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/{surah}",
+   "ayah_count": 6236,
+   "browse_url": "https://quranenc.com/en/browse/urdu_junagarhi",
+   "description": "Translated by Muhammad Ibrahim Junagarhi, developed under the supervision of the Rowwad Translation Center. The original translation is available for the purpose of expressing opinion, evaluation, and continuous development.",
+   "direction": "rtl",
+   "footnote_ayahs": 4813,
+   "key": "urdu_junagarhi",
+   "last_update": 1755085049,
+   "locale": "ur",
+   "metadata_source": "https://quranenc.com/api/v1/translations/list",
+   "retrieved_at": "2026-10-06T03:39:51+00:00",
+   "title": "Urdu Translation - Muhammad Junagarhi",
+   "version": "1.1.3"
+  },
+  {
+   "api_template": "https://quranenc.com/api/v1/translation/sura/chinese_suliman/{surah}",
+   "ayah_count": 6236,
+   "browse_url": "https://quranenc.com/en/browse/chinese_suliman",
+   "description": "Translated by Muhammad Makeen. Reviewed by Muhammad Sulaiman and other language experts",
+   "direction": "ltr",
+   "footnote_ayahs": 0,
+   "key": "chinese_suliman",
+   "last_update": 1760014298,
+   "locale": "zh-Hans",
+   "metadata_source": "https://quranenc.com/api/v1/translations/list",
+   "retrieved_at": "2026-10-06T03:39:52+00:00",
+   "title": "Chinese Translation - Muhammad Suleiman",
+   "version": "1.0.8"
+  },
+  {
+   "api_template": "https://quranenc.com/api/v1/translation/sura/indonesian_affairs/{surah}",
+   "ayah_count": 6236,
+   "browse_url": "https://quranenc.com/en/browse/indonesian_affairs",
+   "description": "Issued by the Indonesian Ministry of Religious Affairs. Developed under the supervision of Rowwad Translation Center. The original translation is available for the purpose of expressing opinion, evaluation, and continuous development.",
+   "direction": "ltr",
+   "footnote_ayahs": 825,
+   "key": "indonesian_affairs",
+   "last_update": 1750665512,
+   "locale": "id",
+   "metadata_source": "https://quranenc.com/api/v1/translations/list",
+   "retrieved_at": "2026-10-06T03:39:52+00:00",
+   "title": "Indonesian Translation - Ministry of Religious Affairs",
+   "version": "1.0.1"
+  },
+  {
+   "api_template": "https://quranenc.com/api/v1/translation/sura/bengali_rwwad/{surah}",
+   "ayah_count": 6236,
+   "browse_url": "https://quranenc.com/en/browse/bengali_rwwad",
+   "description": "Translated by the team of Rowwad Translation Center, in cooperation with the Dawah Association in Rabwah, the Islamic Content Service Association in Languages, and the IslamHouse.com website.",
+   "direction": "ltr",
+   "footnote_ayahs": 1640,
+   "key": "bengali_rwwad",
+   "last_update": null,
+   "locale": "bn",
+   "metadata_source": "https://quranenc.com/en/home",
+   "retrieved_at": "2026-10-06T03:39:52+00:00",
+   "title": "Bengali Translation - Rowwad Translation Center",
+   "version": "1.1.2"
+  },
+  {
+   "api_template": "https://quranenc.com/api/v1/translation/sura/french_rashid/{surah}",
+   "ayah_count": 6236,
+   "browse_url": "https://quranenc.com/en/browse/french_rashid",
+   "description": "Translated by Rashid Ma’ash",
+   "direction": "ltr",
+   "footnote_ayahs": 1330,
+   "key": "french_rashid",
+   "last_update": 1782043143,
+   "locale": "fr",
+   "metadata_source": "https://quranenc.com/api/v1/translations/list",
+   "retrieved_at": "2026-10-06T03:39:52+00:00",
+   "title": "French Translation - Rachid Maach",
+   "version": "1.0.3"
+  }
+ ],
+ "notices": [
+  "QuranEnc terms and policies, quoted from https://quranenc.com/en/home/api/ (retrieved 2026-10-06T03:40:11+00:00): Contents of the translations can be downloaded and re-published, with the following terms and conditions: 1. No modification, addition, or deletion of the content. 2. Clearly referring to the publisher and the source (QuranEnc.com). 3. Mentioning the version number when re-publishing the translation. 4. Keeping the transcript information inside the document. 5. Notifying the source (QuranEnc.com) of any note on the translation. 6. Updating the translation according to the latest version issued from the source (QuranEnc.com). 7. Inappropriate advertisements must not be included when displaying translations of the meanings of the Noble Quran.",
+  "QuranEnc note, quoted from https://quranenc.com/en/home/api/: It is noteworthy that no matter how accurate any translation of the meanings of the Qur’an may be, it will still fall short in conveying the transcendent meanings of the miraculous Qur’anic text, and that the meanings conveyed by this translation is only the product reached by the extent of the team’s knowledge in understanding this Sacred Book. Hence, this translation cannot be error-free, as is the case with any human endeavor.",
+  "All texts are delivered by QuranEnc.com (Encyclopedia of the Noble Quran) and stored as returned by its API: no modification, addition or deletion; each edition keeps its QuranEnc key and version, and footnotes stay attached to their ayah and edition.",
+  "Edition metadata (title, description, version, last_update, direction) is quoted from https://quranenc.com/api/v1/translations/list (retrieved 2026-10-06T03:37:45+00:00) unless an edition says otherwise below.",
+  "bengali_rwwad is not returned by https://quranenc.com/api/v1/translations/list or https://quranenc.com/api/v1/translations/list/bn; its title and description are read from its catalog card on https://quranenc.com/en/home (retrieved 2026-10-06T03:42:11+00:00), and its version from the card header \"27/08/2026 - V1.1.2\", which is the same on https://quranenc.com/en/home and https://quranenc.com/ar (retrieved 2026-10-06T03:52:04+00:00); its direction is assigned by Balligh and last_update is null.",
+  "arabic_moyassar is not returned by https://quranenc.com/api/v1/translations/list or https://quranenc.com/api/v1/translations/list/ar; its title and description are read from its catalog card on https://quranenc.com/en/home (retrieved 2026-10-06T03:42:11+00:00), and its version from the card header \"15/02/2017 - V1.0.0\", which is the same on https://quranenc.com/en/home and https://quranenc.com/ar (retrieved 2026-10-06T03:52:04+00:00); last_update is null.",
+  "Cross-check of the API versions against the catalog card headers on https://quranenc.com/en/home: same for english_rwwad 1.0.19, urdu_junagarhi 1.1.3, chinese_suliman 1.0.8, indonesian_affairs 1.0.1, french_rashid 1.0.3.",
+  "chinese_suliman is listed with language_iso_code \"zh\"; Balligh maps it to zh-Hans because its text contains 22694 simplified-only and 0 traditional-only characters from a 23-pair check list.",
+  "Footnotes returned as null by QuranEnc are stored as \"\": english_rwwad 0, urdu_junagarhi 0, chinese_suliman 0, indonesian_affairs 0, bengali_rwwad 0, french_rashid 0.",
+  "Every ayah is checked against the standard Hafs per-surah ayah counts (6236 ayahs in total) and QuranEnc's global sequential id; the per-surah counts match the surah list on https://quranenc.com/ar/browse/arabic_moyassar (retrieved 2026-10-06T03:41:27+00:00) for all 114 surahs.",
+  "Surah names (name_ar) are the standard Arabic names embedded by Balligh; they match the names on https://quranenc.com/ar/browse/arabic_moyassar for 108 of 114 surahs; QuranEnc spells 14 ابراهيم (Balligh: إبراهيم), 34 سبإ (Balligh: سبأ), 76 الانسان (Balligh: الإنسان), 78 النبإ (Balligh: النبأ), 82 الإنفطار (Balligh: الانفطار), 84 الإنشقاق (Balligh: الانشقاق).",
+  "arabic_moyassar is Al-Tafsir Al-Muyassar, an Arabic tafsir (not a translation) originally published by the King Fahd Quran Printing Complex and delivered here through QuranEnc.",
+  "review_status: source_preserved (ingestion checks only; no Balligh human, scholarly or language review)."
+ ],
+ "quarantine": [],
+ "range": {
+  "ayah_count": 6236,
+  "kind": "full",
+  "surah_count": 114,
+  "surah_first": 1,
+  "surah_last": 114
+ },
+ "schema": "balligh.library.quran.index/1",
+ "surahs": [
+  {
+   "ayah_count": 7,
+   "file": "surahs/001.json",
+   "name_ar": "الفاتحة",
+   "number": 1,
+   "sha256": "sha256:e15855616168813067d87b35516a4912e58ba3054dfad2698fd7bece0005981a"
+  },
+  {
+   "ayah_count": 286,
+   "file": "surahs/002.json",
+   "name_ar": "البقرة",
+   "number": 2,
+   "sha256": "sha256:e93e240d462fca0a0ef97bc2c965e9bd30e3578eaa471092326329e7b847a771"
+  },
+  {
+   "ayah_count": 200,
+   "file": "surahs/003.json",
+   "name_ar": "آل عمران",
+   "number": 3,
+   "sha256": "sha256:1037e5ed12eab1e37a6fad2dccb86f1b9b3e31ed088b1a8c0a755109d637fda2"
+  },
+  {
+   "ayah_count": 176,
+   "file": "surahs/004.json",
+   "name_ar": "النساء",
+   "number": 4,
+   "sha256": "sha256:6070e49f4308ac7828ec946949bdce0440c12188a527cd91125b35c988602de0"
+  },
+  {
+   "ayah_count": 120,
+   "file": "surahs/005.json",
+   "name_ar": "المائدة",
+   "number": 5,
+   "sha256": "sha256:c35368cf0c48f2400087a2d695578ee96fe1bff91b8e5c754293778aa21062ed"
+  },
+  {
+   "ayah_count": 165,
+   "file": "surahs/006.json",
+   "name_ar": "الأنعام",
+   "number": 6,
+   "sha256": "sha256:a7ee8015eb192810216c258258c559a6931c99d39501ec34c2045336ddf9b7f5"
+  },
+  {
+   "ayah_count": 206,
+   "file": "surahs/007.json",
+   "name_ar": "الأعراف",
+   "number": 7,
+   "sha256": "sha256:f05ed78014cfd0ef19405b4ece00364160926a6a3f1786a18554db25d236314b"
+  },
+  {
+   "ayah_count": 75,
+   "file": "surahs/008.json",
+   "name_ar": "الأنفال",
+   "number": 8,
+   "sha256": "sha256:dbb0ee9a0b6fb3500451163dbef4ff13a586db3a89639c4b481f9157c45f526e"
+  },
+  {
+   "ayah_count": 129,
+   "file": "surahs/009.json",
+   "name_ar": "التوبة",
+   "number": 9,
+   "sha256": "sha256:f8f45d8d7fa10dcafbbe157efb3b8a2773f93a549c812b8096c3f28d13c2ff74"
+  },
+  {
+   "ayah_count": 109,
+   "file": "surahs/010.json",
+   "name_ar": "يونس",
+   "number": 10,
+   "sha256": "sha256:82c0a309ec12cecf2a3cbe44155920e095ac982a4fb7a40dbe43efecda6f03b4"
+  },
+  {
+   "ayah_count": 123,
+   "file": "surahs/011.json",
+   "name_ar": "هود",
+   "number": 11,
+   "sha256": "sha256:4eed5186ae5bf12d3a16071f90ba5cd5c7b3d0b347fba218834222c3bafa5d52"
+  },
+  {
+   "ayah_count": 111,
+   "file": "surahs/012.json",
+   "name_ar": "يوسف",
+   "number": 12,
+   "sha256": "sha256:1960a189c5bfc36528ad90d733a318272e866a6f24cd2bf471015cec63f91d0e"
+  },
+  {
+   "ayah_count": 43,
+   "file": "surahs/013.json",
+   "name_ar": "الرعد",
+   "number": 13,
+   "sha256": "sha256:694e0a164351abb5647b2483f6f29478b7315241845b83830388f150df3d1a7f"
+  },
+  {
+   "ayah_count": 52,
+   "file": "surahs/014.json",
+   "name_ar": "إبراهيم",
+   "number": 14,
+   "sha256": "sha256:30d913d818d2508efc841a90873b3b5ef46253fd8f67bc5e0730b3f511a2b423"
+  },
+  {
+   "ayah_count": 99,
+   "file": "surahs/015.json",
+   "name_ar": "الحجر",
+   "number": 15,
+   "sha256": "sha256:25a16c54e3924a2837810ce10d6b125b8fda923dedcc428de63db4c7def29406"
+  },
+  {
+   "ayah_count": 128,
+   "file": "surahs/016.json",
+   "name_ar": "النحل",
+   "number": 16,
+   "sha256": "sha256:d660874192d5eb18e9d873071e9c011006d448c85e70904e4709cd3ea5e5d25a"
+  },
+  {
+   "ayah_count": 111,
+   "file": "surahs/017.json",
+   "name_ar": "الإسراء",
+   "number": 17,
+   "sha256": "sha256:d323943fa031159736e69cb71908dff8b6ae1b699c417678ccd0a58b87f54662"
+  },
+  {
+   "ayah_count": 110,
+   "file": "surahs/018.json",
+   "name_ar": "الكهف",
+   "number": 18,
+   "sha256": "sha256:45ca533660b68e887d2e285e445a109f150f887c925ea3ab7c4a35f2f633d5fa"
+  },
+  {
+   "ayah_count": 98,
+   "file": "surahs/019.json",
+   "name_ar": "مريم",
+   "number": 19,
+   "sha256": "sha256:a579fd7b5fc6b6adaf0e3577df38749635eeb76eab7654b2f40aa09c770ef62d"
+  },
+  {
+   "ayah_count": 135,
+   "file": "surahs/020.json",
+   "name_ar": "طه",
+   "number": 20,
+   "sha256": "sha256:d39f5dba3b6d53016babd60eb866b1274737accef12d4a6377394d7bf109f00c"
+  },
+  {
+   "ayah_count": 112,
+   "file": "surahs/021.json",
+   "name_ar": "الأنبياء",
+   "number": 21,
+   "sha256": "sha256:2a03176485a12b45cfa330db3209ba9cc475038bacc3571ca4d7c202b68b4788"
+  },
+  {
+   "ayah_count": 78,
+   "file": "surahs/022.json",
+   "name_ar": "الحج",
+   "number": 22,
+   "sha256": "sha256:0071b35cf7e41e9d4c2b4b26e0896859249beb88f21a2a414bde011d93e59cd2"
+  },
+  {
+   "ayah_count": 118,
+   "file": "surahs/023.json",
+   "name_ar": "المؤمنون",
+   "number": 23,
+   "sha256": "sha256:5136eda300da2211171dcb1ff3075c260430253526c667ec2712f1616264da56"
+  },
+  {
+   "ayah_count": 64,
+   "file": "surahs/024.json",
+   "name_ar": "النور",
+   "number": 24,
+   "sha256": "sha256:b72cd62b43c30bb39aa2a6d206b6c0c4f5336ca496cb9d1b21fb00cdee4d543a"
+  },
+  {
+   "ayah_count": 77,
+   "file": "surahs/025.json",
+   "name_ar": "الفرقان",
+   "number": 25,
+   "sha256": "sha256:7d90223be1f40f5acc7aac529b48070eeacd8ad74ddde5226f974e0cf7e8affe"
+  },
+  {
+   "ayah_count": 227,
+   "file": "surahs/026.json",
+   "name_ar": "الشعراء",
+   "number": 26,
+   "sha256": "sha256:dba5061dbc80a2101e3bfdddc4be319cb4cb8b7463d086db9aa53c888c8da339"
+  },
+  {
+   "ayah_count": 93,
+   "file": "surahs/027.json",
+   "name_ar": "النمل",
+   "number": 27,
+   "sha256": "sha256:17fc84d4ae7d876f2dc66524d587a88937775ab4f08862c7f8a950dd94e1b02c"
+  },
+  {
+   "ayah_count": 88,
+   "file": "surahs/028.json",
+   "name_ar": "القصص",
+   "number": 28,
+   "sha256": "sha256:ba3dacdf89dd38cb6697110036b67bb227c26709e01ce2f7f9504c6ab72aa312"
+  },
+  {
+   "ayah_count": 69,
+   "file": "surahs/029.json",
+   "name_ar": "العنكبوت",
+   "number": 29,
+   "sha256": "sha256:ab417fec14e39ba91678c6b371fbadfdce5c2319ebbb72e8a84ba8dc2f9d0108"
+  },
+  {
+   "ayah_count": 60,
+   "file": "surahs/030.json",
+   "name_ar": "الروم",
+   "number": 30,
+   "sha256": "sha256:5372c86418f4fbd24bfcfc55f06a234ae4c0eb2b10d0326cbfac7e55d5245959"
+  },
+  {
+   "ayah_count": 34,
+   "file": "surahs/031.json",
+   "name_ar": "لقمان",
+   "number": 31,
+   "sha256": "sha256:dfc6af14c70c9ac2a79cdb6f0b856e53b32bb135d29302a5befd896b1cdf712d"
+  },
+  {
+   "ayah_count": 30,
+   "file": "surahs/032.json",
+   "name_ar": "السجدة",
+   "number": 32,
+   "sha256": "sha256:4411c5474b52d4cc391f74e18b4b575ee4de76bc5a0d1a862e95686ba37122cb"
+  },
+  {
+   "ayah_count": 73,
+   "file": "surahs/033.json",
+   "name_ar": "الأحزاب",
+   "number": 33,
+   "sha256": "sha256:689356448e86540f6aaabf171973e6059c4fc829dd3170a75b0514f3ba79188e"
+  },
+  {
+   "ayah_count": 54,
+   "file": "surahs/034.json",
+   "name_ar": "سبأ",
+   "number": 34,
+   "sha256": "sha256:d663c99ee7a17262e64d3bf2dc395fdbb5c97856cfa26e1c569f3abcda412dff"
+  },
+  {
+   "ayah_count": 45,
+   "file": "surahs/035.json",
+   "name_ar": "فاطر",
+   "number": 35,
+   "sha256": "sha256:e88df9caf95213af47c254858032bbfe563fdf421aeb8d5bf673cab5bc86349d"
+  },
+  {
+   "ayah_count": 83,
+   "file": "surahs/036.json",
+   "name_ar": "يس",
+   "number": 36,
+   "sha256": "sha256:4aa050c60969dec5bfd7e5c86cdbc91b8cbfb45a59b6955651d80eafa403d853"
+  },
+  {
+   "ayah_count": 182,
+   "file": "surahs/037.json",
+   "name_ar": "الصافات",
+   "number": 37,
+   "sha256": "sha256:26c4b16e1d75640a093fe879dfc84915064f0e460f848c9a7bf04b807da395e0"
+  },
+  {
+   "ayah_count": 88,
+   "file": "surahs/038.json",
+   "name_ar": "ص",
+   "number": 38,
+   "sha256": "sha256:a849d1345afa51af5e5983e01bd4832bb1b8f69a44fe06c06617adf6c062d556"
+  },
+  {
+   "ayah_count": 75,
+   "file": "surahs/039.json",
+   "name_ar": "الزمر",
+   "number": 39,
+   "sha256": "sha256:9101e65f8438073fdba56fb2bb4e73c820060aa58cf4cb3d0e6db03667148fd8"
+  },
+  {
+   "ayah_count": 85,
+   "file": "surahs/040.json",
+   "name_ar": "غافر",
+   "number": 40,
+   "sha256": "sha256:1c0e117876c6f2e61990b3f8a04d68cbd6063a3f2fe732222bf77fbd7e5243d9"
+  },
+  {
+   "ayah_count": 54,
+   "file": "surahs/041.json",
+   "name_ar": "فصلت",
+   "number": 41,
+   "sha256": "sha256:32e7bcc9d6f2cf2d3772689fcd3e936d16f0af830bf2c4dda90a7d186318acde"
+  },
+  {
+   "ayah_count": 53,
+   "file": "surahs/042.json",
+   "name_ar": "الشورى",
+   "number": 42,
+   "sha256": "sha256:40379b88a67fbb21d3733618e4d99c13662a0409b5357fbe135d1759850c7b99"
+  },
+  {
+   "ayah_count": 89,
+   "file": "surahs/043.json",
+   "name_ar": "الزخرف",
+   "number": 43,
+   "sha256": "sha256:68d1c72e3f1f99e0dc39cead72876892b9f1e3c46ea2469d15753c25c4b5de2f"
+  },
+  {
+   "ayah_count": 59,
+   "file": "surahs/044.json",
+   "name_ar": "الدخان",
+   "number": 44,
+   "sha256": "sha256:6c97cd2fc621efa542c3e16fc729ef63175fbe2eeb9c63be0ecb0f1af1ee6b67"
+  },
+  {
+   "ayah_count": 37,
+   "file": "surahs/045.json",
+   "name_ar": "الجاثية",
+   "number": 45,
+   "sha256": "sha256:ff60d78fa5509fafb460230ceb1a9627b12dd87bfbb81ede4555b924f9f22703"
+  },
+  {
+   "ayah_count": 35,
+   "file": "surahs/046.json",
+   "name_ar": "الأحقاف",
+   "number": 46,
+   "sha256": "sha256:f8d95af9a3fa779a658b3b14d6226c51e5f1243cc63097124f4f8c1827f1a27d"
+  },
+  {
+   "ayah_count": 38,
+   "file": "surahs/047.json",
+   "name_ar": "محمد",
+   "number": 47,
+   "sha256": "sha256:aec1aa1a3182be6675bde8bfcc884f5c03010916ceb8dcf199d418d4d6771f30"
+  },
+  {
+   "ayah_count": 29,
+   "file": "surahs/048.json",
+   "name_ar": "الفتح",
+   "number": 48,
+   "sha256": "sha256:334dbaa17564647ca1d6bfb230a926b3179c6b1ecc6c2493579c17fee5a3ec9c"
+  },
+  {
+   "ayah_count": 18,
+   "file": "surahs/049.json",
+   "name_ar": "الحجرات",
+   "number": 49,
+   "sha256": "sha256:9cd723b9bf4582c7d1cd07aa0a379adc0ca2a3134f65049f63dde277cc167070"
+  },
+  {
+   "ayah_count": 45,
+   "file": "surahs/050.json",
+   "name_ar": "ق",
+   "number": 50,
+   "sha256": "sha256:e7a00fc74de92dc843ce6a5f5d1fe4146af2256c65b619c00b26e389a882a039"
+  },
+  {
+   "ayah_count": 60,
+   "file": "surahs/051.json",
+   "name_ar": "الذاريات",
+   "number": 51,
+   "sha256": "sha256:fb7b5f860e2805cf6b9533704a3faa2c8b78c09d017f8d124094847f0773951f"
+  },
+  {
+   "ayah_count": 49,
+   "file": "surahs/052.json",
+   "name_ar": "الطور",
+   "number": 52,
+   "sha256": "sha256:e0895c77cf26786e2aa6b657b84d2f2308bb9b9c2b70876219846d016a58a7ba"
+  },
+  {
+   "ayah_count": 62,
+   "file": "surahs/053.json",
+   "name_ar": "النجم",
+   "number": 53,
+   "sha256": "sha256:9ca2502404d38540747b8db525f0773279853ca8cce3050626bbaf4d4ba215f8"
+  },
+  {
+   "ayah_count": 55,
+   "file": "surahs/054.json",
+   "name_ar": "القمر",
+   "number": 54,
+   "sha256": "sha256:a2b837eb23954580f392ca669a3edfbfa961daac7fb1dca1920b955f15313aaf"
+  },
+  {
+   "ayah_count": 78,
+   "file": "surahs/055.json",
+   "name_ar": "الرحمن",
+   "number": 55,
+   "sha256": "sha256:aefdd5c5806044eb8f21af57e7ef8f867130512014498b0bb1435a2454492320"
+  },
+  {
+   "ayah_count": 96,
+   "file": "surahs/056.json",
+   "name_ar": "الواقعة",
+   "number": 56,
+   "sha256": "sha256:fa3780309af042a852ca7f11e7cba7b35e7ecc17e84f64dfa64e4cf747bb2276"
+  },
+  {
+   "ayah_count": 29,
+   "file": "surahs/057.json",
+   "name_ar": "الحديد",
+   "number": 57,
+   "sha256": "sha256:324eb040df1bfca2ef2da113ce7fe598371d374f77ab05c8caa4a2c2b23a521a"
+  },
+  {
+   "ayah_count": 22,
+   "file": "surahs/058.json",
+   "name_ar": "المجادلة",
+   "number": 58,
+   "sha256": "sha256:88e42a15251f2dec0ea892e0106dadc09c62bd8068a6d09ba038fc0153471b06"
+  },
+  {
+   "ayah_count": 24,
+   "file": "surahs/059.json",
+   "name_ar": "الحشر",
+   "number": 59,
+   "sha256": "sha256:1e2fd2fad4c1f6d5c10fda0662f27fe0947944d81f82af036ae1035a02c09bc1"
+  },
+  {
+   "ayah_count": 13,
+   "file": "surahs/060.json",
+   "name_ar": "الممتحنة",
+   "number": 60,
+   "sha256": "sha256:ca8a3d0b837d3ec1168a70710fa8aa76b328269a7fb59605cbfed1a6dff92850"
+  },
+  {
+   "ayah_count": 14,
+   "file": "surahs/061.json",
+   "name_ar": "الصف",
+   "number": 61,
+   "sha256": "sha256:ec464f21e53bedca267b6aa6af2204185f0d3c24990b367816bf4623296a9597"
+  },
+  {
+   "ayah_count": 11,
+   "file": "surahs/062.json",
+   "name_ar": "الجمعة",
+   "number": 62,
+   "sha256": "sha256:4bc47e67f174431484f63099cb7dc29ef88ab1a2344b25c3627cff29a7d18c83"
+  },
+  {
+   "ayah_count": 11,
+   "file": "surahs/063.json",
+   "name_ar": "المنافقون",
+   "number": 63,
+   "sha256": "sha256:997b2c71a9e8f296312a948400458d771899ed5af88d8ee7896bb0420c2e6727"
+  },
+  {
+   "ayah_count": 18,
+   "file": "surahs/064.json",
+   "name_ar": "التغابن",
+   "number": 64,
+   "sha256": "sha256:2f69e002aed01f73942ca777202a9ddd43e8469bff30ba77bf110d7415828cb8"
+  },
+  {
+   "ayah_count": 12,
+   "file": "surahs/065.json",
+   "name_ar": "الطلاق",
+   "number": 65,
+   "sha256": "sha256:a84b6231e71c940c65f9104ad4e817b67963ffe84367b1c5f9cfe5bd2318b9ee"
+  },
+  {
+   "ayah_count": 12,
+   "file": "surahs/066.json",
+   "name_ar": "التحريم",
+   "number": 66,
+   "sha256": "sha256:0967c4ff5dc5a1a17caa8233195c6f433b0e5f6d0d35ebe0399a2136113448f2"
+  },
+  {
+   "ayah_count": 30,
+   "file": "surahs/067.json",
+   "name_ar": "الملك",
+   "number": 67,
+   "sha256": "sha256:d852c438c8f7523aa9c96a5576a10044f58bc45769a510223215df924364c537"
+  },
+  {
+   "ayah_count": 52,
+   "file": "surahs/068.json",
+   "name_ar": "القلم",
+   "number": 68,
+   "sha256": "sha256:767b82961fe3eab346d9d6cf4108843a87e342ecd27341ff10146463e65f6c77"
+  },
+  {
+   "ayah_count": 52,
+   "file": "surahs/069.json",
+   "name_ar": "الحاقة",
+   "number": 69,
+   "sha256": "sha256:15e4fca5f205413b1a1c8111ddbdee2a8cc8c1ec140b6f296b6a9cf0caf0a090"
+  },
+  {
+   "ayah_count": 44,
+   "file": "surahs/070.json",
+   "name_ar": "المعارج",
+   "number": 70,
+   "sha256": "sha256:1eba545373c9da9651c6f42a3bc6a6b1d6b670226911958811e7ead34db8816b"
+  },
+  {
+   "ayah_count": 28,
+   "file": "surahs/071.json",
+   "name_ar": "نوح",
+   "number": 71,
+   "sha256": "sha256:7ecb4fc671d5228c1160452c8eff0afc292cde569206d862368bb47ad3c2f3d8"
+  },
+  {
+   "ayah_count": 28,
+   "file": "surahs/072.json",
+   "name_ar": "الجن",
+   "number": 72,
+   "sha256": "sha256:00a551e7b300c819baedfea1d76c67e0d3ca40c601f06369adef3dd62ccc4ae4"
+  },
+  {
+   "ayah_count": 20,
+   "file": "surahs/073.json",
+   "name_ar": "المزمل",
+   "number": 73,
+   "sha256": "sha256:bc7f1b8dc27208dc6e481686721ead5f8277e5b5c5e6c8c5cef091d3fce3b1c3"
+  },
+  {
+   "ayah_count": 56,
+   "file": "surahs/074.json",
+   "name_ar": "المدثر",
+   "number": 74,
+   "sha256": "sha256:b7af3dbe78dec81ba54d8cba31cf5923256ab4269784ec477e3bcd7b8bbbdff5"
+  },
+  {
+   "ayah_count": 40,
+   "file": "surahs/075.json",
+   "name_ar": "القيامة",
+   "number": 75,
+   "sha256": "sha256:705b969fa32f39491b45adeac8fa2b817f71ff274df7a4096317dca24b474861"
+  },
+  {
+   "ayah_count": 31,
+   "file": "surahs/076.json",
+   "name_ar": "الإنسان",
+   "number": 76,
+   "sha256": "sha256:142f46cd9802dc41a35cd66e402803c18977a8a54f583c1b3dd3d3c0dd724eea"
+  },
+  {
+   "ayah_count": 50,
+   "file": "surahs/077.json",
+   "name_ar": "المرسلات",
+   "number": 77,
+   "sha256": "sha256:d57f5780df17bf7dd4f35ceaed118d9ed76758884b974cc5eb15c845a59e1b29"
+  },
+  {
+   "ayah_count": 40,
+   "file": "surahs/078.json",
+   "name_ar": "النبأ",
+   "number": 78,
+   "sha256": "sha256:7ae491ba1ef1a4c9b898a72ae36f25490715472f3670c1dc856af6a0665733fa"
+  },
+  {
+   "ayah_count": 46,
+   "file": "surahs/079.json",
+   "name_ar": "النازعات",
+   "number": 79,
+   "sha256": "sha256:0682bd291d295d9cd4f79a1551d2558e24508c17b8da52f110ddc3fcb81a7f4b"
+  },
+  {
+   "ayah_count": 42,
+   "file": "surahs/080.json",
+   "name_ar": "عبس",
+   "number": 80,
+   "sha256": "sha256:2d89cba09d3db3b6e36f7864023c80788c1c2706bb82cdf931b0ffc584895c4d"
+  },
+  {
+   "ayah_count": 29,
+   "file": "surahs/081.json",
+   "name_ar": "التكوير",
+   "number": 81,
+   "sha256": "sha256:e77786a092964ffa8937af0c79bddcad324e9cb8891a105c3af570b1ce059c41"
+  },
+  {
+   "ayah_count": 19,
+   "file": "surahs/082.json",
+   "name_ar": "الانفطار",
+   "number": 82,
+   "sha256": "sha256:6d0f0ff85e31feb3ff2b7b59b1b4455ddc9b57de3ad0abf8c717f1084ad2f010"
+  },
+  {
+   "ayah_count": 36,
+   "file": "surahs/083.json",
+   "name_ar": "المطففين",
+   "number": 83,
+   "sha256": "sha256:00cdfaeeab7804afcd6ddf57f9ca7aed637d8372135d50ca1ecd7dc5c4d64334"
+  },
+  {
+   "ayah_count": 25,
+   "file": "surahs/084.json",
+   "name_ar": "الانشقاق",
+   "number": 84,
+   "sha256": "sha256:b6ccf20a2b82424931c8c87862f8de7113f6b1723b4f97c39c0d9f5ef699e0b4"
+  },
+  {
+   "ayah_count": 22,
+   "file": "surahs/085.json",
+   "name_ar": "البروج",
+   "number": 85,
+   "sha256": "sha256:b392f0482054fb3718d61cab17433a1b262316a3a5dffb2580707550f4fab748"
+  },
+  {
+   "ayah_count": 17,
+   "file": "surahs/086.json",
+   "name_ar": "الطارق",
+   "number": 86,
+   "sha256": "sha256:6ea9577c8a8f613a7f84ec92f7f93af03560defc646030d6a1a1f3adb243f16f"
+  },
+  {
+   "ayah_count": 19,
+   "file": "surahs/087.json",
+   "name_ar": "الأعلى",
+   "number": 87,
+   "sha256": "sha256:54cec99fa159dfde6abc77fc8dd53af57f9eb89180f8bf5930c23bf57c4cb4cd"
+  },
+  {
+   "ayah_count": 26,
+   "file": "surahs/088.json",
+   "name_ar": "الغاشية",
+   "number": 88,
+   "sha256": "sha256:289975732d956d94d0e51be107ab98528f2456381d8afd5dce7c01d28edf1593"
+  },
+  {
+   "ayah_count": 30,
+   "file": "surahs/089.json",
+   "name_ar": "الفجر",
+   "number": 89,
+   "sha256": "sha256:3e6482e38dfbec82a6a7f1f3e1309b52b8b2e0181abffdcec25286ac16a14333"
+  },
+  {
+   "ayah_count": 20,
+   "file": "surahs/090.json",
+   "name_ar": "البلد",
+   "number": 90,
+   "sha256": "sha256:76473c93fac718b4dc691de6878780e0acac63dfcb4753a148cd71db6b32f20f"
+  },
+  {
+   "ayah_count": 15,
+   "file": "surahs/091.json",
+   "name_ar": "الشمس",
+   "number": 91,
+   "sha256": "sha256:4cb944392360473e5b646fcd4b8c155b231354bc99bf8c5257aec47d9750332b"
+  },
+  {
+   "ayah_count": 21,
+   "file": "surahs/092.json",
+   "name_ar": "الليل",
+   "number": 92,
+   "sha256": "sha256:f9b00445bc00c8873f82c4ed0bd417f571d6c1d48799d4efb4d42f9381a34505"
+  },
+  {
+   "ayah_count": 11,
+   "file": "surahs/093.json",
+   "name_ar": "الضحى",
+   "number": 93,
+   "sha256": "sha256:ff855f0b784b7dc78350e3eea054ecb3f791155cd5b784d0b6a9b0c9578f0c18"
+  },
+  {
+   "ayah_count": 8,
+   "file": "surahs/094.json",
+   "name_ar": "الشرح",
+   "number": 94,
+   "sha256": "sha256:b4648eabc1e9882bbe05cff46efcf292ac550807757d2ba41e58d26b395c213e"
+  },
+  {
+   "ayah_count": 8,
+   "file": "surahs/095.json",
+   "name_ar": "التين",
+   "number": 95,
+   "sha256": "sha256:128d40cb743e193cb781c29086b9ff78ea71dea9a089e9e6a0043090e19e821a"
+  },
+  {
+   "ayah_count": 19,
+   "file": "surahs/096.json",
+   "name_ar": "العلق",
+   "number": 96,
+   "sha256": "sha256:9efd169f8f5d18de0c27f50b53cef1494919ed8cd61a690611ec732655e5fce0"
+  },
+  {
+   "ayah_count": 5,
+   "file": "surahs/097.json",
+   "name_ar": "القدر",
+   "number": 97,
+   "sha256": "sha256:5bbcf3c8afce29064dec17bb3f1d31c74590a941fdb73ab301ec7520f6b43b11"
+  },
+  {
+   "ayah_count": 8,
+   "file": "surahs/098.json",
+   "name_ar": "البينة",
+   "number": 98,
+   "sha256": "sha256:05a85efa36d674250caa45865acb119ca45712680c187be13cc8c74471dccb6f"
+  },
+  {
+   "ayah_count": 8,
+   "file": "surahs/099.json",
+   "name_ar": "الزلزلة",
+   "number": 99,
+   "sha256": "sha256:05764b804e2a9f9990cc8d6fedc46f17bf20dec229c1a225567fbe6f631a94b5"
+  },
+  {
+   "ayah_count": 11,
+   "file": "surahs/100.json",
+   "name_ar": "العاديات",
+   "number": 100,
+   "sha256": "sha256:f7aaf43b9b5e8dfb48b36f365bdf6243344c84aad0452980db4bede5b493fef7"
+  },
+  {
+   "ayah_count": 11,
+   "file": "surahs/101.json",
+   "name_ar": "القارعة",
+   "number": 101,
+   "sha256": "sha256:09d6b700c128be65f84fa8f0ab6932ce8508c650ebfa40fff9a1ed4e8a80fa4a"
+  },
+  {
+   "ayah_count": 8,
+   "file": "surahs/102.json",
+   "name_ar": "التكاثر",
+   "number": 102,
+   "sha256": "sha256:125177d4ab8a14bd65a68b7b24df29c50cbef711b9f0b0c0bae4c71a168fc47e"
+  },
+  {
+   "ayah_count": 3,
+   "file": "surahs/103.json",
+   "name_ar": "العصر",
+   "number": 103,
+   "sha256": "sha256:10a6c3aa4aaeff519b8a9ce88733d17f6d56e101bf803feeded229d7077e9508"
+  },
+  {
+   "ayah_count": 9,
+   "file": "surahs/104.json",
+   "name_ar": "الهمزة",
+   "number": 104,
+   "sha256": "sha256:98736eae4ebae48d356dd7fdaaac7488163e0db54118cb9447d10cb7234338e5"
+  },
+  {
+   "ayah_count": 5,
+   "file": "surahs/105.json",
+   "name_ar": "الفيل",
+   "number": 105,
+   "sha256": "sha256:adee924ec25cf7b75ed9805e90bcb2a6324452f698ad4f03fa9f0e3bf91269d2"
+  },
+  {
+   "ayah_count": 4,
+   "file": "surahs/106.json",
+   "name_ar": "قريش",
+   "number": 106,
+   "sha256": "sha256:11ef122e048e5b3264c3f177a12b97a31b29d7abcc4d5a93cf71ba6763b41d3a"
+  },
+  {
+   "ayah_count": 7,
+   "file": "surahs/107.json",
+   "name_ar": "الماعون",
+   "number": 107,
+   "sha256": "sha256:8dfef71ab36d95a8ef772bf28fe9bba064bedb280ca49cf83cb98928e6dfca53"
+  },
+  {
+   "ayah_count": 3,
+   "file": "surahs/108.json",
+   "name_ar": "الكوثر",
+   "number": 108,
+   "sha256": "sha256:9c8534dd84d5dc3894962a1cdc7a97c11946cf29bca4c2bd38880ec219e1be94"
+  },
+  {
+   "ayah_count": 6,
+   "file": "surahs/109.json",
+   "name_ar": "الكافرون",
+   "number": 109,
+   "sha256": "sha256:ba7b176d017f4c85c049eba385b0281c2a12ffbf68a421978a86d6e43b60bcdb"
+  },
+  {
+   "ayah_count": 3,
+   "file": "surahs/110.json",
+   "name_ar": "النصر",
+   "number": 110,
+   "sha256": "sha256:245f420ec20d2edbb29b6e280a62e5db737dbd277a801d96e034b5512c5444e5"
+  },
+  {
+   "ayah_count": 5,
+   "file": "surahs/111.json",
+   "name_ar": "المسد",
+   "number": 111,
+   "sha256": "sha256:ae4a782ee6780da094694f4a175e0117302ed1aeac9e8ce3e3c3bb4865cd1454"
+  },
+  {
+   "ayah_count": 4,
+   "file": "surahs/112.json",
+   "name_ar": "الإخلاص",
+   "number": 112,
+   "sha256": "sha256:cee689380c629b270d7ee4bc753510dc78c94b512dd9c6cd72e70641b99029b7"
+  },
+  {
+   "ayah_count": 5,
+   "file": "surahs/113.json",
+   "name_ar": "الفلق",
+   "number": 113,
+   "sha256": "sha256:41f576b033fab6224d0f3d0c1dff1955de9e2f44d058d6ed0027340273975f94"
+  },
+  {
+   "ayah_count": 6,
+   "file": "surahs/114.json",
+   "name_ar": "الناس",
+   "number": 114,
+   "sha256": "sha256:3c96c82019753064eb2039e1dcd067000c776489e9bfebc309fea226b54184d9"
+  }
+ ],
+ "tafsir": [
+  {
+   "api_template": "https://quranenc.com/api/v1/translation/sura/arabic_moyassar/{surah}",
+   "ayah_count": 6236,
+   "browse_url": "https://quranenc.com/en/browse/arabic_moyassar",
+   "delivery": "QuranEnc",
+   "description": "Issued by the King Fahd Complex for Printing the Holy Quran in Madinah",
+   "key": "arabic_moyassar",
+   "kind": "tafsir",
+   "label": "Al-Tafsir Al-Muyassar",
+   "last_update": null,
+   "locale": "ar",
+   "metadata_source": "https://quranenc.com/en/home",
+   "original_publisher": "King Fahd Quran Printing Complex",
+   "retrieved_at": "2026-10-06T03:39:52+00:00",
+   "title": "Arabic Language - At-Tafsir Al-Muyassar",
+   "version": "1.0.0"
+  }
+ ]
+}

@@ -1,0 +1,178 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:dc8d9f8eff25b95a5933160daa50baaaeecbf51d8934b19b87b0d4353c12d5c1",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يخبر رسول الله صلى الله عليه عن العلاج الناجع للتساؤلات التي يوسوس بها الشيطان على المؤمن، \nفيقول الشيطان: من خلق كذا؟ من خلق كذا؟ من خلق السماء؟ ومن خلق الأرض؟ \nفيجيبه المؤمن دِينًا وفطرة وعقلًا بقوله: الله، \nولكن الشيطان لا يقف عند هذا الحد من الوساوس، بل ينتقل حتى يقول: من خلق ربك؟\nفعند ذلك يدفع المؤمن هذه الوسواس بأمور ثلاثة: \n\nبالإيمان بالله. \n\nوالتعوذ بالله من الشيطان. \n\nوالتوقف عن الاسترسال مع الوساوس.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "الإعراض عن وسواس الشيطان وخطراته وعدم التفكير فيها، والالتجاء إلى الله تعالى في إذهابها.",
+  "كل ما يقع في قلب الإنسان من الوساوس المخالفة للشرع فهي من الشيطان.",
+  "النهي عن التفكر في ذات الله، والحث على التفكر في مخلوقاته وآياته."
+ ],
+ "id": "hadeethenc-65013",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (4/ 123) (3276)، صحيح مسلم (1/ 120) (134)، إكمال المعلم (1/432)، المفهم (1/345)، فتح الباري (6/ 340)، طرح التثريب (8/163)، بهجة قلوب الأبرار (ص 27).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=65013",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:31+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/65013"
+ },
+ "source_categories": [
+  {
+   "id": "59",
+   "label": "الإيمان بالله عز وجل"
+  },
+  {
+   "id": "88",
+   "label": "الإسلام"
+  },
+  {
+   "id": "300",
+   "label": "فوائد ذكر الله عز وجل"
+  }
+ ],
+ "source_record_id": "65013",
+ "text": "عَن أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ: قَالَ رَسُولُ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «يَأْتِي الشَّيْطَانُ أَحَدَكُمْ فَيَقُولُ: مَنْ خَلَقَ كَذَا؟ مَنْ خَلَقَ كَذَا؟ حَتَّى يَقُولَ: مَنْ خَلَقَ رَبَّكَ؟ فَإِذَا بَلَغَهُ فَلْيَسْتَعِذْ بِاللهِ وَلْيَنْتَهِ».",
+ "title": "يأتي الشيطان أحدكم فيقول: من خلق كذا؟ من خلق كذا؟ حتى يقول: من خلق ربك؟ فإذا بلغه فليستعذ بالله ولينته",
+ "topic": "understanding_islam",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=65013",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:80b5aa15b465bb8e803d47dd0a977b640add55a0195cd81d19f4422bea4fdc51",
+   "explanation": "শয়তানের ওয়াসওয়াসা জনিত কারণে মুমিনের কাছে যেসব প্রশ্নের উদ্রেক হয়, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম সেগুলোর একটি কার্যকর চিকিৎসা সম্পর্কে সংবাদ প্রদান করছেন। শয়তান বলে: এটা কে সৃষ্টি করেছে? এটা কে সৃষ্টি করেছে? আসমান কে সৃষ্টি করেছে? কে জমিন সৃষ্টি করেছে? মুমিন তখন দীন, ফিতরাত ও বিবেকসূলভ উত্তর দিতে থাকে: আল্লাহ। কিন্তু শয়তান এ পর্যায়ে ওয়াসওয়াসার সীমা বন্ধ করে না; বরং সামনে এগিয়ে এক পর্যায়ে জিজ্ঞাসা করে: তোমার রবকে কে সৃষ্টি করেছে? উক্ত পর্যায়ে মুমিন ব্যক্তি এ জাতীয় ওয়াসওয়াসা তিনটি উপায়ে প্রতিহত করতে পারে:\r\n\r\nআল্লাহর প্রতি ঈমান।\r\n\r\nশয়তান থেকে আল্লাহর কাছে আশ্রয় প্রার্থনা করা।\r\n\r\nওয়াসওয়াসাকে সামনে বাড়তে না দিয়ে প্রতিহত করা ও বিরত থাকা।",
+   "grade": "সহীহ",
+   "hints": [
+    "শয়তানের ওয়াসওয়াসা ও কুমন্ত্রণাকে উপেক্ষা করা এবং এগুলো নিয়ে চিন্তা করা থেকে আমাদের দূরে থাকা কর্তব্য। আর আল্লাহ তা‘আলার কাছে সেগুলো দূর করার ব্যাপারে আশ্রয় কামনা করা উচিত।\r",
+    "শরী‘আহ বিরোধী প্রতিটি ওয়াসওয়াসা যা মানুষের অন্তরে আবির্ভূত হয়, তা শয়তানের পক্ষ থেকে।\r",
+    "হাদীসে আল্লাহ তা‘আলার সত্তা সম্পর্কে চিন্তা করতে নিষেধ করা হয়েছে এবং তাঁর মাখলূক ও নিদর্শন সম্পর্কে চিন্তা করতে উৎসাহ দেয়া হয়েছে।"
+   ],
+   "mapping": "same HadeethEnc record id 65013; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:15+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/65013",
+   "text": "আবূ হু্রাইরা রাদিয়াল্লাহু ‘আনহু হতে বর্ণিত, তিনি বলেছেন, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন: “শয়তান তোমাদের মধ্য হতে একজনের কাছে আগমন করে জিজ্ঞাসা করতে থাকে: এটি কে সৃষ্টি করেছে? এটি কে সৃষ্টি করেছে? এক পর্যায়ে সে বলে: তোমার রবকে কে সৃষ্টি করেছে? \nঅতএব যখন কেউ এ পর্যায়ে এসে পৌঁছাবে, সে যেন আল্লাহর কাছে আশ্রয় প্রার্থনা করে এবং বিষয়টি থেকে বিরত থাকে।”",
+   "title": "“শয়তান তোমাদের মধ্য হতে একজনের কাছে আগমন করে জিজ্ঞাসা করতে থাকে: এটি কে সৃষ্টি করেছে? এটি কে সৃষ্টি করেছে? এক পর্যায়ে সে বলে: তোমার রবকে কে সৃষ্টি করেছে? \nঅতএব যখন কেউ এ পর্যায়ে এসে পৌঁছাবে, সে যেন আল্লাহর কাছে আশ্রয় প্রার্থনা করে এবং বিষয়টি থেকে বিরত থাকে।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=65013",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:c67a0451deadbd0100e681b24c516f5b509cb3f1a0c716e273db244f35c4a53d",
+   "explanation": "The Messenger of Allah (may Allah’s peace and blessings be upon him) mentions the effective remedy for the questions whispered by Satan to the believer. Satan says: Who created such and such, and who created such and such? Who created the heavens? Who created the earth? Based on his religion, natural disposition, and reason, the believer replies: Allah. But Satan does not stop at this limit of whisperings; rather, he proceeds until he asks: Who created your Lord? Thereupon, the believer should repel these whisperings with three things:\r\n\r\nBelief in Allah.\r\n\r\nSeeking refuge with Allah from Satan.\r\n\r\nStopping to continue with such whisperings.",
+   "grade": "Authentic",
+   "hints": [
+    "We should turn away from Satan's whisperings and insinuations and not give thought to them, and seek Allah's help in getting rid of them.\r",
+    "All the whisperings that enter a person's heart and contradict the Shariah come from Satan.\r",
+    "We are forbidden from thinking about Allah's Essence and are urged to ponder His creation and signs."
+   ],
+   "mapping": "same HadeethEnc record id 65013; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:15+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/65013",
+   "text": "Abu Hurayrah (may Allah be pleased with him) reported: The Messenger of Allah (may Allah's peace and blessings be upon him) said: \"Satan comes to one of you and says, 'Who created such and such, and who created such and such', until he says: 'Who created your Lord?' If a person experiences this, he should seek refuge with Allah and desist from that.\"",
+   "title": "Satan comes to one of you and says, 'Who created such and such, and who created such and such', until he says: 'Who created your Lord?' If a person experiences this, he should seek refuge with Allah and desist from that",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=65013",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:718e8fcb0f17a90328b491bdee560cd8a8d44b53ea7df65614f6c77297b1ba33",
+   "explanation": "Le Messager d'Allah (qu’Allah le couvre d’éloges et le préserve) informe concernant le remède efficace contre les interrogations et les questionnements que Satan insuffle au croyant. Satan dit donc : \"Qui a créé ceci ? Qui a créé cela ? Qui a créé le ciel ? Qui a créé la Terre ?\" Ce à quoi le croyant répond, aussi bien du point de vue religieux que celui de la disposition naturelle et de la raison : \"Allah !\" Mais Satan ne s'arrête pas à cette limite d'insufflations, il passe plutôt à une autre étape et va jusqu'à demander : \"Qui a créé ton Seigneur ?\" Alors, à ce moment-là, le croyant repousse ces insufflations par trois choses :\r\n\r\n- La foi en Allah.\r\n\r\n- Le fait de se chercher refuge auprès d'Allah contre Satan.\r\n\r\n- Le fait d'arrêter de se laisser aller aux insufflations.",
+   "grade": "Authentique",
+   "hints": [
+    "Se détourner des insufflations de Satan, du danger qu'elles représentent et ne pas y penser. Se réfugier auprès d'Allah, Exalté soit-Il, afin qu'elles disparaissent.\r",
+    "Tout ce qui parvient au cœur de l'homme d'insufflations allant à l'encontre de la Législation provient de Satan.\r",
+    "L'interdiction de réfléchir à propos de l'Essence d'Allah et l'incitation à plutôt réfléchir sur Ses créatures et Ses signes."
+   ],
+   "mapping": "same HadeethEnc record id 65013; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:16+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/65013",
+   "text": "Aboû Hourayrah (qu'Allah l'agrée) relate que le Messager d'Allah (qu’Allah le couvre d’éloges et le préserve) a dit : « Satan se présente à l'un d'entre vous et dit : \"Qui a créé ceci ? Qui a créé cela ?\" Jusqu'à ce qu'il dise : \"Qui a créé ton Seigneur ?\" Lorsqu'il arrive à ce stade, [que celui à qui il s'est présenté] cherche refuge auprès d'Allah et qu'il cesse ! »",
+   "title": "Satan se présente à l'un d'entre vous et dit : \"Qui a créé ceci ? Qui a créé cela ?\" Jusqu'à ce qu'il dise : \"Qui a créé ton Seigneur ?\" Lorsqu'il arrive à ce stade, [que celui à qui il s'est présenté] cherche refuge auprès d'Allah et qu'il cesse !",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=65013",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:8dbfdaac5c689ee2231aa2e8072c8759fd108ecbcfbb82474950d19dd509544b",
+   "explanation": "Rasulullah ﷺ mengabarkan solusi yang ampuh untuk menjawab pertanyaan-pertanyaan yang dibisikkan oleh setan kepada orang beriman. Setan membisikkan: Siapa yang menciptakan ini? Siapa yang menciptakan ini? Siapa yang menciptakan langit? Siapa yang menciptakan bumi? Maka orang beriman akan menjawabnya berdasarkan agama, fitrah, dan akal dengan mengatakan: Allah. Akan tetapi setan tidak berhenti pada bisikan tersebut, melainkan beralih hingga membisikkan: Siapa yang menciptakan Tuhanmu? Ketika itu, orang beriman akan menolak bisikan tersebut dengan tiga perkara:\r\n\r\nDengan keimanan kepada Allah.\r\n\r\nBerlindung kepada Allah dari setan.\r\n\r\n- Berhenti dan tidak larut bersama bisikan itu.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Berpaling dari rasa waswas dan bisikan setan, tidak memikirkannya, serta berlindung kepada Allah Ta'ala untuk menghilangkannya.\r",
+    "2- Semua bisikan yang melintas di dalam hati berupa bisikan-bisikan yang menyelisihi syariat, berasal dari setan.\r",
+    "3- Larangan memikirkan zat Allah, dan anjuran untuk memikirkan makhluk-Nya dan tanda-tanda kebesaran-Nya."
+   ],
+   "mapping": "same HadeethEnc record id 65013; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:15+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/65013",
+   "text": "Abu Hurairah -raḍiyallāhu 'anhu- meriwayatkan, Rasulullah ﷺ bersabda, \"Setan datang kepada salah seorang dari kalian dan bertanya, 'Siapa yang menciptakan ini? Siapa yang menciptakan ini?' Sampai dia bertanya, 'Siapa yang menciptakan Tuhanmu?' Jika dia telah sampai ke sana, hendaklah dia berlindung kepada Allah dan tidak meneruskannya.\"",
+   "title": "Setan datang kepada salah seorang dari kalian dan bertanya, 'Siapa yang menciptakan ini? Siapa yang menciptakan ini?' Sampai dia bertanya, 'Siapa yang menciptakan Tuhanmu?' Jika dia telah sampai ke sana, hendaklah dia berlindung kepada Allah dan tidak meneruskannya",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=65013",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:c6916bdf2beb9fd3fd6ff21324ac7f711e7c032bd3ac671a7ea0f059a799a244",
+   "explanation": "رسول اللہ صلی اللہ علیہ وسلم نے اس حدیث میں ان سوالات کا کارگر علاج بیان فرمایا ہے جن کے ذریعہ شیطان مؤمن کو وسوسہ میں مبتلا کرتا ہے۔ شیطان وسوسہ ڈالتا ہے کہ یہ کس نے پیدا کیا؟ وہ کس نے پیدا کیا؟ آسمان کس نے بنایا؟ زمین کس نے تخلیق کی؟ ایسے میں مؤمن اپنے دین، فطرت اور عقل کی روشنی میں ان وسوسوں کا جواب دیتے ہوئے کہتا ہے کہ ان سب کو اللہ نے پیدا کیا ہے۔ لیکن شیطان انہی وسوسوں پر بس نہیں کرتا، بلکہ ایک کے بعد دوسرا سوال لاتا رہتا ہے۔ یہاں تک کہ اس سوال تک پہنچ جاتا ہے کہ تیرے رب کو کس نے پیدا کیا؟ ایسی صورت میں مؤمن کو چاہیے کہ ان وسوسوں کا مقابلہ تین چیزوں کے ذریعے کرے :\r\n\r\nاللہ پر ایمان کے ذریعے،\r\n\r\nشیطان سے اللہ کی پناہ طلب کرکے\r\n\r\nاور وسوسوں کے پیچھے بھاگنے سے اپنے آپ کو روک کر۔",
+   "grade": "صحيح",
+   "hints": [
+    "شیطانی وسوسوں سے اعراض کرنا چاہیے اور ان میں غور وفکر نہیں کرنا  چاہیے، بلکہ اللہ تعالی کی طرف رجوع کرکے ان وسوسوں کو دور کرنا چاہیے۔\r",
+    "شریعت کے خلاف جو بھی وسوسے انسان کے دل میں پیدا ہوتے ہیں، وہ شیطانی کی طرف سے ہوتے ہیں۔\r",
+    "اللہ کی ذات میں غور وفکر کرنے کی ممانعت آئی ہے اور اللہ کی مخلوقات اور اس کی نشانیوں میں غور وفکر کرنے کی ترغیب دی گئی ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 65013; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:15+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/65013",
+   "text": "ابو ہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: \"شیطان تم میں سے کسی کے پاس آتا ہے اور اس سے کہتا ہے: یہ کس نے پیدا کیا؟ وہ کس نے پیدا کیا؟ حتی کہ سوال کرنے لگتا ہے کہ تیرے رب کو کس نے پیدا کیا؟ لہٰذا جب نوبت یہاں تک آپہنچے تو اسے اللہ تعالیٰ سے پناہ طلب کرنا چاہیے اور اس شیطانی خیال کو ترک کر دینا چاہیے\"۔",
+   "title": "شیطان تم میں سے کسی کے پاس آتا ہے اور اس سے کہتا ہے: یہ کس نے پیدا کیا؟ وہ کس نے پیدا کیا؟ حتی کہ سوال کرنے لگتا ہے کہ تیرے رب کو کس نے پیدا کیا؟ لہٰذا جب نوبت یہاں تک آپہنچے تو اسے اللہ تعالیٰ سے پناہ طلب کرنا چاہیے اور اس شیطانی خیال کو ترک کر دینا چاہیے\"۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=65013",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:b7bc0accaad6c50f3cf951a2eee07247b16392b77bd0a928448f89a070015100",
+   "explanation": "对于恶魔对信士的各种教唆，安拉的使者（愿主福安之）告诉我们了一个成功的解决方法。 恶魔说：谁创造了这个？谁创造了那个？谁创造了天空？谁创造了大地？ 信士将虔诚、自然、理智地回答：是安拉。 但恶魔之教唆不会停止于此，他会升级，甚至说道：谁创造了你的养主？ 此时信士将通过三件事抵御此教唆：\r\n\r\n信仰安拉。\r\n\r\n祈求安拉从恶魔中护佑自己。\r\n\r\n停止使教唆继续深入。",
+   "grade": "正确的",
+   "hints": [
+    "远离恶魔之教唆及其渗入，不去想，并祈求安拉消除之。\r",
+    "凡人之心中所遭遇的种种与教律相违背的教唆均来自恶魔。\r",
+    "禁止想象安拉之本体，鼓励思考安拉的被造物及其迹象。"
+   ],
+   "mapping": "same HadeethEnc record id 65013; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:15+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/65013",
+   "text": "据艾布·胡莱勒（愿主喜悦之）传述，安拉的使者（愿主福安之）说： “恶魔将来到你们其中一人之中，他说：谁创造了这个？谁创造了那个？以至于他说：谁创造了你的养主，当恶魔来到时，让此人向安拉祈求护佑，以摆脱之。”",
+   "title": "“恶魔将来到你们其中一人之中，他说：谁创造了这个？谁创造了那个？以至于他说：谁创造了你的养主，当恶魔来到时，让此人向安拉祈求护佑，以摆脱之。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

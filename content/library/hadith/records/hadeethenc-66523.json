@@ -1,0 +1,177 @@
+{
+ "attribution": "رواه البخاري",
+ "content_sha256": "sha256:2dad0c112f780997924e562c179f15b3e2b6de8f57ed23b4b1ffd14f9c3e85bd",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "أَخْبَرَ النبيُّ صلى الله عليه وسلم أنَّ مما جاء فيه الوصية عن الأنبياء المتقدِّمين، وتَدَاوَلَه الناس بينهم وتوارثوه عنهم قرنًا بعد قرن، حتى وصل إلى أوّل هذه الأمة، انظر إلى ما تريد أنْ تَفعلَه، فإنْ كان ممّا لا يُستَحى منه فافعله، وإنْ كان ممّا يُستَحى منه فَدَعْه؛ فإنَّ المانع مِن فِعْل القبائح هو الحياء، فمَن لم يكن له حياءٌ، انْهَمَك في كلّ فَحْشاء ومُنكر.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "الحياء أصل الأخلاق الكريمة.",
+  "الحياء صفة من صفات الأنبياء عليهم السلام، وهو من المأثور عنهم.",
+  "الحياء هو الذي يجعل المرء المسلم يفعل ما يُجَمِّلُ ويَزِيْن، ويَترك ما يُدّنِّس ويَشَيْن.",
+  "قال النووي: الأمر فيه للإباحة، أي: إذا أردت فعل شيء فإن كان مما لا تستحي إذا فعلتَه من الله ولا من الناس فافعله، وإلا فلا، وعلى هذا مدار الإسلام، وتوجيه ذلك أنَّ المأمورَ به الواجب والمندوب يُستحيَى مِن تَرْكِه، والمنهي عنه الحرام والمكروه يُستحيى من فعله، وأما المباح فالحياء من فعله جائز، وكذا مِن تركه، فتضمن الحديث الأحكام الخمسة، وقيل: هو أمرُ تهديد، ومعناه: إذا نُزِع مِنك الحياء فافعل ما شئت؛ فإنّ الله مجازيك عليه، وقيل: هو أمرٌ بمعنى الخبر، أي: مَن لا يَستحيي يَصنع ما أراد."
+ ],
+ "id": "hadeethenc-66523",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (8/ 29) (6120).\nنزهة المتقين شرح رياض الصالحين، لمجموعة من الباحثين (2/ 1252).\nتطريز رياض الصالحين، لفيصل آل مبارك (ص1045).\nشرح رياض الصالحين، لابن عثيمين (6/ 656).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=66523",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:49+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/66523"
+ },
+ "source_categories": [
+  {
+   "id": "282",
+   "label": "الأخلاق الحميدة"
+  }
+ ],
+ "source_record_id": "66523",
+ "text": "عَنْ أَبِي مَسْعُودٍ عُقْبَةَ بْنِ عَمْرٍو الأَنْصَارِيِّ البَدْرِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ: «إِنَّ مِمَّا أَدْرَكَ النَّاسُ مِنْ كَلاَمِ النُّبُوَّةِ الأُولَى: إِذَا لَمْ تَسْتَحْيِ فَاصْنَعْ مَا شِئْتَ».",
+ "title": "إن مما أدرك الناس من كلام النبوة الأولى: إذا لم تستحي فاصنع ما شئت",
+ "topic": "conduct",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=66523",
+   "arabic_match": "exact",
+   "attribution": "এটি বুখারী বর্ণনা করেছেন।",
+   "content_sha256": "sha256:616510e8eede57c354454549aabcddcfdcc7756d889b11053be96f26b9f0cd61",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম আমাদেরকে বলেছেন যে, পূর্ববর্তী নবীদের কাছ থেকে যা এসেছে এবং লোকেরা তাদের মধ্যে যা প্রচলন করেছে এবং শতাব্দীর পর শতাব্দী অতিক্রম করে এসে এই উম্মতের প্রথম যুগ পর্যন্ত পৌঁছেছে তা হল একটি উপদেশ: তুমি যা করতে চাও তার দিকে একটু দৃষ্টি দাও। যদি তা লজ্জার না হয় সম্পাদন কর আর যদি লজ্জার হয় পরিত্যাগ কর। কারণ, খারাপ কর্ম থেকে বাধা দানকারী হল কেবল লজ্জা। কাজেই যার লজ্জা নেই সে প্রত্যেক অশ্লীল ও নিষিদ্ধ কাজে নিমজ্জিত হবে।",
+   "grade": "সহীহ",
+   "hints": [
+    "লজ্জা উত্তম চরিত্রের মূল।\r",
+    "লজ্জা নবীগণ আলাইহিস সালামদের একটি গুণ এবং এটি তাদের থেকে চলে আসছে।\r",
+    "লজ্জাই একমাত্র বিষয় যা একজন মুসলিম ব্যক্তিকে এমন কাজ করতে বাধ্য করে যা সৌন্দর্যমণ্ডিত এবং সুশোভিত করে এবং এমন কাজ ছাড়তে বাধ্য করে যা নোংরা ও কলঙ্কযুক্ত।\r",
+    "ইমাম নববী বলেন: এতে নির্দেশটি বৈধতার জন্য। অর্থাৎ: আপনি যদি কোনো কাজ করার ইচ্ছে করেন আর কাজটি যদি এমন হয় যা করলে আপনি আল্লাহ বা মানুষের কাছ থেকে লজ্জা পাবেন না, তবে তা করুন, অন্যথায় করবেন না। এর উপরই ইসলামের ভিত্তি। এর ব্যাখ্যা হল, যদি নির্দেশনটি ওয়াজিব ও পছন্দনীয় হয় সেটি ছাড়তে লজ্জা করা উচিত। নিষেধটি যদি হারাম ও মাকরুহ হয় সেটি করতে লজ্জা করা উচিত। বৈধ জিনিস করা ও ছাড়ার বিষয়ে লজ্জা করা বৈধ। অতএব হাদীসটি পাঁচটি বিধানকে অন্তর্ভুক্ত করল। বলা হয়েছে যে, এটি ধমকের আদেশ। এর অর্থ হল: আপনার কাছ থেকে লজ্জা দূর করা হলে আপনি যা ইচ্ছে তাই করুন। কারণ আল্লাহ আপনাকে এর বিনিময় দিবেন। আরও বলা হয়েছে: এটি আদেশ অর্থে একটি সংবাদ। অর্থাৎ: যে লজ্জিত নয় সে যা চায় তাই করে।"
+   ],
+   "mapping": "same HadeethEnc record id 66523; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:15+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/66523",
+   "text": "আবূ মাসউদ উকবাহ ইবনু আমর আল-আনসারী আল-বাদরী রাদিয়াল্লাহু আনহু হতে বর্ণিত, তিনি বলেন: রাসূলুল্লাহ বলেছেন: “পূর্বেকার নবুওয়াতের বাণীসমূহ থেকে লোকেরা যা লাভ করেছে তন্মধ্যে একটি হচ্ছে: যখন তুমি লজ্জা করবে না তখন যা ইচ্ছা তাই কর।”",
+   "title": "“পূর্বেকার নবুওয়াতের বাণীসমূহ থেকে লোকেরা যা লাভ করেছে তন্মধ্যে একটি হচ্ছে: যখন তুমি লজ্জা করবে না তখন যা ইচ্ছা তাই কর।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=66523",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Al-Bukhāri",
+   "content_sha256": "sha256:bc7930c2255572662fdd843ce8223e2cfdbddd6e3e3a0ae792bbed87df7223df",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) informed that among the teachings of the early prophets that were circulated among people and passed from one generation to another until reaching the early generation of this Ummah: Consider what you want to do and do it if it is not something to feel ashamed of; but leave it if it is something you feel ashamed of. Modesty prevents committing villainous deeds, and one who has no share of modesty will indulge in all types of immoral and evil deeds.",
+   "grade": "Authentic",
+   "hints": [
+    "Modesty is the core of noble morals.\r",
+    "Modesty is from the prophets' traits and it has been reported from them.\r",
+    "Modesty is what makes a Muslim engage in whatever brings beauty and adornment and abandon whatever causes defilement and disgrace.\r",
+    "An-Nawawi said: The command here indicates permissibility, i.e., if you want to do something, then do it if it does not cause you to feel ashamed before Allah and people; otherwise, do not do it. This is the keystone of Islam. This means that one should feel ashamed of abandoning what is commanded, namely the obligatory and the recommended, and should feel ashamed of doing what is prohibited, namely the unlawful and the disliked. As for what is permissible, one is allowed to feel ashamed of doing or abandoning it. The Hadīth, thus, includes the five rulings. It is said: The command here is meant as a threat, meaning: If modesty is taken from you, then do whatever you want, and Allah will recompense you for it. It is said: It is an order meant to be a statement, i.e., whoever does not feel shame does whatever he wants."
+   ],
+   "mapping": "same HadeethEnc record id 66523; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:15+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/66523",
+   "text": "Abu Mas‘ūd ‘Uqbah ibn ‘Amr al-Ansāri al-Badri (may Allah be pleased with him) reported: \"Verily, some of what reached people from the speech of the early prophets: If you feel no shame, then do whatever you wish.\"",
+   "title": "Verily, some of what reached people from the speech of the early prophets: If you feel no shame, then do whatever you wish",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=66523",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî",
+   "content_sha256": "sha256:4ca41c526ac65f8d427c63a422bc518a46b49b814ba7644a4521e4d57c79e5dc",
+   "explanation": "Le Prophète ﷺ a informé parmi ce qui a été rapporté comme recommandation des précédents prophètes, ce qui a circulé parmi les gens et s'est hérité d'une génération à une autre jusqu'à parvenir à la première génération de cette communauté : \" Regarde bien ce que tu veux faire : si c'est quelque chose dont tu n'as pas honte, alors fais-le ; mais si c'est quelque chose dont tu as honte, alors délaisse-le. \" En effet, la pudeur est ce qui empêche de commettre de vils actes. Et quiconque n'a pas de pudeur, alors il se livrera à toute turpitude et tout acte blâmable.",
+   "grade": "Authentique",
+   "hints": [
+    "La pudeur est la base des nobles caractères.\r",
+    "La pudeur est un attribut parmi les attributs des prophètes (paix sur eux) et c'est ce qui a été hérité d'eux.\r",
+    "La pudeur est ce qui pousse l'individu musulman à accomplir ce qui embellit et enjolive et à délaisser ce qui enlaidit et gâte.\r",
+    "An-Nawawî (qu'Allah lui fasse miséricorde) a dit : \" Ici, l'ordre est à la permission, c'est-à-dire : Si tu veux accomplir une chose et que celle-ci fait partie de ce dont tu n'as pas honte ni devant Allah ni devant les hommes si tu l'accomplis, alors fais-la ; sinon, ne l'accomplis pas. Le pivot de l'Islam est sur cela. L'orientation dans cela est que ce qui est ordonné, ce qui est obligatoire et ce qui est recommandé, alors on doit avoir honte de le délaisser ; et à l'inverse, ce qui est interdit, ce qui est illicite et ce qui est répugné, alors on doit avoir honte de le faire. En ce qui concerne ce qui est permis, alors la pudeur de le faire est autorisée et il en est de même de le délaisser. Ainsi, ce hadith englobe les cinq décrets. Il a aussi été dit qu'ici l'ordre correspondait à une menace dont la signification est la suivante : \" Si la pudeur t'est enlevée, alors fais ce que tu souhaites et Allah te rétribuera selon ton œuvre. \" Il a encore été dit : \" C'est un ordre ayant une signification d'information, c'est-à-dire : Celui qui n'a pas de pudeur, fait ce qu'il veut. \""
+   ],
+   "mapping": "same HadeethEnc record id 66523; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:15+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/66523",
+   "text": "D’après Abû Mas‘ûd ‘Uqba b. ‘Amr al‑Anṣârî al‑Badri — qu’Allah l’agrée —, le Messager d’Allah ﷺ a dit : \" Parmi ce que les gens ont retenu comme parole de la première prophétie, il y a : \" Si tu n’as pas honte, alors fais ce que tu souhaites ! \"",
+   "title": "Parmi ce que les gens ont retenu comme parole de la première prophétie, il y a : \" Si tu n’as pas honte, alors fais ce que tu souhaites !",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=66523",
+   "arabic_match": "exact",
+   "attribution": "HR. Bukhari",
+   "content_sha256": "sha256:9617702c56c23220f2e6d2008250b0f3c91837abe71a2cabb05ae30ec1d7278e",
+   "explanation": "Nabi ﷺ mengabarkan bahwa di antara pesan nabi-nabi terdahulu yang beredar di tengah manusia dan mereka wariskan secara turun-temurun hingga sampai ke generasi awal umat Islam ialah: Lihatlah semua yang ingin engkau lakukan, jika termasuk perkara yang tidak mendatangkan malu maka kerjakanlah, tetapi jika termasuk yang mendatangkan malu maka tinggalkanlah. Di antara yang mencegah mengerjakan keburukan ialah rasa malu. Siapa yang tidak memiliki rasa malu, ia akan tenggelam pada setiap kekejian dan kemungkaran.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Rasa malu adalah fondasi akhlak mulia.\r",
+    "2- Sifat malu termasuk salah satu sifat para nabi -'alaihimussalām- dan merupakan sifat yang diriwayatkan dari mereka.\r",
+    "3- Rasa malulah yang menjadikan seorang muslim mengerjakan semua yang dapat mendatangkan keindahan dan meninggalkan semua yang dapat mendatangkan keburukan.\r",
+    "4- An-Nawawiy berkata, \"Perintah dalam hadis ini menunjukkan pembolehan. Artinya, jika engkau ingin mengerjakan sesuatu, jika hal tersebut termasuk yang tidak membuatmu merasa malu kepada Allah maupun kepada manusia saat engkau mengerjakannya, maka kerjakanlah. Tetapi jika tidak demikian, makan jangan dikerjakan. Penjelasannya, bahwa perintah yang wajib dan sunah akan mendatangkan rasa malu saat ditinggalkan. Sebaliknya, larangan yang haram dan makruh akan mendatangkan rasa malu saat dikerjakan. Adapun yang mubah, malu mengerjakannya hukumnya boleh, demikian juga malu meninggalkannya. Sebab itu, hadis ini mencakup kelima macam hukum yang ada. Ada juga yang mengatakan bahwa perintah di sini adalah perintah yang merupakan ancaman. Artinya, jika rasa malu telah dicabut darimu, maka kerjakan sesukamu karena Allah akan memberimu balasan padanya. Yang lain berpendapat, perintah di sini berarti sebagai kabar. Artinya, orang yang tidak memiliki rasa malu akan melakukan semua yang ia mau.\""
+   ],
+   "mapping": "same HadeethEnc record id 66523; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:15+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/66523",
+   "text": "Abu Mas'ūd 'Uqbah bin 'Amr al-Anṣāriy al-Badriy -raḍiyallāhu 'anhu- meriwayatkan: Rasulullah ﷺ bersabda, \"Sesungguhnya di antara ungkapan yang telah dikenal manusia dari ucapan para nabi terdahulu adalah: Jika engkau tidak malu, maka berbuatlah sesukamu!\"",
+   "title": "Sesungguhnya di antara ungkapan yang telah dikenal manusia dari ucapan para nabi terdahulu adalah: Jika engkau tidak malu, maka berbuatlah sesukamu!",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=66523",
+   "arabic_match": "exact",
+   "attribution": "رواه البخاري",
+   "content_sha256": "sha256:0da50c4877094a0bf7befdd7786f8299182c88c26c62e257eb61e8a4a0d99cb8",
+   "explanation": "نبی صلی اللہ علیہ و سلم نے بتایا کہ پچھلے انبیا کی کی ہوئی جو وصیتیں لوگوں میں رائج رہی ہیں اور نسل در نسل منتقل ہوتی ہوئی اس امت کی پہلی نسل تک آئی ہیں، ان میں سے ایک یہ ہے کہ: جو کام تم کرنا چاہتے ہو، پہلے اسے دیکھ لو، کام اگر ایسا ہو کہ اسے کرنے میں حیا نہیں کی جاتی ہے، تو کر ڈالو۔ لیکن کام اگر ایسا ہو کہ اسے کرتے ہوئے حیا کی جاتی ہے، تو چھوڑ دو۔ کیوں کہ برے کاموں سے روکنے والی چيز حیا ہی ہے۔ جس کے اندر حیا نہ ہو، وہ ہر فحش اور غلط کام میں ملوث ہو جائے گا۔",
+   "grade": "صحيح",
+   "hints": [
+    "حیا اچھے اخلاق کی اساس ہے۔\r",
+    "حیا انبیا کے اوصاف میں سے ایک وصف اور انھیں سے منقول ہے۔\r",
+    "حیا ایسی چيز ہے، جو ایک مسلمان کو ایسے کاموں پر آمادہ کرتی ہے، جو اس کی شخصیت کو خوب صورت بناتی اور ایسے کاموں سے دور رکھتی ہے جو اس کی شخصیت کو مجروح کرتے ہوں۔\r",
+    "نووی کہتے ہيں : یہاں حکم اباحت پر محمول ہے۔ مطلب یہ ہےکہ جب تم کوئی کام کرنے کا ارادہ کرو، تو کام اگر ایسا ہو کہ اسے کرتے وقت اللہ اور لوگوں سے حیا نہ آتی ہو، تو کر ڈالو۔ لیکن اگر حیا آتی ہو، تو مت کرو۔ اسی پر اسلام کا دار و مدار ہے۔ اسے اس طرح سمجھیں کہ جن واجب اور مستحب کاموں کا حکم ہو، انھیں چھوڑنے میں حیا کی جاتی ہے اور جن حرام اور مکروہ چیزوں سے منع کیا گیا ہو، انھیں کرنے میں حیا کی جاتی ہے۔ جب کہ مباح کام کو کرنے میں حیا کرنا بھی جائز ہے اور چھوڑنے میں حیا کرنا بھی جائز ہے۔ اس طرح اس حدیث کے دائرے میں پانچوں احکام آ گئے۔ جب کہ کچھ لوگوں کا کہنا ہے کہ اس حدیث میں دیا گیا حکم تہدید آمیز ہے اور اس کے معنی یہ ہیں کہ جب تم سے حیا کی دولت چھن جائے، تو جو جی میں آئے کرو، اللہ تم کو ضرور اس پر سزا دے گا۔ کچھ لوگوں کا یہ بھی کہنا ہے کہ یہاں حکم خبر کے معنی میں ہے۔ یعنی جسے حیا مانع نہ ہو، وہ جو چاہتا ہے، کرتا پھرتا ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 66523; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:15+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/66523",
+   "text": "ابو مسعود عقبہ بن عمرو انصاری بدری رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: ”پہلے کے انبیا علیہم السلام کے کلام سے جو باتیں لوگوں نے حاصل کیں، ان میں سے ایک یہ ہے کہ جب تیرے اندر شرم و حیا نہ رہے، تو جو چاہے کر۔“",
+   "title": "”پہلے کے انبیا علیہم السلام کے کلام سے جو باتیں لوگوں نے حاصل کیں، ان میں سے ایک یہ ہے کہ جب تیرے اندر شرم و حیا نہ رہے، تو جو چاہے کر۔“",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=66523",
+   "arabic_match": "exact",
+   "attribution": "布哈里辑录",
+   "content_sha256": "sha256:7883b998be50e956864c21bb311ffee57dcb50a27a1dbfadffbd6e928863d70b",
+   "explanation": "先知（愿主福安之）告诉我们，在人们之间从早期的众先知那里世代所传承下来，一直到了我们这个民族的言语就有：看你想做的事情，如果做起来不会感到羞耻，那就为之，如果做起来感到羞耻，那就放弃，能阻止干丑恶之事是知羞耻，凡不知羞耻者，必沉迷于丑恶之事当中。",
+   "grade": "正确的",
+   "hints": [
+    "羞耻是高贵的德行之基础。\r",
+    "羞耻属于众先知的属性之一，是他们所遗留下来品行。\r",
+    "羞耻可使穆斯林做美好之事而放弃丑事。\r",
+    "脑威说：圣训中所说的是针对允许的事情。即：当你想做一件事情，如果与安拉、众人你都不会感到羞耻，那么就去为之，相反则不。伊斯兰之核心建立于此，意思就是：所奉命的当然、可嘉之事，放弃不做是可耻的行为；禁止的非法、可憎事项，如果为之则是可耻的行为。至于允许的事情，因害羞做与不做，都是允许的。这段圣训包含了五大断法，有人说：圣训意在警告。意思是说：如果你失去了羞耻，你便可为所欲为，安拉将会清算你。有人说：圣训意在称述，即：凡不觉羞耻者，可为所欲为。"
+   ],
+   "mapping": "same HadeethEnc record id 66523; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:15+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/66523",
+   "text": "据艾布·麦斯欧德·乌格白·本·阿姆鲁·安萨里·白德里（愿主喜悦他）传述：他说：安拉的使者（愿主福安之）说： “人们所了解到的最早的圣品言词有：如果你不知羞耻，便可为所欲为。”",
+   "title": "“人们所了解到的最早的圣品言词有：如果你不知羞耻，便可为所欲为。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

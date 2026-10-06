@@ -1,0 +1,197 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:657e24a175f346b1754f599dcb556762f05320ffabbc62b04d29cdabfb4b059e",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يُخبِرُ النبيُّ صلى الله عليه وسلم أنّ الذين يَحكُمُون بالعدل والحق بين الناس الذين تحت إِمْرَتِهم وحكمِهم وأهلهم، أنهم يجلسون على مقاعدَ عاليةٍ رفيعةٍ قد خُلقتْ من نور، إكرامًا لهم يوم القيامة. \nوهذه المنابر عن يمين الرحمن تعالى، وكلتا يديه سبحانه يمينٌ.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "فضل العدل والحث عليه.",
+  "العدل عامٌّ يشمل جميع الولايات والحكم بين الناس حتى العدل بين الزوجات والأولاد وغير ذلك.",
+  "بيان منزلة العادلين يوم القيامة.",
+  "تفاوت منازل أهل الإيمان يوم القيامة كل حسب عمله.",
+  "أسلوب الترغيب من أساليب الدعوة التي ترغِّب المدعو في الطاعة."
+ ],
+ "id": "hadeethenc-4935",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (3/ 1458) (1827).\nنزهة المتقين شرح رياض الصالحين، لمجموعة من الباحثين (1/ 547).\nتطريز رياض الصالحين، لفيصل المبارك (ص428).\nكنوز رياض الصالحين، لمجموعة من الباحثين (9/ 314).\nبهجة الناظرين شرح رياض الصالحين، لسليم الهلالي (1/ 710).\nشرح رياض الصالحين، لابن عثيمين (3/ 640).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=4935",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:52+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/4935"
+ },
+ "source_categories": [
+  {
+   "id": "282",
+   "label": "الأخلاق الحميدة"
+  }
+ ],
+ "source_record_id": "4935",
+ "text": "عن عبد الله بن عمرو رضي الله عنهما قال: قال رسول الله صلى الله عليه وسلم: «إِنَّ الْمُقْسِطِينَ عِنْدَ اللهِ عَلَى مَنَابِرَ مِنْ نُورٍ، عَنْ يَمِينِ الرَّحْمَنِ عَزَّ وَجَلَّ، وَكِلْتَا يَدَيْهِ يَمِينٌ، الَّذِينَ يَعْدِلُونَ فِي حُكْمِهِمْ وَأَهْلِيهِمْ وَمَا وَلُوا».",
+ "title": "إن المقسطين عند الله على منابر من نور، عن يمين الرحمن عز وجل، وكلتا يديه يمين",
+ "topic": "conduct",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=4935",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:c128f887377716e9d6be68c6c3abc652443c0ab734f02e6713da3032259cbb94",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এ হাদীসে সংবাদ দিয়েছেন, যারা মানুষের মাঝে অর্থাৎযারা তাদের অধিনস্থ, নিয়ন্ত্রণাধীন ও পরিবারের মাঝে ন্যায়পরায়ণতা ও সততার সাথে বিচারকার্য পরিচালনা করে,  তাদের সম্মানার্থে কিয়ামতের দিন নূরের তৈরি সুউচ্চ আসনে উপবিষ্ট করা হবে। এসব মিম্বারসমূহ মহান রহমানের ডান পার্শ্ব। আর তার উভয় হস্তই ডান।",
+   "grade": "সহীহ",
+   "hints": [
+    "হাদীসে ন্যায়পরায়ণতার মর্যাদা বর্ণিত হয়েছে এবং এ ব্যাপারে উৎসাহিত করা হয়েছে।\r",
+    "এখানে ন্যায়-নিষ্ঠতা ব্যাপক অর্থে ব্যবহৃত, যা রাষ্ট্র পরিচালনা ও মানুষের মাঝে বিচারকার্যসহ সকল ক্ষেত্রেই প্রযোজ্য; এমনকি স্ত্রী ও সন্তানসহ অন্যান্য ক্ষেত্রেও প্রযোজ্য।\r",
+    "কিয়ামতের দিনে ন্যায়পরায়ণদের মর্যাদা বর্ণনা করা হয়েছে।\r",
+    "ঈমানদারদের আমলের পরিমাণ অনুযায়ী কিয়ামতের দিন তাদের মর্যাদাও ভিন্ন ভিন্ন হবে।\r",
+    "উৎসাহ প্রদান করা দাওয়াতের অন্যতম একটি পদ্ধতি, যা দাওয়াতকৃত ব্যক্তি কে আনুগত্য করতে উৎসাহিত করে।"
+   ],
+   "mapping": "same HadeethEnc record id 4935; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:26+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/4935",
+   "text": "আব্দুল্লাহ ইবনু ‘আমর ইবনুল ‘আস রাদিয়াল্লাহু আনহু থেকে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন: “আল্লাহর নিকট যারা ন্যায়পরায়ণ তারা মহান রহমানের ডান পার্শ্বে নূরের মিম্বরের উপর অবস্থান করবে। আর তাঁর উভয় হস্তই ডান। (ঐ ন্যায়পরায়ণগণ ) যারা তাদের বিচারে, পরিবারে এবং তার কর্তৃত্ব ও নেতৃত্বাধীন ব্যক্তিবর্গের ব্যাপারে ন্যায়নিষ্ঠ।”",
+   "title": "“আল্লাহর নিকট যারা ন্যায়পরায়ণ তারা মহান রহমানের ডান পার্শ্বে নূরের মিম্বরের উপর অবস্থান করবে। আর তাঁর উভয় হস্তই ডান",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=4935",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:f1ab2f8e441e3820c68259655fe0497f0fcac3996730ab320f736ce44ec1147d",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) informs that those who judge justly among their people and those under their authority will sit on the Day of Judgment on lofty and elevated pulpits created from light in honor of them. These pulpits are at the right Hand of the Most Compassionate, and both His Hands are right, Exalted be He.",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth highlights the merit of justice and urges us to adhere to it.\r",
+    "Justice is general and applies to all forms of guardianship, authority, and judgment among people. It even includes justice among one's wives, children, etc.\r",
+    "It shows the status of just people on the Day of Judgment.\r",
+    "The believers will be in different ranks on the Day of Judgment in accordance with their respective deeds.\r",
+    "Encouragement is one of the Da‘wah approaches that endear worship and righteousness to the addressed people."
+   ],
+   "mapping": "same HadeethEnc record id 4935; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:25+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/4935",
+   "text": "‘Abdullāh ibn ‘Amr (may Allah be pleased with him) reported: The Messenger of Allah (may Allah’s peace and blessings be upon him) said: \"Those who act justly will be with Allah on pulpits of light at the right Hand of the Most Compassionate, Exalted be He, and both His Hands are right. They are those who are just in their judgment and towards their people and what is under their charge.\"",
+   "title": "Those who act justly will be with Allah on pulpits of light at the right Hand of the Most Compassionate, Exalted be He, and both His Hands are right",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=4935",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:2f3690d42b20c0bacb2f125089997cec8bae9bbb5f5939742f95b6fb81b342fb",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) informe que ceux qui jugent avec justice et vérité parmi les gens sous leur autorité et leur jugement, et notamment leur famille, s'assiéront certes sur de hauts sièges élevés et créés de lumière en guise d'honneur à leur égard au Jour de la Résurrection Ces chaires seront à la droite du Tout-Miséricordieux, Exalté soit-Il, et ses deux Mains, Gloire et Pureté à Lui, sont droites.",
+   "grade": "Authentique",
+   "hints": [
+    "Le mérite de la justice et l'encouragement à sa mise en œuvre.\r",
+    "La justice est générale et elle englobe toutes les autorités ainsi que le jugement parmi les gens et  jusqu'à la justice entre les épouses, les enfants et autre que cela.\r",
+    "L'explication de la position des personnes justes au Jour de la Résurrection.\r",
+    "La différence de position des gens de la foi au Jour de la Résurrection ; chacun en fonction de son œuvre.\r",
+    "Le style d'incitation fait partie des styles dans la prédication à travers lequel on incite la personne qu'on appelle à l'obéissance."
+   ],
+   "mapping": "same HadeethEnc record id 4935; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:26+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/4935",
+   "text": "'AbdouLâh ibn 'Amr (qu'Allah l'agrée, lui et son père) relate que le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) a dit : « Certes, les personnes équitables seront auprès d’Allah sur des chaires de lumière, à la droite du Tout-Miséricordieux, à Lui la Puissance et la Grandeur, et Ses deux Mains sont droites. Il s’agit de ceux qui sont justes dans leur jugement, au sein de leur famille et de ceux dont ils ont la charge. »",
+   "title": "Certes, les personnes équitables seront auprès d’Allah sur des chaires de lumière, à la droite du Tout-Miséricordieux, à Lui la Puissance et la Grandeur, et Ses deux Mains sont droites",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=4935",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:3c6cd261245e04775417bae14551d24c7a3c5a39ebcce24e6c470df63f8091a8",
+   "explanation": "Nabi ﷺ mengabarkan tentang orang-orang yang memutuskan secara adil dan benar di antara manusia yang berada di bawah kepemimpinan, kekuasaan dan keluarga mereka, bahwa mereka akan duduk di atas tempat-tempat duduk tinggi yang terbuat dari cahaya sebagai bentuk memuliakan mereka kelak di hari Kiamat. Mimbar-mimbar tersebut ada di kanan Ar-Raḥmān Yang Mahatinggi, dan kedua tangan Allah -Subḥānahu wa Ta'ālā- ialah kanan.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Keutamaan dan anjuran bersifat adil.\r",
+    "2- Sifat adil berlaku umum, yaitu mencakup semua kepemimpinan dan keputusan di antara manusia, bahkan termasuk adil di antara istri, anak-anak dan lainnya.\r",
+    "3- Menjelaskan kedudukan orang-orang yang adil pada hari Kiamat.\r",
+    "4- Perbedaan kedudukan orang-orang beriman pada hari Kiamat, masing-masing sesuai amalnya.\r",
+    "5- Metode targib (motivasi) termasuk di antara metode dakwah yang dapat memotivasi orang yang didakwahi untuk melakukan ketaatan."
+   ],
+   "mapping": "same HadeethEnc record id 4935; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:26+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/4935",
+   "text": "Abdullah bin 'Amr -raḍiyallāhu 'anhumā- meriwayatkan, Rasulullah ﷺ bersabda, \"Sesungguhnya orang-orang yang adil itu berada di sisi Allah di atas mimbar-mimbar dari cahaya di samping kanan Ar-Raḥmān ﷻ, sementara kedua tangan-Nya ialah kanan. Mereka itulah yang berlaku adil di dalam kekuasaan, keluarga, dan semua urusan yang mereka pegang.\"",
+   "title": "Sesungguhnya orang-orang yang adil itu berada di sisi Allah di atas mimbar-mimbar dari cahaya di samping kanan Ar-Raḥmān ﷻ, sementara kedua tangan-Nya ialah kanan",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=4935",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:4007eb403ddc0c7961de20831b2bb07f20f7f1789fcc150b9ae579e335bf004a",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم بتا رہے ہیں کہ جو لوگ اپنے ماتحت لوگوں اور گھر والوں کے بیچ اپنے فیصلوں میں انصاف سے کام لیتے ہيں اور حق کے تقاضوں کو پورا کرتے ہيں، وہ قیامت کے دن ایسی اونچی جگہوں میں بیٹھے ہوں گے، جو نور سے بنے ہوں گے۔ یہ نور سے بنی ہوئی اونچی جگہیں ان کی عزت افزائی کے لیے بنائی گئی ہوں گی۔ یہ اونچی جگہیں نہایت مہربان اللہ کے دائیں جانب واقع ہوں گی۔ قابل توجہ بات یہ ہے کہ اللہ کے دونوں ہاتھ دائیں ہیں۔",
+   "grade": "صحيح",
+   "hints": [
+    "انصاف کی فضیلت اور انصاف کرنے کی ترغیب۔\r",
+    "انصاف ایک عام لفظ ہے، جس کے دائرے میں سارے عہدے، لوگوں کے بیچ کیے جانے والے فیصلے، یہاں تک کہ بیویوں اور بچوں کے بیچ انصاف کرنا وغیرہ بھی آ جاتے ہیں۔\r",
+    "قیامت کے دن عدل و انصاف کرنے والوں کے مقام و مرتبے کا بیان۔\r",
+    "قیامت کے دن ایمان والوں کے منازل ان کے اعمال کے حساب سے متفاوت ہوں گے۔\r",
+    "ترغیب کا اسلوب دعوت کا ایک ایسا اسلوب ہے، جو نیکی کا کام کرنے کے لیے آمادہ کرتا ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 4935; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:25+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/4935",
+   "text": "عبد اللہ بن عمرو رضی اللہ عنہما سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”بے شک انصاف کرنے والے اللہ کے ہاں رحمن عز و جل کے دائیں جانب نور کے منبروں پر ہوں گے۔ جب کہ اللہ کے دونوں ہاتھ دائیں ہیں۔ یہ وہ لوگ ہوں گے، جو اپنی رعایا، اپنے اہل و عیال اور اپنے ماتحت لوگوں میں عدل و انصاف کرتے ہوں گے“",
+   "title": "”بے شک انصاف کرنے والے اللہ کے ہاں رحمن عز و جل کے دائیں جانب نور کے منبروں پر ہوں گے۔ جب کہ اللہ کے دونوں ہاتھ دائیں ہیں",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=4935",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:1edbf152b2919c74726c62f3a5f976fa8b635c7d6f007ed547edee81b18b45be",
+   "explanation": "先知（愿主福安之）告知那些在人们之间以公正和真理对其统治下的人民及其家人进行裁决的人，他们将在末日被安置在由光明创造的高贵而崇高的座位上，以示对他们的优待。 这些座位位于伟大至仁主的右边，而其两只手都是吉庆荣耀的。",
+   "grade": "正确的",
+   "hints": [
+    "公正的优越性、鼓励公正。\r",
+    "公正的范围是广阔的。既包括在各个领域中人与人之间的公正裁决，也包括在妻子、儿女间等方面的公正。\r",
+    "阐明在末日公正者的地位。\r",
+    "在末日，信仰者的地位将根据他们的行为而有所不同。\r",
+    "善劝是宣教的方式之一，旨在激励被呼召者行善。"
+   ],
+   "mapping": "same HadeethEnc record id 4935; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:25+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/4935",
+   "text": "据阿卜杜拉·本·欧玛尔（愿主喜悦他俩）传述说：真主的使者（愿主福安之）说： “办事公正的那些人将在真主阙前获得崇高的品级，而且位居真主的右侧。这些人不论在判决、还是在眷属以及所掌管的事务上，他们都保持公正。”",
+   "title": "“办事公正的那些人将在真主阙前获得崇高的品级，而且位居真主的右侧",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [
+  {
+   "meaning": " العادلين.",
+   "word": "المقسطين"
+  },
+  {
+   "meaning": " في قضائهم.",
+   "word": "في حكمهم"
+  },
+  {
+   "meaning": " الذي كانت لهم عليه ولاية.",
+   "word": "ما وَلُوا"
+  }
+ ],
+ "words_meanings_language": "ar"
+}

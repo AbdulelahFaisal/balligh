@@ -1,0 +1,65 @@
+{
+  "title": "Parcours de lecture d'introduction",
+  "intro": "Cinq courtes étapes de sources réelles. Chaque étape reste ouverte ; lisez dans l'ordre que vous voulez.",
+  "exploring": "Vous découvrez simplement ? Lisez le premier texte",
+  "nav": "Étapes de lecture",
+  "stage": "Étape {{n}}",
+  "names": {
+    "introduction_belief": "Introduction et croyance",
+    "testimony_pillars": "L'attestation de foi et les cinq piliers",
+    "purification_prayer": "La purification et la prière",
+    "fasting_zakah_hajj": "Le jeûne, la zakât et une introduction au hajj",
+    "everyday_conduct": "Le comportement au quotidien"
+  },
+  "endNav": "Fin et aide humaine",
+  "collections": {
+    "quran": "Coran",
+    "fatwa": "Fatwa",
+    "hadith": "Hadith"
+  },
+  "arabicOnly": "En arabe uniquement",
+  "languages": "Langues : {{languages}}",
+  "recap": "Rappel de l'étape {{n}} : le même texte à nouveau",
+  "open": "Ouvrir la lecture",
+  "markRead": "J'ai fini de lire ce texte",
+  "markedRead": "Marqué comme lu (sélectionnez pour annuler)",
+  "stageProgress": "{{done}} sur {{total}} marqués comme lus",
+  "progress": "{{done}} lectures sur {{total}} marquées comme lues",
+  "nextReading": "Lecture suivante",
+  "nextStage": "Suivant : étape {{n}}",
+  "toEnd": "Terminer le parcours",
+  "allRead": "Toutes les lectures sont marquées comme lues.",
+  "loading": "Chargement du parcours de lecture…",
+  "error": "Le parcours de lecture n'a pas pu être chargé.",
+  "retry": "Réessayer",
+  "end": {
+    "title": "Fin du parcours d'introduction",
+    "complete": "Vous avez terminé la lecture d'introduction. Cela indique que vous avez lu ces textes ; ce n'est ni un test ni une mesure de maîtrise.",
+    "partial": "Vous avez marqué {{done}} lectures sur {{total}} comme lues. Les étapes restent ouvertes quand vous voulez y revenir.",
+    "notCoveredTitle": "Ce que ce parcours ne couvre pas",
+    "notCovered": {
+      "prayer_demonstration": "Une démonstration complète de la manière de prier",
+      "fasting_rules": "L'ensemble des règles du jeûne",
+      "zakah_calculation": "Le calcul de la zakât",
+      "hajj_practice": "Des instructions pratiques pour accomplir le hajj"
+    }
+  },
+  "support": {
+    "title": "Parler avec une personne",
+    "body": "Pour les questions auxquelles une liste de lectures ne peut pas répondre, eDialogue, géré par جمعية ركن الحوار, propose des conversations avec des personnes.",
+    "link": "Ouvrir eDialogue (site externe)",
+    "faq": "La FAQ d'eDialogue décrit sa discussion comme gratuite et privée :",
+    "note": "Ouvrir le lien est votre propre choix. Balligh n'envoie rien à ce site et ne conserve rien à son sujet."
+  },
+  "storage": {
+    "malformed": "Vos marques de lecture enregistrées n'ont pas pu être lues. Elles ont été laissées inchangées et ne sont pas utilisées.",
+    "unavailable": "Ce navigateur n'enregistre pas vos marques de lecture ; elles ne sont conservées que tant que cette page reste ouverte.",
+    "write_failed": "Votre marque de lecture n'a pas pu être enregistrée ; elle n'est conservée que tant que cette page reste ouverte.",
+    "outdated": "Vos anciennes marques de lecture appartiennent à une version antérieure de ce parcours et ne sont pas utilisées. Marquer une lecture créera un nouvel enregistrement."
+  },
+  "start": "Commencer la première lecture",
+  "continue": "Continuer avec la lecture suivante",
+  "continueStage": "Continuer : étape {{n}}",
+  "backToStage": "Retour à l’étape {{n}}",
+  "position": "Étape {{n}} · lecture {{i}} sur {{total}}"
+}

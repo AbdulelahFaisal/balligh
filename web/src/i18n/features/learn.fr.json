@@ -1,0 +1,126 @@
+{
+  "stations": "Étapes de la leçon",
+  "done": "fait",
+  "notYet": "pas encore",
+  "markRead": "J'ai lu les cartes",
+  "nextTerms": "Suivant : comprendre un terme",
+  "nextQuestion": "Suivant : la question de compréhension",
+  "termsNone": "Cette leçon n'a pas de termes.",
+  "termsHelp": "Ouvrez un terme pour voir son sens et sa provenance.",
+  "termsCount": "{{opened}} terme(s) ouvert(s) sur {{total}}.",
+  "summaryTitle": "Votre progression dans cette leçon",
+  "summary": {
+    "read": "Lecture marquée",
+    "notRead": "Lecture pas encore marquée",
+    "solved": "Bonne réponse donnée",
+    "tried": "Essayé ; pas encore la bonne réponse",
+    "notAnswered": "Pas encore répondu"
+  },
+  "complete": "Vous avez terminé les trois étapes de cette leçon.",
+  "completedCount": "{{done}} étape(s) sur 3 terminée(s)",
+  "revisit": "Revoir : {{station}}",
+  "localNote": "La progression n'enregistre que vos actions dans ce navigateur : la lecture marquée, les termes ouverts et votre réponse. Ce n'est ni une note ni une mesure de l'apprentissage, et elle ne fait pas partie du fichier exporté.",
+  "reset": "Réinitialiser ma progression",
+  "resetFailed": "L'enregistrement de progression n'a pas pu être supprimé de ce navigateur. La progression de cette page a été réinitialisée.",
+  "storage": {
+    "saved": "La progression est enregistrée dans ce navigateur uniquement.",
+    "unavailable": "Ce navigateur ne permet pas à l'application d'enregistrer la progression. Elle n'est conservée que tant que cette page est ouverte.",
+    "corrupt": "La progression enregistrée dans ce navigateur n'a pas pu être lue et a été laissée intacte. La progression n'est conservée que tant que cette page est ouverte, jusqu'à sa réinitialisation.",
+    "write_failed": "La progression n'a pas pu être enregistrée dans ce navigateur. Elle n'est conservée que tant que cette page est ouverte."
+  },
+  "reviewNoticeAck": "Validée localement par {{label}}. Il s'agit d'une validation déclarée, pas d'une identité vérifiée ni d'une revue scientifique.",
+  "reviewNoticeDraft": "Aperçu technique : personne n'a validé cette version. Utilisez-la pour vérifier la leçon, pas pour enseigner.",
+  "nav": {
+    "learn": "Apprendre",
+    "library": "Bibliothèque",
+    "prepare": "Préparer une leçon",
+    "sources": "Sources et limites",
+    "teacherSteps": "Étapes de préparation de la leçon"
+  },
+  "home": {
+    "title": "Comprendre l'islam à partir de sources identifiables",
+    "body": "Lisez des sources publiées dans votre langue lorsqu'une traduction existe, et transformez des sources adaptées en courtes leçons qu'un enseignant vérifie avant de les partager.",
+    "learnTitle": "Apprendre",
+    "learnBody": "Commencez par une courte sélection réfléchie de premières lectures, ou reprenez là où vous vous êtes arrêté.",
+    "learnCta": "Commencer à apprendre",
+    "libraryTitle": "Bibliothèque",
+    "libraryBody": "Le Coran avec des traductions publiées nommées, une collection arabe de questions-réponses et des hadiths avec les explications de leur éditeur.",
+    "libraryCta": "Ouvrir la bibliothèque",
+    "prepareTitle": "Préparer une leçon",
+    "prepareBody": "Pour les enseignants : choisissez une source enregistrée, vérifiez le brouillon par rapport à elle, puis prévisualisez et téléchargez.",
+    "prepareCta": "Préparer une leçon"
+  },
+  "coverage": "L'interface existe en 7 langues ; la couverture du contenu diffère : les questions-réponses sont des documents publiés uniquement en arabe, les traductions des hadiths varient selon le document, et les sens du Coran proviennent de six éditions publiées nommées.",
+  "kinds": "Une traduction publiée provient de son éditeur nommé. Un brouillon IA est un texte généré non vérifié. Une validation locale indique seulement qu'un préparateur sur cet appareil a comparé un brouillon à sa source.",
+  "page": {
+    "title": "Commencer à apprendre",
+    "intro": "Une petite sélection de premiers pas tirée de la bibliothèque : deux courtes sourates, quelques réponses publiées claires et des hadiths. Chaque étape ouvre la source complète.",
+    "start": "Commencer par l'étape 1",
+    "noQuiz": "La lecture ne demande aucun quiz. Un emplacement enregistré indique où vous vous êtes arrêté, pas ce que vous avez compris.",
+    "continueLabel": "Reprendre la lecture",
+    "continue": "Reprendre là où je me suis arrêté",
+    "continueStale": "Votre emplacement enregistré ne correspond plus à la source actuelle ; il n'est donc pas proposé.",
+    "loading": "Chargement des premiers pas…",
+    "error": "Impossible de charger les premiers pas.",
+    "stepsTitle": "Premiers pas",
+    "basis": "Un ordre de lecture éditorial fondé sur une revue des textes complets assistée par un modèle. Ce n'est ni un programme ni une approbation savante."
+  },
+  "levels": {
+    "foundation": "Fondement",
+    "practical_beginner": "Premier pas pratique"
+  },
+  "collections": {
+    "quran": "Coran",
+    "fatwa": "Question-réponse",
+    "hadith": "Hadith"
+  },
+  "topics": {
+    "opening_prayer": "L'Ouverture : la sourate récitée à chaque prière",
+    "what_islam_means": "Ce que signifie l'islam",
+    "testimonies": "Le sens des deux attestations",
+    "oneness": "L'unicité de Dieu",
+    "pillars": "Les piliers de l'islam",
+    "wudu_steps": "Les ablutions pas à pas",
+    "missed_prayer_sleep": "Manquer la prière de l'aube en dormant",
+    "obligations_first": "Les obligations d'abord, puis les actes surérogatoires",
+    "good_conduct": "Le bon comportement",
+    "names_after_islam": "Garder son nom après l'entrée en islam"
+  },
+  "cautions": {
+    "obligation_vs_preference": "La réponse distingue ce qui est obligatoire de ce qui est seulement recommandé."
+  },
+  "languages": "Disponible en : {{languages}}",
+  "arabicOnly": "Arabe uniquement (source publiée)",
+  "step": "Étape {{n}} sur {{total}} des premiers pas",
+  "next": "Suivant : {{topic}}",
+  "back": "Tous les premiers pas",
+  "teacher": {
+    "badge": {
+      "teacher_context": "Contexte enseignant",
+      "advanced_reference": "Référence avancée",
+      "adult_situational_reference": "Référence situationnelle pour adultes",
+      "family_specific": "Cas familial particulier"
+    },
+    "notice": "Conservé intégralement comme référence. La revue éditoriale l'oriente vers une lecture guidée par un enseignant, pas vers l'autoformation des premiers pas.",
+    "reasonLabel": "Note de revue (anglais)"
+  },
+  "prepare": {
+    "body": "Ce document est enregistré comme source complète pour la préparation de leçons.",
+    "cta": "Préparer une leçon",
+    "none": "La préparation de leçon n'est pas disponible pour ce document ; seules les sources complètes enregistrées peuvent être préparées."
+  },
+  "stepsDone": "Vous êtes arrivé à la fin des premiers pas.",
+  "readingStorage": {
+    "malformed": "Votre emplacement de lecture enregistré est illisible. Il a été laissé tel quel et n'est pas utilisé.",
+    "unavailable": "Ce navigateur n'enregistre pas votre emplacement ; il est conservé seulement tant que cette page reste ouverte.",
+    "write_failed": "Votre emplacement n'a pas pu être enregistré ; il est conservé seulement tant que cette page reste ouverte."
+  },
+  "readingPlace": {
+    "save": "Garder ma place ici",
+    "saved": "Votre place ici est enregistrée.",
+    "savedSession": "Place conservée seulement tant que cette page reste ouverte.",
+    "invalid": "Cette place n'a pas pu être enregistrée.",
+    "missing": "La place enregistrée est introuvable dans ce texte ; la page s'ouvre au début.",
+    "stale": "Votre place enregistrée ne correspond plus à cette version du texte ; la page s'ouvre au début."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "home": {
+    "quranDesc": "Baca teks Arab dan dengarkan bacaannya, dengan terjemahan makna.",
+    "questionsDesc": "Jawaban Syekh Abdul Aziz bin Baz atas pertanyaan orang-orang.",
+    "hadithDesc": "Hadis beserta derajat dan penjelasan yang diterbitkan.",
+    "open": "Buka",
+    "arabicOnly": "Hanya bahasa Arab"
+  },
+  "list": {
+    "resetSearch": "Hapus pencarian dan tampilkan semua"
+  }
+}

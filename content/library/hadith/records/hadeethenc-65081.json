@@ -1,0 +1,174 @@
+{
+ "attribution": "رواه البخاري",
+ "content_sha256": "sha256:ed06ae09a2b11bea78cacab3d4700b903573ef5231262b13ad9f9a1b62b60975",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "كان النبيُّ صلى الله عليه وسلم في بعض أحيانه إذا توضأ غَسَلَ كلَّ عُضوٍ من أعضاء الوضوء مرة واحدة، فيَغْسِلُ الوجهَ -ومنه المضمضة والاستنشاق-، واليدين والرجلين مرة واحدة، وهذا هو القَدْرُ الواجب.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "الواجب في غَسْلِ الأعضاء مرة واحدة، وما زاد فهو مستحب.",
+  "مشروعية الوضوء مَرّةً مرةً في بعض الأحيان.",
+  "المشروع في مسح الرأس مرة واحدة."
+ ],
+ "id": "hadeethenc-65081",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (1/ 43) (157)، إرشاد الساري لشرح صحيح البخاري (1/ 244).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=65081",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:54:26+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/65081"
+ },
+ "source_categories": [
+  {
+   "id": "443",
+   "label": "سنن وآداب الوضوء"
+  },
+  {
+   "id": "444",
+   "label": "صفة الوضوء"
+  }
+ ],
+ "source_record_id": "65081",
+ "text": "عَنِ ‌ابْنِ عَبَّاسٍ رضي الله عنهما قَالَ: تَوَضَّأَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مَرَّةً مَرَّةً.",
+ "title": "توضأ النبي صلى الله عليه وسلم مرة مرة",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=65081",
+   "arabic_match": "exact",
+   "attribution": "এটি বুখারী বর্ণনা করেছেন।",
+   "content_sha256": "sha256:f6684faa30de4f88aa4033bb8c6661d338e294b1376dcf78858998aa62c3d080",
+   "explanation": "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কখনো কখনো যখন উযূ করতেন তখন উযূর অঙ্গসমূহের প্রত্যেকটি অঙ্গ একবার করে ধৌত করতেন। যেমন তিনি একবার চেহারা ধৌত করতেন—কুলি করা ও নাকে পানি দেওয়া চেহারারই অন্তর্ভুক্ত—, এবং দুই হাত ও দুই পা একবার করে ধৌত করতেন। এটা হলো ওয়াজিব পরিমাণ।",
+   "grade": "সহীহ",
+   "hints": [
+    "উযূর অঙ্গগুলো ধোয়ার ক্ষেত্রে ওয়াজিব হলো একবার। আর যা বেশী হবে তা মুস্তাহাব।\r",
+    "কোন কোন সময় একবার একবার ধৌত করা বৈধ।\r",
+    "মাথা মাসেহ করার ক্ষেত্রে বৈধ হলো একবার।"
+   ],
+   "mapping": "same HadeethEnc record id 65081; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:28+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/65081",
+   "text": "ইবনু আব্বাস রাদিয়াল্লাহু ‘আনহুমা থেকে বর্ণিত, তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একবার একবার উযূ করেছেন।",
+   "title": "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একবার একবার উযূ করেছেন।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=65081",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Al-Bukhāri",
+   "content_sha256": "sha256:de43b9a0510e19b27f7a3eddfd782348ad4b6568535c0a953b0b0e5bff87e7e5",
+   "explanation": "When the Prophet (may Allah's peace and blessings be upon him) performed ablution, he would sometimes wash each organ of the organs of ablution once - washing the face - including rinsing the mouth and sniffing water into the nostrils - and the hands and feet once. This is the due amount.",
+   "grade": "Authentic",
+   "hints": [
+    "It is obligatory to wash the body parts of ablution once. However, exceeding that is recommended.\r",
+    "It is permissible to sometimes wash the body parts of ablution once.\r",
+    "Wiping over the head once is prescribed in the sunnah."
+   ],
+   "mapping": "same HadeethEnc record id 65081; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:28+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/65081",
+   "text": "Ibn ‘Abbās (may Allah be pleased with him) reported: The Prophet (may Allah’s peace and blessings be upon him) performed ablution by washing the body parts once.",
+   "title": "The Prophet (may Allah’s peace and blessings be upon him) performed ablution by washing the body parts once",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=65081",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî",
+   "content_sha256": "sha256:edf962a72f603ff7ccf30bbaafd3132f42c5fed0ca7f15e636a7829af7a43a8c",
+   "explanation": "De temps à autre, lorsque le Prophète ﷺ accomplissait ses ablutions il lavait chacun de ses membres une seule fois ; ainsi, il lavait son visage - notamment : le gargarisme et l'expulsion de l'eau du nez - ses mains et ses pieds une seule fois. Et ceci est le minimum obligatoire.",
+   "grade": "Authentique",
+   "hints": [
+    "L'obligation concernant le lavage des membres est d'une fois minimum et si la personne ajoute à cela, ceci est alors recommandé.\r",
+    "La prescription des ablutions une seule fois de temps à autre.\r",
+    "Ce qui est prescrit concernant l'essuyage de la tête est d'une seule fois."
+   ],
+   "mapping": "same HadeethEnc record id 65081; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:28+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/65081",
+   "text": "D'après Ibn 'Abbâs (qu'Allah les agrée tous les deux) qui a dit : Le Prophète ﷺ a effectué ses ablutions en une seule fois.",
+   "title": "Le Prophète ﷺ a effectué ses ablutions en une seule fois",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=65081",
+   "arabic_match": "exact",
+   "attribution": "HR. Bukhari",
+   "content_sha256": "sha256:f454bf6164c2c1edca51324d55d910a59361a59f2706fb9975990f881526cae3",
+   "explanation": "Di sebagian waktu ketika berwudu, Nabi ﷺ membasuh masing-masing anggota wudu satu kali. Beliau membasuh wajah -termasuk kumur-kumur dan memasukkan air ke hidung-, tangan dan kaki sebanyak satu kali. Inilah kadar yang wajib.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Yang wajib dalam membasuh anggota wudu ialah satu kali, selebihnya hukumnya mustahab.\r",
+    "2- Boleh berwudu satu kali-satu kali di sebagian waktu.\r",
+    "3- Yang disyariatkan dalam mengusap kepala ialah satu kali."
+   ],
+   "mapping": "same HadeethEnc record id 65081; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:28+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/65081",
+   "text": "Ibnu 'Abbās -raḍiyallāhu 'anhumā- berkata, \"Nabi ﷺ berwudu satu kali satu kali.\"",
+   "title": "Nabi ﷺ berwudu satu kali satu kali",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=65081",
+   "arabic_match": "exact",
+   "attribution": "رواه البخاري",
+   "content_sha256": "sha256:9100ac300b2570b29de57ebdba904aca9c7fb1660a2ea98ab7e6d043f78fd0a9",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم کبھی کبھی وضو کرتے وقت وضو کے سارے اعضا کو ایک ایک بار ہی دھویا کرتے تھے۔ چنانچہ ایک ہی بار چہرہ دھوتے (جس میں کلی کرنا اور ناک میں پانی ڈال کر ناک جھاڑنا بھی شامل ہے) اور دونوں ہاتھوں اور دونوں پیروں کو بھی ایک ایک بار ہی دھوتے۔ دراصل واجب ایک بار دھونا ہی ہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "اعضائے وضو کو ایک ایک بار دھونا واجب اور ایک سے زیادہ بار دھونا مستحب ہے۔\r",
+    "وضو کے اعضا کو کبھی کبھی ایک ایک بار ہی دھویا جا سکتا ہے۔\r",
+    "سر کا مسح ایک ہی بار کرنا مشروع ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 65081; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:28+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/65081",
+   "text": "عبداللہ بن عباس رضی اللہ عنہما سے روایت ہے، وہ کہتے ہیں : اللہ کے نبی صلی اللہ علیہ و سلم نے ایک ایک بار وضو کیا۔",
+   "title": "اللہ کے نبی صلی اللہ علیہ و سلم نے ایک ایک بار وضو کیا۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=65081",
+   "arabic_match": "exact",
+   "attribution": "布哈里辑录",
+   "content_sha256": "sha256:4763651ea5cf444dfd665683ec00aef302fc05e22d2078999203cbbd122c8658",
+   "explanation": "先知（愿主福安之）在有些时候，洗小净时洗每个肢体一次，洗脸，其中包括漱口和呛鼻，及洗双手和双脚一次，这是主命的最低限度。",
+   "grade": "正确的",
+   "hints": [
+    "主命是洗每个肢体一次，一次之上为可嘉。\r",
+    "有些时候洗小净洗每个肢体一次是教法认可的。\r",
+    "规定抹头一次。"
+   ],
+   "mapping": "same HadeethEnc record id 65081; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:28+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/65081",
+   "text": "据伊本·阿巴斯（愿主喜悦他俩）传述说： 先知（愿主福安之）洗了小净各部位一次。",
+   "title": "先知（愿主福安之）洗了小净各部位一次。",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

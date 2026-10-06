@@ -1,0 +1,63 @@
+{
+ "answer": [
+  [
+   {
+    "kind": "strong",
+    "text": "الجواب:"
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "لا بأس مر النبي ﷺ على نساء، وسلم عليهن، مر على جماعة من النساء، وسلم عليهن، عليه الصلاة والسلام."
+   }
+  ]
+ ],
+ "content_sha256": "sha256:9edb5da12796e3f59e9274f61fc0bd1428b1b9045d7ab8bb2acc72b82e787731",
+ "id": "binbaz-1313",
+ "language": "ar",
+ "notes": [],
+ "question": [
+  [
+   {
+    "kind": "strong",
+    "text": "السؤال:"
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "لو مر واحد على امرأة ما يعرفها، يرد عليها السلام؟"
+   }
+  ]
+ ],
+ "raw_sha256": "sha256:fcbc421dfee89b13d2f18fa99304f5bf9a9e18879f2f677791a8af0864fd40ec",
+ "reuse_basis": "user_confirmed_permission",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.fatwa/2",
+ "source": {
+  "edition": null,
+  "publisher": "binbaz.org.sa",
+  "publisher_name": "موقع الشيخ ابن باز",
+  "retrieved_at": "2026-10-06T03:52:45+00:00",
+  "series": "فتاوى الجامع الكبير",
+  "url": "https://binbaz.org.sa/fatwas/1313/%D9%87%D9%84-%D9%8A%D8%AC%D9%88%D8%B2-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1"
+ },
+ "source_categories": [
+  {
+   "id": "228",
+   "label": "الآداب والأخلاق المحمودة",
+   "url": "https://binbaz.org.sa/categories/objective/228"
+  },
+  {
+   "id": "252",
+   "label": "قضايا المرأة",
+   "url": "https://binbaz.org.sa/categories/objective/252"
+  }
+ ],
+ "source_record_id": "1313",
+ "title": "هل يجوز السلام على النساء؟",
+ "topic": "conduct",
+ "translations": {},
+ "type": "fatwa"
+}

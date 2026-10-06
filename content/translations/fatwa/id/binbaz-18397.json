@@ -1,0 +1,56 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-18397",
+ "source_content_sha256": "sha256:5654b1d1bfd127e75eaa2e9e0ee3d81ea0baef2b38ade21fb856aadcb4a54bd2",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:24:38.890679+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 803,
+  "completion_tokens": 781,
+  "total_tokens": 1584,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 803
+ },
+ "latency_ms": 7479,
+ "units": [
+  {
+   "id": "title",
+   "text": "Bagaimana cara meniatkan puasa di malam hari"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Mohon jelaskan kepada kami tentang niat puasa. Saya pernah mendengar sebuah hadis yang maknanya: 'Barangsiapa tidak meniatkan puasa di malam hari, maka tidak ada puasa baginya.' Bagaimana cara meniatkan puasa itu, apakah di dalam hati atau dengan mengucapkannya? Dan apa hukum orang yang lupa niat di malam hari, lalu berniat ketika makan sahur? Apakah sah puasa orang yang bangun tidur tepat pada waktu azan Subuh dan tidak sempat makan sahur, tetapi hanya berkumur-kumur lalu berpuasa? Apakah hal itu sah jika puasanya di bulan Ramadan, puasa sunnah, atau puasa nazar? Semoga Allah membalas Anda dengan kebaikan."
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Makna hadis tersebut adalah bahwa dia berniat di malam hari, sekalipun dia baru berniat mendekati waktu fajar. Kapan pun dia berniat, maka dia dianggap telah meniatkan puasanya di malam hari. Jadi, jika dia berniat di akhir malam, di tengah malam, atau di awal malam bahwa dia akan berpuasa besok, maka dia telah berniat. Ini semua berlaku untuk puasa wajib."
+  },
+  {
+   "id": "a2",
+   "text": "Adapun jika puasanya adalah puasa sunnah, maka tidak wajib baginya untuk berniat di malam hari. Jika dia berniat di siang hari sebelum makan atau sebelum melakukan hal yang membatalkan puasa, maka tidak mengapa baginya untuk berniat di siang hari. Hal ini berdasarkan hadis sahih dalam Sahih Muslim dari Aisyah radhiyallahu 'anha: Bahwa Nabi ﷺ pernah menemuinya pada suatu hari lalu bertanya, 'Apakah kalian punya sesuatu (makanan)?' Aisyah menjawab, 'Tidak.' Maka beliau bersabda, 'Kalau begitu, aku berpuasa.' Maka beliau berpuasa dari siang hari, 'alaihishshalatu wassalam. Jadi, jika seseorang memasuki waktu pagi dalam keadaan belum melakukan hal yang membatalkan puasa, tidak makan, tidak minum, dan tidak melakukan hal-hal lain yang membatalkan, kemudian dia berniat di siang hari untuk berpuasa, maka tidak mengapa. Puasanya dicatat sejak dia berniat, dan pahala orang yang berpuasa juga dicatat sejak dia berniat. Ini untuk puasa sunnah."
+  },
+  {
+   "id": "a3",
+   "text": "Adapun puasa Ramadan, puasa nazar, puasa kafarat, dan qadha puasa Ramadan, maka harus ada niat di malam hari. Karena yang wajib baginya adalah berpuasa sepanjang hari, dan hal itu tidak akan terwujud kecuali dengan niat sebelum masuk siang hari. Ya."
+  },
+  {
+   "id": "a4",
+   "text": "Pembawa acara: Semoga Allah membalas Anda dengan kebaikan."
+  }
+ ]
+}

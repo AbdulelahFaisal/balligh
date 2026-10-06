@@ -1,0 +1,164 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:8708df1211a79ea9e5ebe8e25e5610d304d665fdd152aefc022ed6d50d6bf87e",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يبين النبي صلى الله عليه وسلم عظيم فضل الله على المؤمنين، وعدله مع الكافرين. \nفأما المؤمن فلا ينقص ثواب حسنة عملها؛ بل يعطى بها في الدنيا حسنة على طاعته، مع ما يُدَّخر له من الجزاء في الآخرة؛ وقد يحفظ الجزاء كله له في الآخرة. \nوأما الكافر فيعطيه الله جزاء ما عمل من الحسنات بحسنات الدنيا، حتى إذا أفضى إلى الآخرة لم يكن له فيها ثواب يجزى بها؛ لأن العمل الصالح الذي ينفع في الدارين لا بد أن يكون صاحبه مؤمنًا.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "أنَّ مَن ماتَ على الكُفرِ لا يَنفَعُه عَملٌ."
+ ],
+ "id": "hadeethenc-65015",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (4/ 2162) (2808)، المفهم لما أشكل من تلخيص كتاب مسلم (1/ 460)، البحر المحيط الثجاج في شرح صحيح الإمام مسلم بن الحجاج (43/ 460)، شرح النووي على مسلم (17/150).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=65015",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:31+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/65015"
+ },
+ "source_categories": [
+  {
+   "id": "74",
+   "label": "توحيد الأسماء والصفات"
+  },
+  {
+   "id": "85",
+   "label": "الحياة الآخرة"
+  },
+  {
+   "id": "88",
+   "label": "الإسلام"
+  }
+ ],
+ "source_record_id": "65015",
+ "text": "عَنْ أَنَسِ بْنِ مَالِكٍ رضي الله عنه قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «إِنَّ اللهَ لَا يَظْلِمُ مُؤْمِنًا حَسَنَةً، يُعْطَى بِهَا فِي الدُّنْيَا وَيُجْزَى بِهَا فِي الْآخِرَةِ، وَأَمَّا الْكَافِرُ فَيُطْعَمُ بِحَسَنَاتِ مَا عَمِلَ بِهَا لِلَّهِ فِي الدُّنْيَا، حَتَّى إِذَا أَفْضَى إِلَى الْآخِرَةِ، لَمْ تَكُنْ لَهُ حَسَنَةٌ يُجْزَى بِهَا».",
+ "title": "إن الله لا يظلم مؤمنا حسنة، يعطى بها في الدنيا ويجزى بها في الآخرة",
+ "topic": "understanding_islam",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=65015",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:4c6f2edc8c3e16ae379ff3575ba14db912e2cbc6ea03aa08579b58f0e8114af9",
+   "explanation": "এ হাদীসে নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম মুমিনের উপরে আল্লাহর মহা করুণা ও কাফিরদের ক্ষেত্রে তাঁর ন্যায় বিচারের বর্ণনা দিয়েছেন। সুতরাং মুমিন ব্যক্তি কর্তৃক কৃত কোন ভালোকাজের সওয়াবের হ্রাস করা হয় না; বরং স্বীয় আনুগত্যের কারণে সে দুনিয়াতেও ভালো ফলাফল পায় আবার আখিরাতেও তার প্রতিদান জমা করা থাকে; আবার কখনো কখনো পুরো প্রতিদান আখিরাতের জন্য সংরক্ষিত থাকে। আর কাফির ব্যক্তির ভালোকাজের প্রতিদান আল্লাহ তা‘আলা দুনিয়াতে নি‘আমাতের মাধ্যমে দিয়ে থাকেন। এভাবে যখন সে আখিরাতে উপনীত হয়, তখন সেখানে তার প্রতিদান প্রাপ্তির কোন উপায় থাকে না। কেননা যে ভলো কাজ উভয়স্থানে উপকার করবে, এমন ভালোকাজের অধিকারীকে অবশ্যই মুমিন হতে হবে।",
+   "grade": "সহীহ",
+   "hints": [
+    "যে কুফুরী অবস্থায় মারা যাবে, তার কোন আমল তার উপকারে আসবে না।"
+   ],
+   "mapping": "same HadeethEnc record id 65015; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:16+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/65015",
+   "text": "আনাস ইবনু মালিক রদিয়াল্লাহু ‘আনহু হতে বর্ণিত, তিনি বলেছেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেন: “নিশ্চয় আল্লাহ কোন মুমিনের ভালোকাজের ব্যাপারে জুলুম করেন না; দুনিয়াতেও তিনি তার পুরস্কার দিয়ে থাকেন আবার আখিরাতেও তার প্রতিদান দিবেন। পক্ষান্তরে কাফির ব্যক্তিকে তার ভালোকাজ, যেগুলো সে আল্লাহর জন্য করেনি, সেগুলোর কারণে খেতে দেন এভাবে সে আখিরাতে উপনীত হবে আর তখন তার এমন কোন ভালোকাজ অবশিষ্ট থাকবে না, যার বিনিময়ে তাকে পুরস্কার দেয়া হবে।”",
+   "title": "“নিশ্চয় আল্লাহ কোন মুমিনের ভালোকাজের ব্যাপারে জুলুম করেন না",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=65015",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:7e283f33c9c7ba4ada8835a87813de592dd58b555be38e9c0acc1e64142c4a2a",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) demonstrates the great favor of Allah towards the believers and His justice towards the disbelievers. As for the believer, He does not diminish the reward of any good deed he performs. Rather, He gives him a reward for it in this world in return for his obedience, in addition to the reward He keeps in store for him in the Hereafter. He may also keep the whole reward for him in the Hereafter. As for the disbeliever, Allah gives him the reward for his virtuous deeds in the form of good things in this life. But when he goes to the Hereafter, he will have no reward. This is because the good deed that brings benefit in this world and in the Hereafter must be performed by a believer.",
+   "grade": "Authentic",
+   "hints": [
+    "If a person dies as a disbeliever, his good deeds will not avail him."
+   ],
+   "mapping": "same HadeethEnc record id 65015; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:16+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/65015",
+   "text": "Anas ibn Mālik (may Allah be pleased with him) reported: The Messenger of Allah (may Allah's peace and blessings be upon him) said: \"Allah does not wrong a believer in a good deed; he will be given on account of it in this world and will be rewarded for it in the Hereafter. As for the disbeliever, he will be given the reward for the good deeds he has not performed for the sake of Allah in this world, and when he comes to the Hereafter, there will be no good deed for which he can be rewarded.\"",
+   "title": "Allah does not wrong a believer in a good deed; he will be given on account of it in this world and will be rewarded for it in the Hereafter",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=65015",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:2e3af93aef782171d99b6321fe401a55283df0bbca54b57cc3024e3390976520",
+   "explanation": "Le Prophète (qu’Allah le couvre d’éloges et le préserve) explique l'immense grâce d'Allah sur les croyants et Sa justice à l'égard des mécréants. En ce qui concerne le croyant, Il ne diminuera en rien la rétribution d'une bonne action qu'il aura accomplie ; bien plus, Il lui donnera ici-bas une bonne action pour prix de son obéissance tout en lui gardant une rétribution dans l'au-delà ; Il peut aussi Lui garder toute la rétribution dans l'au-delà. Quant au mécréant, en guise de rétribution pour ce qu'il a accompli comme bonnes actions, Allah lui accorde des bonnes choses d'ici-bas jusqu'à ce qu'il soit conduit vers l'au-delà où aucune récompense ne l'attendra. Ceci, car pour que l'œuvre vertueuse soit bénéfique dans les deux demeures, elle doit être accomplie par un croyant.",
+   "grade": "Authentique",
+   "hints": [
+    "Quiconque meurt en étant mécréant, aucune œuvre ne lui est bénéfique."
+   ],
+   "mapping": "same HadeethEnc record id 65015; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:16+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/65015",
+   "text": "Anas ibn Mâlik (qu'Allah l'agrée) relate que le Messager d'Allah (qu’Allah le couvre d’éloges et le préserve) a dit : « Allah ne lèse jamais un croyant pour une bonne action qu’il a accomplie. Il lui est accordé  pour elle quelque chose ici-bas ainsi que la récompense dans l’au-delà ; quant au mécréant, les bonnes actions qu’il fait ici-bas se traduisent en nourriture accordée de sorte que, lorsqu’il arrivera dans l’au-delà, il n’aura plus aucune bonne action et ne pourra être récompensé. »",
+   "title": "Allah ne lèse jamais un croyant pour une bonne action qu’il a accomplie. Il lui est accordé  pour elle quelque chose ici-bas ainsi que la récompense dans l’au-delà",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=65015",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:79f89ae651968d4cc67a8950634dddc91bf9f4e9a24aefe5d492494453c93223",
+   "explanation": "Nabi ﷺ menjelaskan mengenai besarnya karunia Allah kepada orang-orang mukmin dan keadilan-Nya terhadap orang-orang kafir. Adapun orang yang beriman, maka tidak akan berkurang balasan satu kebaikan pun yang telah dia kerjakan, tetapi dia akan diberikan balasan kebaikan di dunia atas ketaatannya di samping balasan yang disimpan baginya di akhirat, dan bisa jadi seluruh balasannya disimpan di akhirat. Sedangkan orang kafir, Allah akan memberinya kebaikan-kebaikan dunia sebagai balasan kebaikan yang telah dia kerjakan, hingga ketika dia telah berpulang ke akhirat tidak ada lagi tersisa baginya balasan di sana, karena amal saleh yang berguna di dunia dan akhirat disyaratkan pelakunya harus beriman.",
+   "grade": "Sahih",
+   "hints": [
+    "Orang yang meninggal di atas kekafiran, maka amalnya tidak bermanfaat baginya."
+   ],
+   "mapping": "same HadeethEnc record id 65015; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:16+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/65015",
+   "text": "Anas bin Mālik -raḍiyallāhu 'anhu- meriwayatkan, Rasulullah ﷺ bersabda, \"Sesungguhnya Allah tidak akan menzalimi seorang mukmin walau satu kebaikan; dia akan diberi balasannya di dunia dan balasannya di akhirat. Adapun orang kafir, maka dia akan diberikan rezeki sebagai balasan kebaikan-kebaikan yang dia kerjakan karena Allah Ta'ala di dunia, hingga ketika dia telah berpulang ke akhirat, dia tidak lagi memiliki satu kebaikan pun yang akan diberikan balasan.\"",
+   "title": "Sesungguhnya Allah tidak akan menzalimi seorang mukmin walau satu kebaikan; dia akan diberi balasannya di dunia dan balasannya di akhirat",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=65015",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:ce69694334f46a182ebf8fdaf1f5c7c4a63d8c14503e2322f9229bb135984eb8",
+   "explanation": "نبی صلی اللہ علیہ وسلم نے اس حدیث میں مؤمنوں پر اللہ کے فضل واحسان اور کافروں کے تئیں اللہ کے عدل وانصاف کو بیان فرمایا ہے۔ جہاں تک مؤمن کی بات ہے، تو اس کی ایک نیکی کا بھی ثواب کم نہیں ہوتا، بلکہ اس کی اطاعت کے بدلے اسے دنیا میں بھی بھلائی ملتی ہے اور ساتھ میں آخرت کے لیے بھی ثواب ذخیرہ کیا جاتا ہے اور بسا اوقات اس کا تمام بدلہ آخرت کے لیے ہی محفوظ کر دیا جاتا ہے۔ رہی بات کافر کی، تو اس کی نیکیوں کے بدلے اسے دنیا میں ہی اللہ تعالی بھلائیاں دے دیتا ہے، یہاں تک کہ جب وہ آخرت میں پہنچے گا، تو اس کے لیے کوئی ثواب باقی نہ رہے گا، جس کا بدلہ اسے دیا جائے، کیوں کہ دنیا وآخرت میں جو نیک عمل کام آتا ہے، اس کے لیے ضروری ہے کہ کرنے والا مؤمن ہو۔",
+   "grade": "صحيح",
+   "hints": [
+    "جو شخص کفر کی حالت میں وفات پاتا ہے، اسے کوئی عمل فائدہ نہیں پہنچا سکتا ۔"
+   ],
+   "mapping": "same HadeethEnc record id 65015; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:16+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/65015",
+   "text": "انس بن مالک رضی اللہ عنہ سے روایت ہے، وہ کہتے ہیں کہ رسول اللہ ﷺ نے فرمایا: \"بے شک اللہ تعالیٰ کسی مؤمن کے ساتھ ایک نیکی کے معاملے میں بھی ظلم نہیں فرماتا۔ اس کے بدلے اسے دنیا میں بھی دیا جاتا ہے اور آخرت میں بھی اس کی جزا دی جاتی ہے۔ رہا کافر، تو اسے نیکیوں کے بدلے میں، جو اس نے دنیا میں اللہ کے لیے کی ہوتی ہیں، اسی دنیا میں کھلا (پلا) دیا جاتا ہے، حتیٰ کہ جب وہ آخرت میں پہنچتا ہے تو اس کے پاس کوئی نیکی باقی نہیں ہوتی، جس کی اسے جزا دی جائے\"۔",
+   "title": "بے شک اللہ تعالیٰ کسی مؤمن کے ساتھ ایک نیکی کے معاملے میں بھی ظلم نہیں فرماتا۔ اس کے بدلے اسے دنیا میں بھی دیا جاتا ہے اور آخرت میں بھی اس کی جزا دی جاتی ہے",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=65015",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:869f24c1f3ddf96468c8c7d3cb8740a9aa0bbd14f508da3db1928e54597e2f30",
+   "explanation": "先知（愿主福安之）阐明安拉对信士们的恩惠之巨大，及对不信者的公平公正。 至于信士，其善行之回赐不会减少，不仅在今世因其顺从安拉而得到嘉奖，而且还在后世为其贮藏了报酬，也许其所有的报酬都贮藏于后世。 至于不信者，安拉将因其善行在今世为其给予赏赐，而在后世他没有任何得以报酬的善行，因为有益于今后两世的善行，其条件是行善者必须是信士。",
+   "grade": "正确的",
+   "hints": [
+    "在否认安拉的状态下去世之人，其善功不会有益于他。"
+   ],
+   "mapping": "same HadeethEnc record id 65015; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:16+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/65015",
+   "text": "据艾奈斯·本·马利克（愿主喜悦之）传述说：安拉的使者（愿主福安之）说： 安拉不会亏待信士任何一点善行，在今世将给予嘉奖，后世亦给予报酬。至于不信者，凡今世所行善行，安拉将为其在今世加倍赏赐，直到后世，他没有任何得以报酬的善行。",
+   "title": "安拉不会亏待信士任何一点善行，在今世将给予嘉奖，后世亦给予报酬",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

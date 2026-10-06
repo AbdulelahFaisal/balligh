@@ -1,0 +1,174 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:1fa1c20657d41fe7aad20952874e7b7a8417895f9971eb2c625fccd88ee16296",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "أَخْبَرَ النبيُّ صلى الله عليه وسلم أنَّ حُبَّ الأنصار مِن أهل المدينة، علامةٌ على كمال الإيمان؛ وهذا لسابِقَتِهم في نُصرة الإسلام والنبي عليه الصلاة والسلام، والسعي في إيواء المسلمين، وبذلهم أموالهم وأنفسهم في سبيل الله، وأنَّ بُغضَهم عَلامةٌ على النفاق. \nثم بَيَّنَ صلى الله عليه وسلم أنَّ مَن أَحَبَّ الأنصار أحبَّه الله، ومَن أبغضهم أبغضَه الله.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "فيه مَنْقَبَة عظيمة للأنصار، فحُبُّهم علامةٌ على الإيمان وبراءةٌ من النفاق.",
+  "حُبُّ أولياء الله ونصرتهم سبب في حب الله للعبد.",
+  "فضل السابقين الأولين في الإسلام."
+ ],
+ "id": "hadeethenc-3438",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (5/ 32) (3783).\nصحيح مسلم (1/ 85) (75).\nبهجة الناظرين شرح رياض الصالحين، لسليم الهلالي (1/ 447).\nتطريز رياض الصالحين، لفيصل آل مبارك (ص257).\nكنوز رياض الصالحين، لمجموعة من الباحثين (6/ 258).\nشرح النووي على مسلم (2/ 63).\nنزهة المتقين شرح رياض الصالحين، مجموعة من الباحثين (1/ 350).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3438",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:29+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3438"
+ },
+ "source_categories": [
+  {
+   "id": "94",
+   "label": "شعب الإيمان"
+  },
+  {
+   "id": "101",
+   "label": "فضل الصحابة رضي الله عنهم"
+  }
+ ],
+ "source_record_id": "3438",
+ "text": "عَنِ الْبَرَاءِ رضي الله عنه: عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ قَالَ فِي الْأَنْصَارِ: «لَا يُحِبُّهُمْ إِلَّا مُؤْمِنٌ، وَلَا يُبْغِضُهُمْ إِلَّا مُنَافِقٌ، مَنْ أَحَبَّهُمْ أَحَبَّهُ اللهُ وَمَنْ أَبْغَضَهُمْ أَبْغَضَهُ اللهُ».",
+ "title": "عن النبي صلى الله عليه وسلم أنه قال في الأنصار: لا يحبهم إلا مؤمن، ولا يبغضهم إلا منافق، من أحبهم أحبه الله ومن أبغضهم أبغضه الله",
+ "topic": "understanding_islam",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3438",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:2e0d4baf826c3cf5eeb86d9518b5fa3bbe45eb6fdb2c05c28c65f46b0d627d90",
+   "explanation": "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এ হাদীসে সংবাদ দিয়েছেন যে, মদীনাবাসী আনসারদের ভালোবাসা পরিপূর্ণ ঈমানের আলামত। এর কারণ তারা ইসলাম, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামকে সহযোগিতায়, মুসলিমদেরকে আশ্রয় প্রদানে এবং তাদের জান ও মাল আল্লাহর পথে ব্যয়ে অগ্রগামী ছিলেন। তাদের প্রতি বিদ্বেষ পোষণ করা মুনাফিকের আলামত। অতঃপর নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বর্ণনা করেছেন , যে ব্যক্তি আনসার সাহাবীদেরকে ভালোবাসবে, আল্লাহও তাকে ভালোবাসবেন। আর যে ব্যক্তি তাদের প্রতি বিদ্বেষ রাখবে, আল্লাহও তার প্রতি বিদ্বেষ রাখবেন।",
+   "grade": "সহীহ",
+   "hints": [
+    "এতে আনসারী সাহাবীদের ফযীলত বর্ণিত হয়েছে। তাদেরকে ভালোবাসা ঈমানের আলামত এবং নিফাকী থেকে মুক্তির প্রমাণ ।\r",
+    "আল্লাহর ওলীদের ভালোবাসা এবং তাদেরকে সহযোগিতা করা বান্দাহর জন্যে আল্লাহর ভালোবাসা প্রাপ্তির একটি কারণ।\r",
+    "প্রাথমিক প্রথম ইসলাম গ্রহণকারীদের মর্যাদা বর্ণিত হয়েছে।"
+   ],
+   "mapping": "same HadeethEnc record id 3438; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:04+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3438",
+   "text": "আল-বারা রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত: নবী সাল্লাল্লাহ ‘আলাইহি ওয়াসাল্লাম আনসার সাহাবীদের সম্পর্কে বলেছেন:\n“তাদেরকে কেবল মু’মিনরাই ভালোবাসে এবং তাদের প্রতি কেবল মুনাফিকেই বিদ্বেষ রাখে। যে ব্যক্তি তাদেরকে ভালোবাসবে, আল্লাহও তাকে ভালোবাসবেন। আর যে ব্যক্তি তাদের প্রতি বিদ্বেষ রাখবে, আল্লাহও তার প্রতি বিদ্বেষ রাখবেন।”",
+   "title": "নবী সাল্লাল্লাহ ‘আলাইহি ওয়াসাল্লাম আনসার সাহাবীদের সম্পর্কে বলেছেন:\n“তাদেরকে কেবল মু’মিনরাই ভালোবাসে এবং তাদের প্রতি কেবল মুনাফিকেই বিদ্বেষ রাখে। যে ব্যক্তি তাদেরকে ভালোবাসবে, আল্লাহও তাকে ভালোবাসবেন। আর যে ব্যক্তি তাদের প্রতি বিদ্বেষ রাখবে, আল্লাহও তার প্রতি বিদ্বেষ রাখবেন।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3438",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:d2a3698c9d185e14d8ef7500b0d661760334f505fbd1a8f94871de0d60b09aa1",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) informed that having love for the Ansār from among the people of Madīnah is a sign of perfect faith given their precedence in supporting Islam and the Prophet (may Allah's peace and blessings be upon him), their keenness on sheltering Muslims, and their sacrifice of their properties and lives in the cause of Allah; and hating them is a sign of hypocrisy. The Prophet (may Allah's peace and blessings be upon him) then clarified that Allah loves whoever loves the Ansār and hates whoever hates them.",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth reveals the remarkable excellence of the Ansār since loving them is taken as a sign of faith and freedom from hypocrisy.\r",
+    "Loving the allies of Allah and supporting them is a cause for attaining the love of Allah.\r",
+    "The merit of the first forerunners in Islam."
+   ],
+   "mapping": "same HadeethEnc record id 3438; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:04+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3438",
+   "text": "Al-Barā’ (may Allah be pleased with him) reported: The Prophet (may Allah's peace and blessings be upon him) said about the Ansār (Supporters): \"No one loves them except a believer, and no one hates them except a hypocrite. Allah loves whoever loves them and hates whoever hates them.\"",
+   "title": "The Prophet (may Allah's peace and blessings be upon him) said about the Ansār (Supporters): \"No one loves them except a believer, and no one hates them except a hypocrite. Allah loves whoever loves them and hates whoever hates them",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=3438",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:bdaf5547d24726fc2515a07f7bc93ddc246a4a59503774f676f447234d3500a2",
+   "explanation": "Le Prophète ﷺ informe que l'amour des Ansârs qui sont les habitants de Médine est un signe de perfection de la foi ; ceci en raison de leur devancement dans le secours de l'Islam et du Prophète ﷺ, leur effort de donner asile aux musulmans et leur don de leurs biens et leurs personnes dans le sentier d'Allah. À l'inverse, détester les Ansârs est un signe d'hypocrisie. Ensuite, il ﷺ a expliqué que quiconque aime les Ansârs, alors Allah l'aime et quiconque les déteste, alors Allah le déteste.",
+   "grade": "Authentique",
+   "hints": [
+    "Dans ce hadith, il y a l'immense statut des Ansârs et que le fait de les aimer est un signe de la foi et un désaveu de l'hypocrisie.\r",
+    "L'amour des alliés d'Allah et leur secours est une cause de l'amour d'Allah pour le serviteur.\r",
+    "Le mérite des premiers devanciers dans l'Islam."
+   ],
+   "mapping": "same HadeethEnc record id 3438; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:04+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/3438",
+   "text": "D'après Al Barâ' (qu'Allah l'agrée) : Le Prophète ﷺ a dit au sujet des « Ansârs » : « Seul un croyant les aime, et seul un hypocrite les déteste. Quiconque les aime, Allah l’aimera, et quiconque les déteste, Allah le détestera. »",
+   "title": "Le Prophète ﷺ a dit au sujet des « Ansârs » : « Seul un croyant les aime, et seul un hypocrite les déteste. Quiconque les aime, Allah l’aimera, et quiconque les déteste, Allah le détestera.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3438",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:1b0f6bf6896547c83fd423116efcbff4f14d9fd161c3c44acade5a3dcce29f86",
+   "explanation": "Nabi ﷺ mengabarkan bahwa mencintai kaum Ansar dari kalangan penduduk Madinah adalah penanda kesempurnaan iman. Karena mereka lebih awal dalam membela Islam dan Nabi ﷺ, berjuang menampung kaum muslimin, serta mengorbankan harta dan jiwa mereka di jalan Allah. Dan sebaliknya, membenci mereka adalah tanda kemunafikan. Kemudian beliau ﷺ menerangkan, bahwa orang yang mencintai kaum Ansar akan dicintai Allah, dan sebaliknya orang yang membenci mereka akan dibenci Allah.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Di dalam hadis ini terkandung keutamaan besar kaum Ansar. Mencintai mereka adalah tanda keimanan dan bebas dari kemunafikan.\r",
+    "2- Mencintai wali-wali Allah dan menolong mereka adalah sebab mendapatkan cinta Allah kepada hamba.\r",
+    "3- Keutamaan orang-orang pertama dan terdahulu dalam Islam."
+   ],
+   "mapping": "same HadeethEnc record id 3438; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:04+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3438",
+   "text": "Al-Barā` -raḍiyallāhu 'anhu- meriwayatkan, Nabi ﷺ bersabda tentang kaum Ansar, \"Tidaklah mencintai mereka kecuali orang beriman, dan tidak membenci mereka kecuali orang munafik. Siapa yang mencintai mereka, Allah akan mencintainya. Sebaliknya, siapa yang membenci mereka, Allah akan membencinya.\"",
+   "title": "Nabi ﷺ bersabda tentang kaum Ansar, \"Tidaklah mencintai mereka kecuali orang beriman, dan tidak membenci mereka kecuali orang munafik. Siapa yang mencintai mereka, Allah akan mencintainya. Sebaliknya, siapa yang membenci mereka, Allah akan membencinya",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3438",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:5f32ebfa3562472c264c72efef404c95afc6b50daf2976abe915eac7b8ac70b9",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم نے بتایا ہے کہ مدینے میں رہنے والے انصار کی محبت کمال ایمان کی علامت ہے۔ ایسا اس لیے کہ انھوں نے اسلام اور اللہ کے نبی صلی اللہ علیہ و سلم کی بڑھ چڑھ کر مدد کی، مسلمانوں کو پناہ دینے کی کوشش کی اور اللہ کے راستے میں جان و مال کی قربانی دی۔ آپ نے بتایا کہ ان سے بغض نفاق کی علامت ہے۔ پھر اللہ کے رسول صلی اللہ علیہ و سلم نے بتایا ہے کہ جو انصار سے محبت رکھے گا، اللہ اس سے محبت رکھے گا اور جو انصار سے بغض رکھے گا، اللہ اس سے بغض رکھے گا۔",
+   "grade": "صحيح",
+   "hints": [
+    "اس حدیث میں انصار کی ایک بڑی فضیلت بیان کی گئی ہے کہ ان سے محبت نفاق سے براءت اور ایمان کی علامت ہے۔\r",
+    "اولیاء اللہ سے محبت اور ان کی نصرت سے اللہ کی محبت حاصل ہوتی ہے۔\r",
+    "اسلام لانے میں سبقت کرنے والی اولین جماعت کی فضیلت۔"
+   ],
+   "mapping": "same HadeethEnc record id 3438; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:04+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3438",
+   "text": "براء بن عازب رضی اللہ عنہ سے مروی ہے: وہ اللہ کے نبی صلی اللہ علیہ و سلم سے روایت کرتے ہیں کہ آپ نے انصار کے بارے میں فرمایا : \"ان سے صرف مومن ہی محبت رکھے گا اور ان سے صرف منافق ہی بغض رکھے گا۔ جو شخص ان سے محبت کرے گا، اس سے اللہ محبت کرے گا اور جو اُن سے بغض رکھے گا اس سے اللہ تعالیٰ بغض رکھے گا\"۔",
+   "title": "وہ اللہ کے نبی صلی اللہ علیہ و سلم سے روایت کرتے ہیں کہ آپ نے انصار کے بارے میں فرمایا : \"ان سے صرف مومن ہی محبت رکھے گا اور ان سے صرف منافق ہی بغض رکھے گا۔ جو شخص ان سے محبت کرے گا، اس سے اللہ محبت کرے گا اور جو اُن سے بغض رکھے گا اس سے اللہ تعالیٰ بغض رکھے گا\"۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3438",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:798c32ed88f433ad21f31763728aafd44bd7b1e16330392df54db3e646ca9643",
+   "explanation": "先知（愿主福安之）告诉我们，喜爱麦地那的辅士是完美的信仰之标志，这是因为他们先于支持伊斯兰以及使者（愿主福安之），积极的保护穆斯林，他们为安拉的道路付出了他们财产和生命，所以讨厌他们便是伪信士的标志。 然后使者（愿主福安之）阐明，凡喜爱辅士者，安拉便喜爱之，凡讨厌辅士者，安拉便讨厌之。",
+   "grade": "正确的",
+   "hints": [
+    "圣训中有对辅士的巨大的褒奖，喜爱他们是信仰的标志，是与伪信脱离干系。\r",
+    "喜欢安拉的朋友并援助他们，是安拉喜爱仆人的因素。\r",
+    "伊斯兰教先辈们的尊贵。"
+   ],
+   "mapping": "same HadeethEnc record id 3438; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:04+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3438",
+   "text": "拜拉伊·本·阿兹布（愿主喜悦之）传述： 使者（愿主福安之）传述，他针对辅士们说：“只有信士喜欢他们，只有伪信士讨厌他们。谁喜欢辅士，安拉便喜爱他，谁讨厌辅士，安拉便讨厌他。”",
+   "title": "使者（愿主福安之）传述，他针对辅士们说：“只有信士喜欢他们，只有伪信士讨厌他们。谁喜欢辅士，安拉便喜爱他，谁讨厌辅士，安拉便讨厌他。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

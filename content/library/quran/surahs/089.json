@@ -1,0 +1,1029 @@
+{
+ "ayah_count": 30,
+ "ayahs": [
+  {
+   "arabic": "وَٱلۡفَجۡرِ",
+   "aya": 1,
+   "id": 5994,
+   "tafsir": {
+    "arabic_moyassar": "أقسم الله سبحانه بوقت الفجر، والليالي العشر الأوَل من ذي الحجة وما شرفت به، وبكل شفع وفرد، وبالليل إذا يَسْري بظلامه، أليس في الأقسام المذكورة مَقْنَع لذي عقل؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "শপথ ফজরের,"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "By the dawn,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Par l’aube !"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Demi fajar,"
+    },
+    "ur": {
+     "footnotes": "[1] اس سے مراد مطلق فجر ہے، کسی خاص دن کی فجر نہیں۔",
+     "text": "قسم ہے فجر کی![1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "誓以黎明，"
+    }
+   }
+  },
+  {
+   "arabic": "وَلَيَالٍ عَشۡرٖ",
+   "aya": 2,
+   "id": 5995,
+   "tafsir": {
+    "arabic_moyassar": "أقسم الله سبحانه بوقت الفجر، والليالي العشر الأوَل من ذي الحجة وما شرفت به، وبكل شفع وفرد، وبالليل إذا يَسْري بظلامه، أليس في الأقسام المذكورة مَقْنَع لذي عقل؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "শপথ (যুলহাজ্জের প্রথম) দশ রাতের,"
+    },
+    "en": {
+     "footnotes": "[1] i.e., the first ten nights of the lunar month of Dhul-Hijjah.",
+     "text": "and the ten nights[1],"
+    },
+    "fr": {
+     "footnotes": "[1] C’est-à-dire, selon la majorité des exégètes, les dix premiers jours du mois de Dhou Al-Hijjah au cours desquels se déroulent les rites du pèlerinage. Rappelons que les Arabes emploient indistinctement le mot « jour » et le mot « nuit » pour désigner une journée.",
+     "text": "Par les dix nuits[1] !"
+    },
+    "id": {
+     "footnotes": "[906] Maksudnya sepuluh pertama pada bulan Zulhijah. Ada juga yang mengatakan malam sepuluh terakhir dari bulan Ramadan. Dan ada pula yang mengatakan sepuluh yang pertama dari bulan Muharam termasuk di dalamnya hari Asyura.",
+     "text": "demi malam yang sepuluh,[906]"
+    },
+    "ur": {
+     "footnotes": "[1] اس سے اکثر مفسرین کے نزدیک ذوالحجہ کی ابتدائی دس راتیں ہیں۔ جن کی فضیلت احادیث سے ثابت ہے۔ نبی (صلى الله عليه وسلم) نے فرمایا ”عشرہ ذوالحجہ میں کیے گئے عمل صالح اللہ کو سب سے زیادہ محبوب ہیں۔ حتیٰ کہ جہاد فی سبیل اللہ بھی اتنا پسندیدہ نہیں، سوائے اس جہاد کے جس میں انسان شہید ہی ہو جائے“۔ (البخاري، كتاب العيدين، باب فضل العمل في أيام التشريق)۔",
+     "text": "اور دس راتوں کی![1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "与十夜，"
+    }
+   }
+  },
+  {
+   "arabic": "وَٱلشَّفۡعِ وَٱلۡوَتۡرِ",
+   "aya": 3,
+   "id": 5996,
+   "tafsir": {
+    "arabic_moyassar": "أقسم الله سبحانه بوقت الفجر، والليالي العشر الأوَل من ذي الحجة وما شرفت به، وبكل شفع وفرد، وبالليل إذا يَسْري بظلامه، أليس في الأقسام المذكورة مَقْنَع لذي عقل؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১) জোড় এর অর্থ ইয়াওমুন্নাহর (কুরবানীর দিন) এবং বেজোড় এর অর্থ আরাফা দিবস অথবা জোড় বলে সকল জোড় সালাত আর বেজোড় বলে বিতর ও মাগরিবের সালাত অথবা জোড় বলে সমগ্র সৃষ্টজগত এবং বিজোড় বলে আল্লাহকে বুঝানো হয়েছে।",
+     "text": "শপথ জোড় ও বিজোড়ের।(১)"
+    },
+    "en": {
+     "footnotes": "[2] Of the things.",
+     "text": "and the even and the odd[2],"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Par le pair et l’impair !"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "demi yang genap dan yang ganjil,"
+    },
+    "ur": {
+     "footnotes": "[1] اس سے مراد جفت اور طاق عدد ہیں یا وہ معدودات جو جفت اور طاق ہوتے ہیں۔ بعض کہتے ہیں، کہ یہ دراصل مخلوق کی قسم ہے، اس لئے کہ مخلوق جفت (جوڑا) یا طاق (فرد) ہے۔ اس کے علاوہ نہیں۔ (ایسر التفاسیر)۔",
+     "text": "اور جفت اور طاق کی![1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "与偶数和奇数，"
+    }
+   }
+  },
+  {
+   "arabic": "وَٱلَّيۡلِ إِذَا يَسۡرِ",
+   "aya": 4,
+   "id": 5997,
+   "tafsir": {
+    "arabic_moyassar": "أقسم الله سبحانه بوقت الفجر، والليالي العشر الأوَل من ذي الحجة وما شرفت به، وبكل شفع وفرد، وبالليل إذا يَسْري بظلامه، أليس في الأقسام المذكورة مَقْنَع لذي عقل؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "শপথ রাতের, যখন তা বিদায় নেয়।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and by the night when it comes,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Par la nuit qui s’écoule!"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "demi malam apabila berlalu."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی جب آئے اور جب جائے، کیوں کہ سَيْرٌ (چلنا) آتے، جاتے دونوں صورتوں میں ہوتا ہے۔",
+     "text": "اور رات کی جب وه چلنے لگے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "与离去的黑夜，"
+    }
+   }
+  },
+  {
+   "arabic": "هَلۡ فِي ذَٰلِكَ قَسَمٞ لِّذِي حِجۡرٍ",
+   "aya": 5,
+   "id": 5998,
+   "tafsir": {
+    "arabic_moyassar": "أقسم الله سبحانه بوقت الفجر، والليالي العشر الأوَل من ذي الحجة وما شرفت به، وبكل شفع وفرد، وبالليل إذا يَسْري بظلامه، أليس في الأقسام المذكورة مَقْنَع لذي عقل؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "নিশ্চয়ই এগুলোর মধ্যে কি বোধশক্তিসম্পন্ন ব্যক্তির জন্য শপথ রাখা হয়েছে?"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "are these oaths not sufficient for those who have sense?"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "N’y a-t-il pas dans ces serments de quoi convaincre tout être sensé ?"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Adakah pada yang demikian itu terdapat sumpah (yang dapat diterima) bagi orang-orang yang berakal?"
+    },
+    "ur": {
+     "footnotes": "[1] ذَلِكَ سے مذکور مقسم بہ اشیا کی طرف اشارہ ہے یعنی کیا ان کی قسم اہل عقل ودانش کے واسطے کافی نہیں ہے ؟ حِجْرٌ کے معنی ہوتے ہیں، روکنا، منع کرنا۔ انسانی عقل بھی انسان کو غلط کاموں سے روکتی ہے، اس لئے عقل کو بھی حجر کہا جاتا ہے، جس طرح اسی مفہوم کے اعتبار سے اسے نھیہ بھی کہتے ہیں۔ جواب قسم یا مقسم علیہ لَتُبْعَثُنَّ ہے کیوں کہ مکی سورتوں میں عقیدے کی اصلاح پر زور دیا گیا ہے۔ بعض کے نزدیک جواب قسم آگے آنے والے الفاظ ”إِنَّ رَبَّكَ لَبِالْمِرْصَادِ“ ہے۔ آگے بہ طریق استشہاد اللہ تعالیٰ بعض ان قوموں کا ذکر فرما رہاہے جو تکذیب وعناد کی بنا پر ہلاک کی گئی تھیں۔ مقصد اہل مکہ کو تنبیہ ہے کہ اگر تم ہمارے رسول (صلى الله عليه وسلم) کی تکذیب سے باز نہ آئے تو تمہارا بھی اسی طرح مواخذہ ہو سکتا ہے، جیسے گزشتہ قوموں کا اللہ نے کیا۔",
+     "text": "کیا ان میں عقلمند کے واسطے کافی قسم ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "对于有理智者，此中有一种盟誓吗？"
+    }
+   }
+  },
+  {
+   "arabic": "أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِعَادٍ",
+   "aya": 6,
+   "id": 5999,
+   "tafsir": {
+    "arabic_moyassar": "ألم تر -أيها الرسول- كيف فعل ربُّك بقوم عاد، قبيلة إرم، ذات القوة والأبنية المرفوعة على الأعمدة، التي لم يُخلق مثلها في البلاد في عِظَم الأجساد وقوة البأس؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "হে রাসূল! তুমি কি দেখোনি তোমার রব কিরূপ আচরণ করেছেন, ‘আদ জাতির সাথে?"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Have you not considered how your Lord dealt with ‘Ād"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "N’as-tu pas su le sort réservé par ton Seigneur aux ‘Ad,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Tidakkah engkau (Muhammad) memperhatikan bagaimana Tuhanmu berbuat terhadap (kaum) 'Ād?"
+    },
+    "ur": {
+     "footnotes": "[1] ان کی طرف حضرت ہود (عليه السلام) نبی بنا کر بھیجے گئے تھے انہوں نے تکذیب کی، بالآخر اللہ تعالیٰ نے سخت ہوا کا عذاب ان پر نازل کیا جو متواتر سات راتیں اور آٹھ دن چلتی رہی ( الحاقہ: 7 - 10 ) اور انہیں تہس نہس کرکے رکھ دیا۔",
+     "text": "کیا آپ نے نہیں دیکھا کہ آپ کے رب نے عادیوں کے ساتھ کیا کیا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "难道你不知道你的养主怎样惩治阿德人——"
+    }
+   }
+  },
+  {
+   "arabic": "إِرَمَ ذَاتِ ٱلۡعِمَادِ",
+   "aya": 7,
+   "id": 6000,
+   "tafsir": {
+    "arabic_moyassar": "ألم تر -أيها الرسول- كيف فعل ربُّك بقوم عاد، قبيلة إرم، ذات القوة والأبنية المرفوعة على الأعمدة، التي لم يُخلق مثلها في البلاد في عِظَم الأجساد وقوة البأس؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "(যারা ছিলো) ইরাম গোত্রভুক্ত, তারা ছিল সুউচ্চ স্তম্ভের (মতো দেহাবয়বের) অধিকারী?"
+    },
+    "en": {
+     "footnotes": "[3] Iram: an ancient tribe; or a well-known tribe in Yemen; or the grandfather of the people of ‘Aad, etc. Prophet Hūd was sent to the people of ‘Aad.",
+     "text": "of Iram[3], who were people of great stature,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "le peuple d’Iram, à la stature et à la force imposantes,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(yaitu) penduduk Iram (ibukota kaum 'Ād) yang mempunyai bangunan-bangunan yang tinggi,"
+    },
+    "ur": {
+     "footnotes": "[1] إِرَمَ، عَادٍ سے عطف بیان یا بدل ہے۔ یہ قوم عاد کے دادا کا نام ہے۔ ان کا سلسلہ نسب ہے، عاد بن عوص بن ارم بن سام بن نوح۔ ( فتح القدیر ) اس کا مقصد یہ وضاحت ہے کہ یہ عاد اولیٰ ہے۔ ذات العماد ( ستونوں والے ) سے اشارہ ہے ان کی قوت وطاقت اور دراز قامتی کی طرف۔ علاوہ ازیں وہ فن تعمیر میں بھی بڑی مہارت رکھتے تھے اور نہایت مضبوط بنیادوں پر عظم الشان عمارتیں تعمیر کرتے تھے۔ ذات العماد میں دونوں مفہوم شامل ہیں۔",
+     "text": "ستونوں والے ارم کے ساتھ.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "有高柱的伊赖姆人吗？"
+    }
+   }
+  },
+  {
+   "arabic": "ٱلَّتِي لَمۡ يُخۡلَقۡ مِثۡلُهَا فِي ٱلۡبِلَٰدِ",
+   "aya": 8,
+   "id": 6001,
+   "tafsir": {
+    "arabic_moyassar": "ألم تر -أيها الرسول- كيف فعل ربُّك بقوم عاد، قبيلة إرم، ذات القوة والأبنية المرفوعة على الأعمدة، التي لم يُخلق مثلها في البلاد في عِظَم الأجساد وقوة البأس؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "যাদের সমতুল্য (অন্য কোন জাতিকে) কোন দেশে সৃষ্টি করা হয়নি।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "the like of whom had never been created in the land;"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "- nul peuple semblable à lui ne fut jamais créé sur terre -"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "yang belum pernah dibangun (suatu kota) seperti itu, di negeri-negeri lain,"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی ان جیسی دراز قامت اور قوت وطاقت والی قوم کوئی اور پیدا نہیں ہوئی۔ یہ قوم کہا کرتی تھی مَنْ أَشَدُّ مِنَّا قُوَّةً ( حم السجدة،: 15 ) (ہم سے زیادہ کوئی طاقت ور ہے) ؟۔",
+     "text": "جس کی مانند (کوئی قوم) ملکوں میں پیدا نہیں کی گئی.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "像那样的人，在别的城市里还没有被创造过的——"
+    }
+   }
+  },
+  {
+   "arabic": "وَثَمُودَ ٱلَّذِينَ جَابُواْ ٱلصَّخۡرَ بِٱلۡوَادِ",
+   "aya": 9,
+   "id": 6002,
+   "tafsir": {
+    "arabic_moyassar": "وكيف فعل بثمود قوم صالح الذين قطعوا الصخر بالوادي واتخذوا منه بيوتًا؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর (তোমার রব কীরূপ আচরণ করেছিলেন) সামূদ সম্প্রদায়ের প্রতি, যারা উপত্যকায় পাথর কেটে বাড়ি ঘর নির্মাণ করেছিল?"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and Thamūd, who carved out the rocks in the Valley;"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "aux Thamoud qui, dans leur vallée, taillaient des demeures dans le roc,"
+    },
+    "id": {
+     "footnotes": "[907] Lembah ini terletak di bagian utara Jazirah Arab antara kota Madinah dan Syam. Mereka memotong-motong batu gunung untuk membangun gedung-gedung tempat tinggal mereka dan ada pula yang melubangi gunung-gunung untuk tempat tinggal mereka dan tempat berlindung.",
+     "text": "dan (terhadap) kaum Samud yang memotong batu-batu besar di lembah,[907]"
+    },
+    "ur": {
+     "footnotes": "[1] یہ حضرت صالح (عليه السلام) کی قوم تھی، اللہ نے اسے پتھر تراشنے کی خاص صلاحیت وقوت عطا کی تھی، حتیٰ کہ یہ لوگ پہاڑوں کو تراش کر ان میں اپنی رہائش گاہیں تعمیر کر لیتے تھے، جیسا کہ قرآن نے کہا ہے وَتَنْحِتُونَ مِنَ الْجِبَالِ بُيُوتًا فَارِهِينَ ( الشعراء: 149 ) ۔",
+     "text": "اور ثمودیوں کے ساتھ جنہوں نے وادی میں بڑے بڑے پتھر تراشے تھے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "怎样惩治在山谷里凿石为家的赛莫德人，"
+    }
+   }
+  },
+  {
+   "arabic": "وَفِرۡعَوۡنَ ذِي ٱلۡأَوۡتَادِ",
+   "aya": 10,
+   "id": 6003,
+   "tafsir": {
+    "arabic_moyassar": "وكيف فعل بفرعون مَلِك «مصر» ، صاحب الجنود الذين ثبَّتوا مُلْكه، وقوَّوا له أمره؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর কীলক গেঁথে শাস্তি প্রদানকারী ফির‘আউনের প্রতি?"
+    },
+    "en": {
+     "footnotes": "[4] Or the owner of the stakes by which he used to torture people.",
+     "text": "and the mighty and powerful[4] Pharaoh?"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "et à Pharaon, l’homme au pouvoir fermement établi ?"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan (terhadap) Fir'aun yang mempunyai pasak-pasak (bangunan yang besar),"
+    },
+    "ur": {
+     "footnotes": "[1] اس کا مطلب یہ ہے کہ بڑے لشکروں والا تھا جس کے پاس میخوں کی کثرت تھی جنہیں میخیں گاڑ کر کھڑا کیا جاتا تھا۔ یا اس سے اس کے ظلم وستم کی طرف اشارہ ہے کہ میخوں کے ذریعے وہ لوگوں کو سزائیں دیتا تھا۔ (فتح القدیر) ۔",
+     "text": "اور فرعون کے ساتھ جو میخوں واﻻ تھا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "怎样惩治有武力的法老。"
+    }
+   }
+  },
+  {
+   "arabic": "ٱلَّذِينَ طَغَوۡاْ فِي ٱلۡبِلَٰدِ",
+   "aya": 11,
+   "id": 6004,
+   "tafsir": {
+    "arabic_moyassar": "هؤلاء الذين استبدُّوا، وظلموا في بلاد الله، فأكثروا فيها بظلمهم الفساد، فصب عليهم ربُّك عذابا شديدا. إنَّ ربك -أيها الرسول- لبالمرصاد لمن يعصيه، يمهله قليلا ثم يأخذه أخْذَ عزيز مقتدر."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "যারা দেশে দেশে সীমালঙ্ঘন করেছিল।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "All of them transgressed in the land,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Tous ont outrepassé les limites de l’impiété dans leur pays"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "yang berbuat sewenang-wenang dalam negeri,"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "ان سبھوں نے شہروں میں سر اٹھا رکھا تھا."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "这等人曾在国中放肆，"
+    }
+   }
+  },
+  {
+   "arabic": "فَأَكۡثَرُواْ فِيهَا ٱلۡفَسَادَ",
+   "aya": 12,
+   "id": 6005,
+   "tafsir": {
+    "arabic_moyassar": "هؤلاء الذين استبدُّوا، وظلموا في بلاد الله، فأكثروا فيها بظلمهم الفساد، فصب عليهم ربُّك عذابا شديدا. إنَّ ربك -أيها الرسول- لبالمرصاد لمن يعصيه، يمهله قليلا ثم يأخذه أخْذَ عزيز مقتدر."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(২) কুফরী ও পাপাচার ছড়ানোর মাধ্যমে।",
+     "text": "অতঃপর তারা সেখানে(২) বিপর্যয় বৃদ্ধি করেছিল।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and spread therein much corruption,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "où ils n’ont cessé de semer la corruption et le péché."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "lalu mereka banyak berbuat kerusakan dalam negeri itu,"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "اور بہت فساد مچا رکھا تھا."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "乃多行不义，"
+    }
+   }
+  },
+  {
+   "arabic": "فَصَبَّ عَلَيۡهِمۡ رَبُّكَ سَوۡطَ عَذَابٍ",
+   "aya": 13,
+   "id": 6006,
+   "tafsir": {
+    "arabic_moyassar": "هؤلاء الذين استبدُّوا، وظلموا في بلاد الله، فأكثروا فيها بظلمهم الفساد، فصب عليهم ربُّك عذابا شديدا. إنَّ ربك -أيها الرسول- لبالمرصاد لمن يعصيه، يمهله قليلا ثم يأخذه أخْذَ عزيز مقتدر."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "ফলে তোমার রব তাদের ওপর শাস্তির কশাঘাত করলেন।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "so your Lord poured upon them a scourge of punishment."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Ton Seigneur les frappa donc de Son châtiment."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "karena itu Tuhanmu menimpakan cemeti azab kepada mereka,"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی ان پر آسمان سے اپنا عذاب نازل فرما کر ان کو تباہ وبرباد یا انہیں عبرت ناک انجام سےدوچار کر دیا۔",
+     "text": "آخر تیرے رب نے ان سب پر عذاب کا کوڑا برسایا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "故你的养主把一种刑罚，倾注在他们身上。"
+    }
+   }
+  },
+  {
+   "arabic": "إِنَّ رَبَّكَ لَبِٱلۡمِرۡصَادِ",
+   "aya": 14,
+   "id": 6007,
+   "tafsir": {
+    "arabic_moyassar": "هؤلاء الذين استبدُّوا، وظلموا في بلاد الله، فأكثروا فيها بظلمهم الفساد، فصب عليهم ربُّك عذابا شديدا. إنَّ ربك -أيها الرسول- لبالمرصاد لمن يعصيه، يمهله قليلا ثم يأخذه أخْذَ عزيز مقتدر."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "নিশ্চয় তোমার রব (মানুষের আমলগুলোর প্রতি) সতর্ক দৃষ্টি রাখেন।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Indeed, your Lord is ever vigilant."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Ton Seigneur observe les hommes attentivement."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "sungguh, Tuhanmu benar-benar mengawasi."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی تمام مخلوقات کے اعمال دیکھ رہا ہے اور اس کے مطابق وہ دنیا اور آخرت میں جزا دیتا ہے۔",
+     "text": "یقیناً تیرا رب گھات میں ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你的养主，确是监视的。"
+    }
+   }
+  },
+  {
+   "arabic": "فَأَمَّا ٱلۡإِنسَٰنُ إِذَا مَا ٱبۡتَلَىٰهُ رَبُّهُۥ فَأَكۡرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّيٓ أَكۡرَمَنِ",
+   "aya": 15,
+   "id": 6008,
+   "tafsir": {
+    "arabic_moyassar": "فأما الإنسان إذا ما اختبره ربه بالنعمة، وبسط له رزقه، وجعله في أطيب عيش، فيظن أن ذلك لكرامته عند ربه، فيقول: ربي أكرمن."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর মানুষ তো এমন যে, যখন তার রব তাকে পরীক্ষা করেন, অতঃপর তাকে সম্মান দান করেন এবং (সম্পদ ও সন্তানাদি দ্বারা) অনুগ্রহ প্রদান করেন, তখন সে বলে: ‘আমার রব আমাকে সম্মানিত করেছেন।’"
+    },
+    "en": {
+     "footnotes": "[5] Instead of being grateful, he is proud, attributing the favor to his own merit.",
+     "text": "As for man, when he is tested by his Lord by honoring him and bestowing blessings upon him, he says, “My Lord has [deservedly] honored me[5]!”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Lorsque son Seigneur, pour l’éprouver, le comble de grâce et d’honneur, l’homme se vante d’avoir été honoré par son Seigneur."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Adapun manusia, apabila Tuhan mengujinya lalu memuliakannya dan memberinya kesenangan, maka dia berkata, \"Tuhanku telah memuliakanku.\""
+    },
+    "ur": {
+     "footnotes": "[1] یعنی جب اللہ کسی کو رزق ودولت کی فراوانی عطا فرماتا ہے تو وہ اپنی بابت اس غلط فہمی کا شکار ہو جاتا ہے کہ اللہ اس پر بہت مہربان ہے، حالانکہ یہ فراوانی امتحان اور آزمائش کے طور پر ہوتی ہے۔",
+     "text": "انسان (کا یہ حال ہے کہ) جب اسے اس کا رب آزماتا ہے اور عزت ونعمت دیتا ہے تو وه کہنے لگتا ہے کہ میرے رب نے مجھے عزت دار بنایا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "至于人，当他的养主考验他，故优待他，而且使他过安逸生活的时候，他说：“我的养主优待我了。”"
+    }
+   }
+  },
+  {
+   "arabic": "وَأَمَّآ إِذَا مَا ٱبۡتَلَىٰهُ فَقَدَرَ عَلَيۡهِ رِزۡقَهُۥ فَيَقُولُ رَبِّيٓ أَهَٰنَنِ",
+   "aya": 16,
+   "id": 6009,
+   "tafsir": {
+    "arabic_moyassar": "وأما إذا ما اختبره، فضيَّق عليه رزقه، فيظن أن ذلك لهوانه على الله، فيقول: ربي أهانن."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "পক্ষান্তরে যখন তিনি তাকে পরীক্ষা করেন এবং তার ওপর তার রিযককে সঙ্কুচিত করে দেন, তখন সে বলে: ‘আমার রব আমাকে অপমান করেছেন।’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "But when he is tested by restricting his provision, he says, “My Lord has [undeservedly] humiliated me!”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Et lorsqu’Il l’éprouve en lui mesurant Ses faveurs, l’homme se plaint d’avoir été humilié par son Seigneur."
+    },
+    "id": {
+     "footnotes": "[908] Allah menyalahkan orang yang mengatakan bahwa kekayaan itu adalah suatu kemuliaan, dan kemiskinan adalah suatu kehinaan seperti yang tersebut pada ayat 15 dan 16. Tetapi sebenarnya kekayaan dan kemiskinan adalah ujian Allah bagi hamba-hamba-Nya.",
+     "text": "Namun apabila Tuhan mengujinya lalu membatasi rezekinya, maka dia berkata, \"Tuhanku telah menghinaku.\"[908]"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی وہ تنگی میں مبتلا کرکے آزماتا ہے تو اللہ کے بارے میں بدگمانی کا اظہار کرتا ہے۔",
+     "text": "اور جب وه اس کو آزماتا ہے اس کی روزی تنگ کر دیتا ہے تو وه کہنے لگتا ہے کہ میرے رب نے میری اہانت کی (اور ذلیل کیا).[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "当他考验他，故节制他的给养的时候，他说：“我的养主凌辱我了。”"
+    }
+   }
+  },
+  {
+   "arabic": "كَلَّاۖ بَل لَّا تُكۡرِمُونَ ٱلۡيَتِيمَ",
+   "aya": 17,
+   "id": 6010,
+   "tafsir": {
+    "arabic_moyassar": "ليس الأمر كما يظن هذا الإنسان، بل الإكرام بطاعة الله، والإهانة بمعصيته، وأنتم لا تكرمون اليتيم الذي مات أبوه وهو صغير، ولا تحسنون معاملته، ولا يَحُثُّ بعضكم بعضًا على إطعام المحتاج الذي لا يملك ما يكفيه ويسد حاجته، وتأكلون حقوق الآخرين في الميراث أكلا شديدًا، وتحبون المال حبًا مفرطًا."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "কখনো নয়; বরং তোমরা ইয়াতীমদের প্রতি দয়া-অনুগ্রহ প্রদর্শন করো না।"
+    },
+    "en": {
+     "footnotes": "[6] It is not as you think. Allah puts people to test through prosperity and hardship and rewards their gratitude and patience in the Hereafter.",
+     "text": "No indeed[6]! You are not kind to the orphan,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Non ! C’est plutôt que vous ne traitez pas l’orphelin avec bonté"
+    },
+    "id": {
+     "footnotes": "[909] Tidak memberikan hak-hak anak yatim dan tidak berbuat baik kepadanya.",
+     "text": "Sekali-kali tidak! Bahkan kamu tidak memuliakan anak yatim,[909]"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی بات اس طرح نہیں ہے جیسے لوگ سمجھتے ہیں۔ اللہ تعالیٰ مال اپنے محبوب بندوں کو بھی دیتا ہے اور ناپسندیدہ افراد کو بھی، تنگی میں بھی وہ اپنوں اور بیگانوں دونوں کو مبتلا کرتا ہے۔ اصل مدار دونوں حالتوں میں اللہ کی اطاعت پر ہے۔ جب اللہ مال دے تو اللہ کا شکر کرے، تنگی آئے تو صبر کرے۔\n[2] یعنی ان کے ساتھ وہ حسن سلوک نہیں کرتے جس کے وہ مستحق ہیں، نبی (صلى الله عليه وسلم) کا فرمان ہے ”وہ گھر سب سے بہتر ہے جس میں یتیم کے ساتھ اچھا برتاؤ کیا جائے اور وہ گھر بدترین ہے جس میں اس کے ساتھ بدسلوکی کی جائے۔ پھر انگلی کے ساتھ اشارہ کرکے فرمایا، میں اور یتیم کی کفالت کرنے والا جنت میں اس طرح ساتھ ساتھ ہوں گے جیسے یہ دونگلیاں ساتھ ملی ہوئی ہیں“۔ ( أبو داود، كتاب الأدب، باب في ضم اليتيم)",
+     "text": "ایسا ہرگز نہیں[1] بلکہ (بات یہ ہے) کہ تم (ہی) لوگ یتیموں کی عزت نہیں کرتے.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "绝不然！但你们不优待孤儿，"
+    }
+   }
+  },
+  {
+   "arabic": "وَلَا تَحَٰٓضُّونَ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ",
+   "aya": 18,
+   "id": 6011,
+   "tafsir": {
+    "arabic_moyassar": "ليس الأمر كما يظن هذا الإنسان، بل الإكرام بطاعة الله، والإهانة بمعصيته، وأنتم لا تكرمون اليتيم، ولا تحسنون معاملته، ولا يَحُثُّ بعضكم بعضًا على إطعام المسكين، وتأكلون حقوق الآخرين في الميراث أكلا شديدًا، وتحبون المال حبًا مفرطًا."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর তোমরা মিসকীনদের (অভুক্তদেরকে) খাদ্যদানে পরস্পরকে উৎসাহিত করো না।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "nor do you urge one another to feed the needy,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "et ne vous incitez pas à nourrir celui qui vit dans la pauvreté."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan kamu tidak saling mengajak memberi makan orang miskin,"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "اور مسکینوں کے کھلانے کی ایک دوسرے کو ترغیب نہیں دیتے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你们不以济贫相勉励，"
+    }
+   }
+  },
+  {
+   "arabic": "وَتَأۡكُلُونَ ٱلتُّرَاثَ أَكۡلٗا لَّمّٗا",
+   "aya": 19,
+   "id": 6012,
+   "tafsir": {
+    "arabic_moyassar": "ليس الأمر كما يظن هذا الإنسان، بل الإكرام بطاعة الله، والإهانة بمعصيته، وأنتم لا تكرمون اليتيم، ولا تحسنون معاملته، ولا يَحُثُّ بعضكم بعضًا على إطعام المسكين، وتأكلون حقوق الآخرين في الميراث أكلا شديدًا، وتحبون المال حبًا مفرطًا."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর তোমরা (উত্তরাধিকারীদের প্রাপ্য অংশ না দিয়ে) উত্তরাধিকারের সমস্ত সম্পত্তিই গোগ্রাসে ভক্ষণ করো।"
+    },
+    "en": {
+     "footnotes": "[7] Whether lawful or unlawful.",
+     "text": "and you greedily consume the entire inheritance[7],"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Vous spoliez au contraire les héritiers, poussés par l’avidité,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "sedangkan kamu memakan harta warisan dengan cara mencampurbaurkan (yang halal dan yang haram),"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی جس طریقے سے بھی حاصل ہو، حلال طریقے سے یا حرام طریقے سے لَمَّا بمعنی جَمْعًا",
+     "text": "اور (مردوں کی) میراث سمیٹ سمیٹ کر کھاتے ہو.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你们侵吞遗产，"
+    }
+   }
+  },
+  {
+   "arabic": "وَتُحِبُّونَ ٱلۡمَالَ حُبّٗا جَمّٗا",
+   "aya": 20,
+   "id": 6013,
+   "tafsir": {
+    "arabic_moyassar": "ليس الأمر كما يظن هذا الإنسان، بل الإكرام بطاعة الله، والإهانة بمعصيته، وأنتم لا تكرمون اليتيم، ولا تحسنون معاملته، ولا يَحُثُّ بعضكم بعضًا على إطعام المسكين، وتأكلون حقوق الآخرين في الميراث أكلا شديدًا، وتحبون المال حبًا مفرطًا."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর তোমরা ধন-সম্পদকে অতিশয় ভালোবাস।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and love wealth immensely."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "et vous portez aux richesses un amour démesuré."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan kamu mencintai harta dengan kecintaan yang berlebihan."
+    },
+    "ur": {
+     "footnotes": "[1] جَمًّا بمعنی كَثِيرًا ۔",
+     "text": "اور مال کو جی بھر کر عزیز رکھتے ہو.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你们酷爱钱财。"
+    }
+   }
+  },
+  {
+   "arabic": "كَلَّآۖ إِذَا دُكَّتِ ٱلۡأَرۡضُ دَكّٗا دَكّٗا",
+   "aya": 21,
+   "id": 6014,
+   "tafsir": {
+    "arabic_moyassar": "ما هكذا ينبغي أن يكون حالكم. فإذا زلزلت الأرض وكَسَّر بعضُها بعضًا، وجاء ربُّك لفصل القضاء بين خلقه، والملائكة صفوفًا صفوفًا."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "কখনোই (ব্যাপারটি এমন) নয়; যখন জমিনকে সম্পূর্ণরূপে চূর্ণ-বিচূর্ণ করা হবে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "No indeed! When the earth is crushed over and over,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "En vérité, lorsque la terre sera secouée et entièrement rasée,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sekali-kali tidak! Apabila bumi diguncangkan berturut-turut (berbenturan),"
+    },
+    "ur": {
+     "footnotes": "[1] یا تمہارا عمل ایسا نہیں ہونا چاہئے جو مذکور ہوا، کیوں کہ ایک وقت آنے والا ہے جب ۔۔۔",
+     "text": "یقیناً[1] جس وقت زمین کوٹ کوٹ کر برابر کر دی جائے گی."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "绝不然，当大地震动复震动，"
+    }
+   }
+  },
+  {
+   "arabic": "وَجَآءَ رَبُّكَ وَٱلۡمَلَكُ صَفّٗا صَفّٗا",
+   "aya": 22,
+   "id": 6015,
+   "tafsir": {
+    "arabic_moyassar": "ما هكذا ينبغي أن يكون حالكم. فإذا زلزلت الأرض وكَسَّر بعضُها بعضًا، وجاء ربُّك لفصل القضاء بين خلقه، والملائكة صفوفًا صفوفًا، وجيء في ذلك اليوم العظيم بجهنم، يومئذ يتعظ الكافر ويتوب، وكيف ينفعه الاتعاظ والتوبة، وقد فرَّط فيهما في الدنيا، وفات أوانهما؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর যখন তোমার রব (বান্দাদের মাঝে ফয়সালা করার জন্য) উপস্থিত হবেন এবং ফিরিশতাগণ সারিবদ্ধভাবে উপস্থিত হবেন।"
+    },
+    "en": {
+     "footnotes": "[8] To pass judgment between people.",
+     "text": "and your Lord comes[8] with the angels, rank after rank,"
+    },
+    "fr": {
+     "footnotes": "[2] Pour juger les hommes.",
+     "text": "que ton Seigneur viendra[2], de même que les anges, rangée après rangée,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan datanglah Tuhanmu; dan malaikat berbaris-baris,"
+    },
+    "ur": {
+     "footnotes": "[1] کہا جاتا ہے کہ جب فرشتے، قیامت والے دن آسمان سے نیچے اتریں گے تو ہر آسمان کے فرشتوں کی الگ صف ہو گی، اس طرح سات صفیں ہوں گی جو زمین کو گھیر لیں گی ۔",
+     "text": "اور تیرا رب (خود) آجائے گا اور فرشتے صفیں باندھ کر (آ جائیں گے).[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你的养主和排班的天使，同齐而来临，"
+    }
+   }
+  },
+  {
+   "arabic": "وَجِاْيٓءَ يَوۡمَئِذِۭ بِجَهَنَّمَۚ يَوۡمَئِذٖ يَتَذَكَّرُ ٱلۡإِنسَٰنُ وَأَنَّىٰ لَهُ ٱلذِّكۡرَىٰ",
+   "aya": 23,
+   "id": 6016,
+   "tafsir": {
+    "arabic_moyassar": "وجيء في ذلك اليوم العظيم بجهنم، يومئذ يتعظ الكافر ويتوب، وكيف ينفعه الاتعاظ والتوبة، وقد فرَّط فيهما في الدنيا، وفات أوانهما؟ يقول: يا ليتني قدَّمتُ في الدنيا من الأعمال ما ينفعني لحياتي في الآخرة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর সেদিন (সকলের সামনে) জাহান্নামকে উপস্থিত করা হবে, সেদিন মানুষ (ত্রুটি-বিচ্যুতির কথা) স্মরণ করবে; কিন্তু সেই স্মরণ কী তার কোন উপকারে আসবে?"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and Hell is brought near on that Day – this is when man will understand, but what is the use of that understanding?"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "et que l’on fera venir la Géhenne, ce Jour-là l’impie se souviendra de ses manquements. Mais en quoi ce repentir tardif lui sera-t-il d’une quelconque utilité ?"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan pada hari itu diperlihatkan neraka Jahanam; pada hari itu sadarlah manusia, tetapi tidak berguna lagi baginya kesadaran itu."
+    },
+    "ur": {
+     "footnotes": "[1] ستر ہزار لگاموں کے ساتھ جہنم جکڑی ہوئی ہوگی اور ہر لگام کے ساتھ ستر ہزار فرشتے ہوں گے جو اسے کھینچ رہے ہوں گے۔ (صحيح مسلم، كتاب الجنة، باب في شدة حر نار جهنم وبعد قعرها ترمذي، أبواب صفة جهنم، باب ما جاء في صفة النار) اسے عرش کے بائیں جانب کھڑا کر دیا جائے گا، پس اسے دیکھ کر تمام مقرب اور انبیا علیہم السلام گھٹنوں کے بل گر پڑیں گے اور ”يَا رَبِّ! نَفْسِي نَفْسِي“ پکاریں گے۔ (فتح القدیر) ۔\n[2] یعنی یہ ہولناک منظر دیکھ کر انسان کی آنکھیں کھلیں گی اور اپنے کفر ومعاصی پر نادم ہوگا، لیکن اس روز اس ندامت اور نصیحت کا کوئی فائدہ نہیں ہوگا۔",
+     "text": "اور جس دن جہنم بھی ﻻئی جائے گی[1] اس دن انسان کو سمجھ آئے گی مگر آج اس کے سمجھنے کا فائده کہاں؟[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "在那日，火狱将被拿来。在那日，人将觉悟，但觉悟于他有何裨益呢？"
+    }
+   }
+  },
+  {
+   "arabic": "يَقُولُ يَٰلَيۡتَنِي قَدَّمۡتُ لِحَيَاتِي",
+   "aya": 24,
+   "id": 6017,
+   "tafsir": {
+    "arabic_moyassar": "يقول: يا ليتني قدَّمتُ في الدنيا من الأعمال ما ينفعني لحياتي في الآخرة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "সে (আফসোস করে) বলবে: ‘হায়! যদি আমি আমার এ জীবনের জন্য কিছু (নেক আমল) আগে পাঠাতাম!’"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "He will say, “Would that I had sent forth something for my [eternal] life!”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Il dira : « Si seulement j’avais œuvré pour le salut de mon âme ! »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dia berkata, \"Alangkah baiknya sekiranya dahulu aku mengerjakan (kebajikan) untuk hidupku ini.\""
+    },
+    "ur": {
+     "footnotes": "[1] یہ افسوس اور حسرت کا اظہار، اسی ندامت کا حصہ ہے جو اس روز فائدہ مند نہیں ہوگی۔",
+     "text": "وه کہے گا کہ کاش کہ میں نے اپنی اس زندگی کے لئے کچھ پیشگی سامان کیا ہوتا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他将说：“但愿我在世的时候曾行善事。”"
+    }
+   }
+  },
+  {
+   "arabic": "فَيَوۡمَئِذٖ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٞ",
+   "aya": 25,
+   "id": 6018,
+   "tafsir": {
+    "arabic_moyassar": "ففي ذلك اليوم العصيب لا يستطيع أحدٌ ولا يقدر أن يُعذِّبَ مثل تعذيب الله من عصاه، ولا يستطيع أحد أن يوثِقَ مثل وثاق الله، ولا يبلغ أحدٌ مبلغه في ذلك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "অতঃপর সেদিন আল্লাহর শাস্তির মতো (কঠিন) শাস্তি কেউ দিতে পারবে না।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "None can punish as He punishes on that Day,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Ce Jour-là, le châtiment qu’Il leur infligera sera sans équivalent,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Maka pada hari itu tidak ada seorang pun yang mengazab seperti azab-Nya (yang adil),"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "پس آج اللہ کے عذاب جیسا عذاب کسی کا نہ ہوگا."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "在那日，任何人，不用他的那种刑罚惩治别人；"
+    }
+   }
+  },
+  {
+   "arabic": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٞ",
+   "aya": 26,
+   "id": 6019,
+   "tafsir": {
+    "arabic_moyassar": "ففي ذلك اليوم العصيب لا يستطيع أحدٌ ولا يقدر أن يُعذِّبَ مثل تعذيب الله من عصاه، ولا يستطيع أحد أن يوثِقَ مثل وثاق الله، ولا يبلغ أحدٌ مبلغه في ذلك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর কেউ (শিকল দিয়ে) তাঁর বাঁধার মতো বাঁধতে পারবে না।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and none can bind as He binds."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "et les chaînes qu’Il leur fera porter seront sans pareilles."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan tidak ada seorang pun yang mengikat seperti ikatan-Nya."
+    },
+    "ur": {
+     "footnotes": "[1] اس لئے کہ اس روز تمام اختیارات صرف ایک اللہ کےپاس ہوں گے۔ دوسرے، کسی کو اس کے سامنے رائے یا دم زنی نہیں ہوگا حتیٰ کہ اس کی اجازت کے بغیر کوئی کسی کی سفارش تک نہیں کر سکے گا۔ ایسے حالات میں کافروں کو جو عذاب ہوگا اور جس طرح وہ اللہ کی قید وبند میں جکڑے ہوں گے، اس کا یہاں تصور بھی نہیں کیا جا سکتا چہ جائکہ اس کا کچھ اندازہ ممکن ہو۔ یہ تو مجرموں اور ظالموں کا حال ہوگا لیکن اہل ایمان وطاعت کا حال اس سے بالکل مختلف ہوگا، جیسا کہ اگلی آیات میں ہے۔",
+     "text": "نہ اسکی قید وبند جیسی کسی کی قید وبند ہوگی.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "任何人，不用他的那种束缚束缚别人。"
+    }
+   }
+  },
+  {
+   "arabic": "يَٰٓأَيَّتُهَا ٱلنَّفۡسُ ٱلۡمُطۡمَئِنَّةُ",
+   "aya": 27,
+   "id": 6020,
+   "tafsir": {
+    "arabic_moyassar": "يا أيتها النفس المطمئنة إلى ذِكر الله والإيمان به، وبما أعدَّه من النعيم للمؤمنين، ارجعي إلى ربك راضية بإكرام الله لك، والله سبحانه قد رضي عنك، فادخلي في عداد عباد الله الصالحين، وادخلي معهم جنتي."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "(মুমিনদেরকে বলা হবে,) হে প্রশান্ত আত্মা!"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "[It will be said to the believer,] “O the tranquil soul!"
+    },
+    "fr": {
+     "footnotes": "[3] Sera-t-il dit au croyant.",
+     "text": "« Quant à toi, âme sereine et apaisée[3] !"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Wahai jiwa yang tenang!"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "اے اطمینان والی روح."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "安定的灵魂啊！"
+    }
+   }
+  },
+  {
+   "arabic": "ٱرۡجِعِيٓ إِلَىٰ رَبِّكِ رَاضِيَةٗ مَّرۡضِيَّةٗ",
+   "aya": 28,
+   "id": 6021,
+   "tafsir": {
+    "arabic_moyassar": "يا أيتها النفس المطمئنة إلى ذِكر الله والإيمان به، وبما أعدَّه من النعيم للمؤمنين، ارجعي إلى ربك راضية بإكرام الله لك، والله سبحانه قد رضي عنك، فادخلي في عداد عباد الله الصالحين، وادخلي معهم جنتي."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তুমি তোমার (প্রাপ্ত মহা প্রতিদান নিয়ে) রবের প্রতি সন্তুষ্টচিত্তে ফিরে এসো, তাঁর প্রিয়ভাজন হয়ে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Return to your Lord, well pleased and pleasing [to Him]."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Retourne à ton Seigneur satisfaite et agréée !"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Kembalilah kepada Tuhanmu dengan hati yang rida dan diridai-Nya."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی اس کے اجر وثواب اور ان نعمتوں کی طرف جو اس نے اپنے بندوں کے لئے جنت میں تیار کی ہے۔ بعض کہتے ہیں قیامت والے دن کہا جائے گا بعض کہتے ہیں کہ موت کے وقت بھی فرشتے خوشخبری دیتے ہیں، اسی طرح قیامت والے دن بھی اسے یہ کہا جائے گا جو یہاں مذکور ہے۔ حافظ ابن کثیر نے ابن عسا کرکے حوالے سے نقل کیا ہے کہ نبی کریم (صلى الله عليه وسلم) نے ایک آدمی کو یہ دعا پڑھنے کا حکم دیا ”اللَّهُمَّ إِنِّي أَسْأَلُكَ نَفْسًا، بِكَ مُطْمَئِنَّةً، تُؤْمِنُ بِلِقَائِكَ، وَتَرْضَى بِقَضَائِكَ وَتَقْنَعُ بِعَطَائِكَ“۔ (ابن كثير)۔",
+     "text": "تو اپنے رب کی طرف[1] لوٹ چل اس طرح کہ تو اس سے راضی وه تجھ سے خوش."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你应当喜悦地，被喜悦地归于你的养主。"
+    }
+   }
+  },
+  {
+   "arabic": "فَٱدۡخُلِي فِي عِبَٰدِي",
+   "aya": 29,
+   "id": 6022,
+   "tafsir": {
+    "arabic_moyassar": "يا أيتها النفس المطمئنة إلى ذِكر الله والإيمان به، وبما أعدَّه من النعيم للمؤمنين، ارجعي إلى ربك راضية بإكرام الله لك، والله سبحانه قد رضي عنك، فادخلي في عداد عباد الله الصالحين، وادخلي معهم جنتي."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "অতঃপর আমার (নেককার) বান্দাদের মধ্যে শামিল হয়ে যাও।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Join My [righteous] slaves,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Joins-toi à Mes serviteurs vertueux,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Maka masuklah ke dalam golongan hamba-hamba-Ku,"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "پس میرے خاص بندوں میں داخل ہو جا."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你应当入在我的众仆里，"
+    }
+   }
+  },
+  {
+   "arabic": "وَٱدۡخُلِي جَنَّتِي",
+   "aya": 30,
+   "id": 6023,
+   "tafsir": {
+    "arabic_moyassar": "يا أيتها النفس المطمئنة إلى ذِكر الله والإيمان به، وبما أعدَّه من النعيم للمؤمنين، ارجعي إلى ربك راضية بإكرام الله لك، والله سبحانه قد رضي عنك، فادخلي في عداد عباد الله الصالحين، وادخلي معهم جنتي."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর আমার জান্নাতে প্ৰবেশ করো।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and enter My Paradise.”"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "entre dans Mon Paradis avec eux ! »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan masuklah ke dalam surga-Ku."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "اور میری جنت میں چلی جا."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你应当入在我的乐园里。"
+    }
+   }
+  }
+ ],
+ "content_sha256": "sha256:69a965924c189fd3f8adc375e1f07cfcd525ce7ab20cac142a7a4d0125299c55",
+ "name_ar": "الفجر",
+ "number": 89,
+ "schema": "balligh.library.quran.surah/1"
+}

@@ -1,0 +1,78 @@
+{
+ "answer": [
+  [
+   {
+    "kind": "strong",
+    "text": "ج:"
+   },
+   {
+    "kind": "text",
+    "text": " لا نعلم شيئًا في هذا، لكن تركه أولى؛ لعدم الحاجة إليه، ولأنه قد يحول دون وصول الماء إلى البشرة عند الوضوء.\n والحاصل: أن تركه أولى، والاكتفاء بالحناء، والذي عليه الأوائل أولى، فإن استعملته المرأة، فالواجب أن تزيله عند الوضوء؛ لأنه -كما قلنا- يحول دون وصول الماء إلى البشرة، والله ولي التوفيق"
+   },
+   {
+    "kind": "noteref",
+    "note": "1",
+    "text": "[1]"
+   },
+   {
+    "kind": "text",
+    "text": "."
+   }
+  ]
+ ],
+ "content_sha256": "sha256:65e619011cabaf18a361b762d88ce081be798778fface3fb0e4b19f3a90be2ba",
+ "id": "binbaz-3611",
+ "language": "ar",
+ "notes": [
+  {
+   "id": "1",
+   "runs": [
+    {
+     "kind": "text",
+     "text": "نشرت في المجلة العربية في العدد (177) لشهر ذي القعدة من عام 1412هـ، (مجموع فتاوى ومقالات الشيخ ابن باز 10/ 48)."
+    }
+   ]
+  }
+ ],
+ "question": [
+  [
+   {
+    "kind": "strong",
+    "text": "س:"
+   },
+   {
+    "kind": "text",
+    "text": " السائلة: ص. س  -من الجوف- تقول في سؤالها: هل في استعمال المرأة للمناكير التي تُطلى بها الأظافر إثم؟ وماذا تعمل عند الوضوء؟"
+   }
+  ]
+ ],
+ "raw_sha256": "sha256:2da0d4a01f9710c1a57557e3209e114ee4694323c08c190f4df70bb240196b2c",
+ "reuse_basis": "user_confirmed_permission",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.fatwa/2",
+ "source": {
+  "edition": "مجموع فتاوى ومقالات الشيخ ابن باز 10/ 48",
+  "publisher": "binbaz.org.sa",
+  "publisher_name": "موقع الشيخ ابن باز",
+  "retrieved_at": "2026-10-06T05:10:36+00:00",
+  "series": "مجموع الفتاوى",
+  "url": "https://binbaz.org.sa/fatwas/3611/%D8%AD%D9%83%D9%85-%D8%A7%D8%B3%D8%AA%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%83%D9%8A%D8%B1-%D9%88%D9%87%D9%84-%D8%AA%D8%AC%D8%A8-%D8%A7%D8%B2%D8%A7%D9%84%D8%AA%D9%87-%D8%B9%D9%86%D8%AF-%D8%A7%D9%84%D9%88%D8%B6%D9%88%D8%A1"
+ },
+ "source_categories": [
+  {
+   "id": "14",
+   "label": "فروض الوضوء وصفته",
+   "url": "https://binbaz.org.sa/categories/fiqhi/14"
+  },
+  {
+   "id": "186",
+   "label": "اللباس والزينة",
+   "url": "https://binbaz.org.sa/categories/fiqhi/186"
+  }
+ ],
+ "source_record_id": "3611",
+ "title": "حكم استعمال المناكير، وهل تجب إزالته عند الوضوء؟",
+ "topic": "worship",
+ "translations": {},
+ "type": "fatwa"
+}

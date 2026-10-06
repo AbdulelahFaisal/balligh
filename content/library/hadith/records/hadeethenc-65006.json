@@ -1,0 +1,184 @@
+{
+ "attribution": "رواه أبو يعلى والطبراني والضياء المقدسي",
+ "content_sha256": "sha256:f39b144f1d827ca0bd077807fd8e386b7347fa0332a306f5b5fa9c4a71a81e93",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "جاء رجلٌ إلى النبي صلى الله عليه وسلم فقال: يا رسول الله، إني قد فعلت من كل الذنوب والمعاصي، ولم أترك صغيرة ولا كبيرة إلا فعلتها، فهل يُغفَر لي؟ \nفقال له النبي صلى الله عليه وسلم: ألست تشهد أن لا إله إلا الله وأن محمدًا رسول الله؟ \nكررها له ثلاث مرات، \nفأجابه: نعم أشهد، \nفأخبره النبي صلى الله عليه وسلم بفضل الشهادتين وتكفيرها للسيئات، وأن التوبة تجب ما قبلها.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "عِظم الشَّهادتين ورُجحانها على الذّنوب لمن قالها صادقًا من قلبه.",
+  "الإسلام يجُبُّ ما قبله.",
+  "التّوبة الصّادقة تمحو ما قبلها.",
+  "التّكرار في التّعليم مِن هدي النبي صلى الله عليه وسلم.",
+  "فضل الشهادتين، وأنهما سبب للنجاة من الخلود في النار."
+ ],
+ "id": "hadeethenc-65006",
+ "language": "ar",
+ "narrator": null,
+ "reference": "مسند أبي يعلى الموصلي (6/ 155) (3433)، المعجم الصغير للطبراني (2/ 201) (1025)، شعب الإيمان (5/404) (7086)، الأحاديث المختارة للضياء المقدسي (5/ 151) (1773)، غريب الحديث للخطابي (1/255)، الترغيب والترهيب (4/55)، النهاية في غريب الحديث والأثر (1/341)، الزواجر لابن حجر الهيتمي (2/961)، جامع العلوم والحكم (1/305).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=65006",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:35+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/65006"
+ },
+ "source_categories": [
+  {
+   "id": "271",
+   "label": "فضائل التوحيد"
+  }
+ ],
+ "source_record_id": "65006",
+ "text": "عَنْ أَنَسٍ رضي الله عنه قَالَ: جَاءَ رَجُلٌ إِلَى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: يَا رَسُولَ اللهِ، مَا تَرَكْتُ حَاجَّةً وَلَا دَاجَّةً إِلَّا قَدْ أَتَيْتُ، قَالَ: «أَلَيْسَ تَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللهِ؟» ثَلَاثَ مَرَّاتٍ. قَالَ: نَعَمْ، قَالَ: «فَإِنَّ ذَلِكَ يَأْتِي عَلَى ذَلِكَ».",
+ "title": "يا رسول الله، ما تركت حاجة ولا داجة إلا قد أتيت، قال: أليس تشهد أن لا إله إلا الله وأن محمدا رسول الله؟",
+ "topic": "belief",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=65006",
+   "arabic_match": "exact",
+   "attribution": "এটি আবু ইয়ালা, তবারানী ও যিয়া আল-মাকদাসী বর্ণনা করেছেন।",
+   "content_sha256": "sha256:3bb97136d669e8270e9bb0c72f9a757fb79d476679dc03f0f7a6af0205587821",
+   "explanation": "এক ব্যক্তি নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের কাছে এসে বললেন: হে আল্লাহর রাসূল! আমি ছোট-বড় সব ধরণের পাপ ও নাফরমানিতে লিপ্ত হয়েছি। ছোট বা বড় এমন কোন পাপ নেই, যা আমি করিনি। আমাকে কী ক্ষমা করা হবে? নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাকে উদ্দেশ্য করে বললেন: তুমি কী এ কথার সাক্ষ্য দাওনি যে, আল্লাহ ছাড়া কোন প্রকৃত ইলাহ নেই, আর মুহাম্মদ আল্লাহর রাসূল? এ কথাটি রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তিনবার বললেন। তখন ঐ ব্যক্তি জবাব দিলেন: হ্যাঁ, আমি এ কথার সাক্ষ্য দেই। তখন নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাকে শাহাদাতাইন (তাওহীদ ও রিসালাতের দুটি সাক্ষ্য)-এর ফযীলতের ব্যাপারে এবং তা দ্বারা পাপসমূহকে ক্ষমা করার বিষয়ে অবহিত করলেন। আর (এটাও অবহিত করলেন যে,) তাওবা তার পূর্বে  করা সকল গুনাহকে মিটিয়ে দেয়।",
+   "grade": "সহীহ",
+   "hints": [
+    "হাদীসটিতে শাহাদাতাইনের মর্যাদা এবং যে ব্যক্তি এটিকে মন থেকে সততার সাথে বলবে, তার পাপের উপরে এটি প্রাধান্য পাবে, এর বর্ণনা রয়েছে।\r",
+    "ইসলাম গ্রহণ করা পূর্বের সকল পাপকে ক্ষমা করে দেয়।\r",
+    "আন্তরিক তাওবা পূর্বে করা পাপসমূহকে মুছে দেয়।\r",
+    "শিক্ষাদানের ক্ষেত্রে বারবার বলা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের আদর্শের অন্তর্ভুক্ত।\r",
+    "শাহাদাতাইনের মর্যাদা বর্ণনা এবং এ সাক্ষ্য দুটি চিরস্থায়ীভাবে জাহান্নামে থাকা থেকে নাজাত দানকারী।"
+   ],
+   "mapping": "same HadeethEnc record id 65006; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:36+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/65006",
+   "text": "আনাস রাদিয়াল্লাহু ‘আনহু হতে বর্ণিত, তিনি বলেছেন: নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের কাছে এক ব্যক্তি এসে বললেন: হে আল্লাহর রাসূল! ছোট বা বড় কোন পাপ করতে আমি ছাড়িনি। তিনি বললেন: “তুমি কী এ সাক্ষ্য দাওনা যে, আল্লাহ ছাড়া কোন প্রকৃত মাবূদ নেই, আর মুহাম্মদ আল্লাহর রাসূল?” (তিনবার), তখন ঐ ব্যক্তি বললেন: হ্যাঁ। রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বললেন: “এটি ঐসবের (পাপের) উপরে প্রাধান্য পাবে।”",
+   "title": "হে আল্লাহর রাসূল! ছোট বা বড় কোন পাপ করতে আমি ছাড়িনি। তিনি বললেন: “তুমি কী এ সাক্ষ্য দাওনা যে, আল্লাহ ছাড়া কোন প্রকৃত মাবূদ নেই, আর মুহাম্মদ আল্লাহর রাসূল?”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=65006",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Abu Ya‘la, At-Tabarāni, and Ad-Diyā’ al-Maqdisi",
+   "content_sha256": "sha256:167ef82f3a65922af98ac36205d5910edb32ae3355454df9a3a8d0c3f0d43c3c",
+   "explanation": "A man came to the Prophet (may Allah's peace and blessings be upon him) and said: O Messenger of Allah, I committed all sins and misdeeds and left no minor or major sin except that I did it. Can I be forgiven? The Prophet (may Allah's peace and blessings be upon him) said to him: Do you not testify that there is no god but Allah and that Muhammad is the Messenger of Allah? He asked the question three times. The man replied in the affirmative. Thereupon, the Prophet (may Allah's peace and blessings be upon him) told him about the merit of the two testimonies of faith and how they expiate sins, and that repentance erases past misdeeds.",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth shows the significance of the two testimonies of faith and that they outweigh sins, if one utters them sincerely from his heart.\r",
+    "Islam blots out the sins committed before embracing it.\r",
+    "Sincere repentance eliminates past sins.\r",
+    "Repeating the speech is part of the Prophet's approach to educating.\r",
+    "The Hadīth points out the merit of the two testimonies of faith and that they lead to salvation from the eternal stay in Hellfire."
+   ],
+   "mapping": "same HadeethEnc record id 65006; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:36+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/65006",
+   "text": "Anas (may Allah be pleased with him) reported: A man came to the Prophet (may Allah’s peace and blessings be upon him) and said: \"O Messenger of Allah, I left no minor or major sin without committing it.\" He said: \"Do you not testify that there is no god but Allah and that Muhammad is the Messenger of Allah?\" He repeated the question three times. He replied: 'Yes.' The Prophet (may Allah’s peace and blessings be upon him) said: \"This prevails over that.\"",
+   "title": "O Messenger of Allah, I left no minor or major sin without committing it.\" He said: \"Do you not testify that there is no god but Allah and that Muhammad is the Messenger of Allah?",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=65006",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Abû Ya'lâ, At-Tabarânî et Ad-Diyâ' Al Maqdisî",
+   "content_sha256": "sha256:1aa7a78108f6436261a4d1cd0d88070d28e39ff0e19e750b0b4002af51a0b7db",
+   "explanation": "Un homme est venu au Prophète (qu’Allah le couvre d’éloges et le préserve) et a dit : \"Ô Messager d'Allah ! J'ai certes commis tous les péchés et toutes les désobéissances, et je n'ai rien laissé sans l'accomplir, qu'il s'agisse d'une petite ou d'une grande chose. Est-ce qu'on me pardonnera ?\" Le Prophète (qu’Allah le couvre d’éloges et le préserve) dit alors : \"N'attestes-tu pas qu’Il n'est de divinité [digne d'adoration] qu'Allah et que Mouḥammad est le Messager d’Allah ?\" Il lui répéta cela trois fois. La  personne répondit : \"Si, je l'atteste !\" Le Prophète (qu’Allah le couvre d’éloges et le préserve) l'informa alors du mérite de la double attestation, qu'elle expie les mauvaises actions et que le repentir efface ce qui précède.",
+   "grade": "Authentique",
+   "hints": [
+    "La grandeur de la double attestation et le fait qu'elle prévaut sur les péchés pour quiconque la prononce en étant sincère dans son cœur.\r",
+    "L'Islam efface ce qui précède.\r",
+    "Le repentir véridique efface ce qui précède.\r",
+    "Le fait de répéter [les choses] dans l'objectif d'enseigner fait partie de la bonne guidée du Prophète (qu’Allah le couvre d’éloges et le préserve).\r",
+    "Le mérite de la double attestation et le fait de savoir qu'elle est une cause de délivrance de l'éternité en Enfer."
+   ],
+   "mapping": "same HadeethEnc record id 65006; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:36+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/65006",
+   "text": "Anas (qu'Allah l'agrée) relate : « Un homme est venu au Prophète (qu’Allah le couvre d’éloges et le préserve) et a dit : \"Ô Messager d'Allah ! Je n'ai pas laissé une chose, qu'elle soit petite ou grande, sans l'avoir commise ! - Il dit : N'attestes-tu pas qu’Il n'est de divinité [digne d'adoration] qu'Allah et que Mouḥammad est le Messager d’Allah ?\" [Il répéta cela] Trois fois. La personne répondit : \"Si ! - Il lui a dit : \" Alors, ceci viendra certes sur cela !\" »",
+   "title": "Ô Messager d'Allah ! Je n'ai pas laissé une chose, qu'elle soit petite ou grande, sans l'avoir commise ! - Il dit : N'attestes-tu pas qu’Il n'est de divinité [digne d'adoration] qu'Allah et que Mouḥammad est le Messager d’Allah ?",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=65006",
+   "arabic_match": "exact",
+   "attribution": "HR. Abu Ya'la, Tabarani, dan Aḍ-Ḍiyā' Al-Maqdisī",
+   "content_sha256": "sha256:886f7b004250bf595754cec19ed1db7f28f65e371dd23c1acbe312e3010bb895",
+   "explanation": "Seorang laki-laki datang menemui Nabi ﷺ lalu bertanya: Wahai Rasulullah! Sungguh aku telah melakukan semua dosa dan maksiat. Tidak ada suatu dosa kecil maupun besar kecuali aku melakukannya. Apakah aku masih bisa diampuni? Maka Nabi ﷺ bersabda: Bukankah engkau telah mengucapkan syahadat 'asyhadu allā ilāha illallāh  wa anna muḥammadar-rasūlullāh'? Beliau mengulangnya sebanyak tiga kali. Dia menjawab: Ya, aku telah bersyahadat. Maka Nabi ﷺ mengabarinya keutamaan dua kalimat syahadat serta ia dapat menggugurkan kesalahan, dan bahwa tobat menghapus semua kesalahan sebelumnya.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Keagungan dua kalimat syahadat serta keunggulannya atas dosa bagi siapa yang mengucapkannya secara tulus dari hatinya.\r",
+    "2- Islam menghapus semua kesalahan sebelumnya.\r",
+    "3- Tobat yang tulus dapat menghapus semua kesalahan sebelumnya.\r",
+    "4- Metode pengulangan dalam pengajaran termasuk petunjuk Nabi ﷺ.\r",
+    "5- Keutamaan dua kalimat syahadat, yaitu keduanya adalah sebab keselamatan dari kekekalan di dalam neraka."
+   ],
+   "mapping": "same HadeethEnc record id 65006; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:36+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/65006",
+   "text": "Anas -raḍiyallāhu 'anhu- meriwayatkan, ia berkata, Seorang laki-laki datang menemui Nabi ﷺ seraya bertanya, \"Wahai Rasulullah, tidak ada suatu dosa kecil maupun besar kecuali saya lakukan.\" Beliau bersabda, \"Bukankah engkau telah mengucapkan 'asyhadu allā ilāha illallāh wa anna muḥammadar-rasūlullāh?\" Beliau mengulangnya sebanyak tiga kali. Dia menjawab, \"Ya.\" Beliau bersabda, \"Sesungguhnya syahadat tersebut menghapusnya.\"",
+   "title": "Wahai Rasulullah, tidak ada suatu dosa kecil maupun besar kecuali saya lakukan.\" Beliau bersabda, \"Bukankah engkau telah mengucapkan 'asyhadu allā ilāha illallāh wa anna muḥammadar-rasūlullāh?",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=65006",
+   "arabic_match": "exact",
+   "attribution": "رواه أبو يعلى والطبراني والضياء المقدسي",
+   "content_sha256": "sha256:2b21f4b76d66047ce0333bf5d7b1c2c927965d081fd3ab6976af61ab71dffbd9",
+   "explanation": "ایک شخص اللہ کے نبی صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوا اور عرض کیا: اے اللہ کے رسول! میں نے ہر طرح کے گناہ کر ڈالے ہيں۔ کوئی صغیرہ اور کبیرہ گناہ مجھ سے نہیں چھوٹا ہے۔ کیا میری مغفرت ہو سکے گی؟ اللہ کے نبی صلی اللہ علیہ وسلم نے اس شخص سے فرمایا: کیا تم یہ گواہی نہیں دیتے کہ اللہ کے سوا کوئی معبود برحق نہیں اور محمد صلی اللہ علیہ و سلم اللہ کے رسول ہیں؟ آپ نے تین دفعہ یہ سوال دہرایا۔ اس شخص نے جواب دیا: ہاں! میں یہ گواہی دیتا ہوں۔ تو اللہ نبی صلی اللہ علیہ وسلم نے شہادتین کی فضیلت بتلائی اور یہ بتایا کہ اس شہادت سے گناہ مٹ جاتے ہیں اور توبہ اپنے ماقبل کے تمام گناہوں کو مٹا دیتی ہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "اس حدیث سے شہادتین کی عظمت شان معلوم ہوتی ہے اور یہ واضح ہو جاتا ہے کہ جو شخص اپنے دل سے صدق نیتی کے ساتھ اس کی گواہی دیتا ہے، اس کی گواہی اس کے گناہوں پر حاوی ہو جاتی ہے۔\r",
+    "اسلام اپنے ماقبل کے گناہوں کو مٹا دیتا ہے۔\r",
+    "سچی توبہ سے سابقہ گناہ مٹ جاتے ہیں۔\r",
+    "نبی صلی اللہ علیہ وسلم کا طریقہ تھا کہ آپ تعلیم دینے کے لیے ایک بات کو کئی دفعہ دہرایا کرتے تھے۔\r",
+    "اس حدیث سے شہادتین کی فضیلت معلوم ہوتی ہے اور یہ کہ شہادتین جہنم کی دائمی سزا سے نجات کا ذریعہ ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 65006; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:36+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/65006",
+   "text": "انس رضی اللہ عنہ سے مروی ہے، وہ کہتے ہیں: ایک شخص اللہ کے نبی صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوا اور عرض کیا: اے اللہ کے رسول! میں نے ہر چھوٹے بڑے گناہ کا ارتکاب کر لیا۔ آپ نے فرمایا: \"کیا تم یہ گواہی نہیں دیتے کہ اللہ کے سوا کوئی معبود برحق نہیں اور محمد اللہ کے رسول ہیں؟\" تین دفعہ آپ نے یہ سوال کیا۔ اس شخص نے جواب دیا: ہاں۔ آپ نے فرمایا: \"یہ شہادت ان گناہوں کو مٹا دیتی ہے\"۔",
+   "title": "اے اللہ کے رسول! میں نے ہر چھوٹے بڑے گناہ کا ارتکاب کر لیا۔ آپ نے فرمایا: \"کیا تم یہ گواہی نہیں دیتے کہ اللہ کے سوا کوئی معبود برحق نہیں اور محمد اللہ کے رسول ہیں؟",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=65006",
+   "arabic_match": "exact",
+   "attribution": "艾布·叶尔俩、托伯拉尼和堆亚乌·麦格迪斯辑录",
+   "content_sha256": "sha256:04d72b5d234a00c78778a0b0571c1586a6ca6d2d4388385874a733c8a4309f7b",
+   "explanation": "一个人来见使者（愿主福安之）说：安拉的使者啊！所有恶行，无论大小，我都已做尽，我还能得到饶恕吗？ 先知（愿主福安之）对他说：“难道你没见证：没有真应受拜的主，唯有安拉，穆罕默德是安拉的使者吗？” 使者将此话重复了三次。 他回答说：是的，我见证。 先知（愿主福安之）告诉他，凭借两个见证词之优越，将消除一切罪行，忏悔的确能消除以前的罪行。",
+   "grade": "正确的",
+   "hints": [
+    "两个见证词之重大，凡诚心见证者，其罪恶将被饶恕。\r",
+    "归信伊斯兰将勾销以前的罪行。\r",
+    "诚心的忏悔将消除以前的罪行。\r",
+    "教授知识时反复强调是先知（愿主福安之）的教导。\r",
+    "两个见证词之优越，此两者是脱离永居火狱之因素。"
+   ],
+   "mapping": "same HadeethEnc record id 65006; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:36+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/65006",
+   "text": "据艾奈斯（愿主喜悦之）传述说： 一个人来见先知（愿主福安之）说：安拉的使者啊！大小罪行我已做尽。使者说：“难道你没有见证：没有真应受拜的主，唯有安拉，穆罕默德是安拉的使者吗？”使者将此话重复了三次，他说：不，我已见证，使者说：“那将消除一切。”",
+   "title": "安拉的使者啊！大小罪行我已做尽。使者说：“难道你没有见证：没有真应受拜的主，唯有安拉，穆罕默德是安拉的使者吗？",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

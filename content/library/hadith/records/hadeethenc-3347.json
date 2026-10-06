@@ -1,0 +1,201 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:a714b2bf887e0faea3b3fe13ef589fc3df8b490e47cd7b282b516d19d7da44ac",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "أَخْبَرَ النبيُّ صلى الله عليه وسلم عن مكانتِه عند الله تعالى، وأنها بَلَغتْ أعلى درجات المحبة، كما نالها إبراهيم عليه السلام، ولذلك نفى أن يكون له خليلٌ غيرُ الله؛ لأنَّ قلبه امتلأ من محبة الله تعالى وتعظيمه ومعرفته، فلا يَتَّسع لأحد غير الله، ولو كان له خليلٌ من الخلق لكان أبا بكر الصديق رضي الله عنه.\n\nثم حَذَّر من مجاوزة الحد الجائز في المحبة كما فعلت اليهود والنصارى في قبور أنبيائهم وصالحيهم حتى صيّروها آلهة شركية تُعبَد من دون الله، وشَيَّدوا على قبورهم مساجد ومعابد، ونهى صلى الله عليه وسلم أمته أن يفعلوا مثل فعلهم.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "فضل أبي بكر الصديق رضي الله عنه، وأنه أفضل الصحابة وأولى الناس بخلافة رسول الله صلى الله عليه وسلم بعد موته.",
+  "بناء المساجد على القبور من منكرات الأمم السابقة.",
+  "النهي عن اتخاذ القبور أمكنة للعبادة يُصلى عندها أو إليها ويُبنى عليها مساجد أو قبابٌ، حذرًا من الوقوع في الشرك بسبب ذلك.",
+  "التحذير من الغلو في الصالحين لإفضائه إلى الشرك.",
+  "خطورة ما حذَّر منه النبي صلى الله عليه وسلم حيث أكَّد عليه قبل موته بخمس ليال."
+ ],
+ "id": "hadeethenc-3347",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (1/ 377) (532).\nشرح النووي على مسلم (5/ 13).\nالجديد في شرح كتاب التوحيد، لمحمد القرعاوي (ص188).\nالملخص في شرح كتاب التوحيد، لصالح الفوزان (ص172).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3347",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:33+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3347"
+ },
+ "source_categories": [
+  {
+   "id": "73",
+   "label": "توحيد الألوهية"
+  },
+  {
+   "id": "101",
+   "label": "فضل الصحابة رضي الله عنهم"
+  }
+ ],
+ "source_record_id": "3347",
+ "text": "عن جندب رضي الله عنه قال: سَمِعْتُ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَبْلَ أَنْ يَمُوتَ بِخَمْسٍ وَهُوَ يَقُولُ «إِنِّي أَبْرَأُ إِلَى اللهِ أَنْ يَكُونَ لِي مِنْكُمْ خَلِيلٌ فَإِنَّ اللهَ تَعَالَى قَدِ اتَّخَذَنِي خَلِيلًا كَمَا اتَّخَذَ إِبْرَاهِيمَ خَلِيلًا، وَلَوْ كُنْتُ مُتَّخِذًا مِنْ أُمَّتِي خَلِيلًا لَاتَّخَذْتُ أَبَا بَكْرٍ خَلِيلًا! أَلَا وَإِنَّ مَنْ كَانَ قَبْلَكُمْ كَانُوا يَتَّخِذُونَ قُبُورَ أَنْبِيَائِهِمْ وَصَالِحِيهِمْ مَسَاجِدَ، أَلَا فَلَا تَتَّخِذُوا الْقُبُورَ مَسَاجِدَ! إِنِّي أَنْهَاكُمْ عَنْ ذَلِكَ».",
+ "title": "إني أبرأ إلى الله أن يكون لي منكم خليل فإن الله تعالى قد اتخذني خليلا كما اتخذ إبراهيم خليلا",
+ "topic": "belief",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3347",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:bee7461cb3089037f83772132cef23115e3434f1fbdb7ed973afdd7fc3c49fb6",
+   "explanation": "এ হাদীসে নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম আল্লাহর কাছে তার মর্যাদার বর্ণনা দিয়েছেন। আল্লাহর কাছে তার মর্যাদা ভালোবাসার সর্বোচ্চ শিখরে, যেমনিভাবে ইবরাহীম ‘আলাইহিস সালাম তা অর্জন করেছিলেন। এ কারণে তিনি আল্লাহ ব্যতীত অন্য কাউকে খলীল (অন্তরঙ্গ বন্ধু) হিসেবে \nগ্রহণ করাকে প্রত্যাখ্যান করেছেন; কেননা তার অন্তর আল্লাহ তা‘আলার ভালোবাসা, সম্মান ও তাঁর পরিচয় দিয়ে পরিপূর্ণ। ফলে আল্লাহ ব্যতীত অন্য কাউকে অন্তরঙ্গ বন্ধু বানানোর কোন স্থান নেই। সৃষ্টিজগতের কেউ যদি তার খলীল হতেন, তবে আবূ বকর সিদ্দীক রদিয়াল্লাহু ‘আনহুই হতেন। অতপর তিনি উম্মতকে তাঁর প্রতি ভালোবাসার শর‘ঈ সীমা লঙ্ঘন করতে সাবধান করেছেন, যেমনিভাবে ইয়াহুদী ও খৃস্টানরা তাদের নবী ও নেককারদের কবরের সাথে করেছে, এমনকি তারা তাদের কবরকে শিরকের মাধ্যম করেছে, যেখানে আল্লাহ ব্যতীত অন্যের ইবাদত করা হয়। তারা তাদের কবরকে মসজিদ ও উপাসনালয় বানিয়েছে। নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাঁর উম্মতকে পূর্ববর্তী উম্মতের অনুরূপ (কবরকে মসজিদে পরিণত) করতে নিষেধ করেছেন।",
+   "grade": "সহীহ",
+   "hints": [
+    "হাদীসে আবূ বকর রাদিয়াল্লাহু ‘আনহুর মর্যাদা বর্ণিত হয়েছে। তিনি রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের সর্বশ্রেষ্ঠ সাহাবী এবং তাঁর মৃত্যুর পরে তাঁর খিলাফতের ব্যাপারে তিনি সর্বোত্তম মানুষ ছিলেন।\r",
+    "কবর কেন্দ্রিক মসজিদ স্থাপন করা পূর্ববর্তী উম্মতের একটি নিকৃষ্ট কাজ ছিলো।\r",
+    "কবরকে ইবাদতের জায়গায় পরিণত করা, তাতে সালাত আদায় করা, এর উপরে মসজিদ নির্মাণ করা অথবা গম্বুজ বানানো, ইত্যাদি নিষিদ্ধ। এগুলোর কারণে শিরকে পতিত হওয়া থেকে সতর্ক করা হয়েছে।\r",
+    "সালেহীনদের ব্যাপারে সীমালঙ্ঘন থেকে সাবধান করা হয়েছে; কেননা এগুলো মানুষকে শিরকে পৌঁছায়।\r",
+    "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম যা থেকে উম্মতকে সাবধান করেছেন সেগুলোর ভয়াবহতা বর্ণিত হয়েছে। যেহেতু তিনি মৃত্যুর পাঁচ দিন পূর্বে এগুলোর ব্যাপারে কঠোরভাবে সাবধান করেছেন।"
+   ],
+   "mapping": "same HadeethEnc record id 3347; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:23+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3347",
+   "text": "জুনদুব রদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, তিনি বলেন: আমি নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের ওফাতের পাঁচদিন আগে তাঁকে বলতে শুনেছি, “তোমাদের কেউ আমার খলীল (অন্তরঙ্গ বন্ধু) হওয়া থেকে আমি আল্লাহর কাছে নিষ্কৃতি চাইছি; কেননা আল্লাহ তা‘আলা আমাকে  খলীলরূপে গ্রহণ করেছেন, যেমনিভাবে খলীলরূপে গ্রহণ করেছিলেন ইবরাহীম ‘আলাইহিস সালামকে। আমি যদি আমার উম্মাতের মধ্যে কাউকে খলীলরূপে গ্রহণ করতাম, তবে আবূ বকরকেই খলীলরূপে গ্রহণ করতাম। সাবধান! তোমাদের পূর্ববর্তী লোকেরা তাদের নবী ও নেককারদের কবরগুলোকে মাসজিদ বানিয়েছিল। সাবধান! তোমরা কবরগুলোকে মাসজিদ বানিও না। আমি তোমাদের তা থেকে নিষেধ করছি।”",
+   "title": "তোমাদের কেউ আমার খলীল (অন্তরঙ্গ বন্ধু) হওয়া থেকে আমি আল্লাহর কাছে নিষ্কৃতি চাইছি; কেননা আল্লাহ তা‘আলা আমাকে  খলীলরূপে গ্রহণ করেছেন, যেমনিভাবে খলীলরূপে গ্রহণ করেছিলেন ইবরাহীম ‘আলাইহিস সালামকে",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3347",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:e7f3f96100e7086d623eb1bba526ddf3e253d243da92940c993b737f0e54cbb5",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) talked about his status in the sight of Allah Almighty and that it reached the highest level of love as reached by Abraham (peace be upon him). That is why he denied that he should have an intimate friend other than Allah, for his heart was full of love and exaltation for Allah and knowledge about Him; so, it does not have room for anyone else. Had he taken an intimate friend from among the people, he would have been Abu Bakr (may Allah be pleased with him). Then, he warned against exceeding the permissible bounds regarding love, as done by the Jews and the Christians regarding the graves of their prophets and righteous people, so much that they turned them into polytheistic gods to be worshiped apart from Allah and built places of worship over those graves. The Prophet (may Allah's peace and blessings be upon him) forbade his Ummah from doing what they did.",
+   "grade": "Authentic",
+   "hints": [
+    "This points out the merit of Abu Bakr as-Siddīq (may Allah be pleased with him). He was the best among the Companions and the most entitled to succeed the Prophet (may Allah's peace and blessings be upon him) after his death.\r",
+    "Building places of worship over graves is one of the evil acts done by previous nations.\r",
+    "It is prohibited to take graves as places of worship, with prayer being offered therein or towards them, or to construct places of worship or domes over them, lest this should lead to polytheism.\r",
+    "It warns against going to extremes in revering the righteous people for this is conducive to polytheism.\r",
+    "It demonstrates the seriousness of what the Prophet (may Allah's peace and blessings be upon him) warned of, as he stressed it five days before his death."
+   ],
+   "mapping": "same HadeethEnc record id 3347; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:22+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3347",
+   "text": "Jundub (may Allah be pleased with him) reported: I heard the Prophet (may Allah's peace and blessings be upon him) five (nights) before he died, say: \"I stand acquitted before Allah that I should take anyone of you as an intimate friend, for Allah has taken me as an intimate friend just as he took Abraham as an intimate friend. Had I taken anyone from my Ummah as an intimate friend, I would have taken Abu Bakr as an intimate friend. Beware! Those who were before you used to take the graves of their prophets as places for prayer. Beware! Do not take graves as places for prayer, for I forbid you to do so.\"",
+   "title": "I stand acquitted before Allah that I should take anyone of you as an intimate friend, for Allah has taken me as an intimate friend just as he took Abraham as an intimate friend",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=3347",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:0ad5ecdaa63ea4ea095ab3e87f42caa96afad423220213087fd61bd24211bc5a",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) a informé de sa position auprès d'Allah, Exalté soit-Il, et qu'elle a atteint le plus haut des degrés de l'amour à l'instar de celle qu'a obtenue Abraham (sur lui la paix). C'est pourquoi il a infirmé avoir un ami intime autre qu'Allah ; cela parce que son cœur fut empli de l'amour d'Allah, Exalté soit-Il, de Sa haute considération et de Sa connaissance, à tel point qu'il n'y restait pas de place pour autre qu'Allah. Et s'il avait eu un ami intime parmi les créatures, cela aurait alors été Aboû Bakr Aṣ-Ṣiddîq (qu'Allah l'agrée). Ensuite, il a averti contre le dépassement de la limite permise dans l'amour comme l'ont fait les juifs et les chrétiens concernant les tombes de leurs Prophètes et  de leurs hommes vertueux au point d'en faire des divinités associées et adorées en dehors d'Allah. Ils ont ensuite bâti des lieux de culte et d'adoration sur leurs tombes. Et le Prophète (qu'Allah le couvre d'éloges et le préserve) a interdit aux gens de sa communauté qu'ils fassent comme ils ont fait.",
+   "grade": "Authentique",
+   "hints": [
+    "Le mérite d'Aboû Bakr (qu'Allah l'agrée) et le fait qu'il soit le meilleur des Compagnons ainsi que la personne la plus en droit à succéder au Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) après sa mort.\r",
+    "La construction de lieux de cultes sur les tombes fait partie des choses répréhensibles des communautés précédentes.\r",
+    "L'interdiction de prendre les tombes comme lieux de prière, d'en faire des lieux vers lesquels on se tourne pour prier, d'y construire des mosquées ou des dômes a été prescrite en guise de mise en garde contre le fait de tomber dans le polythéisme à cause de cela.\r",
+    "La mise en garde contre l'exagération vis-à-vis des hommes vertueux qui mène au polythéisme.\r",
+    "Le danger au sujet duquel le Prophète (qu'Allah le couvre d'éloges et le préserve) a mis en garde, à tel point qu'il a insisté dessus cinq jours avant sa mort."
+   ],
+   "mapping": "same HadeethEnc record id 3347; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:23+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/3347",
+   "text": "Joundoub (qu'Allah l'agrée) relate : J’ai entendu le Prophète (qu'Allah le couvre d'éloges et le préserve), cinq jours avant sa mort, alors qu'il disait : \"Je me déclare certes innocent devant Allah d'avoir parmi vous un ami intime ! Allah, Exalté soit-Il, m’a en effet pris pour ami intime, tout comme Il a pris Abraham (sur lui la paix) pour ami intime. Et si je devais prendre quelqu’un au sein de ma communauté pour ami intime, je prendrais certes Aboû Bakr (qu’Allah l’agrée) pour ami intime. N'est-ce pas que ceux qui vous ont précédés ont pris les tombes de leurs Prophètes et de leurs hommes vertueux comme lieux de culte ? Faites donc bien attention à ne pas prendre les tombes comme lieux de culte ! Je vous interdis certes cela !\"",
+   "title": "Je me déclare certes innocent devant Allah d'avoir parmi vous un ami intime ! Allah, Exalté soit-Il, m’a en effet pris pour ami intime, tout comme Il a pris Abraham (sur lui la paix) pour ami intime",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3347",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:ed4bb05d5fc93000293ec3126be6808c0bd4050aca125c0d0d97cfc2c13e9fd0",
+   "explanation": "Nabi ﷺ bercerita tentang kedudukan beliau di sisi Allah Ta'ala, bahwa kedudukan beliau mencapai tingkat cinta yang paling tinggi, sebagaimana kedudukan itu telah dicapai oleh Ibrahim -'alaihissalām-. Karenanya, beliau menafikan memiliki khalīl selain Allah karena hati beliau telah terisi penuh dengan cinta kepada Allah Ta'ala serta mengagungkan dan mengenal-Nya, sehingga tidak ada lagi tempat untuk yang lain selain Allah. Sekiranya beliau memiliki khalīl dari kalangan makhluk, tentulah ia adalah Abu Bakar Aṣ-Ṣiddīq -raḍiyallāhu 'anhu-. Kemudian beliau memberikan peringatan terhadap tindakan melampaui batas yang dibolehkan dalam cinta, sebagaimana yang dilakukan oleh orang-orang Yahudi dan Nasrani pada kubur para nabi dan orang-orang saleh sampai mereka menjadikannya sebagai tuhan-tuhan sekutu yang disembah selain Allah, serta mereka membangun tempat peribadatan di atas kubur mereka, dan beliau ﷺ melarang umatnya melakukan hal yang sama seperti perbuatan mereka.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Keutamaan Abu Bakar Aṣ-Ṣiddīq -raḍiyallāhu 'anhu-; bahwa dia adalah sahabat yang paling afdal dan merupakan orang paling patut sebagai khalifah (pengganti) Rasulullah ﷺ setelah kematian beliau.\r",
+    "2- Membangun tempat ibadah di atas kubur termasuk kemungkaran umat-umat terdahulu.\r",
+    "3- Larangan menjadikan kubur sebagai tempat ibadah dengan salat di dekatnya atau menghadap ke arahnya serta membangun masjid atau kubah di atasnya sebagai sikap kehati-hatian agar tidak jatuh dalam kesyirikan dengan sebab itu.\r",
+    "4- Peringatan terhadap sikap guluw (berlebihan) terhadap orang-orang saleh karena dapat mengantarkan kepada kesyirikan.\r",
+    "5- Betapa bahayanya perbuatan yang diingatkan oleh Nabi ﷺ, karena beliau menegaskannya lima hari sebelum kematian beliau."
+   ],
+   "mapping": "same HadeethEnc record id 3347; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:23+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3347",
+   "text": "Jundub -raḍiyallāhu 'anhu- meriwayatkan, ia berkata, Aku mendengar Nabi ﷺ bersabda di lima hari sebelum beliau meninggal dunia, \"Sungguh, aku menyatakan setia kepada Allah dengan menolak untuk mempunyai seorang khalīl (kekasih mulia) dari kalian, karena sesungguhnya Allah telah menjadikanku sebagai kekasih-Nya, sebagaimana Dia telah menjadikan Ibrahim sebagai kekasih-Nya. Seandainya aku menjadikan seorang kekasih dari umatku, maka aku akan jadikan Abu Bakar sebagai kekasihku. Ketahuilah, bahwa sesungguhnya umat-umat sebelum kalian telah menjadikan kuburan para Nabi mereka sebagai tempat ibadah. Ingatlah, jangan kalian menjadikan kuburan sebagai tempat beribadah, karena aku melarang kalian dari perbuatan itu.\"",
+   "title": "Sungguh, aku menyatakan setia kepada Allah dengan menolak untuk mempunyai seorang khalīl (kekasih mulia) dari kalian, karena sesungguhnya Allah telah menjadikanku sebagai kekasih-Nya, sebagaimana Dia telah menjadikan Ibrahim sebagai kekasih-Nya",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3347",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:de685b4def455074b71bd1997669264828322772b95045e35ad4e9f170e3d1d9",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم نے اللہ کے یہاں اپنے مقام و مرتبہ پر روشنی ڈالتے ہوئے کہا کہ آپ محبت کے اعلی درجے پر فائز ہیں۔ آپ کو اللہ کے یہاں محبت کا وہی مقام حاصل ہے، جو ابراہیم علیہ السلام کو حاصل تھا۔ اسی لیے آپ نے اس بات کی نفی کر دی ہے کہ اللہ کے علاوہ آپ کا کوئی خلیل ہو۔ کیوں کہ آپ کا دل اللہ کی محبت، تعظیم اور معرفت سے بھرا ہوا ہے، لہذا اس میں کسی اور کے لیے کوئی جگہ نہيں ہے۔ ہاں، اگر کوئی مخلوق آپ کا خلیل ہوتا، تو یہ مقام ابوبکر رضی اللہ عنہ کو حاصل ہوتا۔ پھر آپ نے محبت کے بارے میں جائز حد سے آگے بڑھنے سے متنبہ کیا، جیساکہ یہودیوں اور عیسائیوں  نے اپنے نبیوں اور نیک لوگوں کی قبروں کے ساتھ کیا اور ان کو معبود بنا کر اللہ کی بجائے پوجنا شروع کر دیا اور ان کى قبروں کو سجدہ گاہ اور عبادت گاہ بنا لیا۔ آپ نے اپنی امت کو ان کے نقش قدم پر چلنے سے منع کیا۔",
+   "grade": "صحيح",
+   "hints": [
+    "ابو بکر رضی اللہ عنہ کی فضیلت، ان کا افضل ترین صحابی اور اللہ کے رسول صلی اللہ علیہ و سلم کی موت کے بعد آپ کی خلافت کا سب سے زیادہ مستحق ہونا۔\r",
+    "قبروں پر مسجد تعمیر کرنا پچھلی امتوں کے غلط کاموں میں سے ایک ہے۔\r",
+    "اس میں قبروں کو عبادت کی جگہ بناکر ان کے پاس یا ان کی جانب منہ کرکے نماز پڑھنے اور ان کے اوپر مسجد یا گنبد بنانے سے منع کیا گیا ہے، تاکہ اس کی وجہ سے کوئی شرک کا شکار نہ ہو۔\r",
+    "اس میں نیک لوگوں کی قبروں کے بارے میں غلو سے کام لینے سے منع کیا گیا ہے، کیوں کہ یہ شرک کا سبب بنتا ہے۔\r",
+    "اللہ کے نبی صلی اللہ علیہ و سلم کے ذریعے آگاہ کیے گئے اس کام کی خطرناکی کا اندازہ اس بات سے لگایا جا سکتا ہے کہ آپ نے اپنی وفات سے پانچ دن پہلے اس سے بچنے کی تاکید کی ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 3347; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:23+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3347",
+   "text": "جندب رضی اللہ عنہ کہتے ہیں: میں نے اللہ کے نبی صلی اللہ علیہ و سلم کو وفات سے پانچ دن پہلے کہتے ہوئے سنا: \"میں اللہ تعالی کے سامنے اس چیز سے بری ہوں کہ تم میں سے کسی کو اپنا خلیل (سب سے پیارا دوست) بناؤں؛ کیوں کہ اللہ تعالیٰ نے مجھے اپنا خلیل بنایا ہے، جیسا کہ حضرت ابراہیم علیہ السلام کو خلیل بنایا تھا اور اگر میں اپنی امت میں سے کسی کو اپنا خلیل بناتا، تو ابوبکر (رضی اللہ تعالیٰ عنہ) کو بناتا۔ خبردار! بے شک تم سے پہلے لوگ اپنے نبیوں کی قبروں کو سجدہ گاہ بنا لیا کرتے تھے۔ لہذا خبردارتم قبروں کو سجدہ گاہ نہ بنانا، میں تمھیں اس سے منع کرتا ہوں“۔",
+   "title": "میں اللہ تعالی کے سامنے اس چیز سے بری ہوں کہ تم میں سے کسی کو اپنا خلیل (سب سے پیارا دوست) بناؤں؛ کیوں کہ اللہ تعالیٰ نے مجھے اپنا خلیل بنایا ہے، جیسا کہ حضرت ابراہیم علیہ السلام کو خلیل بنایا تھا",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3347",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:526961bab03364e0747fa3dea4a5ab7d0300e389a0d88b1b1ff642491aad0590",
+   "explanation": "先知（愿主福安之）告诉了他在安拉那里的地位，其地位确已达到受喜爱的最高等级，正如先知伊布拉欣所获得的地位一般。因此，除安拉外，他不再拣选密友。因为他的心里已充满了对安拉的喜爱、尊崇和认知，在他的心里除安拉以外再容不下任何人。 如果允许先知拥有密友，则非艾布·伯克尔莫属。 然后先知警告人们不可过度喜爱一个人，正如犹太人和基督徒对待他们的先知和清廉者的坟墓一般，直至演变成了超越安拉而受到崇拜的主宰，在他们的坟墓上建造了清真寺和道堂，先知（愿主福安之）禁止他的民族做出类似他们的行为。",
+   "grade": "正确的",
+   "hints": [
+    "艾布·伯克尔（愿主喜悦之）之优越，他是最优越的圣门弟子，在安拉的使者（愿主福安之）归真之后，他是人们当中最有资格成为其代治者的。\r",
+    "在坟墓上建造清真寺是前代民族犯下的大罪。\r",
+    "先知（愿主福安之）禁止将坟墓当成做功修的场所，禁止在墓地或朝向墓地礼拜，禁止在墓地上建造清真寺和圆顶，警告人们不要因此而犯下以物配主的大罪。\r",
+    "警告不可过分赞美清廉之人，这会导致以物配主。\r",
+    "先知（愿主福安之）所警告之事物的危险性，因为在他归真前五天对此给予了肯定。"
+   ],
+   "mapping": "same HadeethEnc record id 3347; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:23+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3347",
+   "text": "据朱德卜（愿主喜悦之）传述说： 在先知（愿主福安之）归真前五天我听他说：“我确已向安拉表明，你们当中不会有我的密友，因为安拉已经使我成为了他的密友，正如他让伊布拉欣成为他的密友一般。假如允许我从我的民族中拣选一位密友，我必定拣选艾布·伯克尔。注意！你们的前人曾将众先知和清廉者的坟墓当成了清真寺。注意！你们万不可将坟墓当成清真寺，的确我禁止你们这样做。”",
+   "title": "我确已向安拉表明，你们当中不会有我的密友，因为安拉已经使我成为了他的密友，正如他让伊布拉欣成为他的密友一般",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [
+  {
+   "meaning": " خمس ليال.",
+   "word": "بخمس"
+  },
+  {
+   "meaning": " أمتنع وأنكر.",
+   "word": "إني أبرأ"
+  },
+  {
+   "meaning": " يعني: اليهود والنصارى.",
+   "word": "من كان قبلكم"
+  }
+ ],
+ "words_meanings_language": "ar"
+}

@@ -1,0 +1,77 @@
+{
+ "answer": [
+  [
+   {
+    "kind": "strong",
+    "text": "ج:"
+   },
+   {
+    "kind": "text",
+    "text": " ثبت عن رسول الله ﷺ من حديث عائشة رضي الله عنها قالت: "
+   },
+   {
+    "kind": "hadith",
+    "text": "خلقت الملائكة من النور، وخلق الجان من مارج من نار، وخلق آدم مما وصف لكم"
+   },
+   {
+    "kind": "text",
+    "text": " (يعني من الطين) خرجه مسلم في صحيحه.\n أما الحكمة في ذلك فالله سبحانه وتعالى أعلم بها، وهو الحكيم العليم في كل ما يخلقه ويشرع، لا معقب لحكمه ولا راد لقضائه. وهو على كل شيء قدير"
+   },
+   {
+    "kind": "noteref",
+    "note": "1",
+    "text": "[1]"
+   },
+   {
+    "kind": "text",
+    "text": "."
+   }
+  ]
+ ],
+ "content_sha256": "sha256:3b9a416061780103260d93a443694faa030fa741b19c0a874e43cc150360e756",
+ "id": "binbaz-855",
+ "language": "ar",
+ "notes": [
+  {
+   "id": "1",
+   "runs": [
+    {
+     "kind": "text",
+     "text": "نشرت بالمجلة العربية في باب \"فاسألوا أهل الذكر\".  (مجموع فتاوى ومقالات الشيخ ابن باز: 4/ 154)."
+    }
+   ]
+  }
+ ],
+ "question": [
+  [
+   {
+    "kind": "text",
+    "text": "س: لقد خلق الله آدم من طين، وخلق قبله الملائكة، وكان ضمن الملائكة إبليس، وخلقه من النار، فلماذا خلقه من النار؟ ومن أي شيء خلق الله الملائكة؟"
+   }
+  ]
+ ],
+ "raw_sha256": "sha256:85f74f393078591666fca32036f9150a7f26a6c79a3cd6aae8b81f44e0646438",
+ "reuse_basis": "user_confirmed_permission",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.fatwa/2",
+ "source": {
+  "edition": "مجموع فتاوى ومقالات الشيخ ابن باز: 4/ 154",
+  "publisher": "binbaz.org.sa",
+  "publisher_name": "موقع الشيخ ابن باز",
+  "retrieved_at": "2026-10-06T03:52:30+00:00",
+  "series": "مجموع الفتاوى",
+  "url": "https://binbaz.org.sa/fatwas/855/%D9%85%D9%85-%D8%AE%D9%84%D9%82-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D9%89%D9%83%D8%A9-%D9%88%D8%A7%D8%A8%D9%84%D9%8A%D8%B3"
+ },
+ "source_categories": [
+  {
+   "id": "206",
+   "label": "الإسلام والإيمان",
+   "url": "https://binbaz.org.sa/categories/objective/206"
+  }
+ ],
+ "source_record_id": "855",
+ "title": "مم خلق الله الملائكة وإبليس؟",
+ "topic": "understanding_islam",
+ "translations": {},
+ "type": "fatwa"
+}

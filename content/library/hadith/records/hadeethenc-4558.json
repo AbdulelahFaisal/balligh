@@ -1,0 +1,188 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:305787b1f30c843730df988d92e5c2467e7e71364d488c9528e3e44c670b50f5",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "اشْتَكَى بعضُ فقراء الصحابة حالَهم وفقرَهم للنبيِّ صلى الله عليه وسلم وعَدَم تَصَدُّقِهم بالأموال لِيَحصلوا على الأجور الكثيرة كما حصل عليها إخوانُهم أصحاب المال الكثير وليفعلوا الخير مثلهم؛ حيث إنهم يُصلُّون كما نصلِّي، ويصومون كما نصوم، ويتصدقون بفضول أموالهم ولا نتصدق! \n\nفَدَلَّهم النبيُ صلى الله عليه وسلم على ما يقدرون عليه من الصدقات،‏ فقال صلى الله عليه وسلم: \n\nأَوَلَيس قد جعل الله لكم ما تَصدّقون به على أنفسكم؟! فإنّ قولَكم: (سبحان الله) يكون لكم أجر صدقة، وكذا قول: (الله أكبر) صدقة، وقول: (الحمد لله) صدقة، وقول: (لا إله إلا الله) صدقة، و(الأمر بالمعروف) صدقة، و(النهي عن المنكر) صدقة، بل ‏وفي جماع أحدكم لزوجته صدقة.\n\nفتعجَّبوا، وقالوا: يا رسول الله، أيأتي أحدُنا شهوتَه ويكونُ له فيها أجر؟! \n\nقال: أرأيتم لو وَضعها في حرامٍ مِن زنى أو غيره أكان عليه فيها إثم؟ فكذلك إذا وضعها في الحلال كان له أجر.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "تنافُس الصحابة على فعل الخيرات، وحرصهم في نيل عظيم الأجر والفضل من عند الله تعالى.",
+  "كثرة وجوه أعمال الخير، وأنها تشمل كلَّ عمل يقوم به المسلم بنية صالحة وقَصْد حَسَن.",
+  "يسر الإسلام وسهولته، فكل مسلم يجد ما يَعمله ليطيع الله به.",
+  "قال النووي: وفي هذا دليل على أنَّ المباحات تصير طاعات بالنيات الصادقات، فالجماع يكون عبادة إذا نَوَى به قضاء حقّ الزوجة ومعاشرتها بالمعروف الذي أمر الله تعالى به، أو طلب ولد صالح، أو إعفاف نفسه أو إعفاف الزوجة ومنعهما جميعًا من النظر إلى حرام، أو الفكر فيه، أو الهم به، أو غير ذلك من المقاصد الصالحة.",
+  "ضرب المثل والقياس؛ ليكون أوضح وأوقع في نفس السامع."
+ ],
+ "id": "hadeethenc-4558",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (2/ 697) (1006).\nبهجة الناظرين شرح رياض الصالحين، لسليم الهلالي (1/ 201).\nشرح رياض الصالحين، لابن عثيمين (2/ 161).\nكنوز رياض الصالحين، لمجموعة من الباحثين (3/ 31).\nنزهة المتقين شرح رياض الصالحين، لمجموعة من الباحثين (1/ 150).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=4558",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:46+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/4558"
+ },
+ "source_categories": [
+  {
+   "id": "511",
+   "label": "صدقة التطوع"
+  },
+  {
+   "id": "278",
+   "label": "فضائل الذكر"
+  }
+ ],
+ "source_record_id": "4558",
+ "text": "عَنْ أَبِي ذَرٍّ رضي الله عنه: أَنَّ نَاسًا مِنْ أَصْحَابِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالُوا لِلنَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: يَا رَسُولَ اللهِ، ذَهَبَ أَهْلُ الدُّثُورِ بِالْأُجُورِ، يُصَلُّونَ كَمَا نُصَلِّي، وَيَصُومُونَ كَمَا نَصُومُ، وَيَتَصَدَّقُونَ بِفُضُولِ أَمْوَالِهِمْ، قَالَ: «أَوَلَيْسَ قَدْ جَعَلَ اللهُ لَكُمْ مَا تَصَّدَّقُونَ؟ إِنَّ بِكُلِّ تَسْبِيحَةٍ صَدَقَةً، وَكُلِّ تَكْبِيرَةٍ صَدَقَةً، وَكُلِّ تَحْمِيدَةٍ صَدَقَةً، وَكُلِّ تَهْلِيلَةٍ صَدَقَةً، وَأَمْرٌ بِالْمَعْرُوفِ صَدَقَةٌ، وَنَهْيٌ عَنْ مُنْكَرٍ صَدَقَةٌ، وَفِي بُضْعِ أَحَدِكُمْ صَدَقَةٌ»، قَالُوا: يَا رَسُولَ اللهِ، أَيَأتِي أَحَدُنَا شَهْوَتَهُ وَيَكُونُ لَهُ فِيهَا أَجْرٌ؟ قَالَ: «أَرَأَيْتُمْ لَوْ وَضَعَهَا فِي حَرَامٍ أَكَانَ عَلَيْهِ فِيهَا وِزْرٌ؟ فَكَذَلِكَ إِذَا وَضَعَهَا فِي الْحَلَالِ كَانَ لَهُ أَجْرٌ».",
+ "title": "أوليس قد جعل الله لكم ما تصدقون؟ إن بكل تسبيحة صدقة، وكل تكبيرة صدقة، وكل تحميدة صدقة، وكل تهليلة صدقة، وأمر بالمعروف صدقة، ونهي عن منكر صدقة، وفي بضع أحدكم صدقة",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=4558",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:7ad44a4d6fc1a17dfca5fc8f77998b224465260cc2f074a8e21b0b13f0eec061",
+   "explanation": "কিছু দরিদ্র সাহাবী নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এর কাছে তাদের অবস্থা, দারিদ্র্য এবং তাদের ধনী ভাইদের প্রাপ্ত মহান সওয়াব অর্জন এবং তাদের মতো সৎকর্ম করার জন্য দান-খয়রাত করতে ব্যর্থতার অভিযোগ করেছিলেন। কারণ তারা আমাদের মতোই সালাত পড়ে, আমাদের মতোই সিয়াম রাখে এবং তাদের অতিরিক্ত অর্থ দান করে, কিন্তু আমরা তা করতে পারি না! নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদেরকে তারা যা দান-সদকা করতে পারে তা দেখিয়েছেন এবং তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন: তোমরা নিজেদের জন্য যা দান করতে পারো, আল্লাহ কি তোমাদের তা দেননি? কারণ তোমাদের কথা: (সুবহানাল্লাহ ) \"আল্লাহ পূত-পবিত্র ” তেমাদের জন্য সদকার সাওয়াব হবে। অনুরূপ (আল্লাহু আকবার) “আল্লাহ সবচেয়ে বড়” একটি সদকা। (আল হামদু লিল্লাহ) \"আল্লাহর জন্যই সকাল প্রশংসা\" বলা একটি সদকা, (লা ইলাহা ইল্লাল্লাহ) \"আল্লাহ ছাড়া সত্য কোন উপাস্য নেই\" বলা একটি সদকা। (ভালো কাজের আদেশ দেওয়া) হলো একটি সদকা আর (মন্দ কাজ থেকে নিষেধ করা) হলো একটি সদকা, বরং তোমাদের কেউ যদি তার স্ত্রীর সাথে সহবাস করে, তবুও তা একটি সদকা। তারা অবাক হয়ে বলল: হে আল্লাহর রাসূল, আমাদের কেউ তার ইচ্ছা পূরণ করবে এবং এর জন্য তার সাওয়াব হবে?! তিনি বললেন: তুমি কি মনে করো যদি সে এটিকে নিষিদ্ধ কাজে, যেমন ব্যভিচার বা অন্য কিছুতে রাখে, তাহলে কি সে এর জন্য গুনাহগার হবে? একইভাবে, যদি সে তা হালাল জায়গায় রাখে তার জন্য সাওয়াব হবে।",
+   "grade": "সহীহ",
+   "hints": [
+    "সাহাবীগণ নেক আমল করার জন্য প্রতিযোগিতা করতেন এবং আল্লাহ তা‘আলার কাছ থেকে মহান প্রতিদান ও অনুগ্রহ অর্জনের জন্য আগ্রহী ছিলেন।\r",
+    "সৎকর্মের অনেক ধরন রয়েছে এবং এর মধ্যে প্রতিটি কাজ অন্তর্ভুক্ত যা একজন মুসলিম ভালো নিয়ত এবং ভালো উদ্দেশ্য নিয়ে করে।\r",
+    "ইসলাম সহজ এবং সরল, তাই প্রতিটি মুসলিম আল্লাহর আনুগত্য করার জন্য কিছু না কিছু করার সুযোগ পায়।\r",
+    "আল-নওয়াবী বলেন: এটি প্রমাণ করে যে বৈধ কাজগুলি আন্তরিক নিয়তের কারণে ইবাদতের কাজ হয়ে ওঠে। স্ত্রীর অধিকার পূরণ করা, আল্লাহর আদেশ অনুসারে তার সাথে ভাল আচরণ করা, অথবা একটি নেক সন্তান কামনা করা, অথবা নিজেকে বা তার স্ত্রীকে রক্ষা করা এবং তাদের উভয়কে নিষিদ্ধ জিনিসের দিকে তাকানো থেকে বিরত রাখা, অথবা এটি সম্পর্কে চিন্তা করা, বা এটি সম্পর্কে ইচ্ছা করা, অথবা অন্যান্য সৎ উদ্দেশ্যে সহবাস একটি করে ইবাদত হয়ে ওঠে।\r",
+    "প্রবাদ এবং উপমা বয়ান করা; যেন শ্রোতার মনে আরও স্পষ্ট এবং আরও কার্যকরী হয়।"
+   ],
+   "mapping": "same HadeethEnc record id 4558; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:53+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/4558",
+   "text": "আবু যার রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত: রাসূল্লাহু সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের কতিপয় সাহাবী নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বললেন, ‘হে আল্লাহর রসূল! ধনীরাই তো বেশী নেকীর অধিকারী হয়ে গেল। তারা সালাত পড়ছে যেমন আমরা সালাত পড়ছি, তারা সিয়াম রাখছে যেমন আমরা রাখছি এবং (আমাদের চেয়ে তারা অতিরিক্ত কাজ এই করছে যে,) নিজেদের প্রয়োজন-অতিরিক্ত মাল থেকে তারা সাদকাহ করছে।’ তিনি বললেন, “আল্লাহ কি তোমাদের জন্য সাদকাহ করার মত জিনিস দান করেননি? নিঃসন্দেহে প্রত্যেক তাসবীহ সাদকাহ, প্রত্যেক তাকবীর সাদকাহ, প্রত্যেক তাহলীল সাদকাহ, ভাল কাজের নির্দেশ দেওয়া সাদকাহ ও মন্দ কাজ থেকে নিষেধ করা সাদকাহ এবং তোমাদের স্ত্রী-মিলন করাও সাদকাহ।” সাহাবাগণ বললেন, ‘হে আল্লাহর রসূল! আমাদের কেউ স্ত্রী-মিলন ক’রে নিজের যৌন ক্ষুধা নিবারণ করে, তবে এতেও কি তার পুণ্য হবে?’ তিনি বললেন, “কি রায় তোমাদের, যদি কেউ অবৈধভাবে যৌন-মিলন করে, তাহলে কি তার পাপ হবে? অনুরূপ সে যদি বৈধভাবে (স্ত্রী-মিলন করে) নিজের কাম-ক্ষুধা নিবারণ করে, তাহলে তাতে তার পুণ্য হবে”।",
+   "title": "“আল্লাহ কি তোমাদের জন্য সাদকাহ করার মত জিনিস দান করেননি? নিঃসন্দেহে প্রত্যেক তাসবীহ সাদকাহ, প্রত্যেক তাকবীর সাদকাহ, প্রত্যেক তাহলীল সাদকাহ, ভাল কাজের নির্দেশ দেওয়া সাদকাহ ও মন্দ কাজ থেকে নিষেধ করা সাদকাহ এবং তোমাদের স্ত্রী-মিলন করাও সাদকাহ।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=4558",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:67f4ca69ee24f9c4da6dbe667428cb3897bf4014cc258b0eef1284a151910cab",
+   "explanation": "Some of the Prophet's poor Companions complained to the Prophet (may Allah's peace and blessings be upon him) about their poverty and inability to give money in charity to attain abundant rewards, as those attained by their wealthy brothers, and to perform good deeds like them, for they pray as we pray, fast as we fast, and give charity from their surplus wealth, but we do not! The Prophet (may Allah's peace and blessings be upon him) guided them to charities they could afford, as he (may Allah's peace and blessings be upon him) said: Has Allah not provided for you that which you can give as charity for yourselves?! Saying (Subhānallāh) (Glory be to Allah) is counted as charity for you; also saying (Allāhu Akbar) (Allah is the Greatest) is charity; saying (Alhamdulillāh) (praise be to Allah) is charity; and saying (La ilāha illallāh) (There is no god but Allah) is charity. (Enjoining good) is charity, and (forbidding evil) is charity, and even if one of you has sexual intercourse with his wife, there is charity. They were amazed and said: O Messenger of Allah, does one of us fulfill his desire and receive a reward for it?! He said: Do you not see that if he were to fulfill it in a forbidden way, like adultery or otherwise, would he incur a sin? Similarly, if he fulfills it lawfully, he will have a reward.",
+   "grade": "Authentic",
+   "hints": [
+    "The Companions competed with one another in doing good deeds and were keen on attaining great rewards and favor from Allah Almighty.\r",
+    "The abundance of the fields of goodness and the fact that they include every act that a Muslim does with a righteous intention and for a good purpose.\r",
+    "The ease and simplicity of Islam, for every Muslim can find something to do in obedience to Allah.\r",
+    "An-Nawawi said: This is evidence that permissible actions can become acts of obedience through sincere intentions. Sexual intercourse with one's spouse becomes an act of worship if the person intends to fulfill the rights of the wife, treat her kindly as Allah Almighty has commanded, seek a righteous child, maintain one's or the wife's chastity, or prevent both from looking at the forbidden, thinking about it, or desiring it, or for any other righteous purpose.\r",
+    "Giving examples and using analogies to make the topic clearer and of a stronger impact on the listener."
+   ],
+   "mapping": "same HadeethEnc record id 4558; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:53+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/4558",
+   "text": "Abu Dharr (may Allah be pleased with him) reported: Some of the Companions of the Prophet (may Allah's peace and blessings be upon him) said to the Prophet (may Allah's peace and blessings be upon him): O Messenger of Allah, the wealthy have taken all the rewards. They pray as we pray, fast as we fast, and give charity from their surplus wealth. He said: \"Has Allah not provided for you that which you can give as charity? Every Tasbīh (saying: Glory be to Allah) is charity; every Takbīr (saying: Allah is the Greatest) is charity; every Tahmīd (saying: Praise be to Allah) is charity; and every Tahlīl (saying: There is no God but Allah) is charity. Enjoining good is charity, forbidding evil is charity, and even in fulfilling the sexual desire of one of you there is charity.\" They said: O Messenger of Allah, does one of us fulfill his desire and get rewarded for it? He said: \"Do you not see that if he were to fulfill it in a forbidden way, would he incur a sin? Similarly, if he fulfills it lawfully, he will have a reward.\"",
+   "title": "Has Allah not provided for you that which you can give as charity? Every Tasbīh (saying: Glory be to Allah) is charity; every Takbīr (saying: Allah is the Greatest) is charity; every Tahmīd (saying: Praise be to Allah) is charity; and every Tahlīl (saying: There is no God but Allah) is charity. Enjoining good is charity, forbidding evil is charity, and even in fulfilling the sexual desire of one of you there is charity",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=4558",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:44f4a531a49b8cfac3859b76eb96982ff722b95ca9b5c00543a84ccbbce3ca77",
+   "explanation": "Certains pauvres parmi les Compagnons (qu'Allah les agrée) se plaignirent au Prophète ﷺ de leur situation et leur pauvreté et le fait qu'ils ne faisaient pas aumône de leurs biens pour obtenir des récompenses abondantes, comme en obtiennent leurs frères qui possèdent de nombreux biens et ainsi faire le bien comme ils le font. \" En effet, ils prient comme nous prions, ils jeûnent comme nous jeûnons mais eux ils font l'aumône du surplus de leurs biens alors que nous, nous ne faisons pas l'aumône [comme eux le font] ! \" Alors, le Prophète ﷺ leur a indiqué ce qui leur était possible de faire comme aumônes. Il ﷺ a dit : « Allah ne vous a-t-il pas donné de quoi faire l'aumône pour vos personnes !? En effet, lorsque vous dites : \" Gloire à Allah (SubhânaLlah) \" Vous avez la récompense d'une aumône. Il en est de même de dire : \" Allah est le plus Grand (Allah Akbar) \" C'est une aumône ; dire : \" Louange à Allah (Al HamduliLlah) \" est une aumône ; dire : \" Il n'y a aucune divinité [digne d'adoration] excepté Allah (Lâ Ilaha IllaLlah) \" est une aumône ; ordonner le convenable est une aumône ; interdire le blâmable est une aumône ; bien plus, lorsque l'un d'entre vous a un rapport charnel avec son épouse, alors c'est une aumône. » Ils s'étonnèrent et demandèrent : « Ô Messager d’Allah ! L’un d'entre nous peut donc assouvir son plaisir et obtenir pour cela une récompense ?! » Il ﷺ répondit : « Que diriez-vous, s’il l’accomplissait dans l’illicite, que ce soit de la fornication ou autre que cela, ne commettrait-il pas un péché ? Il en est de même, s’il le fait dans ce qui est licite, alors il en a une récompense. »",
+   "grade": "Authentique",
+   "hints": [
+    "La concurrence des Compagnons (qu'Allah les agrée tous) dans l'accomplissement des voies du bien et leur assiduité dans l'obtention de l'immense récompense et la grâce de la part d'Allah (Élevé soit-Il).\r",
+    "La multitude des optiques des œuvres du bien et le fait qu'elles englobent chaque œuvre que le musulman accomplit avec une vertueuse intention et un bon objectif.\r",
+    "La facilité et la simplicité de l'Islam. En effet, chaque musulman y trouve ce qu'il peut accomplir pour obéir à Allah.\r",
+    "An-Nawawî (qu'Allah lui fasse miséricorde) a dit : \" Dans ce hadith, il y a une preuve que les choses permises peuvent devenir des obéissances dès lors qu'elles sont accompagnées d'intentions véridiques. En effet, le rapport sexuel peut devenir une adoration lorsque le mari a l'intention de s'acquitter du droit de son épouse et de cohabiter avec elle de manière convenable qu'Allah (Élevé soit-Il) a ordonnée, ou d'avoir un enfant vertueux, ou de préserver sa chasteté ou celle de son épouse, ou d'empêcher que tous les deux regardent ce qui est interdit, ou d'y penser, ou d'y aspirer, ou autre que cela parmi les finalités vertueuses. \"\r",
+    "Le fait de donner des exemples et de faire des analogies pour que cela soit plus clair pour l'auditeur et que cela lui parle de manière concrète."
+   ],
+   "mapping": "same HadeethEnc record id 4558; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:53+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/4558",
+   "text": "D'après Abû Dharr (qu'Allah l'agrée) qui a dit : \" Des personnes parmi les Compagnons du Prophète ﷺ ont dit au Prophète ﷺ : « Ô Messager d’Allah ! Les riches ont raflé toutes les récompenses ! Ils prient comme nous prions, ils jeûnent comme nous jeûnons et [en plus] ils font l'aumône du surplus de leurs biens ! » Il a alors répondu :  « Allah ne vous a-t-il pas donné de quoi faire l'aumône ? Chaque glorification [d’Allah] est une aumône ; chaque proclamation [de la grandeur d’Allah] est une aumône ; chaque louange [d’Allah] est une aumône ; chaque attestation de foi est une aumône ; ordonner ce qui est convenable est une aumône ; interdire ce qui est blâmable est une aumône ; et le rapport charnel [de l’homme avec sa femme] est une aumône. »  Ils demandèrent : « Ô Messager d’Allah ! Quelqu’un peut donc assouvir son plaisir et être récompensé !? » Il répondit : « Que diriez-vous, s’il l’accomplissait dans l’illicite, ne commettrait-il pas un péché ? Par conséquent, s’il le fait dans ce qui est licite, alors il en a une récompense. »",
+   "title": "Allah ne vous a-t-il pas donné de quoi faire l'aumône ? Chaque glorification [d’Allah] est une aumône ; chaque proclamation [de la grandeur d’Allah] est une aumône ; chaque louange [d’Allah] est une aumône ; chaque attestation de foi est une aumône ; ordonner ce qui est convenable est une aumône ; interdire ce qui est blâmable est une aumône ; et le rapport charnel [de l’homme avec sa femme] est une aumône.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=4558",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:b597ee05dcb20be3ed6598e1e5fc96d6ec50b5de5ea7408a3a62e91ad4ce1957",
+   "explanation": "Sebagian sahabat yang miskin datang mengadukan kondisi dan kemiskinan mereka kepada Nabi ﷺ serta ketidakmampuan mereka bersedekah dengan harta demi mendapatkan pahala yang banyak sebagaimana yang diperoleh oleh orang-orang yang memiliki banyak harta, dan agar mereka dapat melakukan kebaikan seperti mereka juga. Orang-orang kaya itu mengerjakan salat seperti kami salat, mereka melakukan puasa seperti kami berpuasa, namun mereka dapat bersedekah dengan kelebihan harta mereka sementara kami tidak dapat bersedekah! Maka Nabi ﷺ mengarahkan mereka pada sedekah yang sanggup mereka lakukan, beliau ﷺ bersabda: Bukankah Allah ﷻ telah membuatkan kalian apa yang bisa kalian sedekahkan?! Kalian membaca \"Subḥānallāh\" adalah berpahala sedekah bagi kalian. Demikian juga bacaan \"Allāhu Akbar\" adalah sedekah, bacaan \"Al-Ḥamdu lillāh\" adalah sedekah, bacaan \"Lā ilāha illallāh\" adalah sedekah, mengajak kepada kebaikan adalah sedekah, dan melarang kemungkaran adalah sedekah. Bahkan, perbuatan kalian menggauli istri adalah sedekah. Mereka pun heran dan mengatakan: Wahai Rasulullah! Apakah kami menyalurkan syahwat itu bisa mendapatkan pahala?! Beliau menjawab: Apa pandangan kalian seandainya ia menyalurkannya di tempat yang haram seperti zina dan lainnya, bukankah ia mendapatkan dosa? Demikian juga jika ia menyalurkannya di tempat yang halal, ia akan mendapatkan pahala.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Perlombaan para sahabat dalam mengerjakan kebaikan serta antusiasme mereka untuk meraih pahala dan kemuliaan yang besar di sisi Allah Ta'ala.\r",
+    "2- Banyaknya model perbuatan baik, yaitu mencakup seluruh amalan yang dilakukan seorang muslim dengan niat yang benar dan tujuan baik.\r",
+    "3- Kemudahan Islam, yaitu setiap muslim menemukan sesuatu yang dapat ia kerjakan dalam rangka taat kepada Allah.\r",
+    "4- An-Nawawiy berkata, \"Dalam hadis ini terdapat dalil bahwa perkara-perkara mubah dapat menjadi ketaatan dengan niat yang benar. Jimak akan bernilai ibadah ketika diniatkan untuk menunaikan hak istri serta memperlakukannya dengan baik sebagaimana yang diperintahkan oleh Allah Ta'ala, atau untuk mendapatkan anak saleh, menjaga diri atau menjaga istri dari zina serta mencegah mereka dari melihat yang haram atau memikirkan dan menginginkannya, ataupun tujuan-tujuan baik lainnya.\r",
+    "5- Membuat perumpamaan dan analogi agar persoalan menjadi lebih jelas dan lebih mengena dalam diri orang yang mendengar."
+   ],
+   "mapping": "same HadeethEnc record id 4558; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:53+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/4558",
+   "text": "Abu Żarr -raḍiyallāhu 'anhu- meriwayatkan, Beberapa orang sahabat berkata kepada Nabi ﷺ, \"Wahai Rasulullah! Orang-orang kaya telah menang banyak dengan mendapat banyak pahala. Mereka salat seperti kami salat, mereka berpuasa seperti kami berpuasa, tetapi mereka bersedekah dengan kelebihan harta mereka.\" Beliau ﷺ bersabda, \"Bukankah Allah telah memberi kalian sesuatu yang dapat kalian sedekahkan? Sungguh, pada setiap tasbih adalah sedekah, setiap takbir adalah sedekah, setiap tahmid adalah sedekah, setiap tahlil adalah sedekah, amar makruf adalah sedekah, dan melarang suatu kemungkaran adalah sedekah. Bahkan, pada senggama salah seorang kalian adalah sedekah.\" Para sahabat bertanya, \"Wahai Rasulullah! Apakah bila salah seorang kami menyalurkan syahwatnya, di dalamnya ia mendapatkan pahala?\" Beliau bersabda, \"Apa pendapat kalian jika ia menyalurkannya di tempat yang haram, apakah ia akan mendapatkan dosa? Demikian pula jika ia menyalurkannya di tempat yang halal, maka ia akan mendapatkan pahala.\"",
+   "title": "Bukankah Allah telah memberi kalian sesuatu yang dapat kalian sedekahkan? Sungguh, pada setiap tasbih adalah sedekah, setiap takbir adalah sedekah, setiap tahmid adalah sedekah, setiap tahlil adalah sedekah, amar makruf adalah sedekah, dan melarang suatu kemungkaran adalah sedekah. Bahkan, pada senggama salah seorang kalian adalah sedekah",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=4558",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:e014941e7d0a72511d768a06c00fb232b902769c95fc9c7e344c64613db28bc4",
+   "explanation": "بعض نادار صحابہ نے اللہ کے رسول ﷺ کے سامنے اپنی تنگ دستی، غربت اور اپنے اہل ثروت بھائیوں کی طرح مال صدقہ کرکے بڑا اجر و ثواب حاصل نہ کر پانے اور نیکی کے کاموں میں ان کے پہلو میں کھڑے نہ پو پانے کی شکایت کی اور کہا کہ ہم نماز پڑھتے ہیں تو وہ بھی نماز پڑھتے ہيں، ہم روزہ رکھتے ہيں تو وہ بھی روزہ رکھتے ہيں، لیکن اس کے ساتھ ہی وہ اپنے زائد مال میں سے صدقہ کر کے ہم سے آگے بڑھ جاتے ہيں اور ہمارے پاس صدقہ کرنے کے لیے کچھ ہوتا نہیں ہے۔ لہذا اللہ کے رسول ﷺ نے ان کو صدقے کی کچھ ایسی شکلیں بتا دیں، جو وہ کر سکتے تھے۔ فرمایا : کیا اللہ نے تمھارے لیے صدقہ کرنے کی راہیں نکال نہيں رکھی ہیں؟ \"سبحان اللہ\" کا ورد کرنا تمھارے لیے صدقے کا اجر و ثواب رکھتا ہے، \"اللہ اکبر\" کہنا تمھارے لیے صدقہ ہے، \"الحمد للہ\" کہنا صدقہ ہے، \"لا الہ الا اللہ\" کہنا صدقہ ہے، بھلائی کا حکم دینا صدقہ ہے، برائی سے روکنا صدقہ ہے، بلکہ اپنی اہلیہ سے ہم بستری کرنا بھی صدقہ ہے۔ صحابہ کو بڑا تعجب ہوا۔ کہنے لگے : اے اللہ کے رسول! ہمیں شہوت پوری کرنے کا بھی اجر و ثواب ملے گا؟ فرمایا : اچھا یہ بتاؤ کہ شہوت اگر وہ حرام جگہ سے پوری کرے، مثلا زنا وغیرہ میں ملوث ہو جائے، تو اسے گناہ ہوگا یا نہیں؟ بس اسی طرح اگر وہ شہوت حلال جگہ سے پوری کرتا ہے، تو اسے اجر و ثواب ملنا ہی چاہیے۔",
+   "grade": "صحيح",
+   "hints": [
+    "صحابۂ کرام نیک کاموں میں ایک دوسرے پر سبقت لے جانے کی کوشش کرتے اور اللہ کے نزدیک اجر عظیم اور فضل جزیل حاصل کرنے کے بے حد حریص رہا کرتے تھے۔\r",
+    "خیر کے کاموں کی بہت ساری شکلیں ہیں۔ ایک مسلمان کے ذریعے سچی نیت اور اچھے ارادے سے کیا جانے والا ہر کام خیر کا کام ہے۔\r",
+    "اسلام ایک آسان اور سہل مذہب ہے۔ چنانچہ ہر مسلمان اپنی استطاعت کے مطابق ایسا عمل کرسکتا ہے، جس سے اللہ کی اطاعت گزاری ہو جائے۔\r",
+    "نووی کہتے ہیں : نیت سچی ہو تو مباح کام بھی نیکی کے کام بن جاتے ہیں۔ جماع بھی عبادت بن جاتا ہے، اگر نیت بیوی کا حق ادا کرنا، اللہ کے حکم کے مطابق اس کے ساتھ اچھی زندگی گزارنا، صالح اولاد کی طلب، خود کو یا بیوی کو پاک دامن بنائے رکھنا اور حرام جگہ پر نظر ڈالنے، حرام چیز کے بارے میں سوچنے یا حرام کام کا ارادہ کرنے جیسی چیزوں سے بچانا یا اس طرح کے دوسرے نیک ارادے مد نظر ہوں۔\r",
+    "سننے والا بہتر طریقے سے سمجھ جائے اور اس کے دل میں بات زیادہ بہتر انداز میں بیٹھ جائے، اس کے لیے مثال دیا جانا اور کسی اچھائی پر قیاس کرنا رسول ﷺ کا طریقہ ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 4558; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:53+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/4558",
+   "text": "ابوذر غفاری رضی اللہ عنہ سے روایت ہے، وہ کہتے ہيں: اللہ کے نبی ﷺ کے بعض صحابہ نے آپ ﷺ سے عرض کیا : اے اللہ کے رسول! دولت مند لوگ کہیں (زیادہ) اجر لے گئے۔ وہ نماز پڑھتے ہیں جیسے ہم پڑھتے ہیں، وہ روزہ رکھتے ہیں جیسے ہم رکھتے ہیں، (اس پر مزید) وہ اپنے بچے ہوئے مال میں سے صدقہ و خیرات کر لیتے ہیں۔ آپ ﷺ نے فرمایا: ” کیا اللہ نے تمھیں صدقہ کرنے کو کچھ نہيں دیا ہے؟ بے شک ہر بار سبحان اللہ کہنا صدقہ ہے، ہر بار اللہ أکبر کہنا صدقہ ہے، ہر بار الحمد للہ کہنا صدقہ ہے اور ہر بار لاالہ الا اللہ کہنا صدقہ ہے، نیکی کا حکم دینا صدقہ ہے، برائی سے منع کرنا صدقہ ہے، اور تم میں سے کسی کا اپنی بیوی سے صحبت کرنا بھی صدقہ ہے“۔ لوگوں نے پوچھا: اے اللہ کے رسول! ہم میں سےایک شخص اپنی شہوت پوری کرتا ہے، کیا اس میں بھی اسے اجر ملتا ہے؟ آپﷺ نے فرمایا : ”بھلا بتلاؤ! اگر وہ اسے حرام جگہ سے پوری کرے، تو اسے گناہ ہوگا؟ اسی طرح جب وہ اسے حلال طریقے سے پوری کرے گا، تو اسے اجر ملے گا۔“",
+   "title": "” کیا اللہ نے تمھیں صدقہ کرنے کو کچھ نہيں دیا ہے؟ بے شک ہر بار سبحان اللہ کہنا صدقہ ہے، ہر بار اللہ أکبر کہنا صدقہ ہے، ہر بار الحمد للہ کہنا صدقہ ہے اور ہر بار لاالہ الا اللہ کہنا صدقہ ہے، نیکی کا حکم دینا صدقہ ہے، برائی سے منع کرنا صدقہ ہے، اور تم میں سے کسی کا اپنی بیوی سے صحبت کرنا بھی صدقہ ہے“۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=4558",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:e0437ee165b48c785b1c404ce79c0de380816599adeff28fffb6dffd131109b3",
+   "explanation": "一些贫穷的圣门弟子向先知（愿主福安之）诉说他们的状态和贫穷，以及他们无法施舍钱财，以便向富人一样得到丰厚的报酬和像他们一样行善，因为富人们像我们一样礼拜，像我们一样封斋，但他们有富裕的钱财去施舍，而我们确无法施舍。 先知（愿主福安之）便指示他们一些可以做到的施舍工作，先知（愿主福安之）说： 难道安拉没有赐予你们用以施舍的吗？你们说：“赞颂安拉清净”你们将得到施舍的回赐，说：“安拉至大”是施舍，说：“一切赞颂统归安拉”是施舍，说：“没有真应受拜的主，唯有安拉”是施舍，“命人行善”是施舍，“止人作恶”是施舍，甚至一个人与自己的妻子性交也是施舍。 他们表示惊奇，他们说：安拉的使者啊！我们发泄自己的欲望也会有回赐？ 先知（愿主福安之）回答说，你们告诉我，通奸等非法的发泄欲望会有罪吗？同样合法的发泄自己欲望也有回赐。",
+   "grade": "正确的",
+   "hints": [
+    "圣门弟子们竞争行善，他们渴望获得安拉的恩惠和巨大的报酬。\r",
+    "善行有很多，凡穆斯林所行的一切工作，只要有良好的举意和好的动机，则皆为善行。\r",
+    "伊斯兰教是简单易行的，每一名穆斯林都能找到适合自己的工作，以此来服从安拉。\r",
+    "伊玛目脑威说：圣训证明一些平常的许可之事，可能会因为诚实的举意而成为善行，如果一个人举意为完成对妻子的义务，遵照安拉之命令与其相处，或向安拉祈求一个清廉的孩子，或为了使自己安分守己，不观看，不想象非法之事等，一些良好的目标，那么与自己的妻子性交也有回赐。\r",
+    "举例和类比，以便使听者更明白。"
+   ],
+   "mapping": "same HadeethEnc record id 4558; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:53+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/4558",
+   "text": "据艾布·赞尔（愿主喜悦之）传述： 据艾布•赞勒（愿主喜悦他）传述：几位圣门弟子对安拉的使者（愿主福安之）说：“安拉的使者啊！富人们都已把报酬占去了！他们和我们一样礼拜，和我们一样斋戒，而他们却能以富裕的财产施舍！”安拉的使者（愿主福安之）说：“难道安拉没有赐予你们用以施舍的吗？的确，每一句‘赞主超绝’是施舍；每一句‘安拉之大’是施舍；每一句‘一切赞颂全归安拉’是施舍；每一句‘清真言’（除安拉外，绝无应受崇拜的）也是施舍；命人行善是施舍，止人作恶也是施舍；还有你们合法性生活也是施舍。”，圣门弟子们说：“安拉的使者啊！我们满足了自己的性欲，也能得到报偿吗？”使者说：“你们告诉我吧！如果一个人以非法的满足了自己的性欲，他不是犯罪了吗？同样，他以合法的满足了自己的性欲，他当然能得到报偿了。”",
+   "title": "“难道安拉没有赐予你们用以施舍的吗？的确，每一句‘赞主超绝’是施舍；每一句‘安拉之大’是施舍；每一句‘一切赞颂全归安拉’是施舍；每一句‘清真言’（除安拉外，绝无应受崇拜的）也是施舍；命人行善是施舍，止人作恶也是施舍；还有你们合法性生活也是施舍。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

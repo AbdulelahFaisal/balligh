@@ -1,0 +1,655 @@
+{
+ "ayah_count": 19,
+ "ayahs": [
+  {
+   "arabic": "سَبِّحِ ٱسۡمَ رَبِّكَ ٱلۡأَعۡلَى",
+   "aya": 1,
+   "id": 5949,
+   "tafsir": {
+    "arabic_moyassar": "نَزِّه اسم ربك الأعلى عن الشريك والنقائص تنزيهًا يليق بعظمته سبحانه، الذي خلق المخلوقات، فأتقن خلقها، وأحسنه، والذي قدَّر جميع المقدرات، فهدى كل خلق إلى ما يناسبه، والذي أنبت الكلأ الأخضر، فجعله بعد ذلك هشيمًا جافًا متغيرًا إلى السَّواد بعد اخضراره."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "হে রাসূল! তুমি তোমার সুমহান রবের নামের তাসবীহ পাঠ করো,"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Glorify the name of your Lord, the Most High,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Glorifie le nom de ton Seigneur, le Très Haut,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sucikanlah nama Tuhanmu Yang Mahatinggi,"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی ایسی چیزوں سے اللہ کی پاکیزگی جو اس کے لائق نہیں ہے۔ حدیث میں آتا ہے کہ نبی (صلى الله عليه وسلم) اس کے جواب میں پڑھا کرتے تھے، سُبْحَانَ رَبِّيَ الأَعْلَى (مسند أحمد، 1/ 232 ۔ أبو داود، كتاب الصلاة، باب الدعاء في الصلاة، وقال الألباني صحيح ) ۔",
+     "text": "اپنے بہت ہی بلند اللہ کے نام کی پاکیزگی بیان کر.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你当赞颂你至高养主的大名超绝万物，"
+    }
+   }
+  },
+  {
+   "arabic": "ٱلَّذِي خَلَقَ فَسَوَّىٰ",
+   "aya": 2,
+   "id": 5950,
+   "tafsir": {
+    "arabic_moyassar": "نَزِّه اسم ربك الأعلى عن الشريك والنقائص تنزيهًا يليق بعظمته سبحانه، الذي خلق المخلوقات، فأتقن خلقها، وأحسنه، والذي قدَّر جميع المقدرات، فهدى كل خلق إلى ما يناسبه، والذي أنبت الكلأ الأخضر، فجعله بعد ذلك هشيمًا جافًا متغيرًا."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "যিনি (সুসামঞ্জস্য করে) সৃষ্টি করেন, অতঃপর (তার অবয়বকে) সুঠাম করেন।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Who created and fashioned in due proportion,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "qui a donné à Ses créatures la forme la plus accomplie,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "yang menciptakan, lalu menyempurnakan (penciptaan-Nya),"
+    },
+    "ur": {
+     "footnotes": "[1] دیکھئے سورۃ الانفطار کا حاشیہ نمبر۔ 7",
+     "text": "جس نے پیدا کیا اور صحیح سالم بنایا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他创造万物，并使各物匀称。"
+    }
+   }
+  },
+  {
+   "arabic": "وَٱلَّذِي قَدَّرَ فَهَدَىٰ",
+   "aya": 3,
+   "id": 5951,
+   "tafsir": {
+    "arabic_moyassar": "نَزِّه اسم ربك الأعلى عن الشريك والنقائص تنزيهًا يليق بعظمته سبحانه، الذي خلق المخلوقات، فأتقن خلقها، وأحسنه، والذي قدَّر جميع المقدرات، فهدى كل خلق إلى ما يناسبه، والذي أنبت الكلأ الأخضر، فجعله بعد ذلك هشيمًا جافًا متغيرًا."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১) সৃষ্টির প্রকার, ধরন ও গুণাগুণ।",
+     "text": "আর যিনি (১) নির্ধারণ করেন, অতঃপর (তাদেরকে মানানসই) পথনির্দেশ দেন।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and Who determined [the creation] then inspired them,"
+    },
+    "fr": {
+     "footnotes": "[1] Autre sens : et leur a assigné une fonction et les moyens de la remplir.",
+     "text": "et les a guidées vers ce qu’Il leur a prédestiné[1],"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "yang menentukan kadar (masing-masing) dan memberi petunjuk,"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی نیکی اور بدی کی۔ اس طرح ضروریات زندگی کی۔ یہ ہدایت حیوانات کو بھی عطا فرمائی۔ قَدَرٌ کا مفہوم ہے۔ اشیا کی جنسوں، ان کی انواع وصفات اور خصوصیات کا اندازہ فرما کر انسان کی بھی ان کی طرف رہنمائی فرما دی تاکہ انسان ان سے استفادہ کر سکے۔",
+     "text": "اور جس نے (ٹھیک ٹھاک) اندازه کیا اور پھر راه دکھائی.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他预定万物，而加以引导。"
+    }
+   }
+  },
+  {
+   "arabic": "وَٱلَّذِيٓ أَخۡرَجَ ٱلۡمَرۡعَىٰ",
+   "aya": 4,
+   "id": 5952,
+   "tafsir": {
+    "arabic_moyassar": "نَزِّه اسم ربك الأعلى عن الشريك والنقائص تنزيهًا يليق بعظمته سبحانه، الذي خلق المخلوقات، فأتقن خلقها، وأحسنه، والذي قدَّر جميع المقدرات، فهدى كل خلق إلى ما يناسبه، والذي أنبت الكلأ الأخضر، فجعله بعد ذلك هشيمًا جافًا متغيرًا."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর যিনি (জমিন থেকে) ঘাস ও তৃণ-লতা উৎপন্ন করেন।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and Who brings forth the pasture,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "qui fait pousser l’herbe tendre dans les prés,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan Yang menumbuhkan rerumputan,"
+    },
+    "ur": {
+     "footnotes": "[1] جسے جانور چرتے ہیں۔",
+     "text": "اور جس نے تازه گھاس پیدا کی.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他生出牧草，"
+    }
+   }
+  },
+  {
+   "arabic": "فَجَعَلَهُۥ غُثَآءً أَحۡوَىٰ",
+   "aya": 5,
+   "id": 5953,
+   "tafsir": {
+    "arabic_moyassar": "نَزِّه اسم ربك الأعلى عن الشريك والنقائص تنزيهًا يليق بعظمته سبحانه، الذي خلق المخلوقات، فأتقن خلقها، وأحسنه، والذي قدَّر جميع المقدرات، فهدى كل خلق إلى ما يناسبه، والذي أنبت الكلأ الأخضر، فجعله بعد ذلك هشيمًا جافًا متغيرًا."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "অতঃপর তা কালো শুষ্ক খড়-কুটায় পরিণত করেন।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "then makes it into withered chaff."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "avant de la réduire en fétus sombres et desséchés."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "lalu dijadikan-Nya (rumput-rumput) itu kering kehitam-hitaman."
+    },
+    "ur": {
+     "footnotes": "[1] گھاس خشک ہو جائے تو اسے غُثَاءً کہتے ہیں، أَحْوَى سیاہ کر دیا۔ یعنی تازہ اور شاداب گھاس کو ہم سکھا کر سیاہ کوڑا بھی کر دیتے ہیں۔",
+     "text": "پھر اس نے اس کو (سکھا کر) سیاه کوڑا کر دیا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "然后使它变成黑色的枯草。"
+    }
+   }
+  },
+  {
+   "arabic": "سَنُقۡرِئُكَ فَلَا تَنسَىٰٓ",
+   "aya": 6,
+   "id": 5954,
+   "tafsir": {
+    "arabic_moyassar": "سنقرئك -أيها الرسول- هذا القرآن قراءة لا تنساها، إلا ما شاء الله مما اقتضت حكمته أن ينسيه لمصلحة يعلمها. إنه -سبحانه- يعلم الجهر من القول والعمل، وما يخفى منهما."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "হে রাসূল! আমি অচিরেই তোমাকে (আল-কুরআন) পড়িয়ে দিবো, অতঃপর তুমি তা ভুলবে না।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "We will teach you [the Qur’an], so you will not forget,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Nous allons t’enseigner le Coran que tu ne pourras oublier,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Kami akan membacakan (Al-Qur`an) kepadamu (Muhammad) sehingga engkau tidak akan lupa,"
+    },
+    "ur": {
+     "footnotes": "[1] حضرت جبرائیل (عليه السلام) وحی لے کر آتے تو آپ اسے جلدی جلدی پڑھتے تاکہ بھول نہ جائے۔ اللہ تعالیٰ نے فرمایا، اس طرح جلدی نہ کریں۔ نازل شدہ وحی ہم آپ کو پڑھوائیں گے یعنی آپ کی زبان پر جاری کر دیں گے، پس آپ اسے بھولیں گے نہیں۔ مگر جسے اللہ چاہے گا، لیکن اللہ نے ایسا نہیں چاہا، اس لئے آپ کو سب کچھ یاد ہی رہا۔ بعض نے کہا کہ اس کا مفہوم ہے کہ جن کو اللہ منسوخ کرنا چاہے گا وہ آپ کو بھلوا دے گا۔ ( فتح القدیر ) ۔",
+     "text": "ہم تجھے پڑھائیں گے پھر تو نہ بھولے گا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我将使你诵读，故你不会忘记，"
+    }
+   }
+  },
+  {
+   "arabic": "إِلَّا مَا شَآءَ ٱللَّهُۚ إِنَّهُۥ يَعۡلَمُ ٱلۡجَهۡرَ وَمَا يَخۡفَىٰ",
+   "aya": 7,
+   "id": 5955,
+   "tafsir": {
+    "arabic_moyassar": "سنقرئك -أيها الرسول- هذا القرآن قراءة لا تنساها، إلا ما شاء الله مما اقتضت حكمته أن ينسيه لمصلحة يعلمها. إنه - سبحانه- يعلم الجهر من القول والعمل، وما يخفى منهما."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তবে আল্লাহ যা চান তা ছাড়া। নিশ্চয় তিনি জানেন, যা প্রকাশ্য এবং যা গোপনীয়।"
+    },
+    "en": {
+     "footnotes": "[1] i.e., except what Allah wills to make you forget for wisdom such as abrogating or replacing a ruling by another.",
+     "text": "except what Allah wills[1], for indeed He knows what is manifest and what is hidden."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "excepté les versets qu’Allah voudra te faire oublier, Lui qui connaît aussi bien ce qui est apparent que ce qui est caché."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "kecuali jika Allah menghendaki. Sungguh, Dia mengetahui yang terang dan yang tersembunyi."
+    },
+    "ur": {
+     "footnotes": "[1] یہ عام ہے، جہر قرآن کا وہ حصہ بھی ہے جسے رسول اللہ (صلى الله عليه وسلم) یاد کر لیں، اور جو آپ کے سینے سے محو کر دیا جائے، وہ مخفی ہے۔ اس طرح جہر اونچی آواز سےپڑھے، خفی پست آواز سےپڑھے، خفی، چھپ کر عمل کرے اور جہر ظاہر، ان سب کو اللہ جانتا ہے۔",
+     "text": "مگر جو کچھ اللہ چاہے۔ وه ظاہر اور پوشیده کو جانتا ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "除非安拉所欲你〔忘记〕的。他的确知道显著的和隐微的。"
+    }
+   }
+  },
+  {
+   "arabic": "وَنُيَسِّرُكَ لِلۡيُسۡرَىٰ",
+   "aya": 8,
+   "id": 5956,
+   "tafsir": {
+    "arabic_moyassar": "ونيسرك لليسرى في جميع أمورك، ومن ذلك تسهيل تَلَقِّي أعباء الرسالة، وجعل دينك يسرًا لا عسر فيه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর আমি তোমার জন্য সহজ (দ্বীন ও নেক আমলের) পথ সুগম করে দেব।"
+    },
+    "en": {
+     "footnotes": "[2] To the way of Islam which brings about ease in this life and attainment of Paradise in the Hereafter, or will give you opportunities for righteous deeds that lead to Paradise.",
+     "text": "We will guide you to the easy way[2]."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Nous allons certainement te faciliter toute chose."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan Kami akan memudahkan bagimu ke jalan kemudahan (mencapai kebahagian dunia dan akhirat),"
+    },
+    "ur": {
+     "footnotes": "[1] یہ بھی عام ہے۔ مثلاً آپ پر وحی آسان کر دیں گے تاکہ اس کو یاد کرنا اور اس پر عمل کرنا آسان ہو جائے۔ ہم آپ کی اس طریقے کی طرف رہنمائی کریں گے جو آسان ہوگا۔ ہم جنت والا عمل آپ کے لئے آسان کر دیں گے، ہم آپ کے لئے ایسے افعال واقوال آسان کر دیں گے جن میں خیر ہو اور ہم آپ کے لئے ایسی شریعت مقرر کریں گے، جو سہل، مستقیم اور متعدل ہوگی، جس میں کوئی کجی، عسر اور تنگی نہیں ہوگی۔",
+     "text": "ہم آپ کے لئے آسانی پیدا کر دیں گے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我将使你遵循平易的道路，"
+    }
+   }
+  },
+  {
+   "arabic": "فَذَكِّرۡ إِن نَّفَعَتِ ٱلذِّكۡرَىٰ",
+   "aya": 9,
+   "id": 5957,
+   "tafsir": {
+    "arabic_moyassar": "فعظ قومك -أيها الرسول- حسبما يسرناه لك بما يوحى إليك، واهدهم إلى ما فيه خيرهم. وخُصَّ بالتذكير من يرجى منه التذكُّر، ولا تتعب نفسك في تذكير من لا يورثه التذكر إلا عتوًّا ونفورًا. سيتعظ الذي يخاف ربه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "হে রাসূল! তুমি (আল-কুরআন দ্বারা মানুষকে) উপদেশ দাও, যদি উপদেশ ফলপ্রসু হয়।"
+    },
+    "en": {
+     "footnotes": "[3] Wherever this Qur’an will be heard.",
+     "text": "So remind, if the reminder should benefit[3]."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Poursuis ta prédication tant que tes exhortations sont profitables."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "oleh sebab itu berikanlah peringatan, karena peringatan itu bermanfaat,"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی وعظ ونصیحت وہاں کریں جہاں محسوس ہو کہ فائدہ مند ہوگی۔ یہ وعظ ونصیحت اور تعلیم کے لئے ایک اصول اور ادب بیان فرما دیا۔ ( ابن کثیر ) امام شوکانی کے نزدیک مفہوم یہ ہے کہ آپ نصیحت کرتے رہیں، چاہے فائدہ دے یا نہ دے۔ کیونکہ انذار وتبلیغ دونوں صورتوں میں آپ کے لئے ضروری تھی۔ یعنی أَوْ لَمْ تَنْفَعْ یہاں محذوف ہے۔",
+     "text": "تو آپ نصیحت کرتے رہیں اگر نصیحت کچھ فائده دے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "故你当教诲〔众人〕，如果教诲有裨于〔他们〕的话。"
+    }
+   }
+  },
+  {
+   "arabic": "سَيَذَّكَّرُ مَن يَخۡشَىٰ",
+   "aya": 10,
+   "id": 5958,
+   "tafsir": {
+    "arabic_moyassar": "سيتعظ الذي يخاف ربه، ويبتعد عن الذكرى الأشقى الذي لا يخشى ربه، الذي سيدخل نار جهنم العظمى يقاسي حرَّها، ثم لا يموت فيها فيستريح، ولا يحيا حياة تنفعه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "অচিরেই সে-ই উপদেশ গ্রহণ করে, যে (আল্লাহকে) ভয় করে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "He who fears Allah will take heed,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "En tireront des leçons ceux qui craignent leur Seigneur,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "orang yang takut (kepada Allah) akan mendapat pelajaran,"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی آپ کی نصیحت سے وہ یقیناً عبرت حاصل کریں گے جن کے دلوں میں اللہ کا خوف ہوگا، ان میں خشیت الہیٰ اور اپنی اصلاح کا جذبہ مزید قوی ہو جائے گا۔",
+     "text": "ڈرنے واﻻ تو نصیحت لے گا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "畏主的人，将觉悟；"
+    }
+   }
+  },
+  {
+   "arabic": "وَيَتَجَنَّبُهَا ٱلۡأَشۡقَى",
+   "aya": 11,
+   "id": 5959,
+   "tafsir": {
+    "arabic_moyassar": "ويبتعد عن الذكرى الأشقى الذي لا يخشى ربه، الذي سيدخل نار جهنم العظمى يقاسي حرَّها، ثم لا يموت فيها فيستريح، ولا يحيا حياة تنفعه. قد فاز مَن طهر نفسه من الأخلاق السيئة، وذكر الله، فوحَّده ودعاه وعمل بما يرضيه، وأقام الصلاة في أوقاتها؛ ابتغاء رضوان الله وامتثالا لشرعه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর হতভাগাই তা এড়িয়ে যায়।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "but the wretched will avoid it,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "mais s’en détourneront les êtres les plus misérables,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan orang yang celaka (kafir) akan menjauhinya,"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی اس نصیحت سے فائدہ نہیں اٹھا سکیں گے کیوں کہ ان کا کفر پر اصرار اور اللہ کی معصیتوں میں انہماک جاری رہتا ہے۔",
+     "text": "(ہاں) بد بخت اس سے گریز کرے گا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "薄命的人，将退避，"
+    }
+   }
+  },
+  {
+   "arabic": "ٱلَّذِي يَصۡلَى ٱلنَّارَ ٱلۡكُبۡرَىٰ",
+   "aya": 12,
+   "id": 5960,
+   "tafsir": {
+    "arabic_moyassar": "سيتعظ الذي يخاف ربه، ويبتعد عن الذكرى الأشقى الذي لا يخشى ربه، الذي سيدخل نار جهنم العظمى يقاسي حرَّها، ثم لا يموت فيها فيستريح، ولا يحيا حياة تنفعه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "যে (জাহান্নামের) ভয়াবহ আগুনে প্রবেশ করবে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "who will enter the Great Fire,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "qui devront affronter la chaleur du feu le plus redoutable"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(yaitu) orang yang akan memasuki api yang besar (neraka),"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "جو بڑی آگ میں جائے گا."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他将入于大火，"
+    }
+   }
+  },
+  {
+   "arabic": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحۡيَىٰ",
+   "aya": 13,
+   "id": 5961,
+   "tafsir": {
+    "arabic_moyassar": "سيتعظ الذي يخاف ربه، ويبتعد عن الذكرى الأشقى الذي لا يخشى ربه، الذي سيدخل نار جهنم العظمى يقاسي حرَّها، ثم لا يموت فيها فيستريح، ولا يحيا حياة تنفعه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "অতঃপর সে সেখানে মরবেও না এবং (বাঁচার মতো) বাঁচবেও না।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "wherein he will neither die nor live."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "où il n’y aura pour eux ni mort pour les délivrer, ni vie véritable."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "selanjutnya dia di sana tidak mati dan tidak (pula) hidup."
+    },
+    "ur": {
+     "footnotes": "[1] ان کے برعکس جو لوگ صرف اپنے گناہوں کی سزا بھگتنے کے لئے عارضی طور پر جہنم میں رہ گئے ہوں گے انہیں اللہ تعالیٰ ایک طرح کی موت دے دے گا۔ حتیٰ کہ وہ آگ میں جل کر کوئلہ ہو جائیں گے، پھر اللہ تعالیٰ انبیا وغیرہ کی سفارش سے ان کو گروہوں کی شکل میں نکالے گا، ان کو جنت کی نہر میں ڈالا جائے گا، جنتی بھی ان پر پانی ڈالیں گے، جس سے وہ اس طرح جی اٹھیں گے جیسے سیلاب کے کوڑے پردانہ اگ آتا ہے ۔ (صحيح مسلم، كتاب الإيمان، باب إثبات الشفاعة وإخراج الموحدين من النار)۔",
+     "text": "جہاں پھر نہ وه مرے گا نہ جئےگا[1] ، (بلکہ حالت نزع میں پڑا رہے گا)."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "然后，在火里不死也不活。"
+    }
+   }
+  },
+  {
+   "arabic": "قَدۡ أَفۡلَحَ مَن تَزَكَّىٰ",
+   "aya": 14,
+   "id": 5962,
+   "tafsir": {
+    "arabic_moyassar": "قد فاز مَن طهر نفسه من الأخلاق السيئة، وذكر الله، فوحَّده ودعاه وعمل بما يرضيه، وأقام الصلاة في أوقاتها؛ ابتغاء رضوان الله وامتثالا لشرعه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(২) শিরক ও পাপাচার থেকে।",
+     "text": "অবশ্যই সে ব্যক্তি সফলতা অর্জন করেছে, যে (২) পবিত্রতা লাভ করেছে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Indeed, he who purifies himself will attain success,"
+    },
+    "fr": {
+     "footnotes": "[2] Et ses biens par l’aumône légale.",
+     "text": "Bienheureux, en vérité, celui qui purifie son âme[2],"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sungguh beruntung orang yang menyucikan diri (dengan beriman),"
+    },
+    "ur": {
+     "footnotes": "[1] جنہوں نے اپنے نفس کو اخلاق رذیلہ سے اور دلوں کو شرک ومعصیت کی آلودگی سے پاک کر لیا۔",
+     "text": "بیشک اس نے فلاح پالی جو پاک ہوگیا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "有教养的人确已成功，"
+    }
+   }
+  },
+  {
+   "arabic": "وَذَكَرَ ٱسۡمَ رَبِّهِۦ فَصَلَّىٰ",
+   "aya": 15,
+   "id": 5963,
+   "tafsir": {
+    "arabic_moyassar": "قد فاز مَن طهر نفسه من الأخلاق السيئة، وذكر الله، فوحَّده ودعاه وعمل بما يرضيه، وأقام الصلاة في أوقاتها؛ ابتغاء رضوان الله وامتثالا لشرعه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর সে তার রবের নাম স্মরণ করে, অতঃপর সালাত আদায় করে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and remembers his Lord’s Name and prays."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "qui invoque le nom de son Seigneur et accomplit la prière."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan mengingat nama Tuhannya, lalu dia salat."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "اور جس نے اپنے رب کا نام یاد رکھا اور نماز پڑھتا رہا."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他记念他的养主的尊名，而谨守拜功。"
+    }
+   }
+  },
+  {
+   "arabic": "بَلۡ تُؤۡثِرُونَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا",
+   "aya": 16,
+   "id": 5964,
+   "tafsir": {
+    "arabic_moyassar": "إنكم -أيها الناس- تفضِّلون زينة الحياة الدنيا على نعيم الآخرة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "বরং তোমরা দুনিয়ার জীবনকে (পরকালের জীবনের ওপর) প্রাধান্য দিচ্ছ।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "But you prefer the life of this world,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Vous préférez pourtant à l’au-delà cette vie périssable"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sedangkan kamu (orang-orang kafir) memilih kehidupan dunia,"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "لیکن تم تو دنیا کی زندگی کو ترجیح دیتے ہو."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "不然，你们却选择今世的生活；"
+    }
+   }
+  },
+  {
+   "arabic": "وَٱلۡأٓخِرَةُ خَيۡرٞ وَأَبۡقَىٰٓ",
+   "aya": 17,
+   "id": 5965,
+   "tafsir": {
+    "arabic_moyassar": "والدار الآخرة بما فيها من النعيم المقيم، خير من الدنيا وأبقى."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "অথচ আখিরাতই সর্বোত্তম ও স্থায়ী।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "even though the Hereafter is better and more lasting."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "alors que la vie future est bien meilleure et plus durable."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "padahal kehidupan akhirat itu lebih baik dan lebih kekal."
+    },
+    "ur": {
+     "footnotes": "[1] کیوں کہ دنیا اور اس کی ہر چیز فانی ہے، جب کہ آخرت کی زندگی دائمی اور ابدی ہے، اس لئے عاقل فانی چیز کو باقی رہنے والی پر ترجیح نہیں دیتا۔",
+     "text": "اور آخرت بہت بہتر اور بہت بقا والی ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "其实，后世是更好的，是更久长的。"
+    }
+   }
+  },
+  {
+   "arabic": "إِنَّ هَٰذَا لَفِي ٱلصُّحُفِ ٱلۡأُولَىٰ",
+   "aya": 18,
+   "id": 5966,
+   "tafsir": {
+    "arabic_moyassar": "إن ما أخبرتم به في هذه السورة هو مما ثبت معناه في الصُّحف التي أنزلت قبل القرآن، وهي صُحف إبراهيم وموسى عليهما السلام."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "নিশ্চয় এটা (এ নির্দেশ ও সংবাদগুলো) পূর্ববর্তী সহীফাসমূহে (লিখিত) আছে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Indeed, this was in the earlier Scriptures,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Ces vérités se trouvent déjà dans les premières Ecritures,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sesungguhnya ini terdapat dalam kitab-kitab yang dahulu,"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "یہ باتیں پہلی کتابوں میں بھی ہیں."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "这确是载在古经典中的，"
+    }
+   }
+  },
+  {
+   "arabic": "صُحُفِ إِبۡرَٰهِيمَ وَمُوسَىٰ",
+   "aya": 19,
+   "id": 5967,
+   "tafsir": {
+    "arabic_moyassar": "إن ما أخبرتم به في هذه السورة هو مما ثبت معناه في الصُّحف التي أنزلت قبل القرآن، وهي صُحف إبراهيم وموسى عليهما السلام."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "ইবরাহীম ও মূসার সহীফাসমূহে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "the Scriptures of Abraham and Moses."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "dans les Ecritures révélées à Abraham et à Moïse."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(yaitu) kitab-kitab Ibrahim dan Musa."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "(یعنی) ابراہیم اور موسیٰ کی کتابوں میں."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "载在易卜拉欣和穆萨的经典中的。"
+    }
+   }
+  }
+ ],
+ "content_sha256": "sha256:a74671a2a82123906375359e09b403e1565f0cff7004df2c42ec658f819eb49c",
+ "name_ar": "الأعلى",
+ "number": 87,
+ "schema": "balligh.library.quran.surah/1"
+}

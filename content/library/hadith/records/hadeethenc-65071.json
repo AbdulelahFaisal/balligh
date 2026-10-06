@@ -1,0 +1,188 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:d58f7429e9f4db2a2cbccb5bf7294b667eea4f5445e96d749c1d1543cade9ef4",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "جاء رجالٌ مِن المشركين للنبيِّ صلى الله عليه وسلم وكانوا قد أكثروا مِن القتل والزنا، فقالوا للنبي: إنّ ما تدعو إليه مِن الإسلام وتعاليمِه شيءٌ حسنٌ، ولكن ما حالُنا وما وَقَعنا فيه مِن الشرك والكبائر، هل له كفّارة؟\n\nفنزلت الآيتان، حيث قَبِل الله من الناس التَّوبة مع كثرة ذنوبهم وعِظمِها، ولولا ذلك لاستمرُّوا على كفرهم وطغيانهم ولَمَا دخلوا في هذا الدِّين.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "فضلُ الإسلام وعظمتُه وأنه يهدِمُ ما قَبله من الذنوب.",
+  "سعة رحمة الله بعباده ومغفرته وعفوه.",
+  "تحريم الشرك، وتحريم قتل النفس بغير حق، وتحريم الزنا، ووعيد مَن يَقترف هذه الذنوب.",
+  "التوبة الصادقة المقترنة بالإخلاص والعمل الصالح تكفّر جميع الكبائر بما فيها الكفر بالله تعالى.",
+  "تحريم القُنُوْطِ واليأسِ مِن رحمةِ الله سبحانه."
+ ],
+ "id": "hadeethenc-65071",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (6/ 125) (4810)، صحيح مسلم (1/ 113)  (122)، إرشاد الساري لشرح صحيح البخاري (7/ 319)، النهاية في غريب الحديث والأثر (ص 808).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=65071",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:32+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/65071"
+ },
+ "source_categories": [
+  {
+   "id": "88",
+   "label": "الإسلام"
+  },
+  {
+   "id": "738",
+   "label": "تفسير الآيات"
+  }
+ ],
+ "source_record_id": "65071",
+ "text": "عَنِ ‌ابْنِ عَبَّاسٍ رَضِيَ اللهُ عَنْهُمَا: أَنَّ نَاسًا مِنْ أَهْلِ الشِّرْكِ، كَانُوا قَدْ قَتَلُوا وَأَكْثَرُوا، وَزَنَوْا وَأَكْثَرُوا، فَأَتَوْا مُحَمَّدًا صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فَقَالُوا: إِنَّ الَّذِي تَقُولُ وَتَدْعُو إِلَيْهِ لَحَسَنٌ، لَوْ تُخْبِرُنَا أَنَّ لِمَا عَمِلْنَا كَفَّارَةً، فَنَزَلَ {وَالَّذِينَ لا يَدْعُونَ مَعَ اللهِ إِلَهًا آخَرَ وَلا يَقْتُلُونَ النَّفْسَ الَّتِي حَرَّمَ اللهُ إِلا بِالْحَقِّ وَلا يَزْنُونَ}[الفرقان: 68]، وَنَزَلَت: {قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ لا تَقْنَطُوا مِنْ رَحْمَةِ اللهِ} [الزمر: 53].",
+ "title": "إن الذي تقول وتدعو إليه لحسن، لو تخبرنا أن لما عملنا كفارة",
+ "topic": "understanding_islam",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=65071",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:30bbf1d5e692660674c2c717d09659923134e5ba01b9abe9307be9ff86532802",
+   "explanation": "মুশরিকদের কিছু লোক নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের নিকট আসল, তারা ইতোপূর্বে বহু হত্যা এবং অনেক ব্যভিচার করেছে। তারা মুহাম্মদ সাল্লাল্লাহু ’আলাইহি ওয়াসাল্লামকে বলল: ইসলাম ও তার শিক্ষার দিকে আপনার আহ্বান খুবই ভালো, কিন্তু আমাদের অবস্থা কী এবং আমরা যে শিরক ও কবিরাহ গুনাহে লিপ্ত হয়েছি; তার কোনো কাফফারা আছে কী?\r\n\r\nতখন আয়াত দু’টি নাযিল হলো, যেখানে আল্লাহ তাদের অধিক গুনাহ ও মহা পাপে পতিত হওয়া সত্তেও তাদের তাওবা কবুল করেছেন, যদি এরূপ না হতো, তাহলে তারা তাদের কুফরীতে ও সীমালঙ্ঘনে অব্যাহত থাকত এবং কখনো এই দীনে প্রবেশ করত না।",
+   "grade": "সহীহ",
+   "hints": [
+    "ইসলামের ফযীলত ও তার মহত্ব প্রমাণিত হয় এবং তা পূর্বের সকল পাপ মোচন করে দেয়।\r",
+    "বান্দাদের প্রতি আল্লাহর প্রশস্ত রহমত, ক্ষমা ও দয়া সাব্যস্ত হয়।\r",
+    "এখানে শিরক হারাম, অন্যায়ভাবে হত্যা করা হারাম, যেনা হারাম এবং যে এসব পাপে লিপ্ত হবে তার প্রতি কঠোর হুশিয়ারীর বর্ণনা রয়েছে।\r",
+    "ইখলাস ও নেক আমল সম্বলিত সত্যিকার তাওবা কুফরসহ সকল কবিরাহ গুনাহ মোচন করে দেয়।\r",
+    "আল্লাহু সুবহানাহু ওয়াতা‘আলার রহমত থেকে নিরাশ ও হতাশ হওয়া হারাম।"
+   ],
+   "mapping": "same HadeethEnc record id 65071; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:29+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/65071",
+   "text": "ইবনু ’আব্বাস রাদিয়াল্লাহু ‘আনহুমা হতে বর্ণিত, কিছু মুশরিক লাক বহু হত্যা করে এবং বেশি বেশি ব্যভিচার করে। তারপর তারা মুহাম্মদ সাল্লাল্লাহু ’আলাইহি ওয়াসাল্লাম-এর কাছে এসে বলল, আপনি যা বলেন এবং যেদিকে আহবান করেন, তা অতি উত্তম। আমাদের যদি অবগত করতেন, আমরা যা করেছি, তার কাফ্ফারা কী? এ প্রেক্ষাপটে অবতীর্ণ হয়: (অর্থ) “এবং যারা আল্লাহর সঙ্গে অন্য কোন মাবূদ কে  ডাকে না, আল্লাহ্ যাকে হত্যা করা নিষেধ করেছেন, তাকে না-হক হত্যা করে না এবং ব্যভিচার করে না”। [ফুরকান:৬৮] আরো অবতীর্ণ হয়ঃ ’’হে আমার বান্দাগণ! তোমরা যারা নিজেদের প্রতি অন্যায় করে ফেলেছ, আল্লাহর অনুগ্রহ থেকে নিরাশ হয়ো না।’’ [যুমার:৫৩]",
+   "title": "আপনি যা বলেন এবং যেদিকে আহবান করেন, তা অতি উত্তম। আমাদের যদি অবগত করতেন, আমরা যা করেছি, তার কাফ্ফারা কী",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=65071",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:5f8d08986e668f5072e0ce20ac5534ce8821e1cb1654f0ab3c687efc88aded55",
+   "explanation": "Some men from the polytheists came to the Prophet (may Allah's peace and blessings be upon him), as they had gone to extremes in killing and committing adultery, and said: Indeed, what you call to (Islam) and its teachings are something good. But, as for our condition and the polytheism and major sins we have committed, is there an expiation for them?\r\n\r\nThereupon, the two verses were revealed, as Allah accepted the repentance of those people despite their numerous and severe sins. Had it not been for that, they would have persisted in their disbelief and transgression and would not have embraced this religion.",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth points out the excellence and greatness of Islam and that it wipes out the sins committed before embracing it.\r",
+    "It shows Allah's vast mercy towards His servants and His forgiveness and pardon.\r",
+    "Shirk (polytheism) is prohibited, and so is killing a soul without right and the charge of adultery. There is a warning to those who perpetrate these sins.\r",
+    "True repentance coupled with sincerity and righteous deeds expiates all major sins, including disbelief in Allah Almighty.\r",
+    "It is prohibited to despair and lose hope in the mercy of Allah Almighty."
+   ],
+   "mapping": "same HadeethEnc record id 65071; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:28+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/65071",
+   "text": "Ibn ‘Abbās (may Allah be pleased with him) reported: A group of polytheists, who went to excess in killing and committing illegal sexual intercourse, came to Muhammad (may Allah's peace and blessings be upon him) and said: \"What you say and invite people to is indeed good. If only you could tell us whether there is an expiation for what we did. Thereupon, it was revealed: {and those who do not invoke besides Allah, another god, and who do not kill a soul whom Allah has forbidden, except in the course of justice, and who do not commit adultery} [Surat al-Furqān: 68]. And the following verse was revealed: {Say [Allah says]: \"O My slaves who have transgressed against themselves, do not despair of Allah's mercy.\"} [Surat az-Zumar: 53]",
+   "title": "What you say and invite people to is indeed good. If only you could tell us whether there is an expiation for what we did",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=65071",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:1f7a5b2bfae0e648b5678865cf6d1a01e67b9596b3b61b14f048aa6a7c6145b3",
+   "explanation": "Des hommes parmi les polythéistes se rendirent auprès du Prophète ﷺ et ils avaient beaucoup tué et forniqué, alors ils ont dit au Prophète ﷺ : \" Certes, l'Islam auquel tu appelles ainsi que ses enseignements sont quelque chose de beau mais au regard de notre situation et de ce que nous avons commis comme polythéisme et péchés majeurs, y'a-t-il une expiation à tout cela ?\r\n\r\nAlors, ces deux versets descendirent pour montrer qu'Allah accepte le repentir des hommes malgré leurs nombreux péchés et leur gravité. Et s'il n'y avait pas cela, alors les gens continueraient dans leur mécréance et leur transgression et ils n'entreraient pas dans cette religion.",
+   "grade": "Authentique",
+   "hints": [
+    "Le mérite de l'Islam et sa grandeur et le fait qu'il détruit ce qui a précédé comme péchés.\r",
+    "L'étendue de la miséricorde d'Allah envers Ses serviteurs, Son pardon et Son absolution.\r",
+    "L'interdiction du polythéisme, l'interdiction du meurtre sans droit, l'interdiction de la fornication et la menace contre quiconque commet ces péchés.\r",
+    "Le repentir véridique lié à la sincérité et l'oeuvre vertueuse expie l'ensemble des péchés majeurs dans lesquels il y a de la mécréance à Allah ﷻ.\r",
+    "L'interdiction de désespérer et de perdre espoir dans la  miséricorde d'Allah ﷻ."
+   ],
+   "mapping": "same HadeethEnc record id 65071; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:29+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/65071",
+   "text": "D'après Ibn 'Abbâs (qu'Allah les agrée tous les deux) : \" Des gens parmi les polythéistes avaient vraiment tué beaucoup et avaient beaucoup forniqué, alors ils se rendirent auprès de Muhammad ﷺ et [lui] dirent : \"  Certes, ce que tu dis et ce à quoi tu appelles est beau. Si seulement, tu nous informais de ce que nous aurions pu œuvré comme expiation  [pour ce que nous avons commis]. Alors, le verset suivant descendit : {Et ceux qui n'invoquent pas avec Allah une autre divinité, qui ne tuent pas l'âme qu'Allah a rendue sacrée, excepté de juste droit, et ne forniquent pas.} [Le Discernement, 25 : 68]. Et ensuite, le verset suivant est descendu : {Dis : \" Ô Mes serviteurs ! Ceux qui ont commis des excès contre eux-mêmes, ne désespérez pas de la miséricorde d'Allah. [Les Groupes, 39 : 53].",
+   "title": "Certes, ce que tu dis et ce à quoi tu appelles est beau. Si seulement, tu nous informais de ce que nous aurions pu œuvré comme expiation",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=65071",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:ca87444f321ad436bbdcf995dc4b70e7f1a9bc4869dc50ef25d7bd4ba859fc9c",
+   "explanation": "Sejumlah laki-laki dari kalangan musyrikin datang menemui Nabi ﷺ. Sebelumnya, mereka banyak membunuh dan berzina. Lalu mereka bertanya kepada Nabi: Islam yang engkau dakwahkan berikut ajaran-ajarannya adalah sesuatu yang bagus, tetapi keadaan kami serta kesyirikan dan dosa-dosa besar yang kami terjerumus di dalamnya, apakah ada penggugurnya?\r\n\r\nMaka turunlah dua ayat tersebut, yaitu Allah menerima tobat manusia sekalipun dosa mereka banyak dan besar. Kalau tidak seperti itu, niscaya mereka akan tetap lanjut di atas kekafiran dan kezaliman mereka, serta mereka tidak akan masuk ke dalam agama ini.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Keutamaan dan keagungan Islam, yaitu ia menggugurkan dosa-dosa sebelumnya.\r",
+    "2- Luasnya rahmat dan ampunan Allah untuk para hamba-Nya.\r",
+    "3- Pengharaman kesyirikan, membunuh jiwa tanpa alasan yang benar, dan pengharaman zina serta ancaman bagi orang yang melakukan dosa-dosa tersebut.\r",
+    "4- Tobat yang benar yang disertai keikhlasan dan amal saleh akan menggugurkan semua dosa besar, termasuk dosa kufur kepada Allah Ta'ala.\r",
+    "5- Pengharaman sikap berputus asa dari rahmat Allah ﷻ."
+   ],
+   "mapping": "same HadeethEnc record id 65071; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:28+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/65071",
+   "text": "Ibnu 'Abbās -raḍiyallāhu 'anhumā- meriwayatkan, Sejumlah orang dari kalangan musyrikin telah banyak membunuh dan banyak berzina. Mereka lalu datang menemui Nabi Muhammad ﷺ seraya bertanya, \"Sungguh, yang engkau sampaikan dan dakwahkan itu benar-benar bagus, sekiranya engkau mengabarkan kafarat untuk apa yang telah kami perbuat?\" Maka turunlah ayat: \"Orang-orang yang tidak mempersekutukan Allah dengan sembahan lain dan tidak membunuh orang yang diharamkan Allah kecuali dengan (alasan) yang benar, dan tidak berzina...\" [QS. Al-Furqān: 68] Juga turun ayat: \"Katakanlah, 'Wahai hamba-hamba-Ku yang melampaui batas terhadap diri mereka sendiri! Janganlah kamu berputus asa dari rahmat Allah...\" [QS. Az-Zumar: 53]",
+   "title": "Sungguh, yang engkau sampaikan dan dakwahkan itu benar-benar bagus, sekiranya engkau mengabarkan kafarat untuk apa yang telah kami perbuat?",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=65071",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:bc850f4f4c47250999cd9186983508a8c00adb984a3ced8c4e22d3d737e91b8b",
+   "explanation": "کچھ مشرک اللہ کے نبی صلی اللہ علیہ و سلم کے پاس آئے، جو قتل و زنا میں بہت زیادہ ملوث رہ چکے تھے اور آپ سے کہنے لگے: آپ ہمیں جس مذہب اسلام اور اس کی تعلیمات کی دعوت دے رہے ہیں، وہ یقینًا بہترین چیزیں ہیں۔ لیکن یہ بتائیں کہ ہمارا جو حال ہے اور ہم جس طرح شرک اور بڑے بڑے گناہوں میں ملوث ہيں، کیا آپ کے مذہب میں اس کا کوئی کفارہ ہے؟\r\n\r\nچنانچہ یہ دونوں آیتیں اتریں اور اللہ تعالی نے بتایا کہ انسان چاہے جتنی تعداد میں جتنے بھی بڑے بڑے گناہ کر بیٹھے، سچے دل سے توبہ کرنے پر اللہ اس کی توبہ قبول ضرور کرتا ہے۔ اگر ایسا نہ ہوتا، تو لوگ آگے بھی کفر اور سرکشی کے راستے پر چلتے رہتے اور اسلام قبول نہ کرتے۔",
+   "grade": "صحيح",
+   "hints": [
+    "اسلام کی فضیلت و عظمت اور اس بات کی وضاحت کہ اسلام پچھلے تمام گناہوں کو مٹا دیتا ہے۔\r",
+    "اپنے بندوں پر اللہ کی وسیع رحمت، مغفرت اور درگزر۔\r",
+    "شرک حرام ہے، کسی کا ناحق قتل حرام ہے، زنا حرام ہے اور ان گناہوں میں ملوث ہونے والوں کے لیے بڑی سخت وعید ہے۔\r",
+    "سچی توبہ، جو اخلاص اور عمل صالح سے جڑی ہوئی ہو، کفر سمیت تمام گناہوں کا کفارہ بن جاتی ہے۔\r",
+    "اللہ پاک کی رحمت سے مایوس ہونا حرام ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 65071; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:28+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/65071",
+   "text": "عبداللہ بن عباس رضی اللہ عنہما سے روایت ہے کہ کچھ مشرک، جنھوں نے بہت سے لوگوں کی جانیں لی تھیں اور زنا میں بھی بہت زیادہ ملوث رہ چکے تھے، اللہ کے رسول صلی اللہ علیہ و سلم کے پاس آئے اور کہنے لگے : آپ جو کچھ کہہ رہے ہیں اور جن باتوں کی دعوت دے رہے ہیں، سب ٹھیک ہیں۔ اگر آپ ہمیں یہ بتا دیں کہ ہم نے جو گناہ کیے ہیں، ان کا کفارہ بھی ہے، (تو بہتر ہوگا)۔ چنانچہ یہ آیت کریمہ اتری : {وَالَّذِينَ لا يَدْعُونَ مَعَ اللهِ إِلَهًا آخَرَ وَلا يَقْتُلُونَ النَّفْسَ الَّتِي حَرَّمَ اللهُ إِلا بِالْحَقِّ وَلا يَزْنُونَ} (اور جو اللہ کے ساتھ کسی دوسرے معبود کو نہيں پکارتے اور نہ اس نفس کو قتل کرتےہيں، جسے اللہ نے حرام ٹھہرایا ہے، مگر حق کے ساتھ اور نہ زنا کرتے ہیں۔) [سورہ الفرقان : 66] اور یہ آیت کریمہ بھی اتری : {قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ لا تَقْنَطُوا مِنْ رَحْمَةِ اللهِ} (اے نبی! آپ میرے ان بندوں سے کہہ دیں، جنھوں نے اپنے اوپر ظلم کیے ہیں کہ  تم اللہ کی رحمت سے مایوس نہ ہو۔) [سورہ زمر : 53]",
+   "title": "آپ جو کچھ کہہ رہے ہیں اور جن باتوں کی دعوت دے رہے ہیں، سب ٹھیک ہیں۔ اگر آپ ہمیں یہ بتا دیں کہ ہم نے جو گناہ کیے ہیں، ان کا کفارہ بھی ہے، (تو بہتر ہوگا)",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=65071",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:a71a7690cdfaea8be48e7dd8ccf2182f9cb1d499c1cc1441c3bec3ea8346632f",
+   "explanation": "一些多神教徒来见先知（愿主福安之），他们曾杀人如麻、淫乱无度，他们对先知（愿主福安之）说：你所宣传的伊斯兰及其教导的确是好东西，但是们已经犯下大罪和以物配主之罪行将如何处置？这些罪行可否被罚赎？\r\n\r\n然后降示了上述两节经文，因为安拉已经接受了人们的忏悔，尽管他们已犯下滔天罪行，如若非如此，他们必定持续昧信、继续作恶，他们便不会加入这个宗教。",
+   "grade": "正确的",
+   "hints": [
+    "伊斯兰之优越，因为它会消除以往的一切罪行。\r",
+    "安拉对仆人的仁慈、饶恕和原谅之宽广。\r",
+    "禁止以物配主、禁止无辜杀人、禁止通奸，警告触犯这些罪行之人。\r",
+    "真诚的忏悔，需伴随着虔诚和善功，它将消除一切大罪，即使是否认安拉的大罪亦能消除。\r",
+    "禁止绝望于安拉的仁慈。"
+   ],
+   "mapping": "same HadeethEnc record id 65071; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:28+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/65071",
+   "text": "据伊本·阿巴斯（愿主喜悦他俩）传述： 多神教徒中有些人曾杀人如麻、淫乱无度，他们来见穆罕默德 （愿主福安之）说：你所宣传的确实很好，你能否告诉我们，我们已往的罪恶是否能够得到罚赎？接着降示了下列经文：{他们只祈祷安拉，不祈祷别的神灵；他们不违背真主的禁令而杀人，除非由于偿命；他们也不通奸。}【准则章：68】还降示：{你说：‘我的过分自害的众仆呀！你们对真主的恩惠不要绝望。’}【队伍章：53】",
+   "title": "你所宣传的确实很好，你能否告诉我们，我们已往的罪恶是否能够得到罚赎",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

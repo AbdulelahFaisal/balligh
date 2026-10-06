@@ -1,0 +1,177 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:229a10a121badc17a36bb662b46e9a0ef9e64376ead7a809b42548dba28707d0",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "عَلَّمَ النبيُّ صلى الله عليه وسلم ابنَ مسعود رضي الله عنه التشهدَ الذي يقال في الصلاة، وقد جَعل يدَه في يديه، لِيَصْرِفَ انتباهَ ابنِ مسعود إليه. كما يُعَلِّمُه السورة من القرآن مما يدل على اعتناء النبي صلى الله عليه وسلم بهذا التشهد لفظًا ومعنى. \nفقال: \n\"التَّحِيَّات لله\":\n وهي كل قول أو فعل دَالٍّ على التعظيم، كلُّها مُسْتَحَقَّة لله عز وجل. \n\"الصَّلَوَاتُ\": \nوهي الصلاة المعروفة فرضُها ونفلُها لله تعالى. \n\"الطَّيِّبَاتُ\": \nهي الأقوال والأفعال والأوصاف الطيبة والدالّة على الكمال، كلُّها مستحقة لله تعالى. \n\"السلام عليك أيها النبي ورحمة الله وبركاته\": \nدعاء له بالسلامة من كل آفَةٍ ومكروه، والزيادة والكثرة من كل خير. \n\"السلام علينا وعلى عباد الله الصالحين\": \nدعاء بالسلامة للمُصلي ولكل عبد صالح في السماء والأرض. \n\"أشهد أن لا إله إلا الله\": \nأي أُقِرُّ إقرارًا جازمًا به بأنه لا معبود حق إلا الله. \n\"وأَنَّ مُحَمَّدًا عَبْدُهُ ورسولُهُ\": \nأُقِرُّ له بالعبودية والرسالة الخاتمة.\n\nثم حَثَّ النبيُّ صلى الله عليه وسلم المصليَ أن يَختارَ مِن الدعاء ما شاء.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "مَحلُّ هذا التشهدِ القعودُ بعد السجدة الأخيرة في كل صلاة، وبعد الركعة الثانية في الثلاثية والرباعية.",
+  "وجوب التحيات في التشهد، ويجوز أن يتشهدَ بأيِّ لفظ من ألفاظ التشهد مما ثبت عن النبي صلى الله عليه وسلم.",
+  "جواز الدعاء في الصلاة بما أحب ما لم يكن إثمًا.",
+  "استحباب البداءة بالنَّفْس في الدعاء."
+ ],
+ "id": "hadeethenc-3096",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (8/ 59) (6265).\nصحيح مسلم (1/ 301) (402).\nالإلمام بشرح عمدة الأحكام، لإسماعيل الأنصاري (1/ 168).\nتيسير العلام شرح عمدة الأحكام، للبسام (ص206).\nخلاصة الكلام شرح عمدة الأحكام، لفيصل آل مبارك (ص94).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3096",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:48+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3096"
+ },
+ "source_categories": [
+  {
+   "id": "464",
+   "label": "صفة الصلاة"
+  }
+ ],
+ "source_record_id": "3096",
+ "text": "عَنِ ابْنَ مَسْعُودٍ رضي الله عنه قَالَ: عَلَّمَنِي رَسُولُ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَكَفِّي بَيْنَ كَفَّيْهِ، التَّشَهُّدَ، كَمَا يُعَلِّمُنِي السُّورَةَ مِنَ القُرْآنِ: «التَّحِيَّاتُ لِلَّهِ، وَالصَّلَوَاتُ وَالطَّيِّبَاتُ، السَّلاَمُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، السَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ، أَشْهَدُ أَنْ لاَ إِلَهَ إِلَّا اللَّهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ».\nوفي لفظ لهما: «إِنَّ اللهَ هُوَ السَّلَامُ، فَإِذَا قَعَدَ أَحَدُكُمْ فِي الصَّلَاةِ فَلْيَقُلْ: التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللهِ الصَّالِحِينَ، فَإِذَا قَالَهَا أَصَابَتْ كُلَّ عَبْدٍ لِلَّهِ صَالِحٍ فِي السَّمَاءِ وَالْأَرْضِ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ، ثُمَّ يَتَخَيَّرُ مِنَ الْمَسْأَلَةِ مَا شَاءَ».",
+ "title": "علمني رسول الله صلى الله عليه وسلم، وكفي بين كفيه، التشهد، كما يعلمني السورة من القرآن",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3096",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:0197b533fd77592d63f8a66f13d0cf5203d17cac0848f9b97baa01d2d3a14c05",
+   "explanation": "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইবন মাসঊদ রাদিয়াল্লাহু ‘আনহুকে তাশাহহুদ শিখিয়েছেন, যা সালাতে পড়া হয়। তিনি শিক্ষা দেওয়ার সময় তাঁর হাত ইবন মাসঊদ রাদিয়াল্লাহু ‘আনহুর দু হাতের মধ্যে রেখেছিলেন, যাতে ইবন মাসঊদ রাদিয়াল্লাহু ‘আনহুর মনোযোগ সেদিকে থাকে, যেভাবে তিনি তাকে কুরআনের সূরা শিখাতেন। এ দ্বারা  তাশাহুদের শব্দ ও অর্থের ব্যাপারে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের গুরুত্ব প্রমাণ করে। অতঃপর তিনি বলেন: \"التَّحِيَّات لله\"সকল বড়ত্ব ও প্রশংসা আল্লাহরই জন্য । আর তা হলো: সকল কথা ও কাজ যা আল্লাহর মহত্ত্ব প্রমাণ করে। সবই আল্লাহর জন্য প্রযোজ্য। \"الصَّلَوَاتُ\": সালাতসমূহ এ হলো প্রচলিত ফরয ও নফল সালাতসমূহ(এমনকি যাবতিয় ইবাদত) একমাত্র আল্লাহর জন্যে। \"الطَّيِّبَاتُ\": সকল পবিত্রতা-উত্তমতা। তা হলো: সকল উত্তম কথা, কাজ ও গুণ যা আল্লাহর পরিপূর্ণতার ‍উপর প্রমাণ করে, একমাত্র আল্লাহই এসব কিছুর উপযুক্ত। \"السلام عليك أيها النبي ورحمة الله وبركاته\":\nহে নবী ! আপনার উপর (আল্লাহর পক্ষ থেকে) সবধরনের নিরাপত্তা , রহমত ও বরকত বর্ষিত হোক। এটি নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের জন্যে সমস্ত বিপদাপদ, দুঃখ-কষ্ট থেকে শান্তি ও নিরাপত্তা এবং সমস্ত কল্যাণের বৃদ্ধি ও প্রাচুর্যের জন্যে দু‘আ। \"السلام علينا وعلى عباد الله ”\n আমাদের এবং আল্লাহর নেক বান্দাদের উপর  প্রশান্তি ও সকল অনিষ্ট হতে নিরাপত্তা বর্ষিত হোক। মুসল্লী ও আসমান ও জমিনে বিদ্যমান সকল নেক বান্দাহদের শান্তি-নিরাপত্তার জন্যে দু‘আ। \"أشهد أن لا إله إلا الله\":\nআমি সাক্ষ্য দিচ্ছি যে, আল্লাহ ব্যতীত প্রকৃত কোনো মা‘বূদ নেই অর্থাৎ আমি দৃঢ়ভাবে স্বীকার করি যে, আল্লাহ ব্যতীত কোনো সত্য মাবূদ নেই। \"وأَنَّ مُحَمَّدًا عَبْدُهُ ورسولُهُ\":\nএবং আমি আরো সাক্ষ্য দিচ্ছি যে, নিশ্চয়ই মুহাম্মাদ তাঁর বান্দা ও রাসূল। আমি তার আল্লাহর বান্দাহ হওয়া এবং শেষ নবী হওয়া স্বীকার করি।\r\n\r\nএরপরে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম মুসল্লীকে ইচ্ছে মতো (হাদীসে বর্ণিত দু‘আ থেকে) দু‘আ করতে উৎসাহিত করেছেন।",
+   "grade": "সহীহ",
+   "hints": [
+    "তাশাহহুদ পড়ার সময় হলো প্রত্যেক সালাতের শেষ রাক‘আতের সিজদার পরে বসা অবস্থায় এবং তিন বা চার রাক‘আত বিশিষ্ট সালাতে দ্বিতীয় রাক‘আত শেষ করে।\r",
+    "তাশাহহুদে আত্তাহিয়্যাতু পড়া ওয়াজিব। নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম থেকে প্রমাণিত অন্যান্য শব্দাবলী দ্বারাও তাশাহহুদ পাঠ করা যায়।\r",
+    "সালাতে পছন্দমতো দু‘আ করা জায়েয; যতক্ষণ তা গুনাহের জন্যে না হবে।\r",
+    "দু‘আর ক্ষেত্রে নিজের জন্যে আগে শুরু করা মুস্তাহাব।"
+   ],
+   "mapping": "same HadeethEnc record id 3096; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:03+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3096",
+   "text": "ইবন মাস‘ঊদ রাদিয়াল্লাহু ‘আনহু হতে বর্ণিত, তিনি বলেন: রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার হাত তাঁর উভয় হতের মধ্যে রেখে আমাকে এমনভাবে তাশাহহুদ শিখিয়েছেন, যেভাবে তিনি আমাকে কুরআনের সূরা শিখাতেন,তা হলো :\nالتَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ الله وَبَرَكَاتُهُ السَّلَامُ عَلَيْنَا\nوَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا الله وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ\n “সকল বড়ত্ব ও প্রশংসা,সালাতসমূহ:এমনকি সকল মৌখিক, দৈহিক,আর্থিক ও অন্তর্গত ‘ইবাদত  এবং সকল পবিত্রতা-উত্তমতা আল্লাহরই জন্য। হে নবী ! আপনার উপর আল্লাহর পক্ষ থেকে সবধরনের নিরাপত্তা, রহমত ও বরকত বর্ষিত হোক।বর্ষিত হোক সকল বিপদ থেকে নিরাপত্তা-সালাম আমাদের এবং আল্লাহর নেক বান্দাদের উপর। আমি সাক্ষ্য দিচ্ছি যে, আল্লাহ ব্যতীত প্রকৃত কোনো মা‘বূদ নেই এবং আমি আরো সাক্ষ্য দিচ্ছি যে, নিশ্চয়ই মুহাম্মাদ তাঁর বান্দা ও রাসূল। \nঅপর বর্ণনায় বর্ণিত,\n«إِنَّ اللهَ هُوَ السَّلَامُ، فَإِذَا قَعَدَ أَحَدُكُمْ فِي الصَّلَاةِ فَلْيَقُلْ: التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللهِ الصَّالِحِينَ، فَإِذَا قَالَهَا أَصَابَتْ كُلَّ عَبْدٍ لِلَّهِ صَالِحٍ فِي السَّمَاءِ وَالْأَرْضِ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ، ثُمَّ يَتَخَيَّرُ مِنَ الْمَسْأَلَةِ مَا شَاءَ».\nআল্লাহর নামই হলো সালাম। সকল বড়ত্ব-প্রশংসা,সালাতসমূহ:এমনকি সকল মৌখিক, দৈহিক,আর্থিক ও অন্তর্গত ‘ইবাদত  এবং সকল পবিত্র-উত্তম আল্লাহরই জন্য। হে নবী! আপনার উপর আল্লাহর পক্ষ থেকে সবধরনের নিরাপত্তা, রহমত ও বরকত বর্ষিত হোক।সকল বিপদ থেকে নিরাপত্তা-সালাম আমাদের এবং আল্লাহর নেক বান্দাদের উপর বর্ষিত হোক।” যখন সে একথাগুলো বলে তখন তা আসমানে ও জমিনের আল্লাহর প্রতিটি নেক বান্দার কাছে পৌঁছে যায়। (পরে সে বলবে:) “আমি সাক্ষ্য দিচ্ছি, আল্লাহ ছাড়া কোন প্রকৃত ইলাহ নেই। আমি আরও সাক্ষ্য দিচ্ছি, মুহাম্মাদ তাঁর বান্দা ও রাসূল।” এরপর তার যা মন চায় দু’আ করবে।",
+   "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার হাত তাঁর উভয় হতের মধ্যে রেখে আমাকে এমনভাবে তাশাহহুদ শিখিয়েছেন, যেভাবে তিনি আমাকে কুরআনের সূরা শিখাতেন",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3096",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:757b542df76606700f1041470ed4c19e604375232d0b6dd2e416453d0098fd7b",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) taught Ibn Mas‘ūd (may Allah be pleased with him) the Tashahhud, which is to be recited in prayer, while holding his hand between both his hands to attract his attention to him, just as he would teach him a Surah from the Qur’an. This signifies how important the Prophet regarded this Tashahhud, its words and meanings. The Prophet (may Allah's peace and blessings be upon him) said: \"At-tahiyyātu lillāh\": It means that every word or deed denoting glorification is due to Allah Almighty. \"As-salawāt\": It means that the known prayers, both the obligatory and the voluntary, are due to Allah Almighty. \"At-tayyibāt\": It means that the good words, deeds, and attributes that denote perfection are all due to Allah Almighty. \"As-salāmu ‘alayka ayyuha an-nabiyyu wa rahmatullāhi wa barakātuh\": A supplication for him to be granted safety from every evil and harm and to be granted more of all good things. \"As-salāmu ‘alayna wa ‘ala ‘ibādillāhi as-sālihīn\": It is a supplication for the one praying and for every righteous slave in heaven and on earth to be granted safety. \"Ash-hadu alla ilāha illallāh\": It means I firmly acknowledge that there is no true god but Allah. \"Wa anna Muhammadan ‘abduhu wa rasūluh\": I affirm that he is a slave of Allah and His last Messenger.\r\n\r\nThen, the Prophet (may Allah's peace and blessing be upon him) urged the one praying to choose whatever supplication he would like.",
+   "grade": "Authentic",
+   "hints": [
+    "This Tashahhud is to be recited while sitting following the last prostration in every prayer, and after the second Rak‘ah in the three-Rak‘ah and the four-Rak‘ah prayers.\r",
+    "Tahiyyāt is obligatory in the Tashahhud, and it is permissible to recite any of the wordings of Tashahhud that are authentically reported from the Prophet (may Allah's peace and blessings be upon him).\r",
+    "Permissibility of supplicating Allah for whatever one wishes for as long as it does not involve sin.\r",
+    "It is recommended to start by oneself when making supplication."
+   ],
+   "mapping": "same HadeethEnc record id 3096; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:02+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3096",
+   "text": "Ibn Mas‘ūd (may Allah be pleased with him) reported: The Messenger of Allah (may Allah's peace and blessings be upon him) taught me the Tashahhud, with my hand between his two hands, as he would teach me a Surah from the Qur’an: \"At-tahiyyātu lillāhi was-salawātu wat-tayyibātu as-Salāmu ‘alayka ayyuha an-nabiyyu wa rahmatullāhi wa barakātuh, as-salāmu ‘alayna wa ‘ala ‘ibādillāhi as-sālihīn, ash-hadu alla ilāha illallāh wa ash-hadu anna Muhammadan ‘abduhu wa rasūluh (Greetings, prayers, and good things are due to Allah. May the peace, mercy, and blessings of Allah be upon you, O Prophet. Peace be upon us and upon the righteous slaves of Allah. I bear witness that there is no god but Allah, and I bear witness that Muhammad is His slave and Messenger).\" Another wording reads: \"Verily, Allah is the Giver of Peace, so when any of you sits in prayer, let him say: 'At-tahiyyātu lillāhi was-salawātu wat-tayyibātu as-salāmu ‘alayka ayyuha an-nabiyyu wa rahmatullāhi wa barakātuh, as-salāmu ‘alayna wa ‘ala ‘ibādillāhi as-sālihīn (Greetings, prayers, and good things are due to Allah. May the peace, mercy, and blessings of Allah be upon you, O Prophet. Peace be upon us and upon the righteous slaves of Allah).' If you say this, it will benefit every righteous slave of Allah in heaven and on earth. (Then, say:) 'Ash-hadu alla ilāha illallāh wa ash-hadu anna Muhammadan ‘abduhu wa rasūluh (I bear witness that there is no god but Allah, and I bear witness that Muhammad is His slave and Messenger).' Then, let him choose whatever supplication he would like.\"",
+   "title": "The Messenger of Allah (may Allah's peace and blessings be upon him) taught me the Tashahhud, with my hand between his two hands, as he would teach me a Surah from the Qur’an",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=3096",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:ea42a15da39612e1f193df29e24da45f91ee6d479b8aaa935c24b85e2b683b17",
+   "explanation": "Le Prophète ﷺ a enseigné à Ibn Mas'ûd (qu'Allah l'agrée) le Tachahoud que l'on dit dans la prière. Il a alors mis sa main dans la sienne pour attirer l'attention d'Ibn Mas'ûd vers lui. Il ﷺ lui a appris le Tachahoud tout comme il lui a appris les sourates du Coran et cela prouve le souci du Prophète ﷺ de ce Tachahoud tant dans son expression que sa signification. Alors, il ﷺ a dit : « Les salutations sont à Allah » C'est toute parole ou tout acte qui indique et prouve la grandeur, Allah ﷻ méritant chacune d'entre elle. « Ainsi que les prières » C'est la prière bien connue, qu'elle soit obligatoire ou surérogatoire, pour Allah ﷻ. « Et les bonnes choses » Ce sont les paroles, les actes et les attributs qui sont bons et qui prouvent la perfection. Allah ﷻ les mérite tous. « Que le salut soit sur toi, ô Prophète, ainsi que la miséricorde d’Allah et Sa bénédiction. » C'est une invocation en sa faveur pour qu'il soit préservé de toute tare et de tout désagrément et qu'il bénéficie de l'augmentation et de l'abondance de tout bien. « Que le salut soit sur nous et sur les vertueux serviteurs d’Allah. » C'est une invocation de la préservation en faveur du fidèle et pour tout serviteur vertueux dans le ciel et la terre. « Je témoigne qu’il n’y a aucune divinité [digne d’adoration] excepté Allah. » C'est-à-dire : J'atteste d'une attestation catégorique qu'il n'y pas d'être adoré en toute vérité excepté Allah. « Et je témoigne que Muḥammad est Son serviteur et Son Messager. » C'est-à-dire : J'atteste que Muhammad est caractérisé par la Servitude et le Message final.\r\n\r\nEnsuite, le Prophète ﷺ a incité le fidèle à choisir ce qu'il souhaitait comme invocation.",
+   "grade": "Authentique",
+   "hints": [
+    "La place de ce Tachahoud est dans la position assise après la dernière prosternation dans chaque prière, plus précisément après la seconde unité de prière dans les prières en trois ou quatre unités de prière.\r",
+    "L'obligation des salutations dans le Tachahoud et la permission de formuler le Tachahoud selon les diverses expressions et formulations qui ont été attestées d'après le Prophète ﷺ.\r",
+    "La permission d'invoquer ce que l'on souhaite dans la prière dès lors que cela ne constitue pas un péché.\r",
+    "La recommandation de commencer par soi-même dans les invocations."
+   ],
+   "mapping": "same HadeethEnc record id 3096; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:03+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/3096",
+   "text": "D'après Ibn Mas'ûd (qu'Allah l'agrée) qui a dit : « Le Messager d’Allah ﷺ m’a enseigné les salutations finales (At-Tachahoud), ma main entre les siennes, comme il m'enseignait une sourate du Coran  : « Les salutations sont à Allah, ainsi que les prières et les bonnes choses. Que le salut soit sur toi, ô Prophète, ainsi que la miséricorde d’Allah et Sa bénédiction. Que le salut soit sur nous et sur les vertueux serviteurs d’Allah. Je témoigne qu’il n’y a aucune divinité [digne d’adoration] excepté Allah et je témoigne que Muḥammad est Son serviteur et Son Messager. » Et dans une expression : « Certes, Allah est la Paix (As-Salâm), ainsi lorsque l'un d'entre vous s’assied dans la prière, qu’il dise : « Les salutations sont à Allah ainsi que les prières et les bonnes choses. Que le salut soit sur toi, ô Prophète, ainsi que la miséricorde d’Allah et Sa bénédiction. Que le salut soit sur nous et sur les vertueux serviteurs d’Allah. Lorsque le fidèle dit cela, alors sa salutation a atteint tout serviteur vertueux qui se trouve dans le ciel et sur la Terre. Je témoigne qu’il n’y a aucune divinité [digne d’adoration] excepté Allah et je témoigne que Muḥammad est Son serviteur et Son Messager. Ensuite, qu’il choisisse comme demande ce qu’il souhaite. »",
+   "title": "Le Messager d’Allah ﷺ m’a enseigné les salutations finales (At-Tachahoud), ma main entre les siennes, comme il m'enseignait une sourate du Coran",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3096",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:9bdcc7d6652fa71696efaa72290c206a9c983a224e03e8da338cfb9381caafd1",
+   "explanation": "Nabi ﷺ mengajari Ibnu Mas'ūd -raḍiyallāhu 'anhu- doa tasyahud yang dibaca dalam salat dengan cara meletakkan tangannya di antara kedua tangan beliau untuk memusatkan perhatian Ibnu Mas'ūd, sebagaimana beliau mengajarinya surah Al-Qur`an. Hal ini menunjukkan perhatian Nabi ﷺ pada doa tasyahud ini dari sisi lafaz dan makna. Beliau membacakan doanya: At-taḥiyyātu lillāhi (Segala ucapan selamat hanya milik Allah), yaitu semua ucapan ataupun perbuatan yang menunjukkan pengagungan, seluruhnya adalah hak Allah ﷻ. Aṣ-ṣalawātu (salat), yaitu salat yang dikenal, baik yang fardu maupun sunah, adalah milik Allah Ta'ala. Aṭ-ṭayyibātu (kebaikan), yaitu ucapan, perbuatan dan sifat-sifat yang baik nan menunjukkan kesempurnaan, seluruhnya adalah hak Allah Ta'ala. As-salāmu ‘alayka ayyuhā an-nabīyu wa-raḥmatullāhi wa-barakātuh (Semoga keselamatan terlimpah kepadamu, wahai Nabi, dan rahmat Allah serta keberkahan-Nya). Ini adalah doa keselamatan untuk beliau dari semua penyakit dan keburukan, serta penambahan dan keberlimpahan segala kebaikan untuknya. As-salāmu ‘alaynā wa ‘alā ‘ibādi-llāhiṣ-ṣāliḥīn (Semoga keselamatan terlimpah pada kami dan hamba-hamba Allah yang saleh). Ini adalah doa keselamatan bagi orang yang salat dan semua hamba yang saleh di langit dan bumi. Asyhadu an lā ilāha illā Allāh Aku bersaksi bahwa tiada ilah yang berhak disembah selain Allah), yakni aku berikrar dengan ikrar yang bulat bahwa tidak ada sembahan yang benar kecuali Allah. Wa anna Muḥammadan ‘abduhu wa-rasūluhu, (dan aku bersaksi bahwa Muhammad adalah hamba Allah dan rasul-Nya), yakni aku mengikrarkan kehambaan dan kerasulan yang terakhir untuk beliau.\r\n\r\nKemudian Nabi ﷺ menganjurkan orang yang mengerjakan salat agar memilih doa yang disukainya.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Tempat tasyahud ini ialah ketika duduk setelah sujud yang terakhir di setiap salat, juga setelah rakaat kedua pada salat yang berjumlah tiga dan empat rakaat.\r",
+    "2- Kewajiban membaca doa tasyahud ketika duduk tasyahud dan dibolehkan membaca tasyahud apa saja di antara lafaz-lafaz tasyahud yang diajarkan Nabi ﷺ.\r",
+    "3- Boleh berdoa di dalam salat dengan semua doa yang diinginkan selama tidak mengandung dosa.\r",
+    "4- Anjuran memulai dengan diri sendiri di dalam doa."
+   ],
+   "mapping": "same HadeethEnc record id 3096; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:02+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3096",
+   "text": "Ibnu Mas'ūd -raḍiyallāhu 'anhu- berkata, \"Rasulullah ﷺ mengajariku doa tasyahud, sedangkan telapak tanganku ada di antara dua telapak tangan beliau, sebagaimana beliau mengajariku surah dalam Al-Qur`an: At-taḥiyyātu lillāh, waṣ-ṣalawātu waṭ-ṭayyibāt. As-salāmu 'alaika ayyuhan-nabiyyu wa raḥmatullāhi wa barakātuh. As-salāmu 'alainā wa 'alā 'ibādillāhiṣ-ṣāliḥīn. Asyhadu an lā ilāha illallāh wa asyhadu anna muḥammadan 'abduhu wa rasūluh (Segala ucapan selamat, salat dan kebaikan hanya milik Allah. Semoga keselamatan terlimpah kepadamu, wahai Nabi, dan rahmat Allah serta berkah-Nya. Semoga keselamatan terlimpah pada kami dan hamba-hamba Allah yang saleh. Aku bersaksi bahwa tiada ilah yang berhak disembah selain Allah dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya).\"\nDalam redaksi Bukhari dan Muslim lainnya: \"Sesungguhnya Allah Yang Maha Pemberi keselamatan. Ketika salah seorang kalian duduk dalam salat, ucapkanlah, 'At-taḥiyyātu lillāh, waṣ-ṣalawātu waṭ-ṭayyibāt. As-salāmu 'alaika ayyuhan-Nabiyyu wa raḥmatullāhi wa barakātuh. As-salāmu 'alainā wa 'alā 'ibādillāhiṣ-ṣāliḥīn.' Ketika ia membacanya, doa itu mencakup semua hamba Allah yang saleh di langit maupun di bumi. Selanjutnya membaca: 'Asyhadu allā ilāha illallāh wa asyhadu anna muḥammadan 'abduhu wa rasūluh.' Kemudian ia memilih permintaan sesukanya.\"",
+   "title": "Rasulullah ﷺ mengajariku doa tasyahud, sedangkan telapak tanganku ada di antara dua telapak tangan beliau, sebagaimana beliau mengajariku surah dalam Al-Qur`an",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3096",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:cb620e1fb1eccca7f74899dacd84fe751271be57ea0c811834c7819f7a1e06a9",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم نے عبداللہ بن مسعود رضی اللہ عنہ کو وہ تشہد سکھایا، جو نماز میں پڑھا جاتا ہے۔ تشہد سکھاتے وقت آپ نے ان کے ہاتھ کو اپنے دونوں ہاتھوں کے درمیان رکھا ہوا تھا، تاکہ ان کی پوری توجہ آپ پر مرکوز رہے۔ آپ نے تشہد اسی طرح سکھایا، جس طرح قرآن کی سورہ سکھاتے تھے، جو اس بات کی دلیل ہے کہ آپ اس تشہد کے الفاظ اور معنی دونوں کی اہمیت کو پیش نظر رکھتے تھے۔ چنانچہ آپ نے کہا: \"التَّحِيَّات لله\" : اس سے مراد ہر وہ قول یا فعل ہے جو تعظیم پر دلالت کرتا ہو۔ اس طرح کے سارے اقوال اور افعال کا مستحق صرف اللہ ہے۔ \"الصَّلَوَاتُ\" : یعنی ساری نمازیں، فرض ہوں کہ نفل اللہ کے لیے ہیں۔ \"الطَّيِّبَاتُ\" : پاکی اور کمال پر دلالت کرنے والے سارے اقوال، افعال اور اوصاف اللہ تعالی کے لیے ہیں۔ \"السلام عليك أيها النبي ورحمة الله وبركاته\" : آپ صلی اللہ علیہ وسلم کے لیے ہر آفت اور ناپسندیدہ چیز سے سلامتی اور ہر بھلائی میں اضافہ اور کثرت کی دعا۔ \"السلام علينا وعلى عباد الله الصالحين\" : نمازی اور آسمان اور زمین میں رہنے والے ہر صالح بندے کے لیے سلامتی کی دعا۔ \"أشهد أن لا إله إلا الله\" : یعنی پورے یقین کے ساتھ اس بات کا اقرار کرتا ہوں کہ اللہ کے سوا کوئی برحق معبود نہيں ہے۔ \"وأَنَّ مُحَمَّدًا عَبْدُهُ ورسولُهُ\" : میں آپ کے اللہ کا بندہ ہونے اور آخری رسول ہونے کا اقرار کرتا ہوں۔\r\n\r\nاخیر میں اللہ کے نبی صلی اللہ علیہ و سلم نے نمازی کو اس بات کی ترغیب دی ہے کہ وہ جو دعا چاہے، کرے۔",
+   "grade": "صحيح",
+   "hints": [
+    "اس تشہد کا محل ہر نماز کے آخری سجدے کے بعد کا قعدہ اور دو اور تین رکعت والی نمازوں میں دوسری رکعت کے بعد کا جلسہ ہے۔\r",
+    "تشہد میں 'التحیات' پڑھنا واجب ہے۔ اللہ کے نبی صلی اللہ علیہ و سلم سے ثابت الفاظ میں سے جن الفاظ میں چاہیں، تشہد پڑھنا جائز ہے۔\r",
+    "نماز میں پسندیدہ دعا کرنے كا جواز جب تک کہ وہ گناہ پر مبنی نہ ہو۔\r",
+    "دعا کرتے وقت آغاز اپنے نفس سے کرنا چاہیے۔"
+   ],
+   "mapping": "same HadeethEnc record id 3096; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:02+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3096",
+   "text": "ابن مسعود رضی اللہ عنہ سے روایت ہے، وہ کہتے ہیں: اللہ کے رسول صلی اللہ علیہ و سلم نے مجھے اسی طرح تشہد سکھایا، جیسے قرآن کی سورہ سکھاتے تھے۔ اس وقت میری ہتھیلی آپ کی دونوں ہتھیلیوں کے بیچ میں تھی۔ (تشہد کے الفاظ کچھ اس طرح تھے :) \"التَّحِيَّاتُ لِلَّهِ، وَالصَّلَوَاتُ وَالطَّيِّبَاتُ، السَّلاَمُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، السَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ، أَشْهَدُ أَنْ لاَ إِلَهَ إِلَّا اللَّهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ۔\" بخاری اور مسلم میں ایک جگہ ہے : \"بے شک اللہ ہی سلامتی والا ہے۔ لہذا جب تم میں سے کوئی نماز میں بیٹھے، تو کہے : \"التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللهِ الصَّالِحِينَ۔\" جب بندہ یہ الفاظ کہتا ہے، تو آسمان اور زمین میں رہنے والا اللہ کا ہر صالح بندہ اس کے دائرے میں آ جاتا ہے۔ \"أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ\"۔ پھر جو دعا چاہے، کرے۔\"",
+   "title": "اللہ کے رسول صلی اللہ علیہ و سلم نے مجھے اسی طرح تشہد سکھایا، جیسے قرآن کی سورہ سکھاتے تھے۔ اس وقت میری ہتھیلی آپ کی دونوں ہتھیلیوں کے بیچ میں تھی",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3096",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:6bffd891730160203d7436f720d6368938291316b5f0b5b7d43aea0fd874cfb3",
+   "explanation": "先知（愿主福安之）教导伊本·麦斯欧德（愿主喜悦他）在礼拜中念台善胡德，并将他的手放在自己的手中，以便引起伊本·麦斯欧德的注意，这显示了先知（愿主福安之）对台善胡德的重视，无论是文字方面还是意义方面。 他说： \"一切庆贺归于安拉\"： 即：一切表示尊重的言语和行为皆为安拉所应受， “一切拜功”： 即：众所周知的拜功，主命拜功和副功拜皆归于安拉。 \"美好\"： 即：一切证明完美的属性、言语和工作皆为安拉所应受。 “愿安拉的平安、仁慈和祝福临及你，先知啊。”： 为他祈祷平安，免遭灾难，增加福利。 “愿安拉的平安临及我们和安拉的善良仆人们。”： 为礼拜者以及天地间所有善良的仆人祈祷平安。 “我作证除安拉之外绝无应受崇拜的主。”： 即我坚决承认，除安拉外绝无真正值得崇拜的主。 并且穆罕默德是安拉的仆人和使者。 我承认他的仆人身份和最终的使命。\r\n\r\n然后，先知（愿主福安之）鼓励礼拜者自由选择他们想要的祈祷。",
+   "grade": "正确的",
+   "hints": [
+    "台善胡德的位置在每个礼拜的最后一次叩头之后，以及在三拜或四拜中的第二番拜功的叩头之后。\r",
+    "在中坐念台善胡德时，请贺词是必须要念的，可以使用已经证实由先知穆罕默德（愿主福安之）所使用过的任何一种庆贺词。。\r",
+    "在拜功中允许做任何祈祷，只要不是犯罪即可。\r",
+    "在祈祷中为自己先祈祷为嘉。"
+   ],
+   "mapping": "same HadeethEnc record id 3096; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:02+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3096",
+   "text": "据伊本·麦斯欧德（愿主喜悦他）的传述：他说： 安拉的使者（愿主福安之），教我念台善胡德，我的手放在他的手之间，就像教我《古兰经》中的章节一般：“一切庆贺、拜功和美好归于安拉，先知啊！愿主的平安、仁慈和祝福归于你，愿平安也归于我们和安拉善良的仆人们，我作证除安拉外绝无应受拜的主，我作证穆罕默德是他的仆人和使者。”在另一个传述中，他说：“安拉是安宁的。所以，当你们中的任何人在拜功中坐的时候，应该说：一切庆贺、拜功和美好归于安拉，先知啊！愿主的平安、仁慈和祝福归于你，愿平安也归于我们和安拉善良的仆人们。当他说完这些话，天地间一切虔诚的安拉仆人都会得到同样的祝福。我作证除安拉外绝无受拜的主，我作证穆罕默德是他的仆人和使者。然后，他可以自由选择想要祈求的事情。”",
+   "title": "安拉的使者（愿主福安之），教我念台善胡德，我的手放在他的手之间，就像教我《古兰经》中的章节一般",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

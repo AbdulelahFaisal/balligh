@@ -1,0 +1,60 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-10633",
+ "source_content_sha256": "sha256:08424f5c8c2904f5071eb747926478a79b264337503eb2142d2c4c2c6c644ec5",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:27:52.855541+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 989,
+  "completion_tokens": 932,
+  "total_tokens": 1921,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 989
+ },
+ "latency_ms": 9126,
+ "units": [
+  {
+   "id": "title",
+   "text": "Apa itu fitrah yang dengannya bayi dilahirkan?"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Saudari kami dari Al-Ahsa (M. Kh.) bertanya: Dalam hadits Rasulullah ﷺ: \"Setiap bayi dilahirkan di atas fitrah, kemudian kedua orang tuanya yang menjadikannya Yahudi, Nasrani, atau Majusi.\" Mengapa Rasulullah ﷺ tidak menyebutkan Islam dalam hadits ini?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Terdapat dalam hadits shahih: \"Tidaklah seorang bayi dilahirkan melainkan di atas fitrah\", dan dalam sebagian riwayat: \"melainkan di atas millah ini\", yaitu millah Islam. Terdapat versi ini dan itu. Makna fitrah adalah di atas Islam. Jika ia meninggal semasa kecil, maka ia di atas Islam. Anak-anak kaum muslimin semuanya bersama orang tua mereka di surga menurut ijma' (konsensus) Ahlus Sunnah wal Jama'ah, bahwa anak-anak kaum muslimin termasuk penghuni surga secara umum. Demikian pula anak-anak orang kafir jika meninggal semasa kecil, yang benar mereka termasuk penghuni surga. Sebagian ulama berpendapat bahwa mereka akan diuji pada hari kiamat, mereka diuji, barangsiapa taat maka masuk surga, dan barangsiapa durhaka maka masuk neraka. Namun pendapat yang lebih kuat adalah mereka termasuk penghuni surga, berdasarkan sabda Nabi ﷺ: \"Tidaklah seorang bayi dilahirkan melainkan di atas fitrah, kemudian kedua orang tuanya yang menjadikannya Yahudi, Nasrani, atau Majusi.\" Bayi ini tidak dijadikan Yahudi oleh kedua orang tuanya, tidak dijadikan Majusi, dan tidak dijadikan Nasrani. Juga karena telah shahih dari Nabi ﷺ bahwa beliau melihat bersama Ibrahim di taman dari taman-taman surga ketika beliau dinaikkan ke langit, beliau melihat bersamanya anak-anak kaum muslimin dan anak-anak kaum musyrikin di taman tersebut, di taman surga."
+  },
+  {
+   "id": "a2",
+   "text": "Maksudnya: yang benar adalah bahwa bayi yang meninggal sebelum baligh, ia meninggal di atas fitrah, di atas fitrah Islam, dan ia tidak bersama keluarganya di neraka jika mereka kafir, bahkan ia bersama kaum muslimin. Ya."
+  },
+  {
+   "id": "a3",
+   "text": "Pembawa acara: Semoga Allah memberkahi Anda. Jadi anak-anak kaum muslimin lebih utama lagi wahai Syaikh yang mulia?"
+  },
+  {
+   "id": "a4",
+   "text": "Syaikh: Lebih utama lagi, ya, berdasarkan ijma' kaum muslimin ... kaum muslimin berdasarkan ijma' Ahlus Sunnah bahwa mereka termasuk penghuni surga jika mereka meninggal sebelum baligh. Adapun perbedaan pendapat tentang anak-anak orang kafir, anak-anak Yahudi, Nasrani, dan orang kafir jika meninggal semasa kecil, apakah mereka bersama orang tua mereka di neraka, terdapat beberapa pendapat. Pendapat yang paling kuat dan paling baik adalah mereka termasuk penghuni surga ... Nabi ﷺ pernah ditanya tentang mereka, maka beliau menjawab: \"Allah lebih mengetahui apa yang akan mereka kerjakan.\" Namun hadits-hadits shahih menunjukkan bahwa mereka di atas fitrah, dan mereka termasuk penghuni surga, dan mereka bersama Ibrahim di surga ketika beliau -shallallahu 'alaihi wa sallam- melihatnya saat dinaikkan ke langit. Ya."
+  },
+  {
+   "id": "a5",
+   "text": "Pembawa acara: Semoga Allah membalas Anda dengan kebaikan, dan berbuat baik kepada Anda."
+  }
+ ]
+}

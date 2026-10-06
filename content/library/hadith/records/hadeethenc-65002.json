@@ -1,0 +1,181 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:b3261d0e31de0233af357b79b27fafdf06440c25c775eeb0ce98e2539b7d1a69",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يُبَيِّنُ النبي صلى الله عليه وسلم فضل الدخول في الإسلام، \nوأن من أسلم وحسن إسلامه وكان مخلصًا صادقًا؛ فلا يحاسب بما عمل في الجاهلية من معاصي، \nومن أساء في الإسلام بأن كان منافقًا أو ارتد عن دينه؛ حوسب بما عمل في الكفر وبما عمل في الإسلام.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "اهتمام الصحابة رضوان الله عليهم وخوفهم مما كان منهم من الأعمال في الجاهلية.",
+  "الحث على الثبات على الإسلام.",
+  "فضل الدخول في الإسلام وأنه يكفر الأعمال السابقة.",
+  "المرتد والمنافق يُحاسَبُ بكلِّ عملٍ له سَبَقَ في الجاهلية، وبكل ذنب فَعله في الإسلام."
+ ],
+ "id": "hadeethenc-65002",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (9/ 14) (6921).\nصحيح مسلم (1/ 111) (120).\nمشارق الأنوار على صحاح الآثار (2/229).\nالكواكب الدراري (24/43).\nعمدة القاري شرح صحيح البخاري (24/ 76).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=65002",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:29+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/65002"
+ },
+ "source_categories": [
+  {
+   "id": "88",
+   "label": "الإسلام"
+  },
+  {
+   "id": "92",
+   "label": "زيادة الإيمان ونقصانه"
+  }
+ ],
+ "source_record_id": "65002",
+ "text": "عَنِ ابْنِ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ، قَالَ: قَالَ رَجُلٌ: يَا رَسُولَ اللهِ، أَنُؤَاخَذُ بِمَا عَمِلْنَا فِي الْجَاهِلِيَّةِ؟ قَالَ: «مَنْ أَحْسَنَ فِي الْإِسْلَامِ لَمْ يُؤَاخَذْ بِمَا عَمِلَ فِي الْجَاهِلِيَّةِ، وَمَنْ أَسَاءَ فِي الْإِسْلَامِ أُخِذَ بِالْأَوَّلِ وَالْآخِرِ».",
+ "title": "من أحسن في الإسلام لم يؤاخذ بما عمل في الجاهلية، ومن أساء في الإسلام أخذ بالأول والآخر",
+ "topic": "understanding_islam",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=65002",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:87e407a23489f7dc32fc69e692181ac761e181b0b3d2c094ca4ef355f64b04ff",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম এখানে ইসলামে প্রবেশ করার ফযীলত বর্ণনা করেছেন। যে ব্যক্তি ইসলাম গ্রহণ করে তা সুন্দরভাবে পালন করে এবং সে এক্ষেত্রে একনিষ্ঠ ও সত্যবাদী হয়ে থাকে, তাহলে তার ইসলামপূর্ব পাপের ব্যাপারে হিসেব নেওয়া হবে না। আর যে ব্যক্তি ইসলামে প্রবেশ করার পরেও মুনাফিক হয়ে অথবা দীন ত্যাগ করে মুরতাদ হওয়ার মত অন্যায় করবে, সেক্ষেত্রে তার কুফুরী ও ইসলামী জীবনের সব পাপের ব্যাপারে হিসেব নেওয়া হবে।",
+   "grade": "সহীহ",
+   "hints": [
+    "সাহাবীদের ইসলামপূর্ব জাহিলী কর্মকাণ্ডের ব্যাপারে ভয় পাওয়া এবং এ ব্যাপারে গুরুত্ব প্রদান করা।\r",
+    "এ হাদীসে ইসলামের উপরে অটল থাকার ব্যাপারে উৎসাহ প্রদান করা হয়েছে।\r",
+    "হাদীসে ইসলামে প্রবেশ করার ফযীলত এবং ইসলাম পূর্বের সকল পাপকে মোচন করে দেয়, তা বর্ণনা করা হয়েছে।\r",
+    "মুরতাদ ও মুনাফিক ব্যক্তির জাহিলী যুগে তার কৃত সকল পাপের জন্য হিসেব নেওয়া হবে। এছাড়াও ইসলামে থাকাকালীন সময়ে তার করা প্রতিটি অন্যায়ের হিসেব নেওয়া হবে।"
+   ],
+   "mapping": "same HadeethEnc record id 65002; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:02+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/65002",
+   "text": "আব্দুল্লাহ ইবনু মাস‘ঊদ রাদিয়াল্লাহু ‘আনহু হতে বর্ণিত, তিনি বলেন: একজন লোক বললেন: হে আল্লাহর রাসূল! আমরা জাহিলী যুগে যা করেছি তার জন্য কি আমাদেরকে পাকড়াও করা হবে? তিনি বললেন: “যে ইসলামে ভালো কর্ম করবে, সে জাহিলী যুগে যা করেছে তার জন্যে তাকে পাকড়াও করা হবে না। আর যে ইসলামে অন্যায় কাজ করবে, তাকে প্রথম ও শেষের (অপরাধের) জন্যে পাকড়াও করা হবে।”",
+   "title": "যে ইসলামে ভালো কর্ম করবে, সে জাহিলী যুগে যা করেছে তার জন্যে তাকে পাকড়াও করা হবে না। আর যে ইসলামে অন্যায় কাজ করবে, তাকে প্রথম ও শেষের (অপরাধের) জন্যে পাকড়াও করা হবে।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=65002",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:04e14321ac991466aeec13e44a6d50f2e3eeddc0b9ae494ff66535d2a12cad97",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) points out the merit of entering Islam. He who embraces Islam and becomes a committed, sincere, and truthful Muslim will not be punished for the sins he committed during jāhiliyyah. In contrast, he who does wrong after entering Islam, by being a hypocrite or renouncing Islam, will be punished for what he did both during his period of disbelief and after entering Islam.",
+   "grade": "Authentic",
+   "hints": [
+    "The Companions (may Allah be pleased with them) were concerned and fearful about the deeds they committed during jāhiliyyah.\r",
+    "We are urged to hold fast to Islam.\r",
+    "The Hadīth points out the merit of entering Islam and that it expiates the previous sins.\r",
+    "Apostates and hypocrites will be punished for all the deeds they committed during jāhiliyyah and for all the sins they perpetrated after entering Islam."
+   ],
+   "mapping": "same HadeethEnc record id 65002; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:02+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/65002",
+   "text": "Ibn Mas‘ūd (may Allah be pleased with him) reported: A man said: \"O Messenger of Allah, will we be punished for what we did during jāhiliyyah (the pre-Islamic period of ignorance)?\" He said: \"He who does good in Islam will not be punished for what he did during jāhiliyyah, and he who commits evil in Islam will be punished for the previous and later deeds.\"",
+   "title": "He who does good in Islam will not be punished for what he did during jāhiliyyah, and he who commits evil in Islam will be punished for the previous and later deeds",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=65002",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:33a9848e7148ef47c7a300f2beec6336b42a5bb942ae060a06f42a5b1d437c0f",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) explique le mérite d'entrer en Islam. Quiconque se soumet [à Allah], en étant vertueux, sincère et véridique dans son Islam ne sera pas jugé pour les désobéissances commises avant l'Islam. Et quiconque a mal agi dans l'Islam, en ayant été hypocrite ou en ayant apostasié de sa religion, sera jugé pour ce qu'il aura commis dans la mécréance et pour ce qu'il aura accompli dans l'Islam.",
+   "grade": "Authentique",
+   "hints": [
+    "La préoccupation des Compagnons (qu'Allah les agrée) et leur crainte concernant les œuvres qu'ils ont accomplies avant l'Islam.\r",
+    "L'incitation à rester ferme sur l'Islam.\r",
+    "Le mérite d'entrer en Islam et le fait qu'il                                                                                                                                              expie les œuvres précédentes.\r",
+    "L'apostat et l'hypocrite seront jugés pour chaque œuvre accomplie avant l'Islam ainsi que pour chaque péché commis dans l'Islam."
+   ],
+   "mapping": "same HadeethEnc record id 65002; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:02+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/65002",
+   "text": "Ibn Mas'oûd (qu'Allah l'agrée) relate : « Un homme demanda : \"Ô Messager d'Allah ! Serons-nous châtiés pour les œuvres que nous avons accomplies avant l'Islam ? - Il répondit : Quiconque aura été vertueux dans l'Islam ne sera pas châtié pour les œuvres qu'il aura accomplies avant l'Islam. Et quiconque aura mal agit dans l'Islam sera châtié pour les premières et pour les autres !\" »",
+   "title": "Quiconque aura été vertueux dans l'Islam ne sera pas châtié pour les œuvres qu'il aura accomplies avant l'Islam. Et quiconque aura mal agit dans l'Islam sera châtié pour les premières et pour les autres !\"",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=65002",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:e9eb5b5d29dd238572c7686d539a30ae3eefe178a8d2752cbddd8f990ee45e94",
+   "explanation": "Nabi ﷺ menerangkan keutamaan masuk Agama Islam; bahwa orang yang masuk Islam dan bagus keislamannya serta ikhlas dan jujur, ia tidak dihisab terkait kemaksiatan-kemaksiatan yang dikerjakannya di masa jahiliah. Tetapi siapa yang berbuat keburukan di masa Islam; misalnya ia munafik atau murtad dari agamanya, maka ia akan dihisab terkait perbuatannya di masa kafir dan perbuatan-perbuatannya di masa Islam.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Perhatian para sahabat -riḍwānullāhi 'alaihim- serta kekhawatiran mereka terhadap perbuatan-perbuatan di masa jahiliah yang pernah mereka kerjakan.\r",
+    "2- Anjuran agar istikamah di atas Islam.\r",
+    "3- Keutamaan masuk Agama Islam, bahwa ia menggugurkan perbuatan-perbuatan sebelumnya.\r",
+    "4- Orang yang murtad dan munafik akan dihisab terkait semua amalnya yang telah lalu di masa jahiliah dan semua dosa yang dikerjakannya di masa Islam."
+   ],
+   "mapping": "same HadeethEnc record id 65002; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:02+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/65002",
+   "text": "Ibnu Mas'ūd -raḍiyallāhu 'anhu- meriwayatkan, ia berkata, Ada seorang laki-laki berkata, \"Wahai Rasulullah, apakah kami akan dihukum terkait apa yang telah kami kerjakan di masa jahiliah?\" Beliau bersabda, \"Siapa yang berbuat kebaikan di masa Islam tidak akan dihukum terkait apa yang telah dikerjakannya di masa jahiliah. Tetapi siapa yang berbuat keburukan di masa Islam, maka ia akan dihukum dengan masa pertama dan yang terakhir.\"",
+   "title": "Siapa yang berbuat kebaikan di masa Islam tidak akan dihukum terkait apa yang telah dikerjakannya di masa jahiliah. Tetapi siapa yang berbuat keburukan di masa Islam, maka ia akan dihukum dengan masa pertama dan yang terakhir",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=65002",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:a01619cc747f651cc933aff510b3fe0607f17b97794130454b39bdc0bdf0406b",
+   "explanation": "اس حدیث میں نبی صلی اللہ علیہ وسلم اسلام قبول کرنے کی فضیلت بیان کر رہے ہیں۔ جو شخص اسلام لائے اور پھر اس کا اسلام ٹھیک رہے اور وہ صدق واخلاص سے متصف رہے، تو ان گناہوں پر اس کا مؤاخذہ نہیں ہوگا، جو اس نے جاہلیت میں کیے تھے۔ اور جو شخص اسلام لانے کے بعد بھى برا ہى رہا، بایں طور کہ دل میں نفاق چھپائے رکھا یا دین سے مرتد ہوگیا، تو اس سے ان تمام اعمال کا حساب و کتاب ہوگا، جو اس نے کفر اور اسلام کی حالت میں کیے۔",
+   "grade": "صحيح",
+   "hints": [
+    "اس حدیث سے معلوم ہوتا ہے کہ صحابہ کرام ان اعمال کے تئیں بھی فکر مند اور خائف رہتے تھے جو ان سے زمانۂ جاہلیت میں سرزد ہوئے تھے۔\r",
+    "اسلام پر ثابت قدم رہنے کی ترغیب۔\r",
+    "اسلام میں داخل ہونے کی فضیلت اور یہ کہ اسلام لانے سے تمام سابقہ گناہ معاف ہوجاتے ہیں۔\r",
+    "منافق اور مرتد سے ان تمام اعمال کا حساب لیا جائے گا، جو انہوں نے اسلام قبول کرنے سے پہلے کیے تھے اور جو اسلام قبول کرنے کے بعد کیے۔"
+   ],
+   "mapping": "same HadeethEnc record id 65002; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:02+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/65002",
+   "text": "ابن مسعود رضی اللہ عنہ فرماتے ہیں : ایک شخص نے کہا : اے اللہ کے رسول! ہم  نے جو گناہ زمانۂ جاہلیت میں کیے ہیں، کیا ان کا بھی مؤاخذہ ہم سے ہوگا؟ آپ ﷺ نے فرمایا: \"جس نے اسلام لانے کے بعد اچھے عمل کیے، اس کا ان اعمال پر مؤاخذہ نہیں ہو گا جو اس نے جاہلیت میں کیے اور جس نے اسلام میں برے کام کیے، وہ اگلے اور پچھلے دونوں طرح کے عملوں پر پکڑا جائے گا\"۔",
+   "title": "جس نے اسلام لانے کے بعد اچھے عمل کیے، اس کا ان اعمال پر مؤاخذہ نہیں ہو گا جو اس نے جاہلیت میں کیے اور جس نے اسلام میں برے کام کیے، وہ اگلے اور پچھلے دونوں طرح کے عملوں پر پکڑا جائے گا\"۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=65002",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:2da647f9846ebfbb7b778976fe1d60fa7b95d261bb62b6005160a4a65bc9074f",
+   "explanation": "先知（愿主福安之）阐明了皈依伊斯兰之优越， 凡皈依伊斯兰，且规范其教门者，只要诚实且虔诚，那么其在愚昧时期所做的恶便不会受到询问。 未能规范自己的教门者，如伪信或叛教，那么其在愚昧时期及皈依以后所作的所有恶事都将受到询问。",
+   "grade": "正确的",
+   "hints": [
+    "圣门弟子们（愿主喜悦他们）非常重视和担心他们曾在愚昧时期所做的一些事情。\r",
+    "鼓励坚守伊斯兰。\r",
+    "皈依伊斯兰之优越，它将会消除愚昧时期的恶行。\r",
+    "叛教者和伪信士，他们在愚昧时期所行之事，以及信教以后所犯之罪，将统统受到询问。"
+   ],
+   "mapping": "same HadeethEnc record id 65002; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:02+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/65002",
+   "text": "据伊本·麦斯欧德（愿主喜悦之）传述说： 一个人说：“安拉的使者啊！我们在愚昧时期所做的事也会受到询问吗？”他说：“凡在信教以后行善者，其愚昧时期的恶不会受到询问，凡在信教以后依然作恶者，其前后所有罪行都将受到询问。”",
+   "title": "凡在信教以后行善者，其愚昧时期的恶不会受到询问，凡在信教以后依然作恶者，其前后所有罪行都将受到询问。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

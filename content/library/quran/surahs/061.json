@@ -1,0 +1,485 @@
+{
+ "ayah_count": 14,
+ "ayahs": [
+  {
+   "arabic": "سَبَّحَ لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۖ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+   "aya": 1,
+   "id": 5164,
+   "tafsir": {
+    "arabic_moyassar": "نزَّه الله عن كل ما لا يليق به كلُّ ما في السموات وما في الأرض، وهو العزيز الذي لا يغالَب، الحكيم في أقواله وأفعاله."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আসমানসমূহে যা কিছু আছে এবং জমিনে যা কিছু আছে, সবই আল্লাহর পবিত্রতা ঘোষণা করেছে। আর তিনি পরাক্রমশালী, প্রজ্ঞাময়।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "All that is in the heavens and all that is on earth glorifies Allah, for He is the All-Mighty, the All-Wise."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Tout ce qui se trouve dans les cieux et sur la terre célèbre la gloire d’Allah, le Tout-Puissant, l’infiniment Sage."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Apa yang ada di langit dan apa yang ada di bumi bertasbih kepada Allah; dan Dialah Yang Mahaperkasa, Mahabijaksana."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "زمین وآسمان کی ہر ہر چیز اللہ تعالیٰ کی پاکی بیان کرتی ہے اور وہی غالب حکمت واﻻ ہے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "凡在天地间的，都赞颂安拉超绝万物，他是万能的，是至睿的。"
+    }
+   }
+  },
+  {
+   "arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لِمَ تَقُولُونَ مَا لَا تَفۡعَلُونَ",
+   "aya": 2,
+   "id": 5165,
+   "tafsir": {
+    "arabic_moyassar": "يا أيها الذين صدَّقوا الله ورسوله وعملوا بشرعه، لِمَ تَعِدون وعدًا، أو تقولون قولا ولا تفون به؟! وهذا إنكار على مَن يخالف فعلُه قولَه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "হে তোমরা যারা ঈমান এনেছ! তোমরা যা করো না, তা কেন তোমরা বলো?"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "O you who believe, why do you say what you do not do?"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Vous qui croyez ! Pourquoi vos paroles ne sont-elles pas suivies d’actes ?"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Wahai orang-orang yang beriman! Mengapa kamu mengatakan sesuatu yang tidak kamu kerjakan?"
+    },
+    "ur": {
+     "footnotes": "[1] یہاں ندا اگرچہ عام ہے لیکن اصل خطاب ان مومنوں سے ہے جو کہہ رہے تھے کہ ہمیں أَحَبُّ الأَعْمَالِ کا علم ہو جائے تو ہم انہیں کریں، لیکن جب انہیں بعض پسندیدہ عمل بتلائے گئے تو سست ہوگئے۔ اس لیے ایسے لوگوں کو توبیخ کی جارہی ہے کہ خیر کی جو باتیں کہتے ہو، کرتے کیوں نہیں ہو، جو بات منہ سے نکالتے ہو، اسے پورا کیوں نہیں کرتے؟ جو زبان سے کہتے ہو، اس کی پاسداری کیوں نہیں کرتے؟",
+     "text": "اے ایمان والو[1] ! تم وه بات کیوں کہتے ہو جو کرتے نہیں."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "归信的人们啊！你们为什么说你们所不做的事呢？"
+    }
+   }
+  },
+  {
+   "arabic": "كَبُرَ مَقۡتًا عِندَ ٱللَّهِ أَن تَقُولُواْ مَا لَا تَفۡعَلُونَ",
+   "aya": 3,
+   "id": 5166,
+   "tafsir": {
+    "arabic_moyassar": "عَظُم بغضًا عند الله أن تقولوا بألسنتكم ما لا تفعلونه."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তোমরা যা করো না, তা বলা আল্লাহর নিকট খুবই গর্হিত কাজ।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "It is most loathsome to Allah that you say what you do not do."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Allah a en horreur l’attitude des hommes qui ne traduisent pas leurs paroles en actes."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(Itu) sangatlah dibenci di sisi Allah jika kamu mengatakan apa-apa yang tidak kamu kerjakan."
+    },
+    "ur": {
+     "footnotes": "[1] یہ اسی کی مزید تاکید ہے کہ اللہ تعالیٰ ایسے لوگوں پر سخت ناراض ہوتا ہے۔",
+     "text": "تم جو کرتے نہیں اس کا کہنا اللہ تعالیٰ کو سخت ناپسند ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你们说你们所不做的，这在安拉看来，是很可恨的。"
+    }
+   }
+  },
+  {
+   "arabic": "إِنَّ ٱللَّهَ يُحِبُّ ٱلَّذِينَ يُقَٰتِلُونَ فِي سَبِيلِهِۦ صَفّٗا كَأَنَّهُم بُنۡيَٰنٞ مَّرۡصُوصٞ",
+   "aya": 4,
+   "id": 5167,
+   "tafsir": {
+    "arabic_moyassar": "إن الله يحب الذين يقاتلون في سبيله صفًا كأنهم بنيان متراص محكم لا ينفذ منه العدو. وفي الآية بيان فضل الجهاد والمجاهدين؛ لمحبة الله سبحانه لعباده المؤمنين إذا صفُّوا مواجهين لأعداء الله، يقاتلونهم في سبيله."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "নিশ্চয় আল্লাহ তাদেরকে ভালোবাসেন, যারা তাঁর পথে সারিবদ্ধ হয়ে যুদ্ধ করে, যেন তারা সীসা ঢালা প্রাচীর।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Indeed, Allah loves those who fight in His way in firm ranks, as if they were a solid structure."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "En vérité, Allah aime ceux qui luttent pour Sa cause en rangs serrés, tel un édifice compact."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sesungguhnya Allah mencintai orang-orang yang berperang di jalan-Nya dalam barisan yang teratur, mereka seakan-akan seperti suatu bangunan yang tersusun kokoh."
+    },
+    "ur": {
+     "footnotes": "[1] یہ جہاد کا ایک انتہائی نیک عمل بتلایا گیا جو اللہ کو بہت محبوب ہے۔",
+     "text": "بیشک اللہ تعالیٰ ان لوگوں سے محبت کرتا ہے جو اس کی راه میں صف بستہ جہاد کرتے ہیں گویا وه سیسہ پلائی ہوئی عمارت ہیں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "安拉的确喜爱那等人：他们为他而列阵作战，好像坚实的墙壁一样。"
+    }
+   }
+  },
+  {
+   "arabic": "وَإِذۡ قَالَ مُوسَىٰ لِقَوۡمِهِۦ يَٰقَوۡمِ لِمَ تُؤۡذُونَنِي وَقَد تَّعۡلَمُونَ أَنِّي رَسُولُ ٱللَّهِ إِلَيۡكُمۡۖ فَلَمَّا زَاغُوٓاْ أَزَاغَ ٱللَّهُ قُلُوبَهُمۡۚ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡفَٰسِقِينَ",
+   "aya": 5,
+   "id": 5168,
+   "tafsir": {
+    "arabic_moyassar": "واذكر لقومك -أيها الرسول- حين قال نبي الله موسى عليه السلام لقومه: لِمَ تؤذونني بالقول والفعل، وأنتم تعلمون أني رسول الله إليكم؟ فلما عدلوا عن الحق مع علمهم به، وأصرُّوا على ذلك، صرف الله قلوبهم عن قَبول الهداية؛ عقوبة لهم على زيغهم الذي اختاروه لأنفسهم. والله لا يهدي القوم الخارجين عن الطاعة ومنهاج الحق."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১) আমার নির্দেশের বিরোধিতা করে।",
+     "text": "হে রাসূল! স্মরণ করো সে সময়ের কথা যখন মূসা তার সম্প্রদায়কে বলেছিল: ‘হে আমার সম্প্রদায়! তোমরা কেন (১) আমাকে কষ্ট দিচ্ছ? অথচ তোমরা নিশ্চয় জান যে, আমি অবশ্যই তোমাদের নিকট আল্লাহর রাসূল।’ অতঃপর তারা যখন (সত্য ছেড়ে) বাঁকা পথ অবলম্বন করল, তখন আল্লাহ তাদের হৃদয়গুলোকে বাঁকা করে দিলেন। আর আল্লাহ পাপাচারী সম্প্রদায়কে হিদায়াত করেন না।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "And [remember] when Moses said to his people, “O my people, why do you hurt me when you know that I am a messenger of Allah to you?” So when they chose to deviate, Allah caused their hearts to deviate, for Allah does not guide the rebellious people."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Moïse dit un jour à son peuple : « Mon peuple ! Pourquoi me causer du tort alors que vous savez très bien que je suis le Messager qu’Allah vous a envoyé ? » Mais puisqu’ils se sont détournés de la vérité, Allah a détourné leurs cœurs. Allah ne saurait guider ceux qui Lui refusent obéissance."
+    },
+    "id": {
+     "footnotes": "[841] Karena mereka berpaling dari kebenaran, maka Allah membiarkan sesat hati mereka sehingga mereka bertambah jauh dari kebenaran.",
+     "text": "Dan (ingatlah) ketika Musa berkata kepada kaumnya, \"Wahai kaumku! Mengapa kamu menyakitiku, padahal kamu sungguh mengetahui bahwa sesungguhnya aku utusan Allah kepadamu?\" Maka ketika mereka berpaling (dari kebenaran), Allah memalingkan hati mereka.[841] Dan Allah tidak memberi petunjuk kepada kaum yang fasik."
+    },
+    "ur": {
+     "footnotes": "[1] یہ جانتے ہوئے بھی کہ حضرت موسیٰ (عليه السلام) اللہ کے سچے رسول ہیں، بنی اسرائیل انہیں اپنی زبان سے ایذا پہنچاتے تھے، حتیٰ کہ بعض جسمانی عیوب ان کی طرف منسوب کرتے تھے، حالانکہ وہ بیماری ان کے اندر نہیں تھی۔\n[2] یعنی علم کے باوجود حق سے اعراض کیا اور حق کے مقابلے میں باطل کو خیر کے مقابلے میں شرکو اور ایمان کے مقابلے میں کفر کو اختیار کیا، تو اللہ تعالیٰ نے اس کی سزا کے طور پر ان کے دلوں کو مستقل طور پر ہدایت سے پھیر دیا۔ کیونکہ یہی سنت اللہ چلی آرہی ہے۔ کفر وضلالت پر دوام واستمرار ہی دلوں پر مہر لگنے کا باعث ہوتا ہے، پھر فسق ، کفر اور ظلم اس کی طبیعت اور عادت بن جاتی ہے، جس کو کوئی بدلنے پر قادر نہیں ہے۔ اسی لیے آگے فرمایا، اللہ تعالیٰ نافرمانوں کو ہدایت نہیں دیتا۔ اس لیے کہ اللہ تعالیٰ نے ایسے لوگوں کو اپنی سنت کے مطابق گمراہ کیا ہوتا ہے، اب کون اسے ہدایت دے سکتا ہے جسے اس طریقے سے اللہ نے گمراہ کیا ہو؟",
+     "text": "اور (یاد کرو) جبکہ موسیٰ نے اپنی قوم سے کہا اے میری قوم کے لوگو! تم مجھے کیوں ستا رہے ہو حاﻻنکہ تمہیں (بخوبی) معلوم ہے کہ میں تمہاری جانب اللہ کا رسول ہوں[1] پس جب وه لوگ ٹیڑھے ہی رہے تو اللہ نے ان کے دلوں کو (اور) ٹیڑھا کر دیا[2]، اور اللہ تعالیٰ نافرمان قوم کو ہدایت نہیں دیتا."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "当时，穆萨曾对他的宗族说：“我的宗族啊！你们既知道我是安拉派来给你们的使者，你们为什么诽谤我呢？”当他们背离正道的时候，安拉使他们的心背离真理。安拉是不引导悖逆的民众的。"
+    }
+   }
+  },
+  {
+   "arabic": "وَإِذۡ قَالَ عِيسَى ٱبۡنُ مَرۡيَمَ يَٰبَنِيٓ إِسۡرَٰٓءِيلَ إِنِّي رَسُولُ ٱللَّهِ إِلَيۡكُم مُّصَدِّقٗا لِّمَا بَيۡنَ يَدَيَّ مِنَ ٱلتَّوۡرَىٰةِ وَمُبَشِّرَۢا بِرَسُولٖ يَأۡتِي مِنۢ بَعۡدِي ٱسۡمُهُۥٓ أَحۡمَدُۖ فَلَمَّا جَآءَهُم بِٱلۡبَيِّنَٰتِ قَالُواْ هَٰذَا سِحۡرٞ مُّبِينٞ",
+   "aya": 6,
+   "id": 5169,
+   "tafsir": {
+    "arabic_moyassar": "واذكر -أيها الرسول لقومك- حين قال عيسى بن مريم لقومه: إني رسول الله إليكم، مصدِّقًا لما جاء قبلي من التوراة، وشاهدًا بصدق رسول يأتي من بعدي اسمه «أحمد» ، وهو محمد صلى الله عليه وسلم، وداعيًا إلى التصديق به، فلما جاءهم محمد صلى الله عليه وسلم بالآيات الواضحات، قالوا: هذا الذي جئتنا به سحر بيِّن."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(২) কোনো কোনো তাফসীরবিদের মতে, এখানে ‘ঈসা কে আর সুস্পষ্ট প্রমাণ দ্বারা ইন্জীলকে বোঝানো হয়েছে।",
+     "text": "আর স্মরণ করো যখন মারইয়াম পুত্র ‘ঈসা বলেছিল: ‘হে বানূ ইসরাঈল, নিশ্চয় আমি তোমাদের নিকট আল্লাহর (পক্ষ থেকে প্রেরিত) রাসূল। আমি আমার পূর্ববর্তী তাওরাতের সত্যায়নকারী এবং একজন রাসূলের সুসংবাদদাতা, যিনি আমার পরে আসবেন, যার নাম আহমাদ।’ অতঃপর সে (মুহাম্মাদ ) যখন সুস্পষ্ট নিদর্শনসমূহ ( আল-কুরআন ) নিয়ে আগমন করল(২), তখন তারা বললো: ‘এটাতো স্পষ্ট যাদু।’"
+    },
+    "en": {
+     "footnotes": "[1] Another name of Prophet Muhammad (ﷺ). Both are derived from \"hamd\" which means praise. Some scholars believe that this verse refers to John 14:16, where Jesus says: “And I will ask the Father, and he will give you another Paraclete, to be with you forever.” Paraclete in Greek means ‘the praised one.’ Prophet Muhammad's (ﷺ) name is mentioned several times in the Gospel of Barnabas, which the Christian authorities deem as apocryphal Bible.",
+     "text": "And [remember] when Jesus, son of Mary, said, “O Children of Israel, I am truly a messenger of Allah to you, confirming the Torah which came before me, and giving glad tidings of a messenger after me whose name will be Ahmad[1].” But when he came to them with clear proofs, they said, “This is clear magic.”"
+    },
+    "fr": {
+     "footnotes": "[1] Et les prophéties de la Torah me concernant.\n[2] L’un des noms du prophète Mouhammad.\n[3] Mouhammad ou Jésus.",
+     "text": "Jésus, fils de Marie, dit un jour : « Fils d’Israël ! Je suis le Messager qu’Allah vous a envoyé, confirmant les enseignements de la Torah révélés avant moi[1] et annonçant l’avènement d’un Messager qui viendra après moi dont le nom sera Ahmad[2]. » Mais, malgré toutes les preuves que celui-ci[3] leur a apportées, ils ont dit : « Ce n’est là, de toute évidence, que pure magie ! »"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan (ingatlah) ketika Isa Putra Maryam berkata, \"Wahai Bani Israil! Sesungguhnya aku utusan Allah kepadamu, yang membenarkan kitab (yang turun) sebelumku, yaitu Taurat, dan memberi kabar gembira dengan seorang rasul yang akan datang setelahku, yang namanya Ahmad (Muhammad).\" Namun ketika Rasul itu datang kepada mereka dengan membawa bukti-bukti yang nyata, mereka berkata, \"Ini adalah sihir yang nyata.\""
+    },
+    "ur": {
+     "footnotes": "[1] حضرت عیسیٰ (عليه السلام) کا قصہ اس لیے بیان فرمایا کہ بنی اسرائیل نے جس طرح حضرت موسیٰ (عليه السلام) کی نافرمانی کی، اسی طرح انہوں نے حضرت عیسیٰ (عليه السلام) کا بھی انکار کیا، اس میں نبی (صلى الله عليه وسلم) کو تسلی دی جارہی ہے کہ یہ یہود آپ (صلى الله عليه وسلم) ہی کے ساتھ اس طرح نہیں کر رہے ہیں، بلکہ ان کی تو ساری تاریخ ہی انبیا علیہم السلام کی تکذیب سے بھری پڑی ہے۔ تورات کی تصدیق کا مطلب یہ ہے کہ میں جو دعوت دے رہا ہوں، وہ وہی ہے جو تورات کی بھی دعوت ہے۔ جو اس بات کی دلیل ہے، کہ جو پیغمبر مجھ سے پہلے تورات لے کر آئے اور اب میں انجیل لے کر آیا ہوں، ہم دونوں کا اصل ماخذ ایک ہی ہے۔ اس لیے جس طرح تم موسیٰ وہارون اور داود وسلیمان علیہم السلام پر ایمان لائے ، مجھ پر بھی ایمان لاؤ، اس لیے کہ میں تورات کی تصدیق کر رہا ہوں نہ کہ اس کی تردید وتکذیب۔\n[2] یہ حضرت عیسیٰ (عليه السلام) نے اپنے بعد آنے والے آخری پیغمبر حضرت محمد رسول اللہ (صلى الله عليه وسلم) کی خوش خبری سنائی۔ چنانچہ نبی (صلى الله عليه وسلم) نے فرمایا : «أَنَا دَعْوَةُ أَبِي إِبْرَاهِيمَ وَبَشَارَةُ عِيسَى» (أيسر التفاسير) (میں اپنے باپ ابراہیم (عليه السلام) کی دعا اور عیسیٰ (عليه السلام) کی بشارت کا مصداق ہوں)۔ احمد، یہ فاعل سے اگر مبالغے کا صیغہ ہو تو معنی ہوں گے، دوسرے تمام لوگوں سے اللہ کی زیادہ حمد کرنے والا۔ اور اگر یہ مفعول سے ہو تو معنی ہوں گے کہ آپ (صلى الله عليه وسلم) کی خوبیوں اور کمالات کی وجہ سے جتنی تعریف آپ (صلى الله عليه وسلم) کی کی گئی، اتنی کسی کی بھی نہیں کی گئی۔ (فتح القدیر)۔\n[3] یعنی حضرت عیسیٰ (عليه السلام) کے پیش کردہ معجزات کو جادو سے تعبیر کیا، جس طرح گزشتہ قومیں بھی اپنے پیغمبروں کو اسی طرح کہتی رہی ہیں۔ بعض نے اس سے مراد نبی (صلى الله عليه وسلم) لیے ہیں اور قَالُوا کا فاعل کفار مکہ کو بنایا ہے۔",
+     "text": "اور جب مریم کے بیٹے عیسیٰ نے کہا اے (میری قوم)، بنی اسرائیل! میں تم سب کی طرف اللہ کا رسول ہوں مجھ سے پہلے کی کتاب تورات کی میں تصدیق کرنے واﻻ ہوں[1] اور اپنے بعد آنے والے ایک رسول کی میں تمہیں خوشخبری سنانے واﻻ ہوں جنکا نام احمد ہے[2]۔ پھر جب وه ان کے پاس کھلی دلیلیں ﻻئے تو یہ کہنے لگے، یہ تو کھلا جادو ہے.[3]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "当时，麦尔彦之子尔撒曾说：“伊司拉仪的后裔啊！我确是安拉派来给你们的使者，〔他派我〕来证实在我之前的《讨拉特》，并且以在我之后诞生的使者，名叫艾哈默德的，向你们报喜。”当他已昭示他们许多明证的时候，他们说：“这是明显的魔术。”"
+    }
+   }
+  },
+  {
+   "arabic": "وَمَنۡ أَظۡلَمُ مِمَّنِ ٱفۡتَرَىٰ عَلَى ٱللَّهِ ٱلۡكَذِبَ وَهُوَ يُدۡعَىٰٓ إِلَى ٱلۡإِسۡلَٰمِۚ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلظَّٰلِمِينَ",
+   "aya": 7,
+   "id": 5170,
+   "tafsir": {
+    "arabic_moyassar": "ولا أحد أشد ظلمًا وعدوانًا ممن اختلق على الله الكذب، وجعل له شركاء في عبادته، وهو يُدعى إلى الدخول في الإسلام وإخلاص العبادة لله وحده. والله لا يوفِّق الذين ظلموا أنفسهم بالكفر والشرك، إلى ما فيه فلاحهم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "যে ব্যক্তি আল্লাহর প্রতি মিথ্যা আরোপ করে, অথচ তাকে ইসলামের দিকে আহ্বান করা হচ্ছে, তার চেয়ে বড় জালিম আর কে হতে পারে? আর আল্লাহ জালিম সম্প্রদায়কে হিদায়াত দেন না।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Who could be more wrong than the one who fabricates lies against Allah when invited to Islam? And Allah does not guide the wrongdoing people."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Qui donc est plus injuste que celui qui forge des mensonges sur Allah alors qu’il est invité à embrasser l’islam ? Allah ne saurait guider les impies."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan siapakah yang lebih zalim daripada orang yang mengada-adakan kebohongan terhadap Allah padahal dia diajak kepada (agama) Islam? Dan Allah tidak memberi petunjuk kepada orang-orang yang zalim."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی اللہ کی اولاد قرار دے، یا جو جانور اس نے حرام قرار نہیں دیئے، ان کو حرام باور کرائے۔\n[2] جو تمام دینوں میں اشرف اور اعلیٰ ہے، اس لیے جو شخص ایسا ہو، اس کو کب یہ زیب دیتا ہے کہ وہ کسی پر بھی افترا گھڑے، چہ جائیکہ اللہ پر افترا باندھے؟",
+     "text": "اس شخص سے زیاده ﻇالم اور کون ہوگا جو اللہ پر جھوٹ (افترا) باندھے[1] حاﻻنکہ وه اسلام کی طرف بلایا جاتا ہے[2] اور اللہ ایسے ﻇالموں کو ہدایت نہیں کرتا."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "别人劝他入伊斯兰，他却假借安拉的名义而造谣，这样的人，谁比他还不义呢？安拉是不引导不义的民众的。"
+    }
+   }
+  },
+  {
+   "arabic": "يُرِيدُونَ لِيُطۡفِـُٔواْ نُورَ ٱللَّهِ بِأَفۡوَٰهِهِمۡ وَٱللَّهُ مُتِمُّ نُورِهِۦ وَلَوۡ كَرِهَ ٱلۡكَٰفِرُونَ",
+   "aya": 8,
+   "id": 5171,
+   "tafsir": {
+    "arabic_moyassar": "يريد هؤلاء الظالمون أن يبطلوا الحق الذي بُعِثَ به محمد صلى الله عليه وسلم -وهو القرآن- بأقوالهم الكاذبة، والله مظهر الحق بإتمام دينه ولو كره الجاحدون المكذِّبون."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তারা তাদের মুখের ফুৎকারে আল্লাহর নূরকে নিভিয়ে দিতে চায়; কিন্তু আল্লাহ তাঁর নূরকে পূর্ণতাদানকারী। যদিও কাফিররা তা অপছন্দ করে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "They wish to extinguish the light of Allah with their mouths, but Allah will complete His light, even though the disbelievers dislike it."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Ils cherchent, par leurs mensonges, à éteindre la lumière d’Allah. Mais Allah parachèvera Sa lumière, n’en déplaise aux mécréants."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Mereka hendak memadamkan cahaya (agama) Allah dengan mulut (ucapan-ucapan) mereka, tetapi Allah tetap menyempurnakan cahaya-Nya meskipun orang-orang kafir membencinya."
+    },
+    "ur": {
+     "footnotes": "[1] نور سے مراد قرآن ، یا اسلام یا محمد (صلى الله عليه وسلم) یا دلائل وبراہین ہیں۔ (منہ سے بجھا دیں) کا مطلب، وہ طعن وتشنیع کی باتیں ہیں جو ان کے مونہوں سے نکلتی تھیں۔\n[2] یعنی اس کو آفاق میں پھیلانے والا اور دوسرے تمام دینوں پر غالب کرنے والا ہے۔ دلائل کے لحاظ سے، یا مادی غلبے کے لحاظ سے یا دونوں لحاظ سے۔",
+     "text": "وه چاہتے ہیں کہ اللہ کے نور کو اپنے منھ سے بجھا دیں[1] اور اللہ اپنے نور کو کمال تک پہنچانے واﻻ ہے[2] گو کافر برا مانیں."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他们想用自己的嘴吹灭安拉的光明，但安拉要完成他的光明，即使不归信的人不愿意。"
+    }
+   }
+  },
+  {
+   "arabic": "هُوَ ٱلَّذِيٓ أَرۡسَلَ رَسُولَهُۥ بِٱلۡهُدَىٰ وَدِينِ ٱلۡحَقِّ لِيُظۡهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ وَلَوۡ كَرِهَ ٱلۡمُشۡرِكُونَ",
+   "aya": 9,
+   "id": 5172,
+   "tafsir": {
+    "arabic_moyassar": "الله هو الذي أرسل رسوله محمدًا صلى الله عليه وسلم بالقرآن ودين الإسلام؛ ليعليه على كل الأديان المخالفة له، ولو كره المشركون ذلك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তিনিই তাঁর রাসূল (মুহাম্মাদ)কে হিদায়াত ও সত্য দ্বীন (ইসলাম) দিয়ে প্রেরণ করেছেন, যাতে তিনি সকল দ্বীনের উপর তা বিজয়ী করে দেন। যদিও মুশরিকরা তা অপছন্দ করে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "It is He Who has sent His Messenger with guidance and the religion of truth, so that He may make it prevail over all religions, even though the polytheists may dislike it."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "C’est Lui qui a envoyé Son Messager avec la bonne direction et la vraie religion pour la faire triompher de toute autre religion, n’en déplaise aux idolâtres."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dialah yang mengutus Rasul-Nya dengan membawa petunjuk dan agama yang benar, untuk memenangkannya di atas segala agama meskipun orang-orang musyrik membencinya."
+    },
+    "ur": {
+     "footnotes": "[1] یہ گزشتہ بات ہی کی تاکید ہے، اس کی اہمیت کے پیش نظر اسے پھر دہرایا گیا ہے۔\n[2] تاہم یہ لامحالہ ہوکر رہے گا۔",
+     "text": "وہی ہے جس نے اپنے رسول کو ہدایت اور سچا دین دے کر بھیجا تاکہ اسے اور تمام مذاہب پر غالب کر دے[1] اگرچہ مشرکین ناخوش ہوں.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他曾以正道和真教派遣他的使者，以便他使真教胜过一切宗教，即使以物配主的人不愿意。"
+    }
+   }
+  },
+  {
+   "arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ هَلۡ أَدُلُّكُمۡ عَلَىٰ تِجَٰرَةٖ تُنجِيكُم مِّنۡ عَذَابٍ أَلِيمٖ",
+   "aya": 10,
+   "id": 5173,
+   "tafsir": {
+    "arabic_moyassar": "يا أيها الذين صدَّقوا الله ورسوله وعملوا بشرعه، هل أُرشِدكم إلى تجارة عظيمة الشأن تنجيكم من عذاب موجع؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "হে তোমরা যারা ঈমান এনেছ!! আমি কি তোমাদেরকে এমন এক ব্যবসায়ের সন্ধান দিবো, যা তোমাদেরকে যন্ত্রণাদায়ক শাস্তি থেকে রক্ষা করবে?"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "O you who believe, shall I tell you about a trade that will save you from a painful punishment?"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Vous qui croyez ! Vous indiquerais-je les termes d’un marché à même de vous épargner un douloureux châtiment ?"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Wahai orang-orang yang beriman! Maukah kamu Aku tunjukkan suatu perdagangan yang dapat menyelamatkan kamu dari azab yang pedih?"
+    },
+    "ur": {
+     "footnotes": "[1] اس عمل (یعنی ایمان اور جہاد) کو تجارت سے تعبیر کیا، اس لیے کہ اس میں بھی انہیں تجارت کی طرح ہی نفع ہوگا، اور وہ نفع کیا ہے؟ جنت میں داخلہ اور جہنم سے نجات۔ اس سے بڑا نفع اور کیا ہوگا، اور وہ نفع کیا ہے؟ اس بات کو دوسرے مقام پر اس طرح بیان فرمایا :«إِنَّ اللَّهَ اشْتَرَى مِنَ الْمُؤْمِنِينَ أَنْفُسَهُمْ وَأَمْوَالَهُمْ بِأَنَّ لَهُمُ الْجَنَّةَ» (التوبة ، 111) «اللہ نے مومنوں سے ان کی جانوں اور مالوں کا سودا جنت کے بدلے میں کرلیا ہے»۔",
+     "text": "اے ایمان والو! کیا میں تمہیں وه تجارت بتلا دوں[1] جو تمہیں درد ناک عذاب سے بچا لے؟"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "归信的人们啊！我将指示你们一种生意，它能拯救你们脱离痛苦的刑罚，好吗？"
+    }
+   }
+  },
+  {
+   "arabic": "تُؤۡمِنُونَ بِٱللَّهِ وَرَسُولِهِۦ وَتُجَٰهِدُونَ فِي سَبِيلِ ٱللَّهِ بِأَمۡوَٰلِكُمۡ وَأَنفُسِكُمۡۚ ذَٰلِكُمۡ خَيۡرٞ لَّكُمۡ إِن كُنتُمۡ تَعۡلَمُونَ",
+   "aya": 11,
+   "id": 5174,
+   "tafsir": {
+    "arabic_moyassar": "تداومون على إيمانكم بالله ورسوله، وتجاهدون في سبيل الله؛ لنصرة دينه بما تملكون من الأموال والأنفس، ذلك خير لكم من تجارة الدنيا، إن كنتم تعلمون مضارَّ الأشياء ومنافعها، فامتثلوا ذلك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৩) এ লাভজনক ব্যবসাটি হলোঃ",
+     "text": "(৩) তোমরা আল্লাহর প্রতি ও তাঁর রাসূলের প্রতি ঈমান আনবে এবং তোমরা তোমাদের ধন-সম্পদ ও জীবন দিয়ে আল্লাহর পথে জিহাদ করবে। এটাই তোমাদের জন্য কল্যাণকর, যদি তোমরা জানতে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "It is to believe in Allah and His Messenger and to struggle in the way of Allah with your wealth and your lives. That is better for you, if only you knew."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Croyez en Allah et en Son Messager, et luttez corps et biens pour la cause d’Allah. Voilà qui est préférable pour vous, si seulement vous saviez."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "(Yaitu) kamu beriman kepada Allah dan Rasul-Nya, dan berjihad di jalan Allah dengan harta dan jiwamu. Itulah yang lebih baik bagi kamu jika kamu mengetahui,"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "اللہ تعالیٰ پر اور اس کے رسول پر ایمان ﻻؤ اور اللہ کی راه میں اپنے مال اور اپنی جانوں سے جہاد کرو۔ یہ تمہارے لیے بہتر ہے اگر تم میں علم ہو."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你们信仰安拉和他的使者，你们以自己的财产和生命，为主道而奋斗，那对于你们是更好的，如果你们知道。"
+    }
+   }
+  },
+  {
+   "arabic": "يَغۡفِرۡ لَكُمۡ ذُنُوبَكُمۡ وَيُدۡخِلۡكُمۡ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ وَمَسَٰكِنَ طَيِّبَةٗ فِي جَنَّٰتِ عَدۡنٖۚ ذَٰلِكَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ",
+   "aya": 12,
+   "id": 5175,
+   "tafsir": {
+    "arabic_moyassar": "إن فعلتم -أيها المؤمنون- ما أمركم الله به يستر عليكم ذنوبكم، ويدخلكم جنات تجري من تحت قصورها وأشجارها الأنهار، ومساكن طاهرة زكية في جنات إقامة دائمة لا تنقطع، ذلك هو الفوز الذي لا فوز بعده. ونعمة أخرى لكم -أيها المؤمنون- تحبونها هي نصر من الله يأتيكم، وفتح عاجل يتم على أيديكم. وبشِّر المؤمنين -أيها النبي- بالنصر والفتح في الدنيا، والجنة في الآخرة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "(এ ব্যবসার ফলে) তিনি তোমাদের পাপসমূহ ক্ষমা করে দিবেন। আর তোমাদেরকে এমন জান্নাতসমূহে প্রবেশ করাবেন যার তলদেশে নহরসমূহ প্রবাহিত এবং চিরস্থায়ী জান্নাতসমূহের উত্তম আবাসগুলোতেও প্রবেশ করাবেন। এটাই মহাসাফল্য।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "He will forgive you your sins and admit you to gardens under which rivers flow, and pleasant dwellings in Gardens of Eternity. That is the supreme triumph."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Allah vous pardonnera vos péchés et vous accueillera dans des jardins traversés de rivières et d’agréables demeures dans les jardins d’Eden. Voilà le bonheur suprême"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "niscaya Allah mengampuni dosa-dosamu dan memasukkan kamu ke dalam surga yang mengalir di bawahnya sungai-sungai, dan ke tempat-tempat tinggal yang baik di dalam surga 'Ādn. Itulah kemenangan yang agung."
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "اللہ تعالیٰ تمہارے گناه معاف فرما دے گا اور تمہیں ان جنتوں میں پہنچائے گا جن کے نیچے نہریں جاری ہوں گی اور صاف ستھرے گھروں میں جو جنت عدن میں ہوں گے، یہ بہت بڑی کامیابی ہے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他将赦宥你们的罪过，并且使你们入下临诸河的乐园和常住的乐园中的许多优美的住宅，那确是伟大的成功。"
+    }
+   }
+  },
+  {
+   "arabic": "وَأُخۡرَىٰ تُحِبُّونَهَاۖ نَصۡرٞ مِّنَ ٱللَّهِ وَفَتۡحٞ قَرِيبٞۗ وَبَشِّرِ ٱلۡمُؤۡمِنِينَ",
+   "aya": 13,
+   "id": 5176,
+   "tafsir": {
+    "arabic_moyassar": "إن فعلتم -أيها المؤمنون- ما أمركم الله به يستر عليكم ذنوبكم، ويدخلكم جنات تجري من تحت أشجارها الأنهار، ومساكن طاهرة زكية في جنات إقامة دائمة لا تنقطع، ذلك هو الفوز الذي لا فوز بعده. ونعمة أخرى لكم- أيها المؤمنون- تحبونها هي نصر من الله يأتيكم، وفتح عاجل يتم على أيديكم. وبشِّر المؤمنين -أيها النبي- بالنصر والفتح في الدنيا، والجنة في الآخرة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৪) ইহকালের বিজয় এবং পরকালে জান্নাত লাভে ধন্য হওয়ার।",
+     "text": "এবং (উক্ত ব্যবসার) আরো একটি (লাভ) যা তোমরা খুব পছন্দ করো (তা হলোঃ) আল্লাহর পক্ষ থেকে সাহায্য ও নিকটবর্তী (মক্কা) বিজয়। হে রাসূল! মু’মিনদেরকে তুমি (৪) সুসংবাদ দাও।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "And [He will grant you] another favor that you love: help from Allah [against your enemies] and an imminent conquest. Give glad tidings to the believers."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "auquel s’ajouteront d’autres faveurs que vous appelez de vos vœux : l’assistance d’Allah et un succès imminent. Fais-en l’heureuse annonce aux croyants."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan (ada lagi) karunia lain yang kamu sukai (yaitu) pertolongan dari Allah dan kemenangan yang dekat (waktunya). Dan sampaikanlah berita gembira kepada orang-orang mukmin."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی جب تم اس کی راہ میں لڑو گے اور اس کے دین کی مدد کرو گے، تو وہ بھی تمہیں فتح ونصرت سے نوازے گا۔ - «إِنْ تَنْصُرُوا اللَّهَ يَنْصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ» (سورة محمد: 7) «وَلَيَنْصُرَنَّ اللَّهُ مَنْ يَنْصُرُهُ إِنَّ اللَّهَ لَقَوِيٌّ عَزِيزٌ» (الحج: 40) آخرت کی نعمتوں کے مقابلے میں اسے فتح قریب، قرار دیا۔ اور اس سے مراد فتح مکہ ہے اور بعض نے فارس وروم کی عظیم الشان سلطنتوں پر مسلمانوں کے غلبے کو اس کا مصداق قرار دیا ہے۔ جو خلافت راشدہ میں مسلمانوں کو حاصل ہوا۔\n[2] جنت کی بھی، مرنے کے بعد۔ اور فتح ونصرت کی بھی، دنیا میں۔ بشرطیکہ اہل ایمان ایمان کے تقاضے پورے کرتے رہیں۔ «وَأَنْتُمُ الأَعْلَوْنَ إِنْ كُنْتُمْ مُؤْمِنِينَ» (آل عمران: 139) آگے اللہ تعالیٰ مومنوں کو اپنے دین کی نصرت کی مزید ترغیب دے رہا ہے۔",
+     "text": "اور تمہیں ایک دوسری (نعمت) بھی دے گا جسے تم چاہتے ہو وه اللہ کی مدد اور جلد فتح یابی ہے[1] ، ایمان والوں کو خوشخبری دے دو.[2]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "〔他将赏赐你们〕另一种为你们所爱好的〔恩典〕——从安拉降下的援助，和临近的胜利。你向信士们报喜吧。"
+    }
+   }
+  },
+  {
+   "arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ كُونُوٓاْ أَنصَارَ ٱللَّهِ كَمَا قَالَ عِيسَى ٱبۡنُ مَرۡيَمَ لِلۡحَوَارِيِّـۧنَ مَنۡ أَنصَارِيٓ إِلَى ٱللَّهِۖ قَالَ ٱلۡحَوَارِيُّونَ نَحۡنُ أَنصَارُ ٱللَّهِۖ فَـَٔامَنَت طَّآئِفَةٞ مِّنۢ بَنِيٓ إِسۡرَٰٓءِيلَ وَكَفَرَت طَّآئِفَةٞۖ فَأَيَّدۡنَا ٱلَّذِينَ ءَامَنُواْ عَلَىٰ عَدُوِّهِمۡ فَأَصۡبَحُواْ ظَٰهِرِينَ",
+   "aya": 14,
+   "id": 5177,
+   "tafsir": {
+    "arabic_moyassar": "يا أيها الذين صدَّقوا الله ورسوله وعملوا بشرعه، كونوا أنصارًا دين الله، كما كان أصفياء عيسى وخلص أصحابه أنصار دين الله حين قال لهم عيسى: مَن يتولى منكم نصري وإعانتي فيما يُقرِّب إلى الله؟ قالوا: نحن أنصار دين الله، فاهتدت طائفة من بني إسرائيل، وضلَّت طائفة، فأيدنا الذين آمنوا بالله ورسوله، ونصرناهم على مَن عاداهم مِن فرق النصارى، فأصبحوا ظاهرين عليهم؛ وذلك ببعثة محمد صلى الله عليه وسلم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "হে তোমরা যারা ঈমান এনেছ! তোমরা আল্লাহর সাহায্যকারী হও, যেমন মারইয়াম পুত্র ‘ঈসা হাওয়ারীদেরকে বলেছিল: আল্লাহর পথে কারা আমার সাহায্যকারী হবে? হাওয়ারীগণ বলেছিলো: আমরাই আল্লাহর সাহায্যকারী। তারপর বানূ-ঈসরাইলের মধ্য থেকে একদল ঈমান আনল এবং অপর এক দল কুফরী করলো। অতঃপর যারা ঈমান আনল আমি তাদেরকে তাদের শত্রুবাহিনীর ওপর সাহায্য করলাম। ফলে তারা (ওদের উপর) বিজয়ী হলো।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "O you who believe, be supporters of Allah’s cause, as Jesus, son of Mary, said to the disciples, “Who will be my supporters for Allah’s cause?” The disciples said, “We are the supporters of Allah’s cause.” Then a group of the Children of Israel believed and another disbelieved. We then supported those who believed against their enemies, so they prevailed."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Vous qui croyez ! Défendez la cause d’Allah comme le firent les apôtres auxquels Jésus, fils de Marie, dit : « Qui défendra avec moi la cause d’Allah ? » Les apôtres répondirent : « Nous sommes disposés à défendre la cause d’Allah. » Une partie des fils d’Israël crut donc en lui, tandis qu’une autre rejeta la foi. Forts de Notre soutien, les croyants prirent l’ascendant sur leurs ennemis."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Wahai orang-orang yang beriman! Jadilah kamu penolong-penolong (agama) Allah sebagaimana Isa putra Maryam telah berkata kepada pengikut-pengikutnya yang setia, \"Siapakah yang akan menjadi penolong-penolongku (untuk menegakkan agama) Allah?\" Pengikut-pengikutnya yang setia itu berkata, \"Kamilah penolong-penolong (agama) Allah.\" Lalu segolongan dari Bani Israil beriman dan segolongan (yang lain) kafir; lalu Kami berikan kekuatan kepada orang-orang yang beriman terhadap musuh-musuh mereka, sehingga mereka menjadi orang-orang yang menang."
+    },
+    "ur": {
+     "footnotes": "[1] تمام حالتوں میں، اپنے اقوال وافعال کے ذریعے سے بھی اور جان ومال کے ذریعے سے بھی۔ جب بھی، جس وقت بھی اور جس حالت میں بھی تمہیں اللہ اور اس کا رسول اپنے دین کے لیے پکارﮮ تم فوراً ان کی پکار پر لبیک کہو، جس طرح حواریین نے عیسیٰ (عليه السلام) کی پکار پر لبیک کہا۔\n[2] یعنی ہم آپ (صلى الله عليه وسلم) کے اس دین کی دعوت وتبلیغ میں مددگار ہیں جس کی نشرواشاعت کا حکم اللہ نے آپ (صلى الله عليه وسلم) کو دیا ہے۔ اسی طرح رسول اللہ (صلى الله عليه وسلم) ایام حج میں فرماتے (کون ہے جو مجھے پناہ دے تاکہ میں لوگوں تک اللہ کا پیغام پہنچا سکوں، اس لیے کہ قریش مجھے فریضۂ رسالت ادا نہیں کرنے دیتے)۔ حتیٰ کہ آپ (صلى الله عليه وسلم) کی اس پکار پر مدینے کے اوس اور خزرج نے لبیک کہا، آپ (صلى الله عليه وسلم) کے ہاتھ پر انہوں نے بیعت کی اور آپ (صلى الله عليه وسلم) کی مدد کا وعدہ کیا۔ نیز آپ (صلى الله عليه وسلم) کو یہ پیشکش کی کہ اگر آپ (صلى الله عليه وسلم) ہجرت کرکے مدینہ آجائیں تو آپ (صلى الله عليه وسلم) کی حفاظت کی ذمے داری ہم قبول کرتے ہیں۔ چنانچہ جب آپ (صلى الله عليه وسلم) ہجرت کرکے مدینہ تشریف لے گئے تو وعدے کے مطابق انہوں نے آپ (صلى الله عليه وسلم) کی اور آپ (صلى الله عليه وسلم) کے تمام ساتھیوں کی پوری مدد کی۔ حتیٰ کہ اللہ اور اس کے رسول (صلى الله عليه وسلم) نے ان کا نام ہی (انصار) رکھ دیا اور اب یہ ان کا علم بن گیا۔ رَضِيَ اللهُ عَنْهُمْ وَأَرْضَاهُمْ (ابن کثیر)\n[3] یہ یہود تھے جنہوں نے نبوت عیسیٰ (عليه السلام) ہی کا انکار نہیں کیا بلکہ ان پر اور ان کی ماں پر بہتان تراشی کی۔ بعض کہتے ہیں کہ یہ اختلاف وتفرق اس وقت ہوا، جب حضرت عیسیٰ (عليه السلام) کو آسمان پر اٹھا لیا گیا۔ ایک نے کہا کہ عیسیٰ (عليه السلام) کی شکل میں اللہ تعالیٰ نے ہی زمین پر ظہور فرمایا تھا، اب وہ پھر آسمان پر چلا گیا ہے، یہ فرقہ یعقوبیہ کہلاتا ہے۔ نسطوریہ فرقے نے کہا کہ وہ ابن اللہ تھے، باپ نے بیٹے کو آسمان پر بلا لیا ہے۔ تیسرے فرقے نے کہا وہ اللہ کے بندے اور اس کے رسول تھے، یہی فرقہ صحیح تھا۔\n[4] یعنی نبی (صلى الله عليه وسلم) کو مبعوث فرما کر ہم نے اسی آخری جماعت کی، دوسرے باطل گروہوں کے مقابلے میں مدد کی۔ چنانچہ یہ صحیح عقیدے کی حامل جماعت نبی (صلى الله عليه وسلم) پر بھی ایمان لے آئی اور یوں ہم نے ان کو دلائل کے لحاظ سے بھی سب کافروں پر غلبہ عطا فرمایا اور قوت وسلطنت کے اعتبار سے بھی۔ اس غلبے کا آخری ظہور اس وقت پھر ہوگا، جب قیامت کے قریب حضرت عیسیٰ (عليه السلام) کا دوبارہ نزول ہوگا، جیسا کہ اس نزول اور غلبے کی صراحت احادیث صحیحہ میں تواتر کے ساتھ منقول ہے۔",
+     "text": "اے ایمان والو! تم اللہ تعالیٰ کے مددگار بن جاؤ[1] ۔ جس طرح حضرت مریم کے بیٹے حضرت عیسیٰ نے حواریوں سے فرمایا کہ کون ہے جو اللہ کی راه میں میرا مددگار بنے[2]؟ حواریوں نے کہا ہم اللہ کی راه میں مددگار ہیں، پس بنی اسرائیل میں سے ایک جماعت تو ایمان ﻻئی اور ایک جماعت نے کفر کیا[3] تو ہم نے مومنوں کی انکے دشمنوں کے مقابلہ میں مدد کی پس وه غالب آ گئے.[4]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "归信的人们啊！你们应当做协助安拉的人，犹如麦尔彦之子尔撒对他的门徒所说的：“谁是与我共同协助安拉的？”那些门徒说：“我们是协助安拉的。”伊司拉仪的后裔中，有一派人已经归信，有一派人并不归信。我扶助归信的人们对抗他们的敌人，故他们变成优胜的。"
+    }
+   }
+  }
+ ],
+ "content_sha256": "sha256:def385b9038c388edf0c88edc939562d6f4cc0fac4f8de073655c2313e586b75",
+ "name_ar": "الصف",
+ "number": 61,
+ "schema": "balligh.library.quran.surah/1"
+}

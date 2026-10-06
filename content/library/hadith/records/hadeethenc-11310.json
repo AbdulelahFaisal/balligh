@@ -1,0 +1,159 @@
+{
+ "attribution": "رواه الترمذي",
+ "content_sha256": "sha256:0a8cdc47f714757886c8af2a6de124200a6cfb0342db3a4f6f86156b5b608d0f",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "إذا أتى أحدكم الصلاة والإمام على حال من قيام أو ركوع أو سجود أو قعود، فليوافق الإمام فيما هو فيه من القيام أو الركوع أو غير ذلك، ولا ينتظر حتى يقوم الإمام كما يفعله العوام.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "مشروعية دخول اللاحق مع الإمام في أي جزء من أجزاء الصلاة أدركه، من غير فرق بين الركوع والسجود والقعود."
+ ],
+ "id": "hadeethenc-11310",
+ "language": "ar",
+ "narrator": null,
+ "reference": "سنن الترمذي، محمد بن عيسى الترمذي، تحقيق وتعليق: أحمد محمد شاكر، ومحمد فؤاد عبد الباقي، وإبراهيم عطوة عوض، شركة مكتبة ومطبعة مصطفى البابي الحلبي، مصر، الطبعة الثانية، 1395هـ - 1975م.\nنيل الأوطار، محمد بن علي الشوكاني اليمني، تحقيق: عصام الدين الصبابطي، الناشر: دار الحديث، مصر، الطبعة الأولى، 1413هـ - 1993م.\nصحيح الجامع الصغير وزيادته، محمد ناصر الدين الألباني، المكتب الإسلامي، بيروت، الطبعة الثالثة، 1408هـ.\nتحفة الأحوذي بشرح جامع الترمذي، محمد عبد الرحمن بن عبد الرحيم المباركفورى، دار الكتب العلمية، بيروت.\nبلوغ المرام من أدلة الأحكام، أحمد بن علي بن حجر العسقلاني، دار القبس للنشر والتوزيع، الرياض، المملكة العربية السعودية، الطبعة الأولى، 1435هـ - 2014م.",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=11310",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:44+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/11310"
+ },
+ "source_categories": [
+  {
+   "id": "470",
+   "label": "أحكام الإمام والمأموم"
+  }
+ ],
+ "source_record_id": "11310",
+ "text": "عن علي بن أبي طالب، ومعاذ بن جبل رضي الله عنهما مرفوعًا: «إذا أتى أحدُكم الصلاةَ والإمامُ على حال، فلْيصنعْ كما يصنع الإمامُ».",
+ "title": "إذا أتى أحدكم الصلاة والإمام على حال، فليصنع كما يصنع الإمام",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=11310",
+   "arabic_match": "exact",
+   "attribution": "এটি তিরমিযী বর্ণনা করেছেন।",
+   "content_sha256": "sha256:bae8860241587181568d79d1a919d32f51a7d0fe98c864ec6b97b5bf3845f76d",
+   "explanation": "যখন তোমাদের কেউ সালাতে উপস্থিত হয় আর ইমাম একটি অবস্থায় থাকে, যেমন দাঁড়ানো বা রুকূ বা সিজদা বা বসা অবস্থায় আছে সে যেন দাঁড়ানো বা রুকূ ইত্যাদিতে ইমামের অনুসরণ করে। ইমামের দাঁড়ানোর অপেক্ষা করবে না। যেমনটি সাধারণ মানুষ করে থাকে।",
+   "grade": "সহীহ",
+   "hints": [
+    "জামাত শুরু হয়ে যাওয়ার পরে আসা ব্যক্তি (লাহিক) সালাতের যে অংশে ইমামকে পাবে রুকু, সিজদা ও বসা কোনটির মধ্যে প্রার্থক্য না করে তাতেই ইমামের সাথে সালাতে প্রবেশ করবে।",
+    "সালাতের যে অংশে ইমামের সাথে শরীক হয়েছে সে অংশের রুকু পাওয়া দ্বারা রাকাত পাওয়া সাব্যস্ত হবে। যেমনটি অন্যান প্রমাণ দ্বারা তা প্রমাণিত।"
+   ],
+   "mapping": "same HadeethEnc record id 11310; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:07+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/11310",
+   "text": "আলী ইবন আবি তালিব ও মু‘আয ইবন জাবাল রাদিয়াল্লাহু ‘আনহুমা থেকে মারফূ‘ হিসেবে বর্ণিত, “যখন তোমাদের কেউ সালাতে উপস্থিত হয় আর ইমাম একটি অবস্থায় থাকে, তখন সে তাই করবে যেমন ইমাম করবে।”",
+   "title": "যখন তোমাদের কেউ সালাতে উপস্থিত হয় আর ইমাম একটি অবস্থায় থাকে, তখন সে তাই করবে যেমন ইমাম করবে।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=11310",
+   "arabic_match": "exact",
+   "attribution": "Narrated by At-Termedhy",
+   "content_sha256": "sha256:9c92c4529692942d3ae61a1f5ab6b7d06d52e0d3210ff2aaf1fab6b7d6e41475",
+   "explanation": "If one of you joins the congregational prayer and finds the Imām in one of the four positions of prayer: standing up, bowing, prostrating, or sitting down, he has to do the same as the Imām immediately without waiting for the Imām to stand up like what laymen do.",
+   "grade": "Authentic hadith",
+   "hints": [
+    "It is legitimate for a person coming late to prayer to join the Imām at any part of the prayer, with no difference between Rukū‘, prostration, or sitting.",
+    "Catching up a Rak‘ah with the Imām is realized by catching up its Rukū‘, as indicated by other Hadīths."
+   ],
+   "mapping": "same HadeethEnc record id 11310; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:06+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/11310",
+   "text": "‘Ali ibn Abi Tālib and Mu‘ādh ibn Jabal (may Allah be pleased with both of them) reported that the Prophet (may Allah's peace and blessings be upon him) said: \"When one of you joins the prayer and finds the Imām in a certain position, he should do what the Imām is doing.\"",
+   "title": "When one of you joins the prayer and finds the Imām in a certain position, he should do what the Imām is doing",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=11310",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par At-Tirmidhî",
+   "content_sha256": "sha256:39bca1e089749810bde154d248c209b0d7b58b7fb31aeb8ad858753c754902e1",
+   "explanation": "Lorsque quelqu’un se rend à la prière et trouve l’imam debout, incliné, prosterné, ou assis, il doit prendre la même position que lui et ne pas attendre qu'il soit debout pour se joindre à lui, comme le font souvent les gens de la masse.",
+   "grade": "Authentique",
+   "hints": [],
+   "mapping": "same HadeethEnc record id 11310; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:07+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/11310",
+   "text": "‘Alî ibn Abî Ṭâlib et Mu’âdh ibn Jabal (qu’Allah les agrées) relatent que le Messager d’Allah (sur lui la paix et le salut) a dit : « Lorsque l'un d'entre vous se rend à la prière et trouve l’imam dans une position, qu’il fasse la même chose que l’imam. »",
+   "title": "Lorsque l'un d'entre vous se rend à la prière et trouve l’imam dans une position, qu’il fasse la même chose que l’imam.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=11310",
+   "arabic_match": "exact",
+   "attribution": "Diriwayatkan oleh Tirmiżi",
+   "content_sha256": "sha256:98ce6f04c96549ed884681e5ad198332f35f8d1eecf9ef834c3c1934e07fcd65",
+   "explanation": "Jika salah seorang dari kalian mendatangi salat di saat imam dalam posisi tertentu, baik berdiri, rukuk, sujud, atau duduk, maka ia hendaklah melakukan seperti yang dilakukan imam yang sedang berdiri, rukuk, atau posisi lainnya. Ia tidak boleh hanya berdiri menanti imamnya berdiri, sebagaimana yang dilakukan orang-orang awam.",
+   "grade": "Hadis sahih",
+   "hints": [
+    "Perintah kepada orang yang masbuk agar langsung masuk bersama imam pada bagian salat mana pun yang dia dapatkan, tanpa membedakan antara rukuk, sujud, dan duduk.",
+    "Ukuran mendapatkan rakaat ketika dia bergabung bersama imam adalah dengan mendapatkan rukuknya; sebagaimana ditunjukkan oleh nas-nas yang lain."
+   ],
+   "mapping": "same HadeethEnc record id 11310; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:07+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/11310",
+   "text": "Ali bin Abi Ṭālib dan Mu'āż bin Jabal -raḍiyallāhu 'anhumā- meriwayatkan secara marfū': \"Jika salah seorang dari kalian mendatangi salat di saat imam dalam posisi tertentu, maka lakukanlah seperti yang dilakukan imam.\"",
+   "title": "Jika salah seorang dari kalian mendatangi salat di saat imam dalam posisi tertentu, maka lakukanlah seperti yang dilakukan imam.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=11310",
+   "arabic_match": "exact",
+   "attribution": "اسے امام ترمذی نے روایت کیا ہے۔",
+   "content_sha256": "sha256:e75ed6997e6e60ca76819fb7adcea70c591a7e8a40d1c691edabcfe315712e00",
+   "explanation": "جب تم میں سے کوئی شخص نماز کے لیے آئے اور امام قیام یا رکوع یا سجدے یا قعود (بیٹھنے) کی حالت میں ہو تو تمہیں چاہیے کہ قیام یا رکوع وغیرہ میں امام کی اتباع کرو، امام کے کھڑے ہونے کا انتظار نہ کرو جیسا کہ عام طور پر لوگ کرتے ہیں۔",
+   "grade": "صحیح",
+   "hints": [
+    "بعد میں آنے والے کے لیے امام کے ساتھ داخل ہونے کی مشروعیت، چاہے وہ امام کو نماز کے جس حصے میں پائے۔ اس میں رکوع، سجود اور قعود کی تفریق نہیں ہے۔",
+    "بعد میں امام کے ساتھ شامل ہونے والا رکوع پانے کی صورت میں رکعت پانے والا سمجھا جائے گا، جیسا کہ دیگر نصوص سے ثابت ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 11310; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:07+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/11310",
+   "text": "علی بن ابی طالب اور معاذ بن جبل رضی الله عنہما سے روایت ہے کہ نبی اکرم ﷺ نے فرمایا: ”جب تم میں سے کوئی نماز پڑھنے آئے اور امام کسی حالت میں ہو تو وہ وہی کرے جو امام کر رہا ہو“۔",
+   "title": "جب تم میں سے کوئی نماز پڑھنے آئے اور امام کسی حالت میں ہو تو وہ وہی کرے جو امام کر رہا ہو۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=11310",
+   "arabic_match": "exact",
+   "attribution": "提尔米兹传述",
+   "content_sha256": "sha256:dbc95cd2705a89d0f3203d47cb85301f62b875a0dc2f1a2282b5c604b6066556",
+   "explanation": "当你们有人来礼拜，而伊玛目正在站立、鞠躬、叩头或者打坐时，他就必须立即做同样的事情，站立或者鞠躬等，不要等伊麻目站起来，就像有些人所做的一样。",
+   "grade": "健全的圣训",
+   "hints": [
+    "教法规定无论赶上伊玛目的任何动作，必须立即跟随伊麻目进入礼拜，在鞠躬、叩头或者中坐之间不做区分。",
+    "赶上伊麻目鞠躬就是赶上了这一拜，正如在其它的明文中规定的。"
+   ],
+   "mapping": "same HadeethEnc record id 11310; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:07+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/11310",
+   "text": "据阿里·本·阿比·塔利布和穆阿兹·伊本·贾巴尔--愿主喜悦之--直接传述自先知--愿主福安之--说：“当你们有人来礼拜，而伊玛目正在礼拜时，就应该跟随伊玛目正在做的动作。”",
+   "title": "当你们有人来礼拜，而伊玛目正在礼拜时，就应该跟随伊玛目正在做的动作。",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

@@ -1,0 +1,202 @@
+{
+ "attribution": "رواه الترمذي وغيره",
+ "content_sha256": "sha256:04cf6d125ece411895aa95eba88566b7b9ab70557f7e373eae30d13a66c72334",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يُخبرُ ابنُ عباس رضي الله عنه أنه كان صغيرًا راكبًا مع النبي صلى الله عليه وسلم، فقال له عليه الصلاة والسلام: إني أُعلِّمك أمورًا وأشياءَ ينفعك الله بها:\nاحفظ الله بِحفظِ أوامرِه واجتنابِ نواهيه، بحيث يَجِدُكَ في الطاعات والقربات، ولا يجدُكَ في المعاصي والآثام، فإن فعلتَ ذلك كان جزاؤك أن يحفظَك الله من مكاره الدنيا والآخرة، وينصرَك في مُهماتِك أينما توجَّهتَ.\nوإذا أردتَ أن تسأل شيئًا، فلا تسألْ إلا الله فإنه وحده الذي يُجيب السائلين.\nوإذا أردتَ العونَ فلا تستعنْ إلا بالله.\nولْيكُن عندك يقينٌ أنه لن تحصل لك منفعة ولو اجتمع على منفعتِك أهلُ الأرض جميعًا إلا ما كتبه الله لك، ولن يحصُلَ عليك ضرر ولو اجتمع على ضرك أهلُ الأرض جميعًا إلا ما قدَّره الله عليك.\nوأن هذا الأمر قد كَتَبه الله عز وجل وقدّره وِفْقَ ما اقتضته حكمته وعلمه، ولا تبديل لما كتبه الله.\nوأن من احفظ الله بِحفظِ أوامرِه واجتنابِ نواهيه؛ فإن الله سبحانه أمام العبد يعلم ما هو عليه وينصره ويؤيده. وأن الإنسان إذا أطاع الله في الرخاء فإن الله يجعل له عند الشدة فرجًا ومخرجًا، وليرض كل عبد بما قدره الله عليه من خير وشر. ومع الشدائد والمحن يلتزم العبد الصبر، فإن الصبر مفتاح الفرج، وأن الكرب إذا اشتد جاء الفرج من الله، وأن العسر إذا حصل أعقبه الله باليسر.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "أهمية تعليم الصغار والأطفال أمورَ الدين من التوحيد والآداب وغير ذلك.",
+  "الجزاء من جنس العمل.",
+  "الأمر بالاعتماد على الله، والتوكل عليه دون غيره، وهو نعم الوكيل.",
+  "الإيمان بالقضاء والقدر والرضا به، وأن الله قدر كل شيء.",
+  "من أضاع أمر الله فإن الله يُضَيِّعُه ولا يَحفظُه.",
+  "البشارة العظيمة أن الإنسان إذا أصابه العسر فلينتظر اليسر.",
+  "تسلية العبد عند حصول المصيبة، وفوات المحبوب في قوله: «وَاعْلَم أن مَا أَصَابَكَ لَمْ يَكُن لِيُخطِئكَ، وَمَا أخطأَكَ لَمْ يَكُن لِيصيبَك» فالجملة الأولى تسلية في حصول المكروه، والثانية تسلية في فوات المحبوب."
+ ],
+ "id": "hadeethenc-66522",
+ "language": "ar",
+ "narrator": null,
+ "reference": "سنن الترمذي (4/ 284) (2516).\nالتحفة الربانية في شرح الأربعين حديثًا النووية (ص42).\nشرح الأربعين النووية، لابن عثيمين (ص200).\nفتح القوي المتين في شرح الأربعين وتتمة الخمسين، للعباد (ص69).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=66522",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:32+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/66522"
+ },
+ "source_categories": [
+  {
+   "id": "64",
+   "label": "الإيمان بالقضاء والقدر"
+  },
+  {
+   "id": "72",
+   "label": "توحيد الربوبية"
+  }
+ ],
+ "source_record_id": "66522",
+ "text": "عَنْ أَبِي العَبَّاسِ، عَبْدِ الله بْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: كُنْت خَلْفَ رَسُولِ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَوْمًا، فَقَالَ: «يَا غُلَامِ! إنِّي أُعَلِّمُك كَلِمَاتٍ: احْفَظِ اللَّهَ يَحْفَظْكَ، احْفَظِ الله تَجِدْهُ تُجَاهَكَ، إذَا سَأَلْتَ فَاسْأَلِ اللهَ، وَإِذَا اسْتَعَنْتَ فَاسْتَعِنْ بِاَللهِ، وَاعْلَمْ أَنَّ الأُمَّةَ لَوْ اجْتَمَعَتْ عَلَى أَنْ يَنْفَعُوكَ بِشَيْءٍ لَمْ يَنْفَعُوكَ إلَّا بِشَيْءٍ قَدْ كَتَبَهُ اللَّهُ لَكَ، وَإِنِ اجْتَمَعُوا عَلَى أَنْ يَضُرُّوكَ بِشَيْءٍ لَمْ يَضُرُّوكَ إلَّا بِشَيْءٍ قَدْ كَتَبَهُ اللَّهُ عَلَيْكَ؛ رُفِعَتِ الأَقْلَامُ، وَجَفَّتِ الصُّحُفُ».\nوَفِي رِوَايَةِ غَيْرِ التِّرْمِذِيِّ: «احْفَظِ اللهَ تَجِدْهُ أَمَامَكَ، تَعَرَّفْ إلَى اللهِ فِي الرَّخَاءِ يَعْرِفْكَ فِي الشِّدَّةِ، وَاعْلَمْ أَنَّ مَا أَخْطَأَكَ لَمْ يَكُنْ لِيُصِيبَكَ، وَمَا أَصَابَك لَمْ يَكُنْ لِيُخْطِئَكَ، وَاعْلَمْ أَنَّ النَّصْرَ مَعَ الصَّبْرِ، وَأَنْ الفَرَجَ مَعَ الكَرْبِ، وَأَنَّ مَعَ العُسْرِ يُسْرًا».",
+ "title": "يا غلام إني أعلمك كلمات: احفظ الله يحفظك، احفظ الله تجده تجاهك، إذا سألت فاسأل الله، وإذا استعنت فاستعن بالله",
+ "topic": "belief",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=66522",
+   "arabic_match": "exact",
+   "attribution": "তিরিমিযীসহ অন্যান্যরা হাদীসটি বর্ণনা করেছেন।",
+   "content_sha256": "sha256:2beceed9632bd9692a07bd0f3fa103175282fe1f4c13e353950294c7355565cf",
+   "explanation": "ইবনু আব্বাস রাদিয়াল্লাহু ‘আনহু সংবাদ দিচ্ছেন যে, তিনি তখন ছোট ছিলেন। একদিন তিনি নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের সাথে আরোহী ছিলেন। তখন নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাকে বললেন, আমি তোমাকে এমন কিছু শিখিয়ে দিচ্ছি যার দ্বারা আল্লাহ তোমার উপকার করবেন: \"আল্লাহর হেফাজত করো\" — অর্থাৎ, তাঁর আদেশসমূহ পালন করো এবং নিষেধসমূহ থেকে বিরত থাকো, যাতে তিনি তোমাকে ইবাদত ও নেক কাজের স্থানে পান, আর গোনাহ ও পাপের স্থানে না পান। যদি তুমি এমন করো, তাহলে এর প্রতিদান হবে—আল্লাহ তোমাকে দুনিয়া ও আখিরাতের সকল অকল্যাণ থেকে হেফাজত করবেন এবং যেদিকেই তুমি যাও, তোমার কাজগুলোতে তিনি তোমাকে সাহায্য করবেন। আর যখন তুমি কিছু চাওয়ার ইচ্ছে করবে, তখন আল্লাহ ছাড়া কারো কাছে চাইবে না। কেননা তিনিই একমাত্র মাবূদ যিনি প্রার্থনাকারীর প্রার্থনায় সাড়া দেন। আর যদি তুমি সাহায্য চাও, তবে শুধু আল্লাহর কাছেই সাহায্য চাও। তোমার মনে এই দৃঢ় বিশ্বাস থাকা উচিত যে, যদি দুনিয়ার সব মানুষ একত্রিত হয়ে তোমার উপকার করতে চায়, তবুও তারা কিছুই করতে পারবে না — তবে আল্লাহ তোমার জন্য যা লিখে রেখেছেন। আবার, যদি তারা সবাই একজোট হয়ে তোমার ক্ষতি করতে চায়, তবুও তারা কোনো ক্ষতি করতে পারবে না — তবে আল্লাহ যা তোমার বিপক্ষে লিখে রেখেছেন। সকল বিষয় মহান আল্লাহ তার হিকমত ও ইলম অনুযায়ী আগেই নির্ধারণ করে দিয়েছেন এবং লিপিবদ্ধ করে রেখেছেন। আল্লাহ যা লিপিবদ্ধ করেছেন তার কোন পরিবর্তন হয় না। যে ব্যক্তি আল্লাহর আদেশ মান্য করে ও নিষেধ থেকে বিরত থেকে আল্লাহর হিফাযত করে, আল্লাহ তাআলা তার পাশে থাকেন—তিনি তার অবস্থা জানেন, তাকে সাহায্য করেন ও শক্তি দেন। মানুষ যদি স্বাচ্ছন্দ্যের সময় আল্লাহর আনুগত্য করে, তবে আল্লাহ তার জন্য সংকটের সময় মুক্তি ও উপায় এনে দেন। প্রত্যেক বান্দার উচিত, আল্লাহ যেটুকু ভাগ্যে লিখে দিয়েছেন—সেটি ভালো হোক বা মন্দ—তাতে সন্তুষ্ট থাকা। আর বিপদ ও পরীক্ষার সময় বান্দার কর্তব্য হলো ধৈর্য ধারণ করা, কারণ ধৈর্যই হলো মুক্তির চাবিকাঠি। যখন কষ্ট তীব্র হয়, তখন আল্লাহর পক্ষ থেকেই আসে স্বস্তি ও মুক্তি। আর যখন কষ্ট আসে, তখন আল্লাহ তার পরে সহজতা এনে দেন।",
+   "grade": "সহীহ",
+   "hints": [
+    "তাওহীদ, শিষ্টাচার ও দ্বীনের বিষয়াবলী ছোট ও শিশুদেরকে শিক্ষা দেওয়ার গুরুত্ব এ হাদীসে বর্ণিত হয়েছে।\r",
+    "সমজাতীয় কাজের বিনিময় সমজাতীয় হয়ে থাকে।(যেমন কর্ম তেমন ফল)\r",
+    "আল্লাহর উপরই নির্ভর করা, একমাত্র তাঁরই উপর তাওয়াক্কুল করার নির্দেশ। তিনিই হলেন সর্বোত্তম অভিভাবক।\r",
+    "আল্লাহ কর্তৃক নির্ধারিত ফয়সালা, তাকদীরের ভালো-মন্দ ও এর উপর সন্তুষ্ট থাকার উপর ঈমান আনা। তিনি সবকিছু নির্ধারণ করে রেখেছেন।\r",
+    "যে ব্যক্তি আল্লাহর নির্দেশ অমান্য করে, আল্লাহ তাকে ধ্বংস করে দেন এবং তিনি তাকে হেফাযত করেন না।",
+    "সবচেয়ে বড় সুসংবাদ হলো—মানুষ যদি কষ্টে পড়ে, তবে সে যেন আশায় থাকে যে, সহজতা অবশ্যই আসবে।\r",
+    "বান্দার জন্য সান্ত্বনা রয়েছে — যখন তার জীবনে কোনো বিপদ আসে অথবা কোনো প্রিয় জিনিস হাতছাড়া হয় — এ কথার মধ্যে: “জেনে রেখো, যা তোমাকে স্পর্শ করেছে, তা কোনোভাবেই তোমাকে এড়ানোর ছিল না; আর যা তোমাকে স্পর্শ করেনি, তা কখনোই তোমাকে স্পর্শ করার ছিল না। বাক্যের প্রথম অংশটি অপছন্দনীয় কিছু ঘটার ক্ষেত্রে সান্ত্বনা; আর দ্বিতীয় অংশটি প্রিয় কাউকে হারানোর ক্ষেত্রে সান্ত্বনা।"
+   ],
+   "mapping": "same HadeethEnc record id 66522; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:17+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/66522",
+   "text": "আবূল আব্বাস, আব্দুল্লাহ ইবনু আব্বাস রাদিয়াল্লাহু আনহুমা হতে বর্ণিত, তিনি বলেন, একদিন আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের পেছনে ছিলাম, তিনি বললেন: “হে বালক! আমি তোমাকে কয়েকটি কালিমা (বাক্য) শিক্ষা দিচ্ছি, তা হচ্ছে: তুমি আল্লাহর (বিধানসমূহের) রক্ষণাবেক্ষণ কর (তাহলে) আল্লাহও তোমার রক্ষণাবেক্ষণ করবেন। তুমি আল্লাহর (অধিকারসমূহ) স্মরণ রাখো, তাহলে তুমি তাঁকে তোমার সম্মুখে পাবে। যখন তুমি চাইবে, তখন আল্লাহর কাছেই চাও। আর যখন তুমি প্রার্থনা করবে, তখন একমাত্র আল্লাহর কাছেই সাহায্য প্রার্থনা কর। আর এ কথা জেনে রাখ যে, যদি সমগ্র উম্মত তোমার উপকার করার জন্য একত্রিত হয়ে যায়, তবে ততটুকুই উপকার করতে পারবে, যতটুকু আল্লাহ তোমার (তাকদীরে) লিখে রেখেছেন। আর তারা যদি তোমার ক্ষতি করার জন্য একত্রিত হয়ে যায়, তবে ততটুকুই ক্ষতি করতে পারবে যতটুকু আল্লাহ তোমার (তাকদীরে) লিখে রেখেছেন। কলমসমূহ উঠিয়ে নেওয়া হয়েছে এবং খাতাসমূহ (তাকদীরের লিপি) শুকিয়ে গেছে।’’ তিরমিযীর বর্ণনা ছাড়া অন্য একটি বর্ণনায় আছে: “তুমি আল্লাহর হেফাজত কর, তাহলে তাঁকে তোমার সামনে পাবে। সুখের সময়ে আল্লাহকে স্মরণ কর, কষ্টের সময়ে তিনি তোমাকে স্মরণ করবেন। জেনে রাখো, যা তোমাকে মিস করেছে তা তোমার উপর আসার কথা ছিল না, আর যা তোমার উপর এসেছে তা তোমাকে মিস করার কথা ছিল না। জেনে রাখো, ধৈর্যের সাথেই আসে সাহায্য, কষ্টের সাথেই আসে স্বস্তি এবং কষ্টের সাথে আসে স্বস্তি।”",
+   "title": "“হে বালক! আমি তোমাকে কয়েকটি কালিমা (বাক্য) শিক্ষা দিচ্ছি, তা হচ্ছে: তুমি আল্লাহর (বিধানসমূহের) রক্ষণাবেক্ষণ কর (তাহলে) আল্লাহও তোমার রক্ষণাবেক্ষণ করবেন। তুমি আল্লাহর (অধিকারসমূহ) স্মরণ রাখো, তাহলে তুমি তাঁকে তোমার সম্মুখে পাবে। যখন তুমি চাইবে, তখন আল্লাহর কাছেই চাও",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=66522",
+   "arabic_match": "exact",
+   "attribution": "Narrated by At-Tirmidhi and others",
+   "content_sha256": "sha256:87975fa9495ce66a3c1166010b4d40f63ec3b075fed816b3a4e0b17c2e6c497b",
+   "explanation": "Ibn ‘Abbās (may Allah be pleased with him) informs that one day, as a boy, he was riding behind the Prophet (ﷺ), and he said to him: I will teach you things by which Allah will benefit you: Be mindful of Allah by observing His commands and prohibitions, finding you engaged in acts of worship and piety, and not finding you committing sins and misdeeds. If you do so, your recompense will be that Allah will protect you from unpleasant things in this world and the Hereafter and support you in your matters wherever you go. If you want to ask for something, do not ask anyone but Allah, for He alone responds to those who ask. And if you need help, do not seek help except from Allah. You should be certain that no benefit will come to you, even if all the earth's inhabitants were to gather together to bring it to you, except if Allah had predestined it for you; and no harm will happen to you, even if all the inhabitants of the earth were to gather together to cause it to you, except if Allah had predestined it for you. Allah Almighty had written and predestined this matter according to His wisdom and knowledge, and whatever Allah had written cannot be changed. Whoever is mindful of Allah by preserving His commands and avoiding His prohibitions, Allah Almighty will be before him, knowing his state, supporting and aiding him. If a person obeys Allah in times of ease, Allah will grant him relief and a way out in times of hardship. Every servant should be content with what Allah has decreed for him, whether good or bad. In the face of trials and hardships, the servant must adhere to patience, for patience is the key to relief. When distress intensifies, relief comes from Allah, and whenever hardship occurs, Allah follows it with ease.",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth shows the significance of teaching children the religious matters of monotheism, ethics, and so on.\r",
+    "Recompense is of the same type as one's deed.\r",
+    "We are required to trust and rely upon Allah Almighty alone. He is the best Disposer of affairs.\r",
+    "We are required to believe in and be content with the divine decree and predestination and that Allah has predestined everything.\r",
+    "Whoever neglects the commands of Allah, Allah will abandon him and will not protect him.",
+    "It gives great news that when a person is tested with a hardship, ease is soon to come.\r",
+    "It contains solace and comfort to whoever is afflicted by a disaster or the loss of something dear, as suggested by his words: \"And know that what had befallen you was not going to miss you, and what had missed you was not going to befall you.\" The first sentence provides comfort in case of the occurrence of something unpleasant, while the second addresses the loss of something dear."
+   ],
+   "mapping": "same HadeethEnc record id 66522; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:17+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/66522",
+   "text": "Abu al-‘Abbās, ‘Abdullah ibn ‘Abbās (may Allah be pleased with him and his father) reported: I was riding behind the Messenger of Allah (ﷺ) one day and he said: \"Hey boy, I shall teach you some words: Be mindful of Allah, and Allah will protect you. Be mindful of Allah, and you will find Him at your side. If you ask, ask Allah; if you seek help, seek help from Allah. And know that if the whole people gathered to benefit you with something, they would not benefit you except with what Allah has decreed for you, and if they gathered to harm you with something, they would not harm you except with what Allah has decreed against you. The pens have been lifted, and the scrolls have dried.\" In another version by other than At-Tirmidhi, it reads: \"Be mindful of Allah, you will find Him before you. Recognize Allah at the time of prosperity, and He will recognize you at the time of adversity. And know that what had missed you was not going to befall you, and what had befallen you was not going to miss you. And know that victory comes with patience, relief comes with distress, and ease comes with hardship.\"",
+   "title": "Hey boy, I shall teach you some words: Be mindful of Allah, and Allah will protect you. Be mindful of Allah, and you will find Him at your side. If you ask, ask Allah; if you seek help, seek help from Allah",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=66522",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par At-Tirmidhî et d'autres",
+   "content_sha256": "sha256:01d41d01dded06b7d40cd36ac09291a2a16e8da620d7a6711aa217bd3bfc9b1d",
+   "explanation": "Ibn ‘Abbâs — qu’Allah les agrée — rapporte qu’alors qu’il était jeune, monté derrière le Prophète ﷺ, celui‑ci lui dit : « Je t’enseigne des choses par lesquelles Allah te fera profiter… » Préserve Allah en préservant Ses ordres et en évitant Ses interdits : qu’Il te trouve, dans toute situation, là où Il t’a ordonné d’être et qu’Il ne te trouve pas là où Il t’a interdit d’être ; Allah te préservera alors des maux de ce monde et de l’au‑delà et te donnera la victoire dans tes affaires où que tu sois. Si tu veux demander quelque chose, ne demande qu’à Allah : Lui seul exauce ceux qui implorent. Si tu cherches une assistance, ne la cherche qu’auprès d’Allah. Aie la certitude que nul ne peut te procurer un bénéfice — même si tous s’unissaient pour te l’apporter — si ce n’est ce qu’Allah a décrété pour toi ; et nul ne peut te nuire — même si tous les habitants de la terre s’unissaient contre toi — si ce n’est ce qu’Allah a décrété contre toi. Sache que tout cela a été écrit par Allah conformément à Sa sagesse et à Sa science ; nul changement à ce qu’Il a écrit. Celui qui préserve Allah en observant Ses ordres et en évitant Ses interdits, Allah le préserve. Reconnais Allah dans l’aisance : Il te reconnaîtra dans l’adversité. Quiconque se tourne vers Allah dans l’aisance, Allah lui ménage une issue dans la détresse. Que chaque serviteur se contente de ce qu’Allah lui a prédestiné.",
+   "grade": "Authentique",
+   "hints": [
+    "L'importance de l'enseignement des affaires de la religion aux petits et aux enfants, notamment : le monothéisme, les bonnes manières, et autre que cela.\r",
+    "La récompense est en fonction même de l’œuvre.\r",
+    "L'ordre de compter sur Allah et de placer sa confiance en Lui en dehors de quiconque autre, et quel bon Garant Il est.\r",
+    "La foi dans la Prédestinée et le Décret divin et son entière satisfaction. Et Allah est Celui qui a décrété toute chose.\r",
+    "Quiconque néglige l'ordre d'Allah, alors Allah le négligera et Il ne le préservera pas.",
+    "Bonne nouvelle : lorsque l’homme est touché par la difficulté, qu’il s’attende à la facilité.\r",
+    "Consolation du serviteur lors du malheur et de la perte de ce qu’il aime, à la lumière des paroles : « Ce qui t’a manqué ne t’était pas destiné… » : la première phrase console face à l’épreuve subie, la seconde face à la perte de l’être aimé."
+   ],
+   "mapping": "same HadeethEnc record id 66522; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:18+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/66522",
+   "text": "D’après Abû al‑‘Abbâs ‘Abd Allâh ibn ‘Abbâs — qu’Allah les agrée —, j’étais un jour derrière le Messager d’Allah ﷺ ; il me dit : « Ô jeune homme ! Je vais t’enseigner quelques paroles : préserve (les droits d') Allah, Il te préservera ; préserve (les droits d') Allah, tu Le trouveras devant toi. Quand tu demandes, demande à Allah ; quand tu sollicites de l’aide, sollicite‑la d’Allah. Sache que si une communauté entière se réunissait pour te faire du bien, elle ne te profiterait que par ce qu’Allah a déjà écrit pour toi ; et si elle se réunissait pour te nuire, elle ne te nuirait que par ce qu’Allah a déjà écrit contre toi. La plume est levée et les pages ont séché. » Dans une autre version autre que at‑Tirmidhî : « Préserve (les droits d') Allah, tu Le trouveras devant toi ; reconnais Allah dans l’aisance, Il te reconnaîtra dans l’adversité. Sache que ce qui t’a manqué ne t’était pas destiné, et que ce qui t’a atteint ne pouvait t’éviter. Sache que le secours vient avec la patience, le soulagement avec la détresse, et qu’avec la difficulté vient la facilité. »",
+   "title": "Ô jeune homme ! Je vais t’enseigner quelques paroles : préserve (les droits d') Allah, Il te préservera ; préserve (les droits d') Allah",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=66522",
+   "arabic_match": "exact",
+   "attribution": "HR. Tirmizi dan lainnya",
+   "content_sha256": "sha256:79b1635d0e5193d7bd61de3805c032c747f765b06507953c322e6bb2745b253a",
+   "explanation": "Ibnu 'Abbās -raḍiyallāhu 'anhu- mengabarkan, bahwa ketika ia masih kecil dan sedang berkendara bersama Nabi ﷺ, beliau bersabda kepadanya: Sungguh aku akan mengajarimu beberapa perkara yang akan menjadi sebab Allah memberimu manfaat, yaitu: 1- Jagalah Allah dengan menjaga perintah-Nya dan menjauhi larangan-Nya, agar Allah senantiasa mendapatimu dalam ketaatan dan ibadah dan tidak mendapatimu dalam kemaksiatan dan dosa. Jika hal itu engkau lakukan, ganjaranmu ialah Allah menjagamu dari keburukan dunia dan akhirat serta menolongmu dalam semua urusanmu ke mana pun engkau pergi. 2- Jika engkau hendak meminta sesuatu, maka mintalah kepada Allah, karena hanya Allah semata yang mengabulkan permintaan orang-orang yang meminta. 3- Jika engkau menginginkan pertolongan, janganlah meminta pertolongan kecuali kepada Allah. 4- Hendaklah engkau meyakini bahwa engkau tidak akan memperoleh manfaat apa pun sekalipun semua penduduk bumi bersatu untuk memberimu manfaat, kecuali manfaat yang telah Allah tuliskan bagimu. Demikian juga, engkau tidak akan ditimpa keburukan sekalipun seluruh penduduk bumi bersatu untuk mencelakaimu, kecuali yang telah Allah takdirkan bagimu. 5- Semua urusan telah ditulis dan ditetapkan oleh Allah ﷻ sesuai dengan yang ditunjukkan oleh hikmah dan ilmu-Nya, dan tidak ada penggantian bagi ketetapan Allah. 6- Siapa pun yang menjaga Allah dengan cara menjalankan perintah-perintah-Nya serta menjauhi larangan-larangan-Nya, maka Allah -Subḥānahu wa Ta'ālā- pasti berada di hadapan hamba itu, memperhatikan kondisinya, menolongnya, dan membantunya. Jika seseorang taat kepada Allah dalam keadaan lapang, niscaya Allah akan memberikan solusi dan jalan keluar baginya di waktu sempit. Hendaknya setiap hamba rida terhadap apa pun yang Allah takdirkan untuknya, entah itu takdir baik atau buruk. Seorang hamba saat mengalami kesulitan dan ujian berat seharusnya bersabar, karena sabar merupakan kunci jalan keluarnya. Jika kesulitan sudah dirasa semakin berat, maka jalan keluar dari Allah akan datang. Juga jika kesusahan sudah mulai terasa, maka Allah akan mengiringinya dengan kemudahan.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Urgensi mengajarkan anak-anak kecil urusan agama seperti tauhid, adab dan lainnya.\r",
+    "2- Balasan sejenis dengan perbuatan.\r",
+    "3- Perintah agar bertumpu dan bertawakal kepada Allah, tidak kepada yang lain, karena Allah adalah sebaik-baik tempat berserah diri.\r",
+    "4- Beriman kepada qada dan qadar serta rida kepadanya, dan bahwa Allah telah menakdirkan segala sesuatu.\r",
+    "5- Siapa yang menyia-nyiakan perintah Allah, maka Allah akan menelantarkannya dan tidak menjaganya.",
+    "6- Adanya kabar gembira yang besar, yaitu ketika seseorang ditimpa kesulitan, maka silakan dia menanti kemudahan.\r",
+    "7- Ada hiburan bagi seorang hamba ketika mengalami musibah serta tidak mendapatkan apa yang disukainya, dalam sabda beliau, \"Ketahuilah! Apa yang telah ditakdirkan akan menimpamu, maka tidak akan terlewatkan darimu. Sebaliknya, apa yang ditakdirkan terlewatkan darimu, maka tidak akan menimpamu.\" Kalimat pertama untuk hiburan ketika tertimpa musibah, sedangkan kalimat kedua untuk hiburan ketika tidak mendapatkan apa yang disukainya (berupa kebaikan)."
+   ],
+   "mapping": "same HadeethEnc record id 66522; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:17+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/66522",
+   "text": "Abul-'Abbās Abdullah bin 'Abbās -raḍiyallāhu 'anhumā- meriwayatkan: Pada suatu hari, aku berada di belakang Nabi ﷺ. Beliau bersabda, \"Wahai Ananda, aku akan ajarkan kepadamu beberapa pelajaran. Jagalah (perintah-perintah) Allah, niscaya Allah akan menjagamu. Jagalah Allah, niscaya engkau akan mendapatkan-Nya di hadapan-Mu. Jika engkau menginginkan sesuatu, mintalah kepada Allah. Jika engkau butuh pertolongan, mohonlah pertolongan kepada Allah. Camkanlah, andai seluruh manusia berkumpul untuk memberikan satu manfaat kepadamu, maka mereka tidak akan mampu mewujudkannya kecuali pada manfaat yang telah Allah takdirkan buatmu. Andai mereka berkumpul untuk mencelakaimu, maka mereka tidak akan mampu mewujudkannya kecuali sebatas apa yang telah Allah takdirkan atasmu. Pena takdir telah diangkat dan kertasnya telah kering (dari tinta).” Dalam riwayat lain selain Tirmizi disebutkan, \"Peliharalah (agama) Allah, niscaya engkau akan mendapatkan-Nya di hadapanmu. Beribadahlah kepada Allah ketika lapang, niscaya Allah akan mengenalmu ketika sulit. Ketahuilah, apa yang Allah tidak takdirkan kepadamu, maka tidak akan menimpamu. Sebaliknya, apa yang telah ditetapkan menimpamu, maka tidak akan meleset darimu. Ketahuilah, kemenangan bersama kesabaran, pertolongan bersama kesusahan, dan kemudahan bersama kesulitan.\"",
+   "title": "Wahai Ananda, aku akan ajarkan kepadamu beberapa pelajaran. Jagalah (perintah-perintah) Allah, niscaya Allah akan menjagamu. Jagalah Allah, niscaya engkau akan mendapatkan-Nya di hadapan-Mu. Jika engkau menginginkan sesuatu, mintalah kepada Allah. Jika engkau butuh pertolongan, mohonlah pertolongan kepada Allah",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=66522",
+   "arabic_match": "exact",
+   "attribution": "اسے ترمذی وغیرہ نے روایت کیا ہے۔",
+   "content_sha256": "sha256:6f6bd1f8d6c44066bf4eb6886d9e4e2bdc2a8d24f5649edabb326065e3106d39",
+   "explanation": "ابن عباس رضی اللہ عنہ بتا رہے ہيں کہ ایک دن وہ اللہ کے نبی ﷺ کے پیچھے سواری پر بیٹھے ہوئے تھے کہ آپ نے کہا: میں تمھیں کچھ باتیں سکھاؤں گا، جن سے اللہ تمھیں فائدہ پہنچائے گا: اللہ کے احکام کی حفاظت کر کے اور اس کی منع کی ہوئی چیزوں سے دور رہ کر اس طرح اللہ کی حفاظت کرو کہ وہ تم کو نیکی اور اللہ سے قریب کرنے والے کاموں میں مشغول اور نافرمانیوں اور گناہوں سے دور پائے۔ اگر تم ایسا کروگے، تو بدلے میں اللہ دنیا وآخرت کی ناخوش گوار چیزوں سے تمھاری حفاظت کرے گا اور تم جہاں بھی جاؤگے، ہر کام میں تمھاری مدد کرے گا۔ جب تم کچھ مانگنا چاہو، تو صرف اللہ سے مانگو۔ کیوں کہ وہی مانگنے والوں کی مرادیں پوری کرتا ہے۔ جب مدد طلب کرنی ہو، تو بس اللہ سے طلب کرو۔ تمھارے دل میں اس بات کا یقین ہونا چاہیے کہ اگر روئے زمین پر موجود سارے لوگ تمھارا بھلا کرنا چاہيں، تو اتنا ہی کر سکتے ہيں، جتنا اللہ نے تمھاری قسمت میں لکھ رکھا ہے اور اگر روئے زمین پر بسنے والے سارے لوگ تمھارا برا کرنا چاہيں، تو اس سے زیادہ نہیں کر سکتے، جتنا اللہ نے تمھاری قسمت میں لکھ رکھا ہے۔ ان ساری باتوں کو اللہ تبارک و تعالی نے اپنی حکمت اور علم کے تقاضے کے مطابق لکھ رکھا ہے اور اللہ کے لکھے ہوئے میں کوئی تبدیلی ممکن نہيں ہے۔ جو اللہ کے اوامر کی بجا آوری اور اس کے نواہی سے اجتناب کے ذریعے اللہ کی حفاظت کرتا ہے، اللہ سبحانہ و تعالی ایسے بندے کے سامنے ہوتا ہے۔ اس کے حالات سے واقف ہوتا ہے اور اس کی مدد اور تائید کرتا ہے۔ اگر انسان خوش حالی کے وقت اللہ کی فرماں برداری کرتا ہے، تو اللہ مشکلات کے وقت اس کے لیے کشادگی اور نکلنے کا راستہ مہیا کر دیتا ہے۔ لہذا ہر انسان کو راضی بہ رضا رہنا چاہیے اور مشکلات کا سامنا ہو تو صبر سے کام لینا چاہیے۔ کیوں کہ صبر کشادگی کی کنجی ہے۔ مشکلات جب سوا ہو جائيں تو اللہ کی جانب سے آسانیاں آتی ہیں۔",
+   "grade": "صحيح",
+   "hints": [
+    "چھوٹے بچوں کو توحید و آداب اور اس طرح کے دین کی دیگر باتیں سکھانے کی اہمیت۔\r",
+    "انسان کو بدلہ اسی نوعیت کا دیا جاتا ہے، جس نوعیت کا اس کا عمل ہوتا ہے۔\r",
+    "اللہ پر بھروسہ رکھنے اور اس پر توکل کرنے کا حکم، کیوں کہ وہ سب سے بہترین کار ساز ہے۔\r",
+    "قضا و قدر پر ایمان اور اس سے رضامندی اور یہ کہ اللہ نے ساری چیزیں پہلے ہی مقدر کر رکھی ہے۔\r",
+    "جو اللہ کے حکم کو ضا‏ئع کرے گا، اللہ اسے ضائع کرے گا اور اس کی حفاظت نہیں کرے گا۔",
+    "یہ عظیم بشارت کہ انسان کو جب مشکل حالات کا سامنا ہو، تو آسانی کا انتظار کرے۔\r",
+    "محبوب چیز کے فوت ہونے اور مصیبت لاحق ہونے کے وقت بندے کو تسلی دینی چاہیے۔ جیسا کہ آپ کے اس فرمان میں ہے: ’’جان لو کہ جو چیز تمہیں مل گئی وہ تم سے خطا کرنے والی نہیں تھی اور جو چیز تمھیں نہیں ملی وہ تمھیں ملے بغیر رہنے والی نہیں تھی۔‘‘ پہلے جملہ میں تکلیف پہنچنے پر اور دوسرے جملے میں محبوب چیز کے فوت ہونے پر تسلی دی گئی ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 66522; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:17+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/66522",
+   "text": "ابو العباس عبداللہ بن عباس رضی اللہ عنہما سے روایت ہے، وہ کہتے ہيں: ایک دن میں اللہ کے رسول ﷺ کے پیچھے سواری پر بیٹھا تھا کہ آپ نے فرمایا: ”اے لڑکے! میں تجھے چند (اہم) باتیں بتلاتا ہوں (انھیں یاد رکھ): تو اللہ (کے احکام) کی حفاظت کر! وہ تیری حفاظت فرمائے گا۔ تو اللہ (کے حقوق) کا خیال رکھ، تو اسے اپنے سامنے پائے گا۔ جب تو مانگے تو صرف اللہ سے مانگ، اور جب تو مدد طلب کرے تو صرف اللہ سے مدد طلب کر۔ اور یہ بات جان لے کہ اگر ساری امت بھی اکٹھا ہو کر تجھے کچھ نفع پہنچانا چاہے تو اس سے زیادہ کچھ نفع نہیں پہنچا سکتی جو اللہ نے تیرے لیے لکھ دیا ہے، اور اگر وہ تجھے کچھ نقصان پہنچانے کے لیے اکٹھا ہو جائے، تو اس سے زیادہ کچھ نقصان نہیں پہنچا سکتی، جو اللہ نے تیرے لیے لکھ دیا ہے۔ قلم اٹھا لیے گئے ہیں اور صحیفے خشک ہو گئے ہيں۔“ جب کہ ترمذی کے علاوہ ایک دوسری روایت میں ہے: ”تو اللہ (کے حقوق) کا خیال رکھ، تو اسے اپنے سامنے پائے گا۔ تو خوش حالی میں اللہ کو پہچان اور اس کی طرف توجہ رکھ، وہ تجھے سختی اور مصیبت میں پہچانے گا، جان لے کہ جو کچھ تجھ سے چوک گیا وہ تجھے پہنچنے والا نہ تھا، اور جو کچھ تجھے پہنچ گیا وہ تجھ سے چوکنے والا نہیں تھا۔ نیز جان لے کہ (اللہ کی) مدد صبر کے ساتھ ہے‘ کشادگی تکلیف کے ساتھ ہے اور دشواری کے ساتھ آسانی ہے۔“",
+   "title": "”اے لڑکے! میں تجھے چند (اہم) باتیں بتلاتا ہوں (انھیں یاد رکھ): تو اللہ (کے احکام) کی حفاظت کر! وہ تیری حفاظت فرمائے گا۔ تو اللہ (کے حقوق) کا خیال رکھ، تو اسے اپنے سامنے پائے گا۔ جب تو مانگے تو صرف اللہ سے مانگ، اور جب تو مدد طلب کرے تو صرف اللہ سے مدد طلب کر",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=66522",
+   "arabic_match": "exact",
+   "attribution": "提尔米兹等辑录。",
+   "content_sha256": "sha256:094e99896f412c65d83d088e2dd99e95194a01ad2cab6052380267dffe3e0471",
+   "explanation": "伊本·阿巴斯（愿主喜悦他）讲述：他那时还年小，正骑在先知（愿主福安之）的身后。先知（愿主福安之）对他说：“我将教你一些事情，安拉会因这些事情而使你受益： 你要谨守安拉——就是要谨守祂的命令、远离祂的禁令，使安拉总能在善功中见到你，而不见你出现在罪恶和过犯之中。如果你这样做，你的报酬就是：安拉将保护你，免遭今世和后世的灾祸；他将援助你，在你所到之处，在你所有的重要事务中赐你胜利与成功。 当你想要祈求什么的时候，就只向安拉祈求，因为唯独他回应祈求者。 当你想寻求帮助时，就只依靠安拉。 你要坚信：即使全天下的人都联合起来要给你带来利益，他们也无法给你带来任何超出安拉已为你注定的利益；而即使全天下的人都联合起来要加害于你，他们也无法使你遭受任何超出安拉已为你注定的伤害。 这一切都是安拉所写下并注定的，符合他的智慧和知识；安拉所写下的判定，绝无更改。 凡是谨守安拉的人——即谨守他的命令，远离祂的禁令——安拉必定在他的面前，知晓他的状况，并赐予他援助与支持。当人们在安逸时顺从安拉，安拉就会在困境中为他开辟解脱与出路。每一个仆人都应当满足于安拉为他所注定的，无论是善还是恶。在艰难与试炼中，仆人应当坚守忍耐，因为忍耐是解脱的钥匙。当困境达到极点时，安拉的解脱就会随之而来；当艰难降临时，随之而来的是安拉的容易。",
+   "grade": "正确的",
+   "hints": [
+    "教育儿童和孩子们宗教事物的重要性，包括认主独一、道德规范和其它方面的知识。\r",
+    "回报源于付出。\r",
+    "托靠真主，全心信赖他，他是最好的保护者。\r",
+    "相信前定，心悦诚服，相信真主注定了一切。\r",
+    "谁忽略真主的命令，真主就会忽视他，不保护他。",
+    "最伟大的喜讯是：当人遭遇艰难时，他应当期待容易的到来。\r",
+    "当灾难降临，或心爱之物错失时，仆人得到安慰的依据就是先知（愿主福安之）的这句话：‘你要知道，击中你的，绝不会错过你；而错过你的，绝不会击中你。’其中，前一句话是在灾难与不幸降临时给人的安慰；后一句话是在失去心爱事物时给人的安慰。"
+   ],
+   "mapping": "same HadeethEnc record id 66522; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:17+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/66522",
+   "text": "据艾布·阿巴斯·阿卜杜拉·本·阿巴斯（愿主喜悦他们俩）传述：\n他说：有一天，我在安拉的使者（愿主福安之）的身后，先知对我说： “先知（愿主福安之）对他说：“少年啊！我教给你几句话：\n你当遵守安拉的法度，安拉就会保护你；你当遵守安拉的法度，你会发现他与你同在。当你祈求时，就祈求安拉；当你寻求帮助时，就寻求安拉。你要知道：即使所有人集合起来，要给你带来什么好处，他们也只能带来安拉已经为你注定的；若他们聚集起来，要给你带来什么伤害，他们也只能造成安拉已经为你注定的。笔已被收起，文卷已结束。” 在铁密集以外的传述中记载：“你当遵守安拉的法度，你会发现他在你面前。你要在安逸时认识安拉，他将在困境中认识你。你要知道：错过你的，绝不会到于你；到于你的，绝不会错过你。你要知道：胜利伴随着坚忍，解脱伴随着困境，容易伴随着艰难。”",
+   "title": "“先知（愿主福安之）对他说：“少年啊！我教给你几句话：\n你当遵守安拉的法度，安拉就会保护你；你当遵守安拉的法度，你会发现他与你同在。当你祈求时，就祈求安拉；当你寻求帮助时，就寻求安拉。",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

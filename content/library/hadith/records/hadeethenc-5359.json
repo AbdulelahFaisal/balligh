@@ -1,0 +1,184 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:25e68abd9071dabcfa77e5a470ce1376670461467e2906cca52e1e86e188cb55",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "سُئِلَ النبيُّ صلى الله عليه وسلم عن أَعْظَمِ الذنوب فقال: \nأعظمُها الشركُ الأكبر، وهو أن تجعل لله مَثِيْلًا أو نظيرًا في ألوهيته أو ربوبيته أو أسمائه وصفاته، وهذا الذنب لا يغفره الله تعالى إلا بالتوبة، وإن مات صاحبه عليه فهو مُخَلَّدٌ في النار. \nثم قَتْلُ المرءِ ولدَه خشيةَ أن يأكل معه، وقتلُ النفس حرام، لكن يعظم إثمه إذا كان المقتول ذا رَحِمٍ من القاتل، ويعظم إثمه أيضًا حين يكون مقصودُ القاتل الخشيةَ من أنْ يشاركه المقتول في رزق الله. \nثم أنْ يُزانيَ الرجل بزوجة جاره بأنْ يُحاول التَّغْرِيرَ بزوجة جاره حتى يَزنيَ بها وتنقاد له، \nوالزنا حرام ولكن يعظم إثمه إذا كانت المزنيُّ بها زوجةَ الجار الذي أوصى الشرع بالإحسان إليه وبره وحسن صحبته.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "تفاوت الذنوب في العِظَم، كما أن الأعمال الصالحة تَتَفاوت في الفضل.",
+  "أعظم الذنوب: الشرك بالله تعالى، ثم قتل الولد خشية أن يطعم معك، ثم أن تُزاني زوجة جارك.",
+  "الرزق بيد الله وقد تَكَفَّلَ سبحانه بأرزاق المخلوقين.",
+  "عِظَم حق الجار، وأنَّ أذيتَه أَعظم إثمًا من أذية غيرِه.",
+  "الخالق هو المستحق للعبادة وحده لا شريك له."
+ ],
+ "id": "hadeethenc-5359",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (6/ 18) (4477).\nصحيح مسلم (1/ 90) (86).\nشرح النووي على مسلم (2/ 79).\nفتح ذي الجلال والاكرام بشرح بلوغ المرام، لابن عثيمين (6/ 288).\nتوضيح الأحكام من بلوغ المرام، للبسام (7/ 335).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=5359",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:33+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/5359"
+ },
+ "source_categories": [
+  {
+   "id": "72",
+   "label": "توحيد الربوبية"
+  }
+ ],
+ "source_record_id": "5359",
+ "text": "عَنْ عَبْدِ اللهِ بنِ مَسْعُودٍ رضي الله عنه قال: سَأَلْتُ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: أَيُّ الذَّنْبِ أَعْظَمُ عِنْدَ اللهِ؟ قَالَ: «أَنْ تَجْعَلَ لِلهِ نِدًّا وَهُوَ خَلَقَكَ» قُلْتُ: إِنَّ ذَلِكَ لَعَظِيمٌ، قُلْتُ: ثُمَّ أَيُّ؟ قَالَ: «وَأَنْ تَقْتُلَ وَلَدَكَ؛ تَخَافُ أَنْ يَطْعَمَ مَعَكَ» قُلْتُ: ثُمَّ أَيُّ؟ قَالَ: «أَنْ تُزَانِيَ حَلِيلَةَ جَارِكَ».",
+ "title": "سألت النبي صلى الله عليه وسلم: أي الذنب أعظم عند الله؟ قال: أن تجعل لله ندا وهو خلقك",
+ "topic": "belief",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=5359",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:8394c54f06f4ff8466aa97e84e037efd0ed312a6389d9175cf2f1eca002ce0df",
+   "explanation": "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে সবচেয়ে বড় গুনাহ সম্পর্কে জিজ্ঞেস করা হলে তিনি বলেন: সবচেয়ে বড় দু’টি গুনাহের মধ্যে প্রথমটি হলো: আল্লাহর সাথে শির্ক করা। আর তা হলো আল্লাহর সাথে তাঁর ইবাদতের একত্বে বা তাঁর কর্মসমূহের একত্বে বা তাঁর নাম ও গুণাবলীর একত্বের ক্ষেত্রে কাউকে তাঁর সমকক্ষ বা অনুরূপ মনে করা। এ ধরনের গুনাহ আল্লাহ তাওবাহ ব্যতীত কখনোই ক্ষমা করবেন না। এ গুনাহের উপরে কোনো ব্যক্তি মারা গেলে সে চিরস্থায়ী জাহান্নামী হবে। তারপর বড় গুনাহ হলো স্বীয় সন্তানকে রিযিকের ভয়ে হত্যা করা। কোন আত্মাকে হত্যা হারাম। তবে যাকে হত্যা করা হয় সে ব্যক্তি যদি হত্যাকারীর আত্মীয় হয়ে থাকে, তখন গুনাহ ও শাস্তি সাধারণ হত্যার চেয়ে অধিক মারাত্মক হয়। অন্যদিকে যদি হত্যা করা হয়, তাকে আল্লাহর রিযিক থেকে বঞ্চিত করার উদ্দেশ্যে, তখন তার অপরাধ আরও মারাত্মক হবে। অতঃপর সবচেয়ে বড় গুনাহ হলো: কোনো ব্যক্তি তার প্রতিবেশীর স্ত্রীর সাথে ব্যভিচার করা। এটি এভাবে যে, সে তার প্রতিবেশীর স্ত্রীকে প্ররোচনা দিয়ে অবশেষে তার সাথে যেনায় লিপ্ত হলো এবং সে নারী তার বশে এসে গেলো। মূলত যেনা করা হারাম। তবে যেনাটি যদি তার প্রতিবেশীর স্ত্রীর সাথে হয়, তখন তা আরো বেশি মারাত্মক হয়। অথচ শরী‘আত মানুষকে তার প্রতিবেশীর সাথে ইহসান ও সুন্দর আচরণ করতে  নির্দেশ দিয়েছে।",
+   "grade": "সহীহ",
+   "hints": [
+    "যেমনিভাবে নেক আমলসমূহ ফজীলতের ক্ষেত্রে পার্থক্য হয়, তেমনিভাবে গুনাহগুলোও ভয়াবহতার দিক দিয়ে পার্থক্য হয়।\r",
+    "হাদীসটি বর্ণিত সবচেয়ে বড় গুনাহ হলোঃ আল্লাহর সাথে শির্ক করা, তারপরে সন্তানকে হত্যা করা এই ভয়ে যে, সে তোমার সাথে খাবে। অতঃপর প্রতিবেশীর স্ত্রীর সাথে যিনা করা।\r",
+    "রিযিক মহান আল্লাহর হাতে। তিনি সকল সৃষ্টিকুলের রিযিকের দায়িত্বভার নিয়েছেন।\r",
+    "প্রতিবেশীর অধিকার অনেক বড়। তাদেরকে কোনো ভাবে কষ্ট দেওয়া, অন্যকে কষ্ট দেয়ার চেয়ে মারাত্মক গুনাহ।\r",
+    "সৃষ্টিকর্তাই একমাত্র ইবাদত পাওয়ার যোগ্য। তিনি এক, তাঁর কোন শরীক নেই।"
+   ],
+   "mapping": "same HadeethEnc record id 5359; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:21+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/5359",
+   "text": "আব্দুল্লাহ বিন মাস‘ঊদ রদিয়াল্লাহু ‘আনহু হতে বর্ণিত, তিনি বলেন: আমি রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামকে জিজ্ঞাসা করলাম: আল্লাহর কাছে কোন গুনাহ সবচেয়ে বড়? তিনি বললেন: আল্লাহর জন্য শরীক সাব্যস্ত করা; অথচ তিনিই তোমাকে সৃষ্টি করেছেন।” আমি বললাম: এতো সত্যিই বড় গুনাহ। আমি বললাম: তারপর কোন গুনাহ? তিনি উত্তর দিলেন: “তুমি তোমার সন্তানকে এই ভয়ে হত্যা করবে, সে তোমার সঙ্গে আহার করবে।” আমি জিজ্ঞেস করলাম: এরপর কোনটি? তিনি উত্তর দিলেন: “তোমার প্রতিবেশীর স্ত্রীর সঙ্গে তোমার ব্যভিচার করা।”",
+   "title": "আমি রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামকে জিজ্ঞাসা করলাম: আল্লাহর কাছে কোন গুনাহ সবচেয়ে বড়? তিনি বললেন: আল্লাহর জন্য শরীক সাব্যস্ত করা; অথচ তিনিই তোমাকে সৃষ্টি করেছেন।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=5359",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:423994473002467a70ad3f32251b836379db57c510f1cc5efd3a0e1f94e453f8",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) was asked about the gravest sins and he answered: The gravest sin is major Shirk (polytheism), which means setting up an equal or a rival to Allah in His worship, Lordship, or His names and attributes. Allah Almighty does not forgive this sin except through repentance. If one dies in this state of major Shirk, he will dwell in Hellfire forever. The second gravest sin is killing one's child out of fear that he may share his food with him. So, killing a soul is unlawful, but the sin becomes graver when the killed person is a relative of the killer, and the gravity of the sin increases even more if the killer's motive is fear that the killed person would share with him the sustenance provided by Allah. The third gravest sin is committing adultery with his neighbor's wife by trying to deceive her, so he can have sexual intercourse with her and make her submit to him. Adultery is unlawful but the sin becomes graver when committed with the wife of one's neighbor, whom one is ordered by Shariah to treat with kindness, benevolence, and good companionship.",
+   "grade": "Authentic",
+   "hints": [
+    "Sins vary in terms of gravity and good deeds vary in terms of merit.\r",
+    "The gravest sin is associating partners with Allah Almighty, then killing one's child for fear that he may share his food with him, and then committing adultery with the wife of one's neighbor.\r",
+    "Sustenance lies in the Hand of Allah and He has guaranteed provision for His creatures.\r",
+    "Significance of the neighbor's rights and how harming him is much graver than harming anyone else.\r",
+    "The Creator is the One worthy of worship, alone with no partner."
+   ],
+   "mapping": "same HadeethEnc record id 5359; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:21+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/5359",
+   "text": "‘Abdullah ibn Mas‘ūd (may Allah be pleased with him) reported: I asked the Prophet (may Allah's peace and blessings be upon him): \"Which sin is the gravest in the sight of Allah?\" He said: \"To set an equal to Allah while He created you.\" I said: \"This is, indeed, grave.\" I said: \"What comes next?\" He said: \"To you kill your child lest he should share your food with you.\" I said: \"What comes next?\" He said: \"To commit adultery with your neighbor's wife.\"",
+   "title": "I asked the Prophet (may Allah's peace and blessings be upon him): \"Which sin is the gravest in the sight of Allah?\" He said: \"To set an equal to Allah while He created you",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=5359",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:041c9d037f40907453184fb76d9bdd9b069f1f443c10dc6cee86f341a02c08bd",
+   "explanation": "Le Prophète ﷺ a été interrogé sur le plus grave des péchés, alors il a répondu : Le plus grave d'entre eux est le polythéisme majeur qui est le fait d'établir à Allah un semblable ou un égal dans Sa divinité, ou Sa seigneurie, ou Ses noms et Ses attributs. Allah ﷻ ne pardonne pas ce péché excepté par le repentir ; et si la personne meurt sur ce péché, alors elle demeurera éternellement en Enfer. Ensuite, il y a le fait que la personne tue son enfant de crainte qu'il mange avec elle. Tuer quelqu'un est interdit et son péché est aggravé si celui qui est tué a un lien de parenté avec le tueur. De même, le péché est encore aggravé si le but du tueur est lié à la peur que celui qu'il tue s'associe avec lui dans la subsistance d'Allah. Puis, il y a le fait qu'un homme fornique avec l'épouse de son voisin ou qu'il essaye de tromper l'épouse de son voisin jusqu'à ce qu'il commette l'adultère avec elle et qu'elle se soumette à lui. La fornication est interdite, toutefois son péché est aggravé si le fornicateur la commet avec l'épouse de son voisin dont la Législation a enjoint à la bienfaisance envers lui, la bonté et le bonne compagnie.",
+   "grade": "Authentique",
+   "hints": [
+    "La différence entre les péchés dans la gravité. Il en est de même de la différence entre les œuvres vertueuses dans le mérite.\r",
+    "Le plus grave des péchés est l'association à Allah ﷻ, ensuite le meurtre de son enfant par crainte de le nourrir avec soi, puis la fornication avec l'épouse de son voisin.\r",
+    "La subsistance est entre les Mains d'Allah et Il ﷻ s'est chargé de subvenir aux créatures.\r",
+    "L'immensité du droit du voisin et le fait de lui faire du tort est plus grave en termes de péchés que de faire du tort à quiconque.\r",
+    "Le Créateur est Celui qui mérite l'adoration, Seul et sans associé."
+   ],
+   "mapping": "same HadeethEnc record id 5359; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:21+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/5359",
+   "text": "D'après 'AbduLlah ibn Masʽûd (qu'Allah l'agrée) qui a dit : « J'ai demandé au Messager d’Allah ﷺ : « Quel est le plus grave péché auprès d'Allah ? » Il répondit : « Que tu donnes à Allah un égal, alors que c'est Lui qui t’a créé  . » J'ai dit : « Cela est vraiment grave. » J'ai dit : « Quoi d'autre? » Il répondit : « Que tu tues ton enfant de peur qu’il mange avec toi. » J'ai dit : « Quoi d'autre? » Il répondit : « Que tu forniques avec la femme de ton voisin. »",
+   "title": "J'ai demandé au Messager d’Allah ﷺ : « Quel est le plus grave péché auprès d'Allah ? » Il répondit : « Que tu donnes à Allah un égal, alors que c'est Lui qui t’a créé",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=5359",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:8bc244294f4c00fbf84c5790451f937ae52350ca254709d6ff085ce69b19f4b9",
+   "explanation": "Nabi ﷺ ditanya tentang dosa yang paling besar, maka beliau menjelaskan bahwa: Dosa yang paling besar ialah syirik besar, yaitu engkau mengadakan tandingan bagi Allah dalam uluhiah, rububiah atau nama-nama dan sifat-sifat-Nya. Dosa ini tidak diampuni Allah Ta'ala kecuali dengan tobat. Apabila pelakunya meninggal di atasnya, maka ia akan kekal dalam neraka. Kemudian seseorang membunuh anaknya karena takut ia akan ikut makan bersamanya. Membunuh jiwa hukumnya haram, tetapi dosa akan semakin besar jika orang yang dibunuh memiliki ikatan kerabat dengan yang membunuh. Dosanya akan semakin besar lagi ketika motif pembunuh ialah rasa khawatir bila orang yang dibunuhnya akan menyertainya di dalam rezeki Allah. Kemudian seseorang berzina dengan istri tetangganya, yaitu dengan mencoba mempengaruhi istri tetangganya supaya dia dapat berzina dengannya dan wanita itu tunduk kepadanya. Zina hukumnya haram, tetapi dosanya akan semakin besar ketika wanita yang dizinainya adalah istri tetangga yang telah diwasiatkan oleh agama agar berbuat baik kepadanya.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Adanya perbedaan tingkat dosa dari segi kebesarannya, sebagaimana amal saleh bertingkat-tingkat dari segi keutamaannya.\r",
+    "2- Dosa yang paling besar ialah kesyirikan kepada Allah Ta'ala, kemudian membunuh anak karena takut ia akan ikut makan bersamanya, kemudian berzina dengan istri tetangga.\r",
+    "3- Rezeki ada di tangan Allah; Allah Ta'ala telah menjamin rezeki semua makhluk.\r",
+    "4- Besarnya hak tetangga; sehingga dosa menyakitinya lebih besar daripada menyakiti yang lain.\r",
+    "5- Sang Pencipta adalah yang berhak untuk diibadahi, tidak ada sekutu bagi-Nya."
+   ],
+   "mapping": "same HadeethEnc record id 5359; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:21+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/5359",
+   "text": "Abdullah bin Mas'ūd -raḍiyallāhu 'anhu- meriwayatkan, Aku bertanya kepada Nabi ﷺ, \"Dosa apakah yang paling besar di sisi Allah?\" Beliau menjawab, \"Engkau mengadakan tandingan bagi Allah padahal Dia yang menciptakanmu.\" Aku berkata, \"Sungguh itu dosa yang benar-benar besar. Kemudian dosa apa?\" Beliau bersabda, \"Engkau membunuh anakmu karena takut ia akan ikut makan bersamamu.\" Aku bertanya, \"Kemudian dosa apa?\" Beliau bersabda, \"Engkau berzina dengan istri tetanggamu.\"",
+   "title": "Aku bertanya kepada Nabi ﷺ, \"Dosa apakah yang paling besar di sisi Allah?\" Beliau menjawab, \"Engkau mengadakan tandingan bagi Allah padahal Dia yang menciptakanmu",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=5359",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:bff24d0db7de267468e572e857bc1aecbc272c29c441f059ad6520d9b41b1e59",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم سے سب سے بڑے گناہ کے بارے میں پوچھا گیا، تو آپ نے فرمایا: سب سے بڑا گناہ شرک اکبر ہے۔ شرک اکبر یہ ہے کہ کسی کو الوہیت، ربوبیت یا اسما و صفات میں اللہ کے جیسا مان لیا جائے۔ یہ ایسا گناہ ہے، جو توبہ کے بغیر معاف نہیں ہوتا۔ اگر انسان یہ گناہ کرتا ہوا مر جائے، تو ہمیشہ جہنم میں رہے گا۔ اس کے بعد دوسرا بڑا گناہ اپنی اولاد کو اس ڈر سے مار ڈالنا ہے کہ وہ ساتھ میں کھائے گی۔ ویسے تو کسی بھی انسان کی جان لے لینا حرام ہے، لیکن گناہ اس وقت اور بڑا ہو جاتا ہے، جب مقتول کا قاتل سے رشتہ ہو۔ گناہ اس وقت بھی بڑا ہو جاتا ہے، جب قتل کے پیچھے یہ ڈر چھپا ہوا ہو کہ مقتول اللہ کی دی ہوئی روزی کھانے میں قاتل کے ساتھ شریک ہو جائے گا۔ تیسرا بڑا گناہ یہ ہے کہ آدمی اپنے پڑوسی کی بیوی کو بہلا پھسلا کر راضی کر لے اور اس کے ساتھ منہ کالا کرے۔ ویسے تو زنا حرام ہے، لیکن اس کا گناہ اس وقت اور بڑھ جاتا ہے، جب زنا پڑوسی کی بیوی کے ساتھ کیا جائے، جس کے ساتھ شریعت نے اچھا برتاؤ کرنے کا حکم دیا ہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "گناہ چھوٹے بڑے ہوتے ہیں، جس طرح کہ اچھے اعمال کی فضیلت میں کمی بیشی ہوتی ہے۔\r",
+    "سب سے بڑا گناہ اللہ کا شریک ٹھہرانا، پھر ساتھ میں کھانا کھانے کے ڈر سے اولاد کا قتل کرنا اور پھر پڑوسی کی بیوی کے ساتھ زنا کرنا ہے۔\r",
+    "روزی اللہ کے ہاتھ میں ہے اور اللہ نے ساری مخلوقات کو روزی دینے کی ذمے داری خود اپنے اوپر لے رکھی ہے۔\r",
+    "پڑوسی کے حق کی اہمیت اور اس بات کی وضاحت کہ پڑوسی کو اذیت دینا دوسرے کو اذیت دینے سے بڑا گناہ ہے۔\r",
+    "صرف خالق ہی عبادت کا حق دار ہے۔ کوئی اور نہیں۔"
+   ],
+   "mapping": "same HadeethEnc record id 5359; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:21+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/5359",
+   "text": "عبد اللہ بن مسعود رضی اللہ عنہ سے روایت ہے، وہ کہتے ہیں : میں نے رسول اللہ ﷺ سے دریافت کیا کہ کون سا گناہ سب سے بڑا ہے؟ آپ ﷺ نے فرمایا : \"سب سے بڑا گناہ یہ ہے کہ تو اللہ کا شریک بنائے، حالاں کہ اس نے تجھے پیدا کیا ہے\"۔ میں نے پوچھا کہ اس کے بعد کون سا گناہ سب سے بڑا ہے؟ آپ ﷺ نے فرمایا : \"تو اپنے بچے کو اس ڈر سے مار دے کہ وہ تیرے ساتھ کھانے میں شریک ہو گا\"۔ میں نے پوچھا کہ اس کے بعد کون سا گناہ سب سے بڑا ہے؟ آپ ﷺ نے فرمایا : \"تو اپنے پڑوسی کی بیوی سے زنا کرے\"۔",
+   "title": "میں نے رسول اللہ ﷺ سے دریافت کیا کہ کون سا گناہ سب سے بڑا ہے؟ آپ ﷺ نے فرمایا : \"سب سے بڑا گناہ یہ ہے کہ تو اللہ کا شریک بنائے، حالاں کہ اس نے تجھے پیدا کیا ہے",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=5359",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:b472968b50a98d1a9a0d0f1e1570d356948d63b000a7a2fddc7f1627ccfd30bf",
+   "explanation": "先知（愿主福安之）被问及最大的罪，他回答说： 其中最大的罪恶是大的以物配主，指：在安拉的受拜性、养育性和尊名及其属性方面，为安拉树立匹敌或对手，这种罪恶只有通过真诚地悔改才能得到安拉的宽恕，如果罪犯在未悔改之前死去，他将永远居住在火狱中。 然后是一个人因担心分食自己的事物而杀死他的儿子，杀害生命是禁止的，但被害者是杀人者的亲属时，其罪恶将更为严重。当凶手的目的是担心被杀的人要与他分享安拉的给养时，罪恶也会更为严重。 其次是一个男人试图引诱邻居的妻子以与她通奸，直至她与其通奸，而她也顺服他。 通奸是禁止的，但如果通奸的对象是邻居的妻子，而伊斯兰法教导要善待邻居，尊重他们，以及与他们建立良好的关系时，通奸的罪恶将更为严重。",
+   "grade": "正确的",
+   "hints": [
+    "罪过的严重程度不同，正如善行在优越性上也不同。\r",
+    "最大的罪过：以物配主，然后是因担心分食而杀死儿子，然后是与邻居的妻子通奸。\r",
+    "给养在安拉手中，清高的安拉担保着所有被造物的给养。\r",
+    "尊重邻居的权利，伤害他的罪恶比伤害其他人更为严重。\r",
+    "造物主是唯一值得崇拜的，他没有伙伴。"
+   ],
+   "mapping": "same HadeethEnc record id 5359; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:21+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/5359",
+   "text": "据阿卜杜拉·本·麦斯欧德（愿主喜悦他）的传述：他说： 我曾问先知（愿主福安之）道：“在安拉看来，什么罪最大？”先知（愿主福安之）回答说：“为创造你的主举伴匹敌，”我说：“这确实很严重。”我问道：“然后，哪一种罪最大？”他回答：“你因为担心你的孩子分享你的食物而杀死他。” 我又问：“再其次呢？”使者回答说：“与你邻居的妻子通奸。”",
+   "title": "我曾问先知（愿主福安之）道：“在安拉看来，什么罪最大？”先知（愿主福安之）回答说：“为创造你的主举伴匹敌，",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

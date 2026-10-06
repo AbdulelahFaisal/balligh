@@ -1,0 +1,383 @@
+{
+ "ayah_count": 11,
+ "ayahs": [
+  {
+   "arabic": "وَٱلۡعَٰدِيَٰتِ ضَبۡحٗا",
+   "aya": 1,
+   "id": 6147,
+   "tafsir": {
+    "arabic_moyassar": "أقسم الله تعالى بالخيل الجاريات في سبيله نحو العدوِّ، حين يظهر صوتها من سرعة عَدْوِها. ولا يجوز للمخلوق أن يقسم إلا بالله، فإن القسم بغير الله شرك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "শপথ ঊর্ধশ্বাসে দৌড়ানো ঘোড়াসমূহের,"
+    },
+    "en": {
+     "footnotes": "[1] i.e., those horses that fight for the cause of Allah as they race to attack the enemy.",
+     "text": "By the galloping, panting horses[1],"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Par les chevaux au galop haletant"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Demi kuda perang yang berlari kencang terengah-engah,"
+    },
+    "ur": {
+     "footnotes": "[1] عَادِيَاتٌ، عَادِيَةٌ کی جمع ہے۔ یہ عَدُوٌّ سے ہے جیسے غَزْوٌ ہے۔ غَازِيَاتٌ کی طرح اس کے واو کو بھی یا سے بدل دیاگیا ہے۔ تیز رو گھوڑے۔ ضَبْحٌ کے معنی بعض کے نزدیک ہانپنا اور بعض کے نزدیک ہنہنانا ہے۔ مراد وہ گھوڑے ہیں جو ہانپتے یا ہنہناتے ہوئےجہاد میں تیزی سے دشمن کی طرف دوڑتے ہیں",
+     "text": "ہانپتے ہوئے دوڑنے والے گھوڑوں کی قسم![1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "以喘息而奔驰的马队盟誓，"
+    }
+   }
+  },
+  {
+   "arabic": "فَٱلۡمُورِيَٰتِ قَدۡحٗا",
+   "aya": 2,
+   "id": 6148,
+   "tafsir": {
+    "arabic_moyassar": "فالخيل اللاتي تنقدح النار من صلابة حوافرها؛ من شدَّة عَدْوها."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "অতঃপর শপথ সেই ঘোড়াসমূহের, যেগুলোর (পাথরে) ক্ষুরের আঘাতে অগ্নি-স্ফুলিঙ্গ ছড়ায়।"
+    },
+    "en": {
+     "footnotes": "[2] While galloping over rocky terrain.",
+     "text": "striking sparks of fire [with their hooves][2],"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "dont les fers font jaillir des étincelles"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan kuda yang memercikkan bunga api (dengan pukulan kuku kakinya),"
+    },
+    "ur": {
+     "footnotes": "[1] مُورِيَاتٌ، إِيرَاءُ سے ہے۔ آگ نکالنے والے۔ قَدْحٌ کے معنی ہیں۔ صَكٌّ چلنے میں گھٹنوں یا ایڑیوں کا ٹکرانا، یا ٹاپ مارنا۔ اسی سے قَدْحٌ بِالزِّنَادِ ہے۔ چقماق سے آگ نکالنا۔ یعنی ان گھوڑوں کی قسم جن کی رگڑ سے پتھروں سے آگ نکلتی ہے، جیسے چقماق سے نکلتی ہے۔",
+     "text": "پھر ٹاپ مار کر آگ جھاڑنے والوں کی قسم![1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "以蹄发火花的马队盟誓，"
+    }
+   }
+  },
+  {
+   "arabic": "فَٱلۡمُغِيرَٰتِ صُبۡحٗا",
+   "aya": 3,
+   "id": 6149,
+   "tafsir": {
+    "arabic_moyassar": "فالخيل التي تغير بركبانها على الأعداء عند الصبح."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "অতঃপর শপথ সেই ঘোড়াসমূহের, যেগুলো প্রভাতে (শত্রুর ওপর) অতর্কিতে আক্রমণ করে,"
+    },
+    "en": {
+     "footnotes": "[3] While the enemy is unaware of their raid.",
+     "text": "launching raids at dawn[3],"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "lorsqu’ils chargent au point du jour"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan kuda yang menyerang (dengan tiba-tiba) pada waktu pagi,"
+    },
+    "ur": {
+     "footnotes": "[1] مُغِيرَاتٌ، أَغَارَ يُغِيرُ سے ہے، شب خون مارنے یا دھاوا بولنے والے۔ صُبْحًا صبح کے وقت، عرب میں عام طور پر حملہ اسی وقت کیا جاتا تھا، شب خون تو وہ مارتے ہیں جو فوجی گھوڑوں پر سوار ہوتے ہیں، لیکن اس کی نسبت گھوڑوں کی طرف اس لئے کی ہے کہ دھاوا بولنے میں فوجیوں کے یہ بہت زیادہ کام آتے ہیں۔",
+     "text": "پھر صبح کے وقت دھاوا بولنے والوں کی قسم.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "以早晨出击，"
+    }
+   }
+  },
+  {
+   "arabic": "فَأَثَرۡنَ بِهِۦ نَقۡعٗا",
+   "aya": 4,
+   "id": 6150,
+   "tafsir": {
+    "arabic_moyassar": "فهيَّجْنَ بهذا العَدْو غبارًا."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "অতঃপর তারা (খুরের আঘাতে) ধুলোর মেঘ উড়িয়ে দেয়।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "stirring up thereby clouds of dust,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "en soulevant un nuage de poussière"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "sehingga menerbangkan debu,"
+    },
+    "ur": {
+     "footnotes": "[1] أَثَارَ، اڑانا۔ نَقْعٌ، گردوغبار۔ یعنی یہ گھوڑے جس وقت تیزی سے دوڑتے یا دھاوا بولتے ہیں تو اس جگہ پر گرد وغبار چھا جاتا ہے۔",
+     "text": "پس اس وقت گرد وغبار اڑاتے ہیں[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "卷起尘埃，"
+    }
+   }
+  },
+  {
+   "arabic": "فَوَسَطۡنَ بِهِۦ جَمۡعًا",
+   "aya": 5,
+   "id": 6151,
+   "tafsir": {
+    "arabic_moyassar": "فتوسَّطن بركبانهن جموع الأعداء."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "অতঃপর সেগুলো তার আরোহীদেরকে নিয়ে শত্রুদলের ভেতরে ঢুকে পড়ে,"
+    },
+    "en": {
+     "footnotes": "[4] i.e., penetrating into the ranks of the enemy as a surprise attack.",
+     "text": "plunging thereby into the midst of the enemy[4],"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "au moment de se jeter dans la mêlée !"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "lalu menyerbu ke tengah-tengah kumpulan musuh,"
+    },
+    "ur": {
+     "footnotes": "[1] فَوَسَطْنَ، درمیان میں گھس جاتے ہیں۔ اس وقت، یا حالت گرد وغبار میں۔ جَمْعًا دشمن کے لشکر۔ مطلب ہے کہ اس وقت، یا جب کہ فضا گرد وغبار سے اٹی ہوئی ہے، یہ گھوڑے دشمن کے لشکروں میں گھس جاتے ہیں اور گھمسان کی جنگ کرتے ہیں۔",
+     "text": "پھر اسی کے ساتھ فوجیوں کے درمیان گھس جاتے ہیں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "攻入敌围的马队盟誓，"
+    }
+   }
+  },
+  {
+   "arabic": "إِنَّ ٱلۡإِنسَٰنَ لِرَبِّهِۦ لَكَنُودٞ",
+   "aya": 6,
+   "id": 6152,
+   "tafsir": {
+    "arabic_moyassar": "إن الإنسان لِنعم ربه لَجحود، وإنه بجحوده ذلك لمقر. وإنه لحب المال لشديد."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "নিশ্চয় মানুষ তার রবের প্রতি বড়ই অকৃতজ্ঞ।"
+    },
+    "en": {
+     "footnotes": "[5] disobeying Him by not spending in the cause of Allah from what He has given him and commanded him to spend accordingly.",
+     "text": "indeed, man is very ungrateful to his Lord[5] –"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "L’homme en vérité est ingrat envers son Seigneur,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "sungguh, manusia itu sangat ingkar, (tidak bersyukur) kepada Tuhannya,"
+    },
+    "ur": {
+     "footnotes": "[1] یہ جواب قسم ہے۔ انسان سے مراد کافر، یعنی بعض افراد ہیں۔ كَنُودٌ بمعنی كَفُورٍ، ناشکرا۔",
+     "text": "یقیناً انسان اپنے رب کا بڑا ناشکرا ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "人对于他的养主，确是辜负的。"
+    }
+   }
+  },
+  {
+   "arabic": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٞ",
+   "aya": 7,
+   "id": 6153,
+   "tafsir": {
+    "arabic_moyassar": "إن الإنسان لِنعم ربه لَجحود، وإنه بجحوده ذلك لمقر. وإنه لحب المال لشديد."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর নিশ্চয় সে এ বিষয়ে (নিজেই) সাক্ষী।"
+    },
+    "en": {
+     "footnotes": "[6] By his words and actions.",
+     "text": "and he himself is a witness to that[6] –"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "ingratitude qu’il reconnaît lui-même d’ailleurs,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan sesungguhnya dia (manusia) menyaksikan (mengakui) keingkarannya,"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی انسان خود بھی اپنی ناشکری کی گواہی دیتا ہے۔ بعض لَشَهِيدٌ کافاعل اللہ کو قرار دیتے ہیں۔ لیکن امام شوکانی نے پہلے مفہوم کو راجح قرار دیا ہے، کیوں کہ مابعد کی آیات میں ضمیر کا مرجع انسان ہی ہے۔ اس لئے یہاں بھی انسان ہی ہونا زیادہ صحیح ہے۔",
+     "text": "اور یقیناً وه خود بھی اس پر گواه ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他自己对那辜负确是见证的，"
+    }
+   }
+  },
+  {
+   "arabic": "وَإِنَّهُۥ لِحُبِّ ٱلۡخَيۡرِ لَشَدِيدٌ",
+   "aya": 8,
+   "id": 6154,
+   "tafsir": {
+    "arabic_moyassar": "إن الإنسان لِنعم ربه لَجحود، وإنه بجحوده ذلك لمقر. وإنه لحب المال لشديد."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১) অর্থাৎ ধন-সম্পদের প্রতি অতিরিক্ত আসক্তির কারণে তা ব্যয়ে কার্পণ্য করে।",
+     "text": "আর নিশ্চয় ধন-সম্পদের আসক্তিতে সে প্রবল।(১)"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and he is truly extreme in his love of wealth."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Il voue aux biens terrestres un amour des plus ardents."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan sesungguhnya cintanya kepada harta benar-benar berlebihan."
+    },
+    "ur": {
+     "footnotes": "[1] خَيْرٌ سے مراد مال ہے، جیسے «إِنْ تَرَكَ خَيْرًا الْوَصِيَّةُ» (البقرة :180 ) میں ہے معنی واضح ہیں۔ ایک دوسرا مفہوم یہ ہے کہ نہایت حریص اور بخیل ہے جو مال کی شدید محبت کا لازمی نتیجہ ہے۔",
+     "text": "یہ مال کی محنت میں بھی بڑا سخت ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他对于财产确是酷好的。"
+    }
+   }
+  },
+  {
+   "arabic": "۞ أَفَلَا يَعۡلَمُ إِذَا بُعۡثِرَ مَا فِي ٱلۡقُبُورِ",
+   "aya": 9,
+   "id": 6155,
+   "tafsir": {
+    "arabic_moyassar": "أفلا يعلم الإنسان ما ينتظره إذا أخرج الله الأموات من القبور للحساب والجزاء؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তবে কি সে জানে না, যখন কবরসমূহে যা আছে তা বের করে আনা হবে?"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Does he not know that when the contents of graves will be overturned,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Ne sait-il pas que les tombes seront vidées de leurs occupants"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Maka tidakkah dia mengetahui apabila apa yang di dalam kubur dikeluarkan,"
+    },
+    "ur": {
+     "footnotes": "[1] بُعْثِرَ، نُثِرَ وَبُعِثَ یعنی قبروں کے مردوں کو زندہ کرکے اٹھا کھڑا کردیا جائے گا۔",
+     "text": "کیا اسے وه وقت معلوم نہیں جب قبروں میں جو (کچھ) ہے نکال لیا جائے گا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "难道他不知道吗？当坟中的朽骨被揭发，"
+    }
+   }
+  },
+  {
+   "arabic": "وَحُصِّلَ مَا فِي ٱلصُّدُورِ",
+   "aya": 10,
+   "id": 6156,
+   "tafsir": {
+    "arabic_moyassar": "واستُخرج ما استتر في الصدور من خير أو شر."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর অন্তরে যা (গোপন) আছে তা প্রকাশিত হবে।"
+    },
+    "en": {
+     "footnotes": "[7] i.e., when all secrets of the hearts and faiths are made known.",
+     "text": "and the secrets of the hearts will be brought to light[7]?"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "et que les secrets des cœurs seront étalés au grand jour ?"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan apa yang tersimpan di dalam dada dikeluarkan?"
+    },
+    "ur": {
+     "footnotes": "[1] حُصِّلَ، مُيِّزَ وَبُيِّنَ یعنی سینوں کی باتوں کو ظاہر اور کھول دیا جائے گا۔",
+     "text": "اور سینوں کی پوشیده باتیں ظاہر کر دی جائیں گی.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "胸中的秘密被显示的时侯，"
+    }
+   }
+  },
+  {
+   "arabic": "إِنَّ رَبَّهُم بِهِمۡ يَوۡمَئِذٖ لَّخَبِيرُۢ",
+   "aya": 11,
+   "id": 6157,
+   "tafsir": {
+    "arabic_moyassar": "إن ربهم بهم وبأعمالهم يومئذ لخبير، لا يخفى عليه شيء من ذلك."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "নিশ্চয় তোমার রব সেদিন তাদের ব্যাপারে সবিশেষ অবহিত।"
+    },
+    "en": {
+     "footnotes": "[8] Nothing of their affairs will be hidden from Him.",
+     "text": "Indeed, their Lord is All-Aware of them on that Day[8]."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Ce Jour-là, leur Seigneur les jugera en connaissance de cause."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sungguh, Tuhan mereka pada hari itu Mahateliti terhadap keadaan mereka."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی جو رب ان کو قبروں سے نکال لے گا، ان کے سینوں کے رازوں کو ظاہرکردے گا، اس کے متعلق ہر شخص جان سکتا ہے کہ وہ کتنا باخبر ہے؟ اور اس سے کوئی چیز مخفی نہیں رہ سکتی۔ چنانچہ پھر وہ ہر ایک کو اس کے عملوں کے مطابق اچھی یا بری جزا دے گا۔ یہ گویا ان اشخاص کو تنبیہ ہےجو رب کی نعمتیں تو استعمال کرتے ہیں، لیکن اس کا شکر ادا کرنےکے بجائے، اس کی ناشکری کرتے ہیں۔ اسی طرح مال کی محبت میں گرفتار ہو کر مال کے وہ حقوق ادا نہیں کرتے جو اللہ نے اس میں دوسرے لوگوں کے رکھے ہیں۔",
+     "text": "بیشک ان کا رب اس دن ان کے حال سے پورا باخبر ہوگا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "在那日，他们的养主，确是彻知他们的。"
+    }
+   }
+  }
+ ],
+ "content_sha256": "sha256:10a031dd8ea3b9b7f1041948f887c9bb8cc92e38ef6ab3bc3452c92b980316a3",
+ "name_ar": "العاديات",
+ "number": 100,
+ "schema": "balligh.library.quran.surah/1"
+}

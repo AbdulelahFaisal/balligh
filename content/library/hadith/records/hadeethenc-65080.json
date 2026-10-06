@@ -1,0 +1,170 @@
+{
+ "attribution": "رواه البخاري",
+ "content_sha256": "sha256:6e0ddee06be5e74dc3eed67e1de318e9c3ea4b1751be3bd50737f5ec153215fb",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "كان النبيُّ صلى الله عليه وسلم يتوضأ لكلِّ صلاةٍ مفروضةٍ وإنْ لم يَنْتَقِضْ وضوؤُه؛ وذلك لتحصيل الأجر والفضل.\n\nويجوز أن يُصلِّي أكثرَ مِن صلاةٍ مفروضةٍ بوضوء واحد ما دام على وضوئه.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "أكثرُ فِعْلِ النبيِّ صلى الله عليه وسلم هو الوضوء لكل صلاة؛ طلبًا للأكمل.",
+  "استحباب الوضوء عند كل صلاة.",
+  "جواز تأدية أكثر من صلاة بوضوء واحد."
+ ],
+ "id": "hadeethenc-65080",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (1/ 53) (214)، شرح ابن بطّال (1/321)، إرشاد الساري لشرح صحيح البخاري (1/ 285).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=65080",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:54:26+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/65080"
+ },
+ "source_categories": [
+  {
+   "id": "441",
+   "label": "فضل الوضوء"
+  }
+ ],
+ "source_record_id": "65080",
+ "text": "عن عَمْرُو بْنُ عَامِرٍ عَنْ ‌أَنَس بن مالك قَالَ: كَانَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَتَوَضَّأُ عِنْدَ كُلِّ صَلَاةٍ، قُلْتُ: كَيْفَ كُنْتُمْ تَصْنَعُونَ؟ قَالَ: يُجْزِئُ أَحَدَنَا الْوُضُوءُ مَا لَمْ يُحْدِثْ.",
+ "title": "كان النبي صلى الله عليه وسلم يتوضأ عند كل صلاة",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=65080",
+   "arabic_match": "exact",
+   "attribution": "এটি বুখারী বর্ণনা করেছেন।",
+   "content_sha256": "sha256:0ff5c1770801c3804417779bc1c7d5c52ddf960ecc7f7eead6c9ad6982dde630",
+   "explanation": "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সাওয়াব ও ফজিলত লাভ করার উদ্দেশ্যে প্রত্যেক সালাতের জন্যে উযূ করতেন, যদিও তার উযূ ভঙ্গ না হত।\r\n\r\nযতক্ষণ উযূ অবস্থায় থাকবে এক উযূ দ্বারা একাধিক ফরয সালাত আদায় করা বৈধ রয়েছে।",
+   "grade": "সহীহ",
+   "hints": [
+    "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পরিপূর্ণতা অর্জনের জন্য প্রত্যেক সালাতের জন্যে উযূ করার আমলটি অধিকাংশ সময় করেছেন।\r",
+    "প্রত্যেক সালাতের জন্যে উযূ করা মুস্তাহাব।\r",
+    "এক উযূ দ্বারা একাধিক সালাত আদায় করা বৈধ।"
+   ],
+   "mapping": "same HadeethEnc record id 65080; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:28+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/65080",
+   "text": "‘আমর বিন আমির সূত্রে আনাস বিন মালিক হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রত্যেক সালাতের সময় উযূ করতেন। আমি বললামঃ আপনারা কী করতেন? তিনি বললেনঃ হাদাস (উযূ ভঙ্গের কারণ) না হওয়া পর্যন্ত আমাদের (পূর্বের) উযূ যথেষ্ট হত।",
+   "title": "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রত্যেক সালাতের সময় উযূ করতেন",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=65080",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Al-Bukhāri",
+   "content_sha256": "sha256:f0df23903f611335136cf1358d1fd22f6295b4b02fb28a82f0862b7b2a19b5db",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) used to perform ablution for every obligatory prayer, even if his ablution was not broken. This is to attain the reward and merit.\r\n\r\nIt is permissible to perform more than one obligatory prayer with one ablution, so long as the ablution remains valid.",
+   "grade": "Authentic",
+   "hints": [
+    "The Prophet (may Allah’s peace and blessings be upon him) used to perform ablution upon every prayer, seeking perfection.\r",
+    "It is recommended to perform ablution for every prayer.\r",
+    "It is permissible to offer more than one prayer with one ablution."
+   ],
+   "mapping": "same HadeethEnc record id 65080; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:27+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/65080",
+   "text": "‘Amr ibn ‘Āmir related that Anas ibn Mālik reported: The Prophet (may Allah’s peace and blessings be upon him) used to perform ablution upon every prayer. I asked: \"What did you guys use to do?\" He said: \"Ablution would remain valid for any of us until he broke it.\"",
+   "title": "The Prophet (may Allah’s peace and blessings be upon him) used to perform ablution upon every prayer",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=65080",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî",
+   "content_sha256": "sha256:ef99d57f6cf374cc26f8e4374aa5e3fd8aaf70d2e75ffcecf15a700484aa92de",
+   "explanation": "Le Prophète ﷺ faisait ses ablutions pour chaque prière obligatoire même s'il ne perdait pas ses ablutions, cela pour obtenir la récompense et le mérite [de cet acte].\r\n\r\nIl est permis de prier plus d'une prière obligatoire avec une seule et même ablution aussi longtemps que la personne garde ses ablutions.",
+   "grade": "Authentique",
+   "hints": [
+    "L'accomplissement des ablutions à chaque prière était un des actes les plus fréquents du Prophète ﷺ. Il recherchait à travers cela la perfection.\r",
+    "La recommandation des ablutions à chaque prière.\r",
+    "La permission d'effectuer plus d'une prière avec une seule et même ablution."
+   ],
+   "mapping": "same HadeethEnc record id 65080; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:28+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/65080",
+   "text": "D'après 'Amrû ibn 'Âmir, d'après Anas ibn Mâlik (qu'Allah les agrée tous) : \" Le Prophète ﷺ faisait ses ablutions à chaque prière  . \" J'ai demandé : « Comment faisiez-vous donc ? Il a répondu : « Les ablutions restaient valables pour chacun d'entre nous jusqu'à ce qu'il les perde. »",
+   "title": "Le Prophète ﷺ faisait ses ablutions à chaque prière",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=65080",
+   "arabic_match": "exact",
+   "attribution": "HR. Bukhari",
+   "content_sha256": "sha256:b94eb837ce9501f293292cb16552c7d8c915ae1d54715bdd297263bcf665ded8",
+   "explanation": "Nabi ﷺ biasa berwudu pada setiap salat fardu, walaupun wudunya tidak batal. Hal itu untuk mendapatkan pahala dan keutamaan wudu.\r\n\r\nBoleh mengerjakan lebih dari satu salat fardu dengan satu wudu selama wudunya masih sah.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Hal yang paling sering dilakukan Nabi ﷺ ialah berwudu untuk setiap salat guna mendapatkan hasil yang paling sempurna.\r",
+    "2- Anjuran berwudu untuk setiap salat.\r",
+    "3- Boleh menunaikan lebih dari satu salat dengan satu wudu."
+   ],
+   "mapping": "same HadeethEnc record id 65080; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:27+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/65080",
+   "text": "'Amru bin 'Āmir meriwayatkan dari Anas bin Mālik bahwa ia berkata, \"Nabi ﷺ biasa berwudu untuk setiap salat.\" Aku bertanya, \"Bagaimana yang kalian lakukan?\" Anas menjawab, \"Wudu itu cukup bagi salah seorang kita selama ia tidak berhadas.\"",
+   "title": "Nabi ﷺ biasa berwudu untuk setiap salat",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=65080",
+   "arabic_match": "exact",
+   "attribution": "رواه البخاري",
+   "content_sha256": "sha256:c086decb88714ed67aaceac450985bd6b982819289f8fd6a737bcd477d1adbe9",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم ہر فرض نماز کے لیے وضو کیا کرتے تھے، چاہے وضو نہ بھی ٹوٹے۔ ایسا آپ اجر و ثواب حاصل کرنے کے لیے کرتے تھے۔\r\n\r\nانسان جب تک باوضو رہے، ایک ہی وضو سے ایک سے زیادہ نمازیں پڑھ سکتا ہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "اللہ کے رسول صلی اللہ علیہ و سلم اکثر ہر نماز کے لیے وضو کر لیا کرتے تھے۔ کیوں کہ یہ کامل ترین طریقہ ہے۔\r",
+    "ہر نماز کے لیے وضو کرنا مستحب ہے۔\r",
+    "ایک وضو سے ایک سے زیادہ نمازیں پڑھنا جائز ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 65080; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:27+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/65080",
+   "text": "عمرو بن عامر انس بن مالک رضی اللہ عنہ سے روایت کرتے ہیں کہ وہ کہتے ہیں: اللہ کے نبی صلی اللہ علیہ و سلم ہر نماز کے وقت وضو کیا کرتے تھے۔ میں نے پوچھا کہ آپ لوگ کیا کرتھے تھے، تو انھوں نے جواب دیا : ہمارے لیے وضو اس وقت تک کافی ہو جاتا تھا، جب تک وضو ٹوٹ نہ جائے۔",
+   "title": "اللہ کے نبی صلی اللہ علیہ و سلم ہر نماز کے وقت وضو کیا کرتے تھے",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=65080",
+   "arabic_match": "exact",
+   "attribution": "布哈里辑录",
+   "content_sha256": "sha256:d8635ebe127f273cdae8cfa156e8511156f8cb8c143d4d23dd989a655f3fb307",
+   "explanation": "先知（愿主福安之）曾每次主命礼拜都洗小净，即使小净没有坏也罢，那是为了获取报酬和优越。\r\n\r\n只要小净尚未坏，那么一次小净可以多次礼拜。",
+   "grade": "正确的",
+   "hints": [
+    "多数情况下使者（愿主福安之）每次主命拜都洗小净，这是为了追求完美。\r",
+    "每番礼拜洗小净为可嘉。\r",
+    "允许一次小净多次礼拜。"
+   ],
+   "mapping": "same HadeethEnc record id 65080; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:27+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/65080",
+   "text": "据阿穆尔·本·阿米尔，据艾奈斯·本·马利克传述说： 先知（愿主福安之）曾每番礼拜都做小净，我说：你们曾是怎么做的？他说：只要没有坏小净，不必每次都洗。",
+   "title": "先知（愿主福安之）曾每番礼拜都做小净",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

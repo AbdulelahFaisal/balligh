@@ -1,0 +1,160 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:15420d791d409bcb1f18fc5cbabfb06cd9ad54a7fc70ab5dc3b43410dfd68100",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يخبر ابن عباس رضي الله عنهما: أن الوحي أنزل على رسول الله صلى الله عليه وسلم وبُعث وعمره أربعون سنة، \nفأقام بمكة ثلاث عشرة سنة بعد الوحي، \nثم أُمِرَ بالهجرة إلى المدينة وأقام بها عشر سنين، \nثم توفي صلى الله عليه وسلم وعمره ثلاثٌ وستون سنة.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "اهتمام الصحابة بسيرة النبي صلى الله عليه وسلم."
+ ],
+ "id": "hadeethenc-65050",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (5/ 45) (3851)، صحيح مسلم (4/ 1826) (2351)، عمدة القاري شرح صحيح البخاري (16/ 303).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=65050",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:31+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/65050"
+ },
+ "source_categories": [
+  {
+   "id": "81",
+   "label": "نبينا محمد صلى الله عليه وسلم"
+  },
+  {
+   "id": "367",
+   "label": "السيرة النبوية"
+  }
+ ],
+ "source_record_id": "65050",
+ "text": "عَنِ ‌ابْنِ عَبَّاسٍ رَضِيَ اللهُ عَنْهُمَا قَالَ: أُنْزِلَ عَلَى رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَهُوَ ابْنُ أَرْبَعِينَ، فَمَكَثَ بِمَكَّةَ ثَلَاثَ عَشْرَةَ سَنَةً، ثُمَّ أُمِرَ بِالْهِجْرَةِ، فَهَاجَرَ إِلَى الْمَدِينَةِ، فَمَكَثَ بِهَا عَشْرَ سِنِينَ، ثُمَّ تُوُفِّيَ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ.",
+ "title": "أنزل على رسول الله صلى الله عليه وسلم وهو ابن أربعين",
+ "topic": "understanding_islam",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=65050",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:dad3e04ff969badcef5840e49238d8a3704f4d4e5ed190707b6c6e05aeb8cc32",
+   "explanation": "ইবনু ‘আব্বাস রদিয়াল্লাহু ‘আনহুমা সংবাদ দিচ্ছেন যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের উপরে যখন অহী নাযিল ও তাকে নবী হিসেবে প্রেরণ করা হয়, তখন তার বয়স চল্লিশ বছর। তারপর অহী নাযিলের পর তিনি মক্কাতে তের বছর অবস্থান করেন, তারপরে তাকে মদীনা হিজরতের আদেশ দেওয়া হয় আর তিনি সেখানে দশ বছর বসবাস করেন। তারপরে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মৃত্যুবরণ করেন, তখন তার বয়স ছিল তেষট্টি বছর।",
+   "grade": "সহীহ",
+   "hints": [
+    "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের সীরাতের ব্যাপারে সাহাবীদের গুরুত্বারোপের বিষয়টি হাদীসে বর্ণিত হয়েছে।"
+   ],
+   "mapping": "same HadeethEnc record id 65050; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:12+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/65050",
+   "text": "ইবনু ‘আব্বাস রদিয়াল্লাহু ‘আনহুমা থেকে বর্ণিত, তিনি বলেছেন: রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের বয়স যখন চল্লিশ বছর, তখন তার উপরে কুরআন অবতীর্ণ হয়। তারপরে তিনি মক্কাতে তের বছর অবস্থান করেন, তারপর তাকে হিজরতের আদেশ করা হলে তিনি মদীনাতে হিজরত করেন, সেখানে দশ বছর অবস্থান করেন এবং মৃত্যুবরণ করেন।",
+   "title": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের বয়স যখন চল্লিশ বছর, তখন তার উপরে কুরআন অবতীর্ণ হয়",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=65050",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:5bed802e1c1d46aad42442c3187fa18cf0d0f91043cbaf610478579843b5bca9",
+   "explanation": "Ibn ‘Abbās (may Allah be pleased with him) reports that revelation was sent down to the Messenger of Allah (may Allah's peace and blessings be upon him) and his prophetic mission began at the age of forty, and he stayed in Makkah for 13 years after the revelation. Thereafter, he was commanded to immigrate to Madīnah, where he stayed for 10 years. Then, he (may Allah's peace and blessings be upon him) passed away at the age of sixty-three.",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth shows the Companions' interest in the Prophet's biography."
+   ],
+   "mapping": "same HadeethEnc record id 65050; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:11+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/65050",
+   "text": "Ibn ‘Abbās (may Allah be pleased with him) reported: The Messenger of Allah (may Allah’s peace and blessings be upon him) received divine revelation at the age of forty. He spent 13 years in Makkah. Then, he was commanded to immigrate, and he immigrated to Madīnah, where he stayed for 10 years. Then, he (may Allah’s peace and blessings be upon him) passed away.",
+   "title": "The Messenger of Allah (may Allah’s peace and blessings be upon him) received divine revelation at the age of forty",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=65050",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:0b0faed6c70b6adeb25cb57bb6234d65c5f31ba2f92be9ce73ab1240bac97e5b",
+   "explanation": "Ibn 'Abbâs (qu'Allah l'agrée, lui et son père) informe du fait que la Révélation est descendue sur le Messager d'Allah (qu’Allah le couvre d’éloges et le préserve) et qu'il a été envoyé alors qu'il était âgé de quarante ans. De là, il est resté à La Mecque treize ans après la Révélation, il lui a ensuite été ordonné d'émigrer vers Médine où il vécut dix ans. Puis, il est décédé alors qu'il avait soixante-trois ans (qu’Allah le couvre d’éloges et le préserve).",
+   "grade": "Authentique",
+   "hints": [
+    "L'intérêt que portaient les Compagnons (qu'Allah les agrée) à la biographie du Prophète (qu’Allah le couvre d’éloges et le préserve)."
+   ],
+   "mapping": "same HadeethEnc record id 65050; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:12+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/65050",
+   "text": "Ibn 'Abbâs (qu'Allah l'agrée, lui et son père) relate : « La Révélation est descendue sur le Messager d'Allah (qu’Allah le couvre d’éloges et le préserve) alors qu'il avait quarante ans. Il est resté à La Mecque treize ans ; ensuite, l'émigration lui a été ordonnée. Il a alors émigré à Médine et y est resté dix ans. Puis, il est décédé (qu’Allah le couvre d’éloges et le préserve). »",
+   "title": "La Révélation est descendue sur le Messager d'Allah (qu’Allah le couvre d’éloges et le préserve) alors qu'il avait quarante ans",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=65050",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:6551a14138bc06eb58c640d00187fe1da358bdad368a4501fb5f67e25d38469f",
+   "explanation": "Ibnu 'Abbās -raḍiyallāhu 'anhumā- menceritakan bahwa Rasulullah ﷺ menerima wahyu dan diangkat sebagai rasul ketika berusia 40 tahun, lalu beliau tinggal di Makkah 13 tahun sejak turunnya wahyu. Kemudian beliau ﷺ diperintahkan untuk hijrah ke Madinah, dan beliau tinggal di sana selama 10 tahun. Kemudian beliau ﷺ wafat pada usia 63 tahun.",
+   "grade": "Sahih",
+   "hints": [
+    "Perhatian para sahabat terhadap sirah Nabi ﷺ."
+   ],
+   "mapping": "same HadeethEnc record id 65050; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:12+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/65050",
+   "text": "Ibnu 'Abbās -raḍiyallāhu 'anhumā- meriwayatkan, ia berkata, \"Wahyu diturunkan kepada Rasulullah ﷺ ketika beliau berusia 40 tahun, dan beliau tinggal di Makkah selama 13 tahun. Lalu beliau diperintahkan berhijrah. Beliau pun berhijrah ke Madinah dan tinggal di sana selama 10 tahun, kemudian beliau ﷺ wafat.\"",
+   "title": "Wahyu diturunkan kepada Rasulullah ﷺ ketika beliau berusia 40 tahun",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=65050",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:caa349c1f7fecbb686a9f893f1c4a543278f887e149c634f5b2a9be26bbc9810",
+   "explanation": "عبداللہ بن عباس رضی اللہ عنہما بتا رہے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم پر وحی کے نزول کا آغاز اور آپ کی بعثت چالیس سال کی عمر میں ہوئی۔ نزول وحی کے بعد آپ تیرہ سال تک مکہ میں رہے۔ اس کے بعد آپ کو مدینے کی طرف ہجرت کا حکم دیا گیا اور آپ نے وہاں دس سال قیام کیا۔ پھر آپ ترسٹھ سال کی عمر میں وفات پا گئے۔",
+   "grade": "صحيح",
+   "hints": [
+    "صحابۂ کرام نبی صلی اللہ علیہ وسلم کی سیرت کا خاص اہتمام کیا کرتے تھے۔"
+   ],
+   "mapping": "same HadeethEnc record id 65050; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:11+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/65050",
+   "text": "ابن عباس رضی اللہ عنہما سے مروی ہے، وہ کہتے ہیں: رسول اللہ ﷺ پر چالیس سال کی عمر میں وحی نازل ہوئی۔ پھر آپ تیرہ سال مکہ مکرمہ میں رہے۔ اس کے بعد آپ کو ہجرت کا حکم ہوا تو آپ نے مدینہ طیبہ کی طرف ہجرت فرمائی اور آپ نے وہاں دس برس قیام فرمایا۔ اس کے بعد آپ ﷺ نے وفات پائی۔",
+   "title": "رسول اللہ ﷺ پر چالیس سال کی عمر میں",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=65050",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:eb6243162d65833265e71956e9b91a35af474d51f3f250d380e148ae0d33a823",
+   "explanation": "伊本·阿巴斯（愿主喜悦之）叙述道，使者（愿主福安之）在四十岁时，被派遣成为使者并接受了启示，接受启示以后，在麦加居住十三年，然后奉命迁徙至麦地那，在其中居住十年后归真，享年63岁。",
+   "grade": "正确的",
+   "hints": [
+    "圣门弟子们对使者（愿主福安之）之生平的注重。"
+   ],
+   "mapping": "same HadeethEnc record id 65050; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:12+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/65050",
+   "text": "据伊本·阿巴斯（愿主喜悦他俩）传述说： 安拉的使者在四十岁时接受了启示，他在麦加居住十三年，然后奉命迁徙至麦地那，在其中居住十年后归真。",
+   "title": "安拉的使者在四十岁时接受了启示",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

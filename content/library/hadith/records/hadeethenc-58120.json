@@ -1,0 +1,184 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:65653f80c9125d8c2c8712a37b6e75c63680dc575472c2e86573604701634e8e",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يُخْبِرُ عُمَرُ بن أبي سلمة رضي الله عنهما، ابن زوجة النبي صلى الله عليه وسلم أم سلمة رضي الله عنها، -وكان تحت تربيتِه ورعايته-، أنه كان أثناء الأكل يَنْقُلُ يدَه في جوانب الإناء ليلتقط الطعام، فعلَّمه النبي صلى الله عليه وسلم ثلاثة آداب من آداب الأكل: \n\nأولها: قول \"بسم الله\" في بداية الأكل. \n\nوثانيها: الأكل باليمين. \n\nوثالثها: الأكل من الجانب الذي يَقْرُبُ منه من الطعام.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "من آداب الأكل والشرب التسميةُ في أوله.",
+  "تعليم الصبيان الآداب، لاسيَّما من كان تحت كفالة الإنسان.",
+  "رفق النبي صلى الله عليه وسلم، وسعة صدره في تعليم الصغار وتأديبهم.",
+  "من آداب الطعام الأكل مما يلي الإنسان، إلا إذا كان أصنافًا متعددة فله أن يأخذ منها.",
+  "التزام الصحابة بما أدَّبهم به النبي صلى الله عليه وسلم، وذلك مستفاد من قول عمر: فما زالت تلك طعمتي بعد."
+ ],
+ "id": "hadeethenc-58120",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (7/ 68) (5376)، (3/ 61) (2092).\nصحيح مسلم (3/ 1599) (2022).\nشرح النووي على مسلم (13/ 193).\nتوضيح الأحكام مِن بلوغ المرام، للبسام (5/ 440).\nفتح ذي الجلال والإكرام شرح بلوغ المرام، لابن عثيمين (4/ 616).\nمنحة العلام في شرح بلوغ المرام، لعبد الله الفوزان (7/ 439).\nشرح رياض الصالحين، لابن عثيمين (3/ 169).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=58120",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:49+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/58120"
+ },
+ "source_categories": [
+  {
+   "id": "290",
+   "label": "آداب الأكل والشرب"
+  }
+ ],
+ "source_record_id": "58120",
+ "text": "عن عُمر بن أبي سلمة رضي الله عنه قال: كُنْتُ غُلَامًا فِي حَجْرِ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَكَانَتْ يَدِي تَطِيشُ فِي الصَّحْفَةِ، فَقَالَ لِي رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «يَا غُلَامُ، سَمِّ اللهَ، وَكُلْ بِيَمِينِكَ، وَكُلْ مِمَّا يَلِيكَ» فَمَا زَالَتْ تِلْكَ طِعْمَتِي بَعْدُ.",
+ "title": "يا غلام، سم الله، وكل بيمينك، وكل مما يليك",
+ "topic": "conduct",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=58120",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:cfa6fa090f1a09cfcf4aafca7c60a8e51078be9fbcc99beb26c404c640196d05",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের স্ত্রী উম্মু সালামাহ রাদিয়াল্লাহু ‘আনহার ছেলে ‘উমার ইবনু আবূ সালামাহ রাদিয়াল্লাহু ‘আনহুমা সংবাদ দিচ্ছেন,—সে সময় তিনি তাঁর লালন-পালন ও তত্ত্বাবধানে ছিলেন— খাওয়ার সময় খাবার তোলার জন্য তার হাত বাসনের এপাশে-ওপাশে নিয়ে যেতেন, তাই নবী সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম তাকে আহার করার শিষ্টাচারসমূহ হতে তিনটি শিষ্টাচার (আদব) শিখালেন:\r\n\r\nপ্রথমটি হলো: খাওয়ার শুরুতে “বিসমিল্লাহ” বলা।\r\n\r\nদ্বিতীয়টি হলো: ডান হতে খাওয়া।\r\n\r\nতৃতীয়টি হলো: যে পাশের খাবার তাঁর নিকটে সে পাশ থেকে খাওয়া।",
+   "grade": "সহীহ",
+   "hints": [
+    "খাওয়া ও পান করার আদব হলো তার শুরুতে বিসমিল্লাহ বলা।\r",
+    "বাচ্চাদেরকে আদব শিক্ষা দিতে হবে, বিশেষ করে যার তত্ত্বাবধানে  বাচ্চা থাকবে তাকে।\r",
+    "শিশুদের শিক্ষাদান ও তাদের শাসনে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের উদারতা ও কোমলতা প্রদর্শন।\r",
+    "খাবার গ্রহণ করার আদব হলো মানুষের নিজের কাছ থেকে খাবার গ্রহণ করা, তবে যদি বিভিন্ন প্রকার খাবার হয়, তাহলে যে প্রকার ইচ্ছে তা গ্রহণ করতে কোনো দোষ নেই।\r",
+    "সাহাবীগণকে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম যে আদব শিক্ষা দিয়েছেন তা তারা অক্ষরে অক্ষরে আঁকড়ে ধরেছেন। আর তা উমারের কথা থেকে প্রমাণিত: “তারপর থেকে এটিই ছিল আমার খাবারের নিয়ম।"
+   ],
+   "mapping": "same HadeethEnc record id 58120; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:15+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/58120",
+   "text": "’উমার ইবনু আবূ সালামাহ রাদিয়াল্লাহু ‘আনহু হতে বর্ণিত, তিনি বলেন: আমি ছোট বেলায় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর তত্ত্বাবধানে ছিলাম। খাবার বাসনে আমার হাত ছুটাছুটি করত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বললেন, “হে বৎস! বিসমিল্লাহ বলো এবং ডান হাতে আহার কর আর তোমার কাছে থেকে খাও”। এরপর থেকে সেটাই আমার খাদ্য গ্রহণ করার স্থায়ী অভ্যাস ছিল।",
+   "title": "হে বৎস! বিসমিল্লাহ বলো এবং ডান হাতে আহার কর আর তোমার কাছে থেকে খাও",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=58120",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:4f2286ccbd844abb4798eb8c750643551b1431aa71b9484e532825b5af23b0b0",
+   "explanation": "Umar bin Abi Salamah, may God be pleased with them both, the son of the wife of the Prophet, may God bless him and grant him peace, Umm Salamah, wife Umm Salamah (may Allah be pleased with her) - and he was under his upbringing and care - narrates that while eating, he used to move his hand all over the platter to pick up food, so the Prophet, (may Allah's peace and blessings be upon him), taught him three etiquettes of Eating etiquette:\r\n\r\nFirst: Saying 'bismillāh' (in the name of Allah) when beginning to eat.\r\n\r\nSecond: Eating with the right hand.\r\n\r\nThird: Eating from the side next to one.",
+   "grade": "Authentic",
+   "hints": [
+    "One of the etiquettes of eating and drinking is to begin with mentioning the name of Allah.\r",
+    "Teaching children the proper etiquettes, especially those under one’s care.\r",
+    "It shows the Prophet's leniency and patience in teaching and educating children.\r",
+    "One of the etiquettes of eating is that one eats from the nearest side, except if there are various items of food, in which case a person can eat from that place.\r",
+    "The Companions (may Allah be pleased with them) would comply with the Prophet's teachings, as indicated by 'Umar's statement: Since then, I have been eating that way."
+   ],
+   "mapping": "same HadeethEnc record id 58120; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:14+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/58120",
+   "text": "‘Umar ibn Abi Salamah (may Allah be pleased with him) reported: I was a young boy under the care of the Messenger of Allah (may Allah's peace and blessings be upon him), and my hand used to wander all over the platter (of food). The Messenger of Allah (may Allah's peace and blessings be upon him) said, \"O boy, mention Allah's name, eat with your right hand, and eat from what is nearer to you.\" Since then, I have been eating that way.",
+   "title": "O boy, mention Allah's name, eat with your right hand, and eat from what is nearer to you",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=58120",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:70ae2cffb704b404ed29a32536d3d9a5afa595911bf4a4047925e7fd0b1a1800",
+   "explanation": "'Umar ibn Abî Salamah (qu'Allah l'agrée), le fils d'Oum Salamah (qu'Allah l'agrée) l'épouse du Prophète ﷺ qui était sous son éducation et son attention, informe que lorsqu'il mangeait, sa main se baladait sur les côtés du plat pour prendre de la nourriture, alors le Prophète ﷺ lui a appris trois bonnes manières parmi les bonnes manières du manger :\r\n\r\nLa première est de dire : \" Au nom d'Allah (BismiLlah) \" au début, avant de manger.\r\n\r\nLa seconde est de manger de la main droite.\r\n\r\nLa troisième est de manger la nourriture du côté le plus proche de soi.",
+   "grade": "Authentique",
+   "hints": [
+    "Parmi les bonnes manières du manger et du boire, il y a la prononciation du nom d'Allah au début.\r",
+    "L'apprentissage des bonnes manières aux enfants, tout particulièrement ceux qui sont à la charge de la personne.\r",
+    "La douceur du Prophète ﷺ et sa largesse de poitrine dans l'enseignement des enfants et leur éducation.\r",
+    "Parmi les bonnes manières du manger, il y a le fait que la personne mange ce qui est devant elle, excepté s'il y a plusieurs types de nourriture alors dans ce cas, elle peut en prendre ici et là.\r",
+    "L'attachement des Compagnons (qu'Allah les agrée) sur la manière dont le Prophète ﷺ les a éduqués. On tire cela de la parole d'Umar : \" Je n'ai jamais cessé de manger ainsi après cela. \""
+   ],
+   "mapping": "same HadeethEnc record id 58120; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:15+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/58120",
+   "text": "D'après ʽUmar ibn Abî Salamah (qu'Allah l'agrée) qui a dit : « J'étais un jeune garçon dans l'appartement du Messager d'Allah ﷺ et ma main se promenait un peu partout dans le plat. Alors, le Messager d'Allah ﷺ m'a dit : \"  Ô jeune garçon ! Prononce le nom d'Allah, mange avec ta main droite et mange de ce qui se trouve devant toi !  » Je n'ai jamais cessé de manger ainsi après cela.",
+   "title": "Ô jeune garçon ! Prononce le nom d'Allah, mange avec ta main droite et mange de ce qui se trouve devant toi !",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=58120",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:03dcb1cfa5271d960fa4c87d59da812ca9848e42f0f19a93029f144b1acf2ed6",
+   "explanation": "Umar bin Abu Salamah -raḍiyallāhu 'anhumā- yang merupakan putra Ummu Salamah, istri Nabi ﷺ -yang dahulu di bawah asuhan beliau- mengabarkan, bahwa ketika sedang makan, dia memindahkan tangannya di berbagai sisi wadah untuk mengambil makanan, maka Nabi ﷺ mengajarinya tiga hal di antara adab makan, yaitu:\r\n\r\n- Pertama: membaca \"bismillāh\" ketika memulai makan.\r\n\r\n- Kedua: makan dengan tangan kanan.\r\n\r\n- Ketiga: mengambil makanan dari sisi nampan yang terdekat.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Di antara adab makan dan minum ialah membaca \"bismillāh\" di permulaannya.\r",
+    "2- Mengajarkan adab kepada anak kecil, terutama yang berada di bawah tanggungannya.\r",
+    "3- Kelembutan Nabi ﷺ dan kelapangan dada beliau dalam mengajar dan mengarahkan anak kecil.\r",
+    "4- Di antara adab makan adalah mengambil makanan yang dekat, kecuali jika makanan itu banyak macamnya maka dia boleh mengambilnya dari sisi nampan yang jauh.\r",
+    "5- Kekonsistenan para sahabat terhadap adab yang diajarkan oleh Nabi ﷺ kepada mereka. Hal itu disimpulkan dari ucapan Umar, \"Maka senantiasa yang demikian itu menjadi cara makanku setelah itu.\""
+   ],
+   "mapping": "same HadeethEnc record id 58120; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:15+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/58120",
+   "text": "Umar bin Abi Salamah -raḍiyallāhu 'anhu- berkata, \"Sewaktu kecil aku berada dalam asuhan Rasulullah ﷺ. Pernah tanganku ke sana ke mari (saat mengambil makanan) di nampan, lalu Rasulullah ﷺ bersabda kepadaku, 'Nak, ucapkanlah bismillāh, makanlah dengan tangan kananmu, dan makanlah makanan yang ada di dekatmu!' Maka hal itu senantiasa menjadi cara makanku setelah itu.\"",
+   "title": "Nak, ucapkanlah bismillāh, makanlah dengan tangan kananmu, dan makanlah makanan yang ada di dekatmu",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=58120",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:07a16bda6580a7308cb504f001fa75c8314caa127c314fbfec349d5f33b4a11f",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم کی بیوی ام سلمہ رضی اللہ عنہا کے بیٹے عمر بن ابو سلمہ رضی اللہ عنہ، جو اللہ کے نبی صلی اللہ علیہ و سلم کے زیر تربیت اور کفالت میں تھے، بتا رہے ہیں کہ ان کا ہاتھ کھانا کھانے کے دوران کھانا اٹھانے کے لیے برتن کے چاروں جانب گھومتا رہتا تھا، لہذا اللہ کے رسول صلی اللہ علیہ و سلم نے ان کو کھانا کھانے کے تین آداب سکھائے :\r\n\r\n1- کھانا کھانا شروع کرتے وقت بسم اللہ کہنا۔\r\n\r\n2- دائیں ہاتھ سے کھانا کھانا۔\r\n\r\n3- برتن میں سے اپنے سامنے والے حصے سے کھانا کھانا۔",
+   "grade": "صحيح",
+   "hints": [
+    "کھانے پینے کا ایک ادب یہ ہے کہ شروع میں بسم اللہ کہا جائے۔\r",
+    "بچوں کو آداب سکھانا چاہیے۔ خاص طور سے ان بچوں کو جو آپ کے زیر کفالت ہوں۔\r",
+    "بچوں کو تعلیم دینے اور ادب سکھانے کے معاملے میں اللہ کے نبی صلی اللہ علیہ و سلم کی نرمی اور کشادہ دلی۔\r",
+    "کھانے کا ایک ادب یہ ہے کہ انسان اپنے سامنے سے کھائے۔ ہاں! اگر پلیٹ میں کھانے کی الگ الگ طرح کی چیزیں موجود ہوں، تو اس کے لئے ان چیزوں کا (برتن کے کسى بھى حصے سے) لینا جائز ہے۔\r",
+    "صحابہ كرام اللہ کے رسول صلی اللہ علیہ و سلم کے سکھائے ہوئے آداب پر پابندی سے عمل کرتے تھے۔ ایسا عمر بن ابو سلمہ رضی اللہ عنہ کے اس قول سے معلوم ہوتا ہے  : \"چنانچہ اس کے بعد ہمیشہ میں آپ کے بتائے ہوئے اسی طریقے کے مطابق کھانا کھاتا رہا\"۔"
+   ],
+   "mapping": "same HadeethEnc record id 58120; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:14+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/58120",
+   "text": "عمر بن ابو سلمہ رضی اللہ عنہ سے روایت ہے، وہ کہتے ہیں: میں بچہ تھا اور رسول اللہ ﷺ کی پرورش میں تھا۔ (کھاتے وقت) میرا ہاتھ برتن میں چاروں طرف گھوما کرتا تھا۔ اس لیے آپ ﷺ نے مجھ سے فرمایا: ”بچے! بسم اللہ پڑھ لیا کرو، داہنے ہاتھ سے کھایا کرو اور اپنے سامنے سے کھایا کرو۔“ چنانچہ اس کے بعد میں ہمیشہ اسی ہدایت کے مطابق کھاتا رہا۔",
+   "title": "بچے! بسم اللہ پڑھ لیا کرو، داہنے ہاتھ سے کھایا کرو اور اپنے سامنے سے کھایا کرو۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=58120",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:05ce700a76ac349517ac8b14a068e48758575d1ae56547fcb7eeb79e2bd552a3",
+   "explanation": "欧玛尔·本·艾布·塞莱麦（愿主喜悦他俩），即先知（愿主福安之）的妻子温姆·塞莱麦的儿子，他当时在使者（愿主福安之）的照料和养育之下，他告诉我们，他吃饭的时候，双手在盘子中四处乱抓，然后使者（愿主福安之）给他教导了吃饭的三项礼节：\r\n\r\n第一、开始吃饭时诵念安拉的尊名。\r\n\r\n第二、用右手吃饭。\r\n\r\n第三、吃靠近自己的食物。",
+   "grade": "正确的",
+   "hints": [
+    "开始吃饭与喝水时诵念安拉的尊名，是饮食的礼节。\r",
+    "教导孩子们一些礼节，特别是自己照料的孩子。\r",
+    "先知（愿主福安之）在教导幼儿们时非常和蔼，胸怀宽阔。\r",
+    "吃饭的礼节中有：吃靠近自己的食物。如果食物是多种多样的，他可从中拿取一部分。\r",
+    "从欧玛尔的言语中可以得出，圣门弟子们是严格遵守使者（愿主福安之）所教授他们的：“此后我便一直如此吃饭。”"
+   ],
+   "mapping": "same HadeethEnc record id 58120; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:14+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/58120",
+   "text": "据欧玛尔·本·艾布·塞莱麦（愿主喜悦之）说： 我还是孩童的时候，曾在使者（愿主福安之）的怀里，我吃饭的时候，手在盘子中四处乱抓，然后安拉的使者（愿主福安之）对我说：“孩子啊！诵念安拉的尊名，用右手吃饭，并吃靠近你的食物。”此后我便一直如此吃饭。",
+   "title": "孩子啊！诵念安拉的尊名，用右手吃饭，并吃靠近你的食物",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

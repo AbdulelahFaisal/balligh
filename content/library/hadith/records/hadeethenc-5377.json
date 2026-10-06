@@ -1,0 +1,181 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:7be8bcc36ebeefa8380ce3723ba5776d282171e1c632a9e509ed689ee9ad66ef",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "سَألَ الصحابةُ النبيَّ صلى الله عليه وسلم عن كيفيةِ الصلاةِ عليه؟ بعد مَعرفتِهِم كيفيةَ السلامِ عليه في التحيات: \"السلام عليك أيها النبي ورحمة الله وبركاته...\"؟ \nفأخبرَهم النبيُّ صلى الله عليه وسلم بكيفيةِ الصلاةِ عليه، ومعناها: \n\"اللهم صلِّ على محمدٍ وعلى آل محمد\" \nأي: أثن عليه بالذكر الجميل في الملأ الأعلى، وعلى أتباعه في دينه، والمؤمنون من قرابته. \n\"كما صلَّيتَ على آل إبراهيم\" \nفكما تفضلت على آل إبراهيم عليه السلام وهم إبراهيم وإسماعيل وإسحاق وذريتهم وأتباعهم المؤمنين، فأَلْحِقْ فضلك بمحمدٍ صلى الله عليه وسلم. \n\"إنك حميد مجيد\" \nأي: المحمود في ذاتك وصفاتك وأفعالك، الواسع في عظمتك وسلطانك وعطائك. \n\"اللهم بارك على محمدٍ وعلى آل محمد كما باركتَ على آل إبراهيم\" \nأي أعطِهِ من الخير والكرامة أعظمَها وزِدْها وثَبِّتْها.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "السَّلَفُ كانوا يتهادَوْن مسائلَ العلم.",
+  "وجوب الصلاة على النبي صلى الله عليه وسلم في التشهد الأخير من الصلاة.",
+  "النبي صلى الله عليه وسلم علَّم أصحابَه السلامَ والصلاةَ عليه.",
+  "هذه الصيغة هي أكملُ الصِّيَغِ في الصلاةِ على النبيِّ صلى الله عليه وسلم."
+ ],
+ "id": "hadeethenc-5377",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (8/ 77) (6357).\nصحيح مسلم (1/ 305) (406).\nتيسير العلام شرح عمدة الأحكام، لعبد الله البسام (ص208).\nتنبيه الأفهام شرح عمدة الأحكام، لابن عثيمين (2/ 270).\nالإلمام بشرح عمدة الأحكام، لإسماعيل الأنصاري (1/ 170).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=5377",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:54:27+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/5377"
+ },
+ "source_categories": [
+  {
+   "id": "465",
+   "label": "أذكار الصلاة"
+  },
+  {
+   "id": "284",
+   "label": "آداب العالم والمتعلم"
+  }
+ ],
+ "source_record_id": "5377",
+ "text": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى قَالَ: لَقِيَنِي كَعْبُ بْنُ عُجْرَةَ، فَقَالَ: أَلاَ أُهْدِي لَكَ هَدِيَّةً؟ إِنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ خَرَجَ عَلَيْنَا، فَقُلْنَا: يَا رَسُولَ اللَّهِ، قَدْ عَلِمْنَا كَيْفَ نُسَلِّمُ عَلَيْكَ، فَكَيْفَ نُصَلِّي عَلَيْكَ؟ قَالَ: «فَقُولُوا: اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ».",
+ "title": "إن النبي صلى الله عليه وسلم خرج علينا، فقلنا: يا رسول الله، قد علمنا كيف نسلم عليك، فكيف نصلي عليك؟",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=5377",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:3b30bb6660f5043e608ccfbde471e770b80c65b40c2a0f3a59c2fdc50612b0ca",
+   "explanation": "সাহাবীগণ নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের কাছে জিজ্ঞেস করলেন, তার উপরে কীভাবে সালাত(দরূদ) পেশ করবে? যেহেতু তারা ইতোপূর্বে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের প্রতি সালাম দেওয়ার পদ্ধতি ‘আত্তাহিয়্যাতু’তে জেনেছেন এভাবে যে, ‘আসসালামু আলাইকা আইয়ুহান নাবিয়্যু ওয়ারাহমাতুল্লাহি ওয়াবারাকাতুহ’ অর্থ: হে নবী ! আপনার উপর (আল্লাহর পক্ষ থেকে) সবধরনের নিরাপত্তা , রহমত ও বরকত বর্ষিত হোক। নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাদেরকে তাঁর প্রতি সালাত (দরূদ)পেশ করার পদ্ধতি সম্পর্কে অবহিত করালেন। এর অর্থ হলো: «اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ».\n“হে আল্লাহ! আপনি মুহাম্মাদ ও মুহাম্মাদের বংশধরের উপর সালাত বর্ষণ করুন।” অর্থাৎ আপনি উচ্চমর‌্যদা সম্পন্ন ফেরাশ্তাদের সামনে প্রশংসা সহ উত্তমভাবে তাঁকে তার পর তাঁর দ্বীনের অনুসারীদেরকে ও তাঁর মুমিন আত্মীয়-স্বজনদেরকে স্মরণ করুন। \"كما صلَّيتَ على آل إبراهيم\"\n“যেরূপ আপনি ইবরাহীমের বংশের ওপর সালাত বর্ষণ করেছেন।” যেমনিভাবে আপনি ইবরাহীমের বংশধর, তারা হলেন ইরবাহীম, ইসমাঈল, ইসহাক ও তাদের বংশধর এবং তাদের মুমিন অনুসারীদেরকে অনুগ্রহ দান করেছেন, সেভাবে আপনি মুহাম্মদ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের ওপরও আপনার অনুগ্রহ দান করুন। \"إنك حميد مجيد\"\n“নিশ্চয় আপনি প্রশংসিত সম্মানিত।” অর্থাৎ আপনি আপনার স্বীয় সত্তায়, গুণাবলীতে এ কর্মে প্রশংসিত। আপনি আপনার সম্মান, ক্ষমতা ও অনুগ্রহে মহান, সুপ্রশস্ত। «اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ».\n“হে আল্লাহ! আপনি মুহাম্মাদ ও মুহাম্মাদের বংশধরের উপর তেমনি বরকত দান করুন যেমনি বরকত দান করেছেন ইবরাহীমের উপর।” অর্থাৎ তাকে অধিক কল্যাণ ও সম্মান-মর্যাদা দান করুন, তা বৃদ্ধি করুন এবং তা স্থায়ী করুন।",
+   "grade": "সহীহ",
+   "hints": [
+    "সৎপূর্বসূরীরা ইলমী মাসায়েল পরস্পরকে হাদিয়া দিতো।\r",
+    "শেষ বৈঠকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের উপর দরুদ পাঠ করা ওয়াজিব।\r",
+    "নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম তাঁর সাহাবীগণকে সালাম ও সালাত(দরূদ) শিক্ষা দিয়েছেন।\r",
+    "এগুলো নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লামের উপর দরূদ পেশ করার সর্বোত্তম ও পরিপূর্ণ অর্থজ্ঞাপক শব্দাবলী।"
+   ],
+   "mapping": "same HadeethEnc record id 5377; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:32+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/5377",
+   "text": "আব্দুর রহমান বিন আবূ লাইলা বলেন, কা’ব বিন ‘উজরাহ আমার সাথে সাক্ষাত করে বলল, আমি কি তোমাকে হাদিয়া দেবো না? নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম আমাদের নিকট আসলে আমরা বললাম, হে আল্লাহর রাসূল! আমরা কীভাবে আপনাকে সালাম দেব তা জানলাম। তবে কীভাবে আপনার উপর সালাত (দরূদ) পেশ করবো? তিনি বললেন, তোমরা বলো:اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ».\nঅর্থ“হে আল্লাহ! তুমি মুহাম্মাদের উপর এবং মুহাম্মাদের পরিবার-পরিজনের উপর রহমত বর্ষন করো। যেমন তুমি রহমত বর্ষন করেছো ইবরাহীমের উপর। নিশ্চয় তুমি প্রশংসিত ও মহিমান্বিত। হে আল্লাহ! তুমি বরকত নাযিল করো মুহাম্মাদের উপর এবং মুহাম্মাদের পরিবার পরিজনের উপর যেমন বরকত নাযিল করেছো ইবরাহীমের উপর। নিশ্চয় তুমি প্রশংসিত ও মহিমান্বিত।”",
+   "title": "নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম আমাদের নিকট আসলে আমরা বললাম, হে আল্লাহর রাসূল! আমরা কীভাবে আপনাকে সালাম দেব তা জানলাম। তবে কীভাবে আপনার উপর সালাত (দরূদ) পেশ করবো?",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=5377",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:24e89f48cda21e039ff8bcfc3448eaf7db4d254a505ca1972c283b8fc2e9950c",
+   "explanation": "The Companions asked the Prophet (may Allah's peace and blessings be upon him) how to invoke Allah's blessings upon him after learning how to greet him in At-Tahiyyāt: \"As-salāmu ‘alayka ayyuha an-nabiyy wa rahmatullāhi wa barakātuh (O Prophet, may the peace, mercy, and blessings of Allah be upon you)...\" The Prophet (may Allah's peace and blessings be upon him) informed them of the manner of invoking Allah's blessings upon him and its meaning: \"O Allah, bestow Your grace upon Muhammad and the family of Muhammad,\" i.e., mention him, as well as those who follow his religion and the believers from among his relatives, with good praise among the highest assembly of angels. \"Just as You bestowed Your grace upon the family of Abraham.\" As You bestowed Your favor upon the family of Abraham (peace be upon him), namely Abraham, Ismā‘īl (Ishmael), Is-hāq (Isaac), and their offspring and their followers from the believers, so bestow Your favor upon Muhammad (may Allah's peace and blessings be upon him). \"Verily, You are Praiseworthy, All-Glorious,\" i.e., You are the Praiseworthy in Your essence, attributes, and acts; the All-Encompassing in Your greatness, sovereignty, and bounty. \"O Allah, bless Muhammad and the family of Muhammad just as You blessed the family of Abraham,\" i.e., grant him the greatest of goodness and honor and increase it and establish it.",
+   "grade": "Authentic",
+   "hints": [
+    "The righteous predecessors used to gift each other with knowledge-related matters.\r",
+    "It is obligatory to invoke Allah's blessings upon the Prophet (may Allah's peace and blessings be upon him) during the last Tashahhud in prayer.\r",
+    "The Prophet (may Allah's peace and blessings be upon him) taught his Companions how to greet him and invoke Allah's blessings upon him.\r",
+    "This is the most perfect form of invoking Allah's blessings upon the Prophet (may Allah's peace and blessings be upon him)."
+   ],
+   "mapping": "same HadeethEnc record id 5377; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:32+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/5377",
+   "text": "‘Abdur-Rahmān ibn Abi Layla reported: I came across Ka‘b ibn ‘Ujrah who said: Shall I offer you a present? The Prophet (may Allah's peace and blessings be upon him) came out to us, and we said: O Messenger of Allah, we have learned how to greet you, but how should we invoke the blessings of Allah upon you? He said: \"Say: Allāhumma salli ‘ala Muhammad wa ‘ala āli Muhammad kama sallayta ‘ala āli Ibrāhīm innaka hamīdun majīd. Allāhumma bārik' ala Muhammad wa' ala āli Muhammad kama bārakta' ala āli Ibrāhīm innaka hamīdun majīd (O Allah, bestow Your grace upon Muhammad and the family of Muhammad just as You bestowed Your grace upon the family of Abraham. Verily, You are Praiseworthy, All-Glorious. O Allah, bless Muhammad and the family of Muhammad just as You blessed the family of Abraham. Verily, You are Praiseworthy, All-Glorious).\"",
+   "title": "The Prophet (may Allah's peace and blessings be upon him) came out to us, and we said: O Messenger of Allah, we have learned how to greet you, but how should we invoke the blessings of Allah upon you?",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=5377",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:61f63baa98950fd80e373c6e4349200c65a6040f197c7cdca1aa538083ccd325",
+   "explanation": "Les Compagnons (qu'Allah les agrée) ont demandé au Prophète ﷺ la façon de prier sur lui après avoir appris la façon de le saluer dans les salutations finales : \" Que la paix soit sur toi ô Prophète ainsi que la miséricorde d'Allah et Sa bénédiction... \" ? Alors, le Prophète ﷺ les a informés sur la façon de prier sur lui et sa signification : \" Ô Allah ! Prie sur Muhammad et sur la famille de Muhammad... \" C'est-à-dire : dresse son éloge par une belle mention auprès de la Haute Assemblée [des Anges] ainsi que ses adeptes dans sa religion et les croyants parmi ses proches. \" ... comme Tu as prié sur Ibrâhîm et sur la famille d'Ibrahîm. \" Tout comme Tu as préféré Ibrâhîm et la famille d'Ibrâhîm (paix sur lui) qui désigne : Abraham, Ismaël, Isaac, leur descendance et leurs adeptes croyants. Ainsi, accorde aussi Ta grâce à Muhammad ﷺ. \" Certes, Tu es Digne de louanges, Majestueux. \" C'est-à-dire : celui qui est loué dans Son essence, Ses attributs et Ses actes. Le Vaste dans Sa grandeur, Son pouvoir et Son don. \" Ô Allah ! Bénis Muhammad et la famille de Muhammad, comme Tu as béni Ibrâhîm et la famille d'Ibrâhîm. \" C'est-à-dire : donne-lui le bien et l'honneur, immensifie-le, ajoute-lui et affermis-le.",
+   "grade": "Authentique",
+   "hints": [
+    "Les Prédécesseurs faisaient des sujets de science des cadeaux.\r",
+    "L'obligation de la prière sur le Prophète ﷺ dans le Tachahoud final de la prière.\r",
+    "Le Prophète ﷺ a enseigné à ses Compagnons le salut et la prière sur lui.\r",
+    "Cette formulation est la plus complète des formulations dans la prière sur le Prophète ﷺ."
+   ],
+   "mapping": "same HadeethEnc record id 5377; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:32+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/5377",
+   "text": "D'après 'Abd ar-Rahmân ibn Abî Laylâ qui a dit :  Ka’b ibn ‘Ujrah me rencontra et me demanda : « Ne t’offrirais-je pas un cadeau ? Certes, un jour, le Prophète ﷺ vint nous voir et nous lui demandâmes : \" Ô Messager d'Allah ! Il nous a été enseigné comment te saluer, mais comment devons-nous prier sur toi ?  \" Il a répondu : \" Dites : Ô Allah ! Prie sur Muhammad et sur la famille de Muhammad, comme Tu as prié sur Ibrâhîm et sur la famille d'Ibrahîm. Certes, Tu es Digne de louanges, Majestueux. Ô Allah ! Bénis Muhammad et la famille de Muhammad, comme Tu as béni Ibrâhîm et la famille d'Ibrâhîm. Certes, Tu es Digne de louanges, Majestueux. »",
+   "title": "Certes, un jour, le Prophète ﷺ vint nous voir et nous lui demandâmes : \" Ô Messager d'Allah ! Il nous a été enseigné comment te saluer, mais comment devons-nous prier sur toi ?",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=5377",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:aa54286deab9cf99189cf0e25c37f5dd9c91c3aedd5a3a7c8cd449dcdf82c0ed",
+   "explanation": "Para sahabat bertanya kepada Nabi ﷺ tentang tata cara berselawat kepada beliau, setelah mereka mengetahui cara mengucapkan salam kepada beliau di saat tahiyat salat, yaitu: as-salāmu 'alaika ayyuhan-nabiyyu waraḥmatullāhi wabarakātuh ...?\" Maka Nabi ﷺ mengabari mereka cara berselawat kepada beliau, penjelasan maknanya sebagai berikut: Allāhumma ṣalli 'alā muḥammad wa 'alā āli muḥammad; yakni: pujilah Muhammad dengan penyebutan yang indah di hadapan para malaikat tertinggi, juga pengikut beliau dalam agama, serta orang-orang beriman dari kerabat beliau. Kamā ṣallaita 'alā āli ibrāhīm; yakni: sebagaimana Engkau telah memberikannya pada keluarga Ibrahim -'alaihissalām-, yaitu Ibrahim, Ismail, Ishaq, dan keluarga mereka serta pengikut-pengikut mereka yang beriman, maka berilah karunia-Mu kepada Muhammad ﷺ juga. Innaka ḥamīdun majīd; artinya: Engkau yang terpuji pada zat, sifat, dan perbuatan-perbuatan-Mu; yang luas dalam keagungan, kekuasaan, dan pemberian-Mu. Allāhumma bārik 'alā muḥammad wa 'alā āli muḥammad kamā bārakta 'alā āli ibrāhīm; yakni: berilah ia kebaikan dan kemuliaan yang terbesar, serta tambahkanlah dan tetapkanlah.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Kalangan salaf biasa saling memberi hadiah berupa permasalahan-permasalahan ilmiah.\r",
+    "2- Kewajiban berselawat kepada Nabi ﷺ pada tasyahud akhir salat.\r",
+    "3- Nabi ﷺ mengajari sahabatnya lafaz salam dan selawat kepada beliau.\r",
+    "4- Lafaz ini adalah lafaz selawat kepada Nabi ﷺ yang paling sempurna."
+   ],
+   "mapping": "same HadeethEnc record id 5377; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:32+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/5377",
+   "text": "Abdurrahman bin Abu Lailā meriwayatkan, ia berkata, \"Aku bertemu dengan Ka'ab bin 'Ujrah, dia berkata, \"Maukah engkau kuberi sebuah hadiah?\" \"Nabi ﷺ keluar menemui kami. Kami bertanya, 'Wahai Rasulullah, kami sudah tahu bagaimana mengucapkan salam kepadamu, lalu bagaimana kami berselawat?' Beliau bersabda, 'Ucapkanlah: Allāhumma ṣalli 'alā muḥammad, wa 'alā āli muḥammad, kamā ṣallaita 'alā āli ibrāhīm, innaka ḥamīdun majīd. Allāhumma bārik 'alā muḥammad, wa 'alā āli muḥammad, kamā bārakta 'alā āli ibrāhīm, innaka ḥamīdun majīd. (Ya Allah! berikanlah selawat kepada Muhammad dan kepada keluarga Muhammad, sebagaimana Engkau memberikan selawat kepada keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji lagi Mahamulia. Ya Allah! berikanlah keberkahan kepada Muhammad dan kepada keluarga Muhammad, sebagaimana Engkau memberikan keberkahan kepada keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji lagi Mahamulia)'.\"",
+   "title": "Nabi ﷺ keluar menemui kami. Kami bertanya, 'Wahai Rasulullah, kami sudah tahu bagaimana mengucapkan salam kepadamu, lalu bagaimana kami berselawat?'",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=5377",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:b40c5fcd8163d822c1f306ad84a9a76887b7d0f1219284a39024b9cf31469124",
+   "explanation": "صحابہ رضی اللہ عنہم کو جب پتہ ہو گیا کہ التحیات میں \"السلام عليك أيها النبي ورحمة الله وبركاته...\" کہہ کر آپ پر سلام بھیجا جائے گا، تو آپ سے پوچھا کہ آپ پر درود کیسے بھیجا جائے؟ جواب میں اللہ کے نبی صلی اللہ علیہ و سلم نے ان کو آپ پر درود بھیجنے کا طریقہ بتا دیا، جو کچھ اس طرح ہے : \"اللهم صلِّ على محمدٍ وعلى آل محمد\" یعنی: اے اللہ! مقرب فرشتوں کے سامنے محمد صلی اللہ علیہ و سلم، آپ کے دین کے پیروکاروں اور آپ کے اہل ایمان رشتے داروں کی ذکر جمیل کے ذریعے تعریف کر۔ \"كما صلَّيتَ على آل إبراهيم\" جس طرح آل ابراہیم یعنی ابراہیم، اسماعیل، اسحاق اور ان کی مومن اولاد و متبعین کو تونے یہ اعزاز بخشا ہے، اسی طرح محمد صلی اللہ علیہ و سلم کو بھی اس اعزاز سے سرفراز فرما۔ \"إنك حميد مجيد\" یعنی تو اپنی ذات، صفات اور افعال میں قابل تعریف اور بے پناہ عظمتوں، بلند شان و شوکت اور بیش بہا نوازشوں والا ہے۔ \"اللهم بارك على محمدٍ وعلى آل محمد كما باركتَ على آل إبراهيم\" یعنی آپ کو بڑی خیر و عزت عطا فرما، اس میں اضافہ فرما اور اسے قائم و دائم رکھ۔",
+   "grade": "صحيح",
+   "hints": [
+    "سلف ایک دوسرے کو علمی مسائل کا ہدیہ پیش کیا کرتے تھے۔\r",
+    "نماز کے آخری تشہد میں اللہ کے نبی صلی اللہ علیہ و سلم پر درود بھیجنا واجب ہے۔\r",
+    "اللہ کے نبی صلی اللہ علیہ وسلم نے اپنے صحابہ کو درود وسلام بھیجنے کی تعلیم دی۔\r",
+    "اللہ کے نبی صلی اللہ علیہ و سلم پر درود بھیجنے کے یہ کلمات کامل ترین کلمات ہیں۔"
+   ],
+   "mapping": "same HadeethEnc record id 5377; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:32+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/5377",
+   "text": "عبد الرحمن بن ابی لیلیٰ رضی اللہ عنہ فرماتے ہیں کہ کعب بن عجرہ رضی اللہ عنہ مجھ سے ملے اور کہا کہ کیا میں تمھیں ایک تحفہ نہ دوں؟ اللہ کے نبی صلی اللہ علیہ و سلم ہمارے پاس آئے تو ہم نے عرض کیا : اے اللہ کے رسول! ہم یہ تو جان گئے ہیں کہ ہم آپ پر سلام کیسے بھیجیں، لیکن (یہ نہيں معلوم کہ) ہم آپ پر درود کیسے بھیجیں؟ آپ نے فرمایا : \"تم کہو : اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ\"۔ (اے اللہ ! محمد (ﷺ) پر اپنی رحمت نازل کر اور آل محمد (ﷺ)پر، جیسا کہ تو نے آل ابراہیم پر رحمت نازل کی ہے۔ بلاشبہ تو تعریف کیا ہوا اور پاک ہے۔ اے اللہ ! محمد (ﷺ) پر اور آل محمد (ﷺ) پر برکت نازل کر، جیسا کہ تو نے آل ابراہیم پر برکت نازل کی ہے۔ بلاشبہ تو تعریف کیا ہوا اور پاک ہے۔)",
+   "title": "اللہ کے نبی صلی اللہ علیہ و سلم ہمارے پاس آئے تو ہم نے عرض کیا : اے اللہ کے رسول! ہم یہ تو جان گئے ہیں کہ ہم آپ پر سلام کیسے بھیجیں، لیکن (یہ نہيں معلوم کہ) ہم آپ پر درود کیسے بھیجیں؟",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=5377",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:7da844249a8363ab9e3a1b65a0e52d71cd380167c4048532a772259d98f74c42",
+   "explanation": "圣门弟子们向先知（愿主福安之）询问如何祝福他，这是在他们已经知道如何祝安他以后，即中坐的祝贺词：“先知啊！愿安拉的平安、疼慈和吉庆降临你......” 先知（愿主福安之）告诉他们如何祝福他，其意义为： “主啊！求你祝福穆罕默德，以及穆罕默德的家人。” 意为：祈求你在天堂中用美好的言语赞誉他，以及在他的宗教中的追随者，和他的亲人当中的众信士。 “正如你曾祝福伊布拉欣的家人一般。” 正如你曾使伊布拉欣的家人优越一般，他们是：伊布拉欣、伊斯玛仪、伊斯哈格以及他们的后裔和追随他们的信士。那么求你也赐予穆罕默德你的恩惠吧！ “你确是可赞的主，荣耀的主。” 意为：你的本体、属性和你的行为都是受到赞颂的，你的崇高、权柄和赏赐是宽宏的。 “主啊！求你给穆罕默德及他的家人降下吉庆，正如你曾给伊布拉欣的家人降下吉庆一般。” 意为：祈求你赏赐他福分和尊贵，祈求你对他有所增加，并使之稳固。",
+   "grade": "正确的",
+   "hints": [
+    "先贤们曾将学术问题相互馈赠。\r",
+    "在礼拜的尾坐中务必祝福先知（愿主福安之）。\r",
+    "先知（愿主福安之）教导他的弟子们如何向他祝福和祝安。\r",
+    "这种形式是祝福先知（愿主福安之）的最完美的形式。"
+   ],
+   "mapping": "same HadeethEnc record id 5377; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:32+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/5377",
+   "text": "阿卜杜·拉合曼·本·艾布·莱伊俩传述，他说：克尔布·本·欧哲拉与我相见，他说：我可否送你一件礼物？ 先知（愿主福安之） 来到了我们这里，我们说：安拉的使者啊！我们已经知道了如何向你祝安，那么我们如何向你祝福呢？他说：“你们说：主啊！求你祝福穆罕默德，以及穆罕默德的家人，正如你曾祝福伊布拉欣的家人一般。你确是可赞的主，荣耀的主；主啊！求你给穆罕默德及他的家人降下吉庆，正如你曾给伊布拉欣的家人降下吉庆一般。你确是可赞的主，荣耀的主。”",
+   "title": "先知（愿主福安之） 来到了我们这里，我们说：安拉的使者啊！我们已经知道了如何向你祝安，那么我们如何向你祝福呢？",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

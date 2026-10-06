@@ -1,0 +1,155 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:00d222a73e5c7050e606563e42374759709765240f365edde5c9387e74f50284",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "تخبر عائشة رضي الله عنها أن النبي صلى الله عليه وسلم توفي وما في بيتها إلا شطر شعير، ومعناه: شيء من شعير، كما فسره الترمذي، فظلت تأكل من الشعير الذي تركه صلى الله عليه وسلم زمنًا، فلما وزنته نفد، وهذا دليل على استمرار بركته صلى الله عليه وسلم في ذلك الطعام القليل، مع عدم الكيل الدال على التوكل، فالكيل عند المبايعة مطلوب من أجل تعلق حق المتابعين، أما الكيل عند الإنفاق فغير مستحب.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "إعراض النبي -صلى الله عليه وسلم- عن الدنيا وقد دانت له الجزيرة العربية، ومع ذلك فلم يكن في بيت أحب الناس إليه إلا هذا الشيء اليسير من الشعير.",
+  "استحباب الاقتصاد في النفقة.",
+  "من رزقه الله شيئًا، أو أكرمه بكرامة، أو لطف به في أمر، فعليه أن يشكر الله -تعالى-.",
+  "الكيل عند المبايعة مطلوب من أجل تعلق حق المتابعين، أما الكيل عند الإنفاق فغير مستحب؛ لأن الباعث عليه الشح، وقد فني الشعير بعد كيله؛ لأن كيله مناف للتسليم."
+ ],
+ "id": "hadeethenc-4239",
+ "language": "ar",
+ "narrator": null,
+ "reference": "كنوز رياض الصالحين، أ.د. حمد بن ناصر بن عبد الرحمن العمار، دار كنوز إشبيليا، الطبعة الأولى: 1430 هـ.\nبهجة الناظرين، الشيخ: سليم بن عيد الهلالي، دار ابن الجوزي.\nنزهة المتقين، د. مصطفى سعيد الخن، د. مصطفى البغا، محيي الدين مستو، علي الشرجبي، محمد أمين لطفي، مؤسسة الرسالة، بيروت، الطبعة الأولى: 1397 هـ 1977 م، الطبعة الرابعة عشرة 1407 هـ 1987م.\nشرح صحيح البخاري لابن بطال، المؤلف: ابن بطال أبو الحسن علي بن خلف بن عبد الملك، تحقيق: أبو تميم ياسر بن إبراهيم، دار النشر: مكتبة الرشد - السعودية، الرياض، الطبعة: الثانية، 1423هـ - 2003م.\nرياض الصالحين، د. ماهر بن ياسين الفحل، الناشر: دار ابن كثير للطباعة والنشر والتوزيع، دمشق - بيروت، الطبعة: الأولى، 1428 هـ - 2007 م.\nصحيح مسلم، المؤلف: مسلم بن الحجاج القشيري النيسابوري، المحقق: محمد فؤاد عبد الباقي، الناشر: دار إحياء التراث العربي - بيروت.\nصحيح البخاري، المؤلف: محمد بن إسماعيل أبو عبدالله البخاري الجعفي، المحقق: محمد زهير بن ناصر الناصر، الناشر: دار طوق النجاة (مصورة عن السلطانية بإضافة ترقيم محمد فؤاد عبد الباقي)، الطبعة: الأولى، 1422هـ.\nالمنهاج شرح صحيح مسلم بن الحجاج، المؤلف: أبو زكريا محيي الدين يحيى بن شرف النووي، الناشر: دار إحياء التراث العربي - بيروت، الطبعة: الثانية، 1392.",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=4239",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:30+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/4239"
+ },
+ "source_categories": [
+  {
+   "id": "81",
+   "label": "نبينا محمد صلى الله عليه وسلم"
+  },
+  {
+   "id": "392",
+   "label": "زوجاته صلى الله عليه وسلم وأحوال بيت النبوة"
+  }
+ ],
+ "source_record_id": "4239",
+ "text": "عن عائشة رضي الله عنها قالت: تُوُفِّيَ رسول الله صلى الله عليه وسلم وما في بيتي من شيء يَأكُلُهُ ذُو كَبدٍ إلا شَطْرُ شَعير في رَفٍّ لي، فأكَلتُ منه حتى طال عليَّ، فَكِلْتُهُ فَفَنِيَ.",
+ "title": "توفي رسول الله صلى الله عليه وسلم وما في بَيْتِي من شيء يأكُلُه ذُو كَبدٍ إلا شَطْرُ شعير في رَفٍّ لي، فأكَلتُ منه حتى طال عليَّ، فَكِلْتُهُ فَفَنِيَ",
+ "topic": "understanding_islam",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=4239",
+   "arabic_match": "exact",
+   "attribution": "মুত্তাফাকুন ‘আলাইহি (বুখারী ও মুসলিম)।",
+   "content_sha256": "sha256:230388ac87fd14d1dfd8dcca25c861c7642eed8e45c576c747b7208993ad9761",
+   "explanation": "আয়েশা রাদিয়াল্লাহু ‘আনহা জানান যে, ‘রাসূলল্লাহ সাল্লাল্লাহ আলাইহি ওয়াসাল্লাম ইন্তেকাল করলেন, অথচ তার ঘরে সামান্য যব ছাড়া আর কিছুই ছিল না। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যে যব রেখে গিয়েছেন তা থেকে বেশ কিছুদিন সে খেতে থাকল, কিন্তু যখন তা ওজন করল, শেষ হয়ে গেল।",
+   "grade": "সহীহ",
+   "hints": [],
+   "mapping": "same HadeethEnc record id 4239; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:08+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/4239",
+   "text": "আয়েশা রাদিয়াল্লাহু ‘আনহা থেকে মারফু হিসেবে বর্ণিত, “রাসূলল্লাহ সাল্লাল্লাহ আলাইহি ওয়াসাল্লাম এমন অবস্থায় মারা গেলেন যে, একটা প্রাণীর খেয়ে বাঁচার মত কিছু খাদ্য আমার ঘরে ছিল না, তবে আমার তাকের মধ্যে যৎসামান্য যব ছিল। এ থেকে বেশ কিছুদিন খেলাম, কিন্তু যখন মেপে নিলাম তখন তা শেষ হয়ে গেল।’",
+   "title": "রাসূলল্লাহ সাল্লাল্লাহ আলাইহি ওয়াসাল্লাম এমন অবস্থায় মারা গেলেন যে, তখন একটা প্রাণীর খেয়ে বাঁচার মতো কিছু খাদ্য আমার ঘরে ছিল না, তবে আমার তাকের মধ্যে যৎসামান্য যব ছিল। এ থেকে বেশ কিছুদিন আমি খেলাম। কিন্তু যখন একদিন মেপে নিলাম, ফলে তা শেষ হয়ে গেল।’",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=4239",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Bukhari & Muslim",
+   "content_sha256": "sha256:1fdb4f10cab572c8d34f5b71565ae98cac770ddc66d66446d53bd2492b39cc1f",
+   "explanation": "‘Ā’ishah (may Allah be pleased with her) informs in this Hadīth that the Prophet (may Allah's peace and blessings be upon him) died when her house was void of any edible thing except for a small quantity of barley she had on a shelf and from which she kept eating for a long time. Then when she measured what was left of it, it soon finished, which points to the Prophet's continued blessing in that small amount of food so long as it was not measured, a sign of reliance on Allah. Weighing things in buying and selling is required for the rights of people involved. But it is not recommended to measure your things as you spend or use them.",
+   "grade": "Authentic hadith",
+   "hints": [],
+   "mapping": "same HadeethEnc record id 4239; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:07+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/4239",
+   "text": "‘Ā’ishah (may Allah be pleased with her) reported: The Messenger of Allah (may Allah's peace and blessings be upon him) died when my house was void of any edible thing except for a small quantity of barley I had on a shelf and from which I kept eating it for a long time. Then when I measured what was left of it, it soon finished.",
+   "title": "The Messenger of Allah (may Allah's peace and blessings be upon him) died when my house was void of any edible thing except for a small quantity of barley I had on a shelf and from which I kept eating it for a long time. Then when I measured what was left of it, it soon finished",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=4239",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al-Bukhârî et Muslim",
+   "content_sha256": "sha256:7146be39f74c4c73f4f399ff23fd98bb43916c22bf6f31328f8a5135460e9cfa",
+   "explanation": "ليترجم",
+   "grade": "Authentique",
+   "hints": [],
+   "mapping": "same HadeethEnc record id 4239; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:08+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/4239",
+   "text": "ʽÂ‘ishah (qu’Allah l’agrée) relate : « Le Messager d’Allah (sur lui la paix et le salut) mourut alors que sur mon étagère il n’y avait rien qui puisse être consommé par un être vivant, si ce n’est un peu d’orge sur une étagère. J’en mangeais au point de commencer à trouver le temps long. Puis je l’ai pesé, et il s’épuisa. »",
+   "title": "Le Messager d’Allah (sur lui la paix et le salut) mourut alors que sur mon étagère il n’y avait rien qui puisse être consommé par un être vivant, si ce n’est un peu d’orge sur une étagère. J’en mangeais au point de commencer à trouver le temps long. Puis je l’ai pesé, et il s’épuisa.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=4239",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:3232c06a03f5722d9c97a4b3df302801132d989565abbdc01998ee5a00d4434e",
+   "explanation": "Aisyah -raḍiyallāhu 'anhumā- mengabarkan bahwa Nabi -ṣallallāhu 'alaihi wa sallam- wafat sedangkan di rumahnya tidak ada sesuatu pun selain sedikit gandum. Dia senantiasa memakan gandum yang ditinggalkan Nabi -ṣallallāhu 'alaihi wa sallam- tersebut beberapa waktu. Ketika dia menimbangnya (untuk dibagikan), gandum itupun habis. Ini menunjukkan keberlanjutan keberkahan Nabi -ṣallallāhu 'alaihi wa sallam-di makanan yang sedikti tersebut tanpa perlu ditakar yang menunjukkan tawakal yang penuh kepada Allah. Takaran dibutuhkan untuk jugal beli, karena terkait dengan hak orang lain. Adapun takaran untuk beriinfak, maka tidak dianjurkan.",
+   "grade": "Hadis sahih",
+   "hints": [],
+   "mapping": "same HadeethEnc record id 4239; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:08+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/4239",
+   "text": "Dari Aisyah -raḍiyallāhu 'anhumā- dia berkata, \"Rasulullah -ṣallallāhu 'alaihi wa sallam- wafat sedangkan di rumahku tidak ada sesuatu yang dapat dimakan oleh makhluk hidup kecuali sedikit gandum di rak ku. Maka akupun memakannya dalam waktu cukup lama. Lalu aku menimbangnya (untuk disedekahkan), sampai habis.",
+   "title": "Rasulullah -ṣallallāhu 'alaihi wa sallam- wafat sedangkan di rumahku tidak ada sesuatu yang dapat dimakan oleh makhluk hidup kecuali sedikit gandum di rak ku. Maka akupun memakannya dalam waktu cukup lama. Lalu aku menimbangnya (untuk disedekahkan), sampai habis.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=4239",
+   "arabic_match": "exact",
+   "attribution": "متفق علیہ",
+   "content_sha256": "sha256:ef1b5e3469cff205c1f61cb8812dd5267b1dabc4b79088e9d85d3b67816dd882",
+   "explanation": "عائشہ رضی اللہ عنہا بتا رہی ہیں کہ نبی ﷺ کی جب وفات ہوئی، تو ان کے گھر میں تھوڑے سے جَو کے علاوہ اور کچھ بھی نہیں تھا۔ ”شَطْرُ شَعيرٍ“ کے معنی تھوڑے سے جَو کے ہیں، جیسا کہ امام ترمذی نے بیان کیا ہے۔ عائشہ رضی اللہ عنہا ایک مدت تک اسی جو کو کھاتی رہیں جو نبی ﷺ چھوڑ کر گئے تھے۔ جب انہوں نے اسے وزن کر لیا تو وہ ختم ہو گیا۔ یہ اس بات کی دلیل ہے کہ اس تھوڑے سے اناج میں آپﷺ کی برکت شامل رہی، لیکن اسے وزن کیے بغیر، جو کہ توکل پر دلالت کرتا ہے۔ خرید وفروخت کے وقت وزن کرنا مطلوب ہے اس لے کہ بیچنے اور خریدنے والے کے حقوق اس سے وابستہ ہیں، البتہ خرچ کرتے وقت وزن (حساب) کرنا مستحب نہیں ہے۔",
+   "grade": "صحیح",
+   "hints": [],
+   "mapping": "same HadeethEnc record id 4239; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:07+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/4239",
+   "text": "عائشہ رضی اللہ عنہا سے روایت ہے، وہ بیان کرتی ہیں کہ جب رسول اللہ ﷺ کی وفات ہوئی، تو میرے گھر میں تھوڑے سےجَو کے سوا جو ایک طاق میں رکھا ہوا تھا اور کوئی چیز ایسی نہیں تھی جو کسی جگر والے (جاندار) کی خوراک بن سکتی۔ میں اسی میں سے کھاتی رہی، یہاں تک کہ کافی عرصہ گزر گیا۔ پھر میں نے اسے ناپا تو وہ ختم ہو گیا۔",
+   "title": "جب رسول اللہ ﷺ کی وفات ہوئی، تو میرے گھر میں تھوڑے سے جَو کے سوا جو ایک طاق میں رکھا ہوا تھا اور کوئی چیز ایسی نہیں تھی، جو کسی جگر والے (جاندار) کی خوراک بن سکتی۔ میں اسی میں سے کھاتی رہی، یہاں تک کہ کافی عرصہ گزر گیا۔ پھر میں نےاسے ناپا تو وہ ختم ہو گیا۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [
+  {
+   "meaning": " شمل جميع الحيوان، وعبر بالكبد عن الحياة؛ لأنه من الأعضاء الرئيسية في الجسم.",
+   "word": "ذُو كَبدٍ"
+  },
+  {
+   "meaning": " شيء من شعير، والشطر يطلق على النصف وما قاربه وليس مرادًا هنا.",
+   "word": "شَطْرُ شَعير"
+  },
+  {
+   "meaning": " خشبٌ يُرفع عن الأرض يوضع فيه ما يراد حفظه، أو شبه طاق في الحائط، والأخير أقرب إلى المراد.",
+   "word": "الرَّفُّ"
+  },
+  {
+   "meaning": " أخذت منه بالكيل والمقدار.",
+   "word": "كِلْتُهُ"
+  },
+  {
+   "meaning": " فرَغَ ونَفَد.",
+   "word": "فَنِيَ"
+  }
+ ],
+ "words_meanings_language": "ar"
+}

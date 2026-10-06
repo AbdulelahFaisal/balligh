@@ -1,0 +1,126 @@
+{
+  "stations": "课程环节",
+  "done": "已完成",
+  "notYet": "尚未完成",
+  "markRead": "我已读完卡片",
+  "nextTerms": "下一步：理解术语",
+  "nextQuestion": "下一步：理解题",
+  "termsNone": "本课没有术语。",
+  "termsHelp": "展开术语以查看其含义和来源。",
+  "termsCount": "已展开 {{opened}}/{{total}} 个术语。",
+  "summaryTitle": "您在本课的进度",
+  "summary": {
+    "read": "已标记为读完",
+    "notRead": "尚未标记为读完",
+    "solved": "已答对",
+    "tried": "已尝试，尚未答对",
+    "notAnswered": "尚未作答"
+  },
+  "complete": "您已完成本课的三个环节。",
+  "completedCount": "已完成 {{done}}/3 个环节",
+  "revisit": "重新查看：{{station}}",
+  "localNote": "进度只记录您在此浏览器中的操作：标记阅读、展开术语和您的答案。它不是成绩，也不衡量学习效果，且不包含在导出的文件中。",
+  "reset": "重置我的进度",
+  "resetFailed": "无法从此浏览器删除进度记录。此页面上的进度已重置。",
+  "storage": {
+    "saved": "进度仅保存在此浏览器中。",
+    "unavailable": "此浏览器不允许应用保存进度。进度仅在此页面打开期间保留。",
+    "corrupt": "无法读取此浏览器中保存的进度，已原样保留。在您重置之前，进度仅在此页面打开期间保留。",
+    "write_failed": "无法在此浏览器中保存进度。进度仅在此页面打开期间保留。"
+  },
+  "reviewNoticeAck": "由 {{label}} 在本地确认。这是自我声明的确认，不是经过验证的身份，也不是学术审查。",
+  "reviewNoticeDraft": "技术预览：尚无人确认此版本。请用于检查课程，而不是用于教学。",
+  "nav": {
+    "learn": "学习",
+    "library": "文库",
+    "prepare": "备课",
+    "sources": "来源与限制",
+    "teacherSteps": "备课步骤"
+  },
+  "home": {
+    "title": "通过可识别的来源理解伊斯兰",
+    "body": "在有已出版译本的情况下，用您的语言阅读已出版的来源；并把合适的来源整理成简短课程，由教师审阅后再分享。",
+    "learnTitle": "学习",
+    "learnBody": "从一组精心挑选的简短入门读物开始，或从上次停下的地方继续。",
+    "learnCta": "开始学习",
+    "libraryTitle": "文库",
+    "libraryBody": "附有署名出版译本的《古兰经》、阿拉伯语问答集，以及附出版方讲解的圣训。",
+    "libraryCta": "打开文库",
+    "prepareTitle": "备课",
+    "prepareBody": "面向教师：选择已登记的来源，对照来源审阅草稿，然后预览并下载。",
+    "prepareCta": "备课"
+  },
+  "coverage": "界面提供 7 种语言；内容覆盖各不相同：问答仅为阿拉伯语出版记录，圣训译本因条目而异，《古兰经》释义来自六个署名的出版版本。",
+  "kinds": "已出版译本来自其署名出版方。AI 草稿是未经审阅的生成文本。本地确认仅记录本设备上的备课者已将草稿与来源对照。",
+  "page": {
+    "title": "开始学习",
+    "intro": "从文库中精选的一小组入门步骤：两章简短的章节、几篇清楚的已出版解答和圣训。每一步都会打开完整来源。",
+    "start": "从第 1 步开始",
+    "noQuiz": "阅读无需测验。保存的位置只表示您停在哪里，不代表您理解了多少。",
+    "continueLabel": "继续阅读",
+    "continue": "从上次停下的地方继续",
+    "continueStale": "您保存的位置已与当前来源不符，因此不再提供。",
+    "loading": "正在加载入门步骤…",
+    "error": "无法加载入门步骤。",
+    "stepsTitle": "入门步骤",
+    "basis": "基于模型辅助的全文审阅而定的编辑性阅读顺序。它不是课程大纲，也不是学者认可。"
+  },
+  "levels": {
+    "foundation": "基础",
+    "practical_beginner": "实践第一步"
+  },
+  "collections": {
+    "quran": "古兰经",
+    "fatwa": "问答",
+    "hadith": "圣训"
+  },
+  "topics": {
+    "opening_prayer": "开端章：每次礼拜都诵读的章节",
+    "what_islam_means": "伊斯兰的含义",
+    "testimonies": "两句作证词的含义",
+    "oneness": "真主的独一",
+    "pillars": "伊斯兰的基柱",
+    "wudu_steps": "小净分步说明",
+    "missed_prayer_sleep": "睡过晨礼",
+    "obligations_first": "先主命，后副功",
+    "good_conduct": "良好品行",
+    "names_after_islam": "入教后的名字"
+  },
+  "cautions": {
+    "obligation_vs_preference": "该解答区分了必须做的与仅为可嘉的事项。"
+  },
+  "languages": "可用语言：{{languages}}",
+  "arabicOnly": "仅阿拉伯语（已出版来源）",
+  "step": "入门步骤第 {{n}} 步，共 {{total}} 步",
+  "next": "下一步：{{topic}}",
+  "back": "全部入门步骤",
+  "teacher": {
+    "badge": {
+      "teacher_context": "教师语境",
+      "advanced_reference": "进阶参考",
+      "adult_situational_reference": "成人特定情境参考",
+      "family_specific": "特定家庭情形"
+    },
+    "notice": "作为参考完整保留。编辑审阅将其归入教师指导阅读，而非入门自学。",
+    "reasonLabel": "审阅说明（英文）"
+  },
+  "prepare": {
+    "body": "此记录已登记为可用于备课的完整来源。",
+    "cta": "备课",
+    "none": "此记录不可用于备课；只有已登记的完整来源才能备课。"
+  },
+  "stepsDone": "您已完成全部入门步骤。",
+  "readingStorage": {
+    "malformed": "无法读取已保存的阅读位置。该数据保持原样，不会被使用。",
+    "unavailable": "此浏览器未保存您的阅读位置；仅在此页面保持打开时保留。",
+    "write_failed": "无法保存您的阅读位置；仅在此页面保持打开时保留。"
+  },
+  "readingPlace": {
+    "save": "在此保存我的阅读位置",
+    "saved": "已保存你在此处的位置。",
+    "savedSession": "位置仅在此页面保持打开期间保留。",
+    "invalid": "无法保存此位置。",
+    "missing": "在此文本中找不到已保存的位置，因此页面从开头打开。",
+    "stale": "你保存的位置已与此版本的文本不符，因此页面从开头打开。"
+  }
+}

@@ -1,0 +1,60 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-10741",
+ "source_content_sha256": "sha256:ab489899ab50e70528b0185e42af0fccee060c119715bea587089f48baad2875",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:29:03.268263+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 915,
+  "completion_tokens": 758,
+  "total_tokens": 1673,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 915
+ },
+ "latency_ms": 6233,
+ "units": [
+  {
+   "id": "title",
+   "text": "What are the implications of: There is no god but Allah?"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "The questioner asks: What are the implications of: There is no god but Allah?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "This phrase is the greatest phrase, and it is the word of tawhid (monotheism). A servant does not enter Islam except by actualizing it and believing in it, and that there is no true deity worthy of worship except Allah. It is the first word to which the messengers called; the first word to which the messengers call is this phrase: There is no god but Allah. Allah the Exalted said: ⟦Q1⟧ [Al-Anbiya:25] And He, Glorified be He, said: ⟦Q2⟧ [An-Nahl:36] And when Allah sent our Prophet Muhammad ﷺ, the first word to which he called was: There is no god but Allah, along with belief in him and that he is the Messenger of Allah. It implies dedicating worship purely to Allah alone, and believing that He is the One truly worshipped, and that He is the Lord of the worlds, and that He is the Creator, the All-Knowing, and that He alone deserves to be worshipped and His command obeyed. It also implies that the servant believes that Allah is his Creator, and that He has prepared for him Paradise and Hellfire, and that he will inevitably meet his Lord, so it will be either Paradise or Hellfire."
+  },
+  {
+   "id": "a2",
+   "text": "This phrase is the foundation of the religion, the basis of the millah (way of life), and it is the firm handhold. It is essential to believe in it and to hold its meaning with conviction, that there is no true deity worthy of worship except Allah. This belief necessitates obeying the commands and abandoning the prohibitions, obedience... to Allah, the Truth, in whom you have believed as your true deity. It implies that you fulfill His right by worshipping Him with your prayer, your fasting, your zakah (obligatory almsgiving), your Hajj, your fasting, and other than that. The meaning of ta'alluh is worship. The meaning of 'There is no god but Allah' is: there is no true object of worship except Allah, meaning: there is no true deity worthy of worship except Allah."
+  },
+  {
+   "id": "a3",
+   "text": "So it is obligatory upon you to worship Him and devote your acts of worship to Him with your prayer, your fasting, your zakah, your Hajj, your jihad, and all your acts of worship, dedicating them to the Lord  and worshipping Him alone, hoping for His reward and fearing His punishment ."
+  },
+  {
+   "id": "a4",
+   "text": "Likewise, among its implications is that you believe in what Allah has forbidden you of shirk (associating partners with Him) and sins, and that you keep away from that and beware of it, yes."
+  },
+  {
+   "id": "a5",
+   "text": "Presenter: May Allah reward you well."
+  }
+ ]
+}

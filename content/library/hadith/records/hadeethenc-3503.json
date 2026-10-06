@@ -1,0 +1,161 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:1448a0685236239f14ee5adde554207b72025559d2f5d5a2276536298a474361",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "أَخْبَرَ النبيُّ صلى الله عليه وسلم أنَّ الله أعطاه خمسَ خصالٍ لم يُعْطَهُنَّ أحدٌ مِن الأنبياء قبله: \n\nأولًا: نُصِرْتُ بالرُّعْب يُقذَف في قُلوب أعدائي ولو كان بيني وبينهم مَسِيْرَة شهر. \n\nثانيًا: جُعِلَت لنا الأرضُ مسجدًا نُصلِّي أينَما كُنَّا، وطَهُورًا بالتُّراب عند العَجْز عن الماء. \n\nثالثًا: أُحِلَّتْ لنا غَنائمُ الحَرْب، وهي التي يأخذُها المسلمون في حربِهم مع الكفار. \n\nرابعًا: أُعْطِيْتُ الشَّفاعَة العُظْمَى في إراحة الناس مِن هَوْلِ مَوْقِفِ يوم القيامة. \n\nخامسًا: أُرسِلْتُ إلى الخَلْق كافة إنسِهم وجنِّهم، بخلاف الأنبياء قبله فكانوا يبعثون إلى أقوامهم فقط.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "مشروعية تَعديد العبد لِنِعَم الله عليه إخبارًا بها وشُكرًا لله عليها.",
+  "فضل الله عز وجل على هذه الأمة وعلى نبيِّها بهذه الخِصال.",
+  "وجوب فعل الصلاة في وقتِها على أيِّ حالٍ كانت، ويَفعل ما يَقدر عليه من شروطها وأركانها وواجباتها.",
+  "الشفاعة التي اختص بها النبي صلى الله عليه وسلم من بين الأنبياء، أنواع؛ أحدها: شفاعته للخلق في فَصْلِ القَضَاء بينهم، ومنها: شفاعته في دخول أهل الجنة الجنة، ومنها: شفاعته خاصة في عمِّه أبي طالب في تخفيف النار عنه لا في الخروج؛ لأنه مات كافرًا.",
+  "خِصال للنبي صلى الله عليه وسلم كثيرة لم تُذْكَر في هذا الحديث ومنها: أُعْطِيَ جوامع الكلم، وخُتِمَ به النبيُّون، وجُعلت صفوفُنا كصفوف الملائكة وغيرها من الخصال."
+ ],
+ "id": "hadeethenc-3503",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (1/ 74) (335).\nصحيح مسلم (1/ 370) (521).\nتيسير العلام شرح عمدة الأحكام، للبسام (ص74).\nتنبيه الأفهام شرح عمدة الأحكام، لابن عثيمين (1/ 94).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3503",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:56:03+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3503"
+ },
+ "source_categories": [
+  {
+   "id": "81",
+   "label": "نبينا محمد صلى الله عليه وسلم"
+  }
+ ],
+ "source_record_id": "3503",
+ "text": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ رضي الله عنهما أَنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «أُعْطِيتُ خَمْسًا لَمْ يُعْطَهُنَّ أَحَدٌ قَبْلِي: نُصِرْتُ بِالرُّعْبِ مَسِيرَةَ شَهْرٍ، وَجُعِلَتْ لِي الأَرْضُ مَسْجِدًا وَطَهُورًا، فَأَيُّمَا رَجُلٍ مِنْ أُمَّتِي أَدْرَكَتْهُ الصَّلاَةُ فَلْيُصَلِّ، وَأُحِلَّتْ لِي المَغَانِمُ، وَلَمْ تَحِلَّ لِأَحَدٍ قَبْلِي، وَأُعْطِيتُ الشَّفَاعَةَ، وَكَانَ النَّبِيُّ يُبْعَثُ إِلَى قَوْمِهِ خَاصَّةً وَبُعِثْتُ إِلَى النَّاسِ عَامَّةً».",
+ "title": "أعطيت خمسا لم يعطهن أحد قبلي",
+ "topic": "understanding_islam",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3503",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:6bb96972bb0a21159c5c57991e79056c9a223ba00389b08f18ab6a505670e082",
+   "explanation": "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন যে, আল্লাহ তাঁকে পাঁচটি গুণ দিয়েছেন যা তার পূর্বের কোন নবীকে দেওয়া হয়নি:\r\n\r\nপ্রথমত: আমাকে ভয় দ্বারা সাহায্য করা হয়েছে যা আমার শত্রুদের হৃদয়ে নিক্ষেপ করা হয়, যদিও আমার এবং তাদের মধ্যে এক মাসের দূরত্ব থাকে।\r\n\r\nদ্বিতীয়ত: পৃথিবীকে আমাদের জন্য মসজিদে পরিণত করা হয়েছে যাতে আমরা যেখানেই থাকি সালাত আদায় করতে পারি এবং পবিত্র বস্তুতে পরিণত করা হয়েছে যাতে পানি ব্যবহারের সুযোগ না থাকা অবস্থায় মাটি দিয়ে পবিত্রতা হাসিল করতে পারি।\r\n\r\nতৃতীয়ত: আমাদের জন্য যুদ্ধের গনীমতকে হালাল করা হয়েছে, যা মুসলিমগণ কাফেরদের সাথে যুদ্ধের সময় গ্রহণ করেন।\r\n\r\nচতুর্থত: কিয়ামতের দিন পরিস্থিতির ভয়াবহতা থেকে মানুষকে মুক্তি দেওয়ার জন্য আমাকে সবচেয়ে বড় সুপারিশ প্রদান করা হয়েছে।\r\n\r\nপঞ্চমত: আমি সমস্ত সৃষ্টি: তাদের মানুষ এবং তাদের জিনদের কাছে প্রেরিত হয়েছি, তার পূর্ববর্তী নবীগণের বিপরীতে, যারা কেবল তাদের সম্প্রদায়ের জন্য প্রেরিত হতেন।",
+   "grade": "সহীহ",
+   "hints": [
+    "একজন বান্দার জন্য তার উপর আল্লাহর নেয়ামত গণনা করার বিধান, সেগুলো সম্পর্কে জানানো এবং তার জন্য আল্লাহর শুকরিয়া আদায় করার স্বার্থে।\r",
+    "মহান আল্লাহ এই জাতি এবং এর নবীকে এই গুণাবলী দ্বারা শ্রষ্ঠত্ব দান করেছেন।\r",
+    "যে কোন পরিস্থিতিতে সময়মত সালাত আদায় করা এবং মুসল্লী সালাতের যে কয়টি শর্ত, রোকন ও ওয়াজিব পালনে সক্ষম হবে তাই আঞ্জাম দিবে।\r",
+    "নবীগণের মধ্যে যে শাফায়াতের জন্য নবী সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লামকে খাস করা হয়েছে, তা বিভিন্ন প্রকারের: তার একটি হল: সকল মাখলুকের মাঝে বিচার-ফয়সালা করার জন্য তার সুপারিশ। আরেকটি হল: জান্নাতীদের জান্নাতে প্রবেশের জন্য তাঁর সুপারিশ। আরেকটি হল: বিশেষ করে তাঁর চাচা আবু তালিবের জন্য তার ওপর জাহান্নামের আগুন হালকা করার সুপারিশ, তাকে জাহান্নাম থেকে বের করার জন্য নয়, কারণ সে কাফের অবস্থায় মারা গেছে।\r",
+    "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের অনেক গুণ রয়েছে, যা এই হাদীসে উল্লেখ করা হয়নি, যার মধ্যে রয়েছে: তাঁকে অল্প কথায় অনেক অর্থ সম্বলিত বাণী দেওয়া হয়েছে, তার দ্বারা নবীদের সমাপ্তি ঘোষণা করা হয়েছে এবং আমাদের কাতারগুলি ফেরেশতাদের কাতারের মতো করা হয়েছে এবং অন্যান্য গুণাবলী।"
+   ],
+   "mapping": "same HadeethEnc record id 3503; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:56:06+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3503",
+   "text": "জাবির ইবনু আব্দিল্লাহ রদিয়াল্লাহু ‘আনহুমা থেকে বর্ণিত যে, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন: “আমাকে এমন পাঁচটি বিষয় দান করা হয়েছে, যা আমার পূর্বে কাউকে দেওয়া হয়নি। আমাকে এমন প্রভাব দিয়ে সাহায্য করা হয়েছে যে, একমাস দূরত্বেও তা প্রতিফলিত হয়; সমস্ত যমীন আমার জন্য পবিত্র ও সালাত আদায়ের উপযোগী করা হয়েছে। কাজেই আমার উম্মতের যে কোন লোক ওয়াক্ত হলেই সালাত আদায় করতে পারবে; আমার জন্য গানীমাতের মাল হালাল করে দেওয়া হয়েছে, যা আমার পূর্বে আর কারো জন্য হালাল করা হয়নি; আমাকে শাফা‘আতের অধিকার দেয়া হয়েছে; সমস্ত নবী প্রেরিত হতেন কেবল তাঁদের সম্প্রদায়ের জন্য, আর আমাকে প্রেরণ করা হয়েছে সমগ্র মানব জাতির জন্য”।",
+   "title": "“আমাকে এমন পাঁচটি বিষয় দান করা হয়েছে, যা আমার পূর্বে কাউকে দেওয়া হয়নি",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3503",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:6ac1cdb530577e1daa4663f381dd409da02c6a8c5896a3ed61eaf1b0cc81b1d4",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) informed that Allah granted him five privileges that none of the prophets before him had been granted.\r\n\r\nFirst: I was made victorious through terror that was cast into my enemies' hearts, although a distance of one month's journey separated us.\r\n\r\nSecond: The earth has been made for us a place of worship where we can pray wherever we are, and it has been made for us a means of purification through dust when water is not an option.\r\n\r\nThird: The spoils of war, which Muslims take during their war against the disbelievers, have been made lawful for us.\r\n\r\nFourth: I have been granted the major intercession to relieve people of the horror of the Day of Judgment.\r\n\r\nFifth: \"I have been sent to all creation\": mankind and jinn, unlike the prophets before him who were sent to their people only.",
+   "grade": "Authentic",
+   "hints": [
+    "It is permissible for one to enumerate Allah's favors on him by way of acknowledgment and expressing gratitude to Allah.\r",
+    "The favor that Allah Almighty has bestowed upon this Ummah and its Prophet by granting them these privileges.\r",
+    "It is obligatory to offer the prayer in its due time, whatever the case is, fulfilling its conditions, pillars, and obligatory acts according to one's ability.\r",
+    "The intercession that has been granted to the Prophet (may Allah's peace and blessings be upon him) exclusively apart from other prophets has more than one type, including his intercession for people to begin the judgment between them, his intercession for the people of Paradise to be admitted to Paradise, and his special intercession for his uncle Abu Tālib to alleviate the fire for him, not to be brought out thereof because he died as a disbeliever.\r",
+    "Many other privileges have been granted to the Prophet (may Allah's peace and blessings be upon him) and were not mentioned in this Hadīth, some of which are: He was granted succinct speech; he was the seal of prophets; our rows have been made like those of the angels, in addition to other privileges."
+   ],
+   "mapping": "same HadeethEnc record id 3503; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:56:06+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3503",
+   "text": "Jābir ibn ‘Abdullah (may Allah be pleased with him and his father) reported that the Prophet (may Allah's peace and blessings be upon him) said: \"I was granted five that none before me was granted: I was granted victory through terror from a distance of one month's journey; the earth has been made for me a mosque and a means of purification, so any man from my Ummah who is caught up by the prayer should pray; the spoils of war have been made lawful for me, although they were not lawful for anyone before me; I have been granted the intercession; and a prophet used to be sent to his people in specific, whereas I have been sent to all people.\"",
+   "title": "I was granted five that none before me was granted",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3503",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:2e1f32bc7d7f92daec84f80d44f211db934fb40d8a995e5ed0bcf1ad3faab741",
+   "explanation": "Nabi ﷺ mengabarkan bahwa Allah memberinya lima perkara yang tidak diberikan kepada nabi mana pun sebelumnya:\r\n\r\nPertama: Aku dimenangkan dengan rasa gentar yang dirasukkan ke dalam hati musuh-musuhku, walaupun jarakku dengan mereka sejauh perjalanan satu bulan.\r\n\r\nKedua: Bumi dijadikan bagi kita sebagai tempat salat sehingga kita dapat salat di mana pun berada dan sebagai alat bersuci dengan menggunakan tanahnya saat tidak mampu menggunakan air.\r\n\r\nKetiga: Ganimah perang dihalalkan bagi kita, yaitu harta yang dirampas oleh orang Islam dalam peperangan mereka dengan orang kafir.\r\n\r\nKeempat: Aku diberikan syafaat paling besar untuk melewatkan manusia dari dahsyatnya suasana hari Kiamat.\r\n\r\nKelima: Aku diutus ke semua makhluk, kalangan manusia maupun jin, berbeda dengan para nabi sebelumnya yang hanya diutus kepada kaumnya.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Anjuran agar hamba menyebutkan nikmat-nikmat Allah padanya dengan mengabarkannya dan mensyukuri Allah atas nikmat tersebut.\r",
+    "2- Kebaikan Allah ﷻ kepada umat ini dan kepada Nabi mereka melalui perkara-perkara ini.\r",
+    "3- Kewajiban mengerjakan salat pada waktunya dalam keadaan apa pun serta mengerjakan apa yang mampu dilakukan di antara syarat, rukun, dan wajib-wajibnya.\r",
+    "4- Syafaat yang menjadi kekhususan Nabi ﷺ di antara para nabi ada beberapa macam, di antaranya:  a. Syafaat beliau pada umat manusia ketika untuk penegakan pengadilan Allah di tengah-tengah mereka.  b. Syafaat beliau kepada penghuni surga untuk segera masuk surga.  c. Syafaat khusus beliau pada pamannya, Abu Ṭālib, untuk mendapatkan keringan siksaan neraka, bukan untuk keluar darinya, sebab ia meninggal dalam keadaan kafir.\r",
+    "5- Masih banyak keistimewaan Nabi ﷺ yang tidak disebutkan dalam hadis ini. Di antaranya: beliau diberikan jawāmi'ul-kalim (ucapan singkat tapi padat), menjadi penutup para nabi, saf kita dijadikan seperti saf para malaikat, dan perkara-perkara lainnya."
+   ],
+   "mapping": "same HadeethEnc record id 3503; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:56:06+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3503",
+   "text": "Jābir bin Abdillah -raḍiyallāhu 'anhumā- meriwayatkan bahwa Nabi ﷺ bersabda, \"Aku diberi lima keistimewaan yang tidak diberikan kepada satu nabi pun sebelumku. Aku diberi kemenangan dengan rasa gentar musuh sejauh perjalanan satu bulan. Bumi dijadikan untukku sebagai tempat sujud dan alat bersuci; maka siapa saja dari umatku yang mendapati waktu salat, hendaknya ia melaksanakan salat. Dihalalkan untukku harta rampasan perang, sementara hal itu tidak dihalalkan untuk siapa pun sebelumku. Aku juga diberi syafaat. Juga, biasanya nabi itu diutus khusus kepada kaumnya, sedangkan aku diutus kepada seluruh umat manusia.\"",
+   "title": "Aku diberi lima keistimewaan yang tidak diberikan kepada satu nabi pun sebelumku",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3503",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:a9a2f9e5433d7f5724ad9cd364c19d11248d61024ccc24c47e8c3ddb25cee700",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم نے بتایا  کہ اللہ نے آپ کو ایسی پانچ  چیزیں عطا کی ہیں، جو اللہ نے پہلے کسی نبی کو عطا نہیں کی تھیں۔\r\n\r\n1- مجھے مدد کے طور پر رعب دیا گیا ہے، جو میرے دشمنوں کے دلوں میں ڈال دیا جاتا ہے، خواہ ان کے اور میرے درمیان ایک مہینے کی مسافت ہی کیوں نہ حائل ہو۔\r\n\r\n2- ہمارے لیے پوری زمین کو مسجد بنایا گیا ہے کہ ہم جہاں چاہيں، نماز پڑھ لیں۔ اسی طرح پانی کے استعمال کی قدرت نہ ہونے کی صورت میں اسے پاکی کے حصول کا ذریعہ بھی بنایا گیا ہے۔\r\n\r\n3- ہمارے لیے جنگ سے حاصل ہونے والے اموال غنیمت کو حلال کیا گیا ہے۔ اموال غنیمت سے مراد دراصل وہ اموال ہيں، جو مسلمانوں کو کفار سے جنگ کے وقت حاصل ہوتے ہيں۔\r\n\r\n4- مجھے قیامت کے دن کی ہول ناکیوں سے لوگوں کو آرام پہنچانے کے لیے شفاعت عظمی دی گئی ہے۔\r\n\r\n5- مجھے تمام جنوں اور انسانوں کے لیے نبی بنا کر بھیجا گیا ہے۔ جب کہ مجھ سے پہلے آنے والے نبی اپنی اپنی قوموں کے لیے نبی بناکر بھیجے جاتے تھے۔",
+   "grade": "صحيح",
+   "hints": [
+    "انسان کسی کو بتانے یا اللہ کا شکر ادا کرنے کے لیے اللہ کی دی ہوئی نعمتوں کو گنوا سکتا ہے۔\r",
+    "اس امت اور اس کے نبی صلی اللہ علیہ و سلم پر اللہ کا کرم کہ اس نے مذکورہ چیزیں عطا کی ہيں۔\r",
+    "نماز وقت پر پڑھنا ہر حال میں واجب ہے۔ باقی نماز کی شرطوں، ارکان اور واجبات میں سے انسان جن کی طاقت رکھے گا، انھیں ادا کرے گا۔\r",
+    "اللہ کے نبی صلی اللہ علیہ و سلم کو خصوصی طور پر جس شفاعت کا حق دیا گیا ہے، اس کی مختلف قسمیں ہیں۔ مثلا بندوں کے لیے اس بات کی شفاعت کہ اللہ ان کے درمیان فیصلہ کر دے، اہل جنت کو جنت میں داخل کرنے کی شفاعت اور آپ کے چچا ابو طالب کے عذاب کو ہلکا کرنے کی شفاعت۔ یاد رہے کہ آپ ابو طالب کو جہنم سے نکالنے کی شفاعت نہيں کریں گے، کیوں کہ ان کا انتقال کفر کی حالت میں ہوا تھا۔\r",
+    "اللہ کے نبی صلی اللہ علیہ و سلم کے اور بھی امتیازی خصائص ہیں، جن کا ذکر اس حدیث میں نہیں ہوا ہے۔ جیسے جامع ترین کلمات میں بات رکھنے کی صلاحیت، آپ پر نبیوں کے سلسلے کا ختم ہو جانا اور ہماری صفوں کو فرشتوں کی صفوں کی مانند قرار دیا جانا اور دیگر خصوصیات۔"
+   ],
+   "mapping": "same HadeethEnc record id 3503; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:56:06+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3503",
+   "text": "جابر بن عبد اللہ رضی اللہ عنہما سے مروی ہے کہ اللہ کے نبی صلی اللہ علیہ وسلم نے فرمایا : \"مجھے پانچ چیزیں ایسی دی گئی ہیں، جو مجھ سے پہلے کسی نبی کو نہیں دی گئی تھیں۔ ایک مہینے کی مسافت تک رعب کے ذریعے میری مدد کی گئی ہے اور پوری زمین میرے لیے مسجد اور حصولِ پاکیزگی کا ذریعہ بنا دی گئی ہے۔ چنانچہ میری امت کا جو انسان نماز کے وقت کو (جہاں بھی) پالے، اسے وہیں نماز ادا کر لینی چاہیے۔ میرے لیے غنیمت کا مال حلال کر دیا گیا ہے، مجھ سے پہلے کسی کے لیے بھی غنیمت کا مال حلال نہ تھا۔ مجھے شفاعت عطا کی گئی۔ دیگر انبیا اپنی اپنی قوموں کے لیے مبعوث کیے جاتے تھے، لیکن مجھے تمام انسانوں کے لیے نبی بنا کر بھیجا گیا ہے\"۔",
+   "title": "مجھے پانچ چیزیں ایسی دی گئی ہیں، جو مجھ سے پہلے کسی نبی کو نہیں دی گئی تھیں۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3503",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:b10117a8707bd4e361188d199780fe9c58c86ba493a8a838a1bf3747e59370d2",
+   "explanation": "先知（愿主福安之）告知，安拉赐予了他五项特恩，这是在他之前任何一位先知都未曾被赐予的：\r\n\r\n第一：我因威慑而获援助，这种威惧被投射进敌人的心中，即便我与他们之间相隔一个月的行程。\r\n\r\n第二：大地被为我们设为清真寺，使我们无论身在何处都可以礼拜，并被设为净洁之所，在无法用水时可用土净。\r\n\r\n第三：战争中的战利品被准许给我们，即穆斯林在与不信者作战时所获得的财物。\r\n\r\n第四：我被赐予至大的代求权，用以使众人在复活日那可怖的情境中得以解脱。\r\n\r\n第五：我被派遣给全体受造物，不论人类还是精灵；不同于我之前的诸位先知，他们只被派遣给各自的族群。",
+   "grade": "正确的",
+   "hints": [
+    "陈述并列举安拉赐予仆人的恩典是合法的，其目的在于宣示这些恩典，并以此感赞安拉。\r",
+    "安拉（全能威严的主）对这个民族及其先知所赐予的这些特恩与恩惠。\r",
+    "无论处于何种情形，都必须按时履行礼拜，并在力所能及的范围内完成其条件、要素和义务。\r",
+    "先知（愿主福安之）所独有、区别于其他先知的代求具有多种类型；其中之一：是他为众生在彼此之间完成判决裁断的代求；其中之一：是他为进入乐园之人进入乐园的代求；其中还包括他对其叔父阿布·塔利卜的特殊代求，仅在减轻其所受的火狱刑罚，而非使其脱离火狱，因为他以不信而去世。\r",
+    "先知（愿主福安之）所特有的恩赐还有许多，并未在此段圣训中提及，其中包括：他被赐予言简意赅、涵义宏富的言辞，诸先知以他而封印，我们的礼拜行列被设定如同天使的行列，以及其他诸多特恩。"
+   ],
+   "mapping": "same HadeethEnc record id 3503; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:56:06+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3503",
+   "text": "贾比尔·本·阿卜杜拉（愿主喜悦他俩）传述，先知（愿主福安之）说： “我被赐予了五件此前无人被赐予之事：我以威慑而得胜，其威势可达一月之程；大地被为我设为清真寺与净洁之所，我的教民中无论何人在礼拜时间到来之时，都可以就地礼拜；战利品被准许于我，而在我之前无人被准许；我被赐予了代求权；以往的先知只被派遣给自己的族群，而我被派遣给全人类。”",
+   "title": "“我被赐予了五件此前无人被赐予之事",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

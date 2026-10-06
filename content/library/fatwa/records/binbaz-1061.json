@@ -1,0 +1,69 @@
+{
+ "answer": [
+  [
+   {
+    "kind": "strong",
+    "text": "الجواب:"
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "إذا عرفوا بالحاجة، وأن مرتباتهم لا تسد حاجاتهم، وكانوا مسلمين عرفوا بذلك، لا بأس أن يعطوا شيئًا من الزكاة لسد الحاجة، إذا عرفوا بأنهم مسلمون، وإذا عرفوا بالصدق، وأنهم محتاجون فقراء؛ لأن كثيرًا من الناس يدعي الفقر وهو كاذب وراتبه يكفيه. "
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "فإذا عرف بالحاجة بالصدق بأن شهد له من يرضى بأنه فقير، وأن هذا المرتب قليل ضئيل، لا يسد حاجته؛ فلا بأس أن يعطى، وإلا فلا يعطى، ويلتمس الناس المعروفون بالحاجة والإسلام."
+   }
+  ]
+ ],
+ "content_sha256": "sha256:5e3d251ce5ddc72a08c897bba6456d70fa9e41649cb8f227501de197cdf73cfe",
+ "id": "binbaz-1061",
+ "language": "ar",
+ "notes": [],
+ "question": [
+  [
+   {
+    "kind": "strong",
+    "text": "السؤال:"
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "العمال الذين يصلون إلى هنا يكون مرتبهم ضعيفًا، ومعيشتهم سدًا للرمق، ولهم ذرية ضعاف، فهل تحل الزكاة عليهم؟"
+   }
+  ]
+ ],
+ "raw_sha256": "sha256:7c438bab77deac210a93ec9276c11cb11dbd15ae2c0480ceb89eb50bd49c805e",
+ "reuse_basis": "user_confirmed_permission",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.fatwa/2",
+ "source": {
+  "edition": null,
+  "publisher": "binbaz.org.sa",
+  "publisher_name": "موقع الشيخ ابن باز",
+  "retrieved_at": "2026-10-06T03:52:44+00:00",
+  "series": "فتاوى الجامع الكبير",
+  "url": "https://binbaz.org.sa/fatwas/1061/%D9%87%D9%84-%D8%AA%D8%AD%D9%84-%D8%A7%D9%84%D8%B2%D9%83%D8%A7%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%88%D8%A7%D9%81%D8%AF%D9%8A%D9%86-%D9%84%D8%B6%D8%B9%D9%81-%D8%B1%D9%88%D8%A7%D8%AA%D8%A8%D9%87%D9%85"
+ },
+ "source_categories": [
+  {
+   "id": "75",
+   "label": "إخراج الزكاة وأهلها",
+   "url": "https://binbaz.org.sa/categories/fiqhi/75"
+  },
+  {
+   "id": "228",
+   "label": "الآداب والأخلاق المحمودة",
+   "url": "https://binbaz.org.sa/categories/objective/228"
+  }
+ ],
+ "source_record_id": "1061",
+ "title": "هل تحل الزكاة على الوافدين لضعف رواتبهم؟",
+ "topic": "conduct",
+ "translations": {},
+ "type": "fatwa"
+}

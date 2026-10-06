@@ -1,0 +1,179 @@
+{
+ "ayah_count": 5,
+ "ayahs": [
+  {
+   "arabic": "إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةِ ٱلۡقَدۡرِ",
+   "aya": 1,
+   "id": 6126,
+   "tafsir": {
+    "arabic_moyassar": "إنا أنزلنا القرآن في ليلة الشرف والفضل، وهي إحدى ليالي شهر رمضان."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "নিশ্চয় আমি আল-কুরআন নাযিল করেছি ‘লাইলাতুল কদরে’।"
+    },
+    "en": {
+     "footnotes": "[1] The Qur’an was first revealed completely to the lowest heaven on this night. Also, its revelation on the Prophet (ﷺ) started on this night.",
+     "text": "Indeed, We sent this [Qur’an] down on the Night of Decree[1]."
+    },
+    "fr": {
+     "footnotes": "[1] Le Coran, dont la révélation a débuté au cours de cette nuit bénie.\n[2] Connue comme étant la « Nuit du destin » et située au mois de Ramadan. Le terme arabe « Qadr » traduit ici par « décrets divins » revêt un second sens : il signifie que cette nuit est sublime et d’une très grande valeur.",
+     "text": "Nous l’avons révélé[1] au cours de la Nuit des décrets divins[2]."
+    },
+    "id": {
+     "footnotes": "[919] Malam qadar mempunyai beberapa arti, di antaranya malam kemuliaan, karena pada malam itu permulaan diturunkannya Al-Qur`an dari Lauḥ Maḥfūẓ kepada Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-.",
+     "text": "Sesungguhnya Kami telah menurunkannya (Al-Qur`an) pada malam qadar.[919]"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی اتارنے کا آغاز کیا، یا لوح محفوظ سے اس بیت العزت میں، جو آسمان پر ہے، ایک ہی مرتبہ اتار دیا۔ اور وہاں سے حسب وقائع نبی (صلى الله عليه وسلم) پر اترتا رہا تا آنکہ 23 سال میں پورا ہوگیا۔ اور لیلتہ القدر رمضان میں ہی ہوتی ہے، جیسا کہ قرآن کی آیت «شَهْرُ رَمَضَانَ الَّذِي أُنْزِلَ فِيهِ الْقُرْآنُ» (البقرة: 185 ) سے واضح ہے۔",
+     "text": "یقیناً ہم نے اسے شب قدر میں نازل فرمایا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我在那高贵的夜间确已降示它，"
+    }
+   }
+  },
+  {
+   "arabic": "وَمَآ أَدۡرَىٰكَ مَا لَيۡلَةُ ٱلۡقَدۡرِ",
+   "aya": 2,
+   "id": 6127,
+   "tafsir": {
+    "arabic_moyassar": "وما أدراك -أيها النبي- ما ليلة القدر والشرف؟"
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর তোমাকে কীসে জানাবে ‘লাইলাতুল কদর’ কী?"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "How do you know what the Night of Decree is?"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Mais qui pourrait t’indiquer ce qu’est la Nuit des décrets divins ?"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan tahukah kamu apakah malam kemuliaan itu?"
+    },
+    "ur": {
+     "footnotes": "[1] اس استفہام سے اس رات کی عظمت واہمیت واضح ہے، گویاکہ مخلوق اس کی تہ تک پوری طرح نہیں پہنچ سکتی، یہ صرف ایک اللہ ہی ہے جو اس کو جانتا ہے۔",
+     "text": "تو کیا سمجھا کہ شب قدر کیا ہے؟[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你怎能知道那高贵的夜间是什么？"
+    }
+   }
+  },
+  {
+   "arabic": "لَيۡلَةُ ٱلۡقَدۡرِ خَيۡرٞ مِّنۡ أَلۡفِ شَهۡرٖ",
+   "aya": 3,
+   "id": 6128,
+   "tafsir": {
+    "arabic_moyassar": "ليلة القدر ليلة مباركة، العمل الصالح فيها خير من عمل ألف شهر ليس فيها ليلة قدر."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "‘লাইলাতুল কদর’ হাজার মাস অপেক্ষা উত্তম।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "The Night of Decree is better than a thousand months."
+    },
+    "fr": {
+     "footnotes": "[3] Les œuvres accomplies lors de cette nuit sont plus méritoires que celles de mille mois.",
+     "text": "La Nuit des décrets divins est plus bénie que mille mois réunis[3]."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Malam kemuliaan itu lebih baik daripada seribu bulan."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی اس ایک رات کی عبادت ہزار مہینوں کی عبادت سے بہتر ہے اور ہزار مہینے 83 سال 4 مہینے بنتے ہیں۔ یہ امت محمدیہ پر اللہ کا کتنا احسان عظیم ہے کہ مختصر عمر میں زیادہ سے زیادہ ثواب حاصل کرنے کے لئے کیسی سہولت عطا فرما دی۔",
+     "text": "شب قدر ایک ہزار مہینوں سے بہتر ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "那高贵的夜间，胜过一千个月，"
+    }
+   }
+  },
+  {
+   "arabic": "تَنَزَّلُ ٱلۡمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذۡنِ رَبِّهِم مِّن كُلِّ أَمۡرٖ",
+   "aya": 4,
+   "id": 6129,
+   "tafsir": {
+    "arabic_moyassar": "يكثر نزول الملائكة وجبريل عليه السلام فيها، بإذن ربهم من كل أمر قضاه في تلك السنة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১) আগামী বৎসরের জন্য।",
+     "text": "সে রাতে ফিরিশতারা ও রূহ (জিবরীল) তাদের রবের অনুমতিক্রমে (১) সকল সিদ্ধান্ত নিয়ে (জমিনে) অবতরণ করে।"
+    },
+    "en": {
+     "footnotes": "[2] Bringing down the exact provisions, life, death, and other things destined for the creatures for the coming year by Allah's permission.",
+     "text": "On that night the angels and the Spirit [i.e., Gabriel] descend by their Lord’s permission with all decrees[2]."
+    },
+    "fr": {
+     "footnotes": "[4] Relatifs à l’année à venir, expliquent les commentateurs. Voir sourate 44, versets 3-5.\n[5] L’ange Gabriel, selon la majorité des exégètes.",
+     "text": "Porteurs de tous les arrêts divins[4], les anges et l’Esprit[5] descendent sur ordre de leur Seigneur au cours de cette nuit."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Pada malam itu turun para malaikat dan Ruh (Jibril) dengan izin Tuhannya untuk mengatur semua urusan."
+    },
+    "ur": {
+     "footnotes": "[1] روح سے مراد حضرت جبرائیل (عليه السلام) ہیں، یعنی فرشتے حضرت جبرائیل (عليه السلام) سمیت، اس رات میں زمین پر اترتے ہیں،ان کاموں کو سرانجام دینے کے لئے جن کا فیصلہ اس سال میں اللہ تعالیٰ فرماتا ہے۔",
+     "text": "اس (میں ہر کام) کے سر انجام دینے کو اپنے رب کے حکم سے فرشتے اور روح (جبرائیل) اترتے ہیں.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "众天使和鲁哈〔吉卜利里，〕奉他们的养主的命令，为一切事务而在那夜间降临，"
+    }
+   }
+  },
+  {
+   "arabic": "سَلَٰمٌ هِيَ حَتَّىٰ مَطۡلَعِ ٱلۡفَجۡرِ",
+   "aya": 5,
+   "id": 6130,
+   "tafsir": {
+    "arabic_moyassar": "هي أمن كلها، لا شرَّ فيها إلى مطلع الفجر."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "শান্তিময় সেই রাত, ফজর উদয় হওয়া পর্যন্ত (অব্যাহত) থাকে।"
+    },
+    "en": {
+     "footnotes": "[3] Upon the believers.",
+     "text": "It is all peace[3] until the break of dawn."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "C’est une nuit remplie de paix et de bénédiction jusqu’à l’apparition de l’aube."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sejahteralah (malam itu) sampai terbit fajar."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی اس میں شر نہیں۔ یا اس معنی میں سلامتی والی ہے کہ مومن اس رات کو شیطان کے شر سے محفوظ رہتے ہیں۔ یا فرشتے اہل ایمان کو سلام عرض کرتے ہیں۔ یا فرشتے ہی آپس میں ایک دوسرے کو سلام کرتے ہیں۔ شب قدر کے لئے نبی (صلى الله عليه وسلم) نے بطور خاص یہ دعا بتلائی ہے «اللَّهُمَّ! إِنَّكَ عَفُوٌّ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي» ( ترمذي أبواب الدعوات، ابن ماجه، كتاب الدعاء، باب الدعاء بالعفو والعافية ) ۔",
+     "text": "یہ رات سراسر سلامتی کی ہوتی ہے[1] اور فجر کے طلوع ہونے تک (رہتی ہے)."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "那夜间全是平安的，直到黎明显著的时候。"
+    }
+   }
+  }
+ ],
+ "content_sha256": "sha256:990bb96b2f83bca4177ed15ee8aedc84233475e1f59a300d01f33a25c51455ce",
+ "name_ar": "القدر",
+ "number": 97,
+ "schema": "balligh.library.quran.surah/1"
+}

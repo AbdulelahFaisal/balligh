@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-2774",
+ "source_content_sha256": "sha256:1090ab0e4652540b7dd325e02f61896872db697b6a5bdbfc2a126cc3279fc8fa",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:23:42.476370+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 520,
+  "completion_tokens": 346,
+  "total_tokens": 866,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 520
+ },
+ "latency_ms": 3365,
+ "units": [
+  {
+   "id": "title",
+   "text": "The ruling on one who sleeps through Fajr prayer until its time has passed"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "I slept through Fajr prayer and did not wake up until mid-morning. Is it permissible for me to pray it when I wake up, or should I pray it at its time?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "If a person sleeps through a prayer and then wakes up, he should pray it when he wakes up along with its Sunnah, because the Prophet (peace be upon him) said: \"Whoever sleeps through a prayer or forgets it, let him pray it when he remembers it; there is no expiation for it other than that.\""
+  },
+  {
+   "id": "a2",
+   "text": "When the Prophet (peace be upon him) slept through Fajr prayer during some of his expeditions and some of his travels, and they did not wake up until the sun had become hot, he stood up, may peace and blessings be upon him, ordered Bilal to call the adhan, they performed ablution for prayer, prayed its Sunnah, then the iqamah was called, and he prayed it as he used to pray it at its time, may peace and blessings be upon him."
+  }
+ ]
+}

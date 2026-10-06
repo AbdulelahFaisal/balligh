@@ -1,0 +1,177 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:da8effe172a9976cfcbbc2128ed59993da78a3c3f28b623847e34faeb3003a2f",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يُخْبِرُ النبيُّ صلى الله عليه وسلم بأنَّ العدوى التي كان يَعتقدُها أهلَ الجاهلية بأنَّ المَرضَ يَنتقل بنفسه إلى الآخر من دون قَدَرِ الله بأنها باطلة، \nوأنَّ الطيرة باطلة، وهي التشاؤم من أيِّ شيءٍ مسموعًا كان أو مرئيًّا، من الطيور أو الحيوانات أو أصحاب العَاهَات أو الأرقام أو الأيام أو غير ذلك،\nوإنما ذَكَرَ الطيرَ لأنه كان المشهور عند الجاهلية، وأصله إطلاق الطير عند الشروع في عملٍ من سفر أو تجارة أو غير ذلك، فإن طار جهة اليمين تفاءل ومضى لما يريد، وإن طار جهة الشمال تشاءم وكَفَّ عمّا يريد. \nثم أخبر صلى الله عليه وسلم أنه يُعجبه الفَأْل، وهو ما يَحْدُثُ للإنسانِ من الفرح والسرور من كلمة طيبة يسمعها، وتجعله يحسن الظن بربه.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "التوكُّل على الله تعالى، وأنه لا يأتي بالخير إلا الله، ولا يدفع الشر إلا الله.",
+  "النهي عن الطيرة، وهي ما يُتشاءم منه، ويصد عن العمل.",
+  "الفأل ليس من الطيرة المنهي عنها، بل هو من حُسْنِ الظن بالله تعالى.",
+  "كل شيء يحصل بتقدير الله عز وجل وحده لا شريك له."
+ ],
+ "id": "hadeethenc-3422",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (7/ 135) (5756).\nصحيح مسلم (4/ 1746) (2224).\nفتح المجيد شرح كتاب التوحيد، لعبد الرحمن التميمي (ص310).\nالقول المفيد على كتاب التوحيد، لابن عثيمين (1/ 570).\nالملخص في شرح كتاب التوحيد، لصالح الفوزان (ص230).\nالجديد في شرح كتاب التوحيد، لمحمد القرعاوي (ص255).\nالتمهيد لشرح كتاب التوحيد، لصالح آل الشيخ (ص333).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3422",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:37+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3422"
+ },
+ "source_categories": [
+  {
+   "id": "73",
+   "label": "توحيد الألوهية"
+  }
+ ],
+ "source_record_id": "3422",
+ "text": "عَنْ أَنَسِ بْنِ مَالِكٍ رضي الله عنه عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَا عَدْوَى، وَلَا طِيَرَةَ، وَيُعْجِبُنِي الْفَأْلُ» قَالَ قِيلَ: وَمَا الْفَأْلُ؟ قَالَ: «الْكَلِمَةُ الطَّيِّبَةُ».",
+ "title": "لا عدوى، ولا طيرة، ويعجبني الفأل قال قيل: وما الفأل؟ قال: الكلمة الطيبة",
+ "topic": "belief",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3422",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:8b61529a21f8a38bf8e3210ae2ab960eee2d19fd08c07537ec35cbfca7a47f59",
+   "explanation": "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জানিয়েছেন, জাহেলি যুগের লোকেরা ধারণা পোষণ করত যে, রোগ নিজে থেকেই অন্যের মধ্যে ছড়িয়ে পড়ে, আল্লাহর নির্দেশ ছাড়াই, তা সম্পূর্ণ ভিত্তিহীন। এবং তিনি এও জানান যে, 'তিয়ারা' (কুলক্ষণ) অর্থাৎ কোন কিছু দেখা বা শোনা কে অশুভ লক্ষণ মনে করা ভিত্তিহীন। যেমন পাখি, প্রাণী, বিকলাঙ্গ ব্যক্তি, সংখ্যা, দিন বা অন্য কিছুকে কুলক্ষণ মনে করা। তিনি পাখির কথা বিশেষভাবে উল্লেখ করেছেন কারণ এটি জাহেলি যুগে খুব প্রচলিত ছিল। এর মূল বিষয় ছিল কোনো কাজ শুরু করার সময়, যেমন ভ্রমণ, ব্যবসা বা অন্য কোনো কাজে যাওয়ার সময় পাখি উড়িয়ে দেওয়া। যদি পাখি ডান দিকে উড়ে যেত, তবে তারা শুভ লক্ষণ মনে করে তাদের কাজে এগিয়ে যেত। আর যদি পাখি বাম দিকে উড়ে যেত, তবে তারা অশুভ লক্ষণ মনে করে তাদের কাজ থেকে বিরত থাকত। এরপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জানান যে, তিনি 'ফাল' (শুভ লক্ষণ) পছন্দ করেন। এটি হলো মানুষের মনে সৃষ্টি হওয়া আনন্দ ও খুশি, যা সে কোনো ভালো কথা শুনে অনুভব করে এবং এতে সে তার রবের প্রতি ভালো ধারণা পোষণ করে।",
+   "grade": "সহীহ",
+   "hints": [
+    "আল্লাহ তাআলার উপর তাওয়াক্কুল করা এবং এ বিশ্বাস রাখা যে, কল্যাণ একমাত্র আল্লাহর পক্ষ থেকেই আসে এবং অকল্যাণ বা ক্ষতি একমাত্র আল্লাহই দূর করতে পারেন।\r",
+    "তিয়ারা (কুলক্ষণ) এর বিশ্বাস থেকে নিষেধ করা হয়েছে, যা হচ্ছে, কোন কিছুকে অশুভ লক্ষণ হিসেবে মনে করা এবং তার ফলে কাজ থেকে বিরত থাকা।\r",
+    "ফা’ল (শুভ লক্ষণ) নিষিদ্ধ তিয়ারা বা কুলক্ষণের অন্তর্ভুক্ত নয়; বরং এটি আল্লাহ তাআলার প্রতি সুধারণা পোষণের অন্তর্গত।\r",
+    "প্রত্যেকটি বিষয় আল্লাহ তাআলার নির্ধারিত তাকদীর অনুযায়ীই সংঘটিত হয়, তাঁর কোনো অংশীদার নেই।"
+   ],
+   "mapping": "same HadeethEnc record id 3422; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:34+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3422",
+   "text": "আনাস ইবনু মালিক রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন: “সংক্রমণ বলতে কোন কিছু নেই এবং কুলক্ষণও নেই। তবে আমকে খুশি করে ফাল (শুভ লক্ষণ)। তারা বলল, ফাল কি? তিনি বললেন, ভালো কথা।”",
+   "title": "“সংক্রমণ বলতে কোন কিছু নেই এবং কুলক্ষণও নেই। তবে আমকে খুশি করে ফাল (শুভ লক্ষণ)। তারা বলল, ফাল কি? তিনি বললেন, ভালো কথা।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3422",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:e1d5297ffcad3afddad43499496bd1ce44013d602a5125a55a6697b8e5f55b87",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) informs that transitive disease in which the people of the pre-Islamic era of ignorance used to believe, thinking the disease is transmitted by itself to others apart from Allah's decree, is false. And the Tiyarah, which is regarding something audible or visible, as an evil omen whether it is from birds, animals, people with deformities, numbers, days, etc. He mentioned the \"Tayr\" (bird) specifically because it was commonly known during the pre-Islamic era of ignorance, as a bird would be urged to fly when someone intended to do something like travel, trade, or anything else. If the bird flew to the right, he would take this as a good omen and proceed with what he intended, whereas if the bird flew to the left, he would take this as a bad omen and refrain from doing what he intended. Then, he (may Allah's peace and blessings be upon him) informed that he liked the good omen, which is the happiness and joy that one feels when hearing a good word that makes him have good expectations of his Lord.",
+   "grade": "Authentic",
+   "hints": [
+    "Reliance on Allah Almighty and realizing that none brings goodness except Allah and none wards off harm except Allah.\r",
+    "Tiyarah, which is believing in bad omens and refraining from doing things based on that, is prohibited.\r",
+    "A good omen is not part of the forbidden Tiyarah; rather, it signifies having good expectations of Allah Almighty.\r",
+    "Everything happens in compliance with the decree of Allah Almighty, alone with no partner."
+   ],
+   "mapping": "same HadeethEnc record id 3422; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:34+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3422",
+   "text": "Anas ibn Mālik (may Allah be pleased with him) reported that the Prophet (may Allah's peace and blessings be upon him) said: \"There is no transitive disease and no evil omen, and I like a good omen.\" It was said: What is a good omen? He said: \"A good word.\"",
+   "title": "There is no transitive disease and no evil omen, and I like a good omen.\" It was said: What is a good omen? He said: \"A good word",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=3422",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:2eb8f6d139c3aace3ae27cda9b91087050afd0dd89854efce1f2efa2d99b6c69",
+   "explanation": "Le Prophète ﷺ a informé de la fausseté de la contagion à laquelle les gens du paganisme préislamique croyaient, à savoir que la maladie se transmettait d'elle-même à quiconque sans décret d'Allah. Il en est de même de la fausseté de l'augure qui correspond à tirer augure de n'importe quelle chose audible ou visible, parmi : les oiseaux, les animaux, les personnes handicapées, les chiffres, les jours, ou autre que cela. Ici, il ﷺ a mentionné l'augure parce que c'était une chose célèbre dans le paganisme préislamique. Son origine était de lâcher un oiseau au moment où on voulait entreprendre un voyage, un commerce, ou autre que cela. Si l'oiseau volait vers la droite, alors la personne en tirait bon augure et poursuivait ce qu'elle voulait mais si l'oiseau volait vers la gauche, alors la personne en tirait mauvais augure et s'abstenait de ce qu'elle voulait faire. Ensuite, le Prophète ﷺ a informé que l'optimisme lui plaisait ; cela désigne le contentement et la joie qu'éprouve la personne lorsqu'elle entend une bonne parole de sorte qu'elle en nourrit la bonne opinion pour son Seigneur.",
+   "grade": "Authentique",
+   "hints": [
+    "Avoir confiance en Allah ﷻ, à savoir : le bien ne provient que d'Allah et le mal n'est repoussé que par Allah.\r",
+    "L'interdiction de l'augure qui désigne le fait de tirer mauvais augure d'une chose et ainsi de ne pas œuvrer.\r",
+    "L'optimisme ne fait pas partie de l'augure qui est interdit ; plutôt, cela fait partie de la bonne pensée sur Allah ﷻ.\r",
+    "Toute chose se produit par décret prédestiné d'Allah ﷻ, Seul et sans associé."
+   ],
+   "mapping": "same HadeethEnc record id 3422; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:34+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/3422",
+   "text": "D'après Anas ibn Mâlik (qu'Allah l'agrée), le Prophète ﷺ a dit : \" Point de contagion, ni d'augure. En revanche, l'optimisme me plaît. \" Une personne [parmi les Compagnons] demanda : \" Qu'est-ce que l'optimisme? \" Il ﷺ répondit : \" La bonne parole. \"",
+   "title": "Point de contagion, ni d'augure. En revanche, l'optimisme me plaît. \" Une personne [parmi les Compagnons] demanda : \" Qu'est-ce que l'optimisme? \" Il ﷺ répondit : \" La bonne parole.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3422",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:604812aded1f7011c5a2de60b9049c92ecd8d3f156860eb21173a0da3c80e2ce",
+   "explanation": "Nabi ﷺ mengabarkan bahwa 'adwā (penyakit menular) sebagaimana yang diyakini orang-orang jahiliah, yaitu penyakit yang berpindah sendiri kepada yang lain tanpa ketetapan dari Allah, adalah batil. Demikian juga ṭiyarah adalah batil, yaitu meyakini kesialan lantaran sesuatu yang didengar ataupun dilihat berupa burung, hewan, orang cacat, nomer, hari, dan lain sebagainya. Sengaja disebutkan burung karena itu yang masyhur di kalangan jahiliah, yaitu melepas burung ketika hendak memulai suatu aktivitas seperti safar, dagang, atau lainnya. Jika burung itu terbang ke arah kanan, maka dia optimis dan melanjutkan niatnya, tetapi jika burung itu terbang ke arah kiri maka ia pesimis lalu mengurungkan niatnya. Kemudian beliau ﷺ mengabarkan bahwa beliau lebih suka fa`l, yaitu sesuatu yang melahirkan rasa bahagia dan senang seperti berupa perkataan yang didengar dan menjadikannya berbaik sangka kepada Tuhannya.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Tawakal kepada Allah Ta'ala. Tidak ada yang dapat mendatangkan kebaikan kecuali Allah dan tidak ada yang dapat menolak keburukan kecuali Allah.\r",
+    "2- Larangan ṭiyarah, yaitu sesuatu yang mengakibatkan seorang pesimis dan menghentikan aktivitasnya.\r",
+    "3- Fa`l bukan termasuk ṭiyarah yang dilarang, tetapi merupakan wujud husnuzan kepada Allah Ta'ala.\r",
+    "4- Segala sesuatu terjadi dengan ketetapan Allah ﷻ semata, tidak ada sekutu bagi-Nya."
+   ],
+   "mapping": "same HadeethEnc record id 3422; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:34+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3422",
+   "text": "Anas bin Mālik -raḍiyallāhu 'anhu- meriwayatkan, Nabi ﷺ bersabda, \"Tidak ada ‘adwā (penyakit menular), tidak ada ṭiyarah (merasa sial), dan aku menyukai fa`l (optimis).\" Para sahabat bertanya, \"Apakah fa’l itu?\" Beliau bersabda, \"Perkataan yang baik.\"",
+   "title": "Tidak ada ‘adwā (penyakit menular), tidak ada ṭiyarah (merasa sial), dan aku menyukai fa`l (optimis).\" Para sahabat bertanya, \"Apakah fa’l itu?\" Beliau bersabda, \"Perkataan yang baik",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3422",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:0d24409949c92e0ad52ad51532875d80f7db82b1f7b0d0fdad45462d2d5c6196",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم بتا رہے ہیں کہ عہد جاہلیت کے لوگوں کا یہ عقیدہ باطل ہے کہ بیماری اللہ کے فیصلے اور اس کی لکھی تقدیر کے بغیر ہی ایک شخص سے دوسرے شخص کی جانب منتقل ہو جایا کرتی ہے۔ اسی طرح بدشگونی لینا بھی باطل ہے۔ بدشگونی نام ہے کسی مسموع یا مرئی چیز، جیسے پرندوں، جانوروں، معذور لوگوں، اعداد یا دنوں وغیرہ سے بدفالی لینے کا۔ اس حدیث میں بدشگونی کے لیے \" الطيرة\" لفظ کا استعمال اس لیے ہوا ہے کہ عہد جاہلیت میں بدشگونی کا یہ طریقہ بہت مشہور تھا۔ ہوتا یہ تھا کہ عرب کے لوگ جب سفر یا تجارت وغیرہ کوئی کام شروع کرنا چاہتے، تو پرندہ اڑا کر دیکھتے۔ اگر پرندہ دائیں اڑتا، تو اسے نیک فال سمجھ کر قدم آگے بڑھاتے اور اگر بائيں اڑتا، تو بدشگونی کے عقیدے کے تحت قدم پیچھے واپس کھینچ لیتے۔ اس کے بعد اللہ کے رسول صلی اللہ علیہ و سلم نے بتایا کہ آپ کو فال اچھی لگتی ہے۔ فال یہ ہے کہ انسان کو کوئی اچھی بات سن کر فرحت و سرور حاصل ہو اور وہ اپنے رب سے حسن ظن قائم کر لے۔",
+   "grade": "صحيح",
+   "hints": [
+    "اللہ پر توکل اور یہ کہ خیر صرف اللہ ہی لاتا ہے اور شر کو صرف صرف وہی دور کرتا ہے۔\r",
+    "بدشگونی سے ممانعت۔ بدشگونی یہ ہے کہ انسان کسی چیز سے برا شگون لے اور اس کی وجہ سے عملی اقدام سے رک جائے۔\r",
+    "فال منع شدہ بدشگونی میں داخل نہیں ہے۔ یہ دراصل اللہ سے حسن ظن ہے۔\r",
+    "ہر چیز اللہ وحدہ لا شریک لہ کى تقدیر کے مطابق ہوتی ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 3422; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:34+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3422",
+   "text": "انس بن مالک رضی اللہ عنہ سے روایت ہے کہ اللہ کے نبی صلی اللہ علیہ و سلم نے فرمایا : \"بیماری کا ایک سے دوسرے کو لگ جانا اور بد شگونی لینا کوئی چیز نہیں۔ البتہ مجھے فال اچھی لگتی ہے\"۔ صحابہ کرام نے پوچھا : فال کیا چیز ہے؟ آپ ﷺ نے فرمایا : ”اچھی بات“۔",
+   "title": "بیماری کا ایک سے دوسرے کو لگ جانا اور بد شگونی لینا کوئی چیز نہیں۔ البتہ مجھے فال اچھی لگتی ہے\"۔ صحابہ کرام نے پوچھا : فال کیا چیز ہے؟ آپ ﷺ نے فرمایا : ”اچھی بات“۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3422",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:85e228ada7bf0e602092e51da0d849e1668357c2355f3b7175b266256a17c5f1",
+   "explanation": "先知（愿主福安之）说：“愚昧时期的人们信仰一些疾病，可以在人们之间相互传染，而不是因安拉的前定，这种信仰是虚假的。” 以鸟沾吉是虚假的，即：从鸟儿、动物、害虫、残疾人、数字，或一些日子等事物中看到的或听到的而悲观。 之所以提到了鸟儿，是因为这在愚昧时代是很有名的事情，其根源是在开始旅行，开始某个项目，或开始某种生意时，人们会放飞一只鸟，如果鸟儿朝右边飞去，则认为吉兆便开始行事，如果鸟儿朝左边飞去，则认为凶兆便停止行事。 然后先知（愿主福安之）说道，他喜欢乐观，即：使人高兴和愉悦的美言，然后此人因善言而善猜他的养主。",
+   "grade": "正确的",
+   "hints": [
+    "托靠安拉，因为只有安拉才给人带来福分，只要安拉才能替人避开祸患。\r",
+    "禁止以鸟沾吉，即：以此认为不吉利，从而停止实施工作。\r",
+    "乐观并不属于被禁止的以鸟沾吉，而是对安拉的善猜。\r",
+    "万物皆以独一无二的安拉的前定而发生。"
+   ],
+   "mapping": "same HadeethEnc record id 3422; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:34+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3422",
+   "text": "艾奈斯·本·马利克（愿主喜悦之）传述，先知（愿主福安之）说： “没有传染病，不要以鸟沾吉，我喜欢乐观。”他说：有人问：什么是乐观？使者（愿主福安之）说：“善言。”",
+   "title": "“没有传染病，不要以鸟沾吉，我喜欢乐观。”他说：有人问：什么是乐观？使者（愿主福安之）说：“善言。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

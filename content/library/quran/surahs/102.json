@@ -1,0 +1,281 @@
+{
+ "ayah_count": 8,
+ "ayahs": [
+  {
+   "arabic": "أَلۡهَىٰكُمُ ٱلتَّكَاثُرُ",
+   "aya": 1,
+   "id": 6169,
+   "tafsir": {
+    "arabic_moyassar": "شغلكم عن طاعة الله التفاخر بكثرة الأموال والأولاد."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১) আল্লাহর আনুগত্য থেকে।",
+     "text": "(হে মানুষ!) প্রাচুর্যের প্রতিযোগিতা তোমাদেরকে(১) ভুলিয়ে রেখেছে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Competition for worldly gains distracts you [from Allah],"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "La course aux richesses ne cessera de vous accaparer,"
+    },
+    "id": {
+     "footnotes": "[923] Bermegah-megahan dalam soal banyak anak, harta, pengikut, kemuliaan dan sebagainya, telah melalaikan kamu dari ketaatan kepada Allah.",
+     "text": "Bermegah-megahan telah melalaikan kamu,[923]"
+    },
+    "ur": {
+     "footnotes": "[1] أَلْهَى يُلْهِي، کے معنی ہیں، غافل کر دینا۔ تَكَاثُرٌ، زیادتی کی خواہش۔ یہ عام ہے۔ مال، اولاد، اعوان وانصار اور خاندان وقبیلہ وغیرہ، سب کو شامل ہے۔ ہر وہ چیز، جس کی کثرت انسان کو محبوب ہو اور کثرت کے حصول کی کوشش وخواہش اسے اللہ کے احکام اور آخرت سے غافل کر دے۔ یہاں اللہ تعالیٰ انسان کی اسی کمزوری کو بیان کر رہا ہے، جس میں انسانوں کی اکثریت ہر دور میں مبتلا رہی ہے۔",
+     "text": "زیادتی کی چاہت نے تمہیں غافل کردیا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "竞赛富庶，已使你们疏忽，"
+    }
+   }
+  },
+  {
+   "arabic": "حَتَّىٰ زُرۡتُمُ ٱلۡمَقَابِرَ",
+   "aya": 2,
+   "id": 6170,
+   "tafsir": {
+    "arabic_moyassar": "واستمر اشتغالكم بذلك إلى أن صرتم إلى المقابر، ودُفنتم فيها."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "যতক্ষণ না তোমরা (মৃুত্যবরণ করে) কবরে গিয়ে পৌঁছোও।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "until you come to your graves."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "jusqu’au jour, inéluctable, où vous serez enterrés."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "sampai kamu masuk ke dalam kubur."
+    },
+    "ur": {
+     "footnotes": "[1] اس کا مطلب ہے کہ حصول کثرت کے لئے محنت کرتے کرتے، تمہیں موت آگئی، اور تم قبروں میں جا پہنچے۔",
+     "text": "یہاں تک کہ تم قبرستان جا پہنچے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "直到你们去游坟地。"
+    }
+   }
+  },
+  {
+   "arabic": "كَلَّا سَوۡفَ تَعۡلَمُونَ",
+   "aya": 3,
+   "id": 6171,
+   "tafsir": {
+    "arabic_moyassar": "ما هكذا ينبغي أن يُلْهيكم التكاثر بالأموال، سوف تتبيَّنون أن الدار الآخرة خير لكم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "কখনো নয়, শীঘ্রই তোমরা জানবে,"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "No indeed! You will come to know."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Mais vous saurez bientôt !"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sekali-kali tidak! Kelak kamu akan mengetahui (akibat perbuatanmu itu)."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی تم جس تکاثر وتفاخر میں ہو، یہ صحیح نہیں۔",
+     "text": "ہرگز نہیں[1] تم عنقریب معلوم کر لو گے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "真的，你们将来就知道了。"
+    }
+   }
+  },
+  {
+   "arabic": "ثُمَّ كَلَّا سَوۡفَ تَعۡلَمُونَ",
+   "aya": 4,
+   "id": 6172,
+   "tafsir": {
+    "arabic_moyassar": "ثم احذروا سوف تعلمون سوء عاقبة انشغالكم عنها."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তারপর কখনো নয়, তোমরা শীঘ্রই (এর পরিণতি সম্পর্কে) জানতে পারবে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Again no! You will come to know."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Oui, vous saurez bientôt !"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Kemudian sekali-kali tidak! Kelak kamu akan mengetahui."
+    },
+    "ur": {
+     "footnotes": "[1] اس کا انجام عنقریب تم جان لو گے، یہ بطور تاکید دو مرتبہ فرمایا۔",
+     "text": "ہرگز نہیں پھر تمہیں جلد علم ہو جائے گا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "然后，真的，你们将来就知道了。"
+    }
+   }
+  },
+  {
+   "arabic": "كَلَّا لَوۡ تَعۡلَمُونَ عِلۡمَ ٱلۡيَقِينِ",
+   "aya": 5,
+   "id": 6173,
+   "tafsir": {
+    "arabic_moyassar": "ما هكذا ينبغي أن يلهيكم التكاثر بالأموال، لو تعلمون حق العلم لانزجرتم، ولبادرتم إلى إنقاذ أنفسكم من الهلاك. لتبصرُنَّ الجحيم، ثم لتبصرُنَّها دون ريب، ثم لتسألُنَّ يوم القيامة عن كل أنواع النعيم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(২) আল্লাহ তোমাদেরকে পুনরুত্থিত করবেন এবং তিনি অচিরেই তোমাদের আমলের প্রতিদান দিবেন এটি নিশ্চিত জানলে, তোমরা সম্পদ ও সন্তানাদির প্রতিযোগিতা নিয়ে ব্যস্ত হতে না।",
+     "text": "কখনো নয়! যদি তোমরা নিশ্চিত জ্ঞান লাভ করতে!(২)"
+    },
+    "en": {
+     "footnotes": "[1] The conclusion of this verse, \"...you would not have been distracted from preparing for the Hereafter by wealth and children.\"",
+     "text": "No indeed! If only you knew for certain[1]."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Si seulement vous en aviez la certitude."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sekali-kali tidak! Sekiranya kamu mengetahui dengan pasti,"
+    },
+    "ur": {
+     "footnotes": "[1] اس کا جواب محذوف ہے۔ مطلب ہے کہ اگر تم اس سے غفلت کا انجام اس طرح یقینی طور پر جان لو، جس طرح دنیا کی کسی دیکھی بھالی چیز کا تمہیں یقین ہوتا ہے تو تم یقیناً اس تکاثر وتفاخر میں مبتلا نہ ہو۔",
+     "text": "ہرگز نہیں اگر تم یقینی طور پر جان لو.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "真的，假若你们有真知灼见，〔你们必不疏忽，〕"
+    }
+   }
+  },
+  {
+   "arabic": "لَتَرَوُنَّ ٱلۡجَحِيمَ",
+   "aya": 6,
+   "id": 6174,
+   "tafsir": {
+    "arabic_moyassar": "ما هكذا ينبغي أن يلهيكم التكاثر بالأموال، لو تعلمون حق العلم لانزجرتم، ولبادرتم إلى إنقاذ أنفسكم من الهلاك. لتبصرُنَّ الجحيم، ثم لتبصرُنَّها دون ريب، ثم لتسألُنَّ يوم القيامة عن كل أنواع النعيم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তোমরা (কিয়ামত দিবসে) অবশ্যই জাহান্নাম দেখবে;"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "You will surely see the Blazing Fire,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Vous verrez sans aucun doute le Brasier."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "niscaya kamu benar-benar akan melihat neraka Jahim,"
+    },
+    "ur": {
+     "footnotes": "[1] یہ قسم محذوف کا جواب ہے یعنی اللہ کی قسم تم جہنم ضرور دیکھو گے یعنی اس کی سزا بھگتو گے۔",
+     "text": "تو بیشک تم جہنم دیکھ لو گے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你们必定看见火狱，"
+    }
+   }
+  },
+  {
+   "arabic": "ثُمَّ لَتَرَوُنَّهَا عَيۡنَ ٱلۡيَقِينِ",
+   "aya": 7,
+   "id": 6175,
+   "tafsir": {
+    "arabic_moyassar": "ما هكذا ينبغي أن يلهيكم التكاثر بالأموال، لو تعلمون حق العلم لانزجرتم، ولبادرتم إلى إنقاذ أنفسكم من الهلاك. لتبصرُنَّ الجحيم، ثم لتبصرُنَّها دون ريب، ثم لتسألُنَّ يوم القيامة عن كل أنواع النعيم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তারপর (আবারো বলছি,) তোমরা তা দেখবে নিশ্চিতভাবে নিজেদের চোখে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Again, you will see it with absolute certainty."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Oui, vous le verrez de vos propres yeux."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "kemudian kamu benar-benar akan melihatnya dengan mata kepala sendiri,"
+    },
+    "ur": {
+     "footnotes": "[1] پہلا دیکھنا دور سے ہوگا، یہ دیکھنا قریب سے ہوگا، اسی لئے اسے عَيْنُ الْيَقِينِ (جس کا یقین مشاہدۂ عینی سے حاصل ہو) کہا گیا۔",
+     "text": "اور تم اسے یقین کی آنکھ سے دیکھ لو گے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "然后，你们必亲眼看见它。"
+    }
+   }
+  },
+  {
+   "arabic": "ثُمَّ لَتُسۡـَٔلُنَّ يَوۡمَئِذٍ عَنِ ٱلنَّعِيمِ",
+   "aya": 8,
+   "id": 6176,
+   "tafsir": {
+    "arabic_moyassar": "ما هكذا ينبغي أن يلهيكم التكاثر بالأموال، لو تعلمون حق العلم لانزجرتم، ولبادرتم إلى إنقاذ أنفسكم من الهلاك. لتبصرُنَّ الجحيم، ثم لتبصرُنَّها دون ريب، ثم لتسألُنَّ يوم القيامة عن كل أنواع النعيم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তারপর সেদিন অবশ্যই তোমরা (আল্লাহ প্রদত্ত) নি‘আমত সম্পর্কে জিজ্ঞাসিত হবে।"
+    },
+    "en": {
+     "footnotes": "[2] i.e., of health and wealth and other comforts of the worldly life.",
+     "text": "Then on that Day you will surely be asked about your worldly pleasures[2]."
+    },
+    "fr": {
+     "footnotes": "[1] Avez-vous répondu aux bienfaits de votre Seigneur par la gratitude ?",
+     "text": "Vous devrez, ce Jour-là, répondre de vos jouissances terrestres[1]."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "kemudian kamu benar-benar akan ditanya pada hari itu tentang kenikmatan (yang megah di dunia itu)."
+    },
+    "ur": {
+     "footnotes": "[1] یہ سوال ان نعمتوں کے بارے میں ہوگا، جو اللہ نے دنیا میں عطا کی ہوں گی۔ جیسے آنکھ، کان، دل، دماغ، امن وصحت، مال ودولت اور اولاد وغیرہ۔ بعض کہتے ہیں، یہ سوال صرف کافروں سے ہوگا۔ بعض کہتے ہیں، ہر ایک سے ہی ہوگا کیوں کہ محض سوال مستلزم عذاب نہیں۔ جنہوں نے ان نعمتوں کا استعمال اللہ کی ہدایت کے مطابق کیا ہوگا، وہ سوال کے باوجود عذاب سے محفوظ رہیں گے ، اور جنہوں نے کفران نعمت کا ارتکاب کیا ہوگا، وہ دھر لیے جائیں گے۔",
+     "text": "پھر اس دن تم سے ضرور بالضرور نعمتوں کا سوال ہوگا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "在那日，你们必为恩泽而被审问。"
+    }
+   }
+  }
+ ],
+ "content_sha256": "sha256:028072cda0ecd1b9a43bd13e94f89dfec8d5ee6170c1ad783e581be166c52ad2",
+ "name_ar": "التكاثر",
+ "number": 102,
+ "schema": "balligh.library.quran.surah/1"
+}

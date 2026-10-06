@@ -1,0 +1,63 @@
+{
+ "answer": [
+  [
+   {
+    "kind": "strong",
+    "text": "الجواب:"
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "إذا تفارقا فعليهما أن يصطلحا على مسألة الأولاد في النفقة، ينظر حالهما في المحكمة، يصطلحا مع وليها معها في النفقة المطلوبة كل شهر، والحمد لله؛ فإن تنازعا يرجعا إلى المحكمة، المحكمة تنظر، وتقدر النفقة اللازمة، لكن الأولى من ذلك الصلح، الأولى من المحكمة الصلح، يصطلحان على نفقة مناسبة ينفقها على أولاده إذا كان طلقها، وعندها أولاد، هذا هو الأولى، فإن تنازعا؛  فيرجعا إلى  المحكمة، ما يمكن غير المحكمة تنظر في هذا."
+   }
+  ]
+ ],
+ "content_sha256": "sha256:11ea6d5325b9e44e40c6af23794cf591b38bad3e1f2ab281fd4fccd95c808c64",
+ "id": "binbaz-1283",
+ "language": "ar",
+ "notes": [],
+ "question": [
+  [
+   {
+    "kind": "strong",
+    "text": "السؤال:"
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "المرأة لا تحب زوجها، وهو كذلك كما تقول، فهي تسأل هل يلزم الشرع الزوج أن يصرف عليها، وعلى ولديها منه بعد الطلاق ببيت مستقل، أم لا؟"
+   }
+  ]
+ ],
+ "raw_sha256": "sha256:945ee65566c9ad1876f44fb80393f840be743698e9ab5d03cf420a957315b051",
+ "reuse_basis": "user_confirmed_permission",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.fatwa/2",
+ "source": {
+  "edition": null,
+  "publisher": "binbaz.org.sa",
+  "publisher_name": "موقع الشيخ ابن باز",
+  "retrieved_at": "2026-10-06T03:52:45+00:00",
+  "series": "فتاوى الجامع الكبير",
+  "url": "https://binbaz.org.sa/fatwas/1283/%D8%A7%D9%84%D9%86%D9%81%D9%82%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D9%88%D9%84%D8%A7%D8%AF-%D8%A8%D8%B9%D8%AF-%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%85%D9%87%D9%85"
+ },
+ "source_categories": [
+  {
+   "id": "178",
+   "label": "النفقات",
+   "url": "https://binbaz.org.sa/categories/fiqhi/178"
+  },
+  {
+   "id": "228",
+   "label": "الآداب والأخلاق المحمودة",
+   "url": "https://binbaz.org.sa/categories/objective/228"
+  }
+ ],
+ "source_record_id": "1283",
+ "title": "النفقة على الأولاد بعد طلاق أمهم",
+ "topic": "conduct",
+ "translations": {},
+ "type": "fatwa"
+}

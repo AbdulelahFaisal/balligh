@@ -1,0 +1,160 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-11643",
+ "source_content_sha256": "sha256:e3cd01d3b20379edbefd1a28ca1dfef06f2e414dc838ccd182e74590bdb18968",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:33:02.596692+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 3426,
+  "completion_tokens": 3446,
+  "total_tokens": 6872,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 3426
+ },
+ "latency_ms": 23546,
+ "units": [
+  {
+   "id": "title",
+   "text": "Does one who says 'La ilaha illallah' enter Paradise? What are its conditions?"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "Your Eminence, the Shaykh! This questioner says: What are the conditions of La ilaha illallah (there is no god but Allah), the word of Tawheed (monotheism)? And does one who says La ilaha illallah only, without acting upon it, enter Paradise?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "In the name of Allah, the Most Gracious, the Most Merciful. Praise be to Allah, and may peace and blessings be upon the Messenger of Allah, his family, his companions, and whoever follows his guidance. To proceed."
+  },
+  {
+   "id": "a2",
+   "text": "The legal evidences from the Quran and Sunnah indicate that whoever comes with Tawheed and dies upon it will enter Paradise. Among that is the saying of the Prophet ﷺ: 'I have been commanded to fight the people until they say: La ilaha illallah. If they say it, their blood and their wealth are protected from me except for its right.' And among them is the hadith of Ubadah ibn al-Samit: 'Whoever testifies that there is no god but Allah alone with no partner, and that Muhammad is His servant and Messenger, and that Jesus is the servant of Allah and His Messenger, and His word which He cast to Maryam, and a spirit from Him, and that Paradise is true and the Fire is true, Allah will admit him into Paradise regardless of what deeds he has done.'"
+  },
+  {
+   "id": "a3",
+   "text": "... There are many hadiths like this indicating that whoever says La ilaha illallah truthfully, as a monotheist, whose statement includes his disavowal of shirk (associating partners with Allah) and his belief that Allah is the one deserving of worship, will enter Paradise and be among the Muslims, along with belief in the testimony of the Prophets that Muhammad is the Messenger of Allah, and belief in everything Allah and His Messenger have informed of that has reached him at that time."
+  },
+  {
+   "id": "a4",
+   "text": "Then he is required to follow the laws of Islam. If he reaches the time of prayer, he must pray; likewise zakah, likewise fasting, likewise Hajj. And if he dies after Tawheed, he will enter Paradise. That is, if he embraces Islam and dies immediately, he enters Paradise because he did not live to perform deeds, nor did he commit any sin, and Islam wipes out what came before it, and repentance demolishes what was before it. But if he lives until he reaches the time of prayer, prayer becomes obligatory upon him. If he refuses and denies it, he has disbelieved; and if he does not pray, he has disbelieved."
+  },
+  {
+   "id": "a5",
+   "text": "Likewise, if he reaches the time of zakah, zakah becomes obligatory upon him. If he refuses, he becomes a sinner deserving to enter the Fire. Likewise, if he reaches the time of fasting and does not fast, he becomes a sinner deserving to enter the Fire unless Allah forgives him. Likewise, if he commits adultery, steals, or the like, he becomes a sinner deserving to enter the Fire unless Allah forgives him, and he is under the will of Allah: ⟦Q1⟧ [An-Nisa:48]."
+  },
+  {
+   "id": "a6",
+   "text": "The point is: whenever he enters Islam, affirms the oneness of Allah, disavows all shirk, and believes in everything Allah and His Messenger have informed, he becomes a Muslim. Then he is required to fulfill the rights of Islam such as prayer and others, and to abandon sins. If he abandons sins and fulfills the rights, his Islam and faith are complete. And if he dies immediately before performing any deeds, he will have Paradise because his Islam wipes out the evils that came before it. But if he lives and commits some sins or leaves some obligations, he is under the will of Allah. If Allah wills, He forgives him and admits him to Paradise by his Tawheed; and if He wills, He punishes him according to the sins upon which he died, as mentioned previously in His saying, Glorified be He: ⟦Q2⟧ [An-Nisa:48]. This is by consensus of the Muslims, by consensus of Ahlus-Sunnah wal-Jama'ah."
+  },
+  {
+   "id": "a7",
+   "text": "The sinner is under the will of Allah and does not become a disbeliever, contrary to the Khawarij. Nor will he remain in the Fire forever as the Khawarij and Mu'tazilah say. Rather, he is under the will of Allah. If he dies upon adultery, theft, disobedience to parents, drinking intoxicants, consuming riba (usury/interest), but does not consider them lawful, acknowledging that they are sins without considering them lawful, but his desire and Satan overcame him, while he knows they are sins, then he is under the will of Allah. If Allah wills, He pardons him; and if He wills, He punishes him in the Fire according to the sins upon which he died, after purification and refinement, then Allah will bring him out of the Fire by consensus of Ahlus-Sunnah wal-Jama'ah. No one will remain in the Fire forever except the disbelievers, contrary to the Khawarij and Mu'tazilah who say that the sinner who dies upon sin will remain in the Fire forever, and the Khawarij say that he becomes a disbeliever. Their statement is false according to Ahlus-Sunnah wal-Jama'ah, one of the falsest falsehoods. The noble verse refutes them, which is His saying, Glorified be He: ⟦Q3⟧ [An-Nisa:48]."
+  },
+  {
+   "id": "a8",
+   "text": "As for his saying ﷺ regarding the adulterer: 'The adulterer does not commit adultery while he is a believer, and the drinker of wine does not drink wine while he is a believer, and the thief does not steal while he is a believer,' its meaning is a threat and warning. That is, he does not have complete faith; his faith is deficient. It does not mean he is a disbeliever, because the verses confirm one another, and the hadiths confirm one another, and the Book of Allah does not contradict itself, and the Sunnah does not contradict the Quran. So it is obligatory to interpret the texts with the texts, to interpret one text with another."
+  },
+  {
+   "id": "a9",
+   "text": "His saying: 'The adulterer does not commit adultery while he is a believer' means the obligatory complete faith. If he had complete faith, he would not commit adultery. But he has deficiency, and that is why he fell into adultery, fell into wine, due to deficiency in his faith. It does not mean he is a disbeliever, because the Messenger ﷺ commanded that the adulterer be given the hadd (prescribed punishment), the hadd be carried out on him, and the hadd is an expiation for him. Likewise the wine drinker, the hadd is carried out on him, and the hadd is an expiation for him."
+  },
+  {
+   "id": "a10",
+   "text": "And if the adulterer dies upon adultery after the hadd, he will enter Paradise, the hadd being an expiation for him. That is why the Prophet ﷺ said in the hadith of Ubadah in the two Sahihs, when he mentioned the sins: 'Whoever Allah seizes in this world (i.e., with the legal punishments), it is an expiation for him. And whoever Allah delays to the Hereafter, his affair is up to Allah,' as the Almighty said: ⟦Q4⟧[An-Nisa:48]."
+  },
+  {
+   "id": "a11",
+   "text": "Ahlus-Sunnah wal-Jama'ah say: The one who commits sins is under the will of Allah, if the sin is less than shirk and he does not consider it lawful, then he is under the will of Allah; like the adulterer, the drinker of wine, the consumer of riba, the one disobedient to parents, and the like. As for the one who considers sins lawful, considers adultery lawful, saying: adultery is halal. The proof is established against him. If it is made clear to him with evidence and he insists that adultery is lawful, he has disbelieved, he becomes a disbeliever with major kufr. Likewise, one who says wine is lawful, and the evidence is made clear to him and he insists, he becomes a disbeliever."
+  },
+  {
+   "id": "a12",
+   "text": "Likewise, one who says theft is lawful, or riba is lawful, the evidences are made clear to him, and if he insists that all riba is lawful, he has disbelieved. Likewise, one who says disobedience to parents is lawful, the matter is made clear to him, and if he insists after the evidences, he has disbelieved. Likewise, one who says sodomy is lawful, and so on. Whoever considers lawful the sins that are necessarily known in the religion, considers them lawful, and the evidence is made clear to him and he insists, he has disbelieved."
+  },
+  {
+   "id": "a13",
+   "text": "As for the one who dies upon sin while knowing it is a sin, not considering it lawful, knowing that he is a sinner, dies as an adulterer, dies as a wine drinker, dies engaging in riba, while knowing these are sins, then he is under the will of Allah. If our Lord wills, He forgives him by his good deeds and Tawheed; and if He wills, He punishes him according to the crime upon which he died, then after purification and refinement in the Fire, Allah brings him out of the Fire."
+  },
+  {
+   "id": "a14",
+   "text": "The hadiths are mutawatir (mass-transmitted) from the Messenger ﷺ that many of the sinners will enter the Fire and be punished therein, then Allah will bring them out of the Fire after they have been scorched and burned. They will be thrown into the river of life, and they will grow as a seed grows in the silt carried by a flood. When their creation is complete, Allah will admit them to Paradise. The hadiths about this are mutawatir from the Messenger of Allah ﷺ, and Ahlus-Sunnah wal-Jama'ah have consensus on it. No one will remain in the Fire forever except the disbelievers – we ask Allah for safety. As for the sinners, no. He may remain in it for a long time, and that is called 'khulud' (eternity), but it is a temporary eternity that ends. When the period that Allah has decreed for him is complete, he will exit the Fire and go to Paradise because of his Tawheed and Islam."
+  },
+  {
+   "id": "a15",
+   "text": "Tawheed has conditions mentioned by some scholars, which are seven. Some said eight. Some have collected them in two lines of poetry:"
+  },
+  {
+   "id": "a16",
+   "text": "Knowledge, certainty, sincerity, and your truthfulness, along with"
+  },
+  {
+   "id": "a17",
+   "text": "Love, submission, and acceptance for it."
+  },
+  {
+   "id": "a18",
+   "text": "And an eighth is added: your disbelieving in whatever"
+  },
+  {
+   "id": "a19",
+   "text": "Besides the God has been deified."
+  },
+  {
+   "id": "a20",
+   "text": "If the student of knowledge understands them, masters them, and fulfills them, that is a perfection of his Tawheed and faith. And if a common person does not know these conditions, but he disavows shirk, believes in Allah, and affirms His oneness, it suffices, even if he does not know the conditions, as long as he disavows shirk, disavows kufr, believes in its falsehood, believes in Allah, and affirms His oneness, it suffices.\n His saying: knowledge, meaning: he knows that Allah – Exalted and Majestic – is the one deserving of worship, and that the meaning of La ilaha illallah is: there is no true god except Allah."
+  },
+  {
+   "id": "a21",
+   "text": "Certainty: he says it with certainty, not with doubt, meaning he affirms the oneness of Allah with certainty."
+  },
+  {
+   "id": "a22",
+   "text": "And sincerity: meaning he does not associate anything with Allah, rather he is sincere to Allah."
+  },
+  {
+   "id": "a23",
+   "text": "With truthfulness, contrary to the hypocrites who say it while lying. Hypocrites, so this one is a disbeliever if he says it outwardly while denying it inwardly, this is a disbeliever."
+  },
+  {
+   "id": "a24",
+   "text": "With love: with love of Allah, and love of His Tawheed, because one who does not love Allah is a disbeliever, or who hates Tawheed and hates faith is a disbeliever: ⟦Q5⟧ [Muhammad:9]."
+  },
+  {
+   "id": "a25",
+   "text": "Likewise acceptance, being that he accepts the religion, accepts the truth, submits to it. But if he rejects the truth and does not accept it, and does not submit to the truth, rather refuses it and does not affirm the oneness of Allah, he enters into shirk and becomes a disbeliever."
+  },
+  {
+   "id": "a26",
+   "text": "And it is necessary to disbelieve in what is worshipped besides Allah, as the Almighty said: ⟦Q6⟧ [Al-Baqarah:256], meaning: he disbelieves in the worship of other than Allah, meaning he denies it, believes in the falsehood of worshipping other than Allah, denies it, and disavows it. This is the meaning of the poet's saying:"
+  },
+  {
+   "id": "a27",
+   "text": "And an eighth is added: your disbelieving in whatever"
+  },
+  {
+   "id": "a28",
+   "text": "Besides the God has been deified."
+  },
+  {
+   "id": "a29",
+   "text": "The point is: the believer knows the truth, believes in it, is truthful in that, disavows shirk and its people, submits to the truth, is content with it, and loves Allah and His Messenger. Thus is the believer. Even if he does not know the conditions, as long as he accepts the truth, submits to the oneness of Allah, is sincere to Allah, loves Allah, submits to His law, and is not lying like the hypocrites, his faith is sound. Yes."
+  },
+  {
+   "id": "a30",
+   "text": "Presenter: May Allah reward you greatly for this clarification, Your Eminence the Shaykh."
+  }
+ ]
+}

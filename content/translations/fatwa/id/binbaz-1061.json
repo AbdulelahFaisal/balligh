@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-1061",
+ "source_content_sha256": "sha256:5e3d251ce5ddc72a08c897bba6456d70fa9e41649cb8f227501de197cdf73cfe",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:27:01.875105+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 544,
+  "completion_tokens": 354,
+  "total_tokens": 898,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 544
+ },
+ "latency_ms": 6261,
+ "units": [
+  {
+   "id": "title",
+   "text": "Apakah zakat halal diberikan kepada para pendatang karena gaji mereka yang lemah?"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Para pekerja yang tiba di sini, gaji mereka lemah, penghidupan mereka hanya sekadar bertahan hidup, dan mereka memiliki anak-anak yang lemah. Apakah zakat halal untuk mereka?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Apabila mereka dikenal dalam keadaan membutuhkan, gaji mereka tidak mencukupi kebutuhan mereka, dan mereka adalah orang-orang Muslim yang dikenal dengan kondisi tersebut, maka tidak mengapa memberikan sebagian dari zakat untuk menutupi kebutuhan, jika mereka dikenal sebagai Muslim, dan jika mereka dikenal jujur, serta mereka benar-benar membutuhkan dan fakir. Karena banyak orang yang mengaku fakir padahal dia berdusta, dan gajinya mencukupinya. "
+  },
+  {
+   "id": "a2",
+   "text": "Maka jika diketahui kebutuhannya dengan jujur, yaitu ada saksi yang dapat dipercaya bahwa dia fakir, dan bahwa gaji ini sedikit dan kecil, tidak mencukupi kebutuhannya, maka tidak mengapa untuk diberikan. Jika tidak, maka jangan diberikan. Dan hendaknya mencari orang-orang yang dikenal membutuhkan dan Muslim."
+  }
+ ]
+}

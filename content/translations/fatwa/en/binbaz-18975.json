@@ -1,0 +1,52 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-18975",
+ "source_content_sha256": "sha256:e3ac7d234783a58714dc2cc452f55fdbd54ffc4d38a2b5a6d93a70074b4926ef",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:21:25.743015+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 596,
+  "completion_tokens": 430,
+  "total_tokens": 1026,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 596
+ },
+ "latency_ms": 5301,
+ "units": [
+  {
+   "id": "title",
+   "text": "What is the meaning of the two testimonies of faith?"
+  },
+  {
+   "id": "q0",
+   "text": "Question:"
+  },
+  {
+   "id": "q1",
+   "text": "From the questions of this questioner from Riyadh, he says: What is the meaning of the testimony that there is no god but Allah and that Muhammad is the Messenger of Allah?"
+  },
+  {
+   "id": "a0",
+   "text": "Answer:"
+  },
+  {
+   "id": "a1",
+   "text": "The meaning of the testimony is that one testifies with his tongue and his heart that there is no true deity worthy of worship except Allah. He testifies with his tongue and believes with his heart that there is no god but Allah, meaning: there is no true deity worthy of worship except Allah, and that what people worship besides Allah—whether idols, the dead, trees, stones, angels, or others—is all false, as Allah, the Exalted, says: ⟦Q1⟧ [Al-Hajj:62]. This is the meaning of the testimony that there is no god but Allah: that you testify with knowledge, certainty, and sincerity that there is no true deity worthy of worship except Allah, and that whatever people worship besides Allah is all false."
+  },
+  {
+   "id": "a2",
+   "text": "And the meaning of the testimony that Muhammad is the Messenger of Allah is that you testify with knowledge, certainty, and sincerity that Muhammad ibn Abdullah ibn Abdul-Muttalib is truly the Messenger of Allah to all of the two weighty creations—their jinn and their humans—and that he is the Seal of the Prophets; there is no prophet after him, peace and blessings be upon him. Yes."
+  },
+  {
+   "id": "a3",
+   "text": "Presenter: May Allah preserve you."
+  }
+ ]
+}

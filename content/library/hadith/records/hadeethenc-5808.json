@@ -1,0 +1,188 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:98bd9462c8dbfc64e0a7f5f50cf09b935269271b13d3f192d8076a6228333e47",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "سُئِلَ النبيُّ صلى الله عليه وسلم: أيُّ خِصَالِ الإسلامِ أفضلُ؟ فَذَكَرَ خَصْلتين:\n\nالأولى: الإكثار من إطعام الفقراء، ويدخل فيه الصدقة والهدية والضيافة والوليمة، وتتأكد فضيلة الإطعام في أوقات المجاعة وغلاء الأسعار. \n\nوالثانية: إلقاء السلام على كلِّ مسلم، عَرَفْتَه أوْ لم تَعْرِفْه.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "حرص الصحابة على معرفة الخِصال التي تنفع في الدنيا والآخرة.",
+  "السلام وإطعام الطعام من أفضل الأعمال في الإسلام؛ لفضلها وحاجة الناس إليها في كل وقت.",
+  "بهاتين الخصلتين يجتمع الإحسان بالقول والفعل، وهو أكمل الإحسان.",
+  "هذه الخصال فيما يتعلَّق بتعامل المسلمين فيما بينهم، وهناك خِصالٌ في تعامُلِ العبد مع ربِّه.",
+  "البدء بالسلام مخصوص بين المسلمين، فلا يُسلَّم ابتداءً على كافر."
+ ],
+ "id": "hadeethenc-5808",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (1/ 12) (12).\nصحيح مسلم (1/ 65) (39).\nبهجة الناظرين شرح رياض الصالحين، لسليم الهلالي (1/ 604).\nمرقاة المفاتيح شرح مشكاة المصابيح، لعلي القاري (7/ 2936).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=5808",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:51+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/5808"
+ },
+ "source_categories": [
+  {
+   "id": "5",
+   "label": "الفضائل والآداب"
+  },
+  {
+   "id": "286",
+   "label": "آداب السلام والاستئذان"
+  }
+ ],
+ "source_record_id": "5808",
+ "text": "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو رَضِيَ اللَّهُ عَنْهُمَا: أَنَّ رَجُلًا سَأَلَ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: أَيُّ الإِسْلاَمِ خَيْرٌ؟ قَالَ: «تُطْعِمُ الطَّعَامَ، وَتَقْرَأُ السَّلاَمَ عَلَى مَنْ عَرَفْتَ وَمَنْ لَمْ تَعْرِفْ».",
+ "title": "أن رجلا سأل النبي صلى الله عليه وسلم: أي الإسلام خير؟ قال: تطعم الطعام، وتقرأ السلام على من عرفت ومن لم تعرف",
+ "topic": "conduct",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=5808",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:d1f284897b4aef4074f2a1b22f99070c16c9cf782d0d257a5ee56b69c0bd3562",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামকে জিজ্ঞাসা করা হয়েছিল: ইসলামের কোন গুণগুলো সর্বোত্তম? তিনি তখন দুটি গুণের কথা উল্লেখ করলেন:\r\n\r\nপ্রথমটি হলো: গরিব-দুঃখীদের বেশি বেশি খাবার খাওয়ানো। এর মধ্যে সদকা, হাদিয়া, মেহমানদারি এবং ওয়ালিমা অন্তর্ভুক্ত। দুর্ভিক্ষ ও মূল্যবৃদ্ধির সময় খাবার খাওয়ানোর ফযীলত আরও বেশি গুরুত্বপূর্ণ।\r\n\r\nদ্বিতীয়টি হলো: প্রত্যেক মুসলিমকে সালাম দেওয়া, সে পরিচিত হোক বা অপরিচিত হোক।",
+   "grade": "সহীহ",
+   "hints": [
+    "সাহাবায়ে কেরাম দুনিয়া ও আখিরাতে  উপকার দিবে এসব গুণাবলি জানার জন্য আগ্রহী ছিলেন।\r",
+    "সালাম প্রদান ও খাবার খাওয়ানো ইসলামে সর্বোত্তম আমলগুলোর মধ্যে অন্তর্ভুক্ত; কারণ এগুলোর ফজিলত অনেক এবং মানুষের জন্য সব সময় এগুলোর প্রয়োজন রয়েছে।\r",
+    "এ দুটি গুণে কথা ও কাজের ইহসান একত্রিত হয়, যা পূর্ণাঙ্গ ইহসান।\r",
+    "এই গুণগুলো মুসলিমদের পারস্পরিক আচরণ সম্পর্কিত। আর বান্দার সাথে তার রবের সম্পর্কের ক্ষেত্রেও কিছু গুরুত্বপূর্ণ গুণ রয়েছে।\r",
+    "সালাম প্রদান শুধুমাত্র মুসলিমদের মধ্যেই সীমাবদ্ধ। তাই অমুসলিমদেরকে প্রথমে সালাম দেওয়া যাবেনা।"
+   ],
+   "mapping": "same HadeethEnc record id 5808; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:22+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/5808",
+   "text": "আব্দুল্লাহ ইবন ‘আমর রাদিয়াল্লাহু ‘আনহুমা থেকে বর্ণিত, তিনি বলেন: জনৈক ব্যক্তি রাসূলুল্লাহ সাল্লাল্লাহ আলাইহি ওসাল্লামকে জিজ্ঞেস করল, ‘ইসলামের কোন কাজটি উত্তম?’ তিনি বললেন, “খানা খাওয়াবে এবং পরিচিত ও অপরিচিত সবাইকে সালাম দেবে।”",
+   "title": "জনৈক ব্যক্তি রাসূলুল্লাহ সাল্লাল্লাহ আলাইহি ওসাল্লামকে জিজ্ঞেস করল, ‘ইসলামের কোন কাজটি উত্তম?’ তিনি বললেন, “খানা খাওয়াবে এবং পরিচিত ও অপরিচিত সবাইকে সালাম দেবে।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=5808",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:6df5c4c650c186830c039b79f0ce94ac21465e205f3ded9a2f161f0674cb3331",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) was asked: What qualities of Islam are the best? He mentioned two qualities:\r\n\r\nFirst: Feeding the poor frequently, and this includes charity, gifts, hospitality, and banquets. The merit of feeding others is even more emphatic during times of famine and the rise in prices.\r\n\r\nSecond: Extending the greeting of peace to every Muslim, whether you know him or not.",
+   "grade": "Authentic",
+   "hints": [
+    "The Companions' keenness to learn about the qualities that bring benefit in this life and the Hereafter.\r",
+    "Extending the greeting of peace and providing others with food are among the best deeds in Islam given their merit and the people's need for them at all times.\r",
+    "These two qualities combine benevolence in words and deeds, which is the most perfect kind of benevolence.\r",
+    "These qualities pertain to the way Muslims treat each other, and there are other qualities about the way one deals with his Lord.\r",
+    "Initiating the greeting is solely for Muslims; thus, no greeting should be initiated with the disbeliever."
+   ],
+   "mapping": "same HadeethEnc record id 5808; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:21+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/5808",
+   "text": "‘Abdullah ibn ‘Amr (may Allah be pleased with him and his father) reported: A man asked the Prophet (may Allah's peace and blessings be upon him): Which deed in Islam is the best? He said: \"Feeding people and extending the greeting of peace to those you know and those you do not know.\"",
+   "title": "A man asked the Prophet (may Allah's peace and blessings be upon him): Which deed in Islam is the best? He said: \"Feeding people and extending the greeting of peace to those you know and those you do not know",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=5808",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:effce1e8c6629fabc2d8a42ec9d18787abe352bf157bb955f83a13888b06e4fd",
+   "explanation": "Le Prophète ﷺ a été interrogé : \" Laquelle des bribes de l'Islam est la meilleure ? \" Alors, il ﷺ mentionna deux bribes :\r\n\r\nLa première : le fait de beaucoup nourrir les pauvres ; et dans cela est inclus : l'aumône, le présent, l'invitation, le repas de mariage, etc. Par ailleurs, nourrir les gens en période de famine ou d'inflation (littéralement : prix élevés) est encore plus requis.\r\n\r\nLa seconde : le fait de saluer tout musulman, que l'on connaisse la personne ou non.",
+   "grade": "Authentique",
+   "hints": [
+    "L'assiduité des Compagnons (qu'Allah les agrée) à connaître les bribes [de l'islam] qui sont bénéfiques ici-bas et dans l'au-delà.\r",
+    "Saluer les gens et les nourrir font partie des meilleures œuvres en Islam, notamment du fait de leur mérite et du besoin des gens vis-à-vis de ces deux choses à chaque instant.\r",
+    "Avec ces deux bribes, la bienfaisance se réunit en paroles et en actes et ceci est la bienfaisance la plus complète.\r",
+    "Ces bribes sont liées à la relation des musulmans entre eux ; il existe aussi des bribes qui concernent la relation du serviteur avec son Seigneur.\r",
+    "Le fait de commencer à saluer est spécifique aux musulmans entre eux ; en effet, on ne salue pas de prime abord le mécréant."
+   ],
+   "mapping": "same HadeethEnc record id 5808; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:22+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/5808",
+   "text": "D'après 'AbdaLlah ibn 'Amrû (qu'Allah les agrée tous les deux) : Un homme interrogea le Prophète ﷺ : « Quel est le meilleur islam ? » Il ﷺ lui répondit : « Tu nourris les gens et tu salues quiconque tu connais ainsi que quiconque tu ne connais pas. »",
+   "title": "Un homme interrogea le Prophète ﷺ : « Quel est le meilleur islam ? » Il ﷺ lui répondit : « Tu nourris les gens et tu salues quiconque tu connais ainsi que quiconque tu ne connais pas.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=5808",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:610791fb9d211fc55ab390e5bbe4534bc10a7989098392853b797d4cdbd0b366",
+   "explanation": "Nabi ﷺ ditanya, \"Amalan Islam manakah yang paling utama?\" Lantas beliau menyebutkan dua amalan:\r\n\r\n- Pertama: sering memberi makan kepada orang fakir, termasuk sedekah, hadiah, menjamu tamu, dan walimah. Keutamaan memberi makan semakin kuat pada waktu-waktu bahan makanan langka dan harga melambung.\r\n\r\n- Kedua: mengucapkan salam kepada setiap muslim, yang Anda kenal maupun yang belum Anda kenal.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Kegigihan para sahabat untuk mengetahui amalan-amalan yang bermanfaat di dunia dan akhirat.\r",
+    "2- Salam dan memberi makan termasuk amalan paling utama dalam Islam karena keutamaannya dan manusia membutuhkannya setiap waktu.\r",
+    "3- Dua amalan ini menggabungkan antara kebaikan dengan ucapan dan perbuatan. Itu merupakan kebaikan paling sempurna.\r",
+    "4- Dua amalan ini berkaitan dengan interaksi antarmuslimin. Ada juga amalan-amalan lainnya terkait interaksi antara hamba dan Tuhannya.\r",
+    "5- Mengucapkan salam terlebih dahulu berlaku secara khusus antarmuslimin, sedangkan terhadap orang kafir tidak boleh."
+   ],
+   "mapping": "same HadeethEnc record id 5808; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:22+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/5808",
+   "text": "Abdullah bin 'Amr -raḍiyallāhu 'anhumā- meriwayatkan, \"Seorang lelaki bertanya kepada Nabi ﷺ, 'Amalan apa yang terbaik dalam Islam?' Beliau menjawab, 'Memberi makanan dan mengucapkan salam kepada orang yang kaukenal dan belum kaukenal.'\"",
+   "title": "Seorang lelaki bertanya kepada Nabi ﷺ, 'Amalan apa yang terbaik dalam Islam?' Beliau menjawab, 'Memberi makanan dan mengucapkan salam kepada orang yang kaukenal dan belum kaukenal.'",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=5808",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:2acbb615ebce17ef48810ea49f517004cdb5902c472b39776937658025612909",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم سے پوچھا گیا کہ اسلام کا کون سا عمل سب سے اچھا ہے؟ تو جواب میں آپ نے دو اعمال کا ذکر کیا :\r\n\r\nپہلا : غریبوں کو زیادہ سے زیادہ کھانا کھلانا۔ اس میں صدقہ، ہدیہ، ضیافت اور ولیمہ سب شامل ہے۔ کھانا کھلانے کی یہ اہمیت اس وقت اور بڑھ جاتی ہے، جب فقر و فاقہ ہو اور مہنگائی بڑھی ہوئی ہو۔\r\n\r\nدوسرا : ہر مسلمان کو سلام کرنا۔ جانا پہچانا ہو یا ان جان۔",
+   "grade": "صحيح",
+   "hints": [
+    "صحابہ ایسے کاموں کو جاننے کے حریص تھے، جو دنیا اور آخرت میں نفع بخش ہوں۔\r",
+    "سلام کرنا اور کھانا کھلانا اسلام میں افضل ترین اعمال میں سے دو اعمال ہيں۔ کیوں کہ ایک تو ان کی فضیلت ہے اور دوسرے لوگوں کو ہر وقت ان کی ضرورت رہتی ہے۔\r",
+    "ان دونوں کاموں میں احسان بالقول اور احسان بالعمل دونوں باتیں یکجا ہو جاتی ہیں، جو کہ احسان کی کامل ترین شکل ہے۔\r",
+    "یہ وہ کام ہیں، جن کا تعلق مسلمانوں کے آپسی تعامل سے ہے، جب کہ کچھ کام ایسے بھی ہيں، جن کا تعلق بندے کے رب کے ساتھ تعامل سے ہے۔\r",
+    "سلام کرنے میں پہل کرنے کی بات مسلمانوں تک محدود ہے۔ غیر مسلموں کو سلام کرنے میں پہل نہيں کی جائے گی۔"
+   ],
+   "mapping": "same HadeethEnc record id 5808; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:21+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/5808",
+   "text": "عبداللہ بن عمرو رضی اللہ عنہما سے روایت ہے، وہ کہتے ہیں : ایک آدمی نے رسول اللہ صلی اللہ علیہ و سلم سے پوچھا کہ اسلام کا کون سا عمل سب سے اچھا ہے؟ آپ صلی اللہ علیہ و سلم نے فرمایا: \"یہ کہ تم کھانا کھلاؤ اور جانے پہچانے اور ان جانے سب کو سلام کرو۔\"",
+   "title": "ایک آدمی نے رسول اللہ صلی اللہ علیہ و سلم سے پوچھا کہ اسلام کا کون سا عمل سب سے اچھا ہے؟ آپ صلی اللہ علیہ و سلم نے فرمایا: \"یہ کہ تم کھانا کھلاؤ اور جانے پہچانے اور ان جانے سب کو سلام کرو۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=5808",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:28fbdb114b83be3f55d5f23b3bb9e2d1f992e8b33d6b83876461fa1c70cb73a9",
+   "explanation": "有人询问先知（愿主福安之）：伊斯兰的哪一项特性最优越？然后先知提到了两样特性：\r\n\r\n第一：多给穷人食物，这就包括：施舍、礼物、待客和宴席，在饥饿和物价上涨的时代给人食物尤为贵重。\r\n\r\n第二：为每个穆斯林道赛俩目，无论是认识的还是不认识的。",
+   "grade": "正确的",
+   "hints": [
+    "圣门弟子们渴望认识有益于今后两世的特性。\r",
+    "道赛俩目和给人食物，属于伊斯兰教的最优越的工作，因为此两项工作之优越，因为这是人们每时每刻都需要的。\r",
+    "这两项特性聚集了言语和行为的善行，这是最完美的善行。\r",
+    "这些特性是关于穆斯林大众之间交往的，还有一些关于仆人与其养主交往的特性。\r",
+    "抢先道赛俩目专指穆斯林之间，不能首先向否认者道赛俩目。"
+   ],
+   "mapping": "same HadeethEnc record id 5808; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:22+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/5808",
+   "text": "阿卜杜拉·本·阿穆尔（愿主喜悦他俩）传述： 一个人询问先知（愿主福安之）说：伊斯兰的哪件事最好？他说：“给人食物，给认识的人和不认识的人道赛俩目。”",
+   "title": "一个人询问先知（愿主福安之）说：伊斯兰的哪件事最好？他说：“给人食物，给认识的人和不认识的人道赛俩目。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

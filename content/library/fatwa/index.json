@@ -1,0 +1,1536 @@
+{
+ "count": 100,
+ "exclusions": [],
+ "notices": [
+  "Source: binbaz.org.sa (موقع الشيخ ابن باز). Site footer notice: جميع الحقوق محفوظة والنقل متاح لكل مسلم بشرط ذكر المصدر.",
+  "Reuse basis: user_confirmed_permission. The user reports email permission from the Ibn Baz website; it was not independently inspected by the importer. Attribution to the source page is required.",
+  "Arabic only: the fatwa pages link no official translation of the same fatwa; translations are empty and nothing is machine-translated.",
+  "Text is the page text: HTML entities decoded (U+00A0 kept), source-markup whitespace (newlines, tabs, indentation) collapsed to one space inside a paragraph and removed at paragraph edges, <br> stored as a newline. span.aaya -> quran, span.hadith -> hadith, strong/b -> strong; everything else is text. Scripts, styles, iframes, images, attributes and links are dropped.",
+  "Footnotes: each item of the page's footnote list (section.footnotes li#footnote-N) is stored in notes as {id: N, runs} in source order, one note per item, never merged; an inline marker linked to an existing note (a[rel=footnote][href=#footnote-N]) is a noteref run whose text is the marker exactly as shown (for example [1]); a marker without a note stays plain text and is reported by the validator; a note without a marker is kept unreferenced. The audio player is ignored.",
+  "Some pages draw honorifics with private-use characters (for example U+F055, U+F049, U+F074, U+F079 inside span.arabisque) that need the site's own icon font; they are kept unchanged as source text.",
+  "review_status source_preserved: ingestion checks only, no human, scholarly or language review by Balligh."
+ ],
+ "records": [
+  {
+   "audience_reason": "Explains that a Muslim who neglects some duties has weaker faith: faith rises with obedience and falls with sin.",
+   "content_sha256": "sha256:fc40f899142dd65cfedb09ffba7510b06d24deab4375fbc429b7a86a8f42a40f",
+   "file": "records/binbaz-15.json",
+   "id": "binbaz-15",
+   "sha256": "sha256:e2c6287c61ab84c339066f24a669c16361369f9812bbff5bc4c1a382d3b3ea8c",
+   "source_url": "https://binbaz.org.sa/fatwas/15/%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D8%B3%D9%84-%D8%B9%D9%86-%D8%A7%D8%AF%D8%A7%D8%A1-%D8%A8%D8%B9%D8%B6-%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D8%A8%D8%A7%D8%AA",
+   "title": "التكاسل عن أداء بعض الواجبات",
+   "topic": "understanding_islam"
+  },
+  {
+   "audience_reason": "Answers a common curiosity: what angels, jinn and Adam were created from, citing the hadith in Sahih Muslim.",
+   "content_sha256": "sha256:3b9a416061780103260d93a443694faa030fa741b19c0a874e43cc150360e756",
+   "file": "records/binbaz-855.json",
+   "id": "binbaz-855",
+   "sha256": "sha256:81df44988a5faa3a8bb4836559b8c7e36524ee79ec75c85659b0aeb424c0fc49",
+   "source_url": "https://binbaz.org.sa/fatwas/855/%D9%85%D9%85-%D8%AE%D9%84%D9%82-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D9%89%D9%83%D8%A9-%D9%88%D8%A7%D8%A8%D9%84%D9%8A%D8%B3",
+   "title": "مم خلق الله الملائكة وإبليس؟",
+   "topic": "understanding_islam"
+  },
+  {
+   "audience_reason": "Defines what a 'religion' is and how Islam differs from other religions; basic framing for someone exploring Islam.",
+   "content_sha256": "sha256:f505eb7081ca104ae2947007e29b752a0e8268740142bcbacba909007a14de7a",
+   "file": "records/binbaz-894.json",
+   "id": "binbaz-894",
+   "sha256": "sha256:36877fa6ce37f035818a46540a60feda60c2656707da89c4b5715671ddb9a5b7",
+   "source_url": "https://binbaz.org.sa/fatwas/894/%D8%A7%D9%84%D8%AA%D8%B9%D8%B1%D9%8A%D9%81-%D8%A8%D8%A7%D9%84%D8%AF%D9%8A%D9%86",
+   "title": "التعريف بالدين",
+   "topic": "understanding_islam"
+  },
+  {
+   "audience_reason": "Lists the five pillars of Islam and where enjoining good fits; a basic orientation question.",
+   "content_sha256": "sha256:0233da9a94e823e76bc99955f584390d6ebb4403b5b4cf8dedc6e66a18dedf3b",
+   "file": "records/binbaz-963.json",
+   "id": "binbaz-963",
+   "sha256": "sha256:1086402a1fa755ba6b3c759ab6a1e846b876ec7e2005100c66cb70d6fa5a6823",
+   "source_url": "https://binbaz.org.sa/fatwas/963/%D9%87%D9%84-%D8%A7%D9%84%D8%A7%D9%85%D8%B1-%D8%A8%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%88%D9%81-%D9%88%D8%A7%D9%84%D9%86%D9%87%D9%8A-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D9%86%D9%83%D8%B1-%D8%B1%D9%83%D9%86-%D9%85%D9%86-%D8%A7%D8%B1%D9%83%D8%A7%D9%86-%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85",
+   "title": "هل الأمر بالمعروف والنهي عن المنكر ركن من أركان الإسلام؟",
+   "topic": "understanding_islam"
+  },
+  {
+   "audience_reason": "Explains how major sins weaken faith without taking a Muslim out of Islam; corrects a common misconception.",
+   "content_sha256": "sha256:d0250bac18f4e28c6e2f7cf370e7703c68498393594c4783c3804fcf340a1851",
+   "file": "records/binbaz-1157.json",
+   "id": "binbaz-1157",
+   "sha256": "sha256:989b0d0f7a9e81401ba7956f51f4e4bbf037dd8dfe6b1c64b5caf75f4cc6a2a8",
+   "source_url": "https://binbaz.org.sa/fatwas/1157/%D8%A7%D9%84%D9%83%D8%A8%D8%A7%D9%89%D8%B1-%D8%AA%D9%88%D8%AB%D8%B1-%D9%81%D9%8A-%D8%A7%D8%B3%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%B9%D8%A8%D8%AF",
+   "title": "الكبائر تؤثر في إسلام العبد",
+   "topic": "understanding_islam"
+  },
+  {
+   "audience_reason": "States what brings a person into Islam (the two testimonies said truthfully, with knowledge) and that prayer and other duties follow; core for converts.",
+   "content_sha256": "sha256:b29f02601d672521e9b92d31b467e83a34c54df33d85b0d92891395bcc397ee2",
+   "file": "records/binbaz-1263.json",
+   "id": "binbaz-1263",
+   "sha256": "sha256:8ea36bf78965eb020a5f7fce855334a6027eb00f4d3270e6a15e22f94ad03bdc",
+   "source_url": "https://binbaz.org.sa/fatwas/1263/%D8%A7%D9%84%D8%A7%D9%85%D9%88%D8%B1-%D8%A7%D9%84%D8%AA%D9%8A-%D9%8A%D8%AF%D8%AE%D9%84-%D8%A8%D9%87%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85",
+   "title": "الأمور التي يُدخل بها في الإسلام",
+   "topic": "understanding_islam"
+  },
+  {
+   "audience_reason": "Explains saying 'I am a believer, in sha Allah' and that it is not doubt; a frequent beginner question.",
+   "content_sha256": "sha256:af2e36c4607b7741a4b1559f3c6eb2723a36a9eb19a8c9cead325165b6133438",
+   "file": "records/binbaz-1532.json",
+   "id": "binbaz-1532",
+   "sha256": "sha256:367ff544eaf0d9a5e34a2df604bdf2ec261f8a206c58a0835d4ea321e3e0ba10",
+   "source_url": "https://binbaz.org.sa/fatwas/1532/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7%D8%A1-%D9%81%D9%8A-%D8%A7%D9%84%D8%A7%D9%8A%D9%85%D8%A7%D9%86",
+   "title": "حكم الاستثناء في الإيمان",
+   "topic": "understanding_islam"
+  },
+  {
+   "audience_reason": "Distinguishes the terms iman, tawhid and aqidah that new learners meet early.",
+   "content_sha256": "sha256:9d9b89cbcb6d72251cd30e65dc904e9b7fd35d706486bce97aca2c49cfd9f76d",
+   "file": "records/binbaz-1656.json",
+   "id": "binbaz-1656",
+   "sha256": "sha256:5b054bf2b3816d8b11495588bc74d49d088b73b31426fa6037d178f8c317fa23",
+   "source_url": "https://binbaz.org.sa/fatwas/1656/%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%81-%D9%85%D8%AF%D9%84%D9%88%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%8A%D9%85%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D9%88%D8%A7%D9%84%D8%B9%D9%82%D9%8A%D8%AF%D8%A9",
+   "title": "اختلاف مدلولات الإيمان والتوحيد والعقيدة",
+   "topic": "understanding_islam"
+  },
+  {
+   "audience_reason": "Explains the meaning and requirements of the first pillar (the shahada); foundational for a new Muslim.",
+   "content_sha256": "sha256:ba1258bc4fe1b18cd39314d4c90e89f5d0173ae5fb15b5473385477c43d14d70",
+   "file": "records/binbaz-1996.json",
+   "id": "binbaz-1996",
+   "sha256": "sha256:7d3456b79c4fe7b2c20ef23a1fea5ea473a262d6597a70640aa76f38e8bd0c85",
+   "source_url": "https://binbaz.org.sa/fatwas/1996/%D8%A7%D9%84%D8%B1%D9%83%D9%86-%D8%A7%D9%84%D8%A7%D9%88%D9%84-%D9%85%D9%86-%D8%A7%D8%B1%D9%83%D8%A7%D9%86-%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85-%D9%85%D8%B9%D9%86%D8%A7%D9%87-%D9%88%D9%85%D9%82%D8%AA%D8%B6%D8%A7%D9%87",
+   "title": "الركن الأول من أركان الإسلام:  معناه ومقتضاه",
+   "topic": "understanding_islam"
+  },
+  {
+   "audience_reason": "Answers whether saying and believing the shahada is enough to enter Islam and what is expected after it.",
+   "content_sha256": "sha256:6a1cad31921b233ea57bc0ba361d45818775700e9d9259b1715b8f1cddefdaf6",
+   "file": "records/binbaz-1998.json",
+   "id": "binbaz-1998",
+   "sha256": "sha256:d18c02a3fb0b17fda7773e0551d69b339877118ad39b7cc1a7b9c03a903b5f20",
+   "source_url": "https://binbaz.org.sa/fatwas/1998/%D9%87%D9%84-%D9%8A%D9%83%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%B7%D9%82-%D8%A8%D8%A7%D9%84%D8%B4%D9%87%D8%A7%D8%AF%D8%AA%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D8%AF-%D9%84%D9%84%D8%AF%D8%AE%D9%88%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85",
+   "title": "هل يكفي النطق بالشهادتين والاعتقاد للدخول في الإسلام؟",
+   "topic": "understanding_islam"
+  },
+  {
+   "audience_reason": "Background to a Quran verse readers ask about (Harut and Marut, Al-Baqarah 102); secondary, not a first-step topic.",
+   "content_sha256": "sha256:e675c38fd856136f56e9837afd01ad537022c07febf227c5c56de06f282e3d8f",
+   "file": "records/binbaz-2089.json",
+   "id": "binbaz-2089",
+   "sha256": "sha256:6ffdbd06aa713e21cd56b0274f1539a0534bc1794d3f11e3a446e202d82c1a64",
+   "source_url": "https://binbaz.org.sa/fatwas/2089/%D9%87%D9%84-%D9%87%D8%A7%D8%B1%D9%88%D8%AA-%D9%88%D9%85%D8%A7%D8%B1%D9%88%D8%AA-%D9%85%D9%84%D9%83%D8%A7%D9%86-%D8%A7%D9%88-%D8%A8%D8%B4%D8%B1%D8%A7%D9%86",
+   "title": "هل هاروت وماروت ملكان أو بشران؟",
+   "topic": "understanding_islam"
+  },
+  {
+   "audience_reason": "Explains that the basis of faith is one while people differ in its strength.",
+   "content_sha256": "sha256:330768f694a9fc6d30380ebf3939801485de64b7d1ed80935c29c5d49d7829b6",
+   "file": "records/binbaz-3366.json",
+   "id": "binbaz-3366",
+   "sha256": "sha256:a71b0404f2fb78d61288ad4b148597784cbad7ea49391b863153cee67e3b2fdc",
+   "source_url": "https://binbaz.org.sa/fatwas/3366/%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%A7%D9%8A%D9%85%D8%A7%D9%86-%D9%88%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D8%B3-%D9%81%D9%8A%D9%87",
+   "title": "حقيقة أصل الإيمان وتفاوت الناس فيه",
+   "topic": "understanding_islam"
+  },
+  {
+   "audience_reason": "Gives the minimum owed to God: do the obligations and avoid the prohibitions; a clear starting point.",
+   "content_sha256": "sha256:6441447dba6aafe3400479851f72e9ffa818f84e893007f7e0bb0563112484ef",
+   "file": "records/binbaz-3982.json",
+   "id": "binbaz-3982",
+   "sha256": "sha256:e390f077de3032f4349a8ba636a76ae12114ff4d4fc389d509f8599a1e6a49c4",
+   "source_url": "https://binbaz.org.sa/fatwas/3982/%D9%85%D8%A7-%D8%A7%D9%84%D8%AD%D8%AF-%D8%A7%D9%84%D8%A7%D8%AF%D9%86%D9%89-%D9%84%D9%84%D9%82%D9%8A%D8%A7%D9%85-%D8%A8%D9%88%D8%A7%D8%AC%D8%A8-%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%AF%D8%A9-%D9%84%D9%84%D9%87-%D8%AA%D8%B9%D8%A7%D9%84%D9%89",
+   "title": "ما الحد الأدنى للقيام بواجب العبادة لله تعالى؟",
+   "topic": "understanding_islam"
+  },
+  {
+   "audience_reason": "Explains that belief in the heart alone is not enough without prayer and other deeds.",
+   "content_sha256": "sha256:4334ded18d5e4e39ddeaaaea486be0eb6a2780c48cdd30efeac08632e94fabff",
+   "file": "records/binbaz-5627.json",
+   "id": "binbaz-5627",
+   "sha256": "sha256:4ebb8bc838d325720744af7d21dcac50c5edb6e55d9b81118c595559220c3d8d",
+   "source_url": "https://binbaz.org.sa/fatwas/5627/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%A7%D9%83%D8%AA%D9%81%D8%A7%D8%A1-%D8%A8%D8%A7%D9%8A%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D9%84%D8%A8-%D8%AF%D9%88%D9%86-%D8%A7%D9%84%D8%B9%D9%85%D9%84",
+   "title": "حكم الاكتفاء بإيمان القلب دون العمل",
+   "topic": "understanding_islam"
+  },
+  {
+   "audience_reason": "Clarifies that the shahada brings a person into Islam and why prayer then matters.",
+   "content_sha256": "sha256:0df25014056a9c7f9c90469dd667d50e1b89f28d4fb0a6266caf2632ccfba838",
+   "file": "records/binbaz-5629.json",
+   "id": "binbaz-5629",
+   "sha256": "sha256:4e4a3fffad6645b78ea98cb6d9343c72ab1be19c00aed9b7cc144cb404c06a69",
+   "source_url": "https://binbaz.org.sa/fatwas/5629/%D8%AD%D9%83%D9%85-%D9%85%D9%86-%D9%8A%D8%AA%D8%B1%D9%83-%D8%B1%D9%83%D9%86%D8%A7-%D9%85%D9%86-%D8%A7%D8%B1%D9%83%D8%A7%D9%86-%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85",
+   "title": "حكم من يترك ركناً من أركان الإسلام",
+   "topic": "understanding_islam"
+  },
+  {
+   "audience_reason": "States the two conditions of accepted deeds and Islam: sincerity to God and following the Prophet.",
+   "content_sha256": "sha256:1510ee23cc954cd3f3bbc93264366731c885a7c0e40de803e60180a4059e628f",
+   "file": "records/binbaz-5990.json",
+   "id": "binbaz-5990",
+   "sha256": "sha256:e905e11545ec22742714babb673432a60553c5e91cf59fa58c8041ce5b930933",
+   "source_url": "https://binbaz.org.sa/fatwas/5990/%D9%85%D8%A7-%D8%B4%D8%B1%D9%88%D8%B7-%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85",
+   "title": "ما شروط الإسلام؟",
+   "topic": "understanding_islam"
+  },
+  {
+   "audience_reason": "Short note that the praised strength of a believer is strength in deeds, not body.",
+   "content_sha256": "sha256:7e90c2504fd942523be1f61a36674b10a522ae9da1a0255e8bcf67ce41819778",
+   "file": "records/binbaz-6720.json",
+   "id": "binbaz-6720",
+   "sha256": "sha256:5ecb3027cdc409c01fec3e5325c3de98171a54c6bfa8a4385aa46dc26bedb328",
+   "source_url": "https://binbaz.org.sa/fatwas/6720/%D9%85%D8%A7-%D8%A7%D9%84%D9%82%D9%88%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D9%85%D9%88%D8%AF%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D9%85%D9%86",
+   "title": "ما القوة المحمودة في المؤمن؟",
+   "topic": "understanding_islam"
+  },
+  {
+   "audience_reason": "Explains the meaning of the two testimonies, through which a person enters Islam.",
+   "content_sha256": "sha256:1019a07a6a2aaa17edb9bd2b9325d3806e3d170b56c81666ca685bac6d8499f1",
+   "file": "records/binbaz-6940.json",
+   "id": "binbaz-6940",
+   "sha256": "sha256:2c303c92916b13ddc48febec1aa8e514fdbf6bdf76e0f4edcf836a0e05f8768b",
+   "source_url": "https://binbaz.org.sa/fatwas/6940/%D9%85%D8%B9%D9%86%D9%89-%D8%A7%D9%84%D8%B4%D9%87%D8%A7%D8%AF%D8%AA%D9%8A%D9%86",
+   "title": "معنى الشهادتين",
+   "topic": "understanding_islam"
+  },
+  {
+   "audience_reason": "Explains that a Muslim who commits a major sin is sinful but remains a Muslim (the Sunni position).",
+   "content_sha256": "sha256:ba374fffaf69686d5363a8ccef90d89149d8a3e64850224d16a21dfd826c10f2",
+   "file": "records/binbaz-9614.json",
+   "id": "binbaz-9614",
+   "sha256": "sha256:f719a6489a691fc5ccb55196813d2797cbe7ae55f848dd73e8ec59f7f2451414",
+   "source_url": "https://binbaz.org.sa/fatwas/9614/%D8%AD%D9%83%D9%85-%D9%85%D8%B1%D8%AA%D9%83%D8%A8-%D8%A7%D9%84%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D8%B9%D9%86%D8%AF-%D8%A7%D9%87%D9%84-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D9%88%D8%BA%D9%8A%D8%B1%D9%87%D9%85",
+   "title": "حكم مرتكب الكبيرة عند أهل السنة وغيرهم",
+   "topic": "understanding_islam"
+  },
+  {
+   "audience_reason": "Explains the fitrah every child is born upon; relevant to someone exploring Islam.",
+   "content_sha256": "sha256:08424f5c8c2904f5071eb747926478a79b264337503eb2142d2c4c2c6c644ec5",
+   "file": "records/binbaz-10633.json",
+   "id": "binbaz-10633",
+   "sha256": "sha256:77571373430f546411c2fa1f33bd086cce086fc645ce4c085e7f9ec9154d88f8",
+   "source_url": "https://binbaz.org.sa/fatwas/10633/%D9%85%D8%A7%D9%87%D9%8A-%D8%A7%D9%84%D9%81%D8%B7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D9%8A%D9%88%D9%84%D8%AF-%D8%A7%D9%84%D9%85%D9%88%D9%84%D9%88%D8%AF-%D8%B9%D9%84%D9%8A%D9%87%D8%A7",
+   "title": "ماهي الفطرة التي يولد المولود عليها؟",
+   "topic": "understanding_islam"
+  },
+  {
+   "audience_reason": "Defines Islam: submitting to God with tawhid and obeying Him; an ideal opening entry.",
+   "content_sha256": "sha256:9eab42b034464482796fb37e0978f5e88a00436e16cead27ab89b2744e2a4705",
+   "file": "records/binbaz-11423.json",
+   "id": "binbaz-11423",
+   "sha256": "sha256:378b4da110c3cc1dd85f2216a1421b7cc970ea66ee4c460ce702faa0bac4cb3a",
+   "source_url": "https://binbaz.org.sa/fatwas/11423/%D8%AA%D9%88%D8%B6%D9%8A%D8%AD-%D9%85%D8%B9%D9%86%D9%89-%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85",
+   "title": "توضيح معنى الإسلام",
+   "topic": "understanding_islam"
+  },
+  {
+   "audience_reason": "Practical guidance on how to learn and live tawhid in belief, conduct and deeds.",
+   "content_sha256": "sha256:c9d37b4a1ec0322fd006d7c656231c520fd43f347c4645caa77aa1d0f42a132c",
+   "file": "records/binbaz-6.json",
+   "id": "binbaz-6",
+   "sha256": "sha256:811534a56450346051f79ffb128760c95d9e62c55e502bdd4bd82dfd1e9ddc44",
+   "source_url": "https://binbaz.org.sa/fatwas/6/%D8%A7%D9%84%D8%B3%D8%A8%D9%8A%D9%84-%D8%A7%D9%84%D9%89-%D9%85%D8%B9%D8%B1%D9%81%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D8%AF%D8%A7-%D9%88%D8%B3%D9%84%D9%88%D9%83%D8%A7-%D9%88%D8%B9%D9%85%D9%84%D8%A7",
+   "title": "السبيل إلى معرفة  التوحيد اعتقادًا وسلوكًا وعملًا",
+   "topic": "belief"
+  },
+  {
+   "audience_reason": "Lists the conditions of 'la ilaha illa Allah' and that its meaning must be understood, not only said.",
+   "content_sha256": "sha256:088565861bd88501ccc22bcac10aa975b31c4ef168294b24e4b1f01a3e42c7bc",
+   "file": "records/binbaz-52.json",
+   "id": "binbaz-52",
+   "sha256": "sha256:92cc7b113ebe87fbada13619df95ba3c30817ca18a3ef88d4b75ebfbac470cfa",
+   "source_url": "https://binbaz.org.sa/fatwas/52/%D8%B4%D8%B1%D9%88%D8%B7-%D9%82%D9%88%D9%84-%D9%84%D8%A7-%D8%A7%D9%84%D9%87-%D8%A7%D9%84%D8%A7-%D8%A7%D9%84%D9%84%D9%87",
+   "title": "شروط قول لا إله إلا الله",
+   "topic": "belief"
+  },
+  {
+   "audience_reason": "Gives the Quranic evidence for the word of tawhid and what tawhid means.",
+   "content_sha256": "sha256:0f10ec2e8f29b1cd1f498129ecf16fb1166d1ab101a6682fd15eb3882fe9c49d",
+   "file": "records/binbaz-56.json",
+   "id": "binbaz-56",
+   "sha256": "sha256:0e6dcdeb0c7419346d4dafa984c31a8a98af3ea6d34e7ba538113e4a6d201616",
+   "source_url": "https://binbaz.org.sa/fatwas/56/%D8%A7%D9%84%D8%AF%D9%84%D9%8A%D9%84-%D8%B9%D9%84%D9%89-%D9%83%D9%84%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D8%AD%D9%8A%D8%AF",
+   "title": "الدليل على كلمة التوحيد",
+   "topic": "belief"
+  },
+  {
+   "audience_reason": "Explains that the shahada must be uttered and its meaning believed; basic for conversion.",
+   "content_sha256": "sha256:6c059e18cf55f0ad1d25b6d61079d6a21c98c2ff7fe0353ec517501d2030feab",
+   "file": "records/binbaz-1158.json",
+   "id": "binbaz-1158",
+   "sha256": "sha256:48051f7ba5a226e27324625d21ad48bfbb7cde1191b671256222ed737e68bcab",
+   "source_url": "https://binbaz.org.sa/fatwas/1158/%D9%88%D8%AC%D9%88%D8%A8-%D8%A7%D9%84%D8%AA%D8%B5%D8%AF%D9%8A%D9%82-%D9%85%D8%B9-%D8%A7%D9%84%D8%B4%D9%87%D8%A7%D8%AF%D8%AA%D9%8A%D9%86",
+   "title": "وجوب التصديق مع الشهادتين",
+   "topic": "belief"
+  },
+  {
+   "audience_reason": "Explains how tawhid is realised and what shirk and injustice mean; core vocabulary.",
+   "content_sha256": "sha256:b52c4e5fc9b2a6037c406fc7589cadf3f6d4faf0594aaf6c143309f548738590",
+   "file": "records/binbaz-1237.json",
+   "id": "binbaz-1237",
+   "sha256": "sha256:2aefa9debf5f644252cf80f392976b3a6d6596528ed2f713648ef7a742a1bf31",
+   "source_url": "https://binbaz.org.sa/fatwas/1237/%D9%83%D9%8A%D9%81-%D9%8A%D8%AA%D8%AD%D9%82%D9%82-%D8%A7%D9%84%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D9%88%D9%85%D8%B9%D9%86%D9%89-%D8%A7%D9%84%D8%B4%D8%B1%D9%83-%D9%88%D8%A7%D9%84%D8%B8%D9%84%D9%85",
+   "title": "كيف يتحقق التوحيد ومعنى الشرك والظلم",
+   "topic": "belief"
+  },
+  {
+   "audience_reason": "Explains the three-part classification of tawhid and its basis; useful for a teacher introducing the topic.",
+   "content_sha256": "sha256:da7a07a2630be739fba0d3b2411d80317b5a29ed276ac3cad5c521b11a4aa49b",
+   "file": "records/binbaz-1655.json",
+   "id": "binbaz-1655",
+   "sha256": "sha256:ca53ecdd9a1580bf0f2cce6cae6cd6e877d0e7fc8d889e2d5ac33b6ab1a0bf73",
+   "source_url": "https://binbaz.org.sa/fatwas/1655/%D8%AA%D9%82%D8%B3%D9%8A%D9%85-%D8%A7%D9%84%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D8%A7%D9%84%D9%89-%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%A7%D9%82%D8%B3%D8%A7%D9%85",
+   "title": "تقسيم التوحيد إلى ثلاثة أقسام",
+   "topic": "belief"
+  },
+  {
+   "audience_reason": "Explains the meaning, requirements and conditions of 'la ilaha illa Allah'.",
+   "content_sha256": "sha256:c9ace17aee799e431da3eef9f9cd45a5f3ed7076b7c73d60068f1643f9339185",
+   "file": "records/binbaz-2001.json",
+   "id": "binbaz-2001",
+   "sha256": "sha256:2e084c03d845b8e780fd7df9bd55b24e634bfefb0fdb35959c27ecc36813e5da",
+   "source_url": "https://binbaz.org.sa/fatwas/2001/%D9%85%D8%B9%D9%86%D9%89-%D9%84%D8%A7-%D8%A7%D9%84%D9%87-%D8%A7%D9%84%D8%A7-%D8%A7%D9%84%D9%84%D9%87-%D9%88%D9%85%D9%82%D8%AA%D8%B6%D8%A7%D9%87%D8%A7-%D9%88%D8%B4%D8%B1%D9%88%D8%B7%D9%87%D8%A7",
+   "title": "معنى لا إله إلا الله ومقتضاها وشروطها",
+   "topic": "belief"
+  },
+  {
+   "audience_reason": "Explains why worshipping God alone, not only affirming Him as Lord, is the message of the prophets.",
+   "content_sha256": "sha256:5b33123b177284cc0d5625a4cbcbd7de21c1f647475c07abbcbc643d72ca9646",
+   "file": "records/binbaz-2002.json",
+   "id": "binbaz-2002",
+   "sha256": "sha256:9221b4ecbdf57dcf9366ee8638a50ab0659b261b00960606345299e547736e8c",
+   "source_url": "https://binbaz.org.sa/fatwas/2002/%D8%A7%D9%84%D9%82%D8%A7%D8%A1-%D8%A7%D9%84%D8%B6%D9%88%D8%A1-%D8%AD%D9%88%D9%84-%D8%A7%D9%87%D9%85%D9%8A%D8%A9-%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D8%A7%D9%84%D8%A7%D9%84%D9%87%D9%8A%D8%A9",
+   "title": "إلقاء الضوء حول أهمية توحيد الإلهية",
+   "topic": "belief"
+  },
+  {
+   "audience_reason": "Explains an often-quoted hadith ('I was commanded to fight people...') in context; for a teacher answering questions about it, not a first step.",
+   "content_sha256": "sha256:0cafcad7c1adf2230fcfe39486b1f039778620ce66dca1223e19fa5b77a9605f",
+   "file": "records/binbaz-2171.json",
+   "id": "binbaz-2171",
+   "sha256": "sha256:09c5b9fb287be30c6bcb798c129f76dc0d9c4f0f38f54bc5e2bce02eb46f2a4a",
+   "source_url": "https://binbaz.org.sa/fatwas/2171/%D8%B4%D8%B1%D8%AD-%D8%AD%D8%AF%D9%8A%D8%AB-%D8%A7%D9%85%D8%B1%D8%AA-%D8%A7%D9%86-%D8%A7%D9%82%D8%A7%D8%AA%D9%84-%D8%A7%D9%84%D9%86%D8%A7%D8%B3-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AB",
+   "title": "شرح حديث: «أمرت أن أقاتل الناس...» الحديث؟",
+   "topic": "belief"
+  },
+  {
+   "audience_reason": "Explains the difference between tawhid of lordship and tawhid of worship in simple terms.",
+   "content_sha256": "sha256:1516421fd1d73f1977e5d25dadb4ca35b9361a7638712f8c3a91fa98e94fc797",
+   "file": "records/binbaz-2190.json",
+   "id": "binbaz-2190",
+   "sha256": "sha256:a308c910eceb5537cbd61a24e7d702cc703f09ae3e917cdc37a96fd9591f2b66",
+   "source_url": "https://binbaz.org.sa/fatwas/2190/%D8%A8%D9%8A%D8%A7%D9%86-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D9%84%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D9%88%D8%A7%D9%84%D9%81%D8%B1%D9%82-%D8%A8%D9%8A%D9%86%D9%87%D8%A7",
+   "title": "بيان أنواع التوحيد والفرق بينها",
+   "topic": "belief"
+  },
+  {
+   "audience_reason": "Discusses atheists who deny God and tawhid of lordship; relevant to someone from a non-religious background.",
+   "content_sha256": "sha256:c90bd2037259d48dce104f0eedd4d04efdd1418980f82a3112746e0c971fa55b",
+   "file": "records/binbaz-2348.json",
+   "id": "binbaz-2348",
+   "sha256": "sha256:01592213a7fc9e76c0b1e036db0dd5170f5c29931be1dddb35798ea94b64c9de",
+   "source_url": "https://binbaz.org.sa/fatwas/2348/%D9%87%D9%84-%D8%A7%D9%84%D8%B0%D9%8A%D9%86-%D9%8A%D9%86%D9%83%D8%B1%D9%88%D9%86-%D9%88%D8%AC%D9%88%D8%AF-%D8%A7%D9%84%D9%84%D9%87-%D9%8A%D8%AF%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%86%D9%83%D8%A7%D8%B1%D9%87%D9%85-%D8%A7%D9%84%D8%B1%D8%A8%D9%88%D8%A8%D9%8A%D8%A9",
+   "title": "هل الذين ينكرون وجود الله يدل على إنكارهم الربوبية؟",
+   "topic": "belief"
+  },
+  {
+   "audience_reason": "Distinguishes forms of allegiance and affection toward non-Muslims and how they are classified: loving them for their religion or approving it is disbelief, while special affection for a relative or spouse without approving their religion is described as a deficient love that weakens faith, below apostasy; doctrinally sensitive for converts with non-Muslim family and teacher-level.",
+   "content_sha256": "sha256:84a97d168c720b0de4302d6b26f166e1c80e4c9ddb5eeb31cc093859038a2b77",
+   "file": "records/binbaz-2460.json",
+   "id": "binbaz-2460",
+   "sha256": "sha256:b90badb43835d1ec9ff8dbe895f50888ef7af58406bd2f5db0b51d075bbacddf",
+   "source_url": "https://binbaz.org.sa/fatwas/2460/%D8%AD%D9%83%D9%85-%D9%85%D9%88%D8%A7%D9%84%D8%A7%D8%A9-%D8%A7%D9%84%D9%83%D9%81%D8%A7%D8%B1-%D9%88%D9%85%D8%AD%D8%A8%D8%AA%D9%87%D9%85",
+   "title": "حكم موالاة الكفار ومحبتهم",
+   "topic": "belief"
+  },
+  {
+   "audience_reason": "Explains why the two testimonies form a single pillar.",
+   "content_sha256": "sha256:0e5498a59849fb43a660b0507fc1386fd246674dc8f3a48ff12707a6bf9aa055",
+   "file": "records/binbaz-2554.json",
+   "id": "binbaz-2554",
+   "sha256": "sha256:11b5d06d82a724bce88cfd800cdb66e3cc85209ef1ebb4414020fd302b79cd71",
+   "source_url": "https://binbaz.org.sa/fatwas/2554/%D8%B3%D8%A8%D8%A8-%D8%A7%D9%82%D8%AA%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B4%D9%87%D8%A7%D8%AF%D8%AA%D9%8A%D9%86-%D9%81%D9%8A-%D8%B1%D9%83%D9%86-%D9%88%D8%A7%D8%AD%D8%AF",
+   "title": "سبب اقتران الشهادتين في ركن واحد",
+   "topic": "belief"
+  },
+  {
+   "audience_reason": "Corrects a common error of explaining 'la ilaha illa Allah' as only 'no creator but God'.",
+   "content_sha256": "sha256:10a5decf315275f31857963b7b0259c5d05e7d35c0ea27750f1e7c34f02bac8f",
+   "file": "records/binbaz-2556.json",
+   "id": "binbaz-2556",
+   "sha256": "sha256:86c135d38ed79780df63d7e45b2f067854af0a7e5ee6c19a5628dc80e0e39743",
+   "source_url": "https://binbaz.org.sa/fatwas/2556/%D8%AE%D8%B7%D8%A7-%D9%81%D9%8A-%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D9%83%D9%84%D9%85%D8%A9-%D9%84%D8%A7-%D8%A7%D9%84%D9%87-%D8%A7%D9%84%D8%A7-%D8%A7%D9%84%D9%84%D9%87",
+   "title": "خطأ في تفسير كلمة: لا إله إلا الله",
+   "topic": "belief"
+  },
+  {
+   "audience_reason": "Addresses the phrase 'loyalty to the homeland'; secondary topic kept for teachers.",
+   "content_sha256": "sha256:2e4d616e1cdeab810024e54ce6b9d55088cee6900f235d84d756ab24db03820d",
+   "file": "records/binbaz-2994.json",
+   "id": "binbaz-2994",
+   "sha256": "sha256:b5ea2a7a42fcad6b1853d09c146f0754b890d2f47348bd6ae5208ca1e57816f6",
+   "source_url": "https://binbaz.org.sa/fatwas/2994/%D8%AD%D9%88%D9%84-%D9%83%D9%84%D9%85%D8%A9-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D8%A1-%D9%84%D9%84%D9%88%D8%B7%D9%86",
+   "title": "حول كلمة الولاء للوطن",
+   "topic": "belief"
+  },
+  {
+   "audience_reason": "How to call non-Muslim neighbours and co-workers to Islam; relevant to new Muslims living among non-Muslims.",
+   "content_sha256": "sha256:324ac2630133cd4da7963ce4d638ecc9b76ded5cac2bee76e298df923e0c65c4",
+   "file": "records/binbaz-3442.json",
+   "id": "binbaz-3442",
+   "sha256": "sha256:9ae192bab4d9caed30843c096cff3d9415416e88e45a9c34a5986981a620c370",
+   "source_url": "https://binbaz.org.sa/fatwas/3442/%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%A1%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%83%D8%A7%D9%81%D8%B1%D9%8A%D9%86-%D9%88%D8%AF%D8%B9%D9%88%D8%AA%D9%87%D9%85-%D8%A7%D9%84%D9%89-%D8%A7%D9%84%D9%84%D9%87",
+   "title": "كيفية البراءة من الكافرين ودعوتهم إلى الله",
+   "topic": "belief"
+  },
+  {
+   "audience_reason": "Love and dislike are for a person's deeds, never for race, colour or lineage.",
+   "content_sha256": "sha256:6cf793844705de0d8d3f40834c85f06d79fb8c569cc4e942ed73ea655ae7e6c2",
+   "file": "records/binbaz-3446.json",
+   "id": "binbaz-3446",
+   "sha256": "sha256:27a131813b8aed930a460c3241f431c71aa2d7bf8cadf932838a32a130634d1d",
+   "source_url": "https://binbaz.org.sa/fatwas/3446/%D8%A7%D9%84%D8%AD%D8%A8-%D9%88%D8%A7%D9%84%D8%A8%D8%BA%D8%B6-%D9%8A%D9%83%D9%88%D9%86-%D9%84%D8%B9%D9%85%D9%84-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5-%D9%84%D8%A7-%D9%84%D8%B0%D8%A7%D8%AA%D9%87",
+   "title": "الحب والبغض يكون لعمل الشخص لا لذاته",
+   "topic": "belief"
+  },
+  {
+   "audience_reason": "Explains the virtue of loving one another for the sake of God.",
+   "content_sha256": "sha256:f0882812f3a120631df6d516c59b2cc9fb8543f120dfa407185d2eb2792d1e57",
+   "file": "records/binbaz-6782.json",
+   "id": "binbaz-6782",
+   "sha256": "sha256:e63084177843f0a2491dbeee02a321973b970df83ca4d17c3d1c141d443eb072",
+   "source_url": "https://binbaz.org.sa/fatwas/6782/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%AD%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84%D9%84%D9%87-%D9%88%D8%A7%D9%84%D8%A8%D8%BA%D8%B6-%D9%81%D9%8A-%D8%A7%D9%84%D9%84%D9%87",
+   "title": "فضيلة الحب في الله والبغض في الله",
+   "topic": "belief"
+  },
+  {
+   "audience_reason": "Advises against holding grudges over worldly matters and on striving to reconcile.",
+   "content_sha256": "sha256:3800dc33be049baa6c74b905e3376eb32ac867773999532f446dadd5393dc497",
+   "file": "records/binbaz-9279.json",
+   "id": "binbaz-9279",
+   "sha256": "sha256:98f4db92f24efaea3e5c31f3392a73531b722da340752fe0c19cccaa606593d4",
+   "source_url": "https://binbaz.org.sa/fatwas/9279/%D8%B6%D8%A7%D8%A8%D8%B7-%D8%A7%D9%84%D9%83%D8%B1%D9%87-%D9%88%D8%A7%D9%84%D8%A8%D8%BA%D8%B6-%D9%84%D9%84%D8%BA%D9%8A%D8%B1-%D9%88%D9%85%D8%AF%D8%AA%D9%87",
+   "title": "ضابط الكره والبغض للغير ومدته",
+   "topic": "belief"
+  },
+  {
+   "audience_reason": "Explains what 'la ilaha illa Allah' requires of the one who says it.",
+   "content_sha256": "sha256:ab489899ab50e70528b0185e42af0fccee060c119715bea587089f48baad2875",
+   "file": "records/binbaz-10741.json",
+   "id": "binbaz-10741",
+   "sha256": "sha256:06c3506c1d532377f56f09a42d5f11c88c3992e9d3ad684dff6e1c1953031c30",
+   "source_url": "https://binbaz.org.sa/fatwas/10741/%D9%85%D8%A7-%D9%85%D9%82%D8%AA%D8%B6%D9%8A%D8%A7%D8%AA-%D9%84%D8%A7-%D8%A7%D9%84%D9%87-%D8%A7%D9%84%D8%A7-%D8%A7%D9%84%D9%84%D9%87",
+   "title": "ما مقتضيات: لا إله إلا الله؟",
+   "topic": "belief"
+  },
+  {
+   "audience_reason": "Answers whether saying 'la ilaha illa Allah' alone admits to Paradise, and its conditions.",
+   "content_sha256": "sha256:e3cd01d3b20379edbefd1a28ca1dfef06f2e414dc838ccd182e74590bdb18968",
+   "file": "records/binbaz-11643.json",
+   "id": "binbaz-11643",
+   "sha256": "sha256:c33cc704756ab108df27afe23abe1b411151a83b39430dfab97eb13a807ee5ed",
+   "source_url": "https://binbaz.org.sa/fatwas/11643/%D9%87%D9%84-%D9%85%D9%86-%D9%82%D8%A7%D9%84-%D9%84%D8%A7-%D8%A7%D9%84%D9%87-%D8%A7%D9%84%D8%A7-%D8%A7%D9%84%D9%84%D9%87-%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D8%AC%D9%86%D8%A9-%D9%88%D9%85%D8%A7-%D8%B4%D8%B1%D9%88%D8%B7%D9%87%D8%A7",
+   "title": "هل من قال: لا إله إلا الله دخل الجنة؟ وما شروطها؟",
+   "topic": "belief"
+  },
+  {
+   "audience_reason": "Lists the three categories of tawhid and how they relate to the two testimonies.",
+   "content_sha256": "sha256:da378185751cf0b26bc47024608cacc2ef970f6562bffb5c7dab2da9e7e76e89",
+   "file": "records/binbaz-12152.json",
+   "id": "binbaz-12152",
+   "sha256": "sha256:3f6bb67299c34189b63ae6ce963d9b163cbec229140c328d16e5795a5a171f37",
+   "source_url": "https://binbaz.org.sa/fatwas/12152/%D8%A7%D9%82%D8%B3%D8%A7%D9%85-%D8%A7%D9%84%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D9%88%D8%A8%D9%8A%D8%A7%D9%86-%D8%AF%D8%AE%D9%88%D9%84%D9%87%D8%A7-%D8%B6%D9%85%D9%86-%D8%A7%D9%84%D8%B4%D9%87%D8%A7%D8%AF%D8%AA%D9%8A%D9%86",
+   "title": "أقسام التوحيد وبيان دخولها ضمن الشهادتين",
+   "topic": "belief"
+  },
+  {
+   "audience_reason": "User-provided example: the meaning of the two testimonies; foundational.",
+   "content_sha256": "sha256:e3ac7d234783a58714dc2cc452f55fdbd54ffc4d38a2b5a6d93a70074b4926ef",
+   "file": "records/binbaz-18975.json",
+   "id": "binbaz-18975",
+   "sha256": "sha256:92f806dc0d086c0f7c6f3fdcdaa4eb47b34005c453c3ec2e7ce194ff96e6e4ca",
+   "source_url": "https://binbaz.org.sa/fatwas/18975/%D9%85%D8%A7-%D9%85%D8%B9%D9%86%D9%89-%D8%A7%D9%84%D8%B4%D9%87%D8%A7%D8%AF%D8%AA%D9%8A%D9%86",
+   "title": "ما معنى الشهادتين؟",
+   "topic": "belief"
+  },
+  {
+   "audience_reason": "How a latecomer who joined one rak'ah recites in the rak'ahs he completes; practical for congregational prayer.",
+   "content_sha256": "sha256:223320dbc6edaf51255a6efe3f3de6565f87b599e9b71ace455ac58b4434eff0",
+   "file": "records/binbaz-1224.json",
+   "id": "binbaz-1224",
+   "sha256": "sha256:0d1a362ca375fdec6e76a0c9dda5044de984de4ad223469cfda7b494bc995c7e",
+   "source_url": "https://binbaz.org.sa/fatwas/1224/%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D9%82%D8%B6%D8%A7%D8%A1-%D9%85%D9%86-%D8%A7%D8%AF%D8%B1%D9%83-%D8%B1%D9%83%D8%B9%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D8%A7%D9%84%D8%AC%D9%87%D8%B1%D9%8A%D8%A9",
+   "title": "كيفية قضاء من أدرك ركعة في الصلاة الجهرية",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "A woman may recite aloud in the aloud prayers like a man; practical for women.",
+   "content_sha256": "sha256:8b82672d88926fd00ef81ff71a5a26b067e1e0e4e782b0dfd300226909a71dc7",
+   "file": "records/binbaz-1353.json",
+   "id": "binbaz-1353",
+   "sha256": "sha256:f144177d523f4c201bae2d9351b4916596cc3374c64dd7b9e5f388b6c5387baf",
+   "source_url": "https://binbaz.org.sa/fatwas/1353/%D9%87%D9%84-%D8%AA%D8%B5%D9%84%D9%8A-%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%A9-%D8%AC%D9%87%D8%B1%D8%A7-%D9%83%D8%A7%D9%84%D8%B1%D8%AC%D9%84",
+   "title": "هل تصلي المرأة جهرا كالرجل؟",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "Al-Fatihah must be recited in every prayer by the imam and the person praying alone; core how-to-pray rule.",
+   "content_sha256": "sha256:658afdca91c0e60c74f84d4ea279b0288536c38bb25c0dc8392649df5c79f12e",
+   "file": "records/binbaz-1375.json",
+   "id": "binbaz-1375",
+   "sha256": "sha256:49b79eb2badcc5a9c75fdd61d3f5295f2bf30765f996176e8305435542cb559f",
+   "source_url": "https://binbaz.org.sa/fatwas/1375/%D8%AD%D9%83%D9%85-%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D8%AD%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AC%D9%87%D8%B1%D9%8A%D8%A9",
+   "title": "حكم قراءة الفاتحة في الصلاة السرية والجهرية",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "The correct way to perform tayammum: one strike, then wipe the face and hands.",
+   "content_sha256": "sha256:e571bd8c3247fd52908904e1ff274d367f633f74ef23f1601742c1b47a60c0f4",
+   "file": "records/binbaz-1548.json",
+   "id": "binbaz-1548",
+   "sha256": "sha256:a7cc032aaeb8c158bc060fc53c9e34ac9b814a26d8ce1c7a1408bc92861f51cb",
+   "source_url": "https://binbaz.org.sa/fatwas/1548/%D8%A8%D9%8A%D8%A7%D9%86-%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A%D9%85%D9%85",
+   "title": "بيان كيفية التيمم",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "Corrects the excuse of praying only on Fridays and in Ramadan; one of three kept leaving-prayer items.",
+   "content_sha256": "sha256:6e944d6e8b4349d900028b8235adeb121719a928606a2710bd9f15bb9a3841c2",
+   "file": "records/binbaz-1614.json",
+   "id": "binbaz-1614",
+   "sha256": "sha256:0e09cbe7386265231c99c8d3f463ceade3b71a7dc7b22ebc9ebfc52f54b84743",
+   "source_url": "https://binbaz.org.sa/fatwas/1614/%D8%AD%D9%83%D9%85-%D8%AA%D8%B1%D9%83-%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D8%A8%D8%A7%D8%AA-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7-%D8%A8%D8%AD%D8%AF%D9%8A%D8%AB-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D9%89-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9",
+   "title": "حكم ترك الواجبات احتجاجاً بحديث: «الجمعة إلى الجمعة»",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "The valid reasons for delaying a prayer, and that habitual delay is not allowed.",
+   "content_sha256": "sha256:eb9a78c98c9912a7f56c6dbcd00c34bcd241d9b45bdb64114922966b057a14b2",
+   "file": "records/binbaz-1787.json",
+   "id": "binbaz-1787",
+   "sha256": "sha256:7801463466aeb2f19c6c88f0a2bbf86d30ce897f3a2fffa354b016257248d722",
+   "source_url": "https://binbaz.org.sa/fatwas/1787/%D8%A8%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%8A-%D9%8A%D8%AC%D9%88%D8%B2-%D9%81%D9%8A%D9%87%D8%A7-%D8%AA%D8%A7%D8%AE%D9%8A%D8%B1-%D8%A7%D9%84%D8%B5%D9%84%D9%88%D8%A7%D8%AA",
+   "title": "بيان الحالات التي يجوز فيها تأخير الصلوات",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "Practical steps that help one wake up for the Fajr prayer.",
+   "content_sha256": "sha256:290db782e0e10e6101468287fd6f5185bba283d9b02c4cfebde543829b453d68",
+   "file": "records/binbaz-2149.json",
+   "id": "binbaz-2149",
+   "sha256": "sha256:9b6ffb131d0148d7d6ea87f9e31a61a2da58d78e36f59f79f6140c46c7ff858a",
+   "source_url": "https://binbaz.org.sa/fatwas/2149/%D8%A7%D9%84%D8%A7%D8%B3%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%B9%D9%8A%D9%86%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D9%85-%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D8%A7%D9%84%D9%81%D8%AC%D8%B1",
+   "title": "الأسباب المعينة على القيام لصلاة الفجر",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "Forgetting memorised Quran is not a sin; encourages learning short surahs to recite in prayer; useful for beginners still memorising.",
+   "content_sha256": "sha256:765d96071dd80ce68978e8a28c4883fa801ca256446f2d3aae9df8ed43a95556",
+   "file": "records/binbaz-2523.json",
+   "id": "binbaz-2523",
+   "sha256": "sha256:ba3c169b2223c49466b7ea301da83e068295a601ea72a7f23f481730821d11e4",
+   "source_url": "https://binbaz.org.sa/fatwas/2523/%D9%87%D9%84-%D9%8A%D8%A7%D8%AB%D9%85-%D9%85%D9%86-%D8%AD%D9%81%D8%B8-%D8%B4%D9%8A%D9%89%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86-%D8%AB%D9%85-%D9%86%D8%B3%D9%8A%D9%87",
+   "title": "هل يإثم من حفظ شيئا من القرآن ثم نسيه؟",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "Drying the limbs after wudu or ghusl is allowed either way; simple everyday question.",
+   "content_sha256": "sha256:e1cba27c0bd2106dcab5a5cdd8d4ed5c6edbc99377e57ecd78eec42384ff646f",
+   "file": "records/binbaz-2616.json",
+   "id": "binbaz-2616",
+   "sha256": "sha256:7af2c3e05bb76a061bf39f1809e551031add45bab9ad17b8b6ba3beb14adcd59",
+   "source_url": "https://binbaz.org.sa/fatwas/2616/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%AA%D9%86%D8%B4%D9%8A%D9%81-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D9%88%D8%B6%D9%88%D8%A1-%D9%88%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%BA%D8%B3%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A8%D8%A9",
+   "title": "حكم التنشيف بعد الوضوء وبعد الغسل من الجنابة",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "Tells the sick to pray as they are able instead of postponing prayers to make them up later.",
+   "content_sha256": "sha256:5254af03806f3a4948bc95256914a615efdb5088fafd45220db7400d5724bccc",
+   "file": "records/binbaz-2631.json",
+   "id": "binbaz-2631",
+   "sha256": "sha256:509774ed8a954b7de751d95a7eec9de837ca64a35ec76d0b16e9f49b8e5f0870",
+   "source_url": "https://binbaz.org.sa/fatwas/2631/%D8%AD%D9%83%D9%85-%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D9%8A%D8%AA",
+   "title": "حكم قضاء الصلاة عن الميت",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "Whoever oversleeps Fajr prays it on waking; a very common beginner situation.",
+   "content_sha256": "sha256:1090ab0e4652540b7dd325e02f61896872db697b6a5bdbfc2a126cc3279fc8fa",
+   "file": "records/binbaz-2774.json",
+   "id": "binbaz-2774",
+   "sha256": "sha256:7f30d180044794af1cd1c87e812f758b1383d86273c8c1f368de14f3f920a7fe",
+   "source_url": "https://binbaz.org.sa/fatwas/2774/%D8%AD%D9%83%D9%85-%D9%85%D9%86-%D9%86%D8%A7%D9%85-%D8%B9%D9%86-%D8%B5%D9%84%D8%A7%D8%A9-%D8%A7%D9%84%D8%B5%D8%A8%D8%AD-%D8%AD%D8%AA%D9%89-%D8%AE%D8%B1%D8%AC-%D9%88%D9%82%D8%AA%D9%87%D8%A7",
+   "title": "حكم من نام عن صلاة الصبح حتى خرج وقتها",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "The core ruling on deliberately leaving prayer, presenting both scholarly views; kept as the single representative ruling.",
+   "content_sha256": "sha256:7b2a59c3f3411d07503bfac265928b102f9e625886cb4be0bd62dda54a72a462",
+   "file": "records/binbaz-2778.json",
+   "id": "binbaz-2778",
+   "sha256": "sha256:a119e1aee9d9d3f1566f5fd40e1cc0cf9a9712b68a1b98b0ffd4b1c856d32ab7",
+   "source_url": "https://binbaz.org.sa/fatwas/2778/%D8%AD%D9%83%D9%85-%D8%AA%D8%B1%D9%83-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D9%85%D8%B9-%D8%A7%D9%84%D8%A7%D9%82%D8%B1%D8%A7%D8%B1-%D8%A8%D9%87%D8%A7",
+   "title": "حكم ترك الصلاة مع الإقرار بها",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "How to advise a brother who does not pray; practical family case, one of three kept leaving-prayer items.",
+   "content_sha256": "sha256:a1c13385ee740002eda7d575d6a78feae85ded7d795fca6ea68b010e8c2f426b",
+   "file": "records/binbaz-2978.json",
+   "id": "binbaz-2978",
+   "sha256": "sha256:b3f2f7c1287b775764fe0293a447750ccb016f4ed9e2dc059ab0520aaddb64b4",
+   "source_url": "https://binbaz.org.sa/fatwas/2978/%D9%85%D8%A7-%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D8%A8-%D8%AA%D8%AC%D8%A7%D9%87-%D8%A7%D9%84%D8%A7%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%84%D8%A7-%D9%8A%D8%B5%D9%84%D9%8A",
+   "title": "ما الواجب تجاه الأخ الذي لا يصلي؟",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "What to do if Al-Fatihah was forgotten in a rak'ah; short and simple.",
+   "content_sha256": "sha256:13bb4563032bb2b8ff2052a19e6bc7ccf3226547ad23df5ca58564ad8da8ede1",
+   "file": "records/binbaz-3005.json",
+   "id": "binbaz-3005",
+   "sha256": "sha256:a976fa75b6dc8c9f400f66df6f5b123bcc6db84527a8a4e26536afc96889c2e1",
+   "source_url": "https://binbaz.org.sa/fatwas/3005/%D8%AD%D9%83%D9%85-%D9%85%D9%86-%D9%86%D8%B3%D9%8A-%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D8%AD%D8%A9",
+   "title": "حكم من نسي قراءة الفاتحة",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "Forgetting 'bismillah' before wudu does not spoil it; a simple, reassuring answer.",
+   "content_sha256": "sha256:31a52d6ebc8b526d5ad3b34f4100350dd212aea906eb604b78c679b4caba4e26",
+   "file": "records/binbaz-3521.json",
+   "id": "binbaz-3521",
+   "sha256": "sha256:b268609e683c45533fe09c6dbc394d4c6f1349667df334a66e4e435ae8741701",
+   "source_url": "https://binbaz.org.sa/fatwas/3521/%D8%AD%D9%83%D9%85-%D9%85%D9%86-%D9%86%D8%B3%D9%8A-%D8%A7%D9%84%D8%AA%D8%B3%D9%85%D9%8A%D8%A9-%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D9%88%D8%B6%D9%88%D8%A1",
+   "title": "حكم من نسي التسمية قبل الوضوء",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "Chlorinated tap water is still valid for wudu; practical in many countries.",
+   "content_sha256": "sha256:f77751c0a9785b60d9264d66cb9d84275f65dbceb3bf9c4dc95910f858a98720",
+   "file": "records/binbaz-3581.json",
+   "id": "binbaz-3581",
+   "sha256": "sha256:fe8710bdc4eb8a83a4070b8415a643970fc2ea471abd5994aa5ee0b77c537efe",
+   "source_url": "https://binbaz.org.sa/fatwas/3581/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D9%88%D8%B6%D9%88%D8%A1-%D8%A8%D8%A7%D9%84%D9%85%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%AE%D9%84%D9%88%D8%B7-%D8%A8%D8%A7%D9%84%D9%83%D9%84%D9%88%D8%B1",
+   "title": "حكم الوضوء بالماء المخلوط بالكلور",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "Wudu inside a bathroom is allowed when needed, with where to say the basmala and the shahada; practical for modern homes.",
+   "content_sha256": "sha256:14a24c3f3304cac36ec96a19b18594dfa65f3cb040a955a454246957d6390570",
+   "file": "records/binbaz-3588.json",
+   "id": "binbaz-3588",
+   "sha256": "sha256:fa48fd8a9301ec8997faaadf230f237ed13b1ea7e70e03cf525b14770363fa90",
+   "source_url": "https://binbaz.org.sa/fatwas/3588/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D9%88%D8%B6%D9%88%D8%A1-%D8%AF%D8%A7%D8%AE%D9%84-%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85",
+   "title": "حكم الوضوء داخل الحمام",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "Istinja is not needed before every wudu; explains when it is needed and lists the wudu steps.",
+   "content_sha256": "sha256:389949e56a09c4ceedb296c2c31afc48f5533d37d22b88564df43c034255ac99",
+   "file": "records/binbaz-3594.json",
+   "id": "binbaz-3594",
+   "sha256": "sha256:8d3a8038eca1fd408950d8b79670c999fb74c0d0ff91a40a8c6d43eac130d16b",
+   "source_url": "https://binbaz.org.sa/fatwas/3594/%D9%87%D9%84-%D9%8A%D8%B4%D8%AA%D8%B1%D8%B7-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%86%D8%AC%D8%A7%D8%A1-%D9%84%D9%83%D9%84-%D9%88%D8%B6%D9%88%D8%A1",
+   "title": "هل يشترط الاستنجاء لكل وضوء؟",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "Nail polish must be removed for wudu because it stops water reaching the nail; common question for women.",
+   "content_sha256": "sha256:65e619011cabaf18a361b762d88ce081be798778fface3fb0e4b19f3a90be2ba",
+   "file": "records/binbaz-3611.json",
+   "id": "binbaz-3611",
+   "sha256": "sha256:354ec2b1d1416d09d7419063683271632d71ef9fa081ecbc69cc7763aca174dd",
+   "source_url": "https://binbaz.org.sa/fatwas/3611/%D8%AD%D9%83%D9%85-%D8%A7%D8%B3%D8%AA%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%83%D9%8A%D8%B1-%D9%88%D9%87%D9%84-%D8%AA%D8%AC%D8%A8-%D8%A7%D8%B2%D8%A7%D9%84%D8%AA%D9%87-%D8%B9%D9%86%D8%AF-%D8%A7%D9%84%D9%88%D8%B6%D9%88%D8%A1",
+   "title": "حكم استعمال المناكير، وهل تجب إزالته عند الوضوء؟",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "How the Prophet performed wudu, step by step, and the two rak'ahs after it; core practical purification.",
+   "content_sha256": "sha256:4a0771a1fa5229fa55bde6cc248b77e5d519aa9d4f5dff981c90d9c1899f3d24",
+   "file": "records/binbaz-3649.json",
+   "id": "binbaz-3649",
+   "sha256": "sha256:e4b3db11b91a5b726e9bea53db399054b0cd3eec1c553df89325a0ba7183b573",
+   "source_url": "https://binbaz.org.sa/fatwas/3649/%D8%B5%D9%81%D8%A9-%D9%88%D8%B6%D9%88%D8%A1-%D8%A7%D9%84%D9%86%D8%A8%D9%8A-%D8%B5%D9%84%D9%89-%D8%A7%D9%84%D9%84%D9%87-%D8%B9%D9%84%D9%8A%D9%87-%D9%88%D8%B3%D9%84%D9%85",
+   "title": "صفة وضوء النبي صلى الله عليه وسلم",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "For a thick beard it is enough to pass water over it; short practical wudu detail.",
+   "content_sha256": "sha256:a8b10da16fbe6543e86930bc72fa558f140ce2f9b71295b39eaf494ccd05c8c4",
+   "file": "records/binbaz-3650.json",
+   "id": "binbaz-3650",
+   "sha256": "sha256:ec68417b8dc17a68fec900e4eabd269a09b8d53b7e17f42d052aa4c2c822f2b2",
+   "source_url": "https://binbaz.org.sa/fatwas/3650/%D9%87%D9%84-%D9%8A%D8%B4%D8%AA%D8%B1%D8%B7-%D9%84%D8%B5%D8%A7%D8%AD%D8%A8-%D8%A7%D9%84%D9%84%D8%AD%D9%8A%D8%A9-%D8%A7%D9%84%D9%83%D8%AB%D9%8A%D9%81%D8%A9-%D9%88%D8%B5%D9%88%D9%84-%D8%A7%D9%84%D9%85%D8%A7%D8%A1-%D9%84%D9%85%D9%86%D8%A7%D8%A8%D8%AA-%D8%A7%D9%84%D8%B4%D8%B9%D8%B1",
+   "title": "هل يشترط لصاحب اللحية الكثيفة وصول الماء لمنابت الشعر؟",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "Guidance for someone who feels no comfort in prayer; a common struggle for new Muslims.",
+   "content_sha256": "sha256:d6979fce39d51efa7cc5ddd1a0d1980f20687efcbfe30eb4910b318da1f9bbfc",
+   "file": "records/binbaz-3709.json",
+   "id": "binbaz-3709",
+   "sha256": "sha256:3467139be4e2757e5fbc9315cbee5344ec8266515a8a0d4025879d485d1ad91a",
+   "source_url": "https://binbaz.org.sa/fatwas/3709/%D8%AA%D9%88%D8%AC%D9%8A%D9%87-%D9%84%D9%85%D9%86-%D9%84%D8%A7-%D9%8A%D8%AD%D8%B3-%D8%A8%D8%A7%D9%84%D8%B1%D8%A7%D8%AD%D8%A9-%D9%81%D9%8A-%D8%B5%D9%84%D8%A7%D8%AA%D9%87",
+   "title": "توجيه لمن لا يحس بالراحة في صلاته",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "The Friday ghusl is a confirmed sunnah, not an obligation.",
+   "content_sha256": "sha256:7490704b91438f4ebadc55fcd2b4cf849e8d1684cb18c82e48816f664107a176",
+   "file": "records/binbaz-3805.json",
+   "id": "binbaz-3805",
+   "sha256": "sha256:fce11f912d290fe6cd0e1bf6c703bed82f6a3db09c48e2e5242a842ba358d4bb",
+   "source_url": "https://binbaz.org.sa/fatwas/3805/%D8%A7%D9%84%D8%BA%D8%B3%D9%84-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9-%D8%B3%D9%86%D8%A9-%D9%85%D9%88%D9%83%D8%AF%D8%A9",
+   "title": "الغسل يوم الجمعة سنة مؤكدة",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "A ghusl for janabah counts for wudu when both are intended; soap and shampoo are fine.",
+   "content_sha256": "sha256:82dccb06a8f4f8c29464d6831325d0fa6622db49d016bae4e20d71b8724cbebc",
+   "file": "records/binbaz-3807.json",
+   "id": "binbaz-3807",
+   "sha256": "sha256:c852d0e17a775240ce0b1b3e58fac0943d3c79de4ff00c8afbde0f599916dd1d",
+   "source_url": "https://binbaz.org.sa/fatwas/3807/%D8%A7%D9%84%D8%BA%D8%B3%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A8%D8%A9-%D9%88%D8%BA%D9%8A%D8%B1%D9%87%D8%A7-%D9%87%D9%84-%D9%8A%D8%AC%D8%B2%D9%89-%D8%B9%D9%86-%D8%A7%D9%84%D9%88%D8%B6%D9%88%D8%A1",
+   "title": "الغسل من الجنابة وغيرها هل يجزئ عن الوضوء",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "Ghusl after a wet dream is required only when fluid is found; basic ghusl rule.",
+   "content_sha256": "sha256:548cf03974c6fe00cfbf76444cb3f89de13059727e31eccd44a2a9600e136381",
+   "file": "records/binbaz-3814.json",
+   "id": "binbaz-3814",
+   "sha256": "sha256:0329327ee80cb41a21344d9708cbafb439266364c2938201e1e7effb957959d8",
+   "source_url": "https://binbaz.org.sa/fatwas/3814/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%BA%D8%B3%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%B0%D9%8A-%D9%84%D8%A7-%D9%8A%D8%AC%D8%AF-%D9%84%D9%87-%D8%A7%D8%AB%D8%B1%D8%A7",
+   "title": "حكم الغسل من الاحتلام الذي لا يجد له أثرًا",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "How a sick person who cannot make wudu does tayammum, and that the prayer is still due; practical for illness.",
+   "content_sha256": "sha256:4dc641497f5e5270d83bef2e3b2a9ced79e4e5215d6b308fe38e4bb5b85c174d",
+   "file": "records/binbaz-3829.json",
+   "id": "binbaz-3829",
+   "sha256": "sha256:bfd9a9723d1853f2e46a7e7b4061110fd19728feb076282a16775da1b076237c",
+   "source_url": "https://binbaz.org.sa/fatwas/3829/%D9%83%D9%8A%D9%81-%D9%8A%D8%AA%D9%8A%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%B6",
+   "title": "كيف يتيمم المريض",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "A pregnant woman with continuous urine leakage still prays, making wudu for each prayer time; shows how prayer adapts to hardship.",
+   "content_sha256": "sha256:c4473d10716754f822765a105383cfba8e73f0919d9cb48841be18219c30cb03",
+   "file": "records/binbaz-3859.json",
+   "id": "binbaz-3859",
+   "sha256": "sha256:1b94870356bad9da1d9da269cfab19f553ebe9eee87633f6782fbb2f9502dfb2",
+   "source_url": "https://binbaz.org.sa/fatwas/3859/%D9%85%D8%A7-%D9%8A%D9%84%D8%B2%D9%85-%D9%85%D9%86-%D9%83%D8%A7%D9%86%D8%AA-%D8%AD%D8%A7%D9%85%D9%84%D8%A7-%D9%81%D8%AA%D8%B1%D9%83%D8%AA-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%B3%D9%8A%D9%84%D8%A7%D9%86-%D8%A7%D9%84%D8%A8%D9%88%D9%84",
+   "title": "ما يلزم من كانت حاملا فتركت الصلاة بسبب سيلان البول؟",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "Workers may pray a little after the start of the time when needed, though the start is better; practical at work.",
+   "content_sha256": "sha256:f722842a09d5ff1957fd33c5f2e2f11bc5ac17941f6adb61d4ff10ab39ae53ee",
+   "file": "records/binbaz-3958.json",
+   "id": "binbaz-3958",
+   "sha256": "sha256:73db09749c1c597459fb1e33c355c027a6d617ec7c2392e4e6a30fb1fbdb0b33",
+   "source_url": "https://binbaz.org.sa/fatwas/3958/%D8%AA%D8%A7%D8%AE%D9%8A%D8%B1-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D8%B9%D9%86-%D9%88%D9%82%D8%AA%D9%87%D8%A7-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%A7%D9%84%D8%B9%D9%85%D9%84",
+   "title": "تأخير الصلاة عن وقتها بسبب العمل",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "The preferred and necessary times of Dhuhr, Asr, Maghrib and the other prayers; prayer-time basics.",
+   "content_sha256": "sha256:2330a9b3270c3283d95fbdd01d7d693d6bb09fad5c27d43d10f68da35dad3557",
+   "file": "records/binbaz-3961.json",
+   "id": "binbaz-3961",
+   "sha256": "sha256:5d5684ebee6f53ad6e950fd43bd979f56033ec435b69fa1f63be7bfe7f886a91",
+   "source_url": "https://binbaz.org.sa/fatwas/3961/%D8%A7%D9%84%D9%88%D9%82%D8%AA-%D8%A7%D9%84%D8%B6%D8%B1%D9%88%D8%B1%D9%8A-%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D8%A7%D9%84%D8%B8%D9%87%D8%B1-%D9%88%D8%A7%D9%84%D8%B9%D8%B5%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8",
+   "title": "الوقت الضروري لصلاة الظهر والعصر والمغرب",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "A fast is valid without suhoor when the intention is there; simple fasting basic.",
+   "content_sha256": "sha256:dce4f55a155bb5c4f05e91a806ba7417d619591a0752fd30b31ae33a29daf7a8",
+   "file": "records/binbaz-10220.json",
+   "id": "binbaz-10220",
+   "sha256": "sha256:64d8c36b0769c5dc6e8c45a7324c12c7313977225beab08e70922ff2dcb5c7e3",
+   "source_url": "https://binbaz.org.sa/fatwas/10220/%D8%AD%D9%83%D9%85-%D9%85%D9%86-%D9%86%D9%88%D9%89-%D8%A7%D9%84%D8%B5%D9%8A%D8%A7%D9%85-%D9%88%D9%84%D9%85-%D9%8A%D8%AA%D8%B3%D8%AD%D8%B1",
+   "title": "حكم من نوى الصيام ولم يتسحر",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "Explains the gate of Ar-Rayyan for those who fast; a motivating introduction to fasting.",
+   "content_sha256": "sha256:b26bb5b0eaade453d702a608ce15da4f0389daac93fedfea64aafe8d6a21340b",
+   "file": "records/binbaz-11287.json",
+   "id": "binbaz-11287",
+   "sha256": "sha256:ebd6839a0239b66115bea8388f7cee794bf0ae5eb75b2a42f1459ed1f0ff9788",
+   "source_url": "https://binbaz.org.sa/fatwas/11287/%D9%85%D8%A7-%D9%85%D8%B9%D9%86%D9%89-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%86%D8%A9-%D8%A8%D8%A7%D8%A8-%D9%8A%D9%82%D8%A7%D9%84-%D9%84%D9%87-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D9%86",
+   "title": "ما معنى: «في الجنة باب يقال له: الريان»؟",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "How to make the night intention for the Ramadan fast; fasting basics.",
+   "content_sha256": "sha256:5654b1d1bfd127e75eaa2e9e0ee3d81ea0baef2b38ade21fb856aadcb4a54bd2",
+   "file": "records/binbaz-18397.json",
+   "id": "binbaz-18397",
+   "sha256": "sha256:0ef232b5de468055ed89dbaa54cc4a4e88c3fb2907d595f45e25712674ccaeff",
+   "source_url": "https://binbaz.org.sa/fatwas/18397/%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%AA%D8%A8%D9%8A%D9%8A%D8%AA-%D8%A7%D9%84%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D9%8A%D8%A7%D9%85",
+   "title": "كيفية تبييت النية في الصيام",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "User-provided example: someone who cannot read Arabic well keeps reading the Quran with a teacher; for beginners who cannot yet recite well.",
+   "content_sha256": "sha256:442867c81c529d438c355453ff7dce76d7411bd4e22502f89bacc2ca6a1b68f8",
+   "file": "records/binbaz-19825.json",
+   "id": "binbaz-19825",
+   "sha256": "sha256:6ad53d5f488353de4ea6aa379e0dbdfd754cd683e06126e885b1e8e015e24bfa",
+   "source_url": "https://binbaz.org.sa/fatwas/19825/%D8%AD%D9%83%D9%85-%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85-%D9%84%D9%85%D9%86-%D9%84%D8%A7-%D9%8A%D8%AC%D9%8A%D8%AF-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9",
+   "title": "حكم قراءة القرآن الكريم لمن لا يجيد قواعد اللغة العربية",
+   "topic": "worship"
+  },
+  {
+   "audience_reason": "Says the expression 'taking on the character of God's names' is not an appropriate phrase, then allows one qualified meaning: acquiring, within the limits of the Sharia, a share of qualities God loves in His servants (knowledge, mercy, forbearance, generosity, pardon), never the attributes that belong to God alone; best read with a teacher.",
+   "content_sha256": "sha256:47c671963afd41d11f8172c53dd4339546abeacabeebb7ea752e630279315092",
+   "file": "records/binbaz-16.json",
+   "id": "binbaz-16",
+   "sha256": "sha256:e354a545c91475803e2bdbf705baa992d565b582e722d6256bc095d4a590960f",
+   "source_url": "https://binbaz.org.sa/fatwas/16/%D8%AD%D9%83%D9%85-%D9%82%D9%88%D9%84-%D8%A7%D9%84%D8%AA%D8%AE%D9%84%D9%82-%D8%A8%D8%A7%D8%B3%D9%85%D8%A7%D8%A1-%D8%A7%D9%84%D9%84%D9%87-%D9%88%D8%B5%D9%81%D8%A7%D8%AA%D9%87",
+   "title": "حكم قول: التخلق بأسماء الله وصفاته",
+   "topic": "conduct"
+  },
+  {
+   "audience_reason": "A new Muslim need not change their name unless it means servitude to other than God; directly relevant to converts.",
+   "content_sha256": "sha256:0a8800750c460d83024d40a1bdd4c4a360ddbdce8039f1dcbbd5c7666b1c0efc",
+   "file": "records/binbaz-854.json",
+   "id": "binbaz-854",
+   "sha256": "sha256:c0b0259a3a34ffa485723d0f61a3a0fc21496dab5ce6910d46a3b6515bf44d41",
+   "source_url": "https://binbaz.org.sa/fatwas/854/%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D8%A7%D8%B3%D9%85-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B9%D8%AA%D9%86%D8%A7%D9%82-%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85",
+   "title": "تغيير الاسم بعد اعتناق الإسلام",
+   "topic": "conduct"
+  },
+  {
+   "audience_reason": "Distinguishes kinds of standing: rising to meet, greet or shake hands with someone who arrives is good manners; standing over a seated person to venerate him is not allowed, and standing only to honour someone's entry without meeting him is at least disliked; everyday etiquette with clear limits.",
+   "content_sha256": "sha256:6e571c0565d4e28457819ec87ce51ad882da3564a84093e3633d9414004dbd93",
+   "file": "records/binbaz-931.json",
+   "id": "binbaz-931",
+   "sha256": "sha256:3406dc39992b75288d16c35528803d84192de969da8eca917a21e6a1eecefb03",
+   "source_url": "https://binbaz.org.sa/fatwas/931/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D9%85-%D9%84%D9%84%D9%82%D8%A7%D8%AF%D9%85",
+   "title": "حكم القيام للقادم",
+   "topic": "conduct"
+  },
+  {
+   "audience_reason": "How to keep ties of kinship (kind words, greeting, helping) and that there is no fixed visiting limit.",
+   "content_sha256": "sha256:69822d7b48e2c8869868c9b7952213371d9d4b5960ba440857b940bc4fdee61b",
+   "file": "records/binbaz-994.json",
+   "id": "binbaz-994",
+   "sha256": "sha256:907378f45aea9b97f4e0ae40cdb985499e2f7c2498b70d22081b25109a1f4925",
+   "source_url": "https://binbaz.org.sa/fatwas/994/%D9%83%D9%8A%D9%81-%D8%AA%D9%83%D9%88%D9%86-%D8%B5%D9%84%D8%A9-%D8%A7%D9%84%D8%B1%D8%AD%D9%85-%D9%88%D9%85%D8%A7-%D9%87%D9%88-%D8%AD%D8%AF-%D8%A7%D9%84%D9%82%D8%B7%D9%8A%D8%B9%D8%A9",
+   "title": "كيف تكون صلة الرحم؟ وما هو حد القطيعة؟",
+   "topic": "conduct"
+  },
+  {
+   "audience_reason": "Zakat may go to Muslim workers whose wages do not cover their needs; a simple zakat case.",
+   "content_sha256": "sha256:5e3d251ce5ddc72a08c897bba6456d70fa9e41649cb8f227501de197cdf73cfe",
+   "file": "records/binbaz-1061.json",
+   "id": "binbaz-1061",
+   "sha256": "sha256:0f45a17652d5ad44ce79894e3083194cd053dfe616519ababe57f88a726efedc",
+   "source_url": "https://binbaz.org.sa/fatwas/1061/%D9%87%D9%84-%D8%AA%D8%AD%D9%84-%D8%A7%D9%84%D8%B2%D9%83%D8%A7%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%88%D8%A7%D9%81%D8%AF%D9%8A%D9%86-%D9%84%D8%B6%D8%B9%D9%81-%D8%B1%D9%88%D8%A7%D8%AA%D8%A8%D9%87%D9%85",
+   "title": "هل تحل الزكاة على الوافدين لضعف رواتبهم؟",
+   "topic": "conduct"
+  },
+  {
+   "audience_reason": "What to do with stray sheep one finds: announce them for a year; honesty with lost property.",
+   "content_sha256": "sha256:18f535414a98bd90ca4f4d99693221080db2101df9fb2a5776e7e380df4e909f",
+   "file": "records/binbaz-1066.json",
+   "id": "binbaz-1066",
+   "sha256": "sha256:31c3c288b19e8051ce613cecf52cc5bfd16e9b1dac3ad913d667e204923ace12",
+   "source_url": "https://binbaz.org.sa/fatwas/1066/%D9%85%D8%A7-%D9%8A%D9%81%D8%B9%D9%84-%D9%85%D9%86-%D9%88%D8%AC%D8%AF-%D8%B6%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%BA%D9%86%D9%85",
+   "title": "ما يفعل من وجد ضالة الغنم؟",
+   "topic": "conduct"
+  },
+  {
+   "audience_reason": "Explains the scholarly difference on cupping while fasting; a secondary fasting detail.",
+   "content_sha256": "sha256:45851d46395532efda44258873c4e9bb433a6bc85736fc37a632ef65fce7d1c7",
+   "file": "records/binbaz-1241.json",
+   "id": "binbaz-1241",
+   "sha256": "sha256:84c6abc51e74dd1ee56d1e381c112cb7dc713c9d3bb9f2a17b8bca0f3889a62b",
+   "source_url": "https://binbaz.org.sa/fatwas/1241/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D9%85-%D9%84%D9%84%D8%B5%D8%A7%D9%89%D9%85",
+   "title": "حكم الاحتجام للصائم",
+   "topic": "conduct"
+  },
+  {
+   "audience_reason": "Answers on disliked dreams and fasting on behalf of the deceased; practical family questions.",
+   "content_sha256": "sha256:2d3cf94bd19cca742cc2cac28e9a4371a7be67ba4dcd288b37c9ee20b93611ce",
+   "file": "records/binbaz-1242.json",
+   "id": "binbaz-1242",
+   "sha256": "sha256:da2bae62c1bf15c0b7e8b61fb8cef1bfbe7f2ed6a89a6981dce918561dc20383",
+   "source_url": "https://binbaz.org.sa/fatwas/1242/%D8%A7%D8%AC%D9%88%D8%A8%D8%A9-%D9%85%D9%81%D9%8A%D8%AF%D8%A9-%D8%AA%D8%AA%D8%B9%D9%84%D9%82-%D8%A8%D8%A7%D9%84%D8%B1%D9%88%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%B5%D9%88%D9%85-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D9%8A%D8%AA",
+   "title": "أجوبة مفيدة تتعلق بالرؤيا والصوم عن الميت",
+   "topic": "conduct"
+  },
+  {
+   "audience_reason": "Obey a father in what is right and advise him gently when he errs.",
+   "content_sha256": "sha256:afd3831973d8ed4a07493fe90cb6f278e7db0f4402f1e19c46fb683597c7d415",
+   "file": "records/binbaz-1261.json",
+   "id": "binbaz-1261",
+   "sha256": "sha256:e7ec0ce6bcb9e86431b2f1e2c384d7d7f61414f93a7d5c3ef9cc5c87cfd5108b",
+   "source_url": "https://binbaz.org.sa/fatwas/1261/%D8%B7%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D9%88%D8%A7%D9%84%D8%AF-%D8%A8%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%88%D9%81",
+   "title": "طاعة الوالد بالمعروف",
+   "topic": "conduct"
+  },
+  {
+   "audience_reason": "A daughter keeps her hijab while staying kind to a mother who objects; relevant to converts with non-practising family.",
+   "content_sha256": "sha256:2629ae5ef3b6d5cfab3d351de135274e5410f89177fcf47a3cefbae6d7d99ece",
+   "file": "records/binbaz-1265.json",
+   "id": "binbaz-1265",
+   "sha256": "sha256:4f615f7931fc2099d2cd55e5ab5818b568daec0c9a325fc4081ee616acec6665",
+   "source_url": "https://binbaz.org.sa/fatwas/1265/%D9%88%D8%A7%D9%84%D8%AF%D8%AA%D9%87%D8%A7-%D8%AA%D8%B7%D9%84%D8%A8-%D9%85%D9%86%D9%87%D8%A7-%D8%AA%D8%B1%D9%83-%D8%A7%D9%84%D8%AD%D8%AC%D8%A7%D8%A8",
+   "title": "والدتها تطلب منها ترك الحجاب",
+   "topic": "conduct"
+  },
+  {
+   "audience_reason": "Child maintenance after divorce is settled by agreement or the court; family case.",
+   "content_sha256": "sha256:11ea6d5325b9e44e40c6af23794cf591b38bad3e1f2ab281fd4fccd95c808c64",
+   "file": "records/binbaz-1283.json",
+   "id": "binbaz-1283",
+   "sha256": "sha256:9a8ff7eec7780a13d2ff750c6bd2818086db14fa4a987d432a7331e6646f4c1f",
+   "source_url": "https://binbaz.org.sa/fatwas/1283/%D8%A7%D9%84%D9%86%D9%81%D9%82%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D9%88%D9%84%D8%A7%D8%AF-%D8%A8%D8%B9%D8%AF-%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%85%D9%87%D9%85",
+   "title": "النفقة على الأولاد بعد طلاق أمهم",
+   "topic": "conduct"
+  },
+  {
+   "audience_reason": "Advises patience and helping at home rather than divorcing a wife for some laziness.",
+   "content_sha256": "sha256:399a2298ca7f092e8e1d6e7daf084d9afa2833af48bfcbe02f1582a03e3bb953",
+   "file": "records/binbaz-1287.json",
+   "id": "binbaz-1287",
+   "sha256": "sha256:26b156032597636d7fab916ecb96e97c8b73f812d9e3589eef97860738054b27",
+   "source_url": "https://binbaz.org.sa/fatwas/1287/%D8%AD%D9%83%D9%85-%D8%AA%D8%B7%D9%84%D9%8A%D9%82-%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D8%A9-%D8%A8%D8%B3%D8%A8%D8%A8-%D9%83%D8%B3%D9%84%D9%87%D8%A7",
+   "title": "حكم تطليق الزوجة بسبب كسلها",
+   "topic": "conduct"
+  },
+  {
+   "audience_reason": "Greeting women with salam is permitted; short everyday etiquette.",
+   "content_sha256": "sha256:9edb5da12796e3f59e9274f61fc0bd1428b1b9045d7ab8bb2acc72b82e787731",
+   "file": "records/binbaz-1313.json",
+   "id": "binbaz-1313",
+   "sha256": "sha256:2699f7132cd7f0ba4e32ceb448d4e2269dd64dd8261fcd73d3427359bb1f2e40",
+   "source_url": "https://binbaz.org.sa/fatwas/1313/%D9%87%D9%84-%D9%8A%D8%AC%D9%88%D8%B2-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1",
+   "title": "هل يجوز السلام على النساء؟",
+   "topic": "conduct"
+  },
+  {
+   "audience_reason": "What to do when unable to fulfil a vow to slaughter; keeping commitments.",
+   "content_sha256": "sha256:e4f5fd143ad5ba76e7cd55ee60a7b371e6abf87139af73dc3a1922960919547f",
+   "file": "records/binbaz-1338.json",
+   "id": "binbaz-1338",
+   "sha256": "sha256:0e35106e7f1c8b3f00447030a7a875f9a60a4b45e777ae751a436bef8dec2321",
+   "source_url": "https://binbaz.org.sa/fatwas/1338/%D8%AD%D9%83%D9%85-%D9%85%D9%86-%D8%B9%D8%AC%D8%B2-%D8%B9%D9%86-%D8%A7%D9%84%D9%88%D9%81%D8%A7%D8%A1-%D8%A8%D8%A7%D9%84%D9%86%D8%B0%D8%B1",
+   "title": "حكم من عجز عن الوفاء بالنذر",
+   "topic": "conduct"
+  },
+  {
+   "audience_reason": "Slaughtering when building a house: fine as hospitality, forbidden if meant to ward off jinn; separates custom from shirk.",
+   "content_sha256": "sha256:e7ade7a901ec803693ac2a67b552ca98404d88660a3521bd9022121fc60960dc",
+   "file": "records/binbaz-1342.json",
+   "id": "binbaz-1342",
+   "sha256": "sha256:c1adafd832a5400fd16104fac4f7da73a78cb2d65b238d3f1b21d8c513f72fc2",
+   "source_url": "https://binbaz.org.sa/fatwas/1342/%D8%A7%D9%84%D8%B0%D8%A8%D8%AD-%D8%B9%D9%86%D8%AF-%D8%A7%D9%86%D8%AA%D8%B5%D8%A7%D9%81-%D8%A7%D9%84%D8%A8%D9%86%D8%A7%D8%A1-%D8%A7%D9%88-%D8%A7%D9%83%D8%AA%D9%85%D8%A7%D9%84%D9%87",
+   "title": "الذبح عند انتصاف البناء أو اكتماله",
+   "topic": "conduct"
+  },
+  {
+   "audience_reason": "Do not obey a father who orders cutting ties with an uncle over a worldly dispute.",
+   "content_sha256": "sha256:f6f58ed065c43adeb2352772417425e6574d1a530e7763fc34d4d8bc95feace1",
+   "file": "records/binbaz-1363.json",
+   "id": "binbaz-1363",
+   "sha256": "sha256:164d008c398a366522a5d3888661c1d387758d9ba5b38602b5739efa5d8ec355",
+   "source_url": "https://binbaz.org.sa/fatwas/1363/%D8%AD%D9%83%D9%85-%D8%B7%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D9%88%D8%A7%D9%84%D8%AF-%D8%A7%D8%B0%D8%A7-%D8%A7%D9%85%D8%B1-%D9%88%D9%84%D8%AF%D9%87-%D8%A7%D9%84%D8%A7-%D9%8A%D8%B2%D9%88%D8%B1-%D8%A7%D8%AD%D8%AF-%D8%A7%D9%82%D8%A7%D8%B1%D8%A8%D9%87",
+   "title": "حكم طاعة الوالد إذا أمر ولده ألا يزور أحد أقاربه",
+   "topic": "conduct"
+  },
+  {
+   "audience_reason": "What to do after a bad dream: spit lightly to the left and seek refuge in God.",
+   "content_sha256": "sha256:753186bcde8d774253b42e0747133d21d24a56db6c7c2fb21f114e8664723f23",
+   "file": "records/binbaz-1391.json",
+   "id": "binbaz-1391",
+   "sha256": "sha256:44cbf181447c1475473e85353939ff1b39f81ba283ec139e3fd78373b695fc5f",
+   "source_url": "https://binbaz.org.sa/fatwas/1391/%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D9%82%D9%88%D9%84-%D9%85%D9%86-%D9%8A%D8%B1%D9%89-%D8%B1%D9%88%D9%8A%D8%A7-%D9%84%D8%A7-%D8%AA%D8%B3%D8%B1%D9%87",
+   "title": "ماذا يقول من يرى رؤيا لا تسره؟",
+   "topic": "conduct"
+  },
+  {
+   "audience_reason": "Disliked dreams come from Satan and should not be told; overlaps 1391 but adds what not to do.",
+   "content_sha256": "sha256:20a246518aef28cb510184487b4aa61b073497654a1e76f4bc24c715c5266069",
+   "file": "records/binbaz-1524.json",
+   "id": "binbaz-1524",
+   "sha256": "sha256:f7cb9c1a623623d059f273d2436d288d064e63b5ec73f7cc84fe89672bb42890",
+   "source_url": "https://binbaz.org.sa/fatwas/1524/%D8%A8%D9%8A%D8%A7%D9%86-%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%88%D9%89-%D8%A7%D9%84%D9%85%D9%83%D8%B1%D9%88%D9%87%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%B4%D9%8A%D8%B7%D8%A7%D9%86",
+   "title": "بيان أن الرؤى المكروهة من الشيطان",
+   "topic": "conduct"
+  },
+  {
+   "audience_reason": "Hugging on Eid is a custom; the sunnah is to pray for acceptance of each other's deeds.",
+   "content_sha256": "sha256:bf4150f2e48cace2a1035dc85fb707833c3b9e73cc2431d60f17ce2ae729f5d6",
+   "file": "records/binbaz-1533.json",
+   "id": "binbaz-1533",
+   "sha256": "sha256:b523bb7b11f8719e989b9f1ac6724987225e3326d5be582ef4e2f4f98a7d2819",
+   "source_url": "https://binbaz.org.sa/fatwas/1533/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%86%D9%82%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A7%D8%B9%D9%8A%D8%A7%D8%AF",
+   "title": "حكم المعانقة في الأعياد",
+   "topic": "conduct"
+  },
+  {
+   "audience_reason": "Parents are not obeyed in forbidding good companions and Umrah; the limits of obedience.",
+   "content_sha256": "sha256:3841c343d16bc6258820ebe89572d5839aaecd69c2a59016040e0022f889a878",
+   "file": "records/binbaz-1587.json",
+   "id": "binbaz-1587",
+   "sha256": "sha256:4fcead8f16d1096371502ce5af48220d9da12277c7388e6873fd8744831e1f42",
+   "source_url": "https://binbaz.org.sa/fatwas/1587/%D8%AD%D9%83%D9%85-%D8%B7%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D9%88%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D9%81%D9%8A-%D8%B9%D8%AF%D9%85-%D8%A7%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D8%A9",
+   "title": "حكم طاعة الوالدين في عدم أداء العمرة",
+   "topic": "conduct"
+  },
+  {
+   "audience_reason": "A suitor may look at the woman he proposes to, without being alone with her.",
+   "content_sha256": "sha256:96e8a9251e4c16aedd6c23ee621e686bf80e88242c710dfcf32a82c118e84353",
+   "file": "records/binbaz-1628.json",
+   "id": "binbaz-1628",
+   "sha256": "sha256:b1d56d05536ec851c9b095e548978fd08a5e135e16aab8c3ca201d411ac1bd15",
+   "source_url": "https://binbaz.org.sa/fatwas/1628/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D9%86%D8%B8%D8%B1-%D8%A7%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%AE%D8%B7%D9%88%D8%A8%D8%A9-%D9%88%D8%B6%D9%88%D8%A7%D8%A8%D8%B7-%D8%B0%D9%84%D9%83",
+   "title": "حكم النظر إلى المخطوبة وضوابط ذلك",
+   "topic": "conduct"
+  },
+  {
+   "audience_reason": "Explains the hadith advising young people to marry or else fast; guidance for youth.",
+   "content_sha256": "sha256:f6e36ce6b0f15e9ac729e84e952796a322a681478b552a299d9a8bbabb4a4a13",
+   "file": "records/binbaz-1665.json",
+   "id": "binbaz-1665",
+   "sha256": "sha256:2bbf0d312526e21e18f52297649636c32a5578354c1a4684cf49c5f2f2ceb83d",
+   "source_url": "https://binbaz.org.sa/fatwas/1665/%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%B5%D9%88%D9%85-%D9%85%D9%86-%D9%84%D8%A7-%D9%8A%D8%B3%D8%AA%D8%B7%D9%8A%D8%B9-%D8%A7%D9%84%D9%86%D9%83%D8%A7%D8%AD",
+   "title": "كيفية صوم من لا يستطيع النكاح",
+   "topic": "conduct"
+  },
+  {
+   "audience_reason": "A child must return the change from a parent's money and not take it without permission; honesty within the family.",
+   "content_sha256": "sha256:12abfc2f9c92b4a79b6b0a57f7c9c919a05a9cf1965ca5719810ef4dcb16a81a",
+   "file": "records/binbaz-6816.json",
+   "id": "binbaz-6816",
+   "sha256": "sha256:571983161db778254b6c2687a97da526c83b33a68d7941a25f5da56bc22e0b95",
+   "source_url": "https://binbaz.org.sa/fatwas/6816/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%A7%D8%AE%D8%B0-%D9%85%D9%86-%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%A7%D8%A8-%D8%A7%D9%88-%D8%A7%D9%84%D8%A7%D9%85-%D8%A8%D8%BA%D9%8A%D8%B1-%D8%A7%D8%B0%D9%86%D9%87%D9%85%D8%A7",
+   "title": "حكم الأخذ من مال الأب أو الأم بغير إذنهما",
+   "topic": "conduct"
+  }
+ ],
+ "schema": "balligh.library.fatwa.index/2",
+ "selection": {
+  "added": [
+   {
+    "from_category": "fiqhi/34",
+    "id": "binbaz-1224"
+   },
+   {
+    "from_category": "fiqhi/34",
+    "id": "binbaz-1353"
+   },
+   {
+    "from_category": "fiqhi/34",
+    "id": "binbaz-1375"
+   },
+   {
+    "from_category": "fiqhi/19",
+    "id": "binbaz-1548"
+   },
+   {
+    "from_category": "fiqhi/27",
+    "id": "binbaz-1787"
+   },
+   {
+    "from_category": "fiqhi/34",
+    "id": "binbaz-2523"
+   },
+   {
+    "from_category": "fiqhi/14",
+    "id": "binbaz-2616"
+   },
+   {
+    "from_category": "fiqhi/27",
+    "id": "binbaz-2774"
+   },
+   {
+    "from_category": "fiqhi/34",
+    "id": "binbaz-3005"
+   },
+   {
+    "from_category": "fiqhi/14",
+    "id": "binbaz-3521"
+   },
+   {
+    "from_category": "fiqhi/14",
+    "id": "binbaz-3581"
+   },
+   {
+    "from_category": "fiqhi/14",
+    "id": "binbaz-3588"
+   },
+   {
+    "from_category": "fiqhi/14",
+    "id": "binbaz-3594"
+   },
+   {
+    "from_category": "fiqhi/14",
+    "id": "binbaz-3611"
+   },
+   {
+    "from_category": "fiqhi/14",
+    "id": "binbaz-3649"
+   },
+   {
+    "from_category": "fiqhi/14",
+    "id": "binbaz-3650"
+   },
+   {
+    "from_category": "fiqhi/18",
+    "id": "binbaz-3805"
+   },
+   {
+    "from_category": "fiqhi/18",
+    "id": "binbaz-3807"
+   },
+   {
+    "from_category": "fiqhi/18",
+    "id": "binbaz-3814"
+   },
+   {
+    "from_category": "fiqhi/19",
+    "id": "binbaz-3829"
+   },
+   {
+    "from_category": "fiqhi/27",
+    "id": "binbaz-3958"
+   },
+   {
+    "from_category": "fiqhi/27",
+    "id": "binbaz-3961"
+   },
+   {
+    "from_category": "fiqhi/88",
+    "id": "binbaz-10220"
+   },
+   {
+    "from_category": "fiqhi/77",
+    "id": "binbaz-11287"
+   },
+   {
+    "from_category": "fiqhi/88",
+    "id": "binbaz-18397"
+   },
+   {
+    "from_category": "objective/370",
+    "id": "binbaz-6816"
+   }
+  ],
+  "categories": [
+   {
+    "id": "14",
+    "kind": "fiqhi",
+    "url": "https://binbaz.org.sa/categories/fiqhi/14"
+   },
+   {
+    "id": "18",
+    "kind": "fiqhi",
+    "url": "https://binbaz.org.sa/categories/fiqhi/18"
+   },
+   {
+    "id": "19",
+    "kind": "fiqhi",
+    "url": "https://binbaz.org.sa/categories/fiqhi/19"
+   },
+   {
+    "id": "27",
+    "kind": "fiqhi",
+    "url": "https://binbaz.org.sa/categories/fiqhi/27"
+   },
+   {
+    "id": "34",
+    "kind": "fiqhi",
+    "url": "https://binbaz.org.sa/categories/fiqhi/34"
+   },
+   {
+    "id": "77",
+    "kind": "fiqhi",
+    "url": "https://binbaz.org.sa/categories/fiqhi/77"
+   },
+   {
+    "id": "88",
+    "kind": "fiqhi",
+    "url": "https://binbaz.org.sa/categories/fiqhi/88"
+   },
+   {
+    "id": "370",
+    "kind": "objective",
+    "url": "https://binbaz.org.sa/categories/objective/370"
+   }
+  ],
+  "curated_ids": [
+   "binbaz-15",
+   "binbaz-855",
+   "binbaz-894",
+   "binbaz-963",
+   "binbaz-1157",
+   "binbaz-1263",
+   "binbaz-1532",
+   "binbaz-1656",
+   "binbaz-1996",
+   "binbaz-1998",
+   "binbaz-2089",
+   "binbaz-3366",
+   "binbaz-3982",
+   "binbaz-5627",
+   "binbaz-5629",
+   "binbaz-5990",
+   "binbaz-6720",
+   "binbaz-6940",
+   "binbaz-9614",
+   "binbaz-10633",
+   "binbaz-11423",
+   "binbaz-6",
+   "binbaz-52",
+   "binbaz-56",
+   "binbaz-1158",
+   "binbaz-1237",
+   "binbaz-1655",
+   "binbaz-2001",
+   "binbaz-2002",
+   "binbaz-2171",
+   "binbaz-2190",
+   "binbaz-2348",
+   "binbaz-2460",
+   "binbaz-2554",
+   "binbaz-2556",
+   "binbaz-2994",
+   "binbaz-3442",
+   "binbaz-3446",
+   "binbaz-6782",
+   "binbaz-9279",
+   "binbaz-10741",
+   "binbaz-11643",
+   "binbaz-12152",
+   "binbaz-18975",
+   "binbaz-1224",
+   "binbaz-1353",
+   "binbaz-1375",
+   "binbaz-1548",
+   "binbaz-1614",
+   "binbaz-1787",
+   "binbaz-2149",
+   "binbaz-2523",
+   "binbaz-2616",
+   "binbaz-2631",
+   "binbaz-2774",
+   "binbaz-2778",
+   "binbaz-2978",
+   "binbaz-3005",
+   "binbaz-3521",
+   "binbaz-3581",
+   "binbaz-3588",
+   "binbaz-3594",
+   "binbaz-3611",
+   "binbaz-3649",
+   "binbaz-3650",
+   "binbaz-3709",
+   "binbaz-3805",
+   "binbaz-3807",
+   "binbaz-3814",
+   "binbaz-3829",
+   "binbaz-3859",
+   "binbaz-3958",
+   "binbaz-3961",
+   "binbaz-10220",
+   "binbaz-11287",
+   "binbaz-18397",
+   "binbaz-19825",
+   "binbaz-16",
+   "binbaz-854",
+   "binbaz-931",
+   "binbaz-994",
+   "binbaz-1061",
+   "binbaz-1066",
+   "binbaz-1241",
+   "binbaz-1242",
+   "binbaz-1261",
+   "binbaz-1265",
+   "binbaz-1283",
+   "binbaz-1287",
+   "binbaz-1313",
+   "binbaz-1338",
+   "binbaz-1342",
+   "binbaz-1363",
+   "binbaz-1391",
+   "binbaz-1524",
+   "binbaz-1533",
+   "binbaz-1587",
+   "binbaz-1628",
+   "binbaz-1665",
+   "binbaz-6816"
+  ],
+  "failed_routes": [
+   {
+    "decision": "id-only fatwa URLs are not used; only full detail URLs linked from official listing pages or the given examples",
+    "observed": "302 to https://binbaz.org.sa/fatwas/14774/... (a different fatwa)",
+    "url": "https://binbaz.org.sa/fatwas/18975"
+   },
+   {
+    "decision": "same as above",
+    "observed": "302 to https://binbaz.org.sa/fatwas/15617/... (a different fatwa)",
+    "url": "https://binbaz.org.sa/fatwas/19825"
+   }
+  ],
+  "listing_pages": [
+   {
+    "links": 15,
+    "new": 15,
+    "url": "https://binbaz.org.sa/categories/fiqhi/14/fatwa"
+   },
+   {
+    "links": 15,
+    "new": 15,
+    "url": "https://binbaz.org.sa/categories/fiqhi/18/fatwa"
+   },
+   {
+    "links": 15,
+    "new": 15,
+    "url": "https://binbaz.org.sa/categories/fiqhi/19/fatwa"
+   },
+   {
+    "links": 15,
+    "new": 15,
+    "url": "https://binbaz.org.sa/categories/fiqhi/27/fatwa"
+   },
+   {
+    "links": 15,
+    "new": 15,
+    "url": "https://binbaz.org.sa/categories/fiqhi/34/fatwa"
+   },
+   {
+    "links": 1,
+    "new": 1,
+    "url": "https://binbaz.org.sa/categories/fiqhi/77/fatwa"
+   },
+   {
+    "links": 15,
+    "new": 15,
+    "url": "https://binbaz.org.sa/categories/fiqhi/88/fatwa"
+   },
+   {
+    "links": 15,
+    "new": 15,
+    "url": "https://binbaz.org.sa/categories/objective/370/fatwa"
+   }
+  ],
+  "mode": "curated",
+  "quotas": {
+   "belief": 23,
+   "conduct": 23,
+   "understanding_islam": 21,
+   "worship": 33
+  },
+  "rationale": "Curated for a new Muslim or someone exploring Islam, and a teacher helping them (G4-A-P1 N10). The G4-A set was read record by record: the leaving-prayer consequence cluster was cut to three representative items, exact duplicates and advanced or personal-case rulings were replaced, and practical basics were added from official binbaz.org.sa category listings (wudu, ghusl, tayammum, prayer times, recitation in prayer, fasting intention, dutifulness to parents). Every record is fetched from its full detail URL and kept only when the full question, answer and notes pass the completeness checks; source text is never rewritten. Each index entry carries an English audience_reason.",
+  "replaced": [
+   {
+    "id": "binbaz-1215",
+    "reason": "Leaving-prayer cluster: urging imams and committees about absentees; not a beginner path.",
+    "source_url": "https://binbaz.org.sa/fatwas/1215/%D9%85%D9%86%D8%A7%D8%B5%D8%AD%D8%A9-%D8%AA%D8%A7%D8%B1%D9%83%D9%8A-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%88%D8%B1%D9%8A%D9%86-%D9%84%D9%84%D9%85%D8%B3%D8%A7%D8%AC%D8%AF",
+    "title": "مناصحة تاركي الصلاة المجاورين للمساجد",
+    "topic": "worship"
+   },
+   {
+    "id": "binbaz-1235",
+    "reason": "Leaving-prayer cluster: meat slaughtered by someone who does not pray; consequence ruling.",
+    "source_url": "https://binbaz.org.sa/fatwas/1235/%D9%87%D9%84-%D9%8A%D8%AC%D9%88%D8%B2-%D8%A7%D9%84%D8%A7%D9%83%D9%84-%D9%85%D9%86-%D8%B0%D8%A8%D9%8A%D8%AD%D8%A9-%D8%AA%D8%A7%D8%B1%D9%83-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9",
+    "title": "هل يجوز الأكل من ذبيحة تارك الصلاة؟",
+    "topic": "worship"
+   },
+   {
+    "id": "binbaz-1403",
+    "reason": "Leaving-prayer cluster: eating and sitting with someone who does not pray; consequence ruling.",
+    "source_url": "https://binbaz.org.sa/fatwas/1403/%D8%AD%D9%83%D9%85-%D8%AA%D8%B1%D9%83-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D9%85%D8%B9-%D8%A7%D9%84%D8%A7%D9%82%D8%B1%D8%A7%D8%B1-%D8%A8%D9%88%D8%AC%D9%88%D8%A8%D9%87%D8%A7",
+    "title": "حكم ترك الصلاة مع الإقرار بوجوبها",
+    "topic": "worship"
+   },
+   {
+    "id": "binbaz-1522",
+    "reason": "Leaving-prayer cluster: public measures against those who abandon prayer; not beginner-facing.",
+    "source_url": "https://binbaz.org.sa/fatwas/1522/%D9%83%D9%8A%D9%81-%D8%AA%D9%83%D9%88%D9%86-%D8%A7%D9%84%D9%86%D8%B5%D9%8A%D8%AD%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A9-%D9%84%D8%AA%D8%A7%D8%B1%D9%83%D9%8A-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9",
+    "title": "كيف تكون النصيحة والمعاملة لتاركي الصلاة؟",
+    "topic": "worship"
+   },
+   {
+    "id": "binbaz-2070",
+    "reason": "Leaving-prayer cluster: judging those who do not declare the non-praying a disbeliever; advanced.",
+    "source_url": "https://binbaz.org.sa/fatwas/2070/%D9%85%D9%86-%D9%84%D9%85-%D9%8A%D9%83%D9%81%D8%B1-%D8%A7%D9%84%D9%83%D8%A7%D9%81%D8%B1-%D9%81%D9%87%D9%88-%D9%85%D8%AB%D9%84%D9%87",
+    "title": "من لم يكفر الكافر فهو مثله",
+    "topic": "worship"
+   },
+   {
+    "id": "binbaz-2187",
+    "reason": "Leaving-prayer cluster: leaving a family that does not pray; personal case, unsuitable as a default for new Muslims living with non-Muslim families.",
+    "source_url": "https://binbaz.org.sa/fatwas/2187/%D8%AD%D9%83%D9%85-%D9%85%D8%B9%D8%A7%D9%8A%D8%B4%D8%A9-%D8%A7%D8%B4%D8%AE%D8%A7%D8%B5-%D9%84%D8%A7-%D9%8A%D8%AD%D8%A7%D9%81%D8%B8%D9%88%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9",
+    "title": "حكم معايشة أشخاص لا يحافظون على الصلاة",
+    "topic": "worship"
+   },
+   {
+    "id": "binbaz-2316",
+    "reason": "Leaving-prayer cluster: boycotting a friend who does not pray; consequence ruling.",
+    "source_url": "https://binbaz.org.sa/fatwas/2316/%D8%AD%D9%83%D9%85-%D8%B5%D9%84%D8%A9-%D8%A7%D9%84%D8%B5%D8%AF%D9%8A%D9%82-%D8%A7%D9%84%D8%B0%D9%8A-%D9%84%D8%A7-%D9%8A%D9%88%D8%AF%D9%8A-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D9%88%D9%84%D8%A7-%D9%8A%D8%B5%D9%88%D9%85-%D8%B1%D9%85%D8%B6%D8%A7%D9%86",
+    "title": "حكم صلة الصديق الذي لا يؤدي الصلاة ولا يصوم رمضان",
+    "topic": "worship"
+   },
+   {
+    "id": "binbaz-2471",
+    "reason": "Leaving-prayer cluster: repeats the ruling kept in 2778.",
+    "source_url": "https://binbaz.org.sa/fatwas/2471/%D8%AD%D9%83%D9%85-%D9%85%D9%86-%D8%AA%D8%B1%D9%83-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D8%AA%D9%83%D8%A7%D8%B3%D9%84%D8%A7",
+    "title": "حكم من ترك الصلاة تكاسلاً",
+    "topic": "worship"
+   },
+   {
+    "id": "binbaz-2497",
+    "reason": "Leaving-prayer cluster: the fast of someone who does not pray; consequence ruling.",
+    "source_url": "https://binbaz.org.sa/fatwas/2497/%D8%AD%D9%83%D9%80%D9%85-%D8%B5%D9%8A%D9%80%D8%A7%D9%85-%D9%85%D9%80%D9%86-%D9%84%D8%A7-%D9%8A%D8%B5%D9%80%D9%84%D9%8A-%D8%A7%D9%84%D8%A7-%D9%81%D9%8A-%D8%B1%D9%85%D8%B6%D9%80%D8%A7%D9%86",
+    "title": "حكـم صيـام مـن لا يصـلي إلا في رمضـان",
+    "topic": "worship"
+   },
+   {
+    "id": "binbaz-2797",
+    "reason": "Leaving-prayer cluster: duty towards someone who does not pray; variant of the kept 2978.",
+    "source_url": "https://binbaz.org.sa/fatwas/2797/%D9%85%D8%A7-%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D8%A8-%D8%AA%D8%AC%D8%A7%D9%87-%D9%85%D9%86-%D9%84%D8%A7-%D9%8A%D8%B5%D9%84%D9%8A",
+    "title": "ما الواجب تجاه من لا يصلي؟",
+    "topic": "worship"
+   },
+   {
+    "id": "binbaz-3135",
+    "reason": "Leaving-prayer cluster: a ruler who does not pray; political, not beginner-facing.",
+    "source_url": "https://binbaz.org.sa/fatwas/3135/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%AD%D8%A7%D9%83%D9%85-%D8%A7%D9%84%D8%B0%D9%8A-%D9%84%D8%A7-%D9%8A%D8%B5%D9%84%D9%8A",
+    "title": "حكم الحاكم الذي لا يصلي",
+    "topic": "worship"
+   },
+   {
+    "id": "binbaz-3190",
+    "reason": "Leaving-prayer cluster: accepting a non-praying person's invitation; consequence ruling.",
+    "source_url": "https://binbaz.org.sa/fatwas/3190/%D8%AD%D9%83%D9%85-%D8%A7%D8%AC%D8%A7%D8%A8%D8%A9-%D8%AF%D8%B9%D9%88%D8%A9-%D8%AA%D8%A7%D8%B1%D9%83-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D9%84%D9%84%D9%88%D9%84%D9%8A%D9%85%D8%A9",
+    "title": "حكم إجابة دعوة تارك الصلاة للوليمة",
+    "topic": "worship"
+   },
+   {
+    "id": "binbaz-3275",
+    "reason": "Leaving-prayer cluster: gifting reward to a deceased mother who did not pray; personal case.",
+    "source_url": "https://binbaz.org.sa/fatwas/3275/%D8%A7%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D8%AB%D9%88%D8%A7%D8%A8-%D9%84%D9%84%D9%85%D9%8A%D8%AA-%D8%A7%D8%B0%D8%A7-%D9%83%D8%A7%D9%86-%D9%85%D9%82%D8%B1%D8%A7-%D8%A8%D8%A7%D9%84%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D9%88%D9%84%D9%83%D9%86%D9%87-%D9%84%D8%A7-%D9%8A%D8%B5%D9%84%D9%8A",
+    "title": "إهداء الثواب للميت إذا كان مقرًا بالتوحيد ولكنه لا يصلي",
+    "topic": "worship"
+   },
+   {
+    "id": "binbaz-3302",
+    "reason": "Leaving-prayer cluster: cutting off relatives who do not pray; personal case and harsh as a default path.",
+    "source_url": "https://binbaz.org.sa/fatwas/3302/%D8%AD%D9%83%D9%85-%D9%85%D8%AC%D8%A7%D9%84%D8%B3%D8%A9-%D8%A7%D9%82%D8%A7%D8%B1%D8%A8-%D9%84%D8%A7-%D9%8A%D8%B5%D9%84%D9%88%D9%86-%D9%88%D8%AF%D8%B9%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D9%88%D8%AA%D9%89",
+    "title": "حكم مجالسة أقارب لا يصلون ودعاء الموتى",
+    "topic": "worship"
+   },
+   {
+    "id": "binbaz-3866",
+    "reason": "Leaving-prayer cluster: marriage contract of someone who does not pray; advanced personal-status case.",
+    "source_url": "https://binbaz.org.sa/fatwas/3866/%D8%AA%D8%A7%D8%B1%D9%83-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D9%87%D9%84-%D9%8A%D8%A8%D8%B7%D9%84-%D8%B9%D9%82%D8%AF-%D9%86%D9%83%D8%A7%D8%AD%D9%87",
+    "title": "تارك الصلاة هل يبطل عقد نكاحه؟",
+    "topic": "worship"
+   },
+   {
+    "id": "binbaz-2615",
+    "reason": "Leaving-prayer cluster: work as an excuse to miss prayer; replaced by the practical 3958.",
+    "source_url": "https://binbaz.org.sa/fatwas/2615/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%AA%D9%87%D8%A7%D9%88%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D8%A8%D8%AD%D8%AC%D8%A9-%D8%A7%D9%84%D8%B9%D9%85%D9%84",
+    "title": "حكم التهاون في الصلاة بحجة العمل",
+    "topic": "worship"
+   },
+   {
+    "id": "binbaz-2354",
+    "reason": "Hadith commentary on the bonds of Islam being undone; advanced, not a beginner path.",
+    "source_url": "https://binbaz.org.sa/fatwas/2354/%D9%85%D8%B9%D9%86%D9%89-%D8%AA%D9%86%D9%82%D8%B6-%D8%B9%D8%B1%D9%89-%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85-%D8%B9%D8%B1%D9%88%D8%A9-%D8%B9%D8%B1%D9%88%D8%A9",
+    "title": "معنى «تنقض عرى الإسلام عروة عروة»",
+    "topic": "worship"
+   },
+   {
+    "id": "binbaz-6836",
+    "reason": "Same text as 1996 (meaning of the first pillar).",
+    "source_url": "https://binbaz.org.sa/fatwas/6836/%D9%85%D8%B9%D9%86%D9%89-%D8%A7%D9%84%D8%B1%D9%83%D9%86-%D8%A7%D9%84%D8%A7%D9%88%D9%84-%D9%85%D9%86-%D8%A7%D8%B1%D9%83%D8%A7%D9%86-%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85",
+    "title": "معنى الركن الأول من أركان الإسلام",
+    "topic": "understanding_islam"
+   },
+   {
+    "id": "binbaz-6838",
+    "reason": "Same text as 1157 (major sins and Islam).",
+    "source_url": "https://binbaz.org.sa/fatwas/6838/%D8%AD%D9%83%D9%85-%D9%85%D8%B1%D8%AA%D9%83%D8%A8-%D8%A7%D9%84%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85",
+    "title": "حكم مرتكب الكبيرة في الإسلام",
+    "topic": "understanding_islam"
+   },
+   {
+    "id": "binbaz-6839",
+    "reason": "Same text as 1998 (is the shahada enough).",
+    "source_url": "https://binbaz.org.sa/fatwas/6839/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%A7%D9%83%D8%AA%D9%81%D8%A7%D8%A1-%D8%A8%D8%A7%D9%84%D9%86%D8%B7%D9%82-%D9%88%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D9%87%D8%A7%D8%AF%D8%AA%D9%8A%D9%86",
+    "title": "حكم الاكتفاء بالنطق والاعتقاد في الشهادتين",
+    "topic": "understanding_islam"
+   },
+   {
+    "id": "binbaz-2350",
+    "reason": "Same text as 1263 (what brings a person into Islam).",
+    "source_url": "https://binbaz.org.sa/fatwas/2350/%D8%A7%D9%84%D8%AA%D9%88%D8%AD%D9%8A%D9%80%D8%AF-%D8%A7%D9%88%D9%84%D8%A7",
+    "title": "التوحيـد أولًا",
+    "topic": "belief"
+   },
+   {
+    "id": "binbaz-6840",
+    "reason": "Same answer as 1158 (belief with the shahada).",
+    "source_url": "https://binbaz.org.sa/fatwas/6840/%D9%85%D8%B8%D8%A7%D9%87%D8%B1-%D9%85%D8%B5%D8%AF%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%84%D9%86%D8%B7%D9%82-%D8%A8%D8%A7%D9%84%D8%B4%D9%87%D8%A7%D8%AF%D8%AA%D9%8A%D9%86",
+    "title": "مظاهر مصداقية النطق بالشهادتين",
+    "topic": "belief"
+   },
+   {
+    "id": "binbaz-1659",
+    "reason": "Jizya and compulsion in religion; advanced political ruling, not a beginner path.",
+    "source_url": "https://binbaz.org.sa/fatwas/1659/%D9%84%D8%A7-%D8%A7%D9%83%D8%B1%D8%A7%D9%87-%D9%81%D9%8A-%D9%82%D8%A8%D9%88%D9%84-%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85",
+    "title": "لا إكراه في قبول الإسلام",
+    "topic": "understanding_islam"
+   },
+   {
+    "id": "binbaz-924",
+    "reason": "Preferring a Muslim worker and sending non-Muslims away; personal-case ruling unsuitable as a default for new Muslims.",
+    "source_url": "https://binbaz.org.sa/fatwas/924/%D9%88%D8%AC%D9%88%D8%A8-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D9%84-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85-%D9%88%D8%BA%D9%8A%D8%B1%D9%87",
+    "title": "وجوب العدل بين العامل المسلم وغيره",
+    "topic": "conduct"
+   },
+   {
+    "id": "binbaz-987",
+    "reason": "Same question and answer as 931 (standing for someone who arrives).",
+    "source_url": "https://binbaz.org.sa/fatwas/987/%D8%AD%D9%83%D9%85-%D9%82%D9%8A%D8%A7%D9%85-%D8%A7%D9%84%D8%B1%D8%AC%D9%84-%D9%84%D8%BA%D9%8A%D8%B1%D9%87",
+    "title": "حكم قيام الرجل لغيره",
+    "topic": "conduct"
+   },
+   {
+    "id": "binbaz-926",
+    "reason": "Same issue as 854 (changing one's name after Islam).",
+    "source_url": "https://binbaz.org.sa/fatwas/926/%D8%AD%D9%83%D9%85-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D8%A7%D8%B3%D9%85-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85",
+    "title": "حكم تغيير الاسم بعد الإسلام",
+    "topic": "conduct"
+   }
+  ],
+  "seed_urls": [],
+  "start_urls": [
+   "https://binbaz.org.sa/categories/objective/206/fatwa",
+   "https://binbaz.org.sa/categories/objective/206/fatwa?page=2",
+   "https://binbaz.org.sa/categories/fiqhi/14/fatwa",
+   "https://binbaz.org.sa/categories/fiqhi/18/fatwa",
+   "https://binbaz.org.sa/categories/fiqhi/19/fatwa",
+   "https://binbaz.org.sa/categories/fiqhi/27/fatwa",
+   "https://binbaz.org.sa/categories/fiqhi/34/fatwa",
+   "https://binbaz.org.sa/categories/fiqhi/77/fatwa",
+   "https://binbaz.org.sa/categories/fiqhi/88/fatwa",
+   "https://binbaz.org.sa/categories/objective/370/fatwa"
+  ],
+  "topic_map": {
+   "listing_categories": {},
+   "rule": "listing records take the topic of the official category they were selected from; seed records take the topic of their first source category in seed_topics",
+   "seed_topics": {
+    "objective/197": "worship",
+    "objective/206": "understanding_islam",
+    "objective/208": "belief"
+   }
+  }
+ }
+}

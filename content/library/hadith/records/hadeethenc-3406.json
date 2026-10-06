@@ -1,0 +1,177 @@
+{
+ "attribution": "رواه البخاري",
+ "content_sha256": "sha256:1dd48da45893e82a602d588dca667e2f4da6e07d58981e6291ea648a105d1567",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "ينهى النبي صلى الله عليه وسلم عن الإفراط ومجاوزة الحد الشرعي في مدحه ووصفه بأوصاف الله تعالى وأفعاله الخاصة به، أو أنه يعلم الغيب، أو يدعا مع الله، كما فعلت النصارى مع عيسى ابن مريم عليه السلام. \nثم بين أنه عبد من عباد لله، وأمر بأن نقول عنه: عبد الله ورسوله.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "التحذير من مُجاوزةِ الحد الشرعي في التعظيم والمدح؛ لأن ذلك يُفضي إلى الشرك.",
+  "ما حذَّر منه النبي صلى الله عليه وسلم قد وقع في هذه الأمة، فغَلَتْ طائفة بالرسول الله صلى الله عليه وسلم، وطائفة في أهل البيت، وطائفة في الأولياء، فوقعوا في الشرك.",
+  "وَصَفَ رسولُ الله صلى الله عليه وسلم نفسَه بأنه عبدُ الله؛ ليبيِّن أنه عبدٌ مَربوبٌ لله لا يجوز أن يُصرفَ له شيءٌ من خصائص الرب.",
+  "وَصَفَ رسولُ الله صلى الله عليه وسلم نفسه بأنه رسولُ الله؛  ليبين أنه رسولٌ مُرسلٌ من عند الله فيجبُ تصديقُه ومتابعتُه."
+ ],
+ "id": "hadeethenc-3406",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (4/ 167) (3445).\nعمدة القاري شرح صحيح البخاري، محمود بن أحمد بدر الدين العيني (16/ 37).\nفتح الباري، لابن حجر (6/ 490).\nمنار القاري شرح مختصر صحيح البخاري، حمزة محمد قاسم (4/ 208).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3406",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:33+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3406"
+ },
+ "source_categories": [
+  {
+   "id": "73",
+   "label": "توحيد الألوهية"
+  }
+ ],
+ "source_record_id": "3406",
+ "text": "عَن عُمَرَ بنِ الخَطَّابِ رَضِيَ اللَّهُ عَنْهُ قال: سَمِعْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «لَا تُطْرُونِي كَمَا أَطْرَتِ النَّصَارَى ابْنَ مَرْيَمَ؛ فَإِنَّمَا أَنَا عَبْدُهُ، فَقُولُوا: عَبْدُ اللهِ وَرَسُولُهُ».",
+ "title": "لا تطروني كما أطرت النصارى ابن مريم؛ فإنما أنا عبده، فقولوا: عبد الله ورسوله",
+ "topic": "belief",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3406",
+   "arabic_match": "exact",
+   "attribution": "এটি বুখারী বর্ণনা করেছেন।",
+   "content_sha256": "sha256:3599c29ee109b40113b0e37375f8133dc4b10609c072bd797dfc7856343821e0",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাঁর প্রশংসা এবং আল্লাহর গুণাবলী ও তাঁর সাথে নির্ধারিত কর্মসমূহের দ্বারা তার গুণাবলী বর্ণনা অথবা তিনি গায়েব জানেন অথবা তাকে আল্লাহর সাথে তাকে ডাকা যাবে ইত্যাদি ব্যাপারে বাড়াবাড়ি ও শরী‘আতের সীমা লঙ্ঘন করতে নিষেধ করেছেন, যেমনিভাবে খৃস্টানরা ঈসা ইবনু মারইয়াম ‘আলাইহিস সালামের ব্যাপারে করে থাকে। অতপর তিনি বর্ণনা করেছেন যে, তিনি আল্লাহর একজন বান্দা। তিনি তাকে সম্বোধন করতে আদেশ করেছেন: ‘আল্লাহর বান্দা ও রাসূল’ বলে।",
+   "grade": "সহীহ",
+   "hints": [
+    "কারো সম্মান ও প্রশংসা করতে শরী‘আতের সীমারেখা অতিক্রম করতে সতর্ক করা হয়েছে। কেননা এটি শিরকের দিকে ধাবিত করে।\r",
+    "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম যা থেকে সতর্ক করেছেন, তা এ উম্মতের মধ্যে সত্যিকারেই সংঘটিত হয়েছে। একদল রাসূল সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামের ব্যাপারে সীমালঙ্ঘন করেছে। আবার আরেকদল আহলে বাইতের ব্যাপারে সীমালঙ্ঘন করেছে। অন্যদিকে আরেকদল আউলিয়াদের ব্যাপারে বাড়াবাড়ি করেছে। ফলে তারা সকলেই শিরকে পতিত হয়েছে।\r",
+    "রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম নিজেকে ‘আল্লাহর বান্দা’ বলে বর্ণনা করেছেন; যাতে তিনি স্পষ্ট করেন, তিনি আল্লাহর প্রতিপালিত একজন গোলাম। সুতরাং রবের বৈশিষ্টসমূহ হতে কোন বৈশিষ্ট তার জন্য নির্ধারণ করা জায়েয নেই।\r",
+    "রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম নিজেকে ‘আল্লাহর রাসূল’ বলে বর্ণনা করেছেন; যাতে স্পষ্ট হয়, তিনি আল্লাহর পক্ষ থেকে প্রেরিত রাসূল। সুতরাং তাঁকে বিশ্বাস করা ও তাঁর অনুসরণ করা ফরয।"
+   ],
+   "mapping": "same HadeethEnc record id 3406; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:25+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3406",
+   "text": "‘উমার ইবনুল খাত্তাব রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, তিনি বলেন, আমি নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামকে বলতে শুনেছি: “তোমরা আমার বিষয়ে বাড়াবাড়ি করো না, যেমনটি খৃস্টানরা ঈসা ইবনু মারইয়াম সম্পর্কে বাড়াবাড়ি করেছে। আমি তো কেবল তাঁর (আল্লাহর) বান্দা। তাই তোমরা বল, আল্লাহর বান্দা ও তাঁর রাসূল।”",
+   "title": "“তোমরা আমার বিষয়ে বাড়াবাড়ি করো না, যেমনটি খৃস্টানরা ঈসা ইবনু মারইয়াম সম্পর্কে বাড়াবাড়ি করেছে। আমি তো কেবল তাঁর (আল্লাহর) বান্দা। তাই তোমরা বল, আল্লাহর বান্দা ও তাঁর রাসূল।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3406",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Al-Bukhāri",
+   "content_sha256": "sha256:1f0d2cecea0687f70377c81f5cfd47f8e6f6613c066f6de4f7fb0f78654e660f",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) prohibits immoderateness and exceeding the Shariah-prescribed limit in praising him and forbids ascribing to himself the peculiar attributes and actions of Allah or knowledge of the unseen, or that he should be supplicated to along with Allah, as the Christians did with Jesus, the son of Mary (peace be upon him). Then, he made it clear that he is one of the servants of Allah and commanded us to call him: the servant and Messenger of Allah.",
+   "grade": "Authentic",
+   "hints": [
+    "It warns against exceeding the Shariah-prescribed limit in extolling and praising, for this leads to polytheism.\r",
+    "What the Prophet (may Allah's peace and blessings be upon him) warned about did take place within this Ummah, as a group of people went to extremes regarding the Prophet (may Allah's peace and blessings be upon him), and another group did the same regarding the members of his household and another group did it for the pious figures. So, they fell into polytheism.\r",
+    "The Messenger of Allah (may Allah's peace and blessings be upon him) described himself as a slave of Allah, thus pointing out that he is merely His slave, and it is not permissible to devote to him anything of the Lord's characteristics.\r",
+    "The Messenger of Allah (may Allah's peace and blessings be upon him) described himself as the Messenger of Allah, thus pointing out that he is a messenger sent by Allah, and so we are obligated to believe and follow him."
+   ],
+   "mapping": "same HadeethEnc record id 3406; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:25+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3406",
+   "text": "‘Umar ibn al-Khattāb (may Allah be pleased with him) reported: I heard the Prophet (may Allah’s peace and blessings be upon him) say: \"Do not exaggerate in praising me as the Christians exaggerated in praising the son of Mary, for I am only His slave. So, call me the slave of Allah and His Messenger.\"",
+   "title": "Do not exaggerate in praising me as the Christians exaggerated in praising the son of Mary, for I am only His slave. So, call me the slave of Allah and His Messenger",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=3406",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî",
+   "content_sha256": "sha256:fca7b5d10fc9a6a9cd032dbf7375d9ab9170e1f669c57d2d6d52871e858ff888",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) interdit l'excès et le dépassement de la limite légale quant à son éloge, le fait d'être décrit par les qualificatifs d'Allah - que Sa Grandeur soit Magnifiée - et Ses actes qui Lui sont spécifiques ; qu'on prétende qu'il connait l'Invisible, ou qu'on l'invoque avec Allah comme l'ont fait les chrétiens avec Jésus fils de Marie (sur lui paix). Ensuite, il explique qu'il est un serviteur parmi les serviteurs d'Allah et ordonne qu'on dise de lui : \"Le serviteur d'Allah et Son Messager\".",
+   "grade": "Authentique",
+   "hints": [
+    "La mise en garde contre le fait d'outrepasser la limite légale quant à la vénération et l'éloge, car cela conduit au polythéisme.\r",
+    "Ce contre quoi le Prophète (qu'Allah le couvre d'éloges et le préserve) a mis en garde s'est produit dans cette communauté. En effet, un groupe a fait de l'exagération vis-à-vis du Messager d'Allah (qu'Allah le couvre d'éloges et le préserve), un autre vis-à-vis des Gens de sa maison (Ahl Al-Bayt), un autre vis-à-vis des saints ; et ils sont tombés dans le polythéisme.\r",
+    "Le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) s'est décrit comme étant le serviteur d'Allah afin d'indiquer qu'il est un serviteur assujetti à Allah et qu'il n'est donc pas permis de lui attribuer quoi que ce soit des spécificités du Seigneur.\r",
+    "Le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) s'est aussi décrit comme étant le Messager d'Allah afin d'indiquer qu'il est un Messager envoyé de la part d'Allah et qu'il est donc obligatoire de le déclarer véridique et de le suivre."
+   ],
+   "mapping": "same HadeethEnc record id 3406; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:26+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/3406",
+   "text": "'Oumar ibn Al-Khaṭṭâb (qu'Allah l'agrée) relate : \"J'ai entendu le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) dire : Ne m’encensez pas comme les chrétiens ont encensé le fils de Marie ! Je ne suis rien d'autre que Son serviteur ! Dites : Le serviteur d'Allah et Son Messager !\"",
+   "title": "Ne m’encensez pas comme les chrétiens ont encensé le fils de Marie ! Je ne suis rien d'autre que Son serviteur ! Dites : Le serviteur d'Allah et Son Messager !",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3406",
+   "arabic_match": "exact",
+   "attribution": "HR. Bukhari",
+   "content_sha256": "sha256:6ececa67ec48df64b27e53a8ef11b2ddc087e1637a930c2355f3b43313fd4f09",
+   "explanation": "Nabi ﷺ melarang sikap berlebihan dan melampaui batas syariat dalam memuji dan menyifati beliau dengan sifat dan perbuatan-perbuatan yang khusus bagi Allah Ta'ala, seperti: beliau mengetahui perkara gaib, atau berdoa kepada beliau bersama doa kepada Allah, sebagaimana yang dilakukan oleh orang-orang Nasrani kepada Isa bin Maryam -'alaihissalām-. Kemudian beliau menjelaskan bahwa beliau adalah salah satu hamba Allah, dan beliau memerintahkan agar kita menyebutnya 'hamba Allah dan rasul-Nya'.",
+   "grade": "Sahih",
+   "hints": [
+    "1. Larangan melampaui batas syariat dalam menghormati dan memuji karena hal itu dapat mengantarkan kepada kesyirikan.\r",
+    "2. Apa yang diperingatkan oleh Nabi ﷺ telah terjadi di tengah umat ini; yaitu sebagian orang bersikap berlebihan kepada Rasulullah ﷺ, sebagian lainnya berlebihan kepada ahlubait, dan sebagian lagi berlebihan kepada para wali sehingga mereka jatuh dalam kesyirikan.\r",
+    "3. Rasulullah ﷺ menyifati dirinya bahwa beliau adalah hamba Allah, untuk menjelaskan bahwa beliau seorang hamba yang diciptakan dan dididik oleh Allah, dan tidak boleh menyematkan kepada beliau sesuatu yang merupakan kekhususan Allah.\r",
+    "4- Rasulullah ﷺ menyifati dirinya bahwa beliau adalah rasul Allah, untuk menjelaskan bahwa beliau seorang utusan Allah sehingga beliau wajib dibenarkan dan diikuti."
+   ],
+   "mapping": "same HadeethEnc record id 3406; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:25+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3406",
+   "text": "Umar bin Al-Khaṭṭāb -raḍiyallāhu 'anhu- meriwayatkan, ia berkata, Aku mendengar Nabi ﷺ bersabda, \"Janganlah kalian berlebih-lebihan dalam memujiku sebagaimana orang-orang Nasrani berlebih-lebihan dalam memuji Isa bin Maryam. Sesungguhnya aku seorang hamba, maka katakanlah: Abdullah (hamba Allah) dan rasul-Nya.\"",
+   "title": "Janganlah kalian berlebih-lebihan dalam memujiku sebagaimana orang-orang Nasrani berlebih-lebihan dalam memuji Isa bin Maryam. Sesungguhnya aku seorang hamba, maka katakanlah: Abdullah (hamba Allah) dan rasul-Nya",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3406",
+   "arabic_match": "exact",
+   "attribution": "رواه البخاري",
+   "content_sha256": "sha256:2e45adaa38a2c4e00244cf732abad044b7520e2cbc21a88573ac96428b1e0860",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم اپنی تعریف میں افراط کے شکار ہونے اور شرعی حد سے آگے بڑھنے، آپ کو اللہ کے اوصاف اور اس کے خاص افعال سے متصف قرار دینے، اللہ کے بارے میں غیب کو جاننے کا دعوی کرنے اور آپ کو اللہ کے ساتھ پکارنے سے منع فرمایا ہے۔ جیسا کہ نصرانیوں نے عیسی ابن مریم علیہ السلام کے ساتھ کیا۔ پھر بتایا کہ آپ اللہ کے بندوں میں سے ایک بندہ ہیں اور اس بات کا حکم دیا کہ ہم آپ کو اللہ کا بندہ اور اس کا رسول کہیں۔",
+   "grade": "صحيح",
+   "hints": [
+    "اس میں تعظیم اور مدح کے بارے میں شرعی حد سے آگے بڑھنے سے منع کیا گیا ہے، کیوں کہ یہ چیز شرک کی جانب لے جاتی ہے۔\r",
+    "اللہ کے نبی صلی اللہ علیہ و سلم نے جس بات سے آگاہ کیا تھا، وہ اس امت کے اندر واقع ہو ہی گئی ہے۔ چنانچہ ایک گروہ اللہ کے رسول صلی اللہ علیہ و سلم کے بارے میں غلو کا شکار ہو گیا، ایک گروہ اہل بیت کے بارے میں غلو میں پڑ گیا اور ایک گروہ اولیا کے بارے میں غلو میں مبتلا ہو گیا۔ اس طرح یہ سارے لوگ شرک میں مبتلا ہوگئے۔\r",
+    "اللہ کے رسول صلی اللہ علیہ و سلم نے خود کو اللہ کا بندہ بتایا ہے، تاکہ یہ بتا سکیں کہ آپ کی ساری ضرورتیں اللہ پوری کرتا ہے اور آپ کو رب کی کوئی خصوصیت دینا جائز نہيں ہے۔\r",
+    "اللہ کے رسول صلی اللہ علیہ و سلم نے خود کو اللہ کا رسول بتایا ہے، تاکہ یہ وضاحت ہوسکے کہ آپ کو اللہ کی جانب سے بھیجا گیا ہے، لہذا آپ کی تصدیق کرنا اور آپ کی اتباع کرنا واجب ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 3406; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:25+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3406",
+   "text": "عمر بن خطاب رضی اللہ عنہ سے روایت ہے، وہ کہتے ہیں کہ میں نے اللہ کے رسول صلی اللہ علیہ و سلم کو کہتے ہوئے سنا: ”میری تعریف میں ایسے حد سے نہ گزرو، جیسے عیسائی لوگ عیسی ابن مریم (علیہ السلام) کی تعریف میں حد سے گزر گئے۔ میں تو محض اللہ کا بندہ ہوں۔ اس لیے مجھے اللہ کا بندہ اور اس کا رسول کہو“۔",
+   "title": "”میری تعریف میں ایسے حد سے نہ گزرو، جیسے عیسائی لوگ عیسی ابن مریم (علیہ السلام) کی تعریف میں حد سے گزر گئے۔ میں تو محض اللہ کا بندہ ہوں۔ اس لیے مجھے اللہ کا بندہ اور اس کا رسول کہو“۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3406",
+   "arabic_match": "exact",
+   "attribution": "布哈里辑录",
+   "content_sha256": "sha256:79e808451af00dc9fae0979de825e8fb93f669d3cfd732dd877fc2f7270a916d",
+   "explanation": "先知（愿主福安之）禁止人们过分的赞美他，或用安拉所独具的属性和行为来描述他，或宣称他知道未见之事，或同安拉祈祷他，正如基督教徒对待麦尔彦之子尔萨一般。 然后他阐明，他是安拉的仆人之一，并命令人说：他是安拉的仆人和使者。",
+   "grade": "正确的",
+   "hints": [
+    "警惕过分尊重和赞美，因为那会导致以物配主。\r",
+    "先知（愿主福安之）所警告的事情，确已出现在了这个民族当中，一些人过分的尊崇使者，一伙人过分的尊崇圣裔，还有一伙人过分的尊崇卧里，他们都触犯了以物配主的罪行。\r",
+    "安拉的使者（愿主福安之）自己描述自己说：他是安拉的仆人，以向世人阐明他是安拉所调养的仆人，不允许将任何主宰的属性加在他的身上。\r",
+    "安拉的使者（愿主福安之）描述自己说：他是安拉的使者，以向世人阐明他是来自安拉派遣的使者，人们务必要相信他和追随他。"
+   ],
+   "mapping": "same HadeethEnc record id 3406; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:25+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3406",
+   "text": "据欧玛尔·本·罕塔布（愿主喜悦之）传述说：我听先知（愿主福安之）说： “你们不要像基督徒赞美麦尔彦之子那般赞美我，我只是安拉的仆人，你们当说：安拉的仆人和使者。”",
+   "title": "“你们不要像基督徒赞美麦尔彦之子那般赞美我，我只是安拉的仆人，你们当说：安拉的仆人和使者。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

@@ -1,0 +1,723 @@
+{
+ "ayah_count": 21,
+ "ayahs": [
+  {
+   "arabic": "وَٱلَّيۡلِ إِذَا يَغۡشَىٰ",
+   "aya": 1,
+   "id": 6059,
+   "tafsir": {
+    "arabic_moyassar": "أقسم الله سبحانه بالليل عندما يغطي بظلامه الأرض وما عليها، وبالنهار إذا انكشف عن ظلام الليل بضيائه، وبخلق الزوجين: الذكر والأنثى. إن عملكم لمختلف بين عامل للدنيا وعامل للآخرة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "শপথ রাতের, যখন তা (অন্ধকার দিয়ে সবকিছু) ঢেকে দেয়।"
+    },
+    "en": {
+     "footnotes": "[1] Everything between sky and earth with its darkness.",
+     "text": "By the night when it covers[1],"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Par la nuit lorsqu’elle enveloppe tout de son obscurité !"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Demi malam apabila menutupi (cahaya siang)."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی افق پر چھا جائے جس سے دن کی روشنی ختم اور اندھیرا ہو جائے۔",
+     "text": "قسم ہے رات کی جب چھا جائے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "以笼罩时的黑夜发誓，"
+    }
+   }
+  },
+  {
+   "arabic": "وَٱلنَّهَارِ إِذَا تَجَلَّىٰ",
+   "aya": 2,
+   "id": 6060,
+   "tafsir": {
+    "arabic_moyassar": "أقسم الله سبحانه بالليل عندما يغطي بظلامه الأرض وما عليها، وبالنهار إذا انكشف عن ظلام الليل بضيائه، وبخلق الزوجين: الذكر والأنثى. إن عملكم لمختلف بين عامل للدنيا وعامل للآخرة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "শপথ দিনের, যখন তা আলোকিত হয়।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and by the day when it appears,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Par le jour lorsqu’il se manifeste dans toute sa clarté !"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Demi siang bila terang benderang."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی رات کا اندھیرا ختم اور دن کا اجالا پھیل جائے۔",
+     "text": "اور قسم ہے دن کی جب روشن ہو.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "以显著时的白昼发誓，"
+    }
+   }
+  },
+  {
+   "arabic": "وَمَا خَلَقَ ٱلذَّكَرَ وَٱلۡأُنثَىٰٓ",
+   "aya": 3,
+   "id": 6061,
+   "tafsir": {
+    "arabic_moyassar": "أقسم الله سبحانه بالليل عندما يغطي بظلامه الأرض وما عليها، وبالنهار إذا انكشف عن ظلام الليل بضيائه، وبخلق الزوجين: الذكر والأنثى. إن عملكم لمختلف بين عامل للدنيا وعامل للآخرة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "শপথ তাঁর, যিনি নর ও নারী সৃষ্টি করেছেন।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and by His creation of male and female,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Par Celui qui a créé à la fois le mâle et la femelle !"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Demi penciptaan laki-laki dan perempuan."
+    },
+    "ur": {
+     "footnotes": "[1] یہ اللہ نے اپنی قسم کھائی، کیونکہ مرد وعورت دونوں کا خالق اللہ ہی ہے ماموصولہ ہے۔ - یعنی کوئی اچھے عمل کرتا ہے، جس کا صلہ جنت ہے اور کوئی برے عمل کرتا ہے جس کا بدلہ جہنم ہے۔",
+     "text": "اور قسم ہے اس ذات کی جس نے نر وماده کو پیدا کیا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "以创造男性和女性的主发誓，"
+    }
+   }
+  },
+  {
+   "arabic": "إِنَّ سَعۡيَكُمۡ لَشَتَّىٰ",
+   "aya": 4,
+   "id": 6062,
+   "tafsir": {
+    "arabic_moyassar": "أقسم الله سبحانه بالليل عندما يغطي بظلامه الأرض وما عليها، وبالنهار إذا انكشف عن ظلام الليل بضيائه، وبخلق الزوجين: الذكر والأنثى. إن عملكم لمختلف بين عامل للدنيا وعامل للآخرة."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(১) অর্থাৎ কেউ ভালো কাজ করে, যা জান্নাতে প্রবেশের উপায়। আবার কেউ খারাপ কাজ করে, যা জাহান্নামে যাওয়ার উপায়।",
+     "text": "হে মানব সমাজ! নিশ্চয় তোমাদের কর্মপ্রচেষ্টা বিভিন্ন ধরনের।(১)"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "surely your efforts are divergent."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Vous poursuivez, par vos œuvres, des buts éloignés."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sungguh, usahamu memang beraneka macam."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی کوئی اچھے عمل کرتا ہے، جس کا صلہ جنت ہے اور کوئی برے عمل کرتا ہے جس کا بدلہ جہنم ہے۔ یہ جواب قسم ہے شَتَّى، شَتِيتٌ کی جمع ہے، جیسے مَرِيضٌ کی جمع مَرْضَى۔",
+     "text": "یقیناً تمہاری کوشش مختلف قسم کی ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "你们的行为，确是不同的。"
+    }
+   }
+  },
+  {
+   "arabic": "فَأَمَّا مَنۡ أَعۡطَىٰ وَٱتَّقَىٰ",
+   "aya": 5,
+   "id": 6063,
+   "tafsir": {
+    "arabic_moyassar": "فأمَّا من بذل من ماله واتقى الله في ذلك، وصدَّق بـ «لا إله إلا الله» وما دلت عليه، وما ترتب عليها من الجزاء، فسنرشده ونوفقه إلى أسباب الخير والصلاح ونيسِّر له أموره."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "সুতরাং যে দান করলো এবং তাকওয়া অবলম্বন করলো,"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "As for the one who gives in charity and fears Allah,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "A celui qui, par crainte du Seigneur, fait la charité"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Maka barangsiapa memberikan (hartanya di jalan Allah) dan bertakwa,"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی خیر کے کاموں میں خرچ کرے گا اور محارم سے بچے گا۔",
+     "text": "جس نے دیا (اللہ کی راه میں) اور ڈرا (اپنے رب سے).[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "至于赈济贫民，敬畏〔安拉〕，"
+    }
+   }
+  },
+  {
+   "arabic": "وَصَدَّقَ بِٱلۡحُسۡنَىٰ",
+   "aya": 6,
+   "id": 6064,
+   "tafsir": {
+    "arabic_moyassar": "فأمَّا من بذل من ماله واتقى الله في ذلك، وصدَّق بـ\"لا إله إلا الله\" وما دلت عليه، وما ترتب عليها من الجزاء، فسنرشده ونوفقه إلى أسباب الخير والصلاح ونيسِّر له أموره."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর উত্তম বিষয়কে সত্য বলে গ্রহণ করলো,"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and truly believes in the best reward,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "dans l’espoir d’obtenir la récompense de l’au-delà,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan membenarkan (adanya pahala) yang terbaik (surga),"
+    },
+    "ur": {
+     "footnotes": "[1] یا اچھے صلے کی تصدیق کرے گا، یعنی اس بات پر یقین رکھے گا کہ انفاق اور تقویٰ کا اللہ کی طرف سے عمدہ صلہ ملے گا۔",
+     "text": "اور نیک بات کی تصدیق کرتا رہے گا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "且承认至善者，"
+    }
+   }
+  },
+  {
+   "arabic": "فَسَنُيَسِّرُهُۥ لِلۡيُسۡرَىٰ",
+   "aya": 7,
+   "id": 6065,
+   "tafsir": {
+    "arabic_moyassar": "فأمَّا من بذل من ماله واتقى الله في ذلك، وصدَّق بـ\"لا إله إلا الله\" وما دلت عليه، وما ترتب عليها من الجزاء، فسنرشده ونوفقه إلى أسباب الخير والصلاح ونيسِّر له أموره."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(২) অর্থাৎ নেক আমল করা ও আল্লাহর পথে ব্যয় করা সহজ করে দিবো।",
+     "text": "তাহলে আমি তার জন্য সহজ পথে চলা(২) সুগম করে দিবো।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "We will make easy for him the way of salvation."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Nous faciliterons l’accomplissement du bien."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "maka akan Kami mudahkan baginya jalan menuju kemudahan (kebahagiaan)."
+    },
+    "ur": {
+     "footnotes": "[1] يُسْرَى کا مطلب نیکی اور الْخَصْلَةُ الْحُسْنَى ہے۔ یعنی ہم اس کو نیکی واطاعت کی توفیق دیتے اور ان کو اس کے لئے آسان کر دیتے ہیں۔ مفسرین کہتے ہیں کہ یہ آیت حضرت ابوبکر صدیق (رضي الله عنه) کے بارے میں نازل ہوئی ہے، جنہوں نے چھ غلام آزاد کیے، جنہیں اہل مکہ مسلمان ہونے کی وجہ سے سخت اذیت دیتے تھے۔ ( فتح القدیر ) ۔",
+     "text": "تو ہم بھی اس کو آسان راستے کی سہولت دیں گے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我将使他易于达到最易的结局。"
+    }
+   }
+  },
+  {
+   "arabic": "وَأَمَّا مَنۢ بَخِلَ وَٱسۡتَغۡنَىٰ",
+   "aya": 8,
+   "id": 6066,
+   "tafsir": {
+    "arabic_moyassar": "وأما مَن بخل بماله واستغنى عن جزاء ربه، وكذَّب بـ «لا إله إلا الله» وما دلت عليه، وما ترتب عليها من الجزاء."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "পক্ষান্তরে যে (আল্লাহর পথে ব্যয় না করে) কার্পণ্য করলো এবং নিজেকে স্বয়ংসম্পূর্ণ (অমুখাপেক্ষী) মনে করলো,"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "But as for the one who is miserly and deems himself self-sufficient,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Quant à celui qui, pensant pouvoir se passer de son Seigneur, se montre avare"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan adapun orang yang kikir dan merasa dirinya cukup (tidak perlu pertolongan Allah),"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی اللہ کی راہ میں خرچ نہیں کرے گا اور اللہ کے حکم سے بے پرواہی، کرے گا۔ - یا آخرت کی جزا اور حساب کتاب کا انکار کرے گا۔",
+     "text": "لیکن جس نے بخیلی کی اور بے پرواہی برتی.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "至于吝惜钱财，自谓无求，"
+    }
+   }
+  },
+  {
+   "arabic": "وَكَذَّبَ بِٱلۡحُسۡنَىٰ",
+   "aya": 9,
+   "id": 6067,
+   "tafsir": {
+    "arabic_moyassar": "وأما مَن بخل بماله واستغنى عن جزاء ربه، وكذَّب بـ\"لا إله إلا الله\" وما دلت عليه، وما ترتب عليها من الجزاء، فسنُيَسِّر له أسباب الشقاء، ولا ينفعه ماله الذي بخل به إذا وقع في النار."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর উত্তম বিষয়কে মিথ্যারোপ করলো,"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and denies the best reward,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "et ne croit pas en la récompense de l’au-delà,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "serta mendustakan (pahala) yang terbaik,"
+    },
+    "ur": {
+     "footnotes": "[1] یا آخرت کی جزا اور حساب کتاب کا انکار کرے گا۔-",
+     "text": "اور نیک بات کی تکذیب کی.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "且否认至善者，"
+    }
+   }
+  },
+  {
+   "arabic": "فَسَنُيَسِّرُهُۥ لِلۡعُسۡرَىٰ",
+   "aya": 10,
+   "id": 6068,
+   "tafsir": {
+    "arabic_moyassar": "فسنُيَسِّر له أسباب الشقاء، ولا ينفعه ماله الذي بخل به إذا وقع في النار."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৩) অর্থাৎ অন্যায়-অপকর্ম করা সহজ এবং নেক আমল করা কঠিন করে দিবো।",
+     "text": "তবে আমি তার জন্য কঠিন পথে চলা(৩) সুগম করে দিবো।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "We will make easy for him the way of perdition."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Nous lui faciliterons l’accomplissement du mal."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "maka akan Kami mudahkan baginya jalan menuju kesukaran (kesengsaraan)."
+    },
+    "ur": {
+     "footnotes": "[1] عُسْرَى( تنگی ) سےمراد کفر ومعصیت اور طریق شر ہے۔ یعنی ہم اس کے لئے نافرمانی کا راستہ آسان کر دیں گے، جس سے اس کے لئے خیر وسعادت کے راستے مشکل ہو جائیں گے۔ قرآن مجید میں یہ مضمون کئی جگہ بیان کیا گیا ہے کہ جو خیر ورشد کا راستہ اپناتا ہے، اس کے صلے میں اللہ اسے خیر کی توفیق سے نوازتا ہے اور جو شر ومعصیت کو اختیار کرتا ہے، اللہ اس کو اس کے حال پر چھوڑدیتا ہے اور یہ اس تقدیر کے مطابق ہی ہوتا ہے جو اللہ نے اپنے علم سے لکھ رکھی ہے۔ ( ابن کثیر ) یہ مضمون حدیث میں بھی بیان کیا گیا ہے۔ نبی (صلى الله عليه وسلم) نے فرمایا تم عمل کرو، ہر شخص جس کام کے لئے پیدا کیا گیا ہے، وہ اس کے لئے آسان کر دیا جاتا ہے، جو اہل سعادت سے ہوتا ہے، اسے اہل سعادت والے عمل کی توفیق دے دی جاتی ہے اور جو اہل شقاوت سے ہوتا ہے، اس کے لئے اہل شقاوت والے عمل آسان کر دیئے جاتے ہیں۔ ( صحيح البخاري، تفسير سورة الليل )",
+     "text": "تو ہم بھی اس کی تنگی ومشکل کے سامان میسر کر دیں گے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我将使他易于达到最难的结局。"
+    }
+   }
+  },
+  {
+   "arabic": "وَمَا يُغۡنِي عَنۡهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ",
+   "aya": 11,
+   "id": 6069,
+   "tafsir": {
+    "arabic_moyassar": "وأما مَن بخل بماله واستغنى عن جزاء ربه، وكذَّب بـ\"لا إله إلا الله\" وما دلت عليه، وما ترتب عليها من الجزاء، فسنُيَسِّر له أسباب الشقاء، ولا ينفعه ماله الذي بخل به إذا وقع في النار."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর তার (রাশি রাশি) ধনসম্পদ তার কোন কাজে আসবে না, যখন সে অধঃপতিত (ধ্বংস) হবে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "His wealth will be of no avail to him when he tumbles [into Hell]."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Ses biens ne lui seront d’aucune utilité lorsqu’il sera précipité dans le Feu."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan hartanya tidak bermanfaat baginya apabila dia telah binasa."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی جب جہنم میں گرے گا تو یہ مال، جسے وہ خرچ نہیں کرتا تھا، کچھ کام نہ آئے گا۔",
+     "text": "اس کا مال اسے (اوندھا) گرنے کے وقت کچھ کام نہ آئے گا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "当他沦亡的时候，他的财产于他有什么裨益呢！"
+    }
+   }
+  },
+  {
+   "arabic": "إِنَّ عَلَيۡنَا لَلۡهُدَىٰ",
+   "aya": 12,
+   "id": 6070,
+   "tafsir": {
+    "arabic_moyassar": "إن علينا بفضلنا وحكمتنا أن نبيِّن طريق الهدى الموصل إلى الله وجنته من طريق الضلال، وإن لنا ملك الحياة الآخرة والحياة الدنيا."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "নিশ্চয় সঠিক পথ প্রদর্শন করাই আমার (আল্লাহর) দায়িত্ব।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "Indeed, it is upon Us to show the right way,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "C’est à Nous, en vérité, qu’il appartient d’indiquer le droit chemin,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Sesungguhnya Kami lah yang memberi petunjuk,"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی حلال اور حرام، خیر اور شر، ہدایت اور ضلالت کو واضح اور بیان کرنا ہمارے ذمے ہے۔ ( جو کہ ہم نے کر دیا ہے)",
+     "text": "بیشک راه دکھا دینا ہمارے ذمہ ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我确有指导的责任，"
+    }
+   }
+  },
+  {
+   "arabic": "وَإِنَّ لَنَا لَلۡأٓخِرَةَ وَٱلۡأُولَىٰ",
+   "aya": 13,
+   "id": 6071,
+   "tafsir": {
+    "arabic_moyassar": "إن علينا بفضلنا وحكمتنا أن نبيِّن طريق الهدى الموصل إلى الله وجنته من طريق الضلال، وإن لنا ملك الحياة الآخرة والحياة الدنيا."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর অবশ্যই আমার মালিকানাতেই রয়েছে পরকাল ও ইহকাল।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "and surely to Us belong the Hereafter and the present life."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "et c’est Nous qui sommes Maître de l’au-delà et de ce bas monde."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan sesungguhnya milik Kami lah akhirat dan dunia."
+    },
+    "ur": {
+     "footnotes": "[1] یعنی دونوں کے مالک ہم ہی ہیں، ان میں جس طرح چاہیں تصرف کریں اس لئے ان دونوں کے یا ان میں سے کسی ایک کے طالب ہم سے ہی مانگیں کیوں کہ ہر طالب کو ہم ہی اپنی مشیت کے مطابق دیتے ہیں۔",
+     "text": "اور ہمارے ہی ہاتھ آخرت اور دنیا ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "我确有后世和今世的主权。"
+    }
+   }
+  },
+  {
+   "arabic": "فَأَنذَرۡتُكُمۡ نَارٗا تَلَظَّىٰ",
+   "aya": 14,
+   "id": 6072,
+   "tafsir": {
+    "arabic_moyassar": "فحذَّرتكم -أيها الناس- وخوَّفتكم نارًا تتوهج، وهي نار جهنم."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "অতএব আমি তোমাদেরকে সতর্ক করে দিয়েছি (জাহান্নামের) প্রজ্বলিত আগুন সম্পর্কে,"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "So I warn you of a raging Fire,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Je vous mets en garde contre un Feu sans cesse attisé,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Maka aku memperingatkan kamu dengan neraka yang menyala-nyala,"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "میں نے تو تمہیں شعلے مارتی ہوئی آگ سے ڈرا دیا ہے."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "故我警告你们一种发焰的火，"
+    }
+   }
+  },
+  {
+   "arabic": "لَا يَصۡلَىٰهَآ إِلَّا ٱلۡأَشۡقَى",
+   "aya": 15,
+   "id": 6073,
+   "tafsir": {
+    "arabic_moyassar": "لا يدخلها إلا مَن كان شديد الشقاء، الذي كذَّب نبي الله محمدًا صلى الله عليه وسلم، وأعرض عن الإيمان بالله ورسوله، وطاعتهما."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "তাতে নিতান্ত হতভাগা ছাড়া কেউ প্রবেশ করবে না,"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "none will enter it except the most wretched,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "que seul devra affronter le réprouvé"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "yang hanya dimasuki oleh orang yang paling celaka,"
+    },
+    "ur": {
+     "footnotes": "",
+     "text": "جس میں صرف وہی بدبخت داخل ہوگا."
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "唯薄命者坠入其中，"
+    }
+   }
+  },
+  {
+   "arabic": "ٱلَّذِي كَذَّبَ وَتَوَلَّىٰ",
+   "aya": 16,
+   "id": 6074,
+   "tafsir": {
+    "arabic_moyassar": "لا يدخلها إلا مَن كان شديد الشقاء، الذي كذَّب نبي الله محمدًا صلى الله عليه وسلم، وأعرض عن الإيمان بالله ورسوله، وطاعتهما."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৪) নবী মুহাম্মাদের আনিত বিষয়সমূহকে।",
+     "text": "যে (৪) মিথ্যারোপ করেছে এবং (আল্লাহর আদেশ পালন থেকে) মুখ ফিরিয়ে নিয়েছে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "who denied and turned away."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "qui a renié la vérité et s’est détourné,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "yang mendustakan (kebenaran) dan berpaling (dari iman)."
+    },
+    "ur": {
+     "footnotes": "[1] اس آیت سے مرجئہ فرقے نے (جو ایک باطل فرقہ گزرا ہے) استدلال کیا ہے کہ جہنم میں صرف کافر ہی جائیں گے۔ کوئی مسلمان چاہے کتنا ہی گناہ گار ہو، وہ جہنم میں نہیں جائے گا۔ لیکن یہ عقیدہ ان نصوص صریحہ کے خلاف ہے جن سے معلوم ہوتا ہے کہ بہت سے مسلمان بھی، جن کو اللہ تعالیٰ کچھ سزا دینا چاہے گا، کچھ عرصے کے لئے جہنم میں جائیں گے، پھر وہ نبی (صلى الله عليه وسلم) ، ملائکہ اور دیگر صالحین کی شفاعت سے نکال لئے جائیں گے، یہاں حصر کے انداز میں جو کہا گیا ہے، اس کا مطلب ہے کہ جو لوگ پکے کافر اور نہایت بدبخت ہیں، جہنم دراصل ان ہی کے لئے بنائی گئی ہے، جس میں وہ لازمی اور حتمی طور پر اور ہمیشہ کے لئے داخل ہوں گے۔ اگر کچھ نافرمان قسم کے مسلمان جہنم میں جائیں گے تو وہ لازمی اور حتمی طور پر اور ہمیشہ کے لئے نہیں جائیں گے، بلکہ بطور سزا ان کا یہ دخول عارضی ہوگا۔ ( فتح القدیر )۔",
+     "text": "جس نے جھٹلایا اور (اس کی پیروی سے) منھ پھیر لیا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他否认〔真理〕，而背弃之。"
+    }
+   }
+  },
+  {
+   "arabic": "وَسَيُجَنَّبُهَا ٱلۡأَتۡقَى",
+   "aya": 17,
+   "id": 6075,
+   "tafsir": {
+    "arabic_moyassar": "وسيُزحزَح عنها شديد التقوى، الذي يبذل ماله ابتغاء المزيد من الخير. وليس إنفاقه ذاك مكافأة لمن أسدى إليه معروفا، لكنه يبتغي بذلك وجه ربه الأعلى ورضاه، ولسوف يعطيه الله في الجنة ما يرضى به."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "(৫) আবূ বকর ও তার অনুরূপ পরম মুত্তাকী লোকদেরকে।",
+     "text": "আর তা (জাহান্নাম) থেকে দূরে রাখা হবে পরম মুত্তাকীকে।(৫)"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "But the most righteous will be saved from it,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "et dont sera écarté celui qui, par piété,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan akan dijauhkan darinya (neraka) orang yang paling bertakwa,"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی جہنم سے دور رہے گا اور جنت میں داخل ہوگا۔",
+     "text": "اور اس سے ایسا شخص دور رکھا جائے گا جو بڑا پرہیزگار ہو گا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "敬畏者，得免于火刑。"
+    }
+   }
+  },
+  {
+   "arabic": "ٱلَّذِي يُؤۡتِي مَالَهُۥ يَتَزَكَّىٰ",
+   "aya": 18,
+   "id": 6076,
+   "tafsir": {
+    "arabic_moyassar": "وسيُزحزَح عنها شديد التقوى، الذي يبذل ماله ابتغاء المزيد من الخير. وليس إنفاقه ذاك مكافأة لمن أسدى إليه معروفا، لكنه يبتغي بذلك وجه ربه الأعلى ورضاه، ولسوف يعطيه الله في الجنة ما يرضى به."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "যে তার সম্পদ (আল্লাহর পথে) ব্যয় করে নিজেকে আত্মশুদ্ধির উদ্দেশ্যে,"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "who spends his wealth to purify himself,"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "a dépensé ses biens pour se purifier,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "yang menginfakkan hartanya (di jalan Allah) untuk membersihkan (dirinya),"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی جو اپنا مال اللہ کے حکم کے مطابق خرچ کرتا ہے تاکہ اس کا نفس بھی اور اس کا مال بھی پاک ہو جائے۔",
+     "text": "جو پاکی حاصل کرنے کے لئے اپنا مال دیتا ہے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他虔诚地施舍他的财产，"
+    }
+   }
+  },
+  {
+   "arabic": "وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعۡمَةٖ تُجۡزَىٰٓ",
+   "aya": 19,
+   "id": 6077,
+   "tafsir": {
+    "arabic_moyassar": "وسيُزحزَح عنها شديد التقوى، الذي يبذل ماله ابتغاء المزيد من الخير. وليس إنفاقه ذاك مكافأة لمن أسدى إليه معروفا، لكنه يبتغي بذلك وجه ربه الأعلى ورضاه، ولسوف يعطيه الله في الجنة ما يرضى به."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর তার প্রতি কারো এমন কোন অনুগ্রহ নেই, যার প্রতিদান তাকে দিতে হবে।"
+    },
+    "en": {
+     "footnotes": "[2] i.e., not as a repayment for a favor he received.",
+     "text": "not in return for someone’s favors[2],"
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "non en contrepartie d’un bienfait dont il aurait bénéficié,"
+    },
+    "id": {
+     "footnotes": "",
+     "text": "dan tidak ada seorang pun memberikan suatu nikmat padanya yang harus dibalasnya,"
+    },
+    "ur": {
+     "footnotes": "[1] یعنی بدلہ اتارنے کے لیے خرچ نہ کرتا ہو۔",
+     "text": "کسی کا اس پر کوئی احسان نہیں کہ جس کا بدلہ دیا جا رہا ہو.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他没有受过任何人的应报的恩德，"
+    }
+   }
+  },
+  {
+   "arabic": "إِلَّا ٱبۡتِغَآءَ وَجۡهِ رَبِّهِ ٱلۡأَعۡلَىٰ",
+   "aya": 20,
+   "id": 6078,
+   "tafsir": {
+    "arabic_moyassar": "وسيُزحزَح عنها شديد التقوى، الذي يبذل ماله ابتغاء المزيد من الخير. وليس إنفاقه ذاك مكافأة لمن أسدى إليه معروفا، لكنه يبتغي بذلك وجه ربه الأعلى ورضاه، ولسوف يعطيه الله في الجنة ما يرضى به."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "(সে স্বীয় সম্পদ ব্যয় করে) কেবল তার মহান রবের চেহারা দেখার (সন্তুষ্টির) প্রত্যাশায়।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "but to seek the pleasure of his Lord, the Most High."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "mais seulement pour être, de son Seigneur le Très Haut, agréé."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "tetapi (dia memberikan itu semata-mata) karena mencari keridaan Tuhannya Yang Mahatinggi."
+    },
+    "ur": {
+     "footnotes": "[1] بلکہ اخلاص سے اللہ کی رضا اور جنت میں اس کے دیدار کے لئے خرچ کرتا ہے۔",
+     "text": "بلکہ صرف اپنے پروردگار بزرگ وبلند کی رضا چاہنے کے لئے.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "但他施舍只是为了求他的至高养主的尊容，"
+    }
+   }
+  },
+  {
+   "arabic": "وَلَسَوۡفَ يَرۡضَىٰ",
+   "aya": 21,
+   "id": 6079,
+   "tafsir": {
+    "arabic_moyassar": "وسيُزحزَح عنها شديد التقوى، الذي يبذل ماله ابتغاء المزيد من الخير. وليس إنفاقه ذاك مكافأة لمن أسدى إليه معروفا، لكنه يبتغي بذلك وجه ربه الأعلى ورضاه، ولسوف يعطيه الله في الجنة ما يرضى به."
+   },
+   "translations": {
+    "bn": {
+     "footnotes": "",
+     "text": "আর অচিরেই সে (সম্মানজনক এ প্রতিদান লাভে) সন্তুষ্ট হবে।"
+    },
+    "en": {
+     "footnotes": "",
+     "text": "He will surely be well pleased."
+    },
+    "fr": {
+     "footnotes": "",
+     "text": "Il sera donc, un jour, entièrement comblé."
+    },
+    "id": {
+     "footnotes": "",
+     "text": "Dan niscaya kelak dia akan mendapat kesenangan (yang sempurna)."
+    },
+    "ur": {
+     "footnotes": "[1] یا وہ راضی ہو جائے گا، یعنی جو شخص ان صفات کا حامل ہوگا، اللہ تعالیٰ اسے جنت کی نعمتیں اور عزت وشرف عطا فرمائے گا، جس سے وہ راضی ہو جائے گا۔ اکثر مفسرین نے کہا ہے بلکہ بعض نے اجماع تک نقل کیا ہے کہ یہ آیات حضرت ابوبکر صدیق (رضي الله عنه) کی شان میں نازل ہوئی ہیں۔ تاہم معنی ومفہوم کے اعتبار سے یہ عام ہیں۔ جو بھی ان صفات عالیہ سے متصف ہوگا، وہ بارگاہ الٰہی میں ان کا مصداق قرار پائے گا۔",
+     "text": "یقیناً وه (اللہ بھی) عنقریب رضامند ہو جائے گا.[1]"
+    },
+    "zh-Hans": {
+     "footnotes": "",
+     "text": "他自己将来必定喜悦。"
+    }
+   }
+  }
+ ],
+ "content_sha256": "sha256:492e176141c8ade7d4170064622dd66aee4c22c5ed5ce1e8778db345c978648f",
+ "name_ar": "الليل",
+ "number": 92,
+ "schema": "balligh.library.quran.surah/1"
+}

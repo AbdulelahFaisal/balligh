@@ -1,0 +1,48 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3982",
+ "source_content_sha256": "sha256:6441447dba6aafe3400479851f72e9ffa818f84e893007f7e0bb0563112484ef",
+ "locale": "id",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:22:20.990849+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 612,
+  "completion_tokens": 629,
+  "total_tokens": 1241,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 612
+ },
+ "latency_ms": 6564,
+ "units": [
+  {
+   "id": "title",
+   "text": "Apa batas minimal untuk menunaikan kewajiban ibadah kepada Allah Ta'ala?"
+  },
+  {
+   "id": "q0",
+   "text": "Pertanyaan:"
+  },
+  {
+   "id": "q1",
+   "text": "Apa batas minimal ibadah yang tanpanya makhluk tidak dapat memenuhi tujuan penciptaan oleh Sang Pencipta berdasarkan firman-Nya Ta'ala: ⟦Q1⟧ [Adz-Dzariyat:56]?"
+  },
+  {
+   "id": "a0",
+   "text": "Jawaban:"
+  },
+  {
+   "id": "a1",
+   "text": "Batas minimal adalah menunaikan kewajiban-kewajiban (fara'idh) dan meninggalkan perkara-perkara yang diharamkan (maharam). Jika dia menunaikan kewajiban-kewajiban dan meninggalkan perkara-perkara yang diharamkan, maka tidak ada kewajiban lain atasnya. Dia disebut: muqtashid (orang yang pertengahan), dan termasuk golongan al-abrar (orang-orang yang berbakti)."
+  },
+  {
+   "id": "a2",
+   "text": "Jika dia menambah dengan menunaikan amalan-amalan sunnah (mustahabbat) dan menjauhi perkara-perkara yang dimakruhkan (makruhat), maka dia menjadi termasuk golongan as-sabiqun al-muqarrabun (orang-orang yang terdahulu lagi didekatkan kepada Allah), dia menjadi bagian dari tingkatan tertinggi.\nTingkatan itu ada tiga:\nTingkatan orang-orang yang bermaksiat (al-'ushah): mereka adalah orang-orang yang menzalimi diri mereka sendiri (azh-zhalimun li anfusihim).\nTingkatan orang-orang yang pertengahan lagi berbakti (al-muqtashidun al-abrar): mereka adalah orang-orang yang hanya menunaikan kewajiban-kewajiban dan meninggalkan perkara-perkara yang diharamkan.\nTingkatan ketiga adalah tingkatan tertinggi, yaitu tingkatan orang-orang yang terdahulu lagi didekatkan kepada Allah (as-sabiqun al-muqarrabun) dari kalangan para rasul dan para pengikut mereka: mereka yang bersegera dalam kebaikan-kebaikan, menunaikan kewajiban-kewajiban, berlomba-lomba dalam berbagai macam kebaikan, meninggalkan perkara-perkara yang diharamkan, dan menjauhi perkara-perkara yang dimakruhkan dan yang syubhat (musyabbihat). Maka mereka itulah tingkatan tertinggi."
+  }
+ ]
+}

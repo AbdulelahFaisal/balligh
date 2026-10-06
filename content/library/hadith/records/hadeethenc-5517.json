@@ -1,0 +1,163 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:939b3789d7894be47dff0454dc5dd1bd3536a10d73ebf8d438664991a212f92f",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "أَخْبَرَ النبيُّ صلى الله عليه وسلم أنَّ مَن قال: «لا إله إلا الله وحده لا شريك له، له الملك، وله الحمد، وهو على كل شيء قدير»، ومعناها: لا معبود بحق إلا الله وحده لا شريك له، وأنه سبحانه المُخْتَصُّ بالمُلْكِ التامّ، والمُستحق للثناء والمدح مع المحبة والتعظيم دون من سواه، وأنه قادر لا يُعجزه شيء. \nفمَن كَرَّر هذا الذِّكْرَ العظيم في يوم عشر مرَّات؛ صار له من الأجر مثل أجر من أزال الرِّقِّ عن أربعة مماليك من ذُرِّيَّة إسماعيل بن إبراهيم عليهما الصلاة والسلام، وخَصَّ ذُريةَ إسماعيل عليه السلام؛ لأنهم أشرفُ من غيرهم.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "فضيلة هذا الذكر المتضمن إفراد الله تعالى بالألوهية، والملك، والحمد، والقدرة التامة.",
+  "ينال ثواب هذا الذكر من قاله متواليا أو متفرقا."
+ ],
+ "id": "hadeethenc-5517",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (8/ 86) (6404).\nصحيح مسلم (4/ 2071) (2693).\nتوضيح الأحكام من بلوغ المرام، للبسام (7/ 533).\nمنحة العلام في شرح بلوغ المرام، لعبد الله الفوزان (10/ 399).\nفتح ذي الجلال والإكرام، لابن عثيمين (6/ 465).\nسبل السلام بشرح بلوغ المرام، للصنعاني (2/ 703).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=5517",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:40+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/5517"
+ },
+ "source_categories": [
+  {
+   "id": "278",
+   "label": "فضائل الذكر"
+  }
+ ],
+ "source_record_id": "5517",
+ "text": "عن أبي أيوب رضي الله عنه عن النبي صلى الله عليه وسلم قال: «مَنْ قَالَ: لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، عَشْرَ مِرَارٍ كَانَ كَمَنْ أَعْتَقَ أَرْبَعَةَ أَنْفُسٍ مِنْ وَلَدِ إِسْمَاعِيلَ».",
+ "title": "من قال: لا إله إلا الله وحده لا شريك له، له الملك وله الحمد وهو على كل شيء قدير، عشر مرار",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=5517",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:9bd92a19099b68042518e571b2db6bea85c908cde81aec05387a6e9420480846",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এ হাদীসে সংবাদ দিয়েছেন, যে ব্যক্তি বলবে, (لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ) এর অর্থ “আল্লাহ ছাড়া কোন প্রকৃত মাবূদ নেই, তিনি একক, তাঁর কোনো শরীক নেই, সমস্ত রাজত্ব তাঁরই জন্য, ভালোবাসা ও সম্মানসহকারে একমাত্র তাঁরই জন্য যাবতীয় প্রশংসা ও গুণগান এবং তিনি সকল বস্তুর উপর সর্বশক্তিমান, কোন কিছু তাঁকে অক্ষম করতে পারে না। যে ব্যক্তি এ মহান যিকির দৈনিক দশবার বলবে, তার জন্য ইসমা‘ঈল ইবন ইবরাহীম ‘আলাইহিমাস সালামের সন্তানদের থেকে চারজন গোলাম আযাদ করার সাওয়াব হবে। এখানে ইসমা‘ঈল ‘আলাইহিস সালামের বংশধরদেরকে নির্দিষ্ট করার কারণ হলো তারা অন্যান্যদের তুলনায় উৎকৃষ্ট বংশের লোক।",
+   "grade": "সহীহ",
+   "hints": [
+    "এ যিকিরের ফযীলত এতো বেশি হওয়ার কারণ হলো: এতে আল্লাহ তা‘আলার একচ্ছত্র উলূহিয়্যাত, রাজত্ব, প্রশংসা ও পরিপূর্ণ সক্ষমতার উল্লেখ করা হয়েছে।\r",
+    "এ যিকির একত্রে বা ভিন্ন ভিন্ন সময়ে বললেই এর সাওয়াব অর্জিত হবে।"
+   ],
+   "mapping": "same HadeethEnc record id 5517; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:46+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/5517",
+   "text": "আবূ আইয়ূব রদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেছেন, তিনি বলেছেন: যে ব্যক্তি বলবে: (لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ) “আল্লাহ ছাড়া কোন সত্য মাবূদ নেই, তিনি একক, তাঁর কোনো শরীক নেই, তাঁরই জন্য সমস্ত রাজত্ব, তারই জন্য যাবতীয় প্রশংসা এবং তিনি সকল বস্তুর উপর সর্বশক্তিমান।” দশবার  সে যেন ইসাম‘ঈল ‘আলাইহিস সালামের সন্তানদের থেকে দশজনকে আযাদ করল।",
+   "title": "যে ব্যক্তি বলবে: (لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ) “আল্লাহ ছাড়া কোন সত্য মাবূদ নেই, তিনি একক, তাঁর কোনো শরীক নেই, তাঁরই জন্য সমস্ত রাজত্ব, তারই জন্য যাবতীয় প্রশংসা এবং তিনি সকল বস্তুর উপর সর্বশক্তিমান।” দশবার",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=5517",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:6ea19412100d86c9e2eb915455ccaf5034c694d8d343e43de810d182d6fbd7a9",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) informs about the dhikr that says: \"Lā ilāha illa Allah wahdahu lā sharīka lahu, lahu al-mulku wa lahu al-hamdu, wa huwa ‘ala kulli shay’in qadīr (There is no god but Allah, alone, with no partner; to Him belongs the dominion, and praise is due to Him, and He has power over all things)\", and it means: None is worthy of worship except Allah, alone, with no partner, and that He is the Possessor of the whole dominion and the One worthy of praise along with love and extolment, apart from all else; and that He is Powerful and nothing escapes His power. Whoever repeats this dhikr ten times during a day will have a reward similar to the reward for manumitting four slaves from the children of Ishmael, the son of Abraham (peace be upon both of them). He singled out the children of Ishmael because they are nobler than others.",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth shows the merit of this dhikr, which contains attribution of the divinity, the dominion, the praise, and the complete power to Allah Almighty alone.\r",
+    "The reward for this dhikr is attained by one who says it successively or sporadically."
+   ],
+   "mapping": "same HadeethEnc record id 5517; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:46+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/5517",
+   "text": "Abu Ayyūb (may Allah be pleased with him) reported: The Prophet (may Allah's peace and blessings be upon him) said: \"Whoever says ten times ‘Lā ilāha illa Allah wahdahu lā sharīka lahu, lahu al-mulku wa lahu al-hamdu, wa huwa ‘ala kulli shay’in qadīr (There is no god but Allah, alone, with no partner; to Him belongs the dominion, and praise is due to Him, and He has power over all things)' will be the same (in reward) as the one who emancipated four slaves from the children of Ishmael.\"",
+   "title": "Whoever says ten times",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=5517",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:7410d2f4e746905ef2465951a9c606cb62ae3699da8d53a075322e15c5dd3e05",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) a informé que quiconque dit : « Il n’est de divinité, [digne d’adoration] qu'Allah, Seul et sans associé, à Lui la Royauté, à Lui la Louange, et Il est parfaitement capable de toute chose », et dont le sens est : rien ni personne ne mérite d'être adoré à l'exception d'Allah, Seul et sans associé, et qu'Il, Gloire et Pureté à Lui, s'est distingué par la Royauté absolue et le fait que Lui Seul mérite l'éloge et les célébrations, avec amour et considération, et qu'Il est certes capable au point que rien ni personne ne soit en mesure de L'empêcher de quoi que ce soit. Ainsi, quiconque répète ce majestueux rappel, dix fois dans la journée, obtient une récompense semblable à celle de celui ayant affranchi quatre esclaves de la progéniture d’Ismaël, le fils d'Abraham (que la paix soit sur eux). Il a spécifié la progéniture d'Ismaël (sur lui la paix) car ils sont plus nobles que quiconque.",
+   "grade": "Authentique",
+   "hints": [
+    "Le mérite de ce rappel qui comprend qu'Allah, Exalté soit-Il, se distingue par le fait d'être Le Seul qui soit digne d'adoration, à qui revient la Royauté, la Louange et le pouvoir absolu.\r",
+    "La rétribution de ce rappel s'obtient pour quiconque le dit, consécutivement ou séparément."
+   ],
+   "mapping": "same HadeethEnc record id 5517; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:46+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/5517",
+   "text": "Aboû Ayyoûb (qu'Allah l'agrée) relate que le Prophète (qu'Allah le couvre d'éloges et le préserve) a dit : « Quiconque dit  : \"Il n’est de divinité, [digne d’adoration] qu'Allah, Seul et sans associé, à Lui la Royauté, à Lui la Louange, et Il est parfaitement capable de toute chose\" dix fois, il sera alors comme s'il avait affranchi quatre individus parmi les enfants d’Ismaël. »",
+   "title": "Quiconque dit",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=5517",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:98a48eb322ba6d816c6a00cd8ffa2af75bba20b5ca268e03dec1ffc572edb190",
+   "explanation": "Nabi ﷺ mengabarkan tentang keutamaan ucapan: \"Lā ilāha illallāh waḥdahu lā syarīka lah lahul-mulku wa lahul-ḥamdu wa huwa 'alā kulli syai`in qadīr\" yang bermakna: Tidak ada sembahan yang benar kecuali Allah semata, tidak ada sekutu bagi-Nya, Dia semata pemilik seluruh kerajaan yang berhak terhadap pujian yang disertai cinta dan pengagungan tanpa selain-Nya, dan bahwa Dia Mahakuasa, tidak terkalahkan oleh sesuatu apa pun. Beliau mengabarkan bahwa siapa yang mengulang-ulang zikir yang agung ini dalam sehari sepuluh kali, maka ia mendapatkan pahala seperti pahala orang yang menghilangkan perbudakan dari empat orang budak keturunan Ismail bin Ibrahim -'alaihimassalām-. Penyebutan secara khusus terhadap keturunan Ismail -'alaihimassalām- adalah lantaran mereka lebih mulia dari yang lain.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Keutamaan zikir ini yang berisi pengesaan Allah Ta'ala dalam ketuhanan, kerajaan, pujian dan kekuasaan yang sempurna.\r",
+    "2- Pahala zikir ini diperoleh orang yang mengucapkannya secara berturut-turut ataupun terpisah-pisah."
+   ],
+   "mapping": "same HadeethEnc record id 5517; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:46+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/5517",
+   "text": "Abu Ayyūb -raḍiyallāhu 'anhu- meriwayatkan dari Nabi ﷺ bahwa beliau bersabda, \"Siapa yang mengucapkan 'Lā ilāha illallāh waḥdahu lā syarīka lah, lahul-mulku wa lahul-ḥamdu, wa huwa 'alā kulli syai`in qadīr' (Tidak ada tuhan yang berhak disembah kecuali Allah Yang Maha Esa, tidak ada sekutu bagi-Nya, milik-Nya seluruh kerajaan dan bagi-Nya segala pujian, dan Dialah Yang Mahakuasa atas segala sesuatu) sebanyak sepuluh kali maka dia seperti orang yang telah memerdekakan empat orang dari anak keturunan Ismail.\"",
+   "title": "Siapa yang mengucapkan 'Lā ilāha illallāh waḥdahu lā syarīka lah, lahul-mulku wa lahul-ḥamdu, wa huwa 'alā kulli syai`in qadīr' (Tidak ada tuhan yang berhak disembah kecuali Allah Yang Maha Esa, tidak ada sekutu bagi-Nya, milik-Nya seluruh kerajaan dan bagi-Nya segala pujian, dan Dialah Yang Mahakuasa atas segala sesuatu) sebanyak sepuluh kali",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=5517",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:2ead702ce9ac3c17f3879cc51c062f7962f39a3e08648c5d732167a7c731cbb8",
+   "explanation": "اس حدیث میں بتایا گیا ہے کہ جس نے یہ دعا پڑھی : \"لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ\" ، جس کے معنی یہ ہیں کہ اللہ کے سوا کوئی برحق معبود نہیں ہے، وہ اکیلا ہے، اس کا کوئی شریک نہيں، بس وہی اکیلے مکمل بادشاہت رکھتا ہے اور تمام تعریفات کا وہی مالک ومستحق ہے، وہ قادر مطلق ہے، اسے کوئی چیز عاجز و بے بس نہيں کر سکتی۔ جس نے اس عظیم ذکر کو دن میں دس بار دہرایا، اسے اس شخص کے برابر اجر و ثواب ملے گا، جس نے اسماعیل بن  ابراہیم علیہما الصلاۃ و السلام کی نسل سے چار غلاموں کے گلے سے غلامی کا طوق اتار پھینکا۔ یہاں بطور خاص اسماعیل علیہ السلام کی نسل کا ذکر اس لیے کیا گیا ہے کہ وہ دوسرے لوگوں سے اشرف ہیں۔",
+   "grade": "صحيح",
+   "hints": [
+    "بس ایک اللہ کی الوہیت، بادشاہت، حمد و ثنا اور قدرت تامہ پر مشتمل اس ذکر کی فضیلت۔\r",
+    "اس ذکر کو لگاتار ایک ہی وقت میں اور الگ الگ وقت میں کہنے والا دونوں ہى اس اجر و ثواب کا حق دار ہوں گے ۔"
+   ],
+   "mapping": "same HadeethEnc record id 5517; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:46+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/5517",
+   "text": "ابو ایوب انصاری رضی اللہ عنہ سے روایت ہے کہ اللہ کے نبی صلی اللہ علیہ و سلم نے فرمایا : \"جس نے دس بار \"لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ\" (اللہ کے سوا کوئی حقیقی معبود نہيں ہے، وہ اکیلا ہے، اس کا کوئی شریک نہيں ہے، اسی کی بادشاہت ہے، اسی کی تعریف ہے اور وہ ہر چیز پر قادر ہے) کہا، وہ اس شخص کی طرح ہوگا، جس نے اسماعیل علیہ السلام کی اولاد میں سے چار غلاموں کو آزاد کیا۔\"",
+   "title": "جس نے دس بار \"لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ\" (اللہ کے سوا کوئی حقیقی معبود نہيں ہے، وہ اکیلا ہے، اس کا کوئی شریک نہيں ہے، اسی کی بادشاہت ہے، اسی کی تعریف ہے اور وہ ہر چیز پر قادر ہے) کہا",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=5517",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:73d289aaaa678f408f92e2445a483a915c17395044b1f43f111cf9cb3d5d7227",
+   "explanation": "先知（愿主福安之）叙述道，谁诵念“没有真应受拜的主，唯有安拉，一切权柄和赞颂统归于他，他全能于万事。”其意是：没有真应受崇拜的主，唯有独一无二的安拉，清高的安拉独自具有完全的权柄，他应受赞颂和赞美，同时还要喜爱和尊崇，而他以外的任何物不得应受崇拜。他是万能的，任何事都难不倒他。 凡每日重复此赞词十次者，他所得到的报酬，犹如从伊斯玛伊莱的孩子中释放了四位奴隶。之所以专指伊斯玛伊莱的孩子，是因为他们比其他人更加尊贵。",
+   "grade": "正确的",
+   "hints": [
+    "该赞词之优越，因为它包含了在崇拜、权柄、赞颂和完美的能力方面安拉的独一性。\r",
+    "连续诵念或分散诵念均可得此回赐。"
+   ],
+   "mapping": "same HadeethEnc record id 5517; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:46+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/5517",
+   "text": "据艾布·安友卜（愿主喜悦之）传述，据先知（愿主福安之）传述说： “谁诵念‘没有真应受拜的主，唯有安拉，一切权柄和赞颂统归于他，他全能于万事’十遍。那么他就像释放了伊斯玛伊莱的四个孩子。”",
+   "title": "“谁诵念‘没有真应受拜的主，唯有安拉，一切权柄和赞颂统归于他，他全能于万事’十遍",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

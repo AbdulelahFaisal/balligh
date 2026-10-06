@@ -1,0 +1,44 @@
+{
+ "schema": "balligh.fatwa-translation/1",
+ "record_id": "binbaz-3649",
+ "source_content_sha256": "sha256:4a0771a1fa5229fa55bde6cc248b77e5d519aa9d4f5dff981c90d9c1899f3d24",
+ "locale": "en",
+ "prompt_version": "fatwa-translate-1",
+ "review_status": "ai_generated_not_item_reviewed",
+ "generated_at": "2026-10-06T19:22:43.640991+00:00",
+ "provider": "deepseek",
+ "model": "deepseek-v4-pro",
+ "usage": {
+  "prompt_tokens": 877,
+  "completion_tokens": 805,
+  "total_tokens": 1682,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 877
+ },
+ "latency_ms": 7846,
+ "units": [
+  {
+   "id": "title",
+   "text": "The description of the Prophet's (peace and blessings of Allah be upon him) ablution"
+  },
+  {
+   "id": "q0",
+   "text": "Q: I would like you to explain the manner of ablution and prayer in light of what is authentically established from the Prophet (peace and blessings of Allah be upon him), because there is a great need for that. May Allah reward you with good."
+  },
+  {
+   "id": "a0",
+   "text": "A: Praise be to Allah, Lord of the worlds, and peace and blessings be upon our Prophet Muhammad, and upon his family and companions. To proceed:\nIt is established from the Prophet (peace and blessings of Allah be upon him) that at the beginning of ablution he would wash his palms three times with the intention of ablution, and say the basmalah (Bismillah - in the name of Allah), because that is what is prescribed. It is narrated from him (peace and blessings of Allah be upon him) through many chains that he said: \"There is no ablution for one who does not mention the name of Allah upon it.\"\nSo it is prescribed for the one performing ablution to mention the name of Allah at the beginning of ablution. Some scholars have made that obligatory when one remembers; but if one forgets or is unaware, there is no blame. Then he rinses his mouth and sniffs water into his nose three times, washes his face three times, then washes his hands including the elbows three times, starting with the right then the left, then wipes his head and ears once, then washes his feet including the ankles three times, starting with the right."
+  },
+  {
+   "id": "a1",
+   "text": "If he limits himself to once or twice, that is fine, because the Prophet (peace and blessings of Allah be upon him) performed ablution washing each part once, twice, and three times, and sometimes he washed some parts twice and some three times. That indicates that the matter is broad, praise be to Allah, but doing it three times is best. This is if there has been no urination or defecation. If any of that has occurred, then he begins with istinja' (cleaning the private parts) and then performs the ablution mentioned.\nAs for passing wind, sleep, touching the private parts, and eating camel meat, none of these require istinja'; rather the prescribed ablution that we have mentioned is sufficient. After ablution, it is prescribed for the believing man and woman to say: \"Ashhadu an la ilaha illa Allah wahdahu la sharika lah, wa ashhadu anna Muhammadan 'abduhu wa rasuluh. Allahumma ij'alni min at-tawwabin wa ij'alni min al-mutatahhirin (I bear witness that there is no god but Allah alone with no partner, and I bear witness that Muhammad is His slave and Messenger. O Allah, make me among those who repent and make me among those who purify themselves),\" because that is established from the Prophet (peace and blessings of Allah be upon him).\nIt is prescribed for the one who performs ablution to pray two rak'ahs, called the sunnah of ablution. If he prays the regular sunnah prayer after ablution, that suffices for the sunnah of ablution⟦N1⟧."
+  },
+  {
+   "id": "n0.0",
+   "text": "From the program Nur 'ala ad-Darb, tape no. 844, (Majmu' Fatawa wa Maqalat ash-Shaykh Ibn Baz 10/98)."
+  }
+ ]
+}

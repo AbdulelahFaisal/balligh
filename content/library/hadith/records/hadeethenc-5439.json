@@ -1,0 +1,170 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:2753e3c847e95493203ea4a5efc8209df845f6c9b7f34ac1df31c6890315a09c",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يُبَيِّنُ النبيُّ صلى الله عليه وسلم أنَّ الذي لا يرحمُ الناسَ لا يرحمُه اللهُ عز وجل، فرحمةُ العبد للخَلق من أكبر الأسباب التي تُنالُ بها رحمةُ الله تعالى.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "الرحمة مطلوبة لسائر المخلوقات، لكن خص الناس بالذكر اهتمامًا بهم.",
+  "الله هو الرحيم ويرحم عبادَه الرُّحَماء، فالجزاء من جنس العمل.",
+  "الرحمة بالناس تشمل إيصال الخير لهم ودفع الشر عنهم ومعاملتهم بالحسنى."
+ ],
+ "id": "hadeethenc-5439",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (8/ 10) (6013).\nصحيح مسلم (4/ 1809) (2319).\nشرح رياض الصالحين، لابن عثيمين (2/ 553).\nنزهة المتقين شرح رياض الصالحين (1/ 247).\nبهجة الناظرين شرح رياض الصالحين، لسليم الهلالي (1/ 319).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=5439",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:54+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/5439"
+ },
+ "source_categories": [
+  {
+   "id": "282",
+   "label": "الأخلاق الحميدة"
+  }
+ ],
+ "source_record_id": "5439",
+ "text": "عن جرير بن عبد الله رضي الله عنه قال: قال رسول الله صلى الله عليه وسلم: «مَنْ لَا يَرْحَمِ النَّاسَ لَا يَرْحَمْهُ اللهُ عَزَّ وَجَلَّ».",
+ "title": "من لا يرحم الناس لا يرحمه الله عز وجل",
+ "topic": "conduct",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=5439",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:9423ab6787a993ff26a151799119479d4dc4b29a31ca6719d50303d1ccea4da8",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এ হাদীসে বর্ণনা করেছেন, যে ব্যক্তি মানুষের প্রতি দয়া করে না, মহান আল্লাহও তার প্রতি দয়া করেন না। সুতরাং সৃষ্টির প্রতি বান্দার দয়া আল্লাহ তা‘আলার রহমত লাভের অন্যতম উপায়।",
+   "grade": "সহীহ",
+   "hints": [
+    "সমস্ত সৃষ্টিকুলের প্রতি দয়া প্রদর্শন কাম্য; তবে এখানে মানুষের কথা উল্লেখ করা হয়েছে তাদের গুরুত্ব বেশি বুঝানোর জন্যে।\r",
+    "আল্লাহ হলেন অতি দয়ালু, তিনি অনুগ্রহশীল বান্দাদেরকে রহম করেন। সুতরাং সমজাতীয় কাজের প্রতিদানও সমজাতীয় হয়ে থাকে।\r",
+    "মানুষের প্রতি রহম করা মানে তাদের কাছে কল্যাণ পৌঁছানো, তাদের থেকে ক্ষতি প্রতিহত করা এবং তাদের সাথে সুন্দর আচরণ করা।"
+   ],
+   "mapping": "same HadeethEnc record id 5439; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:36+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/5439",
+   "text": "জারীর ইবন আব্দুল্লাহ রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন: “যে ব্যক্তি মানুষের প্রতি দয়া করে না, মহান আল্লাহও তার প্রতি দয়া করেন না।”",
+   "title": "“যে ব্যক্তি মানুষের প্রতি দয়া করে না, মহান আল্লাহও তার প্রতি দয়া করেন না।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=5439",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:7eff5f877b45eaae47bf69b243cdcdea28cbf8b6efcc3d56e2838869e21ddbcf",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) informs that Allah Almighty does not show him who does not show mercy to people mercy. Indeed, showing compassion to people is one of the greatest means of receiving Allah's mercy.",
+   "grade": "Authentic",
+   "hints": [
+    "Mercy is required for all creatures. He singled out people due to His particular care for them.\r",
+    "Allah is the Most Merciful and He shows mercy to His merciful servants, for recompense is of the same type as one's deeds.\r",
+    "Being merciful to people includes bringing what is good to them, averting evil from them, and treating them kindly."
+   ],
+   "mapping": "same HadeethEnc record id 5439; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:36+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/5439",
+   "text": "Jarīr ibn ‘Abdullāh (may Allah be pleased with him) reported: The Messenger of Allah (may Allah's peace and blessings be upon him) said: \"Whoever does not show mercy to people, Allah Almighty does not show mercy to him.\"",
+   "title": "Whoever does not show mercy to people, Allah Almighty does not show mercy to him",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=5439",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:1faa74008602402643efbdd1e80ada901ab64463c30d8b56b76089fb63b7bed9",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) explique que celui qui ne fait pas miséricorde aux gens, Allah, Exalté soit-Il, ne lui fait pas miséricorde. Ainsi, la miséricorde dont le serviteur fait preuve à l'égard des créatures compte parmi les plus grandes causes permettant d'obtenir la miséricorde d'Allah, Exalté soit-Il.",
+   "grade": "Authentique",
+   "hints": [
+    "La miséricorde est requise à l'égard de toutes les créatures. Cependant, l'homme a été mentionné de manière particulière ici en raison de son importance.\r",
+    "Allah est le Très-Miséricordieux et Il fait miséricorde à Ses serviteurs miséricordieux. Ainsi, la rétribution est en fonction même de l'œuvre.\r",
+    "La miséricorde à l'égard des gens englobe le fait de leur faire parvenir le bien, de repousser le mal de leur personne et de se comporter avec eux de la meilleure des manières."
+   ],
+   "mapping": "same HadeethEnc record id 5439; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:36+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/5439",
+   "text": "Jarîr ibn 'AbdiLlâh (qu'Allah l'agrée) relate que le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) a dit : « Celui qui ne fait pas miséricorde aux gens, Allah, à Lui la Puissance et la Grandeur, ne lui fait pas miséricorde. »",
+   "title": "Celui qui ne fait pas miséricorde aux gens, Allah, à Lui la Puissance et la Grandeur, ne lui fait pas miséricorde.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=5439",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:c98dd0b2c08fbc1adef1f4ea501471d2ad7474a87382bd72d363bb456c64be9b",
+   "explanation": "Nabi ﷺ menjelaskan bahwa orang yang tidak menyayangi manusia maka tidak disayangi oleh Allah ﷻ. Sebab itu, kasih sayang seorang hamba kepada makhluk adalah salah satu sebab terbesar untuk mendapatkan rahmat Allah Ta'ala.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Sifat kasih sayang diperintahkan kepada semua makhluk, tetapi manusia disebutkan secara khusus sebagai bentuk perhatian pada mereka.\r",
+    "2- Allah adalah Maha Penyayang, Dia menyayangi hamba-hamba-Nya yang penyayang; sehingga balasan -dalam hadis ini- sejenis dengan perbuatan.\r",
+    "3- Kasih sayang kepada manusia bisa dalam bentuk memberikan kebaikan kepada mereka, mengangkat keburukan dari mereka, dan bermuamalah dengan mereka melalui cara yang terbaik."
+   ],
+   "mapping": "same HadeethEnc record id 5439; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:36+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/5439",
+   "text": "Jarīr bin Abdillah -raḍiyallāhu 'anhu- meriwayatkan, Rasulullah ﷺ bersabda, \"Siapa yang tidak menyayangi manusia, tidak akan disayangi oleh Allah ﷻ.\"",
+   "title": "Siapa yang tidak menyayangi manusia, tidak akan disayangi oleh Allah ﷻ",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=5439",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:460caab10343e1334cf8adc036c60a91bfd99786e7e88907034ab636086aed4c",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم بتا رہے ہیں کہ جو لوگوں پر رحم نہيں کرتا، اس پر اللہ عز و جل بھی رحم نہيں کرتا۔ اس طرح دیکھا جائے تو اللہ کی مخلوقات پر رحم کرنا اللہ کی رحمت کے حصول کا ایک بہت بڑا سبب ہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "ویسے تو ساری مخلوقات پر رحم کرنا مطلوب ہے، لیکن لوگوں کا ذکر ان پر توجہ کے پیش نظر کیا گيا ہے۔\r",
+    "اللہ بڑا رحم والا ہے اور اپنے رحم کرنے والے بندوں پر رحم کرتا ہے۔ کیوں کہ جزا اسی نوعیت کی دی جاتی ہے، جس نوعیت کا اس کا عمل ہوتا ہے۔\r",
+    "لوگوں پر رحم کرنے کے ضمن میں ان کا بھلا کرنا، ان کو برائی سے بچانا اور ان کے ساتھ اچھا برتاؤ کرنا بھی آتا ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 5439; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:36+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/5439",
+   "text": "جریر بن عبداللہ رضی اللہ عنہ سے روایت ہے، وہ کہتے ہيں کہ اللہ کے رسول صلی اللہ علیہ و سلم  نے فرمایا: ”جو لوگوں پر رحم نہیں کرتا، اس پر اللہ بھی رحم نہیں کرتا“۔",
+   "title": "”جو لوگوں پر رحم نہیں کرتا، اس پر اللہ بھی رحم نہیں کرتا“۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=5439",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:b5775095e5be8a5a298bca9ba65b0bf222b41fa4cb0b6eb15a6f3c1e5a7d1e0b",
+   "explanation": "先知（愿主福安之）明确表明，不怜悯人的人，真主不会怜悯他。因此，仆人对被造物的仁慈是获得真主仁慈的最重要的原因之一。",
+   "grade": "正确的",
+   "hints": [
+    "仁慈是众生都所需的，但专门对人提及，是因对其的重视。\r",
+    "真主是至慈的，也怜悯那些怜悯他人的仆人，因为善恶之果源于所行好坏。\r",
+    "予人仁慈包括帮助他们，不伤害他们，以及善待他们。"
+   ],
+   "mapping": "same HadeethEnc record id 5439; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:54:36+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/5439",
+   "text": "据杰里尔·本·阿卜杜拉(愿主喜悦他父子俩)传述，真主的使者(愿主福安之)说： “不怜悯别人者，不被真主怜悯｡”",
+   "title": "“不怜悯别人者，不被真主怜悯｡”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

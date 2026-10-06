@@ -1,0 +1,184 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:8db113a5832dc4ce731538ccf8aa148d4c904ad8060354b088dc5853b640d0ea",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يُخبِرُ النَّبيُّ صلَّى اللهُ عليه وسلَّمَ أنَّ مَن قالَ وشَهِدَ بلِسانِه أنَّه «لا إلهَ إلَّا اللهُ»، أي: لا مَعبودَ بِحَقٍّ إلا اللهُ، وكفَرَ بما يُعبَدُ من دُونِ اللهِ، وتَبرَّأ من كلِّ الأديانِ سِوى الإسلامِ، فقد حَرُمَ مالُه ودمُه على المُسلِمينَ، فليس لنا إلا الظاهر من عمله، فلا يُسلَبُ مالُه ولا يُسفَكُ دمُه، إلَّا إذا ارتكَبَ جَريمةً أو جِنايةً توجب ذلك بمُوجِبِ أحكامِ الإسلامِ.\n\nوالله يتولَّى حسابَهُ يوم القيامة، فإن كان صادقًا أثابه، وإن كان منافقًا عَذَّبه.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "النُّطْقُ بلا إله إلا الله، والكفر بكلِّ ما يُعبد من دون الله، شرطٌ في دخول الإسلام.",
+  "معنى (لا إله إلا الله) هو الكفر بكل ما يُعبد من دون الله من الأصنام والقبور وغيرها، وإفراده سبحانه بالعبادة.",
+  "من أتى بالتوحيد والتَزمَ شرائعه ظاهرًا وَجَبَ الكَفُّ عنه حتى يَتَبَيَّنَ منه ما يخالف ذلك.",
+  "حُرْمةُ مالِ المسلم ودمِه وعرضِه إلا بحق.",
+  "الحُكْم في الدنيا على الظاهر، وفي الآخرة على النيات والمقاصد."
+ ],
+ "id": "hadeethenc-6765",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (1/ 53) (23).\nالملخص في شرح كتاب التوحيد، لصالح الفوزان (ص68).\nالجديد في شرح كتاب التوحيد، لمحمد القرعاوي (ص77).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=6765",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:36+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/6765"
+ },
+ "source_categories": [
+  {
+   "id": "73",
+   "label": "توحيد الألوهية"
+  }
+ ],
+ "source_record_id": "6765",
+ "text": "عن طارق بن أشيم الأشجعي رضي الله عنه قال: سمعت رسول الله صلى الله عليه وسلم يقول: «مَنْ قَالَ: لَا إِلَهَ إِلَّا اللهُ، وَكَفَرَ بِمَا يُعْبَدُ مِنْ دُونِ اللهِ حَرُمَ مَالُهُ وَدَمُهُ، وَحِسَابُهُ عَلَى اللهِ».",
+ "title": "من قال: لا إله إلا الله، وكفر بما يعبد من دون الله حرم ماله ودمه، وحسابه على الله",
+ "topic": "belief",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=6765",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:c96c30af1b1d7d1c96e2ae586179da6fa643be5963391ebf6a2fec2f8ef00e7a",
+   "explanation": "এ হাদীসে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম সংবাদ দিয়েছেন, যে ব্যক্তি মুখে বলল ও সাক্ষ্য দিলো, “লা ইলাহা ইল্লাল্লাহ’ অর্থাৎ আল্লাহ ছাড়া সত্য কোন মা’বূদ নেই এবং আল্লাহ ছাড়া অন্যান্য মাবূদকে অস্বীকার করলো, ইসলাম ব্যতীত অন্য সব ধর্ম থেকে নিজেকে মুক্ত ঘোষণা করল, তার জান ও মাল মুসলিমদের জন্যে হারাম। অতএব, আমরা তার বাহ্যিক আমল দেখেই বিচার করব। সুতরাং তার ধন-সম্পদ হরণ করা যাবে না এবং তার রক্তপাতও ঘটানো যাবে না। তবে সে কোন অন্যায় বা অপরাধে জড়িত হলে ভিন্ন কথা। তখন সেসব অপরাধের শাস্তি ইসলামী শরী‘য়াহ নিশ্চিত করবে।\r\n\r\nআল্লাহ তার হিসাব নিকাশ কিয়ামতের দিন গ্রহণ করবেন। যদি সে সত্যবাদী হয়, তবে সে পুরস্কৃত হবে। আর যদি মুনাফিক হয়, তবে আল্লাহ তাকে শাস্তি দিবেন।",
+   "grade": "সহীহ",
+   "hints": [
+    "’লা ইলাহা ইল্লাল্লাহ’ তথা আল্লাহ ব্যতীত কোন সত্য মাবূদ নেই- এ কালিমা মুখে উচ্চারণ করা এবং আল্লাহ ব্যতীত অন্যান্য সকল মাবূদ অস্বীকার করা, ইসলামে প্রবেশ করার পূর্বশর্ত।\r",
+    "’লা ইলাহা ইল্লাল্লাহ’ (لا إله إلا الله) তথা আল্লাহ ব্যতীত কোন সত্য ইলাহ নেই- এর অর্থ হলো আল্লাহ ব্যতীত মূর্তিপূজা, কবরপূজাসহ অন্যান্য সকল ইবাদত অস্বীকার করা এবং ইবাদতের ক্ষেত্রে আল্লাহ সুবহানাহু ওয়াতা‘আলাকে একক মনে করা।\r",
+    "যে ব্যক্তি তাওহীদে বিশ্বাস করে এবং প্রকাশ্যে শরী‘য়তকে আঁকড়ে ধরে, তার সম্পদ ও জীবনের উপর ক্ষতি করা থেকে বিরত থাকা ওয়াজিব; যতক্ষণ তার থেকে এর পরিপন্থী কোন কিছু প্রকাশ না পায়।\r",
+    "মুসলিমের সম্পদ, জীবন ও সম্মান হারাম; তবে হকের কারণে হালাল।\r",
+    "দুনিয়াতে বিচার ফয়সালা হয় বাহ্যিক বিষয়ের উপর ভিত্তি করে; আর আখিরাতে ফয়সালা হয় নিয়্যাত ও উদ্দেশ্যের উপর ভিত্তি করে।"
+   ],
+   "mapping": "same HadeethEnc record id 6765; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:29+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/6765",
+   "text": "তারিক ইবনু আশইয়াম আল আশজাঈ রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লামকে বলতে শুনেছি: “যে ব্যক্তি বলল: আল্লাহ ছাড়া সত্য কোন মা’বূদ নেই এবং আল্লাহ ছাড়া অন্যান্য যা কিছুর ইবাদত করা হয় তা অস্বীকার করলো, তার জান ও মাল হারাম হয়ে গেলো। আর তার হিসাব নিকাশ আল্লাহর নিকট।”",
+   "title": "“যে ব্যক্তি বলল: আল্লাহ ছাড়া সত্য কোন মা’বূদ নেই এবং আল্লাহ ছাড়া অন্যান্য যা কিছুর ইবাদত করা হয় তা অস্বীকার করলো, তার জান ও মাল হারাম হয়ে গেলো। আর তার হিসাব নিকাশ আল্লাহর নিকট।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=6765",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:43a8b22754671d43d4fb83e067e337969c93775674b565806690398a916afd09",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) informs that if a person says and bears witness that \"there is no god but Allah\" - which means that none is truly worthy of worship except Allah - and disbelieves in everything worshiped apart from Allah and disavows all other religions besides Islam, his property and blood become inviolable to the Muslims. We only judge according to his apparent reality. So, his property may not be taken, or his blood be shed unless he commits a crime or an offence that entails such punishment as per Islamic laws.\r\n\r\nAnd Allah will be responsible for his reckoning on the Day of Judgment. If he is sincere, He will reward him, and if he is insincere, He will punish him.",
+   "grade": "Authentic",
+   "hints": [
+    "Uttering \"there is no god but Allah\" and disbelieving in all that is worshiped other than Allah is a prerequisite for entering Islam.\r",
+    "The meaning of \"there is no god but Allah\" is to disbelieve in all that is worshiped besides Allah, such as idols, graves, and other things, and to devote worship to Allah Almighty alone.\r",
+    "Whoever holds the belief of Tawhīd (monotheism) and outwardly adheres to its ordinances should be spared any harm until he shows something contrary to that.\r",
+    "The property, blood, and honor of a Muslim are inviolable, unless for a just cause.\r",
+    "Judgment in worldly life depends on the outward aspect, whereas in the Hereafter, it depends on intentions and objectives."
+   ],
+   "mapping": "same HadeethEnc record id 6765; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:29+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/6765",
+   "text": "Tāriq ibn Ashīm al-Ashja‘i (may Allah be pleased with him) reported: I heard the Messenger of Allah (may Allah’s peace and blessings be upon him) say: \"Whoever says 'lā ilāha illa Allah (there is no god but Allah)' and disbelieves in everything worshiped besides Allah, his property and blood becomes inviolable, and his reckoning will be with Allah.\"",
+   "title": "Whoever says 'lā ilāha illa Allah (there is no god but Allah)' and disbelieves in everything worshiped besides Allah, his property and blood becomes inviolable, and his reckoning will be with Allah",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=6765",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:11cbecb6b656f1dfdde427df7a509610d4cabe0676d9c9679e9bce813b461335",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) informe que quiconque dit et atteste par sa langue : \" Il n'est de divinité qu'Allah \", c'est-à-dire : rien ni personne ne mérite d'être adoré excepté Allah, mécroit en tout ce qui est adoré en dehors d'Allah et se désavoue de toute religion autre que l'Islam, son argent et son sang sont assurément interdits aux musulmans. Ainsi, nous ne pouvons juger que l'apparence de son œuvre ; on ne s'accapare pas son argent, ni on ne verse son sang, à moins que la personne ne commette un crime, ou un forfait qui rende cela obligatoire au regard des implications des décrets et jugements de l'Islam.\r\n\r\nEt c'est à Allah que revient son jugement au Jour de la Résurrection. S'il était véridique, Il le récompensera ; et s'il était hypocrite, Il le châtiera.",
+   "grade": "Authentique",
+   "hints": [
+    "Prononcer : \" Il n'est de divinité [digne d'adoration] qu'Allah \" et mécroire en tout ce qui est adoré en dehors d'Allah est une condition pour entrer dans l'Islam.\r",
+    "La signification de : \" Il n'est de divinité [digne d'adoration] qu'Allah \", c'est mécroire en tout ce qui est adoré en dehors d'Allah, qu'il s'agisse de statues, de tombes et autres, et de Lui consacrer exclusivement l'adoration, Gloire et Pureté à Lui.\r",
+    "Quiconque reconnaît l'Unicité d'Allah et s'attache en apparence à Ses préceptes, on se doit d'avoir de la retenue à son égard. Tant que n'apparaît pas de lui ce qui irait à l'encontre de cela.\r",
+    "Le caractère sacré de l'argent, du sang et de l'honneur du musulman, excepté à juste titre.\r",
+    "Le jugement ici-bas se fait selon les apparences, tandis que, dans l'au-delà, il sera fait en fonction des intentions et les finalités."
+   ],
+   "mapping": "same HadeethEnc record id 6765; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:29+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/6765",
+   "text": "Ṭâriq ibn Ouchaym Al-Achja’î (qu’Allah l'agrée) relate qu'il a entendu le Messager d’Allah (qu'Allah le couvre d'éloges et le préserve) dire : \" Quiconque dit : \" Il n'est de divinité qu'Allah et mécroit en tout ce qui est adoré en dehors d'Allah, son argent et son sang sont sacrés, et son jugement incombe à Allah. \"",
+   "title": "Quiconque dit : \" Il n'est de divinité qu'Allah et mécroit en tout ce qui est adoré en dehors d'Allah, son argent et son sang sont sacrés, et son jugement incombe à Allah.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=6765",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:1ff3c89163c0297bf3dfab3db1dd3ea80b4a62a1229caa67b63e5a68cea9432d",
+   "explanation": "Nabi ﷺ mengabarkan bahwa orang yang berucap dan bersaksi dengan lisannya \"lā ilāha illallāh\", yakni tidak ada sembahan yang benar kecuali Allah, disertai mengingkari semua yang disembah selain Allah dan berlepas diri dari semua agama selain Islam, maka harta dan darahnya terlindungi atas kaum muslimin. Kita hanya menghukum sesuai dengan amal lahiriahnya, sehingga hartanya tidak boleh dirampas dan darahnya tidak boleh ditumpahkan kecuali dia melakukan kejahatan yang berkonsekuensi seperti itu berdasarkan hukum Islam.\r\n\r\nAdapun Allah, maka akan mengurus perhitungan amalnya kelak di hari Kiamat; Dia akan memberinya pahala jika dia jujur dan akan menyiksanya jika dia munafik.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Mengucapkan \"lā ilāha illallāh\" dan mengingkari semua yang disembah selain Allah adalah syarat masuk Islam.\r",
+    "2- Makna \"lā ilāha illallāh\" adalah menolak semua yang disembah selain Allah seperti patung, kubur dan lainnya, sekaligus mengesakan Allah Ta'ala dalam ibadah.\r",
+    "3- Siapa yang mengamalkan tauhid dan menjalankan syariat-Nya secara lahiriah, wajib dilindungi sampai ia terbukti melakukan hal yang menyelisihi itu.\r",
+    "4- Harta, darah dan kehormatan seorang muslim terjaga kecuali dengan alasan yang benar.\r",
+    "5- Hukum di dunia berdasarkan amalan secara lahir, sedangkan di akhirat berdasarkan niat dan tujuan batin."
+   ],
+   "mapping": "same HadeethEnc record id 6765; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:29+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/6765",
+   "text": "Ṭāriq bin Asy-yam Al-Asyja'iy -raḍiyallāhu 'anhu- meriwayatkan, Aku telah mendengar Rasulullah ﷺ bersabda, \"Siapa yang mengucapkan 'Lā ilāha illallāh' dan mengingkari segala sesuatu yang disembah selain Allah, maka harta dan darahnya terjaga, sedangkan perhitungan amalnya terserah kepada Allah.\"",
+   "title": "Siapa yang mengucapkan 'Lā ilāha illallāh' dan mengingkari segala sesuatu yang disembah selain Allah, maka harta dan darahnya terjaga, sedangkan perhitungan amalnya terserah kepada Allah",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=6765",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:833518e2648a6a7f2f4abb260be6e3a9d8e637a62fed52e996b0b10961b4beaa",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم بتا رہے ہیں کہ جس نے اپنی زبان سے گواہی دی کہ اللہ کے علاوہ کوئی سچا معبود نہيں ہے اور اللہ کے علاوہ پوجی جانے والی تمام چیزوں کا انکار کیا اور اسلام کے علاوہ تمام ادیان سے اپنی براءت ظاہر کر دی، اس کا مال اور اس کا خون مسلمانوں پر حرام ہو گیا۔ کیوں کہ ہمیں دیکھنا صرف اس کے ظاہری عمل کو ہے۔ چنانچہ نہ تو اس کا مال چھینا جائے گا اور نہ اس کا خون بہایا جائے گا۔ ہاں! اگر وہ کوئی ایسا گناہ یا جرم کر بیٹھے، جس کی بنا پر اسلامی احکام کی رو سے اس کی جان یا اس کا مال حلال ہو جاتا ہو، تو بات الگ ہے۔\r\n\r\nجب کہ اس کا حساب قیامت کے دن اللہ لے گا۔ اگر وہ مخلص اور سچا ہے، تو ثواب دے گا اور اگر منافق ہے، تو عذاب دے گا۔",
+   "grade": "صحيح",
+   "hints": [
+    "زبان سے لاالہ الا اللہ کہنا اور اللہ کے علاوہ پوجی جانے والی چیزوں کا انکار کرنا دخول اسلام کے لیے شرط ہے۔\r",
+    "لا الہ الا اللہ کا معنی: اللہ کے علاوہ پوجی جانے والی تمام چیزوں، جیسے بتوں اور قبروں وغیرہ کا انکار کرنا اور بس ایک اللہ کی عبادت کرنا ہے۔\r",
+    "جس نے اللہ کے ایک ہونے کا اقرار کیا اور اسلام کے ظاہری احکام کی پابندی کی، اس سے دست کش رہنا ضروری ہے، جب تک کہ اس کی جانب سے اس کے مخالف رویے کا اظہار نہ ہو۔\r",
+    "مسلمان کی جان، مال اور عزت و آبرو کے ساتھ ناحق چھیڑ چھاڑ حرام ہے۔\r",
+    "دنیا میں ظاہری بنیاد پر اور آخرت میں نیتوں اور مقاصد کی بنیاد پر حکم صادر کیا جائے گا۔"
+   ],
+   "mapping": "same HadeethEnc record id 6765; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:29+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/6765",
+   "text": "طارق بن اشیم اشجعی رضی اللہ عنہ سے روایت ہے، وہ کہتے ہیں کہ میں نے اللہ کے رسول صلی اللہ علیہ و سلم کو یہ فرماتے ہوئے سنا : \"جس نے 'لا الہ الا اللہ' کہا اور اللہ کے سوا جن چیزوں کی پوجا کی جاتی ہے، ان کا انکار کیا، تو اس کا مال اور خون حرام ہو گیا اور اس کا حساب اللہ کے ذمہ ہے۔\"",
+   "title": "جس نے 'لا الہ الا اللہ' کہا اور اللہ کے سوا جن چیزوں کی پوجا کی جاتی ہے، ان کا انکار کیا، تو اس کا مال اور خون حرام ہو گیا اور اس کا حساب اللہ کے ذمہ ہے۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=6765",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:d2d9d9ffdae9566ff23c428186efb87aeeb1184e9ba2a7bda0ccc3a0a6e99d9e",
+   "explanation": "先知（愿主福安之）叙述道，凡口头作证：“除安拉外，再无应受崇拜的主”。即：没有真正应受崇拜的主，唯有安拉，并且他还否认了除安拉以外的一切受拜之物，即：除伊斯兰以外，他与其他一切宗教毫无干系，那么对于穆斯林来说，他的生命和财产将不容侵犯，我们只依表面行事，不得掠夺其财产，伤害其生命，除非他触犯伊斯兰的死罪之刑律。\r\n\r\n复生日，安拉将对他进行最终的清算。如果他是诚心信仰，则受到嘉奖，如果是伪信，则受到惩罚。",
+   "grade": "正确的",
+   "hints": [
+    "说出：“除安拉外，再无应受崇拜的主”，并且否认除安拉外一切受拜之物，这是皈依伊斯兰的条件。\r",
+    "“除安拉外，再无应受崇拜的主”，即：否认除安拉以外一切受拜之物，如：雕像、坟墓等，必须崇拜清高的独一的安拉。\r",
+    "凡认主独一并且遵行教律者，必须得到保护，除非他做出了与之相违背的事情。\r",
+    "穆斯林的生命、财产和名誉应受到保护，除非有正当理由。\r",
+    "今世依表面实行律法，后世则看内心之举意和目的。"
+   ],
+   "mapping": "same HadeethEnc record id 6765; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:53:29+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/6765",
+   "text": "据塔里格·本·艾西姆·艾什哲伊（愿主喜悦之）传述说：我听安拉的使者（愿主福安之）说： “凡说：‘除安拉外，没有应收崇拜的主’，然后否认了除安拉以外一切受拜之物，那么他的生命和财产便是不可侵犯的，其最终的清算交付安拉。”",
+   "title": "“凡说：‘除安拉外，没有应收崇拜的主’，然后否认了除安拉以外一切受拜之物，那么他的生命和财产便是不可侵犯的，其最终的清算交付安拉。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

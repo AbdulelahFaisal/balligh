@@ -1,0 +1,218 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:485092766e57eec79278a2b431bae5c7a1cd012d9ec5b50cb1fe92f20882e5b1",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "عَلَّمَ عثمانُ رضي الله عنه صفةَ وضوءِ النبيِّ صلى الله عليه وسلم بطريقة عَمَليّة؛ ليكون أبلغ إيضاحًا، فطلب ماءً في إناء، فَصَبَّ على يديه ثلاثَ مرات، وبعد ذلك أدخل يدَه اليمنى في الإناء، وأخذ بها ماءً فأدَارَه في فَمِه وأخرجه، ثم سحب الماء بِنَفَسِهِ إلى باطن أَنفِهِ، ثم أخرجه ونثره، ثم غَسَلَ وجهَه ثلاث مرات، ثم غسل يديه مع المِرْفقين ثلاثًا، ثم أَمَرَّ يده على رأسه مَبلولةً بالماء مرة واحدة، ثم غسل رجليه مع الكعبين ثلاثًا.\n\n\nفلما فرغ رضي الله عنه أخبرهم أنه رأى النبيَّ صلى الله عليه وسلم توضأ مثل هذا الوضوء، وبشَّرهم صلى الله عليه وسلم أنه مَن توضأ مثل وضوئه، وصلى ركعتين، خاشعًا مُحْضرًا قلبَه بين يدي ربه عز وجل فيهما، فإن الله يجازيه على هذا الوضوء الكامل وهذه الصلاة الخالصة بغفران ما سبق من ذنوبه.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "استحباب غسل اليدين قبل إدخالهما في الإناء في ابتداء الوضوء، وإن لم يكن قائمًا من النوم، فإن كان مستيقظًا من نوم الليل فيجب غسلهما.",
+  "ينبغي للمعلم أنْ يَسلك أقرب الطرق إلى الفهم ورسوخ العلم لدى المتعلم، ومن ذلك التعليم بالفعل.",
+  "ينبغي للمصلي دفع الخواطر المتعلِّقة بأشغال الدنيا، فتمام الصلاة وكمالها في حضور القلب فيها، وإلا فالأفكار يتعذر السلامة منها، فعليه أن يجاهد نفسه ولا يسترسل في ذلك.",
+  "استحباب التيامن في الوضوء.",
+  "مشروعية الترتيب بين التمضمض والاستنشاق والاستنثار.",
+  "استحباب غسل الوجه واليدين والرجلين ثلاثًا، والواجب مرة.",
+  "مغفرة الله ما سبق من الذنوب يترتب على مجموع الأمرين: الوضوء، وصلاة ركعتين، على الصفة المذكورة في الحديث.",
+  "لكل عضو من أعضاء الوضوء حد: فحد الوجه: من منابت شعر الرأس المعتاد، إلى ما نزل من اللحية والذقن طولًا، ومن الأذن إلى الأذن عرضًا. وحد اليد: من أطراف الأصابع إلى المرفق وهو المفصل بين الساعد والعَضُد. وحد الرأس: من منابت الشعر المعتاد من جوانب الوجه إلى أعلى الرقبة، ومسح الأذنين من الرأس. وحد الرِّجْل: القدم كاملة مع المفصل بينها وبين الساق."
+ ],
+ "id": "hadeethenc-3313",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (1/ 44) (164).\nصحيح مسلم (1/ 204) (226).\nالإلمام بشرح عمدة الأحكام، لإسماعيل الأنصاري (1/ 16).\nتيسير العلام شرح عمدة الأحكام، للبسام (ص26).\nتنبيه الأفهام شرح عمدة الأحكام، لابن عثيمين (1/ 24).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3313",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:40+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3313"
+ },
+ "source_categories": [
+  {
+   "id": "444",
+   "label": "صفة الوضوء"
+  }
+ ],
+ "source_record_id": "3313",
+ "text": "عَنْ ‌حُمْرَانَ مَوْلَى عُثْمَانَ بْنِ عَفَّانَ رضي الله عنه: أَنَّهُ رَأَى عُثْمَانَ بْنَ عَفَّانَ دَعَا بِوَضُوءٍ، فَأَفْرَغَ عَلَى يَدَيْهِ مِنْ إِنَائِهِ، فَغَسَلَهُمَا ثَلَاثَ مَرَّاتٍ، ثُمَّ أَدْخَلَ يَمِينَهُ فِي الْوَضُوءِ، ثُمَّ تَمَضْمَضَ وَاسْتَنْشَقَ وَاسْتَنْثَرَ، ثُمَّ غَسَلَ وَجْهَهُ ثَلَاثًا، وَيَدَيْهِ إِلَى الْمِرْفَقَيْنِ ثَلَاثًا، ثُمَّ مَسَحَ بِرَأْسِهِ، ثُمَّ غَسَلَ كُلَّ رِجْلٍ ثَلَاثًا، ثُمَّ قَالَ: رَأَيْتُ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَتَوَضَّأُ نَحْوَ وُضُوئِي هَذَا، وَقَالَ: «مَنْ تَوَضَّأَ نَحْوَ وُضُوئِي هَذَا ثُمَّ صَلَّى رَكْعَتَيْنِ لَا يُحَدِّثُ فِيهِمَا نَفْسَهُ غَفَرَ اللهُ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ».",
+ "title": "من توضأ نحو وضوئي هذا ثم صلى ركعتين لا يحدث فيهما نفسه غفر الله له ما تقدم من ذنبه",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3313",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:523548432da47259c7b5a9f0e4b880a35934309d683cf9a1ffc39d42cb941c17",
+   "explanation": "উসমান রাদিয়াল্লাহু ‘আনহু ব্যবহারিক পদ্ধতিতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামরে অযুর বিবরণ শিক্ষা দিয়েছেন যেন তা সবচেয়ে বেশী স্পষ্ট হয়। তিনি একটি পাত্রে পানি তলব করলেন এবং তাঁর দুই হাতে তিনবার পানি ঢাললেন, তারপর তাঁর ডান হাত পাত্রে প্রবেশ করালেন। তার দ্বারা পানি নিয়ে তাঁর মুখে নাড়লেন ও বের করলেন। তারপর নিজের শ্বাস দ্বারা নাকের ভেতর পানি নিলেন। তারপর বের করলেন ও নাক ঝাড়লেন। তারপর তাঁর চেহারা তিনবার ধুলেন। তারপর তাঁর দুই হাত কনুই পর্যন্ত তিনবার ধুলেন, তারপর তাঁর হাত পানি দ্বারা ভিজিয়ে একবার মাথার ওপর মাসেহ করলেন। তারপর তাঁর দুই পা টাখনুসহ তিনবার ধৌত করলেন।\r\n\r\nযখন তিনি অযু হতে ফারিগ হলেন তাদের সংবাদ দিলেন যে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে এই অযুর ন্যায় অযু করতে দেখেছেন। এবং তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদেরকে সংবাদ দিয়েছেন যে, তাঁর অযুর ন্যায় যে অযু করবে এবং আল্লাহর সামনে তাঁর অন্তরকে হাজির রেখে দুই রাকাত সালাত আদায় করবে, আল্লাহ এই পরিপূর্ণ অযু ও একনিষ্ঠ সালাতের বিনিময় দান করবেন। এ দুটি আমল তার পূর্বের সকল পাপ ক্ষমা করে দেবে।",
+   "grade": "সহীহ",
+   "hints": [
+    "ঘুম থেকে না ওঠে থাকলেও অযুর শুরুতে পাত্রের ভেতর দুই হাত প্রবেশ করানোর পূর্বে দুই হাত ধৌত করা মুস্তাহাব। আর যদি রাতের ঘুম থেকে জাগ্রত হয় তখন দুই হাত ধৌত করা ওয়াজিব।\r",
+    "শিক্ষকের পক্ষে ছাত্রকে বুঝানো এবং ইলমকে তাঁর গভীরে প্রোথিত করার সবচেয়ে নিকটতম নিয়ম প্রয়োগ করা উচিত। আর তারই একটি অংশ হলো ব্যবহারিক নিয়মে শিক্ষা প্রদান করা।\r",
+    "মুসল্লির কর্তব্য হলো, অন্তরে উদয় হওয়া দুনিয়ার ব্যস্ততা সংক্রান্ত কল্পনাগুলো প্রতিহত করা, কারণ সালাতের ভেতর অন্তরের উপস্থিতি হলো তার পূর্ণতা ও সম্পন্ন হওয়ার নিদর্শন। অন্যথায় কল্পনাসমূহ থেকে নিরাপদ থাকা অসম্ভব, কাজেই তার ওপর আবশ্যক হলো নিজের নফসের সাথে জিহাদ করা এবং তাতে লাগামহীন না হওয়া।\r",
+    "অযুতে ডান দিককে প্রাধান্য দেওয়া মুস্তাহাব।\r",
+    "কুলি করা, নাকে পানি দেওয়া ও নাক পরিস্কার করার ক্ষেত্রে ধারাবাহিকতা বজায় রাখা।\r",
+    "মুখমন্ডল, দুই হাত ও দুই পা তিনবার ধৌত করা মুস্তাহাব। আর একবার হলো ওয়াজিব।\r",
+    "আল্লাহর পক্ষ থেকে পূর্বের সকল পাপ ক্ষমা করার বিষয়টি হাদীসে উল্লিখিত বিবরণ মোতাবেক অযু ও দুই রাকাত সালাত: উভয়ের ওপর প্রযোজ্য হবে।\r",
+    "অযুর অঙ্গসমূহ হতে প্রত্যেক অঙ্গের একটি সীমা রয়েছে: দৈর্ঘ্যে (লম্বালম্বি) মুখমন্ডলের সীমা হলো: মাথার স্বাভাবিক চুল গঁজানোর স্থান থেকে দাড়ি ও থুতনির নীচ পর্যন্ত। আর প্রস্থে সীমা হলো কান থেকে কান পর্যন্ত। হাতের সীমা হলো: হাতের আঙ্গুলের মাথা থেকে বাহু ও প্রগণ্ডাস্থি (বাহুর ওপরের অংশ) এর জোড়া (কনুই) পর্যন্ত। মাথার সীমা হলো: মুখমন্ডলের চারপাশ থেকে চুল গঁজানোর স্বাভাবিক স্থান থেকে ঘাড়ের ওপর পর্যন্ত, আর কান মাসেহ করা মাথার-ই অংশ। পায়ের সীমা হলো: পা ও পায়ের গোছার মধ্যবর্তী জোড়াসহ পুরো পা ধৌত করা।"
+   ],
+   "mapping": "same HadeethEnc record id 3313; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:45+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3313",
+   "text": "‘উসমান ইবনু ‘আফফান -এর মুক্ত করা দাস হুমরান হতে বর্ণিত। সে দেখেছে, ‘উসমান ইবনু আফফান  উযূর পানি নিয়ে ডাকলেন। তারপর তিনি পানির পাত্র হতে তাঁর উভয় হাতের উপর ঢাললেন এবং তাঁর দুই হাত তিনবার ধুলেন। অতঃপর তাঁর ডান হাত পানিতে ঢুকালেন। অতঃপর কুলি করলেন, নাকে পানি দিলেন ও নাক ঝাড়লেন। অতঃপর তাঁর মুখমন্ডল তিনবার ও তাঁর উভয় হাত কনুই পর্যন্ত তিনবার ধুলেন, অতঃপর তাঁর মাথা মাসেহ করলেন। অতঃপর প্রত্যেক পা তিনবার ধুলেন; তারপর বললেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে আমার এই উযূর ন্যায় উযূ করতে দেখেছি। এবং তিনি বলেছেন, “যে ব্যক্তি আমার এই উযূর ন্যায় উযূ করল, তারপর দু’রাক‘আত সালাত আদায় করল তাতে সে তার মনে কনো কিছু উদয় করলো না, আল্লাহ্ তার পূর্বের সকল গুনাহ ক্ষমা করে দেবেন”।",
+   "title": "যে ব্যক্তি আমার এই উযূর ন্যায় উযূ করল, তারপর দু’রাক‘আত সালাত আদায় করল তাতে সে তার মনে কনো কিছু উদয় করলো না, আল্লাহ্ তার পূর্বের সকল গুনাহ ক্ষমা করে দেবেন",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3313",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:9227d5d8f26d124c7b09ef7347d82d7975ad4bc07f46527cf8633ee18679022c",
+   "explanation": "'Uthmān ibn' Affān (may Allah be pleased with him) practically taught the Prophet's manner of ablution to make it clearer. He asked for water in a vessel and poured water on his hands three times. After that, he entered his right hand into the vessel, took water with it, put it in his mouth and let it out. Then, he sniffed water into his nose and then blew it out. Then, he washed his face three times and then washed his forearms up to the elbows three times. Then, he passed his wet hand over his head once. Then, he washed his feet along with the ankles three times.\r\n\r\nWhen he (may Allah be pleased with him) finished, he informed them that he saw the Prophet (may Allah's peace and blessings be upon him) perform ablution like that ablution and that he (may Allah's peace and blessings be upon him) gave them glad tidings that whoever performs ablution like his ablution and offers two Rak'ahs, with presence of mind and humility before his Almighty Lord, Allah will recompense him for this complete ablution and this sincere prayer by forgiving his past sins.",
+   "grade": "Authentic",
+   "hints": [
+    "It is recommended to wash the hands before inserting them into the vessel at the beginning of ablution, even if one is not awake from sleep. If one is awake from a night's sleep, washing his hands is obligatory.\r",
+    "A mentor should adopt the best approach whereby the learner can understand knowledge and absorb it in a better way. An example is to teach others by action.\r",
+    "A praying person should repel the thoughts related to worldly preoccupations, for the perfection and completion of prayer lies in the presence of the mind. Indeed, thoughts cannot be avoided altogether, but he should make an effort against them and not follow them.\r",
+    "It is recommended to begin with the right side in ablution.\r",
+    "It is prescribed to follow the order between rinsing the mouth, sniffing water into the nostrils and blowing it out.\r",
+    "It is recommended to wash the face, hands, and feet three times. It is obligatory to wash them at least once.\r",
+    "Forgiving the past sins results from two things together: performing ablution and offering two Rak‘ahs, in the manner demonstrated in the Hadīth.\r",
+    "Each organ of the organs of ablution has a boundary: The boundary of the face extends from the hairline to the lower end of the beard and chin, lengthwise, and from ear to ear, breadthwise. The boundary of the hand extends from the fingertips to the elbow, i.e. the joint between the forearm and the upper arm. The boundary of the head extends from the hairline on the face's sides to the upper neck. Wiping the ears is part of the head. The boundary of the foot includes the whole foot along the joint between it and the leg."
+   ],
+   "mapping": "same HadeethEnc record id 3313; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:44+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3313",
+   "text": "Humrān, the freed slave of 'Uthmān ibn' Affān, reported that he saw 'Uthmān ibn' Affān asking (for water) to perform ablution, and he poured water from his vessel over his hands and washed them thrice and then put his right hand in the water and rinsed his mouth and washed his nose by putting water in it and then blowing it out. Then, he washed his face thrice and his forearms up to the elbows thrice. Then, he passed his wet hands over his head and washed each foot thrice. After that, he said: \"I saw the Prophet (may Allah's peace and blessings be upon him) perform ablution like this ablution of mine, and he said: 'If anyone performs ablution like this ablution of mine and offers two Rak'ahs during which he does not think of anything else, Allah will forgive his past sins.'\"",
+   "title": "If anyone performs ablution like this ablution of mine and offers two Rak'ahs during which he does not think of anything else, Allah will forgive his past sins",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=3313",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:4a1d51f7e3404b6a6c6c5909fa8008a34738b002fac22544113c1432b12e7011",
+   "explanation": "'Uthmân (qu'Allah l'agrée) a enseigné la description de l'ablution du Prophète ﷺ de manière pratique pour que cela soit encore plus clair. Il a donc demandé qu'on lui apporte de l'eau dans un récipient. Il a alors versé trois fois de l'eau sur ses mains ; après cela, il a mis sa main droite dans le récipient, il en a pris de l'eau, l'a mise dans sa bouche et l'a recrachée. Ensuite, il a pris de l'eau et l'a aspirée à l'intérieur de son nez, puis il l'a fait ressortir. Ensuite, il s'est lavé le visage trois fois. Puis, il s'est lavé les bras jusqu'aux coudes trois fois. Ensuite, il a passé ses mains humides sur sa tête d'avant en arrière, une seule fois. Enfin, il s'est lavé les pieds jusqu'aux chevilles, trois fois.\r\n\r\nLorsqu'il (qu'Allah l'agrée) termina ses ablutions, il les informa qu'il avait vu le Prophète faire ses ablutions comme ces ablutions-ci. Le Prophète ﷺ leur annonça aussi la bonne nouvelle que quiconque faisait ses ablutions comme son ablution, priait deux unités de prière en se recueillant et en ayant le cœur présent devant son Seigneur ﷻ au cours de ces unités de prière, alors Allah le rétribuerait pour ses ablutions complètes et cette prière sincère par le pardon de ses péchés précédents.",
+   "grade": "Authentique",
+   "hints": [
+    "La recommandation de se laver les mains avant de les introduire dans le récipient avant d'effectuer ses ablutions même si la personne ne vient pas de se réveiller de son sommeil ; et si elle venait de se réveiller de son sommeil, alors elle devrait obligatoirement les laver.\r",
+    "Il convient à l'enseigant d'emprunter le plus proche des chemins pour faire comprendre à l'étudiant et lui enraciner la connaissance. Et parmi cela, il y a l'enseignement par l'acte.\r",
+    "Il convient au fidèle de repousser les idées qui lui traversent l'esprit liées aux activités mondaines. Ainsi, la perfection et la plénitude de la prière est dans la présence du cœur. On ne peut échapper aux idées et pensées donc le fidèle doit lutter contre sa personne et ne pas laisser libre cours à cela.\r",
+    "La recommandation de commencer par la droite dans les ablutions.\r",
+    "La prescription de la succession entre l'aspiration d'eau, la gargarisation et le fait de la recracher.\r",
+    "La recommandation de laver le visage, les deux bras et les deux pieds trois fois; l'obligation étant d'une fois.\r",
+    "Le pardon d'Allah des péchés précédents est entraîné par la réunion de deux affaires : les ablutions et l'accomplissement de deux unités de prière selon la description mentionnée dans le hadith.\r",
+    "Chaque membre parmi les membres des ablutions possède une limite : ainsi, en longueur, la limite du visage va des racines des cheveux de la tête jusqu'à ce qui descend de la barbe et du menton et, en largeur, d'une oreille à l'autre ; la limite du bras va des extrémités des doigts jusqu'au coude, qui est l'articulation entre l'avant-bras et le haut du bras ; la limite de la tête va des racines des cheveux de manière habituelle des côtés du visage jusqu'au haut du cou avec l'essuyage des oreilles de la tête ; et la limite de la jambe correspond au pied en entier avec l'articulation entre celui-ci et le mollet."
+   ],
+   "mapping": "same HadeethEnc record id 3313; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:45+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/3313",
+   "text": "D'après Humrân, l’esclave affranchi d‘Uthmân ibn 'Affân (qu'Allah l'agrée), celui-ci vit ‘Uthmân ibn 'Affân demander un récipient d’eau pour [effectuer] ses ablutions. Ce dernier versa alors de l’eau du récipient sur ses mains, et les lava trois fois. Ensuite, il introduisit sa main droite dans le récipient d'eau, se rinça la bouche et le nez et la recracha. Puis, il lava son visage trois fois, ainsi que ses bras jusqu’aux coudes, trois fois [également]. Ensuite, il essuya sa tête et lava ses pieds trois fois. Il a alors dit : « J’ai vu le Prophète ﷺ faire ses ablutions de la même manière que je viens de le faire et dire [ensuite] : «  Quiconque accomplit ses ablutions comme je viens de le faire, puis prie deux unités de prière, sans être distrait [durant celles-ci], alors Allah lui pardonne tous ses péchés précédents . »",
+   "title": "Quiconque accomplit ses ablutions comme je viens de le faire, puis prie deux unités de prière, sans être distrait [durant celles-ci], alors Allah lui pardonne tous ses péchés précédents",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3313",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:467a85812c34d08d87dab40a816f7759f172b8db09c363e0f8cc443b59b77b94",
+   "explanation": "Uṡmān -raḍiyallāhu 'anhu- mengajarkan tata cara wudu Nabi ﷺ dengan cara praktik langsung agar lebih jelas. Ia lantas meminta air di bejana, lalu menuangkan air itu di kedua tangannya sebanyak tiga kali. Setelah itu, ia memasukkan tangan kanannya di bejana untuk mengambil air lalu berkumur-kumur dengannya dan mengeluarkannya. Kemudian ia menghirup air dengan napasnya ke bagian dalam hidung kemudian menyemburkannya keluar. Selanjutnya, ia membasuh mukanya sebanyak tiga kali, kemudian membasuh kedua tangan bersama sikunya sebanyak tiga kali, kemudian mengusapkan tangannya di atas kepala setelah dibasahi air sebanyak satu kali, kemudian membasuh kedua kaki bersama dua mata kakinya sebanyak tiga kali.\r\n\r\nSetelah selesai, Uṡmān -raḍiyallāhu 'anhu- mengabari mereka bahwa dia pernah melihat Nabi ﷺ berwudu seperti wudu itu dan beliau ﷺ memberi mereka kabar gembira bahwa siapa yang berwudu seperti wudunya lalu salat dua rakaat dengan khusyuk dan menghadirkan hati di hadapan Allah ﷻ, maka Allah akan memberinya ganjaran atas wudu yang sempurna itu serta salat yang khusyuk dengan pengampunan terhadap dosa-dosanya yang telah lalu.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Anjuran mencuci kedua tangan sebelum dimasukkan ke dalam wadah air di awal wudu sekalipun bukan saat bangun tidur. Apabila dia baru bangun tidur malam, maka diwajibkan untuk mencucinya.\r",
+    "2- Seorang pengajar harus menempuh cara termudah untuk memberikan pemahaman dan kekuatan ilmu pada pelajar, di antaranya pengajaran dengan praktik.\r",
+    "3- Orang yang salat harus menolak pikiran yang berkaitan dengan kesibukan dunia, karena kesempurnaan salat terletak pada kehadiran hati. Jika tidak seperti itu, pikiran itu tidak mungkin bebas darinya. Karena itu, ia wajib berusaha khusyuk dan tidak ikut larut di dalam pikiran keduniaan.\r",
+    "4- Anjuran memulai wudu dengan anggota bagian kanan.\r",
+    "5- Perintah mengurutkan antara kumur-kumur dan menghirup air ke dalam hidung dan mengeluarkannya.\r",
+    "6- Anjuran membasuh muka, kedua tangan dan kedua kaki tiga kali, tetapi yang wajib hanya sekali.\r",
+    "7- Ampunan dari Allah terhadap semua dosa yang telah lalu didapatkan dari kumpulan dua hal: wudu dan salat dua rakaat sebagaiman tata cara yang disebutkan dalam hadis.\r",
+    "8- Setiap anggota wudu memiliki batasan. Batasan muka ialah dari tempat tumbuh rambut kepala yang biasa hingga turunan jenggot dan dagu secara vertikal, dan dari telinga ke telinga secara horizontal. Batasan tangan ialah dari ujung jari-jari hingga siku, yaitu persendian antara lengan bawah dan lengan atas. Batasan kepala ialah dari tempat tumbuh rambut yang biasa dari sisi muka hingga bagian atas tengkuk dan usapan telinga bagian dari kepala. Batasan kaki ialah dari telapak kaki seluruhnya hingga persendian antara telapak kaki dengan betis."
+   ],
+   "mapping": "same HadeethEnc record id 3313; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:45+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3313",
+   "text": "Ḥumrān, mantan budak Uṡmān bin 'Affān, meriwayatkan bahwa dia pernah melihat Uṡmān meminta air untuk wudu. Lantas ia menuangkan air dari wadahnya ke kedua tangannya lalu membasuhnya tiga kali, lalu memasukkan tangan kanannya ke air wudu kemudian berkumur-kumur, memasukkan air ke hidung dan mengeluarkannya. Setelah itu, ia membasuh wajahnya tiga kali dan kedua tangannya sampai siku tiga kali. Lalu ia mengusap kepalanya, kemudian membasuh masing-masing kaki tiga kali. Setelah itu, ia berkata, \"Aku melihat Nabi ﷺ berwudu seperti wuduku ini, dan beliau bersabda, 'Siapa yang berwudu seperti wuduku ini lalu menunaikan salat dua rakaat tanpa memikirkan hal-hal keduniaan dalam dirinya pada kedua rakaat itu, maka akan diampuni dosanya yang telah lalu.'\"",
+   "title": "Siapa yang berwudu seperti wuduku ini lalu menunaikan salat dua rakaat tanpa memikirkan hal-hal keduniaan dalam dirinya pada kedua rakaat itu, maka akan diampuni dosanya yang telah lalu",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3313",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:82b4b8f45f78673bd204bec9b6dc1c00f1c7bc93b5e97863f52754beaf97e8fa",
+   "explanation": "عثمان بن عفان رضی اللہ عنہ نے عملی طور پر اللہ کے رسول صلی اللہ علیہ کے وضو کا طریقہ سکھایا، تاکہ بہتر طور پر سمجھا جا سکے۔ چنانچہ انھوں نے ایک برتن میں پانی منگوایا، پھر پانی کو دونوں ہاتھوں پر تین بار انڈیلا، بعد ازاں اپنا دایاں ہاتھ برتن میں ڈالا، پانی لے کر اپنے منہ میں ڈالا، اندر گھمایا اور باہر نکال دیا، پھر سانس کے ساتھ ناک کے اندر پانی کھینچا، پھر اسے نکال کر ناک جھاڑا، پھر اپنے چہرے کو تین بار دھویا، پھر اپنے ہاتھوں کو کہنیوں سمیت تین بار دھویا، پھر پانی سے بھیگے ہوئے ہاتھوں کو ایک بار سر پر پھیرا، پھر اپنے پیروں کو ٹخنوں سمیت تین بار دھویا۔\r\n\r\nجب وضو سے فارغ ہو گئے تو بتایا کہ انھوں نے دیکھا کہ اللہ کے نبی صلی اللہ علیہ و سلم نے اسی طرح وضو کیا اور اس کے بعد یہ خوش خبری دی کہ جس نے آپ کے وضو کی طرح وضو کیا اور خشوع و خضوع اور دلجمعی کے ساتھ اپنے رب کے سامنے حاضر ہوکر دو رکعت نماز پڑھی، تو اس کے اس کامل وضو اور اس خالص نماز کے بدلے میں اللہ اس کے پچھلے گناہ معاف کر دے گا۔",
+   "grade": "صحيح",
+   "hints": [
+    "وضو شروع کرتے وقت دونوں ہاتھوں کو برتن میں ڈالنے سے پہلے دھونا مستحب ہے، اگرچہ نیند سے نہ بھی اٹھاہو۔ اس کے برخلاف اگر رات کی نیند سے بیدار ہوا ہو، تو دونوں ہاتھوں کو دھونا واجب ہے۔\r",
+    "معلم کو ایسا طریقہ اپنانا چاہیے کہ بات آسانی سے سمجھ میں آ جائے اور سیکھنے والے کے دل میں بیٹھ جائے۔ اس کا ایک طریقہ یہ ہے تعلیم عملی طور پر دی جائے۔\r",
+    "مصلی کو دنیوی مصروفیتوں سے متعلق سبھی خیالات کو دور رکھ کر نماز پڑھنی چاہیے۔ کیوں کہ نماز مکمل اسی وقت ہوتی ہے، جب دل و دماغ کو حاضر رکھ کر پڑھی جائے۔ ورنہ دل میں آنے والے خیالات سے بچنا مشکل ہے۔ انسان کو خیالات کی رو میں بہنے کی بجائے اس سلسلے میں اپنے نفس سے لڑنا چاہیے۔\r",
+    "وضو دائیں طرف سے کرنا سنت ہے۔\r",
+    "کلی کرنے، ناک میں پانی چڑھانے اور ناک جھاڑنے کے درمیان ترتیب کا خیال رکھنا مشروع ہے۔\r",
+    "چہرے، ہاتھوں اور پیروں کو تین تین بار دھونا مستحب اور ایک بار دھونا واجب ہے۔\r",
+    "اللہ کی جانب سے پچھلے گناہ اس وقت معاف کیے جاتے ہیں، جب دو کام ایک ساتھ ہوں؛ حدیث میں بیان کیے گئے طریقے کے مطابق وضو کیا جائے اور دو رکعت نماز پڑھی جائے۔\r",
+    "وضو کے وقت دھوئے جانے والے ہر عضو کی حدود متعین ہیں۔ چنانچہ چہرے کی حد لمبائی میں سر کے بال اگنے کی قدرتی جگہ سے ٹھڈی اور داڑھی کے بالوں تک اور چوڑائی میں ایک کان سے دوسرے کان تک ہے۔ ہاتھ کی حد انگلیوں کے کناروں سے کہنی تک ہے۔ کہنی سے مراد بازو اور ہاتھ کے بیچ کا جوڑ ہے۔ سر کی حد سر کے بال اگنے کی قدرتی جگہوں سے گردن کے اوپری حصے تک ہے۔ کانوں کا مسح سر ہی میں داخل ہے۔ جب کہ پاؤں کی حد پورا قدم نیز قدم اور پنڈلی کے بیچ کے جوڑ کے ساتھ ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 3313; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:44+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3313",
+   "text": "عثمان بن عفان کے غلام حمران سے روایت ہے کہ انھوں نے دیکھا کہ عثمان بن عفان رضی اللہ عنہ نے وضو کا پانی منگوایا، برتن کا پانی دونوں ہاتھوں پر تین بار انڈیلا، ان کو تین بار دھویا، پھر وضو کے پانی میں دائیں ہاتھ کو داخل کیا، پھر کلی کی، ناک میں پانی چڑھایا اور ناک جھاڑا، پھر چہرے کو تین بار اور دونوں ہاتھوں کو تین بار کہنیوں سمیت دھویا، پھر سر کا مسح کیا، پھر ہر ایک پیر کو تین تین بار دھویا اور اس کے بعد فرمایا: میں نے دیکھا کہ اللہ کے نبی صلی اللہ علیہ و سلم نے میرے اس وضو کی طرح وضو کیا اور اس کے بعد فرمایا: \"جس نے میرے اس وضو کی طرح وضو کیا اور پھر دو رکعت نماز پڑھی، جس میں اس نے اپنے جی میں کوئی بات نہ کی، اللہ تعالی اس کے گزشتہ سب گناہ معاف کر دیتا ہے۔“",
+   "title": "جس نے میرے اس وضو کی طرح وضو کیا اور پھر دو رکعت نماز پڑھی، جس میں اس نے اپنے جی میں کوئی بات نہ کی، اللہ تعالی اس کے گزشتہ سب گناہ معاف کر دیتا ہے",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3313",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:20925ee3e9f11fc1890c7a8fa69ec5b1a1b54022ea61b1cecd7e9d131706f2f3",
+   "explanation": "欧斯曼（愿主喜悦之）通过实际操作，给人们教导了洗小净的方式，以便人们理解的更加透彻。他首先要了一器皿水，然后浇在手上三次，此后将右手伸进器皿取水，然后漱口和吸水呛鼻，然后洗脸三次，然后洗手至肘三次，然后用带水的手摸头一次，然后洗双脚至脚踝骨三次。\r\n\r\n当他洗完小净以后，他告诉人们，他曾见使者（愿主福安之）就这样洗小净。使者（愿主福安之）还给他们报喜说，谁像他一样做了小净，然后礼两拜，并在礼拜时做到了虔诚和恭顺，那么安拉对他完美的小净、恭顺的拜功的奖励是，饶恕他之前的罪行。",
+   "grade": "正确的",
+   "hints": [
+    "开始洗小净时，在将手伸进器皿前，先洗手三次为可嘉，这是在不是睡觉起来的情况下，如果是夜间睡醒后洗小净，则必须先洗双手。\r",
+    "作为老师，必须要采取一条能使学生快速理解和掌握知识的途径，其中就有实践教学。\r",
+    "礼拜者务必要静心，摒弃一切世俗之事，完美的拜功在于用心崇拜安拉。胡思乱想、自言自语有损于拜功，礼拜者必须克制自己，不要放任思绪。\r",
+    "洗小净时从右边开始可嘉。\r",
+    "漱口、吸水呛鼻必须要依次序进行。\r",
+    "洗脸、手和脚三次为可嘉，一次是主命。\r",
+    "安拉饶恕之前的罪行，基于同时具备两件事情：按照圣训所描述的式样，洗小净和礼两拜。\r",
+    "洗小净的每个部位都有明确的界线，脸的界线是：长：习惯上的发根开始，一直到胡须下颚处；宽：从一个耳朵到另一个耳朵。手的界线是：从手指头开始，一直到双肘，肘即小胳膊和大胳膊之间的关节；头的界线是：从脸部四面的发根开始，一直到脖颈的最高处，摸耳朵属于头的部分。脚的界线是：前脚趾开始直至脚踝骨，即脚与小腿之间的关节处。"
+   ],
+   "mapping": "same HadeethEnc record id 3313; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:44+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3313",
+   "text": "据胡姆拉奈·毛拉·欧斯曼·本·安法尼传述，他看见欧斯曼·本·安法尼要来了小净水，然后将水倒在手上，洗手三次，然后右手伸进水中，然后漱口、吸水呛鼻，然后洗脸三次，洗双手至双肘三次，然后摸头，然后每只脚洗三次，然后他说：我见使者（愿主福安之）就这样做了小净，并说：“谁像我一样做了小净，然后做了两拜，并在礼拜时没有自言自语，那么安拉已饶恕他之前的罪行。”",
+   "title": "谁像我一样做了小净，然后做了两拜，并在礼拜时没有自言自语，那么安拉已饶恕他之前的罪行。",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [
+  {
+   "meaning": " عتيقه، فحمران كان مملوكًا لعثمان رضي الله عنه فأعتقه عثمان.",
+   "word": "مولى عثمان"
+  },
+  {
+   "meaning": " الماء الذي يتوضأ به. وأصل الوضوء من الوضاءة، وهي الحسن والنظافة فسمي وضوء الصلاة وضوءًا؛ لأنه يُنَظِّف صاحبه.",
+   "word": "وَضُوء"
+  },
+  {
+   "meaning": " غفر الله له، والمغفرة ستر الذنب والتجاوز عنه.",
+   "word": "غفر له"
+  }
+ ],
+ "words_meanings_language": "ar"
+}

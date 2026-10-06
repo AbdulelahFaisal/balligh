@@ -1,0 +1,197 @@
+{
+ "attribution": "متفق عليه",
+ "content_sha256": "sha256:e2a2d79526941848d59186b29e613fdb4cf5de0f26d7d1e27881c8defcf418e4",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "صلى النبي صلى الله عليه وسلم صلاة الصبح بالحديبية -وهي قرية قريبة من مكةـ بعد مطر نزل في تلك الليلة، \nفلما سلم وانتهى من صلاته أقبل على الناس بوجهه، فسألهم: هل تدرون ماذا قال ربكم عز وجل؟ \nفأجابوه: الله ورسوله أعلم، \nفقال: إن الله تعالى بَيًّن أن الناس ينقسمون عند نزول المطر إلى قسمين: قسم مؤمن بالله تعالى، وقسم كافر بالله تعالى؛ \nفأما من قال: مطرنا بفضل الله ورحمته، ونَسَب إنزال المطر إلى الله تعالى؛ فذلك مؤمن بالله الخالق المتصرف في الكون، وكافر بالكوكب. \nوأما من قال: مطرنا بنجم كذا وكذا؛ فذلك كافر بالله، مؤمن بالكوكب، وهو كفر أصغر حيث نسب إنزال المطر إلى الكوكب؛ والله لم يجعله سببًا شرعيًا ولا قدريًّا، \nوأما من نسب نزول المطر وغيره من الحوادث الأرضية إلى تحرُّكات الكواكب في طلوعها وسقوطها معتقدًا أنها الفاعل الحقيقي، فهو كافر كفرًا أكبر.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "استحباب القول بعد نزول المطر: مُطرنا بفضل الله ورحمته.",
+  "من نسب نعمة إنزال المطر وغيرها إلى الكوكب خَلْقًا وإيجادًا فهو كافرٌ كفرًا أكبر، وإن نسبه على أنه سببٌ فهو كافرٌ كفرًا أصغر لأنه ليس بسبب شرعي ولا حسي.",
+  "أن النعمة تكون سببًا للكفر إذا كُفِرت، وتكون سببًا للإيمان إذا شُكرت.",
+  "النهي عن قول: \"مطرنا بنوء كذا\"، ولو قُصِد بها الوقت؛ سدًّا لذريعة الشرك.",
+  "وجوب تعلُّق القلب بالله تعالى في جَلْب النعم ودفع النقم.",
+  "هذا الحديث مما يرويه النبي صلى الله عليه وسلم عن ربه، ويسمى بالحديث القدسي أو الإلهي، وهو الذي لفظه ومعناه من الله، غير أنه ليست فيه خصائص القرآن التي امتاز بها عما سواه ، من التعبد بتلاوته والطهارة له والتحدي والإعجاز وغير ذلك."
+ ],
+ "id": "hadeethenc-65010",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (1/ 169) (846)، صحيح مسلم (1/ 83) (71)، البحر المحيط الثجاج في شرح صحيح الإمام مسلم بن الحجاج (2/ 484)، المفهم لما أشكل من تلخيص كتاب مسلم (1/ 260).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=65010",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:29+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/65010"
+ },
+ "source_categories": [
+  {
+   "id": "72",
+   "label": "توحيد الربوبية"
+  },
+  {
+   "id": "89",
+   "label": "نواقض الإسلام"
+  },
+  {
+   "id": "94",
+   "label": "شعب الإيمان"
+  },
+  {
+   "id": "96",
+   "label": "الكفر"
+  }
+ ],
+ "source_record_id": "65010",
+ "text": "عَنْ زَيْدِ بْنِ خَالِدٍ الجُهَنِيِّ رضي الله عنه أَنَّهُ قَالَ: صَلَّى لَنَا رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ صَلَاةَ الصُّبْحِ بِالْحُدَيْبِيَةِ عَلَى إِثْرِ سَمَاءٍ كَانَتْ مِنَ اللَّيْلَةِ، فَلَمَّا انْصَرَفَ أَقْبَلَ عَلَى النَّاسِ، فَقَالَ: «هَلْ تَدْرُونَ مَاذَا قَالَ رَبُّكُمْ؟» قَالُوا: اللهُ وَرَسُولُهُ أَعْلَمُ، قَالَ: «أَصْبَحَ مِنْ عِبَادِي مُؤْمِنٌ بِي وَكَافِرٌ، فَأَمَّا مَنْ قَالَ: مُطِرْنَا بِفَضْلِ اللهِ وَرَحْمَتِهِ، فَذَلِكَ مُؤْمِنٌ بِي وَكَافِرٌ بِالْكَوْكَبِ، وَأَمَّا مَنْ قَالَ: بِنَوْءِ كَذَا وَكَذَا، فَذَلِكَ كَافِرٌ بِي وَمُؤْمِنٌ بِالْكَوْكَبِ».",
+ "title": "هل تدرون ماذا قال ربكم؟ قالوا: الله ورسوله أعلم، قال: أصبح من عبادي مؤمن بي وكافر",
+ "topic": "understanding_islam",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=65010",
+   "arabic_match": "exact",
+   "attribution": "সহীহ বুখারী ও মুসলিম",
+   "content_sha256": "sha256:2bda793bbe6c09c1e0bcb22e561e19c6b0b6540fa91e730ede731c6a8d25b661",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম হুদাইবিয়া -মক্কার নিকটবর্তী একটি গ্রাম-এ ফজর সালাত আদায় করলেন। আর তা ছিল আগের রাতে বৃষ্টি হওয়ার পর। যখন তিনি সালাম ফিরালেন এবং সালাত শেষ করলেন, তখন তিনি তার চেহারা মানুষের ‍দিকে ফিরালেন। এরপরে তাদেরকে জিজ্ঞাসা করলেন: তোমাদের মহান প্রতাপশালী রব কী বলেছেন, তা কি তোমরা জান? তখন তারা জবাব দিলেন: আল্লাহ এবং তাঁর রাসূলই সবচেয়ে ভালো জানেন। তখন তিনি বললেন: নিশ্চয় আল্লাহ তা‘আলা বর্ণনা করে দিয়েছেন যে, বৃষ্টি হলে মানুষ দু’ভাগে ভাগ হয়ে পড়ে: একটি দল আল্লাহর উপরে বিশ্বাসী আর অপর দল আল্লাহ তা‘আলার ব্যাপারে অবিশ্বাসী। সুতরাং যে ব্যক্তি বলবে: আমরা আল্লাহর রহমত ও অনুগ্রহে বৃষ্টিপ্রাপ্ত হয়েছি, আর বৃষ্টি হওয়ার বিষয়টি আল্লাহ তা‘আলার দিকেই সম্পৃক্ত করবে; সে ব্যক্তি \nমহান সৃষ্টিকর্তা আল্লাহর ব্যাপারে বিশ্বাস স্থাপনকারী (মুমিন) এবং নক্ষত্রের (প্রভাবের) ব্যাপারে অস্বীকারকারী। পক্ষান্তরে যে বলবে: আমরা অমুক অমুক তারকা বা গ্রহের কারণে বৃষ্টিপ্রাপ্ত হয়েছি; সে ব্যক্তি আল্লাহকে অস্বীকারকারী এবং নক্ষত্রের উপরে বিশ্বাস স্থাপনকারী। কেননা আল্লাহ নক্ষত্রকে শরী‘আতের দিক থেকে অথবা তাকদীরের দিক থেকে কোন রকম কারণ হিসেবে নির্ধারণ করেননি। অন্যদিকে যে ব্যক্তি বৃষ্টি ও অন্যান্য প্রকৃতির ঘটনাগুলোকে গ্রহ-নক্ষত্রের উদয় ও অস্ত:জনিত গতিবিধির সাথে সম্পৃক্ত করে, এ বিশ্বাসে যে, সেগুলোই প্রকৃত কর্তা, তাহলে সে বড় ধরণের কাফির।",
+   "grade": "সহীহ",
+   "hints": [
+    "বৃষ্টি হওয়ার পরে এ কথা বলা মুস্তাহাব: “আমরা আল্লাহর রহমত ও অনুগ্রহে বৃষ্টিপ্রাপ্ত হয়েছি।”\r",
+    "যারা বৃষ্টিপাত ও অন্যান্য নি‘আমাতকে সৃষ্টিগতভাবে গ্রহ-নক্ষত্রের দিকে সম্পৃক্ত করে, তারা বড় ধরনের কুফরে জড়িত কাফির। আর যদি সেগুলোকে কারণ মনে করে সম্পৃক্ত করে, তাহলে সে ছোট কুফরে জড়িত ব্যক্তি; কেননা সেটি শর‘য়ী অথবা বস্তুগত কোন কারণ নয়।\r",
+    "নি‘আমাত কুফরের কারণ, যদি তার কৃতজ্ঞতা প্রকাশ করা হয়। আবার তা ঈমানের কারণ, যদি তার শুকরিয়া আদায় করা হয়।\r",
+    "এ কথা বলা নিষিদ্ধ: “অমুক অমুক গ্রহের কারণে আমরা বৃষ্টিপ্রাপ্ত হয়েছি।” যদিও সে তা সময়কে উদ্দেশ্য করে বলে, তবৃুও শিরকের পথ উন্মুক্ত হওয়ার আশঙ্কায় তা বর্জনীয়।\r",
+    "নি‘আমাত প্রাপ্ত হওয়া ও দুঃখ-কষ্টে পতিত হওয়ার সময়ে অন্তরকে আল্লাহ তা‘আলার সাথে সংযুক্ত রাখা আবশ্যক।"
+   ],
+   "mapping": "same HadeethEnc record id 65010; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:06+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/65010",
+   "text": "যাইদ ইবনু খালিদ আল-জুহানী রদিয়াল্লাহু ‘আনহু হতে বর্ণিত, তিনি বলেছেন: রাতভর আসমান থেকে বৃষ্টি হওয়ার পরে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের নিয়ে হুদাইবিয়াতে ফজরের সালাত আদায় করলেন। সালাত শেষে তিনি লোকদের দিকে ফিরে বললেন: “তোমরা কি জান যে, তোমাদের রব কী বলেছেন?” তারা বললেন: আল্লাহ এবং তাঁর রাসূলই ভালো জানেন। তখন তিনি বললেন: “আজকে আমার বান্দারা কেউ মুমিন আবার কেউ কাফির  হয়ে সকাল করেছে। যে বলেছে: আল্লাহর রহমত ও অনুগ্রহে আমরা বৃষ্টিপ্রাপ্ত হয়েছি, সে আমার উপরে বিশ্বাস স্থাপনকারী (মুমিন) এবং নক্ষত্রের (প্রভাবের) ব্যাপারে অস্বীকারকারী। আর যে বলেছে: অমুক অমুক তারকার কারণে বৃষ্টি হয়েছে, সে ব্যক্তি আমাকে অস্বীকারকারী (কাফির) এবং নক্ষত্রের উপরে ঈমান আনায়নকারী।”",
+   "title": "তোমরা কি জান যে, তোমাদের রব কী বলেছেন?” তারা বললেন: আল্লাহ এবং তাঁর রাসূলই ভালো জানেন। তখন তিনি বললেন: “আজকে আমার বান্দারা কেউ মুমিন আবার কেউ কাফির  হয়ে সকাল করেছে।",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=65010",
+   "arabic_match": "exact",
+   "attribution": "Agreed upon",
+   "content_sha256": "sha256:a7adb749ae71c0eadda839b9df48ca7c78d72b418f68f83106f6b4fa6e15fae6",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) offered the Fajr prayer in Al-Hudaybiyah, a village close to Makkah, after  rainfall at night. After he made taslīm and finished the prayer, he turned towards the people and asked them: Do you know what your Almighty Lord has said? They replied: Allah and His Messenger know best. He said: Allah Almighty clarified that people fall under two categories upon rainfall: believers in Allah Almighty and disbelievers in Him. Those who say, \"We have had rainfall out of Allah's bounty and mercy,\" ascribing the rainfall to Allah, are believers in Allah, the Creator, and the Disposer of the affairs of the universe, and they disbelieve in the stars. And those who say, \"We have had rainfall due to such and such star,\" are disbelievers in Allah and believers in the stars. But this is minor disbelief, as they attribute rainfall to a star, while Allah did not make it a cause of rainfall, neither in terms of the Shariah nor in terms of destiny. But as for those who ascribe rainfall and other earthly occurrences to the rise and decline of the stars, believing that they are the actual doer, they have fallen into major disbelief.",
+   "grade": "Authentic",
+   "hints": [
+    "It is recommended to say after rainfall: We have had rainfall out of the grace and mercy of Allah.\r",
+    "Those who attribute the blessing of rainfall and other things to the stars, believing that they create and bring them into existence, fall into major disbelief. But as for those who attribute rainfall to the stars in believing that they are a mere cause, they fall into minor disbelief, because the stars are not a Shar‘i or material cause for rainfall.\r",
+    "A blessing can be a cause of disbelief if it is denied or a cause of belief if recognized.\r",
+    "We are forbidden from saying \"We have had rainfall due to such and such star,\" even if it refers to time, to block the means to polytheism.\r",
+    "Our hearts should be attached to Allah Almighty regarding bringing blessings and warding off afflictions."
+   ],
+   "mapping": "same HadeethEnc record id 65010; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:05+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/65010",
+   "text": "Zayd ibn Khālid al-Juhani (may Allah be pleased with him) reported: The Messenger of Allah (may Allah’s peace and blessings be upon him) led us in the Fajr prayer at Al-Hudaybiyah after rainfall during the night. At the conclusion of the prayer, he turned toward the people and said: \"Do you know what your Lord has said?\" They replied: \"Allah and His Messenger know best.\" He said: \"He has said: 'Some of My servants have entered the morning as believers in Me and some as disbelievers. He who says, 'We have had rainfall by the grace and mercy of Allah' believes in Me and disbelieves in the stars, and he who says, 'We have had rainfall by the rising of such and such star' disbelieves in Me and believes in the stars.'\"",
+   "title": "Do you know what your Lord has said?\" They replied: \"Allah and His Messenger know best.\" He said: \"He has said: 'Some of My servants have entered the morning as believers in Me and some as disbelievers",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=65010",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî et Muslim",
+   "content_sha256": "sha256:7ac388b6f2c3a1179892f692e726c0f917f73bfd0c2304cc324474321618ecd5",
+   "explanation": "Le Prophète (qu’Allah le couvre d’éloges et le préserve) a effectué la prière de l'aube à Al-Houdaybiyyah - qui est un village près de La Mecque - après que la pluie soit tombée cette nuit-là. Lorsqu'il a salué et a terminé sa prière, il s'est tourné vers les gens et leur a demandé : \"Savez vous ce qu'a dit votre Seigneur, à Lui la Puissance et la Grandeur ?\" Ils ont répondu : \"Allah et Son Messager savent mieux !\" Il a alors dit : \"Allah, Exalté soit-Il, a expliqué que les gens, au moment de la tombée de la pluie, se divisent en deux catégories : une partie qui croit en Allah, Exalté soit-Il, et une partie qui mécroit en Allah, Exalté soit-Il ; Quiconque a dit : \"Nous avons reçu la pluie par la grâce d'Allah et Sa miséricorde !\" attribuant ainsi la descente de la pluie à Allah, Exalté soit-Il, a alors cru en Allah, le Créateur, Celui qui agence l'Univers, et il a mécru aux astres. Quant à celui qui a dit : \"Nous avons reçu la pluie par la cause de telle ou telle étoile !\" il a mécru en Allah et a cru aux astres. C'est de la mécréance mineure étant donné qu'il a attribué la descente de la pluie aux astres, alors qu'Allah n'en a pas fait une cause légitime ou prédéterminée. Et quiconque attribue la descente de la pluie, ou d'autres choses parmi les évènements terrestres, aux mouvements des astres qui se lèvent ou se couchent, tout en croyant que c'est là le véritable agenceur, mécroit alors d'une mécréance majeure.",
+   "grade": "Authentique",
+   "hints": [
+    "La recommandation de dire après que la pluie soit tombée : \"Nous avons reçu la pluie par grâce d'Allah et Sa miséricorde !\"\r",
+    "Quiconque attribue le bienfait de la descente de la pluie et/ou autre que cela aux astres, dans le sens où c'est eux qui créent et provoquent  les choses, a mécru d'une mécréance majeure ; et si elle l'a attribuée en tant que [simple] cause, elle a mécru d'une mécréance mineure car ce n'est ni une cause religieuse, ni une cause tangible.\r",
+    "Le bienfait peut être une cause de mécréance, dès lors où il est renié, tout comme il peut être une cause de foi, dès lors où l'on remercie le concernant.\r",
+    "L'interdiction de la parole : \"Il a plu grâce à tel astre !\" - même si la personne disant cela n'avait d'autre intention qu'évoquer le temps - par précaution et afin d'empêcher tout prétexte au polythéisme.\r",
+    "L'obligation d'attacher le cœur à Allah, Exalté soit-Il, concernant l'apport des bienfaits et le repoussement des méfaits."
+   ],
+   "mapping": "same HadeethEnc record id 65010; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:06+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/65010",
+   "text": "Zayd ibn Khâlid Al-Jouhanî (qu'Allah l'agrée) relate : « Le Messager d'Allah (qu’Allah le couvre d’éloges et le préserve) nous a dirigés dans la prière de l'aube à Al-Houdaybiyah après une nuit pluvieuse. À la fin de la prière, il s'est tourné vers les gens et a dit : \"Savez vous ce qu'a dit votre Seigneur ? - Ils ont répondu : Allah et Son Messager savent mieux ! - Il dit alors : Allah a dit : 'Certains de Mes serviteurs sont arrivés au matin croyants en Moi, tandis que d'autres sont devenus mécréants !' Quiconque a dit : 'Nous avons reçu la pluie par la Grâce d'Allah et Sa miséricorde !' a cru en Moi et a mécru aux astres ; et quiconque a dit : 'Nous avons reçu la pluie par la cause de telle et telle étoile !' a mécru en Moi et a cru aux astres !\" »",
+   "title": "Savez vous ce qu'a dit votre Seigneur ? - Ils ont répondu : Allah et Son Messager savent mieux ! - Il dit alors : Allah a dit : 'Certains de Mes serviteurs sont arrivés au matin croyants en Moi, tandis que d'autres sont devenus mécréants !'",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=65010",
+   "arabic_match": "exact",
+   "attribution": "Muttafaq 'alaih",
+   "content_sha256": "sha256:5a70da3f08bed946db428fdbb558f16ea337283c5ec04df6e064b14e347911e5",
+   "explanation": "Nabi ﷺ mengerjakan salat Subuh di Hudaibiah -yaitu sebuah perkampungan dekat dari Makkah- setelah hujan turun di malam harinya. Setelah salam serta selesai dari salatnya, beliau menghadap kepada para sahabat seraya bertanya: Apakah kalian mengetahui apa yang difirmankan oleh Tuhan kalian ﷻ? Mereka menjawab: Allah dan Rasul-Nya yang lebih mengetahui. Beliau bersabda: Allah Ta'ala menjelaskan bahwa manusia, ketika hujan turun akan terbagi menjadi dua kelompok: kelompok yang beriman kepada Allah Ta'ala dan kelompok lainnya kafir kepada Allah Ta'ala. Siapa yang mengatakan: Kita diberikan hujan dengan karunia dan rahmat Allah, yaitu dia menyandarkan sebab turunnya hujan kepada Allah Ta'ala, maka orang tersebut beriman kepada Allah Yang Maha Pencipta Maha Mengatur alam semesta; dan kafir kepada bintang. Adapun yang mengatakan: Kita diberikan hujan dengan sebab bintang ini dan itu, maka orang tersebut kafir kepada Allah; dan beriman kepada bintang, yaitu kufur kecil karena dia menyandarkan sebab turunnya hujan kepada bintang, padahal Allah tidak pernah menjadikannya sebagai sebab berdasarkan syariat maupun ketetapan kadar. Adapun orang yang menyandarkan sebab turunnya hujan dan peristiwa-peristiwa bumi lainnya kepada pergerakan bintang ketika terbit dan tenggelam dengan meyakininya sebagai pelaku sebenarnya, maka dia telah jatuh dalam kekafiran besar.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Anjuran mengucapkan setelah turun hujan: \"muṭirnā bi faḍlillāh wa raḥmatih (Kita diberikan hujan dengan karunia dan rahmat Allah).\"\r",
+    "2- Siapa yang menyandarkan karunia penurunan hujan dan lainnya kepada bintang sebagai sesuatu yang menciptakan serta yang mengadakan, maka dia telah jatuh dalam kekafiran besar. Akan tetapi jika dia menyandarkannya sebagai sebab, maka dia telah jatuh dalam kekafiran kecil karena bukan merupakan sebab secara syariat maupun indra.\r",
+    "3- Karunia akan menjadi sebab kekufuran jika diingkari, dan menjadi sebab keimanan jika disyukuri.\r",
+    "4- Larangan mengucapkan \"muṭirnā bi nau`i każā (kita diberikan hujan karena bintang ini)\" walaupun maksudnya adalah waktu. Ini dilakukan untuk menutup celah kesyirikan.\r",
+    "5- Kewajiban menggantungkan hati kepada Allah Ta'ala dalam meraih kenikmatan dan menolak keburukan."
+   ],
+   "mapping": "same HadeethEnc record id 65010; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:06+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/65010",
+   "text": "Zaid bin Khālid Al-Juhaniy -raḍiyallāhu 'anhu- meriwayatkan, ia berkata, Rasulullah ﷺ mengimami kami dalam salat Subuh di Hudaibiah setelah turun hujan di malam harinya. Setelah salam beliau menghadap kepada jemaah seraya bertanya, \"Tahukah kalian apa yang difirmankan oleh Tuhan kalian?\" Mereka menjawab, \"Allah dan Rasul-Nya yang lebih mengetahui.\" Beliau bersabda, \"Dia berfirman, 'Sebagian hamba-Ku memasuki waktu pagi dalam keadaan beriman kepada-Ku dan ada yang kafir. Adapun yang mengatakan, 'Kami diberikan hujan dengan karunia dan rahmat Allah', maka orang tersebut beriman kepada-Ku dan kafir kepada bintang. Adapun yang mengatakan, 'Kami diberikan hujan oleh bintang ini dan itu' maka orang tersebut kafir kepada-Ku dan beriman kepada bintang'.\"",
+   "title": "Tahukah kalian apa yang difirmankan oleh Tuhan kalian?\" Mereka menjawab, \"Allah dan Rasul-Nya yang lebih mengetahui.\" Beliau bersabda, \"Dia berfirman, 'Sebagian hamba-Ku memasuki waktu pagi dalam keadaan beriman kepada-Ku dan ada yang kafir",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=65010",
+   "arabic_match": "exact",
+   "attribution": "متفق عليه",
+   "content_sha256": "sha256:094e958d77a8b8498a1e3d1b3300444e8158f51d5d66c0827cc8d2213309fbcd",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ وسلم نے حدیبیہ میں، جو کہ مکہ سے قریب ایک گاؤں ہے، صبح کی نماز پڑھائی۔ اس دن رات میں بارش ہوئی تھی۔ جب سلام پھیر چکے اور نماز سے فارغ ہو گئے، تو لوگوں کی طرف متوجہ ہوئے اور ان سے دریافت کیا: کیا تم جانتے ہو کہ تمہارے ربنے کیا فرمایا؟ صحابہ نے عرض کیا: اللہ اور اس کے رسول زیادہ بہتر جانتے ہیں۔ آپ نے فرمایا : اللہ تعالی نے یہ بیان فرمایا کہ بارش کے وقت لوگوں کی دو قسمیں ہوتی ہیں: ایک وہ لوگ جو اللہ پر ایمان رکھتے ہیں اور دوسرے وہ لوگ جو اللہ تعالی کے ساتھ کفر کرتے ہیں۔ چنانچہ جو شخص یہ کہتا ہے کہ اللہ کے فضل و رحمت سے ہم پربارش نازل ہوئی اور نزول بارش کو اللہ تعالی کی طرف منسوب کرتا ہے، تو ایسا شخص اللہ پر ایمان لانے والا ہے، جو اللہ اس جہان کا خالق اور کائنات میں تصرف کرنے والا ہے۔ ایسا شخص ستارے کا منکر ہے۔ اس کے برخلاف جو یہ کہتا ہے کہ فلاں اور فلاں ستارے کی وجہ سے ہم پر بارش نازل ہوئی، وہ اللہ کے ساتھ کفر کرنے والا اور ستارے پر ایمان رکھنے والا ہے۔ یاد رہے کہ یہ کفر اصغر ہے۔ کیوں کہ اس نے نزول بارش کو ستارے کی طرف منسوب کیا، جب کہ اللہ نے ستارے کو نہ تو بارش کا شرعی سبب بنایا ہے اور نہ تقدیری سبب۔ البتہ جو شخص نزول بارش اور دیگر زمینی حوادث کو ستاروں کے طلوع ہونے یا ٹوٹ کر گرنے جیسی حرکات کی طرف منسوب کرے اور یہ عقیدہ رکھے کہ وہی حقیقی فاعل ہیں، تو وہ شخص کفر اکبر کا مرتکب ہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "نزول بارش کے بعد یہ کہنا مستحب ہے کہ اللہ کے فضل اور اس کی رحمت سے ہم پر بارش نازل ہوئی۔\r",
+    "جس نے نزول باراں وغیرہ کو ستارے کی طرف اس حیثیت سے منسوب کیا کہ وہی اس کی تخلیق کرتا اور اسے وجود میں لاتا ہے، تو وہ کفر اکبر کا مرتکب ہے۔ لیکن منسوب اس بنیاد پر کرے کہ ستارہ نزول باراں کا سبب ہے، تو وہ کفر اصغر کا مرتکب ہے، کیوں کہ ستارہ نزول باراں کا نہ تو شرعی سبب ہے اور نہ حسی۔\r",
+    "جب نعمت کی ناشکری کی جاتی ہے تو وہ کفر کا سبب بن جاتی ہے اور اگر اس پر اللہ کا شکر ادا کیا جاتا ہے، تو وہ ایمان کا سبب بن جاتی ہے۔\r",
+    "یہ کہنے سے منع کیا گیا ہے کہ \"ہم پر فلاں ستارے کی وجہ سے بارش نازل ہوئی۔\" خواہ اس کا مقصد بارش کا وقت بتانا ہی کیوں نہ ہو۔ یہ ممانعت دراصل شرک کا دروازہ بند کرنے کے لیے ہے۔\r",
+    "نعمتوں سے فیض یاب ہونے اور مصائب ومشکلات سے دور رہنے  کے لیے دل کو اللہ تعالی سے وابستہ رکھنا واجب ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 65010; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:06+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/65010",
+   "text": "زید بن خالد جہنی رضی اللہ عنہ سے مروی ہے، وہ کہتے ہیں: اللہ کے نبی صلی اللہ علیہ وسلم  نے حدیبیہ کے مقام پر ہمیں نماز فجر پڑھائی۔ اس دن رات کو بارش ہوئی تھی۔ نماز سے فارغ ہوئے تو لوگوں کی طرف منہ کر کے فرمایا: ’’تم جانتے ہو کہ تمہارے رب نے کیا فرمایا ہے؟‘‘ صحابہ نے عرض کیا کہ اللہ اور اس کا رسول ہی زیادہ جانتے ہیں۔ آپ نے فرمایا : ’’(اللہ تعالیٰ کا ارشاد گرامی ہے کہ) میرے کچھ بندوں نے مجھ پر ایمان کے ساتھ صبح کی اور کچھ بندوں نے کفر کے ساتھ صبح کی۔ جس نے کہا کہ اللہ کے فضل اور اس کی رحمت سے ہم پر بارش ہوئی وہ تو میرا مؤمن بندہ اور ستارے کا منکر ہے اور جس نے کہا کہ ہم پر فلاں ستارے کی وجہ سے بارش ہوئی وہ میرا منکر اور ستارے پر ایمان لانے والا ہے۔‘‘",
+   "title": "تم جانتے ہو کہ تمہارے رب نے کیا فرمایا ہے؟‘‘ صحابہ نے عرض کیا کہ اللہ اور اس کا رسول ہی زیادہ جانتے ہیں۔ آپ نے فرمایا : ’’(اللہ تعالیٰ کا ارشاد گرامی ہے کہ) میرے کچھ بندوں نے مجھ پر ایمان کے ساتھ صبح کی اور کچھ بندوں نے کفر کے ساتھ صبح کی",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=65010",
+   "arabic_match": "exact",
+   "attribution": "布哈里和穆斯林共同辑录",
+   "content_sha256": "sha256:b5f6890fb503d069afad5b0c6691cd7a002f01cc254b3f34fb55cfb03b4fc4c1",
+   "explanation": "先知（愿主福安之）带领人们在侯德比亚礼了晨礼，这是临近麦加的一个村庄，当时夜晚刚下过雨。 当他拜毕出赛俩目以后，便转身面向人们，然后询问他们：你们可知道你们的养主说了什么吗？ 他们回答道：安拉和他的使者最清楚。 然后使者说：安拉阐明，当降下雨水以后，人们分为了两伙，一伙人信仰安拉，一伙人否认安拉； 至于说：凭借安拉之恩惠和疼慈给我们降下了雨水，他将下雨归属给了安拉，此人信仰安拉是创造万物，并调配宇宙间一切的，他是否认星辰的。 说因某某星辰给我们降下了雨水，此人是否认安拉，而信仰星辰的。这是小以物配主，因为他将下雨归属给了星辰，而安拉并没有在教律层面或宇宙运行规则层面，将其定为下雨的因素。 至于将下雨等地球上所发生的事件归属于星辰之起降，并相信星辰就是实际的操控者，此人便是不信教者，这是大以物配主。",
+   "grade": "正确的",
+   "hints": [
+    "下雨后说：“凭借安拉之恩惠和疼慈给我们降下了雨水”可嘉。\r",
+    "从创造和运行之角度，将下雨等恩惠归属于星辰之人，他是昧徒，是大库夫尔，至于将其归属于星辰，但认为星辰只是下雨之因素之人，他也是否认者，但是是小库夫尔，因为星辰既不是教律之因素，也不是感官之因素。\r",
+    "当恩惠被否认时，它便是昧信之因素，当恩惠被感谢时，它便是信仰之因素。\r",
+    "禁止说：“因某星辰给我们降下雨水”，即使说话者以此指时间也罢，这是堵住导致以物配主的防微杜渐之道路。\r",
+    "在获取恩惠和防止灾难方面，必须心系伟大的安拉。"
+   ],
+   "mapping": "same HadeethEnc record id 65010; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:06+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/65010",
+   "text": "据宰德·本·哈利德·朱海尼（愿主喜悦之）传述说： 安拉的使者（愿主福安之）在侯德比亚带领我们做了晨礼，当时天刚在夜晚下过雨，当使者转身面向人们时，他说：“你们知道你们的养主说了什么吗？”他们说：安拉和他的使者最清楚，他说：“今日清晨起来，有的仆人归信我，有的仆人否认我，至于说：凭借安拉的恩惠和疼慈给我们降下了雨水，此人是归信我，而否认星辰。至于说：由于某某星辰给我们降下了雨水，此人是否认我，而归信星辰。”",
+   "title": "你们知道你们的养主说了什么吗？”他们说：安拉和他的使者最清楚，他说：“今日清晨起来，有的仆人归信我，有的仆人否认我",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

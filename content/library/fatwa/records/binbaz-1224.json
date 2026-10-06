@@ -1,0 +1,58 @@
+{
+ "answer": [
+  [
+   {
+    "kind": "strong",
+    "text": "الجواب:"
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "إذا كانت الصلاة جهرية، وما أدرك إلا واحدة؛ فهي أول صلاته، فإذا قام يقضي؛ جهر بالقراءة جهرًا لا يشوش على من حوله في الثانية، ثم يسر في الثالثة، والرابعة؛ لأن الصلاة التي أدرك أولها، ما أدركه مع الإمام، هذا الصحيح، وما يقضيه هو آخرها، فيجهر بالثانية التي يقضيها من العشاء مثلًا، أو المغرب، ثم يكمل بالسر في بقيتها."
+   }
+  ]
+ ],
+ "content_sha256": "sha256:223320dbc6edaf51255a6efe3f3de6565f87b599e9b71ace455ac58b4434eff0",
+ "id": "binbaz-1224",
+ "language": "ar",
+ "notes": [],
+ "question": [
+  [
+   {
+    "kind": "strong",
+    "text": "السؤال:"
+   }
+  ],
+  [
+   {
+    "kind": "text",
+    "text": "رجل أدرك ركعة مع الإمام، فهل يجهر بالقراءة إذا أتم؟"
+   }
+  ]
+ ],
+ "raw_sha256": "sha256:6409daf821b233665d236321376eba7f3170e55ba059abca563f6b4367cdb11c",
+ "reuse_basis": "user_confirmed_permission",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.fatwa/2",
+ "source": {
+  "edition": null,
+  "publisher": "binbaz.org.sa",
+  "publisher_name": "موقع الشيخ ابن باز",
+  "retrieved_at": "2026-10-06T05:10:36+00:00",
+  "series": "فتاوى الجامع الكبير",
+  "url": "https://binbaz.org.sa/fatwas/1224/%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D9%82%D8%B6%D8%A7%D8%A1-%D9%85%D9%86-%D8%A7%D8%AF%D8%B1%D9%83-%D8%B1%D9%83%D8%B9%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D8%A7%D9%84%D8%AC%D9%87%D8%B1%D9%8A%D8%A9"
+ },
+ "source_categories": [
+  {
+   "id": "34",
+   "label": "القراءة في الصلاة",
+   "url": "https://binbaz.org.sa/categories/fiqhi/34"
+  }
+ ],
+ "source_record_id": "1224",
+ "title": "كيفية قضاء من أدرك ركعة في الصلاة الجهرية",
+ "topic": "worship",
+ "translations": {},
+ "type": "fatwa"
+}

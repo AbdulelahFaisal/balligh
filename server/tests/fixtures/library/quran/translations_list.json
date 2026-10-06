@@ -1,0 +1,8 @@
+{"translations": [
+ {"key": "english_rwwad", "direction": "ltr", "language_iso_code": "en", "version": "9.0.1", "last_update": 1700000001, "title": "Synthetic English", "description": "Synthetic English edition for tests."},
+ {"key": "urdu_junagarhi", "direction": "rtl", "language_iso_code": "ur", "version": "9.0.2", "last_update": 1700000002, "title": "Synthetic Urdu", "description": "Synthetic Urdu edition for tests."},
+ {"key": "chinese_suliman", "direction": "ltr", "language_iso_code": "zh", "version": "9.0.3", "last_update": 1700000003, "title": "Synthetic Chinese", "description": "Synthetic Chinese edition for tests."},
+ {"key": "indonesian_affairs", "direction": "ltr", "language_iso_code": "id", "version": "9.0.4", "last_update": 1700000004, "title": "Synthetic Indonesian", "description": "Synthetic Indonesian edition for tests."},
+ {"key": "french_rashid", "direction": "ltr", "language_iso_code": "fr", "version": "9.0.6", "last_update": 1700000006, "title": "Synthetic French", "description": "Synthetic French edition for tests."},
+ {"key": "spanish_other", "direction": "ltr", "language_iso_code": "es", "version": "1.0.0", "last_update": 1700000009, "title": "Unused", "description": "Unused edition."}
+]}

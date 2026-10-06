@@ -1,0 +1,73 @@
+{
+ "answer": [
+  [
+   {
+    "kind": "strong",
+    "text": "ج:"
+   },
+   {
+    "kind": "text",
+    "text": " يكفيه أن يمر الماء عليها، وقد جاءت الأحاديث الصحيحة دالة على ذلك، وإن خللها فهو أفضل، وقد فعل النبي ﷺ هذا وهذا"
+   },
+   {
+    "kind": "noteref",
+    "note": "1",
+    "text": "[1]"
+   },
+   {
+    "kind": "text",
+    "text": "."
+   }
+  ]
+ ],
+ "content_sha256": "sha256:a8b10da16fbe6543e86930bc72fa558f140ce2f9b71295b39eaf494ccd05c8c4",
+ "id": "binbaz-3650",
+ "language": "ar",
+ "notes": [
+  {
+   "id": "1",
+   "runs": [
+    {
+     "kind": "text",
+     "text": "من برنامج نور على الدرب، (مجموع فتاوى ومقالات الشيخ ابن باز 10/ 99). "
+    }
+   ]
+  }
+ ],
+ "question": [
+  [
+   {
+    "kind": "strong",
+    "text": "س: "
+   },
+   {
+    "kind": "text",
+    "text": "هل يشترط لصاحب اللحية الكثيفة أن يصل الماء إلى منابت الشعر؟"
+   }
+  ]
+ ],
+ "raw_sha256": "sha256:4ac971df4d1e9db1c926635e425c75abb12942a4d9d2569af7d2296275358861",
+ "reuse_basis": "user_confirmed_permission",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.fatwa/2",
+ "source": {
+  "edition": "مجموع فتاوى ومقالات الشيخ ابن باز 10/ 99",
+  "publisher": "binbaz.org.sa",
+  "publisher_name": "موقع الشيخ ابن باز",
+  "retrieved_at": "2026-10-06T05:10:37+00:00",
+  "series": "مجموع الفتاوى",
+  "url": "https://binbaz.org.sa/fatwas/3650/%D9%87%D9%84-%D9%8A%D8%B4%D8%AA%D8%B1%D8%B7-%D9%84%D8%B5%D8%A7%D8%AD%D8%A8-%D8%A7%D9%84%D9%84%D8%AD%D9%8A%D8%A9-%D8%A7%D9%84%D9%83%D8%AB%D9%8A%D9%81%D8%A9-%D9%88%D8%B5%D9%88%D9%84-%D8%A7%D9%84%D9%85%D8%A7%D8%A1-%D9%84%D9%85%D9%86%D8%A7%D8%A8%D8%AA-%D8%A7%D9%84%D8%B4%D8%B9%D8%B1"
+ },
+ "source_categories": [
+  {
+   "id": "14",
+   "label": "فروض الوضوء وصفته",
+   "url": "https://binbaz.org.sa/categories/fiqhi/14"
+  }
+ ],
+ "source_record_id": "3650",
+ "title": "هل يشترط لصاحب اللحية الكثيفة وصول الماء لمنابت الشعر؟",
+ "topic": "worship",
+ "translations": {},
+ "type": "fatwa"
+}

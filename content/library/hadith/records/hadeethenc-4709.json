@@ -1,0 +1,177 @@
+{
+ "attribution": "رواه البخاري",
+ "content_sha256": "sha256:f29373af54f85c3fd6699f2d875f3a9602452228dc473d923f30dcb5c3c57052",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "طَلبَ أحدُ الصحابة رضوان الله عليهم من النبي صلى الله عليه وسلم أن يَدُلَّه على شيء ينفعه، فأمره ألّا يغضب، ومعنى ذلك أن يَجتنبَ الأسبابَ التي تحمله على الغضب، وأن يَضبطَ نفسَه إذا حَصَل له الغضب، فلا يَتَمادى مع غضبه بالقتل أوالضرب أوالسب ونحو ذلك. \n\nوردَّدَ الرجلُ طَلَبَ الوصيةِ مَرَّات، فلم يَزِدْه صلى الله عليه وسلم في الوصية على \"لا تغضب\".",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "التحذير من الغضب وأسبابه، فإنه جِماعُ الشر، والتحرُّزُ منه جماعُ الخير.",
+  "الغضب لله كالغضب عند انتهاك محارم الله من الغضب المحمود.",
+  "تَكرار الكلام عند الحاجة حتى يَعِيَه السامعُ ويُدرك أهميتَه.",
+  "فضيلة طلب الوصية من العالِم."
+ ],
+ "id": "hadeethenc-4709",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح البخاري (8/ 28) (6116).\nالتحفة الربانية في شرح الأربعين حديثًا النووية (ص36).\nشرح الأربعين النووية، لابن عثيمين (ص181).\nفتح القوي المتين في شرح الأربعين وتتمة الخمسين، للعباد (ص64).\nالمعجم الوسيط، (2/ 1038).\nتاج العروس من جواهر القاموس، للزبيدي (3/ 485).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=4709",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:51+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/4709"
+ },
+ "source_categories": [
+  {
+   "id": "282",
+   "label": "الأخلاق الحميدة"
+  }
+ ],
+ "source_record_id": "4709",
+ "text": "عن أبي هريرة رضي الله عنه: أَنَّ رَجُلًا قَالَ لِلنَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: أَوْصِنِي، قَالَ: «لَا تَغْضَبْ» فَرَدَّدَ مِرَارًا قَالَ: «لَا تَغْضَبْ».",
+ "title": "لا تغضب",
+ "topic": "conduct",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=4709",
+   "arabic_match": "exact",
+   "attribution": "এটি বুখারী বর্ণনা করেছেন।",
+   "content_sha256": "sha256:59ca4b7f436d96e13013f12c9193bd3d6625e86c24753e364ce3211ae6077a4e",
+   "explanation": "এক সাহাবী নবী সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লামকে উপকারী কোন একটি নসিহত করতে আবেদন করলে নবী সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম তাকে রাগান্বিত না হতে আদেশ করেন। এর অর্থ হলো: যেসব কারণে মানুষ রাগান্বিত হয় সেসব কারণ পরিহার করা, রাগের সময় নিজেকে নিয়ন্ত্রণ করা। ফলে রাগের কারণে কাউকে হত্যা, মারা বা গালি দেওয়া ইত্যাদি সীমালঙ্ঘন হবে না।\r\n\r\nলোকটি বারবার নসিহতের আবেদন করেন। নবী সাল্লাল্লাহু ‘আলাইহি ওয়া সাল্লাম তাকে বারবারই রাগ না করার উপদেশ দেন।",
+   "grade": "সহীহ",
+   "hints": [
+    "এ হাদীসে রাগ এবং রাগের কারণসমূহ থেকে সাবধান করা হয়েছে; কেননা রাগ সকল অন্যায়ের মূল। আর রাগ পরিহার করা সকল কল্যাণের মূল।\r",
+    "আল্লাহর জন্য রাগ করা, যেমন: যেখানে আল্লাহর নিষেধাজ্ঞা লঙ্ঘন করা হয়, সেখানে রাগ করা প্রশংসনীয় রাগের অন্তর্ভুক্ত।\r",
+    "শ্রোতা কোন বিষয় সম্পর্কে অবগত হওয়া এবং এর গুরুত্ব উপলব্ধি না করা পর্যন্ত প্রয়োজন সাপেক্ষে বক্তব্যের পুনরাবৃত্তি করা।\r",
+    "আলেমের কাছে নসিহত তালাশ করার ফযিলত বর্ণিত হয়েছে।"
+   ],
+   "mapping": "same HadeethEnc record id 4709; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:24+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/4709",
+   "text": "আবূ হুরাইরা রদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, তিনি বলেন: এক ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে বললেন: আপনি আমাকে উপদেশ দিন। তিনি বললেন: “তুমি রাগ করো না।\" লোকটি কয়েকবার তা বলতে থাকলেন, নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম প্রত্যেক বারেই বললেন: “রাগ করো না।”",
+   "title": "তুমি রাগ করো না",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=4709",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Al-Bukhāri",
+   "content_sha256": "sha256:a2e4d8d7271ae2cf29f3481519ce575f1ede73d44cd2cbc3be35ee60ed1338a1",
+   "explanation": "One of the Companions (may Allah be pleased with them) asked the Prophet (may Allah's peace and blessings be upon him) to direct him to something that would benefit him. He instructed him not to get angry. This means he should avoid the things that would make him angry and should restrain himself in case he becomes angry, not going to excess in his anger by killing, beating, cursing, and so on.\r\n\r\nThe man repeated his request for advice several times, and the Prophet (may Allah's peace and blessings be upon him) said no more in his advice than \"Do not get angry\".",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth warns against anger and its causes, for it combines all evil, and avoiding it leads to all goodness.\r",
+    "Anger for the sake of Allah, like getting angry when Allah's prohibitions are violated, is commendable.\r",
+    "If needed, one may repeat the speech so that the addressed person can understand it and realize its significance.\r",
+    "It shows the merit of seeking advice from a knowledgeable person."
+   ],
+   "mapping": "same HadeethEnc record id 4709; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:23+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/4709",
+   "text": "Abu Hurayrah (may Allah be pleased with him) reported: A man came to the Prophet (may Allah's peace and blessings be upon him) and said: \"Advise me.\" He said: \"Do not get angry.\" He repeated that several times, and every time, he would say: \"Do not get angry.\"",
+   "title": "Do not get angry",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=4709",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Al Bukhârî",
+   "content_sha256": "sha256:2f97b89f1334691c5e44bc4c8804a540501e0c26d0fb584e3ae19a48ff02a1f5",
+   "explanation": "Un des Compagnons (qu'Allah les agrée) a demandé au Prophète (qu'Allah le couvre d'éloges et le préserve) de lui indiquer une chose qui lui serait bénéfique. Alors, il lui a ordonné de ne pas se mettre en colère. Et la signification de cela est d'éviter les causes qui amènent à la colère et de contrôler sa personne si la colère survient de sorte que cette colère ne soit pas suivie d'un meurtre, ou d'une frappe, ou d'une insulte, ou ce qui ressemble à cela.\r\n\r\nEt l'homme a réitéré plusieurs fois sa demande de recommandation mais le Prophète (qu'Allah le couvre d'éloges et le préserve) ne lui a rien rajouté comme recommandation si ce n'est : \" Ne te mets pas en colère. \"",
+   "grade": "Authentique",
+   "hints": [
+    "La mise en garde contre la colère et ses causes car elle est l'ensemble du mal et le fait de s'en prémunir est l'ensemble du bien.\r",
+    "La colère pour Allah, comme la colère lors de la violation des interdits sacrés d'Allah fait partie de la colère louable.\r",
+    "La répétition des paroles si besoin est jusqu'à ce que l'interlocuteur les retienne et comprenne leur importance.\r",
+    "Le mérite de la demande de recommandation au savant."
+   ],
+   "mapping": "same HadeethEnc record id 4709; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:24+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/4709",
+   "text": "D'après  (qu'Allah l'agrée) : Un homme a dit au Prophète (qu'Allah le couvre d'éloges et le préserve) : « Fais-moi une recommandation ! » Il (qu'Allah le couvre d'éloges et le préserve) a dit : «  Ne te mets pas colère !  » L’homme répéta à plusieurs reprises [sa demande] et [à chaque fois] il (qu'Allah le couvre d'éloges et le préserve) a dit : « Ne te mets pas en colère ! »",
+   "title": "Ne te mets pas colère !",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=4709",
+   "arabic_match": "exact",
+   "attribution": "HR. Bukhari",
+   "content_sha256": "sha256:901d34a16b27afbde94e2fdb2590114fb39c590dc9c747a3bfe169e6ad970db8",
+   "explanation": "Salah seorang sahabat -raḍiallāhu 'anhum- meminta kepada Nabi ﷺ agar ditunjukkan pada sesuatu yang akan berguna baginya. Beliau lantas memerintahkannya agar tidak marah. Maksudnya adalah agar dia menjauhi sebab-sebab yang dapat memicu amarahnya serta mengendalikan diri ketika dihinggapi amarah, yaitu dia tidak boleh terbawa amarahnya sampai membunuh, memukul, mencaci atau lain sebagainya.\r\n\r\nLaki-laki tersebut mengulang permintaannya beberapa kali, tetapi beliau ﷺ tidak memberikannya wasiat lebih dari mengatakan \"janganlah engkau marah.\"",
+   "grade": "Sahih",
+   "hints": [
+    "1- Peringatan terhadap marah dan sebab-sebabnya; karena marah mengumpulkan semua keburukan, sedangkan menjaga diri dari marah mengumpulkan semua kebaikan.\r",
+    "2- Marah karena Allah seperti marah ketika larangan Allah dilanggar termasuk marah yang terpuji.\r",
+    "3- Mengulang-ulang perkataan ketika dibutuhkan supaya orang yang mendengar paham dan mengetahui urgensinya.\r",
+    "4- Keutamaan meminta wasiat pada orang berilmu."
+   ],
+   "mapping": "same HadeethEnc record id 4709; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:24+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/4709",
+   "text": "Abu Hurairah -raḍiyallāhu 'anhu- meriwayatkan, Ada seorang laki-laki berkata kepada Nabi ﷺ, \"Berilah aku wasiat.\" Beliau bersabda, \"Janganlah engkau marah!\" Orang itu mengulangi permintaannya berkali-kali, tetapi beliau tetap bersabda, \"Janganlah engkau marah!\"",
+   "title": "Janganlah engkau marah!",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=4709",
+   "arabic_match": "exact",
+   "attribution": "رواه البخاري",
+   "content_sha256": "sha256:c3b18ab6292deea0b83cd3d9c69a5e76ddd70488561bcc7af823564552228c5e",
+   "explanation": "ایک صحابی نے اللہ کے رسول صلی اللہ علیہ و سلم سے گزارش کی کہ ان کو کوئی ایسی بات بتائيں، جو ان کے لیے سودمند ثابت ہو۔ لہذا آپ نے ان سے کہا کہ وہ غصہ نہ کیا کریں۔ یعنی ایک تو غصہ دلانے والی چیزوں سے بچیں اور دوسرا جب غصہ آجائے، تو اپنے اوپر قابو رکھیں۔ ایسا نہ ہو کہ غصے میں آکر قتل کر دیں، مار دیں یا گالی گلوج وغیرہ کرنے لگیں۔\r\n\r\nاس صحابی نے کئی بار اپنی بات دہرائی اور آپ صلی اللہ علیہ وسلم نے ان سے ہر بار بس اتنا کہا کہ تم غصہ نہ کیا کرو۔",
+   "grade": "صحيح",
+   "hints": [
+    "اس حدیث میں غصہ اور غصہ دلانے والی چیزوں سے خبردار کیا گیا ہے۔ کیوں کہ غصہ ساری برائیوں کی جڑ ہے اور اس سے بچے رہنا تمام بھلائیوں کا سرچشمہ ہے۔\r",
+    "اللہ کے لیے غصہ آنا، جیسے اللہ کے احکام کی پامالی پر غصہ آنا قابل تعریف چیز ہے۔\r",
+    "ضرورت پڑنے پر بات کو دہرانا چاہیے، تاکہ سننے والا سمجھ جائے اور بات کی اہمیت ذہن میں بیٹھ جائے۔\r",
+    "عالم سے وصیت کی گزارش کرنے کی فضیلت۔"
+   ],
+   "mapping": "same HadeethEnc record id 4709; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:23+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/4709",
+   "text": "ابوہریرہ رضی اللہ عنہ سے روایت ہے وہ کہتے ہیں : ایک شخص نے اللہ کے نبی ﷺ سے عرض کیا کہ مجھے کوئی نصیحت کریں، تو آپ ﷺ نے فرمایا: ”غصہ مت کیا کرو“۔ اس نے یہ سوال بار بار دہرایا اور آپ ﷺ ہر بار یہی فرماتے رہے کہ غصہ مت کیا کرو۔",
+   "title": "غصہ مت کیا کرو",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=4709",
+   "arabic_match": "exact",
+   "attribution": "布哈里辑录",
+   "content_sha256": "sha256:79d715a662d2a9bb06903d96ebc30ca19f8de81e49c33a36ca09893d26feda92",
+   "explanation": "一位圣门弟子（愿主喜悦他们）向先知（愿主福安之）寻求对他有益的指导，于是先知（愿主福安之）告诉他不要生气。意思是要避免让人生气的因素，并在生气时控制自己，不要生气的同时，还打架、骂人等。\r\n\r\n这个人反复提出嘱托的请求，但先知（愿主福安之）在嘱托中只说了“不要生气”。",
+   "grade": "正确的",
+   "hints": [
+    "谨防生气及其导致生气的因素，因为它是作恶的根源，而不生气是行善的根源。\r",
+    "为真主而愤怒，比如对违反真主禁令的愤怒是值得赞扬的愤怒。\r",
+    "在需要时重复讲话，以便听众能够理解和意识到其重要性。\r",
+    "向学者请求嘱咐的优越性。"
+   ],
+   "mapping": "same HadeethEnc record id 4709; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:23+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/4709",
+   "text": "据艾布·胡莱赖(愿主喜悦之)传述： 有一个人对先知(愿主福安之)说:“请你嘱咐我!”先知说:“你不可发怒｡”那人连说了几遍，先知总是说:“你不可发怒｡”",
+   "title": "你不可发怒｡",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

@@ -1,0 +1,177 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:76047eb313d7aa2188baef4633e9d93ba64b4d6a8f20d1f9accc8e17c29ffebc",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "حَثَّ النبيُّ صلى الله عليه وسلم على فعل المعروف، وأن لا يحتقره ولو كان قليلًا، ومن ذلك طلاقة الوجه بالابتسامة عند اللقاء، فينبغي للمسلم أن يحرص عليه؛ لما فيه من إِيْنَاس الأخ المسلم وإدخال السرور عليه.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "فضل التَّحابِّ بين المؤمنين، والابتسامة والبِشْر عند اللقاء.",
+  "كمال هذه الشريعة وشمولها، وأنها جاءت بكل ما فيه صلاح المسلمين وتوحيد كلمتهم.",
+  "الحث على فعل المعروف وإن قَلَّ.",
+  "استحباب إدخال السرور على  المسلمين؛ لما في ذلك من تحقيق الأُلْفَة بينهم."
+ ],
+ "id": "hadeethenc-5348",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (4/ 2026) (2626).\nمنحة العلام في شرح بلوغ المرام، لعبد الله الفوزان (10/ 119).\nتوضيح الأحكام من بلوغ المرام، للبسام (7/ 341).\nنزهة المتقين شرح رياض الصالحين، (1/ 572).\nبهجة الناظرين شرح رياض الصالحين، لسليم الهلالي (2/ 20).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=5348",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:52+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/5348"
+ },
+ "source_categories": [
+  {
+   "id": "282",
+   "label": "الأخلاق الحميدة"
+  }
+ ],
+ "source_record_id": "5348",
+ "text": "عن أبي ذر رضي الله عنه قال: قال لي النبي صلى الله عليه وسلم: «لَا تَحْقِرَنَّ مِنَ الْمَعْرُوفِ شَيْئًا، وَلَوْ أَنْ تَلْقَى أَخَاكَ بِوَجْهٍ طَلْقٍ».",
+ "title": "لا تحقرن من المعروف شيئا، ولو أن تلقى أخاك بوجه طلق",
+ "topic": "conduct",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=5348",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:ae0b520e9e53bddd02fdc3ee10b0b5bca532ce9dd4abddc42be46b9e29b01772",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম সৎকাজ করতে এ হাদীসে উৎসাহ প্রদান করেছেন। সাধারণ কোনো ভালো কাজকে তুচ্ছ  করে দেখা উচিত নয়; তা যতোই ছোট হোক না কেন। এসব  সৎকাজের মধ্যে রয়েছে কারো সাথে সাক্ষাতে হাসিমুখে তার সামনে নিজের চেহারা প্রকাশ করা। অতএব একজন মুসলিমের উচিত এ ধরনের ছোট-খাটো সৎকাজের ব্যাপারে যত্নশীল হওয়া; কেননা এতে রয়েছ একজন মুসলিম ভাইয়ের সাথে সাক্ষাতে তার প্রতি ঘনিষ্ঠতা প্রকাশ এবং তার সাথে সাক্ষাতে আনন্দের বহি:প্রকাশ।",
+   "grade": "সহীহ",
+   "hints": [
+    "মুমিনদের মাঝে পরস্পর ভালোবাসা ও সাক্ষাতে হাসিমুখে দেখা করা ও আনন্দিত হওয়ার ফযিলত বর্ণিত হয়েছে।\r",
+    "এ শরী‘আতের পরিপূর্ণতা ও সর্বোব্যাপ্তিতা বর্ণনা করা হয়েছে। এ শারী‘য়ত এসেছে মুসলিমদের জন্য সকল কল্যাণ নিশ্চিত করতে এবং তাদের কে একতাবদ্ধ করতে।\r",
+    "সৎকাজ করতে উৎসাহিত করা হয়েছে; যদিও তা যতোই ছোট হোক।\r",
+    "মুসলিমদের সাথে সাক্ষাতে আনন্দ প্রকাশ করা মুস্তাহাব; কেননা এতে তাদের মধ্যে হৃদ্যতা ও ভালোবাসা প্রকাশ পায়।"
+   ],
+   "mapping": "same HadeethEnc record id 5348; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:30+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/5348",
+   "text": "আবূ যার রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, তিনি বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম আমাকে বলেছেন: “সাধারণ কোনো ভালো কাজকে তুচ্ছ  করে দেখো না। তোমার ভাইয়ের সাথে হাসিমুখে সাক্ষাতের মতো (দেখতে সাধারণ কোনো) বিষয়ই হোক না কেনো।”",
+   "title": "“সাধারণ কোনো ভালো কাজকে তুচ্ছ  করে দেখো না। তোমার ভাইয়ের সাথে হাসিমুখে সাক্ষাতের মতো (দেখতে সাধারণ কোনো) বিষয়ই হোক না কেনো।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=5348",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:cd0675eb539523a212ca643e498603c473733791a5dbe5c74d8621e0a45afc31",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) urges us to do good and not belittle any act of goodness, even if it is simple. An example is meeting one another with a cheerful face. A Muslim should be keen on doing this, for it brings a sense of friendliness and joy to his Muslim brother.",
+   "grade": "Authentic",
+   "hints": [
+    "The Hadīth highlights the merit of mutual love among the believers and that they meet one another with cheerful and smiling faces.\r",
+    "It points to the perfection and comprehensiveness of this Shariah and that its teachings unite Muslims and set their affairs aright.\r",
+    "It urges us to do good deeds, even if little.\r",
+    "It is recommended to bring joy to Muslims, as it creates friendliness among them."
+   ],
+   "mapping": "same HadeethEnc record id 5348; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:29+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/5348",
+   "text": "Abu Dharr (may Allah be pleased with him) reported: The Prophet (may Allah's peace and blessings be upon him) said to me: \"Do not belittle any good deed, even if it be meeting your brother with a cheerful face.\"",
+   "title": "Do not belittle any good deed, even if it be meeting your brother with a cheerful face",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=5348",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:f5de0f22e572a4203a2c27cf7124b6c1b00f4494ddff6a133351953165d3c4c8",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) a incité à accomplir tout acte de bien et de ne rien en mépriser, même s'il s'agit d'une chose [apparemment] infime. Parmi cela, il y a le fait d'avoir un visage radieux et de sourire lors de la rencontre [avec son frère]. Il faut donc que le musulman y soit assidu ; ceci, du fait de ce qui s'y trouve d'amabilité à l'égard du frère musulman et d'opportunité de lui procurer de la joie.",
+   "grade": "Authentique",
+   "hints": [
+    "Le mérite de l'amour mutuel entre les croyants, de se sourire et de se réjouir lors de la rencontre.\r",
+    "La perfection et la globalité de cette Charî'ah, le fait qu'elle soit venue avec tout ce qui est un bien pour les musulmans et unit leur parole.\r",
+    "L'incitation à accomplir tout acte de bien même si infime en apparence.\r",
+    "La recommandation de faire entrer la joie chez les musulmans ; du fait que cela participe à concrétiser la familiarité entre eux."
+   ],
+   "mapping": "same HadeethEnc record id 5348; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:30+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/5348",
+   "text": "Aboû Dharr (qu'Allah l'agrée) relate : « Le Prophète (qu'Allah le couvre d'éloges et le préserve) m'a dit : \" Ne méprise rien du bien, ne serait-ce que de rencontrer ton frère avec un visage souriant. \" »",
+   "title": "Ne méprise rien du bien, ne serait-ce que de rencontrer ton frère avec un visage souriant. \"",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=5348",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:9253d150f1d6043f7a46ef70923b37dad03bb8497e725d3d2ef4159f6321338b",
+   "explanation": "Nabi ﷺ menganjurkan untuk melakukan kebaikan dan tidak meremehkannya walaupun sedikit. Termasuk di antaranya bermuka ceria dan senyum ketika bertemu orang lain. Seorang muslim patut mengupayakannya karena itu dapat mendatangkan suasana keramahan dan keakraban dengan saudara muslim dan memasukkan kebahagiaan ke dalam hatinya.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Keutamaan saling mencintai di antara orang beriman serta menampakkan senyum dan muka ceria ketika bertemu.\r",
+    "2- Kesempurnaan dan keumuman syariat ini, bahwa syariat mengajarkan semua yang mengandung kebaikan bagi umat Islam serta yang menyatukan kalimat mereka.\r",
+    "3- Anjuran untuk melakukan kebaikan walaupun sedikit.\r",
+    "4- Anjuran memasukkan kebahagiaan ke dalam hati kaum muslimin karena hal ini mewujudkan keakraban di antara mereka."
+   ],
+   "mapping": "same HadeethEnc record id 5348; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:30+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/5348",
+   "text": "Abu Żarr -raḍiyallāhu 'anhu- meriwayatkan, Nabi ﷺ bersabda kepadaku, \"Janganlah meremehkan kebaikan sedikit pun, walaupun hanya ‎bertemu saudaramu dengan wajah berseri-seri!‎\"",
+   "title": "Janganlah meremehkan kebaikan sedikit pun, walaupun hanya ‎bertemu saudaramu dengan wajah berseri-seri!‎",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=5348",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:5206c8f52814df8b9d3b5e1d5d9aea54ca801cf81f372e06486c0f264ab0e279",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ و سلم نے اچھا کام کرنے کی ترغیب دی ہے اور یہ بتایا ہے کہ انسان کسی اچھے کام کو حقیر نہ جانے، چاہے وہ چھوٹا ہی کیوں نہ ہو۔ اس کی ایک مثال ملاقات کے وقت مسکرا کر ملنا ہے۔ لہذا مسلمانوں کو اس کی حرص ہونی چاہیے، کیوں کہ اس سے مسلمان بھائی کو انسیت ملتی ہے اور اس کے اندر مسرت کی ایک لہر دوڑ جاتی ہے۔",
+   "grade": "صحيح",
+   "hints": [
+    "مومنوں کی آپسی محبت اور ملاقات کے وقت مسکرا کر ملنے کی فضیلت۔\r",
+    "اسلامی شریعت ایک مکمل اور جامع شریعت ہے، جس میں مسلمانوں کی خیر و فلاح اور ان کے درمیان اتحاد و اتفاق کو برقرار رکھنے والی ساری باتیں پائی جاتی ہیں۔\r",
+    "اچھا کام کرنے کی ترغیب، چاہے تھوڑا سا ہی کیوں نہ ہو۔\r",
+    "مسلمانوں کو خوش ہونے کا موقع دینا مستحب ہے، کیوں کہ اس سے آپسی محبت پیدا ہوتی ہے۔"
+   ],
+   "mapping": "same HadeethEnc record id 5348; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:29+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/5348",
+   "text": "ابوذر رضی اللہ عنہ سے روایت ہے، وہ کہتے ہيں کہ اللہ کے نبی صلی اللہ علیہ و سلم نے مجھ سے فرمایا : ”کسی بھی اچھے کام کو ہر گز حقیر مت جانو، خواہ تمہارا اپنے بھائی کے ساتھ خوش باش چہرے کے ساتھ ملنا ہی کیوں نہ ہو“۔",
+   "title": "”کسی بھی اچھے کام کو ہر گز حقیر مت جانو، خواہ تمہارا اپنے بھائی کے ساتھ خوش باش چہرے کے ساتھ ملنا ہی کیوں نہ ہو“۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=5348",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:60b31c4ec753830a97f8517020dabf3fa32dc0d0bcc733751980d9b61ae0c6d2",
+   "explanation": "先知（愿主福安之）鼓励行善，不论其大小，都不得轻视，包括微笑着面对他人，因此穆斯林应该坚守这项善行，因为这可以使穆斯林兄弟感到亲近，并带来喜悦。",
+   "grade": "正确的",
+   "hints": [
+    "信士之间互爱，以及在会面时微笑和相互问候的贵重。\r",
+    "教法的完美和包容，它的一切都是有益于穆斯林的，并使他们团结一致。\r",
+    "鼓励多行善事，即便微小。\r",
+    "鼓励让穆斯林感到喜悦，因为这有助于增进他们之间的友情。"
+   ],
+   "mapping": "same HadeethEnc record id 5348; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:47:29+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/5348",
+   "text": "据艾布·赞尔（愿主喜悦他）传述:先知（愿主福安之）对我说: “你绝不要轻视任何善行，哪怕是和颜悦色地面见自己弟兄｡”",
+   "title": "“你绝不要轻视任何善行，哪怕是和颜悦色地面见自己弟兄｡”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [],
+ "words_meanings_language": "ar"
+}

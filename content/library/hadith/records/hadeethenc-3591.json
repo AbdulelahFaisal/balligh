@@ -1,0 +1,183 @@
+{
+ "attribution": "رواه مسلم",
+ "content_sha256": "sha256:a7443d8c94c6f80db0319fd6357f25692c16fa607bc3822a8c23667088ae7c8c",
+ "dorar": {
+  "reason": "https://dorar.net/h/MXnb6eUb answered HTTP 403 to the identified Balligh importer on 2026-10-06 (one request, not bypassed); Dorar wording, reference and grade cross-checking was not performed",
+  "status": "not_verified"
+ },
+ "explanation": "يخبر النبي صلى الله عليه وسلم أن الصلوات الخمس المفروضة في اليوم والليلة، وصلاة الجمعة كل أسبوع، وصوم شهر رمضان كل عام، مكفرات لما بينها من صغائر الذنوب بشرط اجتناب الكبائر، \nأما الكبائر كالزنا وشرب الخمر فلا تُكفر إلا بالتوبة.",
+ "grade": "صحيح",
+ "grading_authority": "HadeethEnc.com (grade field of the published record)",
+ "hints": [
+  "الذنوب منها صغائر ومنها كبائر.",
+  "تكفير الصغائر مشروط باجتناب الكبائر.",
+  "الكبائر هي الذنوب التي ورد فِيهِا حد فِي الدُّنْيَا، أَو جَاءَ فِيهِا وَعِيد فِي الْآخِرَة؛ بالعَذَاب، أَو الغضب، أَو كان فيها تهديدٌ، أَو لعنٌ لفَاعلِها، كالزنى وشرب الخمر."
+ ],
+ "id": "hadeethenc-3591",
+ "language": "ar",
+ "narrator": null,
+ "reference": "صحيح مسلم (1/ 209) (233).\nشرح رياض الصالحين، لابن عثيمين (2/ 183).\nنزهة المتقين بشرح رياض الصالحين، لمصطفى سعيد الخن (1/ 158).\nتطريز رياض الصالحين، لفيصل آل مبارك (ص108).\nبهجة الناظرين شرح رياض الصالحين، لسليم بن عيد الهلالي  (1/ 209).",
+ "reuse_basis": "hadeethenc_terms",
+ "review_status": "source_preserved",
+ "schema": "balligh.library.hadith/2",
+ "source": {
+  "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ar&id=3591",
+  "publisher": "HadeethEnc.com",
+  "retrieved_at": "2026-10-06T03:45:41+00:00",
+  "url": "https://hadeethenc.com/ar/browse/hadith/3591"
+ },
+ "source_categories": [
+  {
+   "id": "5",
+   "label": "الفضائل والآداب"
+  },
+  {
+   "id": "277",
+   "label": "فضائل الأعمال الصالحة"
+  },
+  {
+   "id": "457",
+   "label": "فضل الصلاة"
+  }
+ ],
+ "source_record_id": "3591",
+ "text": "عن أبي هريرة رضي الله عنه أن رسول الله صلى الله عليه وسلم كان يقول: «الصَّلَوَاتُ الْخَمْسُ، وَالْجُمُعَةُ إِلَى الْجُمُعَةِ، وَرَمَضَانُ إِلَى رَمَضَانَ، مُكَفِّرَاتٌ مَا بَيْنَهُنَّ إِذَا اجْتَنَبَ الْكَبَائِرَ».",
+ "title": "الصلوات الخمس، والجمعة إلى الجمعة، ورمضان إلى رمضان، مكفرات ما بينهن إذا اجتنب الكبائر",
+ "topic": "worship",
+ "translations": {
+  "bn": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=bn&id=3591",
+   "arabic_match": "exact",
+   "attribution": "ইমাম মুসলিম এটি বর্ণনা করেছেন",
+   "content_sha256": "sha256:21c784d75a122d7266570be8a2d409646478434842e115b1e390b3bd7355964d",
+   "explanation": "নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এ হাদীসে বর্ণনা করেছেন যে, দিনে রাতে পাঁচ ওয়াক্ত ফরয সালাত, প্রত্যেক সপ্তাহে জুমু‘আ সালাত এবং প্রতি বছর রমযান মাসের সাওম পালন সেগুলোর মধ্যবর্তী সময়ের সগীরা গুনাহের কাফফারা হয়ে যাবে; তবে শর্ত হলো কবীরা গুনাহ থেকে বিরত থাকতে হবে। অন্যদিকে কবীরা গুনাহ যেমন যিনা, মদ পান ইত্যাদি তাওবা ব্যতীত মাফ হয় না।",
+   "grade": "সহীহ",
+   "hints": [
+    "গুনাহসমূহ কবীরা ও সগীরা দু’প্রকারের হয়ে থাকে।\r",
+    "সগীরা গুনাহ তখনই কাফফারা হবে যখন কবীরা গুনাহ থেকে বিরত থাকবে।\r",
+    "কবীরা গুনাহ হলো সেসব গুনাহ যেগুলোর ব্যাপারে দুনিয়াবী সাজার হুকুম  বর্ণিত হয়েছে অথবা এসবের ব্যাপারে আযাব অথবা আল্লাহর অসন্তুষ্টি অথবা হুমকি অথবা এতে লিপ্তকারীকে লানত ইত্যাদি মাধ্যমে পরকালীন হুমকির কথা বলা হয়েছে। যেমন যিনা ও মদ্যপান ইত্যাদি।"
+   ],
+   "mapping": "same HadeethEnc record id 3591; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:50+00:00",
+   "source_language_code": "bn",
+   "source_url": "https://hadeethenc.com/bn/browse/hadith/3591",
+   "text": "আবূ হুরায়রা রাদিয়াল্লাহু ‘আনহু থেকে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলতেন: “পাঁচ ওয়াক্ত সালাত, এক জুমু‘আ থেকে আরেক জুমু‘আ আদায় করা এবং এক রমযান থেকে অপর রমযান পালন করা, এগুলোর মধ্যবর্তী সময়ের গুনাহের কাফফারা হয়ে যাবে; যদি সে কবীরা গুনাহ থেকে বিরত থাকে।”",
+   "title": "“পাঁচ ওয়াক্ত সালাত, এক জুমু‘আ থেকে আরেক জুমু‘আ আদায় করা এবং এক রমযান থেকে অপর রমযান পালন করা, এগুলোর মধ্যবর্তী সময়ের গুনাহের কাফফারা হয়ে যাবে; যদি সে কবীরা গুনাহ থেকে বিরত থাকে।”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "en": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=en&id=3591",
+   "arabic_match": "exact",
+   "attribution": "Narrated by Muslim",
+   "content_sha256": "sha256:6430a904ec27bd34874e7a6b28f544ce3737d4ffc6b852b39273ba27ee497d47",
+   "explanation": "The Prophet (may Allah's peace and blessings be upon him) informs us that the five prayers prescribed to be performed during the day and night, the Friday prayer every week, and the fasting of the month of Ramadan every year expiate minor sins committed between them, provided that major sins are avoided. As for major sins like adultery and alcoholic drinking, these can only be expiated by repentance.",
+   "grade": "Authentic",
+   "hints": [
+    "Some sins are minor and some are major.\r",
+    "The expiation of minor sins is contingent upon the avoidance of major ones.\r",
+    "Major sins are sins for which a legal punishment is prescribed in this world, a warning is issued with regard to the Hereafter by punishment or Allah's wrath, or their perpetrators are cursed, such as adultery and drinking alcohol."
+   ],
+   "mapping": "same HadeethEnc record id 3591; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:50+00:00",
+   "source_language_code": "en",
+   "source_url": "https://hadeethenc.com/en/browse/hadith/3591",
+   "text": "Abu Hurayrah (may Allah be pleased with him) reported: The Messenger of Allah (may Allah’s peace and blessings be upon him) said: \"The five (daily) prayers, Friday prayer to the next Friday prayer, and Ramadan to the next Ramadan are expiation of the sins committed between them, so long as major sins are avoided.\"",
+   "title": "The five (daily) prayers, Friday prayer to the next Friday prayer, and Ramadan to the next Ramadan are expiation of the sins committed between them, so long as major sins are avoided",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "fr": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=fr&id=3591",
+   "arabic_match": "exact",
+   "attribution": "Rapporté par Muslim",
+   "content_sha256": "sha256:7b959cbb7a8f6a6edeeb52c6bd676032ba374cd73b1818100709dc84c6aa7bd4",
+   "explanation": "Le Prophète (qu'Allah le couvre d'éloges et le préserve) informe du fait que les cinq prières obligatoires de jour et de nuit, la prière hebdomadaire du Vendredi et le jeûne du mois de Ramadan chaque année ; tout ceci constitue des expiations des péchés mineurs entre eux à la condition d'éviter les péchés majeurs. En ce qui concerne les péchés majeurs tels que la fornication et la consommation d'alcool, ils ne s'expient que par le repentir.",
+   "grade": "Authentique",
+   "hints": [
+    "Il existe des péchés mineurs et des péchés majeurs.\r",
+    "L'expiation des péchés mineurs est conditionnée par le fait de s'éloigner des péchés majeurs.\r",
+    "Les péchés majeurs sont les péchés pour lesquels une peine prescrite à appliquer ici-bas a été rapportée ; ou au sujet desquels une menace a été mentionnée dans l'au-delà, qu'il s'agisse du châtiment ou de la colère ; ou au sujet desquels intimidation ou malédiction ont été proférées concernant quiconque s'y adonne tels que la fornication et la consommation d'alcool."
+   ],
+   "mapping": "same HadeethEnc record id 3591; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:51+00:00",
+   "source_language_code": "fr",
+   "source_url": "https://hadeethenc.com/fr/browse/hadith/3591",
+   "text": "Aboû Hourayrah (qu'Allah l'agrée) relate : \" Le Messager d'Allah (qu'Allah le couvre d'éloges et le préserve) disait : \"Les cinq prières, le vendredi jusqu’au vendredi et le Ramadan jusqu’au Ramadan, sont des expiations de ce qui arrive entre, dès lors où l'on évite les péchés majeurs. »",
+   "title": "Les cinq prières, le vendredi jusqu’au vendredi et le Ramadan jusqu’au Ramadan, sont des expiations de ce qui arrive entre, dès lors où l'on évite les péchés majeurs.",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "id": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=id&id=3591",
+   "arabic_match": "exact",
+   "attribution": "HR. Muslim",
+   "content_sha256": "sha256:d9122416b231a5f524e3a3f239d41cb1bfa534f2d8354a1fef64708870a4ca81",
+   "explanation": "Nabi ﷺ mengabarkan bahwa kelima salat fardu dalam sehari semalam, salat Jumat tiap pekan, dan puasa Ramadan di setiap tahun adalah penghapus dosa-dosa kecil yang ada di antara ibadah-ibadah itu, dengan syarat dosa besar dijauhi. Adapun dosa besar seperti mencuri dan minum khamar tidak digugurkan kecuali dengan tobat.",
+   "grade": "Sahih",
+   "hints": [
+    "1- Dosa itu ada yang kecil dan ada yang besar.\r",
+    "2- Syarat pengguguran dosa kecil adalah dengan menjauhi dosa besar.\r",
+    "3- Dosa besar ialah dosa yang mengandung hukum hudud di dunia, atau memiliki ancaman di akhirat berupa siksa atau murka, atau mengandung ancaman atau laknat terhadap pelakunya, seperti dosa zina dan minum khamar."
+   ],
+   "mapping": "same HadeethEnc record id 3591; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:50+00:00",
+   "source_language_code": "id",
+   "source_url": "https://hadeethenc.com/id/browse/hadith/3591",
+   "text": "Abu Hurairah -raḍiyallāhu 'anhu- meriwayatkan bahwa Rasulullah ﷺ bersabda, \"Salat lima waktu, (salat) Jumat ke Jumat berikutnya, dan (puasa) Ramadan ke Ramadan berikutnya adalah penghapus dosa di antara keduanya jika dosa besar dijauhi.\"",
+   "title": "Salat lima waktu, (salat) Jumat ke Jumat berikutnya, dan (puasa) Ramadan ke Ramadan berikutnya adalah penghapus dosa di antara keduanya jika dosa besar dijauhi",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "ur": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=ur&id=3591",
+   "arabic_match": "exact",
+   "attribution": "رواه مسلم",
+   "content_sha256": "sha256:810f0f577d1fc7c351ee8631f5019ca07bcb432ae3ae838a946d372035a8cf1b",
+   "explanation": "اللہ کے نبی صلی اللہ علیہ وسلم بتا رہے ہیں کہ دن اور رات میں فرض پانچ نمازیں، ہر ہفتہ جمعے کی نماز اور ہر سال رمضان مہینے کے روزے، اس دوران کیے گئے چھوٹے گناہوں کا کفارہ بن جاتے ہیں، شرط یہ ہے کہ بڑے گناہوں سے اجتناب کیا جائے۔ رہی بات بڑے گناہوں جیسے شراب نوشی اور زنا وغیرہ کی، تو یہ توبہ کے بغیر معاف نہيں ہوتے۔",
+   "grade": "صحيح",
+   "hints": [
+    "گناہوں میں سے کچھ چھوٹے ہوتے ہیں اور کچھ بڑے۔\r",
+    "چھوٹے گناہوں کی معافی کے لیے بڑے گناہوں سے اجتناب شرط  ہے۔\r",
+    "بڑے گناہ سے مراد وہ گناہ ہیں، جن کے کرنے پر دنیا میں کوئی حد نافذ ہوتی ہو، یا آخرت سے متعلق عذاب یا اللہ کی ناراضگی کی وعید آئی ہو، یا اس کے کرنے پر کوئی دھمکی دی گئی ہو یا اس کے کرنے والے پر لعنت کی گئی ہو۔ جیسے شراب نوشی اور زنا وغیرہ۔"
+   ],
+   "mapping": "same HadeethEnc record id 3591; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:50+00:00",
+   "source_language_code": "ur",
+   "source_url": "https://hadeethenc.com/ur/browse/hadith/3591",
+   "text": "ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ اللہ کے رسول ﷺ فرمایا کرتے تھے: ”پانچوں نمازیں، ایک جمعہ دوسرے جمعہ تک اور ایک رمضان دوسرے رمضان تک اپنے مابین سرزد ہونے والے گناہوں کا کفارہ بن جاتے ہیں، بشرطیکہ کبیرہ گناہوں سے اجتناب کیا جائے“۔",
+   "title": "”پانچوں نمازیں، ایک جمعہ دوسرے جمعہ تک اور ایک رمضان دوسرے رمضان تک اپنے مابین سرزد ہونے والے گناہوں کا کفارہ بن جاتے ہیں، بشرطیکہ کبیرہ گناہوں سے اجتناب کیا جائے“۔",
+   "words_meanings": [],
+   "words_meanings_language": null
+  },
+  "zh-Hans": {
+   "api_url": "https://hadeethenc.com/api/v1/hadeeths/one/?language=zh&id=3591",
+   "arabic_match": "exact",
+   "attribution": "穆斯林辑录",
+   "content_sha256": "sha256:c33cffa73bdea57aa236618827869b131576af604d8d5a54a837284f682728d4",
+   "explanation": "先知（愿主福安之）叙述道，昼夜的五番主命拜、每周的主麻、每年的斋月，它们之间的小罪将会被消除，条件是不要犯下大罪。 至于大罪，如：通奸，喝酒是不会被饶恕的，除非诚心的忏悔。",
+   "grade": "正确的",
+   "hints": [
+    "罪行有大罪和小罪之分。\r",
+    "饶恕小罪的前提是远离大罪。\r",
+    "所谓大罪，即：在今世有刑罚，在后世将遭遇火狱或安拉之恼怒警告的罪行，或对犯罪者有恫吓和诅咒的罪行，如：通奸，喝酒。"
+   ],
+   "mapping": "same HadeethEnc record id 3591; the response's hadeeth_ar equals the Arabic record text byte-for-byte",
+   "retrieved_at": "2026-10-06T03:46:50+00:00",
+   "source_language_code": "zh",
+   "source_url": "https://hadeethenc.com/zh/browse/hadith/3591",
+   "text": "据艾布·胡莱勒（愿主喜悦之）传述，的确安拉的使者（愿主福安之）曾说： “五番拜功消除一个主麻到另一个主麻、一个斋月到另一个斋月之间的罪行，前提是不要犯下大罪。”",
+   "title": "“五番拜功消除一个主麻到另一个主麻、一个斋月到另一个斋月之间的罪行，前提是不要犯下大罪。”",
+   "words_meanings": [],
+   "words_meanings_language": null
+  }
+ },
+ "type": "hadith",
+ "words_meanings": [
+  {
+   "meaning": " ماحيات.",
+   "word": "مكفرات"
+  }
+ ],
+ "words_meanings_language": "ar"
+}
