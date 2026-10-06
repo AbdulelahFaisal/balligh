@@ -3,6 +3,7 @@ WORKDIR /src/web
 COPY web/package.json web/package-lock.json ./
 RUN npm ci --no-audit --no-fund
 COPY web/ ./
+COPY content/examples/ /src/content/examples/
 RUN npm run build
 
 FROM python:3.13-slim AS runtime
