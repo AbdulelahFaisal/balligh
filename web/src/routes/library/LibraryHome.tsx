@@ -60,14 +60,13 @@ function CollectionIcon({ kind }: { kind: "quran" | "questions" | "hadith" }) {
 }
 
 export function LibraryHome() {
-  const { t, i18n } = useTranslation();
+  const { t } = useTranslation();
   const { state } = useGuardedResource("library-index", (signal) => libraryApi.index(signal));
   const c = state?.status === "ready" ? state.data.collections : null;
-  // Fatwas with a stored AI-assisted translation in the interface language; the publisher's own text is Arabic.
-  const lang = i18n.resolvedLanguage ?? i18n.language;
-  const fatwaTotal = typeof c?.fatwa?.count === "number" ? c.fatwa.count : 0;
+  // Reading languages besides Arabic that the catalog actually covers for fatwas (stored translations per language).
+  // The AI-assisted provenance of those translations is stated in the reader, beside the text itself.
   const stored = (c?.fatwa as { machine_translations?: Record<string, number> } | undefined)?.machine_translations;
-  const aiCount = lang === "ar" ? 0 : (stored?.[lang] ?? 0);
+  const extraLanguages = stored ? Object.values(stored).filter((n) => n > 0).length : 0;
   const range = c?.quran?.range;
   const cards: { to: string; key: "quran" | "questions" | "hadith"; count: ReactNode; arabicOnly?: boolean }[] = [
     {
@@ -118,13 +117,8 @@ export function LibraryHome() {
                   </span>
                 )}
                 {card.arabicOnly && (
-                  <span className="badge-clay lib-dest-badge" data-testid={`collection-${card.key}-arabic-only`}>
-                    {lang === "ar" || aiCount > 0 ? t("library2.home.publishedArabic") : t("library2.home.arabicOnly")}
-                  </span>
-                )}
-                {card.arabicOnly && aiCount > 0 && (
-                  <span className="badge-clay lib-dest-badge" data-testid={`collection-${card.key}-ai`}>
-                    {t("library2.home.aiCoverage", { n: aiCount, total: fatwaTotal })}
+                  <span className="badge-clay lib-dest-badge" data-testid={`collection-${card.key}-languages`}>
+                    {extraLanguages > 0 ? t("library2.home.arabicPlus", { n: extraLanguages }) : t("library2.home.arabicOnly")}
                   </span>
                 )}
               </span>

@@ -6,7 +6,8 @@
     "open": "Buka",
     "arabicOnly": "Hanya bahasa Arab",
     "publishedArabic": "Diterbitkan dalam bahasa Arab",
-    "aiCoverage": "Terjemahan dibantu AI: {{n}} dari {{total}}"
+    "aiCoverage": "Terjemahan dibantu AI: {{n}} dari {{total}}",
+    "arabicPlus": "Arab + {{n}} bahasa"
   },
   "list": {
     "resetSearch": "Hapus pencarian dan tampilkan semua"

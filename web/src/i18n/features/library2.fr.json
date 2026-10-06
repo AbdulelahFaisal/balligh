@@ -6,7 +6,8 @@
     "open": "Ouvrir",
     "arabicOnly": "En arabe uniquement",
     "publishedArabic": "Publié en arabe",
-    "aiCoverage": "Traduction assistée par IA : {{n}} sur {{total}}"
+    "aiCoverage": "Traduction assistée par IA : {{n}} sur {{total}}",
+    "arabicPlus": "Arabe + {{n}} langues"
   },
   "list": {
     "resetSearch": "Effacer la recherche et tout afficher"

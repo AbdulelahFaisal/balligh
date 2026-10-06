@@ -47,10 +47,10 @@ test("library home shows three clear destinations with real record counts", asyn
   await expect(page.getByTestId("collection-questions-count")).toContainText(String(c.fatwa.count));
   await expect(page.getByTestId("collection-hadith-count")).toContainText(String(c.hadith.count));
 
-  // Fatwas are published in Arabic, and say so before the learner chooses; no AI-assisted count for an Arabic reader.
-  await expect(page.getByTestId("collection-questions-arabic-only")).toHaveText("منشورة بالعربية");
-  await expect(page.getByTestId("collection-questions-ai")).toHaveCount(0);
-  await expect(page.getByTestId("collection-quran-arabic-only")).toHaveCount(0);
+  // The fatwa card states the reading languages the catalog actually covers: Arabic plus those with stored translations.
+  const extra = Object.values((c.fatwa.machine_translations ?? {}) as Record<string, number>).filter((n) => n > 0).length;
+  await expect(page.getByTestId("collection-questions-languages")).toHaveText(extra > 0 ? `العربية + ${extra} لغات` : "بالعربية فقط");
+  await expect(page.getByTestId("collection-quran-languages")).toHaveCount(0);
 
   // Dense coverage explanations stay off the browsing view.
   await expect(page.getByTestId("library-home").getByTestId("coverage-line")).toHaveCount(0);

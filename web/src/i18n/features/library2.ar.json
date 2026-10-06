@@ -6,7 +6,8 @@
     "open": "افتح",
     "arabicOnly": "بالعربية فقط",
     "publishedArabic": "منشورة بالعربية",
-    "aiCoverage": "ترجمة بمساعدة الذكاء الاصطناعي: {{n}} من {{total}}"
+    "aiCoverage": "ترجمة بمساعدة الذكاء الاصطناعي: {{n}} من {{total}}",
+    "arabicPlus": "العربية + {{n}} لغات"
   },
   "list": {
     "resetSearch": "مسح البحث وعرض الكل"
